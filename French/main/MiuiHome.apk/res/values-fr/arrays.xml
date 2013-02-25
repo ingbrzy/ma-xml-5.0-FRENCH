@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Classique</item>
+        <item>Classique (sans rebond)</item>
+        <item>Fondu</item>
+        <item>En éventail</item>
+        <item>Page</item>
+        <item>En cascade</item>
+        <item>Rotation</item>
+        <item>Cube 3D</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>En fonction de l\'image</item>
+        <item>Centré</item>
+        <item>À gauche</item>
+        <item>À droit</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Standard</item>
+        <item>Classique</item>
+    </string-array>
+</resources>

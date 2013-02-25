@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_settings_check_frequency_entries">
+        <item>@string/account_setup_options_mail_check_frequency_never</item>
+        <item>@string/account_setup_options_mail_check_frequency_5min</item>
+        <item>@string/account_setup_options_mail_check_frequency_10min</item>
+        <item>@string/account_setup_options_mail_check_frequency_15min</item>
+        <item>@string/account_setup_options_mail_check_frequency_30min</item>
+        <item>@string/account_setup_options_mail_check_frequency_1hour</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values">
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_entries_push">
+        <item>@string/account_setup_options_mail_check_frequency_push</item>
+        <item>@string/account_setup_options_mail_check_frequency_never</item>
+        <item>@string/account_setup_options_mail_check_frequency_5min</item>
+        <item>@string/account_setup_options_mail_check_frequency_10min</item>
+        <item>@string/account_setup_options_mail_check_frequency_15min</item>
+        <item>@string/account_setup_options_mail_check_frequency_30min</item>
+        <item>@string/account_setup_options_mail_check_frequency_1hour</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values_push">
+        <item>-2</item>
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_entries">
+        <item>@string/account_setup_options_mail_window_auto</item>
+        <item>@string/account_setup_options_mail_window_1day</item>
+        <item>@string/account_setup_options_mail_window_3days</item>
+        <item>@string/account_setup_options_mail_window_1week</item>
+        <item>@string/account_setup_options_mail_window_2weeks</item>
+        <item>@string/account_setup_options_mail_window_1month</item>
+        <item>@string/account_setup_options_mail_window_all</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values">
+        <item>-2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_entries_with_default">
+        <item>@string/account_setup_options_mail_window_default</item>
+        <item>@string/account_setup_options_mail_window_auto</item>
+        <item>@string/account_setup_options_mail_window_1day</item>
+        <item>@string/account_setup_options_mail_window_3days</item>
+        <item>@string/account_setup_options_mail_window_1week</item>
+        <item>@string/account_setup_options_mail_window_2weeks</item>
+        <item>@string/account_setup_options_mail_window_1month</item>
+        <item>@string/account_setup_options_mail_window_all</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values_with_default">
+        <item>0</item>
+        <item>-2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="account_settings_vibrate_when_entries">
+        <item>@string/account_settings_vibrate_when_always</item>
+        <item>@string/account_settings_vibrate_when_silent</item>
+        <item>@string/account_settings_vibrate_when_never</item>
+    </string-array>
+    <string-array name="account_settings_vibrate_when_values">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_entries">
+        <item>@string/general_preference_auto_advance_newer</item>
+        <item>@string/general_preference_auto_advance_older</item>
+        <item>@string/general_preference_auto_advance_message_list</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_values">
+        <item>newer</item>
+        <item>older</item>
+        <item>list</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_entries">
+        <item>@string/general_preference_text_zoom_tiny</item>
+        <item>@string/general_preference_text_zoom_small</item>
+        <item>@string/general_preference_text_zoom_normal</item>
+        <item>@string/general_preference_text_zoom_large</item>
+        <item>@string/general_preference_text_zoom_huge</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_values">
+        <item>tiny</item>
+        <item>small</item>
+        <item>normal</item>
+        <item>large</item>
+        <item>huge</item>
+    </string-array>
+    <array name="mailbox_display_names">
+        <item>@string/mailbox_name_display_inbox</item>
+        <item></item>
+        <item></item>
+        <item>@string/mailbox_name_display_drafts</item>
+        <item>@string/mailbox_name_display_outbox</item>
+        <item>@string/mailbox_name_display_sent</item>
+        <item>@string/mailbox_name_display_trash</item>
+        <item>@string/mailbox_name_display_junk</item>
+    </array>
+    <array name="mailbox_display_icons">
+        <item>@drawable/ic_folder_inbox_holo_light</item>
+        <item></item>
+        <item></item>
+        <item>@drawable/ic_folder_drafts_holo_light</item>
+        <item>@drawable/ic_folder_outbox_holo_light</item>
+        <item>@drawable/ic_folder_sent_holo_light</item>
+        <item>@drawable/ic_menu_trash_holo_light</item>
+        <item>@drawable/ic_spam_normal_holo_light</item>
+    </array>
+    <array name="combined_view_account_colors">
+        <item>@color/combined_view_account_color_1</item>
+        <item>@color/combined_view_account_color_2</item>
+        <item>@color/combined_view_account_color_3</item>
+        <item>@color/combined_view_account_color_4</item>
+        <item>@color/combined_view_account_color_5</item>
+        <item>@color/combined_view_account_color_6</item>
+        <item>@color/combined_view_account_color_7</item>
+        <item>@color/combined_view_account_color_8</item>
+        <item>@color/combined_view_account_color_9</item>
+    </array>
+    <integer-array name="subject_lengths">
+        <item>50</item>
+        <item>25</item>
+    </integer-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Très petits caractères</item>
+        <item>Petits caractères</item>
+        <item>Caractères de taille normale</item>
+        <item>Grands caractères</item>
+        <item>Très grands caractères</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_size">
+        <item>0.8</item>
+        <item>0.9</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.5</item>
+    </string-array>
+</resources>

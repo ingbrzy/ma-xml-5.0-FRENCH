@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Gestionnaire de téléchargement</string>
+    <string name="permlab_downloadManager">Accéder au gestionnaire de téléchargement.</string>
+    <string name="permdesc_downloadManager">Permet à l\'application d\'accéder au gestionnaire de téléchargement et de l\'utiliser pour télécharger des fichiers. Les applications malveillantes peuvent s\'en servir pour entraver les téléchargements et accéder aux informations personnelles.</string>
+    <string name="permlab_downloadManagerAdvanced">Fonctions avancées du gestionnaire de téléchargement.</string>
+    <string name="permdesc_downloadManagerAdvanced">Permet à l\'application d\'accéder aux fonctions avancées du gestionnaire de téléchargements. Les applications malveillantes peuvent utiliser cette option pour perturber les téléchargements et accéder à des informations personnelles.</string>
+    <string name="permlab_downloadCompletedIntent">Envoyer des notifications de téléchargement.</string>
+    <string name="permdesc_downloadCompletedIntent">Permet à l\'application d\'envoyer des notifications concernant les téléchargements effectués. Les applications malveillantes peuvent s\'en servir pour tromper les autres applications de téléchargement de fichiers.</string>
+    <string name="permlab_seeAllExternal">Voir tous les téléchargements effectués sur la carte SD</string>
+    <string name="permdesc_seeAllExternal">Permet à l\'application d\'afficher tous les téléchargements effectués sur la carte SD, quelle que soit l\'application de téléchargement utilisée.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Réserver un espace dans le cache de téléchargement</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Autorise l\'application à télécharger des fichiers dans le cache de téléchargement et empêche leur effacement automatique par le gestionnaire de téléchargement.</string>
+    <string name="permlab_downloadWithoutNotification">Télécharger les fichiers sans m\'avertir</string>
+    <string name="permdesc_downloadWithoutNotification">Autorise l\'application à télécharger des fichiers via le gestionnaire de téléchargement sans afficher de notification à l\'utilisateur.</string>
+    <string name="permlab_accessAllDownloads">Accéder à tous les téléchargements système</string>
+    <string name="permdesc_accessAllDownloads">Permet à l\'application de connaître et de modifier tous les téléchargements initiés par les programmes du système.</string>
+    <string name="download_unknown_title">&lt;Sans_titre></string>
+    <string name="notification_filename_separator">, </string>
+    <string name="notification_filename_extras"> et %d autres</string>
+    <string name="notification_download_complete">Téléchargement terminé.</string>
+    <string name="notification_download_failed">Échec du téléchargement</string>
+    <string name="notification_need_wifi_for_size">La taille du téléchargement exige une connexion Wi-Fi</string>
+    <string name="notification_paused_in_background">Mis en pause en arrière-plan</string>
+    <string name="wifi_required_title">Téléchargement trop volumineux pour l\'opérateur</string>
+    <string name="wifi_required_body" formatted="false">Une connexion Wi-Fi est requise pour télécharger %s. 
+Cliquez sur %s pour lancer le téléchargement la prochaine fois que vous vous connectez à un réseau Wi-Fi.</string>
+    <string name="wifi_recommended_title">Ajouter à la file d\'attente des téléchargements ?</string>
+    <string name="wifi_recommended_body">Ce téléchargement risque de décharger votre batterie, de trop solliciter votre connexion Internet et de vous être facturé par votre opérateur, en fonction de votre forfait.
+Cliquez sur \"File d\'attente\" pour lancer le téléchargement lors de votre prochaine connexion à un réseau Wi-Fi.
+Vous pourrez modifier ce choix dans les réglages de l\'application.</string>
+    <string name="button_queue_for_wifi">File d\'attente</string>
+    <string name="button_cancel_download">Annuler</string>
+    <string name="button_start_now">Commencer</string>
+    <string name="download_percent">%d%%</string>
+    <string name="dialog_insufficient_space_on_external">Manque d\'espace libre sur la mémoire externe</string>
+    <string name="dialog_insufficient_space_on_cache">Manque d\'espace libre sur la mémoire interne</string>
+    <string name="auto_restart_under_wifi">Le téléchargement sera automatiquement démarré dès la connexion à un réseau Wi-Fi.</string>
+</resources>

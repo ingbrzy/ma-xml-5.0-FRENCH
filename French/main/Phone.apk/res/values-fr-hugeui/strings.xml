@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contacts_icon_label_miui">Contact</string>
+    <string name="onscreen_dialer_miui">Clavier</string>
+    <string name="onscreen_merge_calls_text_miui">Fusionner</string>
+</resources>

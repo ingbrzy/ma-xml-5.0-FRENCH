@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boîte à outils SIM</string>
+    <string name="menu_end_session">Fermer la session</string>
+    <string name="help">Aide</string>
+    <string name="menu_back">Retour</string>
+    <string name="service_name">Nom du service</string>
+    <string name="stk_no_service">Aucun service disponible</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="button_yes">Oui</string>
+    <string name="button_no">Non</string>
+    <string name="alphabet">Alphabets</string>
+    <string name="digits">Chiffres (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Appel en cours...</string>
+    <string name="stk_app_state">État de l\'application</string>
+    <string name="enable_app">Activé</string>
+    <string name="disable_app">Désactivé</string>
+    <string name="stk_dialog_title">Outils SIM</string>
+    <string name="default_open_channel_msg">Ouvrir le canal ?</string>
+    <string name="default_send_data_msg">Envoi des données</string>
+    <string name="default_receive_data_msg">Réception des données</string>
+    <string name="default_close_channel_msg">Canal fermé</string>
+    <string name="stk_dialog_accept">OUI</string>
+    <string name="stk_dialog_reject">NON</string>
+    <string name="app_name2">Boîte à outils SIM2</string>
+    <string name="htc_set_up_call_default_title">Composer</string>
+    <string name="need_uim_to_launch">Veuillez insérer la SIM pour lancer les Services SIM</string>
+    <string name="not_ready">Services SIM non prêts ou non pris en charge</string>
+    <string name="play_tone">PLAY TONE</string>
+    <string name="default_setup_call_msg">Appel en cours de paramétrage</string>
+</resources>

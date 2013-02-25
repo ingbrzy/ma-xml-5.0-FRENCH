@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="google">
+    <item>Google</item>
+    <item>google.com</item>
+    <item>http://www.google.com/favicon.ico</item>
+    <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="pref_content_plugins_choices">
+    <item>Toujours activés</item>
+    <item>À la demande</item>
+    <item>Désactivés</item>
+  </string-array>
+  <string-array name="pref_homepage_choices">
+    <item>Page en cours</item>
+    <item>Acceuil MIUI</item>
+    <item>Page blanche</item>
+    <item>Page par défaut</item>
+    <item>Sites les plus visités</item>
+    <item>Autre</item>
+  </string-array>
+  <string-array name="pref_text_size_choices">
+    <item>Minuscule</item>
+    <item>Petit</item>
+    <item>Standard</item>
+    <item>Grand</item>
+    <item>Énorme</item>
+  </string-array>
+  <string-array name="pref_default_zoom_choices">
+    <item>Lointain</item>
+    <item>Moyen</item>
+    <item>Rapproché</item>
+  </string-array>
+  <string-array name="pref_data_preload_choices">
+    <item>Jamais</item>
+    <item>Uniquement sur une connexion Wi-Fi</item>
+    <item>Toujours</item>
+  </string-array>
+  <string-array name="pref_ua_choices">
+    <item>Android</item>
+    <item>Ordinateur de bureau</item>
+    <item>iPhone</item>
+    <item>iPad</item>
+    <item>Froyo-N1</item>
+    <item>Honeycomb-Xoom</item>
+  </string-array>
+  <string-array name="pref_volume_key_choices">
+    <item>Page haut/bas</item>
+    <item>Changer d\'onglet</item>
+  </string-array>
+  <string-array name="pref_fling_on_border_choices">
+    <item>Page avant/arrière</item>
+    <item>Changer d\'onglet</item>
+  </string-array>
+</resources>

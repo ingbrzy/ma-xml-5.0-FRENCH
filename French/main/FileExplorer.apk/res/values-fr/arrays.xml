@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="task_status">
+        <item>En cours</item>
+        <item>En attente</item>
+        <item>Annulé</item>
+        <item>Échoué</item>
+        <item>Terminé</item>
+        <item>En pause</item>
+    </string-array>
+</resources>

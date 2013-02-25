@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_filters">
+        <item>Tous les téléchargements</item>
+        <item>Thèmes</item>
+        <item>Applications</item>
+        <item>Navigateur</item>
+        <item>Musique</item>
+        <item>Autres</item>
+    </string-array>
+ </resources>
