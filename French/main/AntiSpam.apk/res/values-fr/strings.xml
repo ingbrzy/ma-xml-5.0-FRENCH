@@ -31,6 +31,7 @@
   <string name="anti_stranger_title">Mode anti-étranger</string>
   <string name="app_name">Protection</string>
   <string name="black_white_list_tab_title">Listes</string>
+  <string name="blacklist_tab_title">Black list</string>
   <string name="call_log_tab_title">Appels</string>
   <string name="calllog">Journal d\'appel</string>
   <string name="cancel_button">Annuler</string>
@@ -108,9 +109,11 @@
   <string name="fw_time_settings">Horaire de blocage</string>
   <string name="fw_whitelist">Liste blanche</string>
   <string name="fw_whitelist_hint">Les membres de la liste blanche ne seront pas bloqués</string>
+  <string name="log_count">(%d)</string>
   <string formatted="false" name="member_firewall_log">Bloqué : Numéro %d détails %d</string>
   <string name="menu_edit">Modifier</string>
   <string name="mms_log_tab_title">Messages</string>
+  <string name="new_bw_list_button">Add contacts</string>
   <string name="no">Annuler</string>
   <string name="number_add_hint">Ajouter le numéro à la liste noire</string>
   <string name="opt_accept_whitelist">Accepter si dans liste blanche</string>
@@ -129,4 +132,5 @@
   <string name="save_button">Enregistrer</string>
   <string name="show_firewall_notification">Notifications du pare-feu</string>
   <string name="show_notification">Afficher les notifications</string>
+  <string name="whitelist_tab_title">White list</string>
 </resources>

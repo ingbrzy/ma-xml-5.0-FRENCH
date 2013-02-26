@@ -11,10 +11,13 @@
   <string name="call_record">Enregistrer l\'appel (%d)</string>
   <string name="call_record_or">ou</string>
   <string name="default_record_name">Enregistrement sans titre</string>
+  <string name="delete">Supprimer</string>
   <string name="delete_dialog_message">Voulez-vous supprimer l\'enregistrement en cours ?</string>
-  <string name="dialog_delete">Supprimer</string>
+  <string name="deleting_message">Suppression en cours...</string>
+  <string name="dialog_content_storage_full">En raison du manque d\'espace de stockage, l\'enregistrement a été contraint d\'arrêter. Supprimez les fichiers inutiles par le biais de l\'explorateur de fichiers, voulez-vous l\'ouvrir maintenant ?</string>
   <string name="dialog_play">Lire</string>
   <string name="dialog_send">Envoyer</string>
+  <string name="dialog_title_storage_full">Storage Full</string>
   <string name="dialog_warning">Attention</string>
   <string name="error_app_internal">Erreur interne de l\'application</string>
   <string name="error_mediadb_new_record">Impossible d\'enregistrer les fichiers audio enregistrés</string>
@@ -22,7 +25,9 @@
   <string name="fm_record">Enregistrement FM (%d)</string>
   <string formatted="false" name="hour">%d heure(s)</string>
   <string name="insert_sd_card">Carte SD requise</string>
-  <string name="loading_duration">Calcul de la durée...</string>
+  <string name="low_battery_error">Battery has less than 5% left, to ensure that the recording is not lost, recording has been stopped and saved.</string>
+  <string name="low_battery_message_title">Batterie faible</string>
+  <string name="low_battery_warning">Unexpected shutdown may result in lost recording, it is recommended to record only when battery is fully charged.</string>
   <string name="mark_now">(En cours)</string>
   <string name="max_length_reached">Durée maximale atteinte</string>
   <string name="menu_setting">Paramètres</string>
@@ -44,13 +49,22 @@
   <string name="pref_title_enable_sound_effect">Activer les effets sonores</string>
   <string name="pref_title_record_type">Type de fichier d\'enregistrement</string>
   <string name="preferences_title">Paramètres</string>
-  <string name="preparing_playback">Chargement de l\'enregistrement, veuillez patienter.</string>
   <string name="record_list">Liste des enregistrements</string>
+  <string name="record_loading">Loading recording, please wait.</string>
+  <string name="record_picker_title">Choose recording</string>
   <string name="record_saving">Sauvegarde de l\'enregistrement en cours, merci de patienter !</string>
   <string name="recording">Enregistrement...</string>
   <string name="recording_stopped">L\'enregistrement a cessé</string>
+  <string name="rename">Renommer</string>
+  <string name="rename_dialog_title">Rename for this recording</string>
+  <string name="rename_duplicate">Duplicate recording name, please re-enter:</string>
+  <string name="rename_illegal">Illegal recording name, please re-enter:</string>
   <string name="sd_card_not_available">La carte SD n\'est pas disponible</string>
   <string formatted="false" name="second">%d secondes</string>
+  <string name="send_to">Envoyer à</string>
+  <string name="status_bar_anti_disturb">Phone has been muted, adjust volume to resume.</string>
+  <string name="status_bar_back">Click to return to Recorder</string>
+  <string name="status_bar_recording">Enregistrement...</string>
   <string name="storage_is_full">Il n\'y a plus d\'espace libre</string>
   <string formatted="false" name="timer_format">%02d:%02d</string>
   <string name="unknown_caller">Appelant inconnu</string>

@@ -13,3 +13,5 @@ Based on a work at http://miui.com and http://miuiandroid.com
 MIUI Translation: Abdess, Matzounet and other French users on crowdin
 
 MIUI Correction: ingbrzy
+
+Translation: 85%

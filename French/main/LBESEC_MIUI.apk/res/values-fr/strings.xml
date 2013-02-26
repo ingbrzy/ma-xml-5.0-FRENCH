@@ -148,7 +148,6 @@
   <string name="HIPS_Perm_SendSMS_SMSC_Default">Centre SMS par défaut</string>
   <string name="HIPS_Perm_SendSMS_Text">envoyer un SMS à %1$s</string>
   <string name="HIPS_Perm_SilenceRinger">Couper la sonnerie</string>
-  <string name="HIPS_Perm_Title">permissions</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">Accéder à Internet en Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s applications ont la permission d\'accéder à Internet</string>

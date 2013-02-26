@@ -4,6 +4,7 @@
   <string name="app_label">Téléchargements</string>
   <string name="button_sort_by_date">Trier par date</string>
   <string name="button_sort_by_size">Trier par taille</string>
+  <string name="cancel_download_notice">Dismiss download notice</string>
   <string name="cancel_running_download">Annuler</string>
   <string name="confirm_delete_downloads_message">%d téléchargements sélectionnés seront supprimés !</string>
   <string name="confirm_delete_the_download_item_message">Veuillez confirmer la suppression du téléchargement</string>
@@ -22,6 +23,7 @@
   <string name="dialog_queued_body">Ce fichier est mis en attente pour un futur téléchargement.</string>
   <string name="dialog_title_not_available">Échec du téléchargement</string>
   <string name="dialog_title_queued_body">Fichier non disponible</string>
+  <string name="disable_download_only_in_wifi_title">Turning off “Download via Wi-Fi only”</string>
   <string name="download_complete">Téléchargé</string>
   <string name="download_error">Échoué</string>
   <string name="download_error_insufficient_space">Espace insuffisant</string>

@@ -31,6 +31,8 @@
   <string name="batch_connect_control">Gérer les connexions des applications</string>
   <string name="cancel_txt">Annuler</string>
   <string name="cannot_find_sms_cmd">Impossible de trouver la commande SMS</string>
+  <string name="carrier_cmcc">%1$s, %2$s, %3$s, %4$s</string>
+  <string name="carrier_none_cmcc">%1$s, %2$s, %3$s</string>
   <string name="carrier_query_number_brand">Marque de service</string>
   <string name="carrier_query_number_carrier">Opérateur</string>
   <string name="carrier_query_number_location">Attribution</string>
@@ -127,17 +129,15 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="sync_traffic_no_cmd_detail">Soumettez votre Pays, ville, indicatif (+33) et opérateur sur le forum suivant: http://www.miui.com/forum-172-1.html. Merci.</string>
   <string name="sync_traffic_no_cmd_title">Aucun modèle de SMS</string>
   <string name="sync_traffic_success">Les données de l\'opérateur on été synchronisées, le trafic a été ajusté avec succès</string>
-  <string name="this_month">Mois</string>
-  <string name="today">Aujourd\'hui</string>
+  <string name="text_done">Done</string>
+  <string name="text_save">Save</string>
   <string name="traffic_none">N/A</string>
-  <string name="traffic_package_widget_name">Moniteur (1x4)</string>
   <string name="traffic_remain">Restant</string>
   <string name="traffic_settings_error">Il y a une erreur dans vos paramètres de trafic mensuel. Selon vos paramètres et votre opérateur, votre trafic mensuel est de: %1$s et le trafic restant est de: %2$s.</string>
   <string name="traffic_suffix">Circulation</string>
   <string name="traffic_suffix_with_uint">Trafic (Mo)</string>
   <string name="traffic_total">Total: %s</string>
   <string name="traffic_used_status">Utilisé: %s</string>
-  <string name="traffic_widget_name">Moniteur (1x2)</string>
   <string name="unknown">Inconnu</string>
   <string name="unknown_free_traffic_hint">Si vous ne connaissez pas votre allocation de donnée, merci de vous renseigner auprès de votre opérateur</string>
   <string name="unknown_free_traffic_text">Je ne connais pas mon allocation de donnée ?</string>
@@ -156,8 +156,6 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="widget_color_exceed_warn">\#F9882C</string>
   <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
   <string name="widget_color_used_all">\#C00203</string>
-  <string name="widget_traffic_total">Paquet: %s</string>
-  <string name="widget_traffic_used_status">Utilisé: %s</string>
   <string name="wifi_traffic">Wi-Fi: %s</string>
   <string name="wifi_type">Wi-Fi</string>
 </resources>

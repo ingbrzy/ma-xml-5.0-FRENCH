@@ -603,6 +603,7 @@ L\'utilisation des données est mesurée par votre téléphone mais votre opéra
   <string name="debug_log">Journal de débogage</string>
   <string name="debug_monitoring_category">Contrôle</string>
   <string name="debug_ui_category">Interface utilisateur</string>
+  <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Choisissez la méthode d\'entrée par défaut</string>
   <string name="default_usb_mode">Type de connexion USB par défaut</string>
   <string name="delete">Supprimer</string>

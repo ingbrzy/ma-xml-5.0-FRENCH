@@ -14,8 +14,6 @@
   <string name="apply_update_dialog_cancel_button">Annuler</string>
   <string name="apply_update_dialog_update_button">Mise à jour</string>
   <string name="apply_update_fail">La mise à jour du système a échoué</string>
-  <string name="apply_update_guide">Mise à jour en arrière-plan, cela n\'affecte pas l\'utilisation normale</string>
-  <string name="apply_update_refuse">La mise à jour du système est en cours, veuillez re-sélectionner et installer plus tard</string>
   <string name="apply_upload_info_message">Cliquer sur mettre à jour maintenant redémarrera automatiquement le téléphone pour appliquer la mise à jour</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
   <string name="applying_rom_message">Application de la mise à jour</string>
@@ -23,6 +21,7 @@
   <string name="best_update">2. Meilleure mise à jour</string>
   <string name="boot_recovery">Redémarrer dans le Recovery</string>
   <string name="cancel_download_buton_text">Annuler</string>
+  <string name="check_update">Rechercher des mises à jour</string>
   <string name="check_update_policy">Vérifier les mises à jour</string>
   <string name="check_update_when_wifi_available">Uniquement avec une connexion Wi-Fi</string>
   <string name="checking_for_updates">Vérification des mises à jour...</string>
@@ -40,10 +39,9 @@
   <string name="download_whole_rom">Télécharger la ROM complète (%s)</string>
   <string name="downloading_description">Téléchargement...</string>
   <string name="emegency_build">Compilation:</string>
-  <string name="emegency_update_helper">Un redémarrage sera nécessaire pour appliquer la mise à jour</string>
-  <string name="emegency_update_size">Taille : %s</string>
   <string name="exception_while_downloading">Erreur lors du téléchargement de la mise à jour</string>
   <string name="expect">4. Les attentes</string>
+  <string name="experimental_build">Experimental Build</string>
   <string name="file_not_found_error_message">Les fichiers demandés sont introuvables sur le serveur</string>
   <string name="finish">Terminer</string>
   <string name="finish_download">Téléchargement terminé</string>
@@ -54,13 +52,13 @@
   <string name="install_rom_from_sd">Sélectionner un pack d\'installation</string>
   <string name="install_sina">Installer l\'application Sina</string>
   <string name="install_whole_rom">Le téléchargement complet de la ROM est recommandé</string>
+  <string name="internal_build">Internal Build</string>
   <string name="kernel_upgrade_link">Confirmer</string>
   <string name="kernel_upgrade_version">Confirmer</string>
   <string name="loading">Chargement</string>
   <string name="md5_check_cancelled">Vérification MD5 annulée</string>
   <string name="mione_update_fail_description">Veuillez relancez la mise à jour</string>
   <string name="mione_update_fail_title">La mise à jour a échoué</string>
-  <string name="mione_update_success_description">Changer de système</string>
   <string name="mione_update_success_title">Mise à jour terminée</string>
   <string name="monthly_build">Compilation mensuelle</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Pas assez d\'espace sur la carte SD pour déplacer les %dMB de données séléctionnés</string>
@@ -104,6 +102,7 @@
   <string name="share_update">Partager les informations de mise à jour système</string>
   <string name="share_update_content_sign">J\'ai mis à jour MIUI vers %1$s ! Mon rang d\'utilisateur de mise à jour est %2$s. Pour le changelog détaillé, veuillez visiter %3$s</string>
   <string name="share_update_content_unsign">J\'ai mis à jour MIUI vers %1$s ! Pour le changelog détaillé, consultez %2$s</string>
+  <string name="sign_in_add_account">Veuillez activer votre compte Xiaomi</string>
   <string name="sign_in_add_account_helper">Votre téléphone n\'a pas de compte MIUI actif, ajoutez-en un pour recevoir des points utilisateur</string>
   <string name="sign_in_info">Votre classement de mise à jour est %1$s, %2$s membres ont signé pour MIUI %3$s</string>
   <string name="sign_in_info_rank_more">Votre classement de mise à jour est après %1$s sur %2$s membres qui ont signé pour MIUI %3$s</string>
@@ -119,6 +118,7 @@
   <string name="system_backup_error_message">La sauvegarde MIUI n\'a pas été trouvée, veuillez sauvegarder manuellement</string>
   <string name="system_backup_ok_text">Sauvegarde</string>
   <string name="sytemt_backup_helper">La mise à jour système n\'effacera pas les données utilisateur. Toutefois, il est recommandé de faire une sauvegarde de vos données utilisateur avant la mise à jour</string>
+  <string name="top_secret_build">Secret build</string>
   <string name="update_comment_hint">(optionnel)</string>
   <string name="update_comment_title">Vos commentaires</string>
   <string name="update_feedback">Mettre à jour les avis</string>
@@ -136,7 +136,6 @@
   <string name="upgrade_kernel_msg">La version du noyau actuel ne correspond pas à la ROM MIUI. Vous avez besoin de mettre à jour le noyau manuellement. Veuillez vous référer au tutoriel de mise à niveau:</string>
   <string name="verify_and_apply_dialog_message">Vérification du checksum MD5...</string>
   <string name="verify_and_apply_dialog_title">Vérifier l\'intégrité des fichiers</string>
-  <string name="view_details">Voir les détails</string>
   <string name="view_install_log">Afficher le journal d\'erreur</string>
   <string name="view_upgrade_tutorial">Visionner le tutoriel</string>
   <string name="weekly_build">Compilation hebdomadaire</string>
