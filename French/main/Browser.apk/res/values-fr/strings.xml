@@ -263,13 +263,9 @@
   <string name="pref_content_search_engine">Définir le moteur de recherche</string>
   <string name="pref_content_search_engine_summary">Choisir un moteur de recherche</string>
   <string name="pref_content_title">Contenu de la page</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Préchargement du résultat de la recherche</string>
   <string name="pref_data_preload_summary">Permettre au navigateur de précharger les résultats de recherche de haut niveau de confiance en arrière-plan</string>
   <string name="pref_data_preload_title">Préchargement du résultat de la recherche</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_data_title">Gestion de la bande passante</string>
   <string name="pref_default_text_encoding">Encodage du texte</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
@@ -321,15 +317,10 @@
   <string name="pref_lab_quick_controls">Contrôles rapides</string>
   <string name="pref_lab_quick_controls_summary">Faire glisser le pouce sur le bord gauche ou droit pour ouvrir les contrôles rapides et cacher les applications et la barre URL</string>
   <string name="pref_lab_title">Labs</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">Préchargement de la page web</string>
   <string name="pref_link_prefetch_summary">Autoriser le navigateur de précharger les pages Web en arrière-plan</string>
   <string name="pref_link_prefetch_title">Préchargement de la page web</string>
-  <string name="pref_link_prefetch_value_always">ALWAYS</string>
-  <string name="pref_link_prefetch_value_never">NEVER</string>
-  <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_min_font_size">Taille de police minimale</string>
-  <string formatted="false" name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Vider le cache</string>
   <string name="pref_privacy_clear_cache_dlg">Supprimer les bases de données et le contenu mis en cache localement ?</string>
   <string name="pref_privacy_clear_cache_summary">Supprimer les bases de données et le contenu mis en cache localement</string>
@@ -368,7 +359,6 @@
   <string name="pref_set_homepage_to">Mettre sur</string>
   <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
   <string name="pref_ua_mione_entry">Mi-One</string>
-  <string name="pref_ua_mione_value">6</string>
   <string name="pref_ua_string">Choisir l\'User agent</string>
   <string name="pref_ua_title">Gestion de l\'User agent</string>
   <string name="pref_use_instant_search">Recherche instantanée Google</string>
