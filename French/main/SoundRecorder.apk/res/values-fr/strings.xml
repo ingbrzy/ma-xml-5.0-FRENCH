@@ -52,7 +52,7 @@
   <string name="preferences_title">Paramètres</string>
   <string name="record_list">Liste des enregistrements</string>
   <string name="record_loading"> Démarrage de l\'enregistrement, veuillez patienter.</string>
-  <string name="record_picker_title"> Choisissez l'enregistrement</string>
+  <string name="record_picker_title"> Choisissez l\'enregistrement</string>
   <string name="record_saving">Sauvegarde de l\'enregistrement en cours, merci de patienter !</string>
   <string name="recording">Enregistrement...</string>
   <string name="recording_stopped">L\'enregistrement a cessé</string>
