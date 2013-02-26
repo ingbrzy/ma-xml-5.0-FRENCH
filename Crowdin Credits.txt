@@ -1,8 +1,8 @@
 Crowdin Translation Credits
 
-Name:					High Score:
+Name:					          High Score:
 
-1.Ismaïl Derraz            810
+1.Ismail Derraz            810
 2.adiboo67                 439
 3.gerardlso                273
 4.flippy12                 252
