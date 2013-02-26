@@ -26,15 +26,15 @@
   <string name="accessibility_script_injection_button_allow">Autoriser</string>
   <string name="accessibility_script_injection_button_disallow">Ne pas autoriser</string>
   <string name="accessibility_script_injection_disallowed">Non autorisé</string>
-  <string name="accessibility_script_injection_security_warning_summary">Voulez-vous que les applications installent des scripts de Google pour rendre leur contenu Web plus accessible ?</string>
+  <string name="accessibility_script_injection_security_warning_summary">Voulez-vous que les applications installent des scripts de Google pour rendre leur contenu Web plus accessible ?</string>
   <string name="accessibility_script_injection_title">Améliorer l\'accessibilité Web</string>
   <string name="accessibility_service_default_description">Aucune description fournie</string>
   <string name="accessibility_service_disable_warning_summary">Si vous appuyez sur \"OK\", %1$s sera arrêté.</string>
-  <string name="accessibility_service_disable_warning_title">Arrêter %1$s ?</string>
-  <string name="accessibility_service_no_apps_message">"TalkBack fournit des commentaires audio aux personnes malvoyantes. Voulez-vous l\'installer gratuitement depuis l\'Android Market ?"</string>
-  <string name="accessibility_service_no_apps_title">"Vous avez besoin d\'un lecteur d\'écran ?"</string>
+  <string name="accessibility_service_disable_warning_title">Arrêter %1$s ?</string>
+  <string name="accessibility_service_no_apps_message">"TalkBack fournit des commentaires audio aux personnes malvoyantes. Voulez-vous l\'installer gratuitement depuis l\'Android Market ?"</string>
+  <string name="accessibility_service_no_apps_title">"Vous avez besoin d\'un lecteur d\'écran ?"</string>
   <string name="accessibility_service_security_warning_summary">"%1$s peut recueillir la totalité du texte que vous saisissez, à l\'exception des mots de passe. Ceci comprend les données personnelles, telles que le numéro de votre carte de paiement, mais également les données sur vos interactions avec le téléphone."</string>
-  <string name="accessibility_service_security_warning_title">Utiliser %1$s ?</string>
+  <string name="accessibility_service_security_warning_title">Utiliser %1$s ?</string>
   <string name="accessibility_service_state_off">Off</string>
   <string name="accessibility_service_state_on">On</string>
   <string name="accessibility_services_title">Services</string>
@@ -53,10 +53,10 @@
   <string name="active_input_method_subtypes">Modes de saisie actifs</string>
   <string name="activity_picker_label">Sélectionner une activité</string>
   <string name="adb_warning_message">Le débogage USB est conçu uniquement pour le développement. Utilisez-le pour copier des données entre votre ordinateur et votre appareil, installer des applications sur votre appareil sans notification et lire les données de journal.</string>
-  <string name="adb_warning_title">Autoriser le débogage USB ?</string>
+  <string name="adb_warning_title">Autoriser le débogage USB ?</string>
   <string name="add_account_label">Ajouter un compte</string>
   <string name="add_device_admin">Activer</string>
-  <string name="add_device_admin_msg">"Activer l\'administrateur de l\'appareil ?"</string>
+  <string name="add_device_admin_msg">"Activer l\'administrateur de l\'appareil ?"</string>
   <string name="additional_system_update_settings_list_item_title">Mises à jour supplémentaires du système</string>
   <string name="advanced_settings">Paramètres avancés</string>
   <string name="advanced_settings_summary">"Activer d\'autres paramètres"</string>
@@ -64,7 +64,7 @@
   <string name="alarm_volume_title">Alarme</string>
   <string name="all_volume_title">Volume</string>
   <string name="allow_bind_app_widget_activity_allow_bind">"Une fois le widget créé, %1$s peut accéder à toutes les données qu\'il affiche."</string>
-  <string name="allow_bind_app_widget_activity_allow_bind_title">"Créer un widget et autoriser l\'accès ?"</string>
+  <string name="allow_bind_app_widget_activity_allow_bind_title">"Créer un widget et autoriser l\'accès ?"</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Toujours autoriser %1$s à créer des widgets et accéder à leurs données</string>
   <string name="allow_mock_location">Positions fictives</string>
   <string name="allow_mock_location_summary">Autoriser les positions fictives</string>
@@ -73,10 +73,10 @@
   <string name="android_beam_explained">\"Lorsque cette fonctionnalité est activée, vous pouvez partager le contenu d\'une application avec un appareil compatible NFC en rapprochant les appareils. Vous pouvez, par exemple, partager des pages de navigateur, des vidéos YouTube, des contacts et plus encore.
 
 Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\'appuyer sur votre écran. L\'application détermine le contenu à transférer.\"</string>
-  <string name="android_beam_label">Android Beam</string>
+  <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Désactivé</string>
   <string name="android_beam_on_summary">"Prêt à partager le contenu de l\'application via NFC"</string>
-  <string name="android_beam_settings_title">Android Beam</string>
+  <string name="android_beam_settings_title">Android Beam</string>
   <string name="animator_duration_scale_title">Échelle durée animation</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">"Type d\'authentification"</string>
@@ -101,18 +101,18 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="apn_protocol">"Protocole de l\'APN"</string>
   <string name="apn_roaming_protocol">Protocole APN en itinérance</string>
   <string name="apn_save">Enregistrer les APN ?</string>
-  <string name="apn_save_msg">Les paramètres de l\'APN ont été modifiés, voulez vous les enregistrer ?</string>
+  <string name="apn_save_msg">Les paramètres de l\'APN ont été modifiés, voulez-vous les enregistrer ?</string>
   <string name="apn_server">Serveur</string>
   <string name="apn_settings">APN</string>
   <string name="apn_type">"Type d\'APN"</string>
   <string name="apn_user">"Nom d\'utilisateur"</string>
   <string name="app_disable_dlg_text">"Si vous désactivez une application intégrée, cela peut provoquer des dysfonctionnements d\'autres applications."</string>
-  <string name="app_disable_dlg_title">Désactiver appli intégrée ?</string>
+  <string name="app_disable_dlg_title">Désactiver appli intégrée ?</string>
   <string name="app_disable_notifications_dlg_text">Si vous désactivez les notifications de cette application, vous risquez de manquer des alertes et des mises à jour importantes.</string>
-  <string name="app_disable_notifications_dlg_title">Désactiver les notifications ?</string>
+  <string name="app_disable_notifications_dlg_title">Désactiver les notifications ?</string>
   <string name="app_factory_reset">Désinstaller les mises à jour</string>
   <string name="app_factory_reset_dlg_text">Toutes les mises à jour de cette application système Android vont être désinstallées.</string>
-  <string name="app_factory_reset_dlg_title">Désinstaller les mises à jour ?</string>
+  <string name="app_factory_reset_dlg_title">Désinstaller les mises à jour ?</string>
   <string name="app_forward_locked">"L\'application est protégée contre la copie."</string>
   <string name="app_install_location_summary">"Modifier l\'emplacement d\'installation par défaut pour les nouvelles applications"</string>
   <string name="app_install_location_title">"Emplacement d\'installation souhaité"</string>
@@ -148,7 +148,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="auto_restore_title">Restaurer automatiquement</string>
   <string name="auto_startup_application_manage">Contrôle d\'application</string>
   <string name="auto_startup_count">Autoriser %d applications de démarrer automatiquement</string>
-  <string name="auto_startup_dialog_msg">"MIUI autorisera à l\'application de démarrer automatiquement sans demander. Cela peut conduire à une consommation d\'énergie/de données. Autoriser le démarrage automatique?"</string>
+  <string name="auto_startup_dialog_msg">"MIUI autorisera à l\'application de démarrer automatiquement sans demander. Cela peut conduire à une consommation d\'énergie/de données. Autoriser le démarrage automatique ?»</string>
   <string name="automatic_brightness">Ajuster automatiquement la luminosité</string>
   <string name="available_size">%s disponible</string>
   <string name="awake">"Durée de fonctionnement de l\'appareil"</string>
@@ -156,14 +156,14 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="back_long_press_timeout">Délai en secondes</string>
   <string name="background_data">Données en arrière-plan</string>
   <string name="background_data_dialog_message">"La désactivation des données en arrière-plan économise la batterie et réduit l\'utilisation des données. Certaines applications peuvent continuer d\'utiliser la connexion Internet en arrière-plan."</string>
-  <string name="background_data_dialog_title">Dés. données arr.-plan ?</string>
+  <string name="background_data_dialog_title">Dés. données arr.-plan ?</string>
   <string name="background_data_summary">Synchronisation, envoi et réception de données à tout moment</string>
   <string name="background_process_stop_description">"Ceci est un ancien processus d\'application qui peut toujours être exécuté en cas de besoin. Il n\'existe généralement aucune raison de l\'arrêter."</string>
   <string name="backup_configure_account_default_summary">Aucun compte ne stocke actuellement des données sauvegardées.</string>
   <string name="backup_configure_account_title">Compte de sauvegarde</string>
   <string name="backup_data_summary">"Sauvegarder les données d\'applications, les mots de passe Wi-Fi et d\'autres paramètres sur les serveurs Google"</string>
   <string name="backup_data_title">Sauvegarder mes données</string>
-  <string name="backup_erase_dialog_message">"Arrêter de sauvegarder vos mots de passe Wi-Fi, vos favoris, ainsi que d\'autres paramètres et données d\'applications, et en effacer toutes les copies des serveurs Google ?"</string>
+  <string name="backup_erase_dialog_message">"Arrêter de sauvegarder vos mots de passe Wi-Fi, vos favoris, ainsi que d\'autres paramètres et données d\'applications, et en effacer toutes les copies des serveurs Google ?"</string>
   <string name="backup_lock_settings_picker_title">Verrouillage secondaire</string>
   <string name="backup_pw_cancel_button_text">Annuler</string>
   <string name="backup_pw_set_button_text">Définir le mot de passe de sauvegarde</string>
@@ -187,13 +187,13 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="battery_desc_standby">Batterie utilisée lorsque le téléphone est inactif</string>
   <string name="battery_desc_voice">Batterie utilisée par les appels vocaux</string>
   <string name="battery_desc_wifi">Batterie utilisée par le Wi-Fi</string>
-  <string name="battery_history_days">%1$d j %2$d h %3$d min %4$d s</string>
-  <string name="battery_history_hours">%1$d h %2$d min %3$d s</string>
-  <string name="battery_history_minutes">%1$d min %2$d s</string>
-  <string name="battery_history_seconds">%1$d s</string>
+  <string name="battery_history_days">%1$d j %2$d h %3$d min %4$d s</string>
+  <string name="battery_history_hours">%1$d h %2$d min %3$d s</string>
+  <string name="battery_history_minutes">%1$d min %2$d s</string>
+  <string name="battery_history_seconds">%1$d s</string>
   <string name="battery_indicator_style">Style de l\'indicateur de batterie</string>
-  <string name="battery_info_awake_battery">Temps de veille sur batterie :</string>
-  <string name="battery_info_awake_plugged">Temps en activité lors du rechargement :</string>
+  <string name="battery_info_awake_battery">Temps de veille sur batterie :</string>
+  <string name="battery_info_awake_plugged">Temps en activité lors du rechargement :</string>
   <string name="battery_info_health_cold">Peu populaire</string>
   <string name="battery_info_health_dead">Vide</string>
   <string name="battery_info_health_good">Bon</string>
@@ -203,28 +203,28 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="battery_info_health_unknown">Inconnu</string>
   <string name="battery_info_health_unspecified_failure">Erreur inconnue</string>
   <string name="battery_info_label">Informations sur la batterie</string>
-  <string name="battery_info_level_label">Niveau de la batterie :</string>
+  <string name="battery_info_level_label">Niveau de la batterie :</string>
   <string name="battery_info_power_ac">CA</string>
-  <string name="battery_info_power_ac_usb">CA + USB</string>
-  <string name="battery_info_power_label">Prise électrique :</string>
+  <string name="battery_info_power_ac_usb">CA + USB</string>
+  <string name="battery_info_power_label">Prise électrique :</string>
   <string name="battery_info_power_unknown">Inconnu</string>
   <string name="battery_info_power_unplugged">Débranché</string>
   <string name="battery_info_power_usb">USB</string>
-  <string name="battery_info_scale_label">Batterie :</string>
-  <string name="battery_info_screen_on">Écran activé :</string>
+  <string name="battery_info_scale_label">Batterie :</string>
+  <string name="battery_info_screen_on">Écran activé :</string>
   <string name="battery_info_status_charging">Batterie en charge</string>
   <string name="battery_info_status_charging_ac">(CA)</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
   <string name="battery_info_status_discharging">"N\'est pas en charge"</string>
   <string name="battery_info_status_full">Chargée</string>
-  <string name="battery_info_status_label">État de la batterie :</string>
+  <string name="battery_info_status_label">État de la batterie :</string>
   <string name="battery_info_status_not_charging">Débranchée</string>
   <string name="battery_info_status_unknown">Inconnu</string>
-  <string name="battery_info_technology_label">Technologie de la batterie :</string>
-  <string name="battery_info_temperature_label">Température de la batterie :</string>
-  <string name="battery_info_temperature_units">° C</string>
-  <string name="battery_info_uptime">Temps depuis le démarrage :</string>
-  <string name="battery_info_voltage_label">Voltage de la batterie :</string>
+  <string name="battery_info_technology_label">Technologie de la batterie :</string>
+  <string name="battery_info_temperature_label">Température de la batterie :</string>
+  <string name="battery_info_temperature_units">° C</string>
+  <string name="battery_info_uptime">Temps depuis le démarrage :</string>
+  <string name="battery_info_voltage_label">Voltage de la batterie :</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Niveau de la batterie</string>
   <string name="battery_settings">Batterie</string>
@@ -235,7 +235,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="battery_stats_duration">Débranché depuis %1$s</string>
   <string name="battery_stats_gps_on_label">GPS activé</string>
   <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
-  <string name="battery_stats_on_battery">Sur batterie : %1$s</string>
+  <string name="battery_stats_on_battery">Sur batterie : %1$s</string>
   <string name="battery_stats_phone_signal_label">Signal du réseau mobile</string>
   <string name="battery_stats_screen_on_label">Écran activé</string>
   <string name="battery_stats_wake_lock_label">En activité</string>
@@ -257,13 +257,13 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_a2dp_profile_summary_connected">Connecté aux paramètres audio du média</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utiliser pour les paramètres audio du média</string>
   <string name="bluetooth_advanced_titlebar">Paramètres Bluetooth avancés</string>
-  <string name="bluetooth_ask_discovery">"Une application nécessite que d\'autres appareils Bluetooth puissent détecter votre téléphone pendant %1$d secondes."</string>
+  <string name="bluetooth_ask_discovery">"Une application nécessite que d\'autres appareils Bluetooth puissent détecter votre téléphone pendant %1$d secondes."</string>
   <string name="bluetooth_ask_enablement">"Une application requiert l\'activation du Bluetooth."</string>
-  <string name="bluetooth_ask_enablement_and_discovery">"Une application requiert l\'activation du Bluetooth et nécessite que d\'autres appareils puissent détecter votre téléphone pendant %1$d secondes."</string>
+  <string name="bluetooth_ask_enablement_and_discovery">"Une application requiert l\'activation du Bluetooth et nécessite que d\'autres appareils puissent détecter votre téléphone pendant %1$d secondes."</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">"Une application requiert l\'activation du Bluetooth et nécessite que d\'autres appareils puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth."</string>
   <string name="bluetooth_ask_lasting_discovery">"Une application nécessite que d\'autres appareils Bluetooth puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth."</string>
   <string name="bluetooth_auto_connect">Connexion automatique</string>
-  <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Assurez-vous que le mot de passe &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; s\'affiche."</string>
+  <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Assurez-vous que le mot de passe &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; s\'affiche."</string>
   <string name="bluetooth_connect_specific_profiles_title">Se connecter à…</string>
   <string name="bluetooth_connected">Connecté</string>
   <string name="bluetooth_connected_no_a2dp">Connecté (sans audio contenu mutimédia)</string>
@@ -271,7 +271,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans audio tel./multimédia)</string>
   <string name="bluetooth_connecting">Connexion…</string>
   <string name="bluetooth_connecting_error_message">Impossible de se connecter à %1$s.</string>
-  <string name="bluetooth_connection_dialog_text">Voulez-vous vous connecter à \"%1$s\" ?</string>
+  <string name="bluetooth_connection_dialog_text">Voulez-vous vous connecter à \"%1$s\" ?</string>
   <string name="bluetooth_connection_notif_message">Appuyez pour vous connecter à \"%1$s\".</string>
   <string name="bluetooth_connection_permission_request">Demande de connexion Bluetooth</string>
   <string name="bluetooth_default_name">Téléphone MIUI</string>
@@ -291,18 +291,18 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_device_details">"Paramètres de l\'appareil"</string>
   <string name="bluetooth_device_name">"Nom de l\'appareil"</string>
   <string name="bluetooth_devices">Appareils Bluetooth</string>
-  <string name="bluetooth_disable_profile_message">Le profil :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;va être désactivé sur :&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
-  <string name="bluetooth_disable_profile_title">Désactiver le profil ?</string>
+  <string name="bluetooth_disable_profile_message">Le profil :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;va être désactivé sur :&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_title">Désactiver le profil ?</string>
   <string name="bluetooth_disconnect_a2dp_profile">"%1$s sera déconnecté de l\'audio du support."</string>
-  <string name="bluetooth_disconnect_all_profiles">Cela va mettre fin à votre connexion avec :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Cela va mettre fin à votre connexion avec :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="bluetooth_disconnect_headset_profile">"%1$s sera déconnecté de l\'audio en mains libres."</string>
   <string name="bluetooth_disconnect_hid_profile">"%1$s sera déconnecté du périphérique d\'entrée."</string>
   <string name="bluetooth_disconnect_pan_nap_profile">%1$s sera déconnecté et ne partagera plus la connexion Internet du téléphone.</string>
   <string name="bluetooth_disconnect_pan_user_profile">"L\'accès à Internet via %1$s va être interrompu."</string>
-  <string name="bluetooth_disconnect_title">Déconnecter ?</string>
+  <string name="bluetooth_disconnect_title">Déconnecter ?</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
-  <string name="bluetooth_display_passkey_pin_msg">"Pour l\'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisissez &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, puis appuyez sur \"Retour\" ou sur \"Entrée\"."</string>
+  <string name="bluetooth_display_passkey_pin_msg">"Pour l\'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisissez &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, puis appuyez sur \"Retour\" ou sur \"Entrée\"."</string>
   <string name="bluetooth_dock_settings">"Paramètres de la station d\'accueil"</string>
   <string name="bluetooth_dock_settings_a2dp">Pour la musique et le multimédia</string>
   <string name="bluetooth_dock_settings_headset">Comme téléphone à haut-parleur</string>
@@ -318,9 +318,9 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_empty_list_bluetooth_off">Activez le Bluetooth pour voir les appareils.</string>
   <string name="bluetooth_enable">Activer bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">Le code PIN contient des lettres ou des symboles.</string>
-  <string name="bluetooth_enter_passkey_msg">"Pour l\'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir la clé d\'accès requise de l\'appareil :"</string>
+  <string name="bluetooth_enter_passkey_msg">"Pour l\'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir la clé d\'accès requise de l\'appareil :"</string>
   <string name="bluetooth_enter_passkey_other_device">"Vous devrez peut-être également saisir ce mot de passe sur l\'autre appareil."</string>
-  <string name="bluetooth_enter_pin_msg">"Pour l\'association à :{&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir le code PIN requis de l\'appareil :"</string>
+  <string name="bluetooth_enter_pin_msg">"Pour l\'association à :{&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir le code PIN requis de l\'appareil :"</string>
   <string name="bluetooth_enter_pin_msg_hs">"Entrez le PIN pour lier avec \"%1$s\". [Haute sécurité activé: Demande une clé de 16 caractère]"</string>
   <string name="bluetooth_enter_pin_other_device">"Vous devrez peut-être également saisir ce code PIN sur l\'autre appareil."</string>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s souhaiterait accéder à vos fichiers et dossiers. Donner l\'accès à %2$s ?</string>
@@ -331,7 +331,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_headset_profile_summary_use_for">Utiliser pour les paramètres audio du téléphone</string>
   <string name="bluetooth_hid_profile_summary_connected">"Connecté au périphérique d\'entrée"</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utiliser comme entrée</string>
-  <string name="bluetooth_incoming_pairing_msg">De :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Associer à cet appareil ?</string>
+  <string name="bluetooth_incoming_pairing_msg">De :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Associer à cet appareil ?</string>
   <string name="bluetooth_is_discoverable">Identifiable par tous appareils Bluetooth à proximité (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Identifiable par appareils Bluetooth à proximité</string>
   <string name="bluetooth_lock_voice_dialing">Bloquer les appels par reconnaissance vocale</string>
@@ -364,7 +364,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_pan_nap_profile_summary_connected">Connexion Internet locale partagée</string>
   <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l\'accès à Internet"</string>
   <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l\'appareil pour accès Internet"</string>
-  <string name="bluetooth_pb_acceptance_dialog_text">"%1$s souhaite accéder à vos contacts et à l\'historique de vos appels. Autoriser l\'accès à %2$s ?"</string>
+  <string name="bluetooth_pb_acceptance_dialog_text">"%1$s souhaite accéder à vos contacts et à l\'historique de vos appels. Autoriser l\'accès à %2$s ?"</string>
   <string name="bluetooth_pb_remember_choice">Ne plus me demander</string>
   <string name="bluetooth_pbap_connection_permission_request">Requête de connexion PBAP</string>
   <string name="bluetooth_permission_request">"Demande d\'autorisation Bluetooth"</string>
@@ -404,11 +404,11 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_show_received_files">Afficher les fichiers reçus</string>
   <string name="bluetooth_tether_checkbox_text">Via Bluetooth</string>
   <string name="bluetooth_tethering_available_subtext">Connexion Internet du téléphone partagée</string>
-  <string name="bluetooth_tethering_device_connected_subtext">Connexion Internet du téléphone partagée avec un appareil</string>
-  <string name="bluetooth_tethering_devices_connected_subtext">Connexion Internet du téléphone partagée avec %1$d appareils</string>
+  <string name="bluetooth_tethering_device_connected_subtext">Connexion Internet du téléphone partagée avec un appareil</string>
+  <string name="bluetooth_tethering_devices_connected_subtext">Connexion Internet du téléphone partagée avec %1$d appareils</string>
   <string name="bluetooth_tethering_errored_subtext">Pas de partage de connexion.</string>
   <string name="bluetooth_tethering_off_subtext">Connexion Internet du téléphone non partagée</string>
-  <string name="bluetooth_tethering_overflow_error">Partage connexion impossible au-delà de %1$d appareils.</string>
+  <string name="bluetooth_tethering_overflow_error">Partage connexion impossible au-delà de %1$d appareils.</string>
   <string name="bluetooth_turning_off">Désactivation du Bluetooth...</string>
   <string name="bluetooth_turning_on">Activation du Bluetooth...</string>
   <string name="bluetooth_untether_blank">Le partage connexion avec %1$s va être annulé.</string>
@@ -423,7 +423,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="brightness_auto_adjust_off">La luminosité peut être ajustée à votre convenance en déplaçant le curseur. La luminosité de l\'écran restera inchangée dans n\'importe quel environnement.</string>
   <string name="brightness_auto_adjust_on">La luminosité automatique peut être réglé en déplaçant le curseur. La luminosité de l\'écran varie selon votre réglage et les environs.</string>
   <string name="brightness_summary">"Régler la luminosité de l\'écran"</string>
-  <string name="bssid_label">BSSID:</string>
+  <string name="bssid_label">BSSID :</string>
   <string name="build_number">Numéro de build</string>
   <string name="builtin_keyboard_settings_summary">Paramètres du clavier physique</string>
   <string name="builtin_keyboard_settings_title">Clavier physique</string>
@@ -440,7 +440,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="camera_key_action_shortcut_call">Appeler</string>
   <string name="camera_key_action_shortcut_home">Retour à l\'écran d\'accueil</string>
   <string name="camera_key_action_shortcut_screenshot">Capture d\'écran</string>
-  <string name="camera_key_action_shortcut_search">Recherche Google</string>
+  <string name="camera_key_action_shortcut_search">Recherche Google</string>
   <string name="camera_key_action_shortcut_title">Raccourci</string>
   <string name="camera_key_action_shortcut_wake">Verrouiller/Déverrouiller l\'appareil</string>
   <string name="camera_key_action_title">Bouton Mi</string>
@@ -460,7 +460,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="clear_activities_summary">Activer ce programme pour certaines opérations par défaut</string>
   <string name="clear_cache_btn_text">Vider le cache</string>
   <string name="clear_data_dlg_text">Toutes les données de cette application vont être définitivement supprimées, y compris tous les fichiers, les paramètres, les comptes, les bases de données, etc.</string>
-  <string name="clear_data_dlg_title">"Supprimer les données de l\'application ?"</string>
+  <string name="clear_data_dlg_title">"Supprimer les données de l\'application ?"</string>
   <string name="clear_data_failed">"Impossible d\'effacer les données de l\'application."</string>
   <string name="clear_failed_dlg_text">"Impossible de supprimer les données de l\'application."</string>
   <string name="clear_failed_dlg_title">Effacer les données</string>
@@ -488,22 +488,22 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="credentials_install_gesture_prompt">Dessinez votre schéma de déverrouillage.</string>
   <string name="credentials_install_summary">Installer les certificats depuis la mémoire de stockage</string>
   <string name="credentials_not_erased">Impossible eff. stockage identifiants.</string>
-  <string name="credentials_old_password">Mot de passe actuel :</string>
-  <string name="credentials_password_too_short">Le mot de passe doit contenir au moins 8 caractères.</string>
+  <string name="credentials_old_password">Mot de passe actuel :</string>
+  <string name="credentials_password_too_short">Le mot de passe doit contenir au moins 8 caractères.</string>
   <string name="credentials_reset">Effacer les identifiants</string>
-  <string name="credentials_reset_hint">"Supprimer l\'intégralité du contenu ?"</string>
+  <string name="credentials_reset_hint">"Supprimer l\'intégralité du contenu ?"</string>
   <string name="credentials_reset_summary">Supprimer tous les certificats</string>
-  <string name="credentials_reset_warning">"Mot de passe incorrect. Vous disposez d\'une tentative supplémentaire avant la suppression des identifiants."</string>
-  <string name="credentials_reset_warning_plural">Mot de passe incorrect. Vous disposez de %1$d tentatives supplémentaires avant la suppression des identifiants.</string>
+  <string name="credentials_reset_warning">"Mot de passe incorrect. Vous disposez d\'une tentative supplémentaire avant la suppression des identifiants."</string>
+  <string name="credentials_reset_warning_plural">Mot de passe incorrect. Vous disposez de %1$d tentatives supplémentaires avant la suppression des identifiants.</string>
   <string name="credentials_title">Stockage des identifiants</string>
   <string name="credentials_unlock_hint">Saisir le mot de passe de stockage des identifiants</string>
   <string name="credentials_wrong_password">Mot de passe incorrect</string>
   <string name="crypt_keeper_button_text">Chiffrer le téléphone</string>
-  <string name="crypt_keeper_confirm_title">Chiffrer ?</string>
-  <string name="crypt_keeper_cooldown">Réessayez dans ^1 secondes.</string>
+  <string name="crypt_keeper_confirm_title">Chiffrer ?</string>
+  <string name="crypt_keeper_cooldown">Réessayez dans ^1 secondes.</string>
   <string name="crypt_keeper_desc">\"Vous pouvez chiffrer vos comptes, vos paramètres, vos applications téléchargées, ainsi que leurs données, supports et autres fichiers. Une fois votre téléphone chiffré, vous devez saisir un code PIN ou un mot de passe numérique pour le déchiffrer à chaque fois que vous l\'allumez. Vous ne pouvez déchiffrer votre téléphone qu\'en rétablissant la configuration d\'usine, ce qui effacera l\'ensemble de vos données.
 
-Le chiffrement peut prendre une heure, voire plus. La batterie doit être chargée lors du démarrage du processus, et le téléphone doit rester branché jusqu\'à la fin. Si vous interrompez le processus, vous perdrez certaines de vos données, voire la totalité.\"</string>
+Le chiffrement peut prendre une heure, voire plus. La batterie doit être chargée lors du démarrage du processus, et le téléphone doit rester branché jusqu\'à la fin. Si vous interrompez le processus, vous perdrez certaines de vos données, voire la totalité.\"</string>
   <string name="crypt_keeper_dialog_need_password_message">"Vous devez définir un code PIN ou un mot de passe pour le verrouillage de l\'écran avant de lancer le chiffrement."</string>
   <string name="crypt_keeper_dialog_need_password_title">"Aucun code PIN ni mot de passe saisi pour le verrouillage de l\'écran"</string>
   <string name="crypt_keeper_encrypt_summary">"Exiger un code PIN ou un mot de passe numérique pour déchiffrer le téléphone à chaque fois qu\'il est allumé"</string>
@@ -517,7 +517,7 @@ Pour continuer d\'utiliser votre téléphone, vous devez rétablir la configurat
   <string name="crypt_keeper_final_desc">"Le chiffrement est irréversible, et toute interruption du processus peut entraîner la perte de données. L\'opération peut prendre une heure, voire plus, au cours de laquelle le téléphone sera redémarré à plusieurs reprises."</string>
   <string name="crypt_keeper_low_charge_text">Veuillez charger votre batterie, puis réessayer.</string>
   <string name="crypt_keeper_settings_title">Chiffrement</string>
-  <string name="crypt_keeper_setup_description">Veuillez patienter pendant le chiffrement de votre téléphone. ^1 % effectué(s).</string>
+  <string name="crypt_keeper_setup_description">Veuillez patienter pendant le chiffrement de votre téléphone. ^1 % effectué(s).</string>
   <string name="crypt_keeper_setup_title">Chiffrement en cours</string>
   <string name="crypt_keeper_switch_input_method">Changer le mode de saisie</string>
   <string name="crypt_keeper_unplugged_text">Veuillez brancher votre chargeur, puis réessayer.</string>
@@ -534,30 +534,30 @@ Pour continuer d\'utiliser votre téléphone, vous devez rétablir la configurat
   <string name="data_usage_app_restrict_dialog">\"Cette fonctionnalité peut empêcher certaines applications de s\'exécuter lorsque celles-ci sont dépendantes des données en arrière-plan et que seuls des réseaux mobiles sont disponibles.
 
 Vous trouverez des options plus adaptées en matière de contrôle de la consommation des données dans les paramètres de l\'application.\"</string>
-  <string name="data_usage_app_restrict_dialog_title">Limiter les données en arrière-plan ?</string>
+  <string name="data_usage_app_restrict_dialog_title">Limiter les données en arrière-plan ?</string>
   <string name="data_usage_app_restricted">limitée</string>
   <string name="data_usage_app_settings">Afficher paramètres application</string>
   <string name="data_usage_auto_sync_off_dialog">"Cela limite la consommation des données et l\'utilisation de la batterie, mais vous devrez synchroniser manuellement chaque compte pour recueillir les informations récentes. Par ailleurs, vous ne recevrez pas de notifications en cas de mise à jour."</string>
-  <string name="data_usage_auto_sync_off_dialog_title">Désactiver synchro auto données ?</string>
+  <string name="data_usage_auto_sync_off_dialog_title">Désactiver synchro auto données ?</string>
   <string name="data_usage_auto_sync_on_dialog">\"Les modifications que vous apportez à vos comptes sur le Web sont automatiquement copiées sur votre téléphone.
 
 Certains comptes permettent également de copier automatiquement sur le Web toutes les modifications que vous effectuez sur le téléphone. C\'est le cas des comptes Google.
 
 Pour sélectionner le type d\'informations à synchroniser au sein de chaque compte, accédez à Paramètres &gt; Comptes.\"</string>
-  <string name="data_usage_auto_sync_on_dialog_title">Activer synchro auto données ?</string>
+  <string name="data_usage_auto_sync_on_dialog_title">Activer synchro auto données ?</string>
   <string name="data_usage_change_cycle">Changer le cycle...</string>
   <string name="data_usage_cycle">Cycle de consommation</string>
   <string name="data_usage_cycle_editor_positive">Définir</string>
-  <string name="data_usage_cycle_editor_subtitle">Jour du mois :</string>
+  <string name="data_usage_cycle_editor_subtitle">Jour du mois :</string>
   <string name="data_usage_cycle_editor_title">Date de réinitialisation du cycle de consommation</string>
   <string name="data_usage_disable_3g_limit">Définir quota de données 2G-3G</string>
   <string name="data_usage_disable_4g_limit">Définir le quota de données 4G</string>
-  <string name="data_usage_disable_mobile">Désactiver les données mobiles ?</string>
+  <string name="data_usage_disable_mobile">Désactiver les données mobiles ?</string>
   <string name="data_usage_disable_mobile_limit">Définir un plafond</string>
   <string name="data_usage_disable_wifi_limit">Définir quota de données Wi-Fi</string>
   <string name="data_usage_empty">Aucune donnée utilisée par les applications pendant cette période.</string>
   <string name="data_usage_enable_3g">Données 2G-3G</string>
-  <string name="data_usage_enable_4g">Données 4G</string>
+  <string name="data_usage_enable_4g">Données 4G</string>
   <string name="data_usage_enable_mobile">Données mobiles</string>
   <string name="data_usage_label_background">Arrière-plan</string>
   <string name="data_usage_label_foreground">Premier plan</string>
@@ -581,9 +581,9 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="data_usage_metered_wifi">Réseaux Wi-Fi</string>
   <string name="data_usage_metered_wifi_disabled">"Pour sélectionner des points d\'accès mobiles, activez le Wi-Fi."</string>
   <string name="data_usage_pick_cycle_day">Jour du mois de réinitialisation du cycle utilisation données :</string>
-  <string name="data_usage_received_sent">%1$s reçus, %2$s envoyés</string>
+  <string name="data_usage_received_sent">%1$s reçus, %2$s envoyés</string>
   <string name="data_usage_restrict_background">Si vous limitez les données mobiles en arrière-plan, certains services et applications ne fonctionneront que si vous êtes connecté à un réseau Wi-Fi.</string>
-  <string name="data_usage_restrict_background_title">Limiter les données en arrière-plan ?</string>
+  <string name="data_usage_restrict_background_title">Limiter les données en arrière-plan ?</string>
   <string name="data_usage_restrict_denied_dialog">"La limitation des données en arrière-plan n\'est disponible que lorsque vous avez défini un plafond de données mobiles."</string>
   <string name="data_usage_summary_title">Consommation des données</string>
   <string name="data_usage_sweep_limit"><font size="21">^1</font><font size="9">^2</font>\"
@@ -595,8 +595,8 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="data_usage_tab_ethernet">Ethernet</string>
   <string name="data_usage_tab_mobile">Mobiles</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
-  <string name="data_usage_total_during_range">%2$s : environ %1$s utilisés</string>
-  <string name="data_usage_total_during_range_mobile">%2$s : env. %1$s utilisés, selon votre téléphone. Le suivi conso de votre opérateur peut différer.</string>
+  <string name="data_usage_total_during_range">%2$s : environ %1$s utilisés</string>
+  <string name="data_usage_total_during_range_mobile">%2$s : env. %1$s utilisés, selon votre téléphone. Le suivi conso de votre opérateur peut différer.</string>
   <string name="data_usage_uninstalled_apps">Applications supprimées</string>
   <string name="data_usage_warning_editor_title">Définir avertissement utilisation des données</string>
   <string name="date_and_time">"Paramètres d\'heure et de date"</string>
@@ -617,7 +617,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="date_time_settings">Paramètres de la date et de l\'heure</string>
   <string name="debug_app">Sélectionner une application à déboguer</string>
   <string name="debug_app_not_set">Aucune application à déboguer définie</string>
-  <string name="debug_app_set">Application à déboguer : %1$s</string>
+  <string name="debug_app_set">Application à déboguer : %1$s</string>
   <string name="debug_applications_category">Applications</string>
   <string name="debug_debugging_category">Débogage</string>
   <string name="debug_drawing_category">Tracé</string>
@@ -634,7 +634,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="details_subtitle">"Détails d\'utilisation"</string>
   <string name="details_title">"Informations sur l\'utilisation"</string>
   <string name="dev_settings_warning_message">"Ces paramètres sont en cours de développement. Ils peuvent endommager votre appareil et les applications qui s\'y trouvent, ou provoquer leur dysfonctionnement."</string>
-  <string name="dev_settings_warning_title">Activer les paramètres de développement ?</string>
+  <string name="dev_settings_warning_title">Activer les paramètres de développement ?</string>
   <string name="development_enable">Permettre le développement</string>
   <string name="development_settings_summary">"Définir les options pour le développement de l\'application"</string>
   <string name="development_settings_title">Options pour les développeurs</string>
@@ -653,12 +653,12 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="device_info_label">"Informations sur l\'appareil"</string>
   <string name="device_info_not_available">Non disponible</string>
   <string name="device_info_settings">État du téléphone</string>
-  <string name="device_internal_memory">Mémoire Interne:</string>
-  <string name="device_memory">RAM:</string>
-  <string name="device_miui_version">Version MIUI: </string>
+  <string name="device_internal_memory">Mémoire Interne :</string>
+  <string name="device_memory">RAM :</string>
+  <string name="device_miui_version">Version MIUI : </string>
   <string name="device_name">"Nom de l\'appareil"</string>
   <string name="device_picker">"Sélecteur d\'appareil Bluetooth"</string>
-  <string name="device_sd_memory">Carte SD:</string>
+  <string name="device_sd_memory">Carte SD :</string>
   <string name="device_status">État</string>
   <string name="device_status_activity_title">État</string>
   <string name="device_status_summary">Numéro de téléphone, signal, etc.</string>
@@ -671,15 +671,15 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="disable_text">Désactiver</string>
   <string name="disabled">Désactivée</string>
   <string name="disconnect">Déconnecter</string>
-  <string name="display_font_size_label">Taille de police :</string>
+  <string name="display_font_size_label">Taille de police :</string>
   <string name="display_label">Écran</string>
-  <string name="display_order_text">Trier par :</string>
-  <string name="display_preview_label">Aperçu :</string>
+  <string name="display_order_text">Trier par :</string>
+  <string name="display_preview_label">Aperçu :</string>
   <string name="display_settings">Affichage</string>
   <string name="display_settings_title">Affichage</string>
   <string name="dlg_cancel">Annuler</string>
   <string name="dlg_confirm_unmount_text">"Si vous désinstallez la mémoire de stockage USB, certaines applications en cours d\'utilisation seront fermées. Elles risquent de rester indisponibles jusqu\'à ce que la mémoire de stockage USB soit réinstallée."</string>
-  <string name="dlg_confirm_unmount_title">Désinstaller mémoire USB ?</string>
+  <string name="dlg_confirm_unmount_title">Désinstaller mémoire USB ?</string>
   <string name="dlg_error_unmount_text">Impossible de désinstaller la mémoire de stockage USB. Réessayez ultérieurement.</string>
   <string name="dlg_ok">OK</string>
   <string name="dock_audio_settings_title">Audio</string>
@@ -763,12 +763,12 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="enable_traces_dialog_title">Sélect. traces activées</string>
   <string name="enable_traces_summary_all">Toutes les traces sont actuellement activées.</string>
   <string name="enable_traces_summary_none">"Aucune trace n\'est activée actuellement."</string>
-  <string name="enable_traces_summary_num">%1$d traces activées actuellement</string>
+  <string name="enable_traces_summary_num">%1$d traces activées actuellement</string>
   <string name="enable_traces_title">Activer les traces</string>
   <string name="enforce_read_external_confirm_message">\"Lorsque la mémoire de stockage USB est protégée, les applications doivent demander l\'autorisation de lire les données de la mémoire de stockage externe.
 
 Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs développeurs les mettent à jour.\"</string>
-  <string name="enforce_read_external_confirm_title">Protéger mémoire stockage USB ?</string>
+  <string name="enforce_read_external_confirm_title">Protéger mémoire stockage USB ?</string>
   <string name="enforce_read_external_summary">"Les applis doivent demander l\'autorisation pour lire la mémoire."</string>
   <string name="enforce_read_external_title">Protéger mémoire de stockage USB</string>
   <string name="enter_password">Saisir le mot de passe pour déchiffrer la mémoire de stockage</string>
@@ -814,7 +814,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="force_hw_ui_summary">"Forcer l\'utilisation du GPU pour le dessin 2D"</string>
   <string name="force_stop">"Forcer l\'arrêt"</string>
   <string name="force_stop_dlg_text">"Si vous forcez l\'arrêt d\'une application, cela peut provoquer son dysfonctionnement."</string>
-  <string name="force_stop_dlg_title">"Forcer l\'arrêt ?"</string>
+  <string name="force_stop_dlg_title">"Forcer l\'arrêt ?"</string>
   <string name="forget_wifi_message">Oublier ce réseau Wi-Fi ? Il se peut que vous deviez entrer le mot de passe lorsque vous vous y connecterez à nouveau</string>
   <string name="frequently_fragment_delete">Supprimer</string>
   <string name="frequently_fragment_tempty">Les éléments fréquemment utilisés seront listés ici</string>
@@ -869,12 +869,12 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="install_applications">Sources inconnues</string>
   <string name="install_unknown_applications">"Autoriser l\'installation d\'applications issues de sources inconnues"</string>
   <string name="insufficient_storage">Espace de stockage insuffisant.</string>
-  <string name="intent_sender_account_label">Compte :</string>
+  <string name="intent_sender_account_label">Compte :</string>
   <string name="intent_sender_action_label">Action : </string>
   <string name="intent_sender_data_label">Données : </string>
   <string name="intent_sender_resource_label">Ressource : </string>
   <string name="intent_sender_sendbroadcast_text">Envoyer broadcast</string>
-  <string name="intent_sender_startactivity_text">Démarrer activity</string>
+  <string name="intent_sender_startactivity_text">Démarrer activité</string>
   <string name="internal_format">Formater le stockage interne</string>
   <string name="internal_format_summary">Le formatage du stockage interne supprimera tous les fichiers, tels que la musique ou les photos</string>
   <string name="internal_media_format_button_text">Effacer la mémoire interne</string>
@@ -907,7 +907,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="language_settings">Langue et saisie</string>
   <string name="language_settings_category">Paramètres de langue</string>
   <string name="large_font">Grande</string>
-  <string name="last_synced">Dernière synchronisation : %1$s</string>
+  <string name="last_synced">Dernière synchronisation : %1$s</string>
   <string name="launch_count_label">Nombre</string>
   <string name="launcher_settings_title">Launcher</string>
   <string name="led_colors_summary">Couleur de la LED de notification</string>
@@ -916,7 +916,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="led_settings">LED</string>
   <string name="legal_information">Informations légales</string>
   <string name="license_title">Licence</string>
-  <string name="link_speed_label">Vitesse de liaison:</string>
+  <string name="link_speed_label">Vitesse de liaison :</string>
   <string name="local_backup_password_summary_change">Appuyez pour modifier ou supprimer le mot de passe utilisé pour les sauvegardes complètes sur PC.</string>
   <string name="local_backup_password_summary_none">Les sauvegardes complètes sur PC ne sont pas protégées actuellement.</string>
   <string name="local_backup_password_title">Mot de passe sauvegarde PC</string>
@@ -955,18 +955,18 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lockpassword_illegal_character">Le mot de passe contient un caractère non autorisé.</string>
   <string name="lockpassword_ok_label">OK</string>
   <string name="lockpassword_password_recently_used">"L\'administrateur de l\'appareil ne permet pas l\'utilisation d\'un mot de passe récent."</string>
-  <string name="lockpassword_password_requires_alpha">Le mot de passe doit comporter au moins une lettre.</string>
-  <string name="lockpassword_password_requires_digit">Le mot de passe doit comporter au moins un chiffre.</string>
-  <string name="lockpassword_password_requires_symbol">Le mot de passe doit comporter au moins un symbole.</string>
+  <string name="lockpassword_password_requires_alpha">Le mot de passe doit comporter au moins une lettre.</string>
+  <string name="lockpassword_password_requires_digit">Le mot de passe doit comporter au moins un chiffre.</string>
+  <string name="lockpassword_password_requires_symbol">Le mot de passe doit comporter au moins un symbole.</string>
   <string name="lockpassword_password_set_toast">Le mot de passe a été défini.</string>
-  <string name="lockpassword_password_too_long">Le mot de passe doit comporter moins de %d caractères.</string>
-  <string name="lockpassword_password_too_short">Le mot de passe doit comporter au moins %d caractères.</string>
+  <string name="lockpassword_password_too_long">Le mot de passe doit comporter moins de %d caractères.</string>
+  <string name="lockpassword_password_too_short">Le mot de passe doit comporter au moins %d caractères.</string>
   <string name="lockpassword_pattern_set_toast">Le schéma a été défini.</string>
   <string name="lockpassword_pin_contains_non_digits">Le code PIN ne doit contenir que des chiffres compris entre 0 et 9.</string>
   <string name="lockpassword_pin_recently_used">"L\'administrateur de l\'appareil ne permet pas l\'utilisation d\'un code PIN récent."</string>
   <string name="lockpassword_pin_set_toast">Le code PIN a été défini.</string>
-  <string name="lockpassword_pin_too_long">Le code PIN doit comporter moins de %d chiffres.</string>
-  <string name="lockpassword_pin_too_short">Le code PIN doit comporter au moins %d chiffres.</string>
+  <string name="lockpassword_pin_too_long">Le code PIN doit comporter moins de %d chiffres.</string>
+  <string name="lockpassword_pin_too_short">Le code PIN doit comporter au moins %d chiffres.</string>
   <string name="lockpassword_press_continue">"Appuyez sur Continuer une fois l\'opération terminée."</string>
   <string name="lockpattern_change_lock_pattern_label">Modifier le schéma</string>
   <string name="lockpattern_change_lock_pin_label">Modifier le code PIN de déverrouillage</string>
@@ -974,10 +974,10 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lockpattern_continue_button_text">Continuer</string>
   <string name="lockpattern_need_to_confirm">Redessinez le schéma pour confirmer :</string>
   <string name="lockpattern_need_to_unlock">Confirmer le schéma enregistré</string>
-  <string name="lockpattern_need_to_unlock_wrong">Réessayer :</string>
+  <string name="lockpattern_need_to_unlock_wrong">Réessayer :</string>
   <string name="lockpattern_pattern_confirmed_header">Votre nouveau schéma de déverrouillage :</string>
   <string name="lockpattern_pattern_entered_header">Schéma enregistré.</string>
-  <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points. Veuillez réessayer :</string>
+  <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points. Veuillez réessayer :</string>
   <string name="lockpattern_recording_inprogress">Ôtez le doigt lorsque vous avez terminé.</string>
   <string name="lockpattern_recording_intro_footer">"Appuyez sur Menu pour obtenir de l\'aide."</string>
   <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage :</string>
@@ -992,8 +992,8 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lockpattern_settings_enable_visible_pattern_title">Faire apparaître le schéma</string>
   <string name="lockpattern_settings_help_how_to_record">Comment dessiner un schéma de déverrouillage :</string>
   <string name="lockpattern_settings_title">Schéma de déverrouillage</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Réessayer dans %d secondes.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Trop de tentatives échouées !</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Réessayer dans %d secondes.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Trop de tentatives échouées !</string>
   <string name="lockpattern_tutorial_cancel_label">Annuler</string>
   <string name="lockpattern_tutorial_continue_label">Suivant</string>
   <string name="lte_ram_dump_off">Désactiver le vidage de la mémoire RAM du LTE</string>
@@ -1009,12 +1009,12 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="manually_add_network">Ajoutez manuellement le réseau</string>
   <string name="master_clear_accounts">\"
 
-Vous êtes actuellement connecté aux comptes suivants :
+Vous êtes actuellement connecté aux comptes suivants :
 \"</string>
   <string name="master_clear_all">Êtes-vous sûr de vouloir effacer toutes les données et revenir aux réglages d\'usine ? Cette opération est irréversible</string>
   <string name="master_clear_button_text">Réinitialiser le téléphone</string>
-  <string name="master_clear_confirm_title">Réinitialiser ?</string>
-  <string name="master_clear_desc">Cette action effacera toutes les données du <b>stockage interne</b>\" de votre téléphone, y compris :
+  <string name="master_clear_confirm_title">Réinitialiser ?</string>
+  <string name="master_clear_desc">Cette action effacera toutes les données du <b>stockage interne</b>\" de votre téléphone, y compris :
 
 \"<li>Votre compte Google</li>\"
 \"<li>"Les données et paramètres du système et de l\'application"</li>\"
@@ -1028,7 +1028,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="master_clear_erase_application_progress">Suppression des applications en cours...</string>
   <string name="master_clear_failed">"Les données n\'ont pas été réinitialisées, car le service de nettoyage du système n\'est pas disponible."</string>
   <string name="master_clear_final_button_text">Tout effacer</string>
-  <string name="master_clear_final_desc">Effacer toutes vos informations personnelles et les applications téléchargées ? Cette action est irréversible.</string>
+  <string name="master_clear_final_desc">Effacer toutes vos informations personnelles et les applications téléchargées ? Cette action est irréversible.</string>
   <string name="master_clear_gesture_explanation">"Vous devez dessiner votre schéma de déverrouillage pour confirmer le rétablissement de la configuration d\'usine."</string>
   <string name="master_clear_gesture_prompt">Saisissez votre schéma de déverrouillage</string>
   <string name="master_clear_personal_data">Êtes-vous sûr de vouloir effacer vos données personnelles ? Cette opération ne peut pas être annulée</string>
@@ -1045,7 +1045,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="mdb_usb_disconnection_exit">USB déconnecté, annulation de la restauration</string>
   <string name="media_button">Bouton multimédia</string>
   <string name="media_format_button_text">Effacer la mémoire USB</string>
-  <string name="media_format_desc">Effacer toute la mémoire de stockage USB ? Vous allez perdre <b>toutes</b> les données stockées.</string>
+  <string name="media_format_desc">Effacer toute la mémoire de stockage USB ? Vous allez perdre <b>toutes</b> les données stockées.</string>
   <string name="media_format_final_button_text">Tout effacer</string>
   <string name="media_format_final_desc">"Effacer la mémoire de stockage USB en supprimant tous les fichiers qu\'elle contient ? Cette action est irréversible."</string>
   <string name="media_format_gesture_explanation">"Vous devez dessiner votre schéma de déverrouillage pour confirmer l\'effacement de la mémoire de stockage USB."</string>
@@ -1076,8 +1076,8 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="menu_stats_total">Utilisation totale</string>
   <string name="menu_stats_unplugged">Débranché depuis %1$s</string>
   <string name="misc_files">Fichiers divers</string>
-  <string name="misc_files_selected_count">%1$d fichiers sélectionnés sur %2$d</string>
-  <string name="misc_files_selected_count_bytes">%1$s sur %2$s</string>
+  <string name="misc_files_selected_count">%1$d fichiers sélectionnés sur %2$d</string>
+  <string name="misc_files_selected_count_bytes">%1$s sur %2$s</string>
   <string name="miui_device_default_name">Android</string>
   <string name="mms_vibrate_abbreviation">Messages</string>
   <string name="model_number">Numéro du modèle</string>
@@ -1315,7 +1315,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="pico_voice_summary_female">Femme</string>
   <string name="pico_voice_summary_male">Homme</string>
   <string name="ping_test_label">Effectuer un test de ping</string>
-  <string name="please_select_phase2">Authentification phase 2</string>
+  <string name="please_select_phase2">Authentification phase 2</string>
   <string name="please_type_passphrase">Entrez le mot de passe Wi-Fi</string>
   <string name="pointer_location">Emplacement du curseur</string>
   <string name="pointer_location_summary">Superposition écran indiquant données actuelles</string>
@@ -1414,39 +1414,39 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="radio_controls_summary">Configurer le Wi-Fi, le mode Bluetooth, le mode Avion, les réseaux mobiles et le VPN</string>
   <string name="radio_controls_title">Plus...</string>
   <string name="radio_info_band_mode_label">Choisir une bande radio</string>
-  <string name="radio_info_call_redirect_label">Redirection des appels :</string>
-  <string name="radio_info_call_status_label">"État de l\'appel :"</string>
-  <string name="radio_info_current_network_label">Réseau actuel :</string>
-  <string name="radio_info_data_attempts_label">Tentatives :</string>
-  <string name="radio_info_data_successes_label">Réussites des données :</string>
-  <string name="radio_info_gprs_service_label">Service GPRS :</string>
-  <string name="radio_info_gsm_disconnects_label">Déconnexions GSM :</string>
-  <string name="radio_info_gsm_service_label">Service GSM :</string>
-  <string name="radio_info_http_client_test">Test du client HTTP :</string>
-  <string name="radio_info_imei_label">Code IMEI :</string>
-  <string name="radio_info_message_waiting_label">Message en attente :</string>
-  <string name="radio_info_neighboring_location_label">CID voisin :</string>
-  <string name="radio_info_network_type_label">Type de réseau :</string>
-  <string name="radio_info_phone_number_label">Numéro de téléphone :</string>
-  <string name="radio_info_ping_hostname">"Nom de l\'hôte du ping (www.google.com) :"</string>
-  <string name="radio_info_ping_ipaddr">Adr. IP ping :</string>
-  <string name="radio_info_ppp_received_label">PPP reçus :</string>
-  <string name="radio_info_ppp_resets_label">Nombre de réinitialisations PPP depuis le démarrage :</string>
-  <string name="radio_info_ppp_sent_label">PPP envoyés :</string>
-  <string name="radio_info_radio_resets_label">Réinitialisations du signal radio :</string>
-  <string name="radio_info_roaming_label">Itinérance :</string>
-  <string name="radio_info_set_perferred_label">Définir le type de réseau préféré :</string>
-  <string name="radio_info_signal_location_label">Emplacement :</string>
-  <string name="radio_info_signal_strength_label">Intensité du signal :</string>
-  <string name="radio_info_smsc_label">SMSC :</string>
+  <string name="radio_info_call_redirect_label">Redirection des appels :</string>
+  <string name="radio_info_call_status_label">"État de l\'appel :"</string>
+  <string name="radio_info_current_network_label">Réseau actuel :</string>
+  <string name="radio_info_data_attempts_label">Tentatives :</string>
+  <string name="radio_info_data_successes_label">Réussites des données :</string>
+  <string name="radio_info_gprs_service_label">Service GPRS :</string>
+  <string name="radio_info_gsm_disconnects_label">Déconnexions GSM :</string>
+  <string name="radio_info_gsm_service_label">Service GSM :</string>
+  <string name="radio_info_http_client_test">Test du client HTTP :</string>
+  <string name="radio_info_imei_label">Code IMEI :</string>
+  <string name="radio_info_message_waiting_label">Message en attente :</string>
+  <string name="radio_info_neighboring_location_label">CID voisin :</string>
+  <string name="radio_info_network_type_label">Type de réseau :</string>
+  <string name="radio_info_phone_number_label">Numéro de téléphone :</string>
+  <string name="radio_info_ping_hostname">"Nom de l\'hôte du ping (www.google.com) :"</string>
+  <string name="radio_info_ping_ipaddr">Adr. IP ping :</string>
+  <string name="radio_info_ppp_received_label">PPP reçus :</string>
+  <string name="radio_info_ppp_resets_label">Nombre de réinitialisations PPP depuis le démarrage :</string>
+  <string name="radio_info_ppp_sent_label">PPP envoyés :</string>
+  <string name="radio_info_radio_resets_label">Réinitialisations du signal radio :</string>
+  <string name="radio_info_roaming_label">Itinérance :</string>
+  <string name="radio_info_set_perferred_label">Définir le type de réseau préféré :</string>
+  <string name="radio_info_signal_location_label">Emplacement :</string>
+  <string name="radio_info_signal_strength_label">Intensité du signal :</string>
+  <string name="radio_info_smsc_label">SMSC :</string>
   <string name="radio_info_smsc_refresh_label">Actualiser</string>
   <string name="radio_info_smsc_update_label">Mettre à jour</string>
   <string name="radio_info_toggle_dns_check_label">Activer le contrôle DNS</string>
   <string name="read_only">" (Lecture seule)"</string>
   <string name="really_remove_account_message">La suppression de ce compte entraînera la suppression de tous les messages, contacts et autres données du téléphone.</string>
-  <string name="really_remove_account_title">Supprimer le compte ?</string>
+  <string name="really_remove_account_title">Supprimer le compte ?</string>
   <string name="recognizer_settings_summary">Paramètres de \"%s\"</string>
-  <string name="recognizer_settings_title">Recherche vocale</string>
+  <string name="recognizer_settings_title">Recherche vocale</string>
   <string name="recognizer_title">Saisie vocale</string>
   <string name="recompute_size">Calcul de la taille...</string>
   <string name="remove_account_failed">"Ce compte est requis par certaines applications. Vous ne pouvez le supprimer qu\'en rétablissant la configuration d\'usine du téléphone (ce qui supprime toutes vos données personnelles) dans Paramètres &gt; Sauvegarder et réinitialiser."</string>
@@ -1455,15 +1455,15 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="remove_from_frequently_fragment">Supprimer \"%s\" des paramètres communs ?</string>
   <string name="reset_app_preferences">Réinitialiser préf. applis</string>
   <string name="reset_app_preferences_button">Réinitialiser applis</string>
-  <string name="reset_app_preferences_desc">\"Cette opération entraîne la réinitialisation de toutes les préférences pour : 
+  <string name="reset_app_preferences_desc">\"Cette opération entraîne la réinitialisation de toutes les préférences pour : 
 
- \"<li>les applications désactivées ;</li>\"
- \"<li>les notifications des applications désactivées ;</li>\"
- \"<li>les applications utilisées par défaut pour certaines actions ;</li>\"
+ \"<li>les applications désactivées ;</li>\"
+ \"<li>les notifications des applications désactivées ;</li>\"
+ \"<li>les applications utilisées par défaut pour certaines actions ;</li>\"
  \"<li>les restrictions relatives aux données en arrière-plan pour les applications.</li>\"
 
  Vous ne perdrez aucune des données relatives à ces applications.\"</string>
-  <string name="reset_app_preferences_title">Réinitialiser préférences ?</string>
+  <string name="reset_app_preferences_title">Réinitialiser préférences ?</string>
   <string name="restore_default_apn">Restauration des paramètres APN par défaut en cours...</string>
   <string name="restore_default_apn_completed">La réinitialisation des paramètres APN par défaut est terminée.</string>
   <string name="retry">Réessayer</string>
@@ -1473,19 +1473,19 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="roaming_disable">"Se connecter aux services de données lors de l\'itinérance"</string>
   <string name="roaming_enable">"Se connecter aux services de données lors de l\'itinérance"</string>
   <string name="roaming_reenable_message">"Vous avez été déconnecté, car vous avez quitté votre réseau domestique et l\'itinérance des données est désactivée."</string>
-  <string name="roaming_reenable_title">"Autoriser l\'itinérance des données ?"</string>
+  <string name="roaming_reenable_title">"Autoriser l\'itinérance des données ?"</string>
   <string name="roaming_turn_it_on_button">Activer</string>
   <string name="roaming_warning">"Lorsque vous activez l\'itinérance des données, des frais d\'itinérance importants peuvent s\'appliquer."</string>
   <string name="rssi_label">RSSI:</string>
-  <string name="running_processes_item_description_p_p">%1$d processus et %2$d services</string>
-  <string name="running_processes_item_description_p_s">%1$d processus et %2$d service</string>
-  <string name="running_processes_item_description_s_p">%1$d processus et %2$d services</string>
-  <string name="running_processes_item_description_s_s">%1$d processus et %2$d service</string>
+  <string name="running_processes_item_description_p_p">%1$d processus et %2$d services</string>
+  <string name="running_processes_item_description_p_s">%1$d processus et %2$d service</string>
+  <string name="running_processes_item_description_s_p">%1$d processus et %2$d services</string>
+  <string name="running_processes_item_description_s_s">%1$d processus et %2$d service</string>
   <string name="runningservicedetails_processes_title">Processus</string>
   <string name="runningservicedetails_services_title">Services</string>
   <string name="runningservicedetails_settings_title">"Application en cours d\'exécution"</string>
   <string name="runningservicedetails_stop_dlg_text">"Si vous arrêtez ce service, certaines fonctionnalités de votre téléphone peuvent cesser de fonctionner correctement jusqu\'à ce que vous ayez éteint, puis rallumé votre appareil."</string>
-  <string name="runningservicedetails_stop_dlg_title">Arrêter le service système ?</string>
+  <string name="runningservicedetails_stop_dlg_title">Arrêter le service système ?</string>
   <string name="runningservices_settings_summary">"Afficher et contrôler les services en cours d\'exécution"</string>
   <string name="runningservices_settings_title">"Services en cours d\'exécution"</string>
   <string name="safe_relative">Liés à la sécurité</string>
@@ -1518,23 +1518,23 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="sd_ejecting_summary">Désinstallation en cours</string>
   <string name="sd_ejecting_title">Désinstallation en cours</string>
   <string name="sd_format">Effacer la mémoire USB</string>
-  <string name="sd_format_summary">Effacer les données de la mémoire de stockage USB interne (ex. : musique, photos)</string>
+  <string name="sd_format_summary">Effacer les données de la mémoire de stockage USB interne (ex. : musique, photos)</string>
   <string name="sd_insert_summary">Insérer mémoire USB à installer</string>
   <string name="sd_memory">Mémoire de stockage USB</string>
   <string name="sd_mount">Installer une mémoire de stockage USB</string>
   <string name="sdcard_changes_instructions">Les modifications prendront effet lors de la prochaine connexion du câble USB.</string>
   <string name="sdcard_format">Effacer la mémoire de stockage USB</string>
   <string name="sdcard_setting">Mémoire de stockage USB</string>
-  <string name="sdcard_settings_available_bytes_label">Octets disponibles :</string>
+  <string name="sdcard_settings_available_bytes_label">Octets disponibles :</string>
   <string name="sdcard_settings_bad_removal_status">Mémoire USB retirée pendant son utilisation</string>
   <string name="sdcard_settings_mass_storage_status">Mémoire USB utilisée comme stockage de masse</string>
   <string name="sdcard_settings_not_present_status">Mémoire USB non installée</string>
   <string name="sdcard_settings_read_only_status">Mémoire USB en lecture seule</string>
   <string name="sdcard_settings_scanning_status">Recherche fichiers multimédias sur USB</string>
   <string name="sdcard_settings_screen_mass_storage_text">Activer la mémoire de stockage de masse USB</string>
-  <string name="sdcard_settings_total_bytes_label">Octets au total :</string>
+  <string name="sdcard_settings_total_bytes_label">Octets au total :</string>
   <string name="sdcard_settings_unmounted_status">Retirez mémoire USB en toute sécurité.</string>
-  <string name="sdcard_settings_used_bytes_label">Octets utilisés :</string>
+  <string name="sdcard_settings_used_bytes_label">Octets utilisés :</string>
   <string name="sdcard_unmount">Désinstaller mémoire USB</string>
   <string name="search_about">À propos</string>
   <string name="search_accelerometer">Accéléromètre</string>
@@ -1573,7 +1573,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="security_privacy_settings_title">Sécurité et confidentialité</string>
   <string name="security_relative">Liés à la sécurité</string>
   <string name="security_settings_desc">Cette application peut accéder aux éléments suivants de votre téléphone :</string>
-  <string name="security_settings_desc_multi">"Cette application peut accéder aux éléments de votre téléphone répertoriés ci-dessous. Afin d\'améliorer les performances et de réduire l\'utilisation de la mémoire, certaines autorisations sont accordées à %1$s, car elle s\'exécute au sein du même processus que les applications %2$s :"</string>
+  <string name="security_settings_desc_multi">"Cette application peut accéder aux éléments de votre téléphone répertoriés ci-dessous. Afin d\'améliorer les performances et de réduire l\'utilisation de la mémoire, certaines autorisations sont accordées à %1$s, car elle s\'exécute au sein du même processus que les applications %2$s :"</string>
   <string name="security_settings_summary">"Définir les paramètres de l\'option Ma position et de verrouillage"</string>
   <string name="security_settings_title">Sécurité</string>
   <string name="sel_sub_summary">Sélectionnez l\'abonnement pour SUB-1 et SUB-2</string>
@@ -1586,7 +1586,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s utilisé(s)</string>
   <string name="service_manage">Paramètres</string>
-  <string name="service_manage_description">"En cours d\'utilisation : %1$s. Appuyez sur Paramètres pour contrôler ce client."</string>
+  <string name="service_manage_description">"En cours d\'utilisation : %1$s. Appuyez sur Paramètres pour contrôler ce client."</string>
   <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Redémarrage en cours</string>
   <string name="service_started_by_app">"Démarré par l\'application"</string>
@@ -1683,7 +1683,7 @@ Le code PIN est peut-être incorrect.\"</string>
   <string name="sound_settings">Son</string>
   <string name="spellchecker_language">Langue</string>
   <string name="spellchecker_quick_settings">Paramètres</string>
-  <string name="spellchecker_security_warning">"Ce correcteur orthographique peut recueillir l\'ensemble du texte saisi, y compris des données personnelles comme des mots de passe et des numéros de carte de paiement. Il provient de l\'application %1$s. Utiliser ce correcteur orthographique ?"</string>
+  <string name="spellchecker_security_warning">"Ce correcteur orthographique peut recueillir l\'ensemble du texte saisi, y compris des données personnelles comme des mots de passe et des numéros de carte de paiement. Il provient de l\'application %1$s. Utiliser ce correcteur orthographique ?"</string>
   <string name="spellcheckers_settings_title">Correcteur orthographique</string>
   <string name="ssid_label">SSID:</string>
   <string name="status_awake_time">Temps en activité</string>
@@ -1746,7 +1746,7 @@ Le code PIN est peut-être incorrect.\"</string>
   <string name="sync_menu_sync_now">Synchroniser maintenant</string>
   <string name="sync_one_time_sync">\"Appuyer ici pour lancer la synchronisation maintenant
 %1$s\"</string>
-  <string name="sync_plug"><font fgcolor="#ffffffff">Bienvenue sur Google Sync !</font>\"
+  <string name="sync_plug"><font fgcolor="#ffffffff">Bienvenue sur Google Sync !</font>\"
 Une solution Google pour synchroniser vos données et vous permettre d\'accéder à vos contacts, vos rendez-vous et plus, où que vous soyez.\"</string>
   <string name="sync_settings">Comptes et synchronisation</string>
   <string name="sync_wifi_label">Sync. Wi-Fi</string>
@@ -1781,11 +1781,11 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="trust_switch_dialog_msg">\"Miui ne vous demandera pas de confirmation sur la sécurité et la confidentialité lié à cette app. Assurez-vous de savoir ce que vous faîtes. 
 Faire confiance à cette app. ?\"</string>
   <string name="trusted_credentials">Certificats de confiance</string>
-  <string name="trusted_credentials_disable_confirmation">"Désactiver le certificat d\'autorité du système ?"</string>
+  <string name="trusted_credentials_disable_confirmation">"Désactiver le certificat d\'autorité du système ?"</string>
   <string name="trusted_credentials_disable_label">Désactiver</string>
-  <string name="trusted_credentials_enable_confirmation">"Activer le certificat d\'autorité du système ?"</string>
+  <string name="trusted_credentials_enable_confirmation">"Activer le certificat d\'autorité du système ?"</string>
   <string name="trusted_credentials_enable_label">Activer</string>
-  <string name="trusted_credentials_remove_confirmation">"Supprimer définitivement le certificat d\'autorité utilisateur ?"</string>
+  <string name="trusted_credentials_remove_confirmation">"Supprimer définitivement le certificat d\'autorité utilisateur ?"</string>
   <string name="trusted_credentials_remove_label">Supprimer</string>
   <string name="trusted_credentials_summary">"Afficher les certificats d\'autorité de confiance"</string>
   <string name="trusted_credentials_system_tab">Système</string>
@@ -1840,7 +1840,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Sécurité faible, expérimental</string>
   <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
   <string name="unlock_set_unlock_disabled_summary">Désactivé par admin., règles chiffrement ou stockage des identifiants</string>
-  <string name="unlock_set_unlock_launch_picker_change_summary">Modifier ou désactiver la sécurité : schéma, code PIN ou mot de passe</string>
+  <string name="unlock_set_unlock_launch_picker_change_summary">Modifier ou désactiver la sécurité : schéma, code PIN ou mot de passe</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Modifier écran verr.</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">"Choisir une méthode pour verrouiller l\'écran"</string>
   <string name="unlock_set_unlock_launch_picker_title">"Verrouillage de l\'écran"</string>
@@ -1886,7 +1886,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="usb_msd_driver_installer_title">Disque d\'installation du pilote (MSD)</string>
   <string name="usb_msd_summary">Transférer des fichiers sur Windows et Mac</string>
   <string name="usb_msd_title">Stockage de masse USB</string>
-  <string name="usb_mtp_summary">"Permet de transférer des fichiers multimédias sous Windows ou à l\'aide de l\'application Android File Transfer pour Mac (voir www.android.com/filetransfer)"</string>
+  <string name="usb_mtp_summary">"Permet de transférer des fichiers multimédias sous Windows ou à l\'aide de l\'application Android File Transfer pour Mac (voir www.android.com/filetransfer)"</string>
   <string name="usb_mtp_title">Périphérique multimédia (MTP)</string>
   <string name="usb_ptp_summary">"Permet de transférer des photos à l\'aide du logiciel photo et de transférer des fichiers sur les ordinateurs non compatibles avec le protocole MTP."</string>
   <string name="usb_ptp_title">Appareil photo (PTP)</string>
@@ -1904,18 +1904,18 @@ Faire confiance à cette app. ?\"</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utiliser la langue du système</string>
   <string name="user_add_user_menu">Ajouter utilisateur</string>
   <string name="user_confirm_remove_message">"L\'espace et les données de cet utilisateur vont être supprimés de ce téléphone. Cette action est irréversible."</string>
-  <string name="user_confirm_remove_title">"Supprimer l\'utilisateur ?"</string>
+  <string name="user_confirm_remove_title">"Supprimer l\'utilisateur ?"</string>
   <string name="user_details_title">Modifier les détails</string>
   <string name="user_dict_multiple_settings_title">Dictionnaires personnels</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
   <string name="user_dict_settings_add_dialog_less_options">"Moins d\'options"</string>
   <string name="user_dict_settings_add_dialog_more_options">"Plus d\'options"</string>
   <string name="user_dict_settings_add_dialog_title">Ajouter au dictionnaire</string>
-  <string name="user_dict_settings_add_locale_option_name">Langue :</string>
+  <string name="user_dict_settings_add_locale_option_name">Langue :</string>
   <string name="user_dict_settings_add_menu_title">Ajouter</string>
   <string name="user_dict_settings_add_screen_title">Expression</string>
   <string name="user_dict_settings_add_shortcut_option_name">Raccourci :</string>
-  <string name="user_dict_settings_add_word_option_name">Mot :</string>
+  <string name="user_dict_settings_add_word_option_name">Mot :</string>
   <string name="user_dict_settings_all_languages">Pour toutes les langues</string>
   <string name="user_dict_settings_context_menu_delete_title">Supprimer</string>
   <string name="user_dict_settings_context_menu_edit_title">Modifier</string>
@@ -1936,7 +1936,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="user_restrictions_heading">Restrictions de contenu</string>
   <string name="user_settings_title">Utilisateurs</string>
   <string name="user_system_apps_heading">Applications système</string>
-  <string name="version_text">version %1$s</string>
+  <string name="version_text">version %1$s</string>
   <string name="vibrate_category_title">Vibreur</string>
   <string name="vibrate_in_normal_title">Vibrer en mode normal</string>
   <string name="vibrate_in_silent_title">Vibrer en mode silencieux</string>
@@ -2050,7 +2050,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="widget_picker_title">Choisir un widget</string>
   <string name="wifi_access_points">Réseaux Wi-Fi</string>
   <string name="wifi_add_network">Ajouter un réseau</string>
-  <string name="wifi_advanced_ip_address_title">Adresse IP</string>
+  <string name="wifi_advanced_ip_address_title">Adresse IP</string>
   <string name="wifi_advanced_mac_address_title">Adresse MAC</string>
   <string name="wifi_advanced_settings_label">Paramètres IP</string>
   <string name="wifi_advanced_titlebar">Paramètres Wi-Fi avancés</string>
@@ -2067,9 +2067,9 @@ Faire confiance à cette app. ?\"</string>
   <string name="wifi_disabled_help">Réseau évité en raison d\'une mauvaise connexion. Désactivez ce paramètre en sélectionnant Paramètres &gt; Ecran Wi-Fi &gt; Eléments du menu Avancé</string>
   <string name="wifi_disabled_network_failure">Mauvaise connexion Internet évitée</string>
   <string name="wifi_disabled_password_failure">"Problème d\'authentification."</string>
-  <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_dns1">DNS 1</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
-  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">4.4.4.4</string>
   <string name="wifi_eap_anonymous">Anonyme</string>
   <string name="wifi_eap_ca_cert">Certificat CA</string>
@@ -2102,7 +2102,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="wifi_menu_connect">Se connecter au réseau</string>
   <string name="wifi_menu_forget">Retirer le réseau</string>
   <string name="wifi_menu_modify">Modifier le réseau</string>
-  <string name="wifi_menu_p2p">Wi-Fi Direct</string>
+  <string name="wifi_menu_p2p">Wi-Fi Direct</string>
   <string name="wifi_menu_scan">Rechercher</string>
   <string name="wifi_menu_wfd">Wi-Fi Display</string>
   <string name="wifi_menu_wps_pbc">Bouton commande WPS</string>
@@ -2115,12 +2115,12 @@ Faire confiance à cette app. ?\"</string>
   <string name="wifi_notify_open_networks_summary">"Me notifier lorsqu\'un réseau ouvert est disponible"</string>
   <string name="wifi_on_time">Wi-Fi/temps</string>
   <string name="wifi_other_network">Autre réseau…</string>
-  <string name="wifi_p2p_cancel_connect_message">"Voulez-vous annuler l\'invitation à se connecter avec %1$s ?"</string>
-  <string name="wifi_p2p_cancel_connect_title">"Annuler l\'invitation ?"</string>
+  <string name="wifi_p2p_cancel_connect_message">"Voulez-vous annuler l\'invitation à se connecter avec %1$s ?"</string>
+  <string name="wifi_p2p_cancel_connect_title">"Annuler l\'invitation ?"</string>
   <string name="wifi_p2p_device_info">"Informations sur l\'appareil"</string>
   <string name="wifi_p2p_disconnect_message">Si vous vous déconnectez, votre connexion avec %1$s prendra fin.</string>
-  <string name="wifi_p2p_disconnect_multiple_message">Si vous vous déconnectez, votre connexion avec %1$s et %2$s autres appareils prendra fin.</string>
-  <string name="wifi_p2p_disconnect_title">Déconnecter ?</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Si vous vous déconnectez, votre connexion avec %1$s et %2$s autres appareils prendra fin.</string>
+  <string name="wifi_p2p_disconnect_title">Déconnecter ?</string>
   <string name="wifi_p2p_failed_connect_message">Impossible de se connecter.</string>
   <string name="wifi_p2p_failed_rename_message">"Échec du changement de nom de l\'appareil."</string>
   <string name="wifi_p2p_menu_advanced">Paramètres avancés</string>
@@ -2259,9 +2259,9 @@ Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.<
   <string name="wifi_wps_failed_overlap">Une autre session WPS a été détectée. Veuillez réessayer dans quelques minutes.</string>
   <string name="wifi_wps_failed_tkip">"La configuration de sécurité du routeur sans fil (TKIP) n\'est pas compatible."</string>
   <string name="wifi_wps_failed_wep">"La configuration de sécurité du routeur sans fil (WEP) n\'est pas compatible."</string>
-  <string name="wifi_wps_in_progress">"La configuration WPS est déjà en cours et peut prendre jusqu\'à deux minutes."</string>
-  <string name="wifi_wps_onstart_pbc">"Appuyez sur le bouton \"Configuration Wi-Fi protégée\" de votre routeur. Celui-ci peut s\'appeler \"WPS\" ou contenir ce symbole :"</string>
-  <string name="wifi_wps_onstart_pin">"Saisissez le code %1$s sur votre routeur Wi-Fi. La configuration peut prendre jusqu\'à deux minutes."</string>
+  <string name="wifi_wps_in_progress">"La configuration WPS est déjà en cours et peut prendre jusqu\'à deux minutes."</string>
+  <string name="wifi_wps_onstart_pbc">"Appuyez sur le bouton \"Configuration Wi-Fi protégée\" de votre routeur. Celui-ci peut s\'appeler \"WPS\" ou contenir ce symbole :"</string>
+  <string name="wifi_wps_onstart_pin">"Saisissez le code %1$s sur votre routeur Wi-Fi. La configuration peut prendre jusqu\'à deux minutes."</string>
   <string name="wifi_wps_overlap_error">Autre session protégée Wi-Fi détectée. Réessayez dans quelques minutes</string>
   <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS…</string>
   <string name="wifi_wps_setup_title">Configuration Wi-Fi protégée</string>
