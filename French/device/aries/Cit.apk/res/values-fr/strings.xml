@@ -17,7 +17,7 @@
   <string name="cit_audio_loopback_dualmic_earpiece_title">Test d\'appel audio</string>
   <string name="cit_audio_loopback_next">Suivant</string>
   <string name="cit_audio_loopback_previous">Précédent</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">Test d\'appel, parler en utilisant le micro principal et la voix sera entendue directement de l\'appareil</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test d\'appel, parler en utilisant le micro principal et la voix sera entendue directement de l\'appareil"</string>
   <string name="cit_battery_temp_fail">Le test de batterie a échoué avec (valeur=%d)</string>
   <string name="cit_battery_temp_pass">Test de batterie réussi</string>
   <string name="cit_batterylight_blue">Bleu</string>
@@ -67,7 +67,7 @@
 1.Appuyez sur le bouton appareil photo pour ouvrir le système caméra/appareil photo
 2.Prenez une photo
 3.Appuyez sur OK, Le système enregistrera automatiquement l\'image
-4.Vous pouvez regarder la photo, lorsque vous êtes satisfait, vous pouvez la garder ou la supprimer</string>
+4.Vous pouvez regarder la photo, lorsque vous êtes satisfait, vous pouvez la garder ou la supprimer\"</string>
   <string name="cit_front_camera_check_title">Tester l\'appareil photo (face avant)</string>
   <string name="cit_gps_check_summary">Ce test affichera les informations GPS</string>
   <string name="cit_gps_check_title">Test du GPS</string>
@@ -100,13 +100,11 @@
   <string name="cit_headset_pull_finish">Casque débranché</string>
   <string name="cit_headset_pull_hint">Débranchez vos écouteurs</string>
   <string name="cit_hide_menu">Fermer le Menu</string>
-  <string name="cit_kayboard_volume_down">Test du bouton: Diminuer volume</string>
-  <string name="cit_kayboard_volume_up">Test du bouton: Augmenter volume</string>
-  <string name="cit_keyboard_back">Test du bouton: Retour</string>
-  <string name="cit_keyboard_camera">Test du bouton: Appareil photo</string>
+  <string name="cit_kayboard_volume_down">Test du bouton: VOLUME_DOWN</string>
+  <string name="cit_kayboard_volume_up">Test du bouton: VOLUME_UP</string>
+  <string name="cit_keyboard_back">Test du bouton: BACK</string>
   <string name="cit_keyboard_current">Clavier : %s</string>
-  <string name="cit_keyboard_focus">Test du bouton: Focaliser</string>
-  <string name="cit_keyboard_menu">Tester le bouton: Menu</string>
+  <string name="cit_keyboard_menu">Test du bouton: MENU</string>
   <string name="cit_keyboard_test_summary">Montre quelle touche matérielle est sélectionnée, ce test ne vérifie pas le bouton home</string>
   <string name="cit_keyboard_test_title">Test du clavier</string>
   <string name="cit_label">Détection du matériel</string>
@@ -121,7 +119,6 @@
   <string name="cit_magnetic_sensor_check_title">Test du capteur magnétique</string>
   <string name="cit_main_camera_check_summary">Test de la liste de contrôle: \n\n 1. Cliquez sur le bouton de l\'appareil photo pour ouvrir l\'appareil photo\n 2. Vérifier que le flash est activé\n 3. Cliquez sur la liste des photos\n 4. Cliquez sur le bouton OK, cela va automatiquement enregistrer l\'image\n 5. Vérifier que la photo s\'affiche correctement, et supprimez-la</string>
   <string name="cit_main_camera_check_title">Test de la caméra (face arrière)</string>
-  <string name="cit_main_camera_sdcard_error">Carte SD pleine, impossible de sauvegarder la photo</string>
   <string name="cit_name">Détection du matériel</string>
   <string name="cit_not_available">La version utilisateur ne permet pas ce test, seul le test d\'usine est disponible</string>
   <string name="cit_notificationlight">Indicateur de notification</string>
@@ -145,7 +142,7 @@
   <string name="cit_sd_fail">Impossible de lire la carte SD, l\'opération a échoué</string>
   <string name="cit_sd_mount">Monter la carte SD</string>
   <string name="cit_sd_mount_sucess">La carte SD a été montée avec succès</string>
-  <string name="cit_sd_mp3_not_existed">Le fichier musique.mp3 ne doit pas se trouver à la racine de votre carte SD, ajoutez le fichier et recommencez le test de lecture.</string>
+  <string name="cit_sd_mp3_not_existed">"Le fichier music.mp3 ne doit pas se trouver à la racine de votre carte SD, ajoutez le fichier et recommencez le test de lecture."</string>
   <string name="cit_sd_plugged_in">Carte SD chargée, retirez la carte SD</string>
   <string name="cit_sd_plugged_out">Carte SD non montée, monter la carte SD</string>
   <string name="cit_sd_plugin_check_summary">Ce test va détecter si la carte SD est montée, l\'écran affiche alors \La carte SD a été montée\</string>
@@ -189,28 +186,28 @@
   <string name="cit_tool_log_toast">Fichier journal enregistré dans %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">La génération du rapport de bug peut prendre jusqu\'à 10 secondes</string>
   <string name="cit_tool_wifi">Outils de test de la Wi-Fi</string>
-  <string name="cit_tool_wifi_b_13a">TX:13 / 1 M/15dBm</string>
-  <string name="cit_tool_wifi_b_13b">TX:13 / 1 M/15dBm</string>
-  <string name="cit_tool_wifi_b_1a">TX:13 / 1 M/15dBm</string>
-  <string name="cit_tool_wifi_b_1b">TX:13 / 1 M/15dBm</string>
+  <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
+  <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
+  <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
+  <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
   <string name="cit_tool_wifi_exit">Quitter</string>
-  <string name="cit_tool_wifi_g_13a">TX:13 / 6 M/13dBm</string>
-  <string name="cit_tool_wifi_g_13b">TX:13 / 54 M/13dBm</string>
-  <string name="cit_tool_wifi_g_1a">TX:13 / 6 M/13dBm</string>
-  <string name="cit_tool_wifi_g_1b">TX:13 / 54 M/13dBm</string>
-  <string name="cit_tool_wifi_n_13a">TX:13/MCS0/11dBm</string>
-  <string name="cit_tool_wifi_n_13b">TX:13/MCS0/11dBm</string>
-  <string name="cit_tool_wifi_n_1a">TX:13/MCS0/11dBm</string>
-  <string name="cit_tool_wifi_n_1b">TX:13/MCS0/11dBm</string>
-  <string name="cit_tool_wifi_rx_1">Rx: 1</string>
-  <string name="cit_tool_wifi_rx_13">Rx : 13</string>
-  <string name="cit_tool_wifi_rx_7">Rx: 7</string>
-  <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
+  <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
+  <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
+  <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
+  <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
+  <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
+  <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
+  <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
+  <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
+  <string name="cit_tool_wifi_rx_1">Rx:1</string>
+  <string name="cit_tool_wifi_rx_13">Rx:13</string>
+  <string name="cit_tool_wifi_rx_7">Rx:7</string>
+  <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
   <string name="cit_tool_wifi_rx_ap_name">Nom du point d\'accès</string>
   <string name="cit_tool_wifi_rx_ap_not_null">Le nom du point d\'accès ne peut pas être vide</string>
   <string name="cit_tool_wifi_rx_ap_type">Type du point d\'accès</string>
   <string name="cit_tool_wifi_rx_ap_type_error">Erreur de point d\'accès, entrez à nouveau les détails du bss / ad hoc</string>
-  <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
+  <string name="cit_tool_wifi_rx_chan">Rx: Canal</string>
   <string name="cit_tool_wifi_rx_count_error">La valeur de sortie n\'est pas un nombre</string>
   <string name="cit_tool_wifi_rx_error">Une erreur s\'est produite</string>
   <string name="cit_tool_wifi_rx_exit">Rx: sortie</string>
