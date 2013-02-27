@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_label">Stockage de contacts</string>
+  <string name="app_label">Liste des contacts</string>
   <string name="create_contact">Nouveau contact</string>
   <string name="default_directory">Contacts</string>
   <string name="edit_contact">Ajouter au contact</string>
   <string name="local_invisible_directory">Autre</string>
   <string name="pound_search_tip">Entrer le numéro après le \"#\" pour rechercher des contacts</string>
   <string name="provider_label">Contacts</string>
-  <string name="read_write_all_voicemail_description">Autoriser l\'application à stocker et récupérer tous les messages vocaux dont l\'appareil a accès.</string>
+  <string name="read_write_all_voicemail_description">"Permet à l\'application de stocker et de récupérer tous les messages vocaux auxquels cet appareil peut accéder."</string>
   <string name="read_write_all_voicemail_label">Accéder à tous les messages vocaux</string>
   <string name="send_sms">Envoyer le message</string>
-  <string name="sharedUserLabel">Applications Android de base</string>
-  <string name="upgrade_msg">Mise à jour de la base de données de contacts.</string>
-  <string name="upgrade_out_of_memory_notification_text">Sélectionnez cette option pour effectuer la mise à niveau.</string>
-  <string name="upgrade_out_of_memory_notification_ticker">La mise à niveau du contact nécessite plus de mémoire</string>
-  <string name="upgrade_out_of_memory_notification_title">Mise à niveau de stockage du contact</string>
-  <string name="voicemail_from_column">Messagerie vocale de </string>
+  <string name="sharedUserLabel">Applications de base Android</string>
+  <string name="upgrade_msg">Mise à jour de la base de données des contacts en cours…</string>
+  <string name="upgrade_out_of_memory_notification_text">Appuyez pour terminer la mise à jour.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">La mise à jour des contacts requiert plus de mémoire.</string>
+  <string name="upgrade_out_of_memory_notification_title">Mise à jour du stockage des contacts</string>
+  <string name="voicemail_from_column">"Message vocal de "</string>
 </resources>
