@@ -188,7 +188,7 @@
   <string name="alert_selected_all_message">"a au moins %d messages, sélectionner tout ?"</string>
   <string name="alert_title_selected">Sélectionner tout</string>
   <string name="app_name">E-mail</string>
-  <string name="application_name">Instant Upload</string>
+  <string name="application_name">Instant Upload</string>
   <string name="attachment_info_apk_install_disabled">"Les applications ne peuvent pas être installées directement depuis un e-mail. Enregistrez tout d\'abord cette application, puis installez-la à l\'aide de l\'application Téléchargements."</string>
   <string name="attachment_info_application_settings">Paramètres application</string>
   <string name="attachment_info_dialog_default_title">Informations sur la pièce jointe</string>
@@ -417,18 +417,19 @@ Cc : %4$s
   <string name="message_view_status_attachment_not_saved">"Impossible d\'enreg. pièce jointe."</string>
   <string name="message_view_status_attachment_saved">PJ enregistrée sous %s.</string>
   <string name="message_view_subject_label">Objet :</string>
-  <string name="message_view_to_label">À : </string>
+  <string name="message_view_to_label">À :</string>
   <string name="more_string">%1$s autres...</string>
-  <string name="more_than_999">999+</string>
+  <string name="more_than_999">&gt; 999</string>
   <string name="move_action">Déplacer</string>
   <string name="move_to_folder_dialog_title">Déplacer vers</string>
+  <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
   <string name="next_action">Suivant</string>
   <string name="notification_multiple_new_messages_fmt">%1$d nouveaux messages</string>
   <string name="notification_to_account">à %1$s</string>
   <string name="notify_activation_reminder">"Instant Upload n\'a pas encore été activé."</string>
   <string name="notify_paused">Transferts interrompus</string>
   <string name="notify_resolved">Transferts terminés</string>
-  <string name="notify_uploads">Instant Upload</string>
+  <string name="notify_uploads">Instant Upload</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="password_expire_warning_content_title">Expiration mot de passe de verrouillage</string>
@@ -459,7 +460,7 @@ Cc : %4$s
   <string name="picker_combined_view_fmt">Boîte globale (%s)</string>
   <string name="picker_mailbox_name_all_inbox">Boîte de réception (tous)</string>
   <string name="picker_mailbox_name_all_unread">Boîte de réception (non lus)</string>
-  <string name="plus_cc_label">+ Cc/Bcc</string>
+  <string name="plus_cc_label">+ Cc/Cci</string>
   <string name="position_of_count">%1$d sur %2$s</string>
   <string name="preference_category_title_about">À propos</string>
   <string name="preference_category_title_general">Paramètres généraux</string>
@@ -471,7 +472,7 @@ Cc : %4$s
   <string name="preference_plus_category_advanced">Avancés</string>
   <string name="preference_plus_delay_sync_until_charging">Transferts en charge</string>
   <string name="preference_plus_delay_sync_until_charging_summary">Transférer les photos et les vidéos uniquement lors de la mise en charge</string>
-  <string name="preference_plus_enable_cs">Instant Upload</string>
+  <string name="preference_plus_enable_cs">Instant Upload</string>
   <string name="preference_plus_enable_cs_summary">Transférer automatiquement les nouvelles photos et vidéos vers un album Web privé</string>
   <string name="preference_plus_mobile_data_connection">Transferts via connexion mobile</string>
   <string name="preference_plus_sync_all">Transférer les photos existantes</string>
@@ -530,7 +531,8 @@ Cc : %4$s
   <string name="settings_action">Paramètres</string>
   <string name="settings_activity_title">Paramètres</string>
   <string name="show_quick_text_list_dialog_action">Insérer la réponse rapide</string>
-  <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
+  <string name="single_new_message_notification_big_text">\"%1$s
+%2$s\"</string>
   <string name="status_loading_messages">Chargement des messages...</string>
   <string name="status_network_error">Problème de connexion.</string>
   <string name="subject_hint">Objet:</string>

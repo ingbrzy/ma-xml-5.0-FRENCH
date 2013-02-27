@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string formatted="false" name="hour">%d heure(s)</string>
-  <string formatted="false" name="minute">%d minute</string>
-  <string formatted="false" name="notification_warning">Espace libre faible (moins de %d minutes)...</string>
-  <string formatted="false" name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>
-  <string formatted="false" name="second">%d secondes</string>
-  <string formatted="false" name="timer_format">%02d:%02d</string>
   <string name="alert_message_delete_record">Voulez-vous supprimer l\'enregistrement sélectionné ?</string>
   <string name="app_name">Dictaphone</string>
   <string name="audio_db_album_name">Enregistrements audio</string>
@@ -28,6 +22,7 @@
   <string name="error_mediadb_new_record">Impossible d\'enregistrer les fichiers audio enregistrés</string>
   <string name="error_sdcard_access">Impossible d\'accéder au stockage externe ou interne</string>
   <string name="fm_record">Enregistrement FM (%d)</string>
+  <string formatted="false" name="hour">%d heure(s)</string>
   <string name="insert_sd_card">Carte SD requise</string>
   <string name="low_battery_error">La batterie est inférieure à 5%, pour s\'assurer que l\'enregistrement ne soit pas perdu il a été arrêté et sauvegardé.</string>
   <string name="low_battery_message_title">Batterie faible</string>
@@ -36,19 +31,22 @@
   <string name="max_length_reached">Durée maximale atteinte</string>
   <string name="menu_setting">Paramètres</string>
   <string name="menu_view_record_list">Liste des enregistrements</string>
+  <string formatted="false" name="minute">%d minute</string>
   <string name="no_file">Aucun enregistrement</string>
   <string name="notification_playback">Lecture de l\'enregistrement...</string>
   <string name="notification_playback_paused">Lecture en pause...</string>
   <string name="notification_recording">Enregistrement...</string>
   <string name="notification_stopped">Enregistrement a cessé</string>
+  <string formatted="false" name="notification_warning">Espace libre faible (moins de %d minutes)...</string>
   <string name="open_file_explorer">Ouvrez l\'explorateur de fichiers</string>
+  <string formatted="false" name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>
+  <string name="prefDefault_recordType">audio/3gpp</string>
+  <string name="prefDialogTitle_recordType">Veuillez sélectionner le type de fichier</string>
   <string name="pref_summary_enable_high_quality">Le fichier audio avec une haute qualité sera de taille plus importante</string>
   <string name="pref_summary_enable_sound_effect">Avertir par un son lorsque le statut d\'un enregistrement change</string>
   <string name="pref_title_enable_high_quality">Activer la haute qualité</string>
   <string name="pref_title_enable_sound_effect">Activer les effets sonores</string>
   <string name="pref_title_record_type">Type de fichier d\'enregistrement</string>
-  <string name="prefDefault_recordType">audio/3gpp</string>
-  <string name="prefDialogTitle_recordType">Veuillez sélectionner le type de fichier</string>
   <string name="preferences_title">Paramètres</string>
   <string name="record_list">Liste des enregistrements</string>
   <string name="record_loading"> Démarrage de l\'enregistrement, veuillez patienter.</string>
@@ -61,10 +59,12 @@
   <string name="rename_duplicate">Nom de l\'enregistrement en double, veuillez renommer :</string>
   <string name="rename_illegal">Nom de l\'enregistrement incorrect, veuillez renommer :</string>
   <string name="sd_card_not_available">La carte SD n\'est pas disponible</string>
+  <string formatted="false" name="second">%d secondes</string>
   <string name="send_to">Envoyer à</string>
   <string name="status_bar_anti_disturb">Le son du téléphone a été coupé, ajustez le volume pour reprendre.</string>
   <string name="status_bar_back"> Cliquez pour revenir au dictaphone</string>
   <string name="status_bar_recording">Enregistrement...</string>
   <string name="storage_is_full">Il n\'y a plus d\'espace libre</string>
+  <string formatted="false" name="timer_format">%02d:%02d</string>
   <string name="unknown_caller">Appelant inconnu</string>
 </resources>

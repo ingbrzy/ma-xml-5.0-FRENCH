@@ -4,7 +4,7 @@
   <string name="account_default">Téléphone</string>
   <string name="account_phone">Téléphone uniquement, non synchronisés</string>
   <string name="account_sim">Seulement enregistrés sur la carte SIM</string>
-  <string name="account_type_format">%1$s contact</string>
+  <string name="account_type_format">Contact %1$s</string>
   <string name="actionIncomingCall">Appels entrants</string>
   <string name="action_menu_overflow_description">"Plus d\'options"</string>
   <string name="activity_title_confirm_add_detail">Ajouter au contact</string>
@@ -102,13 +102,12 @@
   <string name="callrecordview_menu_show_stranger">Afficher les appels inconnus</string>
   <string name="callrecordview_menu_show_title">Filtre du journal d\'appel</string>
   <string name="cancel_confirmation_dialog_message">Voulez-vous annuler les modifications ?</string>
-  <string name="cancel_confirmation_dialog_title">Annuler les modifications</string>
   <string name="cancel_export_confirmation_message">Êtes-vous sûr de vouloir annuler l\'exportation de %s ?</string>
   <string name="cancel_import_confirmation_message">Êtes-vous sûr de vouloir annuler l\'importation de %s ?</string>
   <string name="cancel_import_dialog_message">Êtes-vous sûr de que vouloir arrêter l\'importation des contacts ?</string>
   <string name="cancel_import_dialog_title">Annuler l\'importation</string>
   <string name="cancel_vcard_import_or_export_failed">"Impossible d\'annuler l\'importation/exportation de la carte de visite"</string>
-  <string name="chat">Chat</string>
+  <string name="chat">Chatter</string>
   <string name="chat_aim">Chatter avec AIM</string>
   <string name="chat_gtalk">Chatter avec Google Talk</string>
   <string name="chat_icq">Chatter avec ICQ</string>
@@ -136,7 +135,6 @@
   <string name="config_import_vcard_type">default</string>
   <string name="confirm_delete_contact_all_call_logs">"Êtes-vous sûr de vouloir supprimer les %s journaux d\'appel ?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Êtes-vous sûr de vouloir supprimer les journaux d\'appels du contact ?"</string>
-  <string formatted="false" name="confirm_delete_selected_call_log">Supprimer les %1d groupes sélectionnés d\'enregistrements d\'appels ?</string>
   <string name="confirm_export_message">Exporter les contacts vers le fichier %s ?</string>
   <string name="confirm_export_title">Confirmer l\'exportation</string>
   <string name="connections">Connexions</string>
@@ -169,11 +167,10 @@
   <string name="contactsJoinedMessage">Contacts rejoint</string>
   <string name="contactsList">Contacts</string>
   <string name="contacts_unavailable_add_account">Connectez-vous à un compte</string>
-  <string name="contacts_unavailable_add_xiaomi_account">Synchroniser les contacts Xiaomi</string>
   <string name="contacts_unavailable_create_contact">Créer un nouveau contact</string>
   <string name="contacts_unavailable_import_contacts">Importer des contacts à partir d\'un fichier</string>
   <string name="copy_text">Copier dans le Presse-papiers</string>
-  <string name="createContactShortcutSuccessful">Contact widget added to Home screen.</string>
+  <string name="createContactShortcutSuccessful">"Widget de contact ajouté à l\'écran d\'accueil."</string>
   <string name="create_group_dialog_title">Créer un nouveau groupe</string>
   <string name="create_group_item_label">[Créer un nouveau groupe]</string>
   <string name="customLabelPickerTitle">Nom de l\'étiquette personnalisée</string>
@@ -289,12 +286,12 @@
   <string name="editGroupDescription">Modifier le groupe</string>
   <string name="edit_contact">Modifier contact</string>
   <string name="edit_contact_card_title">Modifier la fiche du contact</string>
-  <string name="email">E-mail</string>
+  <string name="email">Envoyer un e-mail</string>
   <string name="emailLabelsGroup">E-mail</string>
-  <string name="email_custom">E-mail %s</string>
+  <string name="email_custom">Envoyer un e-mail à %s</string>
   <string name="email_home">Envoyer un e-mail à une adresse perso</string>
   <string name="email_mobile">Envoyer un e-mail à un mobile</string>
-  <string name="email_other">E-mail</string>
+  <string name="email_other">Envoyer un e-mail</string>
   <string name="email_work">Envoyer un e-mail à une adresse professionnelle</string>
   <string name="emptyGroup">Ce groupe est vide.</string>
   <string name="empty_divider_title">Vous pouvez</string>
@@ -366,8 +363,8 @@
   <string name="hint_search_phone_numbers">%d numéros de téléphone de contact</string>
   <string name="ic_menu_back">Retour</string>
   <string name="ic_menu_done">OK</string>
-  <string name="imLabelsGroup">IM</string>
-  <string name="imei">IMEI</string>
+  <string name="imLabelsGroup">Chat</string>
+  <string name="imei">Code IMEI</string>
   <string name="import_all_vcard_string">Importer tous les fichiers de carte de visite</string>
   <string name="import_contact_card_button">Importer</string>
   <string name="import_failure_no_vcard_file">Aucune carte de visite dans le stockage</string>
@@ -592,12 +589,11 @@ Pour ajouter un contact à la liste de favoris :
   <string name="payphone">Téléphone public</string>
   <string name="people">Contacts</string>
   <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
+  <string name="percentage">%s %%</string>
   <string name="phoneLabelsGroup">Téléphone</string>
   <string name="phone_info_divider">"  |  "</string>
   <string name="phone_primary">Principal</string>
   <string name="photoPickerNotFoundText">Aucune image disponible sur le téléphone</string>
-  <string name="photo_package_activity_title">Paquet de photos</string>
   <string name="pick_favorites_contacts_list_title">%1$d contacts favoris au total</string>
   <string name="pick_favorites_list_title">Total de %1$d numéros de contacts favoris</string>
   <string name="pick_new_photo">Sélectionner une nouvelle photo dans la galerie</string>

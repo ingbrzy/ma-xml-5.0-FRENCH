@@ -3,7 +3,6 @@
   <string name="add_account_desc">Les notes peuvent être synchronisées avec votre compte Xiaomi. Souhaitez-vous vous connecter et synchroniser maintenant ?</string>
   <string name="alert_edit_action_delete">Supprimer</string>
   <string name="alert_edit_action_update">Mise à jour</string>
-  <string name="alert_message_delete_folder">Êtes-vous sûr de vouloir supprimer le dossier sélectionné et les notes ?</string>
   <string name="alert_message_delete_folders">Supprimer les %1$s dossiers sélectionnés ?</string>
   <string name="alert_message_delete_folders_notes">Supprimer les %1$s dossiers et %2$s notes sélectionnés ?</string>
   <string name="alert_message_delete_note">Êtes-vous sûr de vouloir supprimer cette note ?</string>
@@ -49,7 +48,6 @@
   <string name="menu_rename_folder">Renommez le dossier</string>
   <string name="menu_send_to_desktop">Envoyer sur l\'écran d\'accueil</string>
   <string name="menu_setting">Paramètres</string>
-  <string name="menu_share">Partager</string>
   <string name="menu_title_select_folder">Choix du dossier</string>
   <string name="not_now">Pas maintenant</string>
   <string name="note_alert_expired">Expiré</string>

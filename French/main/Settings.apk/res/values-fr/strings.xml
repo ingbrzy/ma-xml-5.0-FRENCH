@@ -73,10 +73,10 @@
   <string name="android_beam_explained">\"Lorsque cette fonctionnalité est activée, vous pouvez partager le contenu d\'une application avec un appareil compatible NFC en rapprochant les appareils. Vous pouvez, par exemple, partager des pages de navigateur, des vidéos YouTube, des contacts et plus encore.
 
 Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\'appuyer sur votre écran. L\'application détermine le contenu à transférer.\"</string>
-  <string name="android_beam_label">Android Beam</string>
+  <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Désactivé</string>
   <string name="android_beam_on_summary">"Prêt à partager le contenu de l\'application via NFC"</string>
-  <string name="android_beam_settings_title">Android Beam</string>
+  <string name="android_beam_settings_title">Android Beam</string>
   <string name="animator_duration_scale_title">Échelle durée animation</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">"Type d\'authentification"</string>
@@ -148,7 +148,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="auto_restore_title">Restaurer automatiquement</string>
   <string name="auto_startup_application_manage">Contrôle d\'application</string>
   <string name="auto_startup_count">Autoriser %d applications de démarrer automatiquement</string>
-  <string name="auto_startup_dialog_msg">"MIUI autorisera à l\'application de démarrer automatiquement sans demander. Cela peut conduire à une consommation d\'énergie/de données. Autoriser le démarrage automatique ?»</string>
+  <string name="auto_startup_dialog_msg">\"MIUI autorisera à l\'application de démarrer automatiquement sans demander. Cela peut conduire à une consommation d\'énergie/de données. Autoriser le démarrage automatique ?»</string>
   <string name="automatic_brightness">Ajuster automatiquement la luminosité</string>
   <string name="available_size">%s disponible</string>
   <string name="awake">"Durée de fonctionnement de l\'appareil"</string>
@@ -222,7 +222,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="battery_info_status_unknown">Inconnu</string>
   <string name="battery_info_technology_label">Technologie de la batterie :</string>
   <string name="battery_info_temperature_label">Température de la batterie :</string>
-  <string name="battery_info_temperature_units">° C</string>
+  <string name="battery_info_temperature_units">° C</string>
   <string name="battery_info_uptime">Temps depuis le démarrage :</string>
   <string name="battery_info_voltage_label">Voltage de la batterie :</string>
   <string name="battery_info_voltage_units">mV</string>
@@ -274,7 +274,6 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_connection_dialog_text">Voulez-vous vous connecter à \"%1$s\" ?</string>
   <string name="bluetooth_connection_notif_message">Appuyez pour vous connecter à \"%1$s\".</string>
   <string name="bluetooth_connection_permission_request">Demande de connexion Bluetooth</string>
-  <string name="bluetooth_default_name">Téléphone MIUI</string>
   <string name="bluetooth_device">Appareil Bluetooth sans nom</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Autoriser les fichiers entrants</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Connecter à un appareil Bluetooth</string>
@@ -662,7 +661,6 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="device_status">État</string>
   <string name="device_status_activity_title">État</string>
   <string name="device_status_summary">Numéro de téléphone, signal, etc.</string>
-  <string name="dialog_title_entryvalues_dolby_control">Contrôle Dolby</string>
   <string name="dialog_title_font_size">Taille de police</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Désact. superpos. matér.</string>
@@ -1257,7 +1255,6 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="perm_operating">En cours...</string>
   <string name="perm_optimize">Optimiser</string>
   <string name="perm_privacy_app_count">%1$d autorisations</string>
-  <string name="perm_privacy_app_count_trust_summary">App de confiance</string>
   <string name="perm_privacy_app_finish">Terminer</string>
   <string name="perm_privacy_app_installed">Installation réussie !</string>
   <string name="perm_privacy_app_launch">Démarrer</string>
@@ -1488,7 +1485,6 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="runningservicedetails_stop_dlg_title">Arrêter le service système ?</string>
   <string name="runningservices_settings_summary">"Afficher et contrôler les services en cours d\'exécution"</string>
   <string name="runningservices_settings_title">"Services en cours d\'exécution"</string>
-  <string name="safe_relative">Liés à la sécurité</string>
   <string name="scan_list_label">Résultats de l\'analyse:</string>
   <string name="screen">Écran</string>
   <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
@@ -1936,7 +1932,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="user_restrictions_heading">Restrictions de contenu</string>
   <string name="user_settings_title">Utilisateurs</string>
   <string name="user_system_apps_heading">Applications système</string>
-  <string name="version_text">version %1$s</string>
+  <string name="version_text">version %1$s</string>
   <string name="vibrate_category_title">Vibreur</string>
   <string name="vibrate_in_normal_title">Vibrer en mode normal</string>
   <string name="vibrate_in_silent_title">Vibrer en mode silencieux</string>
@@ -1960,7 +1956,6 @@ Faire confiance à cette app. ?\"</string>
   <string name="virus_scan_app_waiting">En attente de</string>
   <string name="virus_scanner_auto_update">Mise à jour automatique</string>
   <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
-  <string name="virus_scanner_kinsoft_provider">Jinshan mobile security scanner</string>
   <string name="virus_scanner_lib_already_latest">La base de données antivirus est à jour</string>
   <string name="virus_scanner_lib_update_failed">Échec de la mise à jour de base de données Antivirus !</string>
   <string name="virus_scanner_lib_updating">Mise à jour de la base de données en cours...</string>
@@ -2067,9 +2062,9 @@ Faire confiance à cette app. ?\"</string>
   <string name="wifi_disabled_help">Réseau évité en raison d\'une mauvaise connexion. Désactivez ce paramètre en sélectionnant Paramètres &gt; Ecran Wi-Fi &gt; Eléments du menu Avancé</string>
   <string name="wifi_disabled_network_failure">Mauvaise connexion Internet évitée</string>
   <string name="wifi_disabled_password_failure">"Problème d\'authentification."</string>
-  <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_dns1">DNS 1</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
-  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">4.4.4.4</string>
   <string name="wifi_eap_anonymous">Anonyme</string>
   <string name="wifi_eap_ca_cert">Certificat CA</string>
@@ -2102,7 +2097,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="wifi_menu_connect">Se connecter au réseau</string>
   <string name="wifi_menu_forget">Retirer le réseau</string>
   <string name="wifi_menu_modify">Modifier le réseau</string>
-  <string name="wifi_menu_p2p">Wi-Fi Direct</string>
+  <string name="wifi_menu_p2p">Wi-Fi Direct</string>
   <string name="wifi_menu_scan">Rechercher</string>
   <string name="wifi_menu_wfd">Wi-Fi Display</string>
   <string name="wifi_menu_wps_pbc">Bouton commande WPS</string>
@@ -2226,7 +2221,6 @@ Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.<
   <string name="wifi_unspecified">(non spécifié)</string>
   <string name="wifi_update">Actualiser les statistiques</string>
   <string name="wifi_wapi_as_cert">Certificat WAPI AS</string>
-  <string name="wifi_wapi_as_certificate">AS certificate</string>
   <string name="wifi_wapi_cert_cancel_button">Annuler</string>
   <string name="wifi_wapi_cert_create_subdir">Créer un répertoire</string>
   <string name="wifi_wapi_cert_delet_subdir">Sélectionnez un certificat</string>
@@ -2245,11 +2239,7 @@ Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.<
   <string name="wifi_wapi_cert_uninstall">Désinstaller le certificat WAPI</string>
   <string name="wifi_wapi_cert_uninstall_button">Supprimer</string>
   <string name="wifi_wapi_certification_dont_exist">Le mot de passe réseau que vous avez entré est incorrect. Veuillez réessayer.</string>
-  <string name="wifi_wapi_fail_to_auth">Authetification WAPI échouée. Veuillez vérifier la validité des certificats</string>
-  <string name="wifi_wapi_fail_to_init">Impossible d\'ouvrir les certificats WAPI. Stockage des identifiants indisponible ou non connecté</string>
-  <string name="wifi_wapi_psk_type">Type de mot de passe</string>
   <string name="wifi_wapi_user_cert">Certificat utilisateur</string>
-  <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
   <string name="wifi_wps_available_first_item">WPS disponible</string>
   <string name="wifi_wps_available_second_item">" (WPS disponible)"</string>
   <string name="wifi_wps_complete">Configuration WPS réussie. Connexion au réseau en cours…</string>

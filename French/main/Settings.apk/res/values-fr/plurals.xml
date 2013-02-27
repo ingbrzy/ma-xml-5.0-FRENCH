@@ -26,6 +26,6 @@
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Le mot de passe doit comporter au moins %d caractères autres que des lettres.</item>
-        <item quantity="one">"Le mot de passe doit comporter au moins un caractère autre qu'une lettre."</item>
+        <item quantity="one">"Le mot de passe doit comporter au moins un caractère autre qu\'une lettre."</item>
     </plurals>
 </resources>

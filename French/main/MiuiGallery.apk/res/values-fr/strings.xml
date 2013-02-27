@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string formatted="false" name="confirm_delete_album">Êtes-vous sûr de vouloir supprimer %s albums (contenant %s éléments) ?</string>
-  <string formatted="false" name="confirm_delete_folders_including">%s dossiers (incluant %s)</string>
+  <string name="Import">Importer</string>
   <string name="activity_not_found">Aucune application n\'est disponible pour effectuer l\'action.</string>
   <string name="add_account">Ajouter un compte</string>
   <string name="add_to_cloud_album">Ajouter au MiCloud</string>
@@ -51,7 +50,9 @@
   <string name="cloud_tab_locations">Lieux</string>
   <string name="cloudfolder_already_exists">Le dossier MiCloud existe déjà</string>
   <string name="confirm_delete">Supprimer</string>
+  <string formatted="false" name="confirm_delete_album">Êtes-vous sûr de vouloir supprimer %s albums (contenant %s éléments) ?</string>
   <string name="confirm_delete_folders_and_pictures">Êtes-vous sûr de vouloir supprimer %s ?</string>
+  <string formatted="false" name="confirm_delete_folders_including">%s dossiers (incluant %s)</string>
   <string name="confirm_delete_including_null">0 élément</string>
   <string name="confirm_delete_pictures">%s images</string>
   <string name="confirm_delete_system_album">%s est un album système, êtes-vous sûr de vouloir le supprimer ?</string>
@@ -137,7 +138,6 @@
   <string name="how_many_sub_folders">%d Dossiers</string>
   <string name="how_many_videos">%d Vidéos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
-  <string name="Import">Importer</string>
   <string name="import_complete">Importation terminée</string>
   <string name="import_fail">Échec de l\'importation.</string>
   <string name="initial_cloud_button_text">Commencez à utiliser votre MiCloud</string>
@@ -204,7 +204,7 @@
   <string name="photo_page_save_uri_image_fail">Impossible d\'enregistrer la photo.</string>
   <string name="photo_page_save_uri_image_ok">Enregistrer les photos dans le dossier de la caméra.</string>
   <string name="photo_saved">Photo retouchée enregistrée dans %s.</string>
-  <string name="photoeditor_name">Photo Studio</string>
+  <string name="photoeditor_name">Photo Studio</string>
   <string name="photos">Photo(s)</string>
   <string name="posterize">Postérisassions</string>
   <string name="projection">Projection</string>
@@ -233,8 +233,6 @@
   <string name="select_video">Sélectionner vidéo</string>
   <string name="send">Envoyer</string>
   <string name="send_multiple_files_hint_format">Envoyer plusieurs fichiers (%s)</string>
-  <string name="sending_image_title">Envoi de l\'image (taille du fichier : %s)</string>
-  <string name="sending_video_title">Envoi de la vidéo (taille du fichier : %s)</string>
   <string name="sepia">Sépia</string>
   <string name="set_hidden_album">Album masqué</string>
   <string name="set_image">Utiliser l\'image comme</string>
