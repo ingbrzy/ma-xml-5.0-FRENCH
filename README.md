@@ -13,5 +13,3 @@ Based on a work at http://miui.com and http://miuiandroid.com
 MIUI Translation: Abdess, Matzounet and other French users on crowdin
 
 MIUI Correction: ingbrzy
-
-Note: remaining 23/46 APKs in main to be checked
