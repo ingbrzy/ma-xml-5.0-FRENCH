@@ -3,5 +3,5 @@
   <string name="app_name">Jinshan Security Guard</string>
   <string name="hello_world">Salut tout le monde !</string>
   <string name="menu_settings">Paramètres</string>
-  <string name="title_activity_main">MainActivity</string>
+  <string name="title_activity_main">Activité Principal</string>
 </resources>
