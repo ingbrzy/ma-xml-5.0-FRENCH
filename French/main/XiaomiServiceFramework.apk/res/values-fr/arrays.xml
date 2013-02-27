@@ -2,6 +2,6 @@
 <resources>
   <string-array name="new_account_types">
     <item>Inscription via SMS (recommandé)</item>
-    <item>Inscription via courriel</item>
+    <item>Inscription via E-mail</item>
   </string-array>
 </resources>
