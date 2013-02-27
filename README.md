@@ -14,4 +14,4 @@ MIUI Translation: Abdess, Matzounet and other French users on crowdin
 
 MIUI Correction: ingbrzy
 
-Translation: 85%
+Note: remaining 23/46 APKs in main to be checked
