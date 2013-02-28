@@ -11,6 +11,7 @@
   <string name="binded_accout_warning">Avertissement: Cette opération est irréversible, voulez-vous continuer ?</string>
   <string name="binding_accout_title">Ajouter un compte KuaiPan existant</string>
   <string name="cancel">Annuler</string>
+  <string name="cancel_cleanup">Annuler le nettoyage</string>
   <string name="category_all">Tout</string>
   <string name="category_apk">APKs</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -30,6 +31,9 @@
   <string name="clean_title">Supprimer les fichiers de plus de 30 jours dans la corbeille</string>
   <string name="clean_trash_box">Vider la corbeille</string>
   <string name="clean_trash_box_failed">Mettre les fichiers datant de 30 jours ou plus dans la corbeille</string>
+  <string name="cleanup_help">Nettoyer les fichiers indésirables du système pour libérer de l\'espace de stockage</string>
+  <string name="cleanup_tab_app">Nettoyage de l\'application</string>
+  <string name="cleanup_tab_garbage">Nettoyage du système</string>
   <string name="clear_cache">Vider le cache</string>
   <string name="close">Fermer</string>
   <string name="compress_message">Compresser vers:</string>
@@ -104,6 +108,7 @@
   <string name="local_cache_size">Taille du cache local : %s</string>
   <string name="login_reg_content">MiDrive vous permet de stocker des fichiers et de les synchroniser entre plusieurs périphériques.</string>
   <string name="login_reg_content0">KuaiPan est votre lecteur cloud</string>
+  <string name="menu_item_cleanup">Nettoyage de fichiers</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Rechercher</string>
   <string name="menu_item_sort">Trier par</string>
@@ -146,7 +151,7 @@
   <string name="operation_pasting">Copie...</string>
   <string name="operation_pause">Pause</string>
   <string name="operation_pause_all">Tout mettre en pause</string>
-  <string name="operation_refresh">Raffraichir</string>
+  <string name="operation_refresh">Rafraîchir</string>
   <string name="operation_rename">Renommer</string>
   <string name="operation_rename_message">Entrer un nouveau nom</string>
   <string name="operation_resume">Reprendre</string>
@@ -172,6 +177,7 @@
   <string name="show_message">Le fichier ne peut pas être ouvert tant que le téléchargement n\'est pas terminé</string>
   <string name="space_info">Espace libre du réseau: %1$s disponible(s), total: %2$s</string>
   <string name="space_usage">Utilisation</string>
+  <string name="start_cleanup">Démarrer le nettoyage</string>
   <string name="start_server">Démarrage du Service</string>
   <string name="start_use_xiaomi_account">Se connecter</string>
   <string name="stay_awake_summary">Garder l\'écran allumé lors de l\'utilisation de FTP</string>
@@ -205,7 +211,11 @@
   <string name="uploading">Envoi...</string>
   <string name="used">Utilisé</string>
   <string name="user_guide">Guide de l\'utilisateur</string>
+  <string name="user_guide_download_other_version">"Vous pouvez également télécharger Kuaipan sur votre PC ou Mac"</string>
+  <string name="user_guide_kuaipan_copy">"Accédez à vos fichiers sur plusieurs périphériques en téléchargeant Kuaipan"</string>
+  <string name="user_guide_other_version">Télécharger une version alternative de Kuaipan</string>
   <string name="user_guide_summary">Comment utiliser MiDrive</string>
+  <string name="user_guide_upload_to_kuaipan">"Copier et coller sur Kuaipan à partir de votre téléphone"</string>
   <string name="utf8_summary">Type de codage par défaut</string>
   <string name="utf8_title">UTF-8</string>
   <string name="waiting">En attente...</string>

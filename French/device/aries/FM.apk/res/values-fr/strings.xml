@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="FMRecording_reach_storage_threshold">L\'enregistrement a cessé. Votre espace de stockage de carte SD est faible.</string>
-  <string name="access_sd_fail">Impossible d\'accéder à la mémoire de stockage USB.</string>
+  <string name="access_sd_fail">"Impossible d\'accéder à la mémoire de stockage USB."</string>
   <string name="alert_dialog_cancel">Annuler</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_message_delete_station">Êtes-vous sûr de vouloir supprimer la station sélectionnée ?</string>
@@ -20,8 +20,7 @@
   <string name="auto_select_af_summary">Rechercher une autre fréquence pour la même station lorsque le premier signal est trop faible</string>
   <string name="button_text_stop">Arrêter</string>
   <string name="default_audio">Stéréo</string>
-  <string name="default_band">États-Unis</string>
-  <string name="default_blank">Confirmer</string>
+  <string name="default_band">France</string>
   <string name="default_station">FM</string>
   <string name="delete_station_title">Supprimer</string>
   <string name="dialog_sleep_title">Sélectionnez heure d\'arrêt automatique</string>
@@ -44,7 +43,6 @@
   <string name="frequency_already_exist">Cette fréquence radio existe déjà</string>
   <string name="frequency_out_of_range">(%1$s~%2$s) fréquence radio hors limites</string>
   <string name="frequency_should_not_null">La fréquence radio ne peut pas être vide !</string>
-  <string name="frequency_string">Confirmer</string>
   <string name="hint_station_name">Entrez le nom de Station</string>
   <string name="input_station">Fréquence Radio (MHz)</string>
   <string name="menu_add_list">Ajouter liste</string>
@@ -121,5 +119,4 @@
   <string name="toast_save_station">%sMHz a été sauvegardé</string>
   <string name="toast_sleep_mode">Arrêter FM dans %s</string>
   <string name="transmit_msg_string">Transmission à :</string>
-  <string name="type_rd">Confirmer</string>
 </resources>

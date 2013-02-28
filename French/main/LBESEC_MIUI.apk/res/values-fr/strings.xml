@@ -29,7 +29,7 @@
   <string name="Dashboard_Perm_SU_Switch">Permission Root</string>
   <string name="Dashboard_Su_Enable_Content">Activer ceci permettra aux applications de demander la permission Root. Des applications ayant ces permissions pourraient causer l\'instabilité du système, voire la perte de vos données ou des dégâts matériels. En êtes-vous sûr ?</string>
   <string name="Dashboard_Su_Enable_Title">Permission Root</string>
-  <string name="Generic_Canceling">Annulation en cours...</string>
+  <string name="Generic_Canceling">Annulation en cours......</string>
   <string name="Generic_Check">Vérifier</string>
   <string name="Generic_Clean">Nettoyer</string>
   <string name="Generic_Configuration">Paramètres</string>
@@ -54,17 +54,17 @@
   <string name="Generic_TrustedApp">Applications de confiance (%1$d)</string>
   <string name="Generic_Update">Mise à jour logicielle</string>
   <string name="Generic_UserApp">Applications téléchargées (%d)</string>
-  <string name="Generic_Version">Version : %1$s</string>
+  <string name="Generic_Version">Version: %1$s</string>
   <string name="HIPS_Action_Accept">Autoriser</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Autoriser&lt;/font&gt;</string>
-  <string name="HIPS_Action_Accept_Count">Autorisé : %1$d</string>
+  <string name="HIPS_Action_Accept_Count">Autorisé: %1$d</string>
   <string name="HIPS_Action_Prompt">Demander</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Demander&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Refuser</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Refuser&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject_Count">Refusé : %1$d</string>
+  <string name="HIPS_Action_Reject_Count">Refusé: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Confidentialité</string>
-  <string name="HIPS_Group_Expense">Sécurité</string>
+  <string name="HIPS_Group_Expense">Securité</string>
   <string name="HIPS_Group_Internet">Accès Internet</string>
   <string name="HIPS_Group_Location">Positionnement</string>
   <string name="HIPS_Group_PIM">Informations personnelles</string>
@@ -103,9 +103,9 @@
   <string name="HIPS_Perm_Location_Desc">Localiser votre téléphone par le biais du réseau ou du GPS</string>
   <string name="HIPS_Perm_Location_Hint">%1$s applications ont la permission de localiser votre téléphone</string>
   <string name="HIPS_Perm_Location_Monitor">Suivre votre position</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Source : Réseau cellulaire</string>
-  <string name="HIPS_Perm_Location_Source_GPS">Source : GPS</string>
-  <string name="HIPS_Perm_Location_Source_Network">Source : Réseau</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">Source: Réseau cellulaire</string>
+  <string name="HIPS_Perm_Location_Source_GPS">Source: GPS</string>
+  <string name="HIPS_Perm_Location_Source_Network">Source: Réseau</string>
   <string name="HIPS_Perm_MobileNetwork">Réseau mobile</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Accès à Internet avec le réseau du téléphone mobile</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s applications ont la permission d\'accéder à Internet</string>
@@ -118,7 +118,7 @@
   <string name="HIPS_Perm_Network_UnknownAddr">Adresse inconnue</string>
   <string name="HIPS_Perm_Network_WIFIEvent">En utilisant le réseau Wi-Fi</string>
   <string name="HIPS_Perm_PhoneID">ID du téléphone</string>
-  <string name="HIPS_Perm_PhoneID_Desc">Obtenir l\'ID de votre téléphone, en incluant l\'IMEI, IMSI, etc.</string>
+  <string name="HIPS_Perm_PhoneID_Desc">Obtenir l\'ID de votre téléphone, en incluant l\'IMEI, IMSI, etc</string>
   <string name="HIPS_Perm_PhoneID_Hint">%1$s applications ont la permission d\'obtenir votre numéro de téléphone</string>
   <string name="HIPS_Perm_PhoneID_ICCID">Obtenir la carte SIM SN</string>
   <string name="HIPS_Perm_PhoneID_IMEI">Obtenir le numéro IMEI</string>
@@ -137,16 +137,17 @@
   <string name="HIPS_Perm_SMS_Desc">Accéder à votre boîte de réception SMS</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s applications ont la permission d\'accéder à votre boîte de réception SMS</string>
   <string name="HIPS_Perm_SendSMS">Envoyer un SMS</string>
-  <string name="HIPS_Perm_SendSMS_Content">Contenu :</string>
+  <string name="HIPS_Perm_SendSMS_Content">Contenu:</string>
   <string name="HIPS_Perm_SendSMS_Data">envoyer un SMS à %1$s:%2$d</string>
   <string name="HIPS_Perm_SendSMS_Desc">Envoyer un SMS directement</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s applications ont la permission d\'envoyer des SMS</string>
-  <string name="HIPS_Perm_SendSMS_Port">Port de destination :</string>
-  <string name="HIPS_Perm_SendSMS_Recipient">Destinataire :</string>
-  <string name="HIPS_Perm_SendSMS_SMSC">Centre SMS :</string>
+  <string name="HIPS_Perm_SendSMS_Port">Port de destination:</string>
+  <string name="HIPS_Perm_SendSMS_Recipient">Destinataire:</string>
+  <string name="HIPS_Perm_SendSMS_SMSC">Centre SMS:</string>
   <string name="HIPS_Perm_SendSMS_SMSC_Default">Centre SMS par défaut</string>
   <string name="HIPS_Perm_SendSMS_Text">envoyer un SMS à %1$s</string>
   <string name="HIPS_Perm_SilenceRinger">Couper la sonnerie</string>
+  <string name="HIPS_Perm_Title">Titre</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">Accéder à Internet en Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s applications ont la permission d\'accéder à Internet</string>
@@ -160,7 +161,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Vos données personnelles telles que vos comptes, vos mot de passes et vos messages pourraient être compromises</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Un dommage matériel permanent est également possible</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Utiliser avec précaution !</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step6">Êtes-vous sûr de permettre à %1$s d\'obtenir la permission Root ?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">Êtes vous sûr de permettre à %1$s d\'obtenir la permission Root ?</string>
   <string name="HIPS_SecurityPrompt_Reject">Refuser (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Se souvenir de mon choix</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s tente de %2$s</string>
@@ -177,8 +178,9 @@
   <string name="Privacy_App_Trust_Summary_Off">MIUI ne surveillera pas cette application</string>
   <string name="Privacy_App_Trust_Summary_On">MIUI aura confiance en cette application</string>
   <string name="Privacy_App_Uninstall">Désinstaller</string>
-  <string name="Privacy_Perm_Count">Autorisé : %1$d Refusé : %2$d</string>
+  <string name="Privacy_Perm_Count">Autorisé: %1$d Refusé: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s tente d\'obtenir la permission Root qui est désactivée par défaut pour assurer la sécurité du système. Si vous avez besoin de l\'activer, veuillez aller dans les paramètres puis dans la gestion des permissions.</string>
+  <string name="Su_Unavailable">La Permission ROOT est désactivée dans la version stable de MIUI. Veuillez installer une version BETA de MIUI pour activer la permission ROOT.</string>
   <string name="SysOpt_Boost_AutoStart">Permission de démarrage automatique</string>
   <string name="SysOpt_Boost_AutoStart_Group">Démarrer automatiquement</string>
   <string name="SysOpt_Boost_Boot">Démarrer</string>

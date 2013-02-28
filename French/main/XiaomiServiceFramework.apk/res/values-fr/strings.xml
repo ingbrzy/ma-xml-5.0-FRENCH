@@ -45,6 +45,8 @@
   <string name="error_common_summary">Erreur système, veuillez réessayer plus tard</string>
   <string name="error_common_title">Erreur système</string>
   <string name="error_dup_phone">Le téléphone a été enregistré</string>
+  <string name="error_frozen_summary">Votre compte a été verrouillé</string>
+  <string name="error_frozen_title">Compte verrouillé !</string>
   <string name="error_has_bought_summary">Vous avez déjà acheté ce produit</string>
   <string name="error_has_bought_title">Répéter l\'achat</string>
   <string name="error_illegal_order_summary">Une erreur est survenue pendant le traitement de votre commande, veuillez réessayer plus tard</string>
@@ -77,6 +79,7 @@
   <string name="find_device_notice_p3">Vous pourrez alors le localiser, le verrouiller ou effacer ses données</string>
   <string name="find_device_success_title">Localisation de l\'appareil activé</string>
   <string name="find_password_on_web_msg">S\'il vous plaît visitez account.xiaomi.com pour récupérer votre mot de passe</string>
+  <string name="frozen">(Verrouillé)</string>
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
   <string name="i_know">OK</string>
   <string name="imported_contacts">%s contacts importés</string>

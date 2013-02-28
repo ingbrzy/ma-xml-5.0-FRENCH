@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="account_abnormal_state">Erreur d\'informations du compte, veuillez réessayer.</string>
   <string name="all_resources">Tout</string>
   <string name="all_ringtone_resource">Tout</string>
   <string name="app_name">Thèmes</string>
@@ -40,7 +41,7 @@
   <string name="lockscreen_wallpaper">Écran de verrouillage</string>
   <string name="lockstyle_personal_settings">Personnalisation</string>
   <string name="long_ringtone_resource">Long</string>
-  <string name="menu_refresh">Raffraichir</string>
+  <string name="menu_refresh">Rafraîchir</string>
   <string name="mi_wallpaper">Fond d\'écran</string>
   <string name="mi_wallpaper_loading">Chargement du fond d\'écran...</string>
   <string name="mi_wallpaper_title">Fond d\'écran</string>

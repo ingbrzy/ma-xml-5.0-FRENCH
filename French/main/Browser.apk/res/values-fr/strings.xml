@@ -9,13 +9,13 @@
   <string name="accessibility_button_closetab">"Fermer l\'onglet"</string>
   <string name="accessibility_button_forward">Avancer</string>
   <string name="accessibility_button_go">OK</string>
-  <string name="accessibility_button_goto">OK</string>
+  <string name="accessibility_button_goto">Atteindre</string>
   <string name="accessibility_button_larger">Plus grand</string>
   <string name="accessibility_button_more">Autres options</string>
   <string name="accessibility_button_navscreen">Gestionnaire de pages</string>
   <string name="accessibility_button_newincognitotab">Ouvrir un onglet de navigation privée</string>
   <string name="accessibility_button_newtab">Ouvrir un nouvel onglet</string>
-  <string name="accessibility_button_refresh">Actualiser la page</string>
+  <string name="accessibility_button_refresh">Rafraîchir</string>
   <string name="accessibility_button_search">Rechercher</string>
   <string name="accessibility_button_smaller">Plus petit</string>
   <string name="accessibility_button_stop">Arrêter le chargement de la page</string>
@@ -47,7 +47,7 @@
   <string name="autofill_profile_editor_company_name">Nom de la société :</string>
   <string name="autofill_profile_editor_country">Pays :</string>
   <string name="autofill_profile_editor_delete_profile">Supprimer</string>
-  <string name="autofill_profile_editor_email_address">Adresse e-mail :</string>
+  <string name="autofill_profile_editor_email_address">E-mail:</string>
   <string name="autofill_profile_editor_heading">Indiquez le texte à saisir automatiquement dans les formulaires Web</string>
   <string name="autofill_profile_editor_name">Nom et prénom :</string>
   <string name="autofill_profile_editor_phone_number">Téléphone :</string>
@@ -175,7 +175,7 @@
   <string name="homepage_set">"La page d\'accueil a été définie."</string>
   <string name="http">http://</string>
   <string name="import_bookmark">Importer les signets</string>
-  <string name="import_bookmark_failure">L\'importation des signets a échoué !</string>
+  <string name="import_bookmark_failure">Échec de l\'importation des signets !</string>
   <string name="import_bookmark_sucess">Signets importés avec succès</string>
   <string name="import_bookmarks_dialog_add">Ajouter les favoris au compte Google</string>
   <string formatted="false" name="import_bookmarks_dialog_confirm_add">Ajouter les favoris de cet appareil et démarrer la synchronisation avec les favoris du compte %s</string>
@@ -193,12 +193,12 @@
   <string name="importing_favorite_files">Importation des données...</string>
   <string name="instant_search_label">Google avec Recherche instantanée (Google Labs)</string>
   <string name="is_first_history_item">Est le premier élément de l\'historique</string>
-  <string name="is_first_tab">Est le premier onglet</string>
-  <string name="is_last_history_item">Est le dernier élément de l\'historique</string>
-  <string name="is_last_tab">Est le dernier onglet</string>
-  <string name="is_page_bottom">Au bas de la page</string>
-  <string name="is_page_top">Déjà en haut de la page</string>
-  <string name="js_engine_flags">Définir des indicateurs de JS</string>
+  <string name="is_first_tab">Premier onglet</string>
+  <string name="is_last_history_item">Dernier élément de l\'historique</string>
+  <string name="is_last_tab">Dernier onglet</string>
+  <string name="is_page_bottom">Vous êtes en bas de la page</string>
+  <string name="is_page_top">Vous êtes en haut de la page</string>
+  <string name="js_engine_flags">Définir des indicateurs du moteur JS</string>
   <string name="loadSuspended">"Impossible de charger cette page dans le navigateur, car il n\'y a pas de connexion Internet."</string>
   <string name="loadSuspendedTitle">Aucune connexion</string>
   <string name="loading_video">Chargement de la vidéo...</string>

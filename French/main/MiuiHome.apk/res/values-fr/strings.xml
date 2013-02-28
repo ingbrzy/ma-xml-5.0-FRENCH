@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="account_abnormal_state">Erreur d\'informations du compte, veuillez réessayer.</string>
   <string name="activity_not_found">Application non installée</string>
   <string name="all_resources">Tous</string>
   <string name="application_name">Accueil MIUI</string>

@@ -71,7 +71,7 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="menu_hide_system_app">Masquer les applications système</string>
   <string name="menu_hide_wifi">Masquer le trafic Wi-Fi</string>
   <string name="menu_new_install_app_settings">Paramètres par défaut pour les nouvelles applications installées</string>
-  <string name="menu_refresh">Raffraichir</string>
+  <string name="menu_refresh">Rafraîchir</string>
   <string name="menu_settings">Réglages des services réseau</string>
   <string name="menu_sort">Trier</string>
   <string name="menu_sort_by_all_traffic">Trier par trafic total</string>

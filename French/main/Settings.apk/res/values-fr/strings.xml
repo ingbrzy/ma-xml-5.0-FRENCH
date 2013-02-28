@@ -1255,6 +1255,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="perm_operating">En cours...</string>
   <string name="perm_optimize">Optimiser</string>
   <string name="perm_privacy_app_count">%1$d autorisations</string>
+  <string name="perm_privacy_app_count_trust_summary">App de confiance</string>
   <string name="perm_privacy_app_finish">Terminer</string>
   <string name="perm_privacy_app_installed">Installation réussie !</string>
   <string name="perm_privacy_app_launch">Démarrer</string>
@@ -1485,6 +1486,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="runningservicedetails_stop_dlg_title">Arrêter le service système ?</string>
   <string name="runningservices_settings_summary">"Afficher et contrôler les services en cours d\'exécution"</string>
   <string name="runningservices_settings_title">"Services en cours d\'exécution"</string>
+  <string name="safe_relative">Autorisations sécurisées</string>
   <string name="scan_list_label">Résultats de l\'analyse:</string>
   <string name="screen">Écran</string>
   <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
