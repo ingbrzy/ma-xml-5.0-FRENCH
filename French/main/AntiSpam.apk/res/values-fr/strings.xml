@@ -28,7 +28,7 @@
   <string name="anti_private_title">Bloquer les numéros masqués</string>
   <string name="anti_stranger_summary">Filtrer les contacts n\'appartenant pas au carnet d\'adresse</string>
   <string name="anti_stranger_title">Mode anti-étranger</string>
-  <string name="app_name">Mode privé</string>
+  <string name="app_name">Blacklist</string>
   <string name="black_white_list_tab_title">Listes</string>
   <string name="blacklist_tab_title">Liste noire</string>
   <string name="call_log_tab_title">Appels</string>
