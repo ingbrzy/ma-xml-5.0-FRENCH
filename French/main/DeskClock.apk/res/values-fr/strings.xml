@@ -97,7 +97,7 @@
   <string name="snooze_confirm_ok">OK</string>
   <string name="start">Départ</string>
   <string name="start_up">Départ</string>
-  <string name="stopwatch_lap_empty_text">Aucun tours</string>
+  <string name="stopwatch_lap_empty_text">Aucun tour</string>
   <string name="stopwatch_title">Chronomètre</string>
   <string name="system_time_setting">Paramètres de l\'heure</string>
   <string name="time">Heure</string>

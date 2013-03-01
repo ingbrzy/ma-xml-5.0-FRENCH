@@ -246,7 +246,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="usb_storage_message">Vous êtes connecté à votre ordinateur par l\'USB. Appuyer sur le bouton ci-dessous si vous souhaitez copier des fichiers entre votre ordinateur et la mémoire de stockage USB de votre appareil Android.</string>
   <string name="usb_storage_notification_message">Sélectionnez cette option pour copier des fichiers vers/depuis votre ordinateur.</string>
   <string name="usb_storage_notification_title">Périphérique USB connecté</string>
-  <string name="usb_storage_stop_message">Avant de désactiver la mémoire de stockage USB, assurez-vous que vous avez bien arrêter (\"Éjecter\") le périphérique USB visible de votre ordinateur.</string>
+  <string name="usb_storage_stop_message">Avant de désactiver la mémoire de stockage USB, assurez-vous de bien avoir arrêté (\"Éjecté\") le périphérique USB visible de votre ordinateur.</string>
   <string name="usb_storage_stop_notification_message">Sélectionnez cette option pour éjecter le périphérique USB.</string>
   <string name="usb_storage_stop_notification_title">Éjecter le périphérique USB</string>
   <string name="usb_storage_stop_title">Le périphérique de stockage USB est en cours d\'utilisation</string>

@@ -115,7 +115,7 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="settings_page_traffic_summary_no_settings">Non renseigné, charge depuis le %d du mois</string>
   <string name="sms_match_fail">N\'a pas réussi à identifier les SMS</string>
   <string name="sms_template_match_fail">Identification du modèle de SMS échouée</string>
-  <string name="sms_template_updated_label">"Mise à jour: "</string>
+  <string name="sms_template_updated_label">"Mis à jour : "</string>
   <string name="sort_dialog_title">Trier</string>
   <string name="sorted_flux">Statistiques du trafic</string>
   <string name="stop_app_button">Fermer</string>

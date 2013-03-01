@@ -2,7 +2,7 @@
 <resources>
   <string name="alert_message_delete_station">Êtes-vous sûr de vouloir supprimer la station sélectionnée ?</string>
   <string name="alert_title_delete">Supprimer</string>
-  <string name="alert_title_input_station">Entrez le nom de la station</string>
+  <string name="alert_title_input_station">Entrer le nom de la station</string>
   <string name="alert_title_new_station">Nouvelle station</string>
   <string name="alert_title_save_station">Mémoriser Station - %s</string>
   <string name="app_name">Radio FM</string>
@@ -19,14 +19,14 @@
   <string name="fm">FM: %s</string>
   <string name="fm_volume">Volume</string>
   <string name="fmradio_airplane_mode_enable_at_begin">Démarrer la radio automatiquement en mode Avion</string>
-  <string name="fmradio_airplane_mode_enable_in_listen">Écoutez la radio pendant le mode Avion</string>
+  <string name="fmradio_airplane_mode_enable_in_listen">Écouter la radio pendant le mode Avion</string>
   <string name="fmradio_clear_confirm_msg">Les stations enregistrées seront supprimées, poursuivre la recherche ?</string>
   <string name="fmradio_found_format">%sMHz...</string>
   <string name="fmradio_found_station">%d stations trouvées</string>
   <string name="fmradio_in_calling_at_begin">La radio ne peut pas démarrer pendant un appel en cours</string>
   <string name="fmradio_no_headset_at_begin">Veuillez brancher votre casque/écouteurs pour utiliser la radio</string>
   <string name="fmradio_no_headset_in_listen">Radio fermée, casque déconnecté</string>
-  <string name="fmradio_on_airplane_mode_in_listen">Le Mode Avion est activé, la radio a été automatiquement arrêté</string>
+  <string name="fmradio_on_airplane_mode_in_listen">Le Mode Avion est activé, la radio a été automatiquement arrêtée</string>
   <string name="fmradio_scan_begin_msg">Lancez le scan</string>
   <string name="fmradio_service_label">Radio</string>
   <string name="fmradio_start_error">L\'activation de la Radio a échoué</string>

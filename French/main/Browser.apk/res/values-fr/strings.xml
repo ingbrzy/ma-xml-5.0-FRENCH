@@ -268,7 +268,7 @@
   <string name="pref_data_preload_value_never">NEVER</string>
   <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_data_title">Gestion bande passante</string>
-  <string name="pref_default_text_encoding">Codage du texte</string>
+  <string name="pref_default_text_encoding">Encodage du texte</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
   <string name="pref_default_text_encoding_dialogtitle">Codage du texte</string>
   <string name="pref_default_zoom">Zoom par défaut</string>

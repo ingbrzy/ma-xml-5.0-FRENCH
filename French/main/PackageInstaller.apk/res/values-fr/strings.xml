@@ -9,7 +9,7 @@ Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?\"<
   <string name="app_name">"Programme d\'installation du kit"</string>
   <string name="app_not_found_dlg_text">"L\'application ne figure pas dans la liste des applications installées."</string>
   <string name="app_not_found_dlg_title">Application non trouvée</string>
-  <string name="auto_startup_dialog_msg">"MIUI autorisera à l\'application de démarrer automatiquement sans confirmation. Cela peut engendrer une consommation de puissance ou de données. Autoriser le démarrage automatique ?"</string>
+  <string name="auto_startup_dialog_msg">"MIUI autorisera à l\'application à démarrer automatiquement sans confirmation. Cela peut engendrer une consommation de puissance ou de données. Autoriser le démarrage automatique ?"</string>
   <string name="caller_app">Demandeur:%1$s</string>
   <string name="cancel">Annuler</string>
   <string name="dlg_app_replacement_statement">\"L\'application que vous installez va en remplacer une autre.
@@ -48,7 +48,7 @@ Toutes vos données d\'utilisateur précédentes vont être enregistrées.\"</st
   <string name="perm_privacy_app_finish">Terminer</string>
   <string name="perm_privacy_app_installed">Installation réussie !</string>
   <string name="perm_privacy_app_launch">Ouvrir</string>
-  <string name="perm_privacy_app_trust">Je fais confiance à cette app</string>
+  <string name="perm_privacy_app_trust">Je fais confiance à cette application</string>
   <string name="perm_privacy_app_trust_summary">MIUI suivra cette application</string>
   <string name="perm_sysopt_boost_auto_start">Autorisation de démarrage automatique</string>
   <string name="perm_sysopt_boost_auto_start_summary">L\'application démarrera automatiquement !</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="Ntracks_search_result_format">
-    <item quantity="one">1 chanson associé</item>
-    <item quantity="other">%d chansons associés</item>
+    <item quantity="one">1 chanson associée</item>
+    <item quantity="other">%d chansons associées</item>
   </plurals>
   <plurals name="Ntracks_total">
     <item quantity="one">1 chanson</item>
@@ -18,7 +18,7 @@
   </plurals>
   <plurals name="Nalbums_format">
     <item quantity="one">1 album</item>
-    <item quantity="other">%1$d album</item>
+    <item quantity="other">%1$d albums</item>
   </plurals>
   <plurals name="Ntracks">
     <item quantity="one">chanson</item>
@@ -33,12 +33,12 @@
     <item quantity="other">artistes</item>
   </plurals>
   <plurals name="Nplaylists">
-    <item quantity="one">listes de lecture</item>
+    <item quantity="one">liste de lecture</item>
     <item quantity="other">listes de lectures</item>
   </plurals>
   <plurals name="Nfolders">
-    <item quantity="one">Dossiers\"</item>
-    <item quantity="other">Dossiers\"</item>
+    <item quantity="one">Dossier"</item>
+    <item quantity="other">Dossiers"</item>
   </plurals>
   <plurals name="Nitems_batch_selection">
     <item quantity="one">1 élément sélectionné</item>

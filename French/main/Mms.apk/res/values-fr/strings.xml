@@ -59,7 +59,7 @@
   <string name="confirm_delete_message">Le message va être supprimé.</string>
   <string name="confirm_dialog_locked_title">Supprimer le message verrouillé ?</string>
   <string name="confirm_dialog_title">Supprimer ?</string>
-  <string name="confirm_rate_limit">"Un grand nombre de messages multimédias est en cours d\'envoi. Voulez-vous continuer ?"</string>
+  <string name="confirm_rate_limit">"Un grand nombre de messages multimédias sont en cours d\'envoi. Voulez-vous continuer ?"</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_browse_web">Parcourir</string>
   <string name="context_menu_call">Appeler</string>
@@ -345,7 +345,7 @@
   <string name="slide_show_part">Partie %1$s/%2$s</string>
   <string name="slideshow_activity">Diaporama</string>
   <string name="sms_content">Contenu du message</string>
-  <string name="sms_full_body">Un message entrant a été rejeté, car la mémoire est pleine. Veuillez supprimer des anciens messages.</string>
+  <string name="sms_full_body">Un message entrant a été rejeté car la mémoire est pleine. Veuillez supprimer des anciens messages.</string>
   <string name="sms_full_title">Notification de mémoire est pleine</string>
   <string name="sms_rejected_body">Un message entrant a été rejeté pour une raison inconnue.</string>
   <string name="sms_rejected_title">SMS rejeté</string>

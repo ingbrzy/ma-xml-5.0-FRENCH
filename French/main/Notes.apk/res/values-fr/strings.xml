@@ -45,7 +45,7 @@
   <string name="menu_font_size">Taille de police</string>
   <string name="menu_move">Déplacer vers le dossier</string>
   <string name="menu_move_parent_folder">Dossier parent</string>
-  <string name="menu_rename_folder">Renommez le dossier</string>
+  <string name="menu_rename_folder">Renommer le dossier</string>
   <string name="menu_send_to_desktop">Envoyer sur l\'écran d\'accueil</string>
   <string name="menu_setting">Paramètres</string>
   <string name="menu_title_select_folder">Choix du dossier</string>
@@ -71,7 +71,7 @@
   <string name="search_hint">Rechercher des notes</string>
   <string name="search_label">Recherche de notes...</string>
   <string name="search_setting_description">Rechercher du texte dans les notes</string>
-  <string name="select_account_prompt">Activez la synchronisation de note</string>
+  <string name="select_account_prompt">Activer la synchronisation de note</string>
   <string name="snippet_image_stub">[Image]</string>
   <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Export réussi</string>
