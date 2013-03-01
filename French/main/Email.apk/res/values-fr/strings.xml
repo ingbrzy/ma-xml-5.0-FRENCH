@@ -66,7 +66,7 @@
   <string name="account_setup_account_type_pop_action">POP3</string>
   <string name="account_setup_account_type_title">Configuration du compte</string>
   <string name="account_setup_basic_description_label">Nom du compte (facultatif)</string>
-  <string name="account_setup_basic_label">S\'il vous plaît remplissez les informations pour la boîte aux lettres %s :</string>
+  <string name="account_setup_basic_label">Veuillez remplir les informations de la boîte aux lettres %s :</string>
   <string name="account_setup_basic_name_label">Votre nom (facultatif)</string>
   <string name="account_setup_basics_default_label">Par défaut, envoyer les e-mails avec ce compte</string>
   <string name="account_setup_basics_email_label">Adresse e-mail</string>
@@ -433,7 +433,7 @@ Cc : %4$s
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="password_expire_warning_content_title">Expiration mot de passe de verrouillage</string>
-  <string name="password_expire_warning_dialog_content_fmt">Vous devrez bientôt modifier le code PIN ou le mot de passe de verrouillage de votre écran, faute de quoi les données du compte %s seront effacées. Modifier maintenant ?</string>
+  <string name="password_expire_warning_dialog_content_fmt">Vous devrez bientôt modifier le code PIN ou le mot de passe de verrouillage de votre écran, faute de quoi les données du compte %s seront effacées. Le modifier maintenant ?</string>
   <string name="password_expire_warning_dialog_title">Expiration mot de passe de verrouillage</string>
   <string name="password_expire_warning_ticker_fmt">\"%s\" exige que le code PIN ou mot de passe d\'écran de verrouillage soit modifié.</string>
   <string name="password_expired_content_title">Mot de passe verrou. expiré</string>

@@ -29,7 +29,7 @@
   <string name="menu_wh_item_using_4_3_label">Format 4:3</string>
   <string name="temp_play_history_button_label">Afficher l\'historique</string>
   <string name="to_be_play_label_v5">Démarrage de la lecture</string>
-  <string name="toast_back_key_pressed_notice">Ré-appuyez sur la touche retour pour quitter.</string>
+  <string name="toast_back_key_pressed_notice">Réappuyez sur la touche retour pour quitter.</string>
   <string name="toast_message_continue_play_from">Continuer la lecture de</string>
   <string name="toast_message_continue_play_hour">heures</string>
   <string name="toast_message_continue_play_minute">min</string>

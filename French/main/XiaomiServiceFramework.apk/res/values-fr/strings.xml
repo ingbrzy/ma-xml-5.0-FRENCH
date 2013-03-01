@@ -199,7 +199,7 @@
   <string name="removing_account">Suppression du compte...</string>
   <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
   <string name="send_sms_for_sync_title">Service de synchronisation non activé</string>
-  <string name="sim_changed_notification_content">Carte SIM non activé. veuillez réactiver</string>
+  <string name="sim_changed_notification_content">Carte SIM non activée, veuillez la réactiver</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Ignorer la connexion</string>
   <string name="skip_setup_account_msg">Avec votre compte Xiaomi, vous pouvez synchroniser et sauvegarder vos SMS, contacts, photos, notes, etc. Continuer et configurer plus tard ?</string>

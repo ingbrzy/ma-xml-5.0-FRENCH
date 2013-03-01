@@ -56,8 +56,8 @@
   <string name="recording_stopped">L\'enregistrement a cessé</string>
   <string name="rename">Renommer</string>
   <string name="rename_dialog_title">Renommer cet enregistrement</string>
-  <string name="rename_duplicate">Nom de l\'enregistrement en double, veuillez renommer :</string>
-  <string name="rename_illegal">Nom de l\'enregistrement incorrect, veuillez renommer :</string>
+  <string name="rename_duplicate">Nom de l\'enregistrement en double, veuillez le renommer :</string>
+  <string name="rename_illegal">Nom de l\'enregistrement incorrect, veuillez le renommer :</string>
   <string name="sd_card_not_available">La carte SD n\'est pas disponible</string>
   <string formatted="false" name="second">%d secondes</string>
   <string name="send_to">Envoyer à</string>

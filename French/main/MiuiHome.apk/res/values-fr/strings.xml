@@ -172,10 +172,10 @@
   <string name="resource_title">Détail des ressources</string>
   <string name="resource_title_select_ringtone">Sélectionner la sonnerie</string>
   <string name="resource_update">Mise à jour</string>
-  <string name="screen_button_disabled_message">Les boutons sur l\'écran du bas ont été désactivées. Vous pouvez les réactiver en appuyant sur \"Home\" et \"Power\"</string>
+  <string name="screen_button_disabled_message">Les boutons sur l\'écran du bas ont été désactivés. Vous pouvez les réactiver en appuyant sur \"Home\" et \"Power\"</string>
   <string name="screen_button_enabled_message">Les boutons sur l\'écran du bas sont activés</string>
-  <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillé en mode paysage</string>
-  <string name="sdcard_status_changed_dialog_message">"L\'application va se fermer, veuillez la ré-ouvrir pour actualiser les ressources."</string>
+  <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillée en mode paysage</string>
+  <string name="sdcard_status_changed_dialog_message">"L\'application va se fermer, veuillez la réouvrir pour actualiser les ressources."</string>
   <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
   <string name="select_frame">Cadre</string>
   <string name="select_photo">Photo</string>

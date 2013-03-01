@@ -104,7 +104,7 @@
   <string name="cancel_confirmation_dialog_message">Voulez-vous annuler les modifications ?</string>
   <string name="cancel_export_confirmation_message">Êtes-vous sûr de vouloir annuler l\'exportation de %s ?</string>
   <string name="cancel_import_confirmation_message">Êtes-vous sûr de vouloir annuler l\'importation de %s ?</string>
-  <string name="cancel_import_dialog_message">Êtes-vous sûr de que vouloir arrêter l\'importation des contacts ?</string>
+  <string name="cancel_import_dialog_message">Êtes-vous sûr de vouloir arrêter l\'importation des contacts ?</string>
   <string name="cancel_import_dialog_title">Annuler l\'importation</string>
   <string name="cancel_vcard_import_or_export_failed">"Impossible d\'annuler l\'importation/exportation de la carte de visite"</string>
   <string name="chat">Chatter</string>
@@ -187,9 +187,9 @@
   <string name="delete_contact_calllog_title">"Êtes-vous sûr de vouloir supprimer le journal d\'appel du contact ?"</string>
   <string name="delete_duplicate">Fusionner le lot</string>
   <string name="delete_duplicate_message">"Fusion..."</string>
-  <string name="delete_group_dialog_message">Êtes-vous sûr de que vouloir supprimer le groupe \"%1$s\" ? (Les contacts ne seront pas effacés)</string>
+  <string name="delete_group_dialog_message">Êtes-vous sûr de vouloir supprimer le groupe \"%1$s\" ? (Les contacts ne seront pas effacés)</string>
   <string name="delete_group_dialog_title">Supprimer le groupe</string>
-  <string name="delete_unknown_contact_calllog_title">"Supprimer les contacts inconnu du journal d\'appel ?"</string>
+  <string name="delete_unknown_contact_calllog_title">"Supprimer les contacts inconnus du journal d\'appel ?"</string>
   <string name="description_add_contact">Ajouter aux contacts</string>
   <string name="description_call">Appeler %1$s</string>
   <string name="description_call_log_incoming_call">Appel entrant</string>
@@ -302,7 +302,7 @@
   <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
-  <string name="export_to_sim_title">Exporte vers la carte SIM…</string>
+  <string name="export_to_sim_title">Export vers la carte SIM…</string>
   <string name="export_vcard_description">Exporter la carte de visite sur la SD</string>
   <string name="exporting_contact_failed_message">"Échec de l\'exportation des données des contacts. (Raison : %s)"</string>
   <string name="exporting_contact_failed_title">"Échec de l\'exportation des données des contacts"</string>
@@ -629,7 +629,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="pref_summary_import_from_account">Importer les contacts depuis les comptes Google et Exchange sur mon compte Xiaomi</string>
   <string name="pref_title_account_import">Importer depuis le compte</string>
   <string name="pref_title_import_from_account">Importer vers le compte Xiaomi</string>
-  <string name="preference_auto_ip_summary_disable">Pas activé</string>
+  <string name="preference_auto_ip_summary_disable">Désactivé</string>
   <string name="preference_auto_ip_summary_on">"Préfixe IP du transporteur :%s"</string>
   <string name="preference_auto_ip_title">IP automatique</string>
   <string name="preference_contacts">Contact</string>
@@ -743,7 +743,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="sim_export_loading">Informations de la carte SIM en cours de lecture. Cette opération peut prendre quelques minutes, veuillez patientez...</string>
   <string name="sim_indexed_contact_not_exist">La position %1$d sur la carte SIM n\'est pas valide, elle se trouve peut-être entre %2$d et %3$d</string>
   <string name="sim_no_contact">Aucun contact sur la carte SIM</string>
-  <string name="single_group_list_empty">Aucun membres de groupe</string>
+  <string name="single_group_list_empty">Aucun membre de groupe</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
   <string name="smart_group_company_label">Par société</string>
   <string name="smart_group_company_unavailable">Aucune information sur la société</string>

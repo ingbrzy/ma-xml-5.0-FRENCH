@@ -32,7 +32,7 @@
   <string name="accessibility_service_disable_warning_summary">Si vous appuyez sur \"OK\", %1$s sera arrêté.</string>
   <string name="accessibility_service_disable_warning_title">Arrêter %1$s ?</string>
   <string name="accessibility_service_no_apps_message">"TalkBack fournit des commentaires audio aux personnes malvoyantes. Voulez-vous l\'installer gratuitement depuis l\'Android Market ?"</string>
-  <string name="accessibility_service_no_apps_title">"Vous avez besoin d\'un lecteur d\'écran ?"</string>
+  <string name="accessibility_service_no_apps_title">"Avez-vous besoin d\'un lecteur d\'écran ?"</string>
   <string name="accessibility_service_security_warning_summary">"%1$s peut recueillir la totalité du texte que vous saisissez, à l\'exception des mots de passe. Ceci comprend les données personnelles, telles que le numéro de votre carte de paiement, mais également les données sur vos interactions avec le téléphone."</string>
   <string name="accessibility_service_security_warning_title">Utiliser %1$s ?</string>
   <string name="accessibility_service_state_off">Off</string>
