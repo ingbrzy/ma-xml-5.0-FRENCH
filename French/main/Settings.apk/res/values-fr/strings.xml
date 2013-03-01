@@ -415,7 +415,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_visibility_timeout">Délai de visibilité</string>
   <string name="bluetooth_visibility_timeout_summary">Définir la durée de visibilité du périphérique</string>
   <string name="breathing_light_color_summary">Couleur de la LED lors d\'une nouvelle notification</string>
-  <string name="breathing_light_color_title">"Couleur de la LED"</string>
+  <string name="breathing_light_color_title">" Couleur de la LED"</string>
   <string name="breathing_light_freq_summary">Pause de la LED entre les flashs</string>
   <string name="breathing_light_freq_title">Fréquence de clignotement de la LED</string>
   <string name="brightness">Luminosité</string>
