@@ -220,6 +220,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="status_bar_toggle_sync_auto">Sync auto</string>
   <string name="status_bar_toggle_sync_manual">Sync</string>
   <string name="status_bar_toggle_syncing">Synchronisation</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_use_physical_keyboard">Clavier physique</string>
   <string name="tab_notifications_lable">Notifications</string>
   <string name="tab_toggles_lable">Raccourcis</string>
