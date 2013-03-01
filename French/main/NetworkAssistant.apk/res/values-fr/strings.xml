@@ -89,9 +89,9 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="overseas_menu_traffic_adjust">Ajuster manuellement</string>
   <string name="overseas_menu_traffic_settings">Limite de trafic de données</string>
   <string name="overseas_unknown_traffic_hint">La limite de trafic de données n\'a pas été configurée. La configurer maintenant ?</string>
-  <string name="plate_traffic_already_used">Utilisé (%s)</string>
-  <string name="plate_traffic_exceed">Dépassé (%s)</string>
-  <string name="plate_traffic_remain">Restant (%s)</string>
+  <string name="plate_traffic_already_used">Utilisé</string>
+  <string name="plate_traffic_exceed">Dépassé</string>
+  <string name="plate_traffic_remain">Restant</string>
   <string name="powered_by">Support technique apporté par MIUIAndroid.com</string>
   <string name="pref_category_adjust_traffic">Ajuster les paramètres de trafic</string>
   <string name="pref_connect_settings_enable_backgroung">Services en arrière-plan</string>
