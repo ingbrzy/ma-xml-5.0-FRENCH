@@ -59,6 +59,8 @@
   <string name="confirm_delete_message">Le message va être supprimé.</string>
   <string name="confirm_dialog_locked_title">Supprimer le message verrouillé ?</string>
   <string name="confirm_dialog_title">Supprimer ?</string>
+  <string name="confirm_export_dialog_description">Supprimer la sélection de contact privé, la conversation sera déplacé vers avec les SMS normal. Voulez-vous continuer?</string>
+  <string name="confirm_export_dialog_title">Supprimer les contacts privés</string>
   <string name="confirm_rate_limit">"Un grand nombre de messages multimédias sont en cours d\'envoi. Voulez-vous continuer ?"</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_browse_web">Parcourir</string>
@@ -357,6 +359,8 @@
   <string name="status_rejected">Rejeté</string>
   <string name="status_unread">Non lu</string>
   <string name="stick">Épingler</string>
+  <string name="stick_conversation">Épingler la conversation courante</string>
+  <string name="sticked_conversation">Déjà épinglé</string>
   <string name="storage_limits_activity">Limites de stockage</string>
   <string name="storage_limits_message">Limiter le nombre de messages enregistrés par conversation ?</string>
   <string name="storage_limits_setting">Définir les limites</string>
@@ -391,6 +395,8 @@ Dernière tentative : %s.\"</string>
   <string name="unknown_num">Numéro inconnu</string>
   <string name="unknown_sender">Expéditeur inconnu</string>
   <string name="unstick">Désépingler</string>
+  <string name="unstick_conversation">Détacher la conversation courante</string>
+  <string name="unsticked_conversation">Déjà détaché</string>
   <string name="unsupported_media_format">Format %1$s non compatible.</string>
   <string name="view">Afficher</string>
   <string name="view_bookmark">Voir le message original</string>

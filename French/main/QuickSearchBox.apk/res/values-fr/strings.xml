@@ -29,6 +29,8 @@ Pour effacer votre historique de navigation, utilisez les paramètres du navigat
   <string name="menu_settings">Paramètres de recherche</string>
   <string name="remove_from_history">"Supprimer de l\'historique des recherches ?"</string>
   <string name="remove_from_history_failed">"Impossible de supprimer l\'élément de l\'historique."</string>
+  <string name="search_in_app_store">Rechercher sur le Play Store</string>
+  <string name="search_in_web">Recherche web</string>
   <string name="search_settings">Paramètres de recherche</string>
   <string name="search_sources">Sources</string>
   <string name="search_sources_summary">"Sélection des sources à explorer sur le téléphone lors d\'une recherche"</string>
