@@ -109,6 +109,13 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="key_position_custom">Personnaliser la position de touche</string>
   <string name="label_view">Afficher</string>
   <string name="lockscreen_carrier_default">Aucun service</string>
+  <string name="mdb_entering">Entrée MDB</string>
+  <string name="mdb_restore_cancel">Annuler</string>
+  <string name="mdb_restore_info1">"Restaurera les données de votre téléphone"</string>
+  <string name="mdb_restore_info2">"Veuillez ne pas déconnecter la connexion USB"</string>
+  <string name="mdb_restore_label">Restauration MDB</string>
+  <string name="mdb_restore_mode">Mode de restauration MDB</string>
+  <string name="mdb_usb_disconnection_exit">USB déconnecté, annulation de la restauration !</string>
   <string name="mount_storage">Oui</string>
   <string name="move_data_to_sdcard_message">"Cela déplacera les données telles que les captures d\'écran, les photos et autre de la mémoire interne à la carte SD. Afin de conserver une expérience utilisateur stable et harmonieuse, il est préférable de conserver la carte SD dans le téléphone pour l\'usage quotidien."</string>
   <string name="move_data_to_sdcard_title">Export des données internes sur la carte SD</string>
@@ -230,6 +237,9 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="usb_accessory_confirm_prompt">Ouvrir %1$s lors de la connexion de cet accessoire USB ?</string>
   <string name="usb_accessory_permission_prompt">"Autoriser l\'application %1$s à accéder à l\'accessoire USB ?"</string>
   <string name="usb_accessory_uri_prompt">Aucune application installée compatible avec accessoire USB. En savoir plus sur %1$s</string>
+  <string name="usb_debugging_always">Toujours autoriser à partir de cet ordinateur</string>
+  <string name="usb_debugging_message">"Le propriétaire de l\'empreinte de la clé RSA est : %1$s"</string>
+  <string name="usb_debugging_title">Autoriser le débogage USB ?</string>
   <string name="usb_device_confirm_prompt">Ouvrir %1$s lors de la connexion de ce périphérique USB ?</string>
   <string name="usb_device_permission_prompt">"Autoriser l\'application %1$s à accéder au périphérique USB ?"</string>
   <string name="usb_mode_dont_ask">"Ne plus me le demander la prochaine fois"</string>
