@@ -151,7 +151,7 @@
   <string name="operation_pasting">Copie...</string>
   <string name="operation_pause">Pause</string>
   <string name="operation_pause_all">Tout mettre en pause</string>
-  <string name="operation_refresh">Raffraichir</string>
+  <string name="operation_refresh">Rafraîchir</string>
   <string name="operation_rename">Renommer</string>
   <string name="operation_rename_message">Entrer un nouveau nom</string>
   <string name="operation_resume">Reprendre</string>
