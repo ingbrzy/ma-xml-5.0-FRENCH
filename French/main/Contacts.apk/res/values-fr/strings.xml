@@ -381,8 +381,8 @@
   <string name="import_to_xiaomi_account_progress_title">Importer les contacts sur le compte Xiaomi</string>
   <string name="import_to_xiaomi_account_title">Voulez-vous importer ces contacts dans votre compte Xiaomi ?</string>
   <string name="import_vcard_description">Importer des contacts depuis la carte SD</string>
-  <string name="import_weibo_dialog_title">Importer des contacts de sina weibo</string>
-  <string name="import_weibo_notification_title">Importation de contacts sina weibo…</string>
+  <string name="import_weibo_dialog_title">Importer des contacts Sina Weibo</string>
+  <string name="import_weibo_notification_title">Importation de contacts Sina Weibo…</string>
   <string name="import_weibo_notification_title_done">Importation terminée</string>
   <string name="import_weibo_progress_hint">Importation…</string>
   <string name="import_weibo_progress_name">%1$s</string>
@@ -483,8 +483,8 @@
   <string name="move_and_resize">Déplacer et redimensionner</string>
   <string name="multipleContactDeleteConfirmation">La suppression de ce contact entraînera la suppression des informations de plusieurs comptes</string>
   <string name="multipleContactDeleteConfirmationDetail">Supprimer \"%s\" entraînera la suppression des informations de comptes multiples.</string>
-  <string name="my_phone_not_provider_bluetooth">mon téléphone ne fournit pas de Bluetooth</string>
-  <string name="my_phone_provider_bluetooth">mon téléphone fourni du Bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">Le téléphone ne supporte pas le Bluetooth</string>
+  <string name="my_phone_provider_bluetooth">Le téléphone ne supporte pas le Bluetooth</string>
   <string name="nameLabelsGroup">Nom</string>
   <string name="name_family">Nom de famille</string>
   <string name="name_given">Prénom</string>

@@ -464,7 +464,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="clear_failed_dlg_text">"Impossible de supprimer les données de l\'application."</string>
   <string name="clear_failed_dlg_title">Effacer les données</string>
   <string name="clear_user_data_text">Effacer les données</string>
-  <string name="common_settings">Paramètres communs</string>
+  <string name="common_settings">Paramètres rapides</string>
   <string name="complete_settings">Paramètres complets</string>
   <string name="computing_size">Traitement...</string>
   <string name="config_list_label">Réseaux configurés</string>
@@ -1105,7 +1105,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="msd_install_succeed">Pilote installé</string>
   <string name="msd_install_windows_xp_step_2_1">"1.Si l\'Assistant d\'installation apparaît, veuillez suivre les étapes pour terminer l\'installation du pilote"</string>
   <string name="multi_sim_settings_summary">Mettre en place des paramètres multi-Sim pour voix, données et SMS</string>
-  <string name="multi_sim_settings_title">Paramètres multi-Sim</string>
+  <string name="multi_sim_settings_title">Paramètres multi-SIM</string>
   <string name="multi_touch_points_category_title">Points multi-touch</string>
   <string name="multi_touch_points_preference">Redémarrez pour activer</string>
   <string name="musicfx_title">Effets musicaux</string>
@@ -1289,7 +1289,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="perm_summary_enabled">Activé</string>
   <string name="perm_sysopt_boost_auto_start">Autorisation de démarrage automatique</string>
   <string name="perm_sysopt_boost_auto_start_group">Démarrage Automatique</string>
-  <string name="perm_sysopt_boost_auto_start_summary">Autoriser cette progression de démarrage automatique</string>
+  <string name="perm_sysopt_boost_auto_start_summary">Autoriser ce processus à démarrer automatiquement</string>
   <string name="perm_sysopt_boost_boot">Démarrage</string>
   <string name="perm_sysopt_boost_receiver">Arrière-plan</string>
   <string name="perm_system_app">Applications système (%d)</string>
@@ -1298,7 +1298,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="perm_update">Mise à jour logicielle</string>
   <string name="perm_user_app">Apps téléchargées (%d)</string>
   <string name="perm_version">Version : %1$s</string>
-  <string name="permission_detail_info">Voir les détails de permission</string>
+  <string name="permission_detail_info">Voir les information de permission</string>
   <string name="permission_detail_info_summary">Toutes les autorisations : Sûre %1$d, Privée %2$d, Autres %3$d</string>
   <string name="permission_manage">Gestion d\'autorisation</string>
   <string name="permission_manage_summary">Démarrage automatique, vie privée, gestion d\'autorisation sécurisée</string>
@@ -1445,7 +1445,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="really_remove_account_title">Supprimer le compte ?</string>
   <string name="recognizer_settings_summary">Paramètres de \"%s\"</string>
   <string name="recognizer_settings_title">Recherche vocale</string>
-  <string name="recognizer_title">Saisie vocale</string>
+  <string name="recognizer_title">Reconnaissance vocale</string>
   <string name="recompute_size">Calcul de la taille...</string>
   <string name="remove_account_failed">"Ce compte est requis par certaines applications. Vous ne pouvez le supprimer qu\'en rétablissant la configuration d\'usine du téléphone (ce qui supprime toutes vos données personnelles) dans Paramètres &gt; Sauvegarder et réinitialiser."</string>
   <string name="remove_account_label">Supprimer le compte</string>
@@ -1946,7 +1946,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="virus_scan_app_finish">Fermer</string>
   <string name="virus_scan_app_force_stop">Analyse arrêtée</string>
   <string name="virus_scan_app_is_stop_scan">Souhaitez-vous arrêter l\'analyse antivirus ?</string>
-  <string name="virus_scan_app_multi_engines">Choisissez un moteur, le temps de balayage peut prendre plus de temps</string>
+  <string name="virus_scan_app_multi_engines">"Vous avez choisi plusieurs moteurs, le temps de balayage peut prendre plus de temps"</string>
   <string name="virus_scan_app_no_risk">Aucun risque détecté.</string>
   <string name="virus_scan_app_passed">Le scan s\'est terminé avec succès</string>
   <string name="virus_scan_app_risk">Menace trouvée !</string>

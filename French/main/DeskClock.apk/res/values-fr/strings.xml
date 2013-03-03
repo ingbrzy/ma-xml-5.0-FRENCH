@@ -32,7 +32,7 @@
   <string name="analog_gadget">Horloge analogique</string>
   <string name="app_label">Horloge</string>
   <string name="battery_charging_level">%d %%</string>
-  <string name="cancel">Annuler</string>
+  <string name="cancel">Retour</string>
   <string name="clock_instructions">Sélectionner une horloge</string>
   <string name="common_settings">Paramètres généraux</string>
   <string name="control_set_alarm">"Régler l\'alarme"</string>
@@ -95,11 +95,11 @@
   <string name="snooze_confirm_cancel">Annuler le rappel</string>
   <string name="snooze_confirm_message">"Le rappel a été repoussé à %s. Vous pouvez annuler le rappel."</string>
   <string name="snooze_confirm_ok">OK</string>
-  <string name="start">Départ</string>
-  <string name="start_up">Départ</string>
+  <string name="start">Départ chronomètre</string>
+  <string name="start_up">Départ minuteur</string>
   <string name="stopwatch_lap_empty_text">Aucun tour</string>
   <string name="stopwatch_title">Chronomètre</string>
-  <string name="system_time_setting">Paramètres de l\'heure</string>
+  <string name="system_time_setting">Paramètres</string>
   <string name="time">Heure</string>
   <string name="timer_continue">Continuer</string>
   <string name="timer_got_it">Arrêter le son</string>

@@ -7,7 +7,7 @@
   <string name="app_name">Partage Bluetooth</string>
   <string name="app_name_bpp">Bluetooth BPP</string>
   <string name="auth_notif_message">Entrer la clé de session de %1$s</string>
-  <string name="auth_notif_ticker">"Demande d\'authentification Obex"</string>
+  <string name="auth_notif_ticker">"Demande d\'authentification OBEX"</string>
   <string name="auth_notif_title">Clé de session</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bpp_authentication_timeout_message">Temps de saisie de la clé écoulé pour %1$s</string>
