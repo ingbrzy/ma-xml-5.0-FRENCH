@@ -1957,7 +1957,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="virus_scan_app_uninstall">Désinstallation du lot (%d)</string>
   <string name="virus_scan_app_waiting">En attente de</string>
   <string name="virus_scanner_auto_update">Mise à jour automatique</string>
-  <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
+  <string name="virus_scanner_date_formater">dd MMM yyyy</string>
   <string name="virus_scanner_lib_already_latest">La base de données antivirus est à jour</string>
   <string name="virus_scanner_lib_update_failed">Échec de la mise à jour de base de données Antivirus !</string>
   <string name="virus_scanner_lib_updating">Mise à jour de la base de données en cours...</string>

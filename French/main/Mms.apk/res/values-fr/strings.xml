@@ -130,7 +130,7 @@
   <string name="fetion_prefix">[Fetion]</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">"TR : "</string>
-  <string name="found_old_messages">Un total de: %1$s message(s) ont été trouvés sur l\'ancien compte. Voulez-vous les télécharger sur votre compte actuel: %2$s ?</string>
+  <string name="found_old_messages">Un total de: %1$s messages ont été trouvés sur l\'ancien compte. Voulez-vous les télécharger sur votre compte actuel: %2$s ?</string>
   <string name="found_old_messages_title">Upload de messages</string>
   <string name="found_wild_messages">%s messages provenant d\'autres cartes SIM ont été trouvés sur MiCloud, souhaitez-vous les télécharger ?</string>
   <string name="found_wild_messages_title">Récupérer messages</string>
@@ -328,7 +328,7 @@
   <string name="send_signature_confirm_dialog_message">Vous n\'avez pas écrit de contenu, voulez-vous l\'envoyer ?</string>
   <string name="send_signature_confirm_dialog_title">Confirmer l\'envoi</string>
   <string name="send_to">Envoyer à: %1$s</string>
-  <string name="send_to_count">%1$s message(s) envoyé</string>
+  <string name="send_to_count">%1$s message(s) envoyé(s)</string>
   <string name="send_to_index_contact">Envoi de %1$s sur %2$s...</string>
   <string name="sent_label">"Date d\'envoi : "</string>
   <string name="service_message_not_found">"Le message a expiré ou n\'est plus disponible."</string>

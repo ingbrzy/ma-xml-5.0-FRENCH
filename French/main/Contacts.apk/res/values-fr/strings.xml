@@ -622,8 +622,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="postal_region">État</string>
   <string name="postal_street">Adresse</string>
   <string name="pref_key_photo">Photo</string>
-  <string name="pref_key_photo_word_summary">Sélectionner automatiquement une photo pour les contacts sans photo.</string>
-  <string name="pref_key_photo_word_title">Sélection de photo</string>
+  <string name="pref_key_photo_word_summary">Afficher automatiquement une photo pour les contacts sans photo.</string>
+  <string name="pref_key_photo_word_title">Affichage de photo</string>
   <string name="pref_key_rebuild_t9_index_message">Reconstruire l\'index des contacts en cas de problème d\'affichage</string>
   <string name="pref_key_rebuild_t9_index_title">Reconstruire les données d\'index T9</string>
   <string name="pref_summary_import_from_account">Importer les contacts depuis les comptes Google et Exchange sur mon compte Xiaomi</string>

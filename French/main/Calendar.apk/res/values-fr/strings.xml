@@ -178,7 +178,7 @@
   <string name="today">"Aujourd\'hui"</string>
   <string name="today_at_time_fmt">"Aujourd\'hui à %s"</string>
   <string name="tomorrow">Demain</string>
-  <string name="tomorrow_at_time_fmt">Demain, %s</string>
+  <string name="tomorrow_at_time_fmt">Demain à %s</string>
   <string name="view_event_calendar_label">Agenda :</string>
   <string name="view_event_organizer_label">Organisateur :</string>
   <string name="view_event_response_label">Participer ?</string>

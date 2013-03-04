@@ -54,9 +54,9 @@
   <string name="enabling_progress_content">Activation Bluetooth…</string>
   <string name="enabling_progress_title">Veuillez patienter...</string>
   <string name="ftp_acceptance_dialog_header">Accès aux dossiers du téléphone</string>
-  <string name="ftp_acceptance_dialog_title">%1$s demande un accès aux dossiers de votre téléphone. Accordez vous cet accès à %2$s ?</string>
-  <string name="ftp_acceptance_timeout_message">Temps d\'acceptation de la connexion à %1$s écoulé</string>
-  <string name="ftp_authentication_timeout_message">Temps de saisie de la clé écoulé pour %1$s</string>
+  <string name="ftp_acceptance_dialog_title">%1$s demande un accès aux dossiers de votre téléphone. Accordez-vous cet accès à %2$s ?</string>
+  <string name="ftp_acceptance_timeout_message">Délai d\'acceptation de la connexion à %1$s écoulé</string>
+  <string name="ftp_authentication_timeout_message">Délai de saisie de la clé écoulé pour %1$s</string>
   <string name="ftp_notif_message">Permettre l\'accès aux dossiers racines à %1$s</string>
   <string name="ftp_notif_ticker">Demandes d\'accès aux dossiers</string>
   <string name="ftp_notif_title">Requêtes FTP</string>
@@ -79,10 +79,10 @@
   <string name="insert_record">"Insérer l\'enregistrement"</string>
   <string name="localPhoneName">Mon nom</string>
   <string name="map_acceptance_dialog_header">Accès aux dossiers du téléphone</string>
-  <string name="map_acceptance_dialog_title">%1$s demande un accès aux dossiers de votre téléphone. Accordez vous cet accès à %2$s ?</string>
-  <string name="map_acceptance_timeout_message">Temps d\'acceptation de la connexion à %1$s écoulé</string>
+  <string name="map_acceptance_dialog_title">%1$s demande un accès aux dossiers de votre téléphone. Accordez-vous cet accès à %2$s ?</string>
+  <string name="map_acceptance_timeout_message">Délai d\'acceptation de la connexion à %1$s écoulé</string>
   <string name="map_alert_conn_failed_message">Échec de la connexion Bluetooth MAP</string>
-  <string name="map_authentication_timeout_message">Temps de saisie de la clé écoulé pour %1$s</string>
+  <string name="map_authentication_timeout_message">Délai de saisie de la clé écoulé pour %1$s</string>
   <string name="map_notif_message">Permettre l\'accès aux dossiers racines à %1$s</string>
   <string name="map_notif_ticker">Demandes d\'accès aux dossiers</string>
   <string name="map_notif_title">Requêtes MAP</string>
@@ -104,7 +104,7 @@
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Transferts sortants</string>
   <string name="outbound_noti_title">Partage Bluetooth : fichiers envoyés</string>
-  <string name="pbap_acceptance_timeout_message">Temps d\'acceptation de la connexion à %1$s écoulé</string>
+  <string name="pbap_acceptance_timeout_message">Délai d\'acceptation de la connexion à %1$s écoulé</string>
   <string name="pbap_authentication_timeout_message">"Délai d\'attente dépassé pour la saisie de la clé de session avec \"%1$s\""</string>
   <string name="pbap_session_key_dialog_header">Clé de session Bluetooth requise</string>
   <string name="pbap_session_key_dialog_title">Entrer la clé de session de %1$s</string>
