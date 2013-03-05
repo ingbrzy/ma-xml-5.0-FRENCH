@@ -87,7 +87,7 @@
   <string name="filter_by_duration_format">%2$dmin%5$2dsec</string>
   <string name="filter_by_duration_max">5 min</string>
   <string name="filter_by_duration_min">0 seconde</string>
-  <string name="filter_by_duration_prefix">"Longueur maximale (en minutes) :"</string>
+  <string name="filter_by_duration_prefix">"Longueur maximale (en minutes) : "</string>
   <string name="filter_by_duration_summary">Filtrer les fichiers en fonction de leur durée</string>
   <string name="filter_by_folder">Filtrer par dossier</string>
   <string name="filter_by_folder_summary_off">Désactivé, cliquer pour activer le filtrage par dossier</string>
@@ -95,7 +95,7 @@
   <string name="filter_by_size">Filtrer par taille</string>
   <string name="filter_by_size_max">2 Mo</string>
   <string name="filter_by_size_min">0 Ko</string>
-  <string name="filter_by_size_prefix">"Taille minimale :"</string>
+  <string name="filter_by_size_prefix">"Taille minimale : "</string>
   <string name="filter_by_size_summary">Filtrer les fichiers en fonction de leur taille</string>
   <string name="filter_notification">Le filtre a été filtré, vous pouvez modifier ces paramètres dans les paramètres du filtre.</string>
   <string formatted="false" name="folder_title_format">%s(%d)</string>

@@ -2,7 +2,7 @@
 <resources>
   <string name="about_device">À propos de l\'appareil</string>
   <string name="active_xiaomi_account">Actif</string>
-  <string name="active_xiaomi_account_msg">"Veuillez aller sur le forum MIUI pour activer le compte Xiaomi :"</string>
+  <string name="active_xiaomi_account_msg">"Veuillez aller sur le forum MIUI pour activer le compte Xiaomi : "</string>
   <string name="active_xiaomi_account_title">Activer le compte Xiaomi</string>
   <string name="app_name">Mise à jour</string>
   <string name="apply_buddy_update_info_message">Cliquez sur mettre à jour maintenant, le téléphone commencera le processus de mise à jour</string>
@@ -130,7 +130,7 @@
   <string name="update_success_title">Félicitations. Mise à jour terminée</string>
   <string name="upgrade_close">Fermer</string>
   <string name="upgrade_kernel">Le noyau actuel nécessite une mise à jour</string>
-  <string name="upgrade_kernel_msg">"La version du noyau actuel ne correspond pas à la ROM MIUI. Vous avez besoin de mettre à jour le noyau manuellement. Veuillez-vous référer au tutoriel de mise à niveau:"</string>
+  <string name="upgrade_kernel_msg">"La version du noyau actuel ne correspond pas à la ROM MIUI. Vous avez besoin de mettre à jour le noyau manuellement. Veuillez-vous référer au tutoriel de mise à niveau : "</string>
   <string name="verify_and_apply_dialog_message">Vérification de la signature MD5...</string>
   <string name="verify_and_apply_dialog_title">Vérifier l\'intégrité des fichiers</string>
   <string name="view_install_log">Afficher le journal d\'erreur</string>

@@ -32,7 +32,7 @@
   <string name="fmradio_start_error">L\'activation de la Radio a échoué</string>
   <string name="fmradio_stop_unexpected">La radio s\'est arrêtée de façon inattendue</string>
   <string name="fmradio_waiting_for_power_on">La Radio est en train de démarrer, veuillez patienter...</string>
-  <string name="frequency">Fréquence:</string>
+  <string name="frequency">"Fréquence : "</string>
   <string name="frequency_already_exist">Cette fréquence radio existe déjà</string>
   <string name="frequency_out_of_range">(%1$s~%2$s) fréquence radio hors limites</string>
   <string name="frequency_should_not_null">La fréquence radio ne peut pas être vide !</string>

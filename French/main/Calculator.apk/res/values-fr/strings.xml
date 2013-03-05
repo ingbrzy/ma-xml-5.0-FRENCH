@@ -9,7 +9,7 @@
   <string name="cos">cos</string>
   <string name="cosDesc">cosinus</string>
   <string name="cos_mathematical_value">cos</string>
-  <string name="del">SUPPRIMER</string>
+  <string name="del">SUPPR.</string>
   <string name="delDesc">supprimer</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
@@ -30,7 +30,7 @@
   <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
-  <string name="equalDesc">égale</string>
+  <string name="equalDesc">égal</string>
   <string name="equal_on_history">=</string>
   <string name="error">Erreur</string>
   <string name="factorial">!</string>
