@@ -107,7 +107,7 @@
   <string name="resource_tip_select_ringtone">Aucune sonnerie n\'a été sélectionnée</string>
   <string name="resource_title">Détail des ressources</string>
   <string name="resource_title_select_ringtone">Sélectionner la sonnerie</string>
-  <string name="resource_update">Mise à jour</string>
+  <string name="resource_update">Mettre à jour</string>
   <string name="sdcard_status_changed_dialog_message">"L\'application va se fermer, veuillez la réouvrir pour actualiser les ressources."</string>
   <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
   <string name="short_ringtone_resource">Court(&lt;5sec)</string>
