@@ -568,7 +568,7 @@ Cc : %4$s
   <string name="upload_state_uploading">Transfert...</string>
   <string name="upload_state_waiting_retry">En attente d\'une nouvelle tentative</string>
   <string name="upload_state_waiting_wifi">En attente d\'une connexion Wi-Fi</string>
-  <string name="uploading_for">" pour "</string>
+  <string name="uploading_for">pour %s</string>
   <string name="uploading_to">Transfert vers <b>%s</b>...</string>
   <string name="waitinf_for_sync_message_1">En attente de synchronisation</string>
   <string name="waitinf_for_sync_message_2">Votre e-mail va bientôt s\'afficher.</string>
