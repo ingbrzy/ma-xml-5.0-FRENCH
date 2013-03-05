@@ -561,7 +561,7 @@ Cc : %4$s
   <string name="toast_intent_error">Échec de l\'initialisation du transfert.</string>
   <string name="toast_mailbox_not_found">"Le dossier est introuvable. Il a peut-être été supprimé."</string>
   <string name="trusted_senders_cleared">Option \"Afficher les images\" désactivée.</string>
-  <string name="unread_action">Marquer comme non lu</string>
+  <string name="unread_action">Marquer non lu</string>
   <string name="upload">Transférer</string>
   <string name="upload_state_completed">Terminé</string>
   <string name="upload_state_failed">Échec.</string>

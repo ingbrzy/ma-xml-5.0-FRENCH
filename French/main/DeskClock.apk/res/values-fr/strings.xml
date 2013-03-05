@@ -95,8 +95,8 @@
   <string name="snooze_confirm_cancel">Annuler le rappel</string>
   <string name="snooze_confirm_message">"Le rappel a été repoussé à %s. Vous pouvez annuler le rappel."</string>
   <string name="snooze_confirm_ok">OK</string>
-  <string name="start">Départ chronomètre</string>
-  <string name="start_up">Départ minuteur</string>
+  <string name="start">Départ</string>
+  <string name="start_up">Départ</string>
   <string name="stopwatch_lap_empty_text">Aucun tour</string>
   <string name="stopwatch_title">Chronomètre</string>
   <string name="system_time_setting">Paramètres</string>

@@ -289,10 +289,10 @@
   <string name="incorrect_pincode_remaining_attempts">Code PIN incorrect, %d tentatives restantes</string>
   <string name="incorrect_pukcode">Code PUK incorrect</string>
   <string name="incorrect_pukcode_remaining_attempts">Code PUK incorrect, %d tentatives restantes</string>
-  <string name="input_pin_code">Entrez le code PIN</string>
-  <string name="input_pin_code_to_unlock">Entrez le code PIN pour déverrouiller le périphérique</string>
-  <string name="input_puk_code">Entrez le code PUK</string>
-  <string name="input_puk_code_to_unlock">Entrez le code PUK pour déverrouiller le périphérique</string>
+  <string name="input_pin_code">Code PIN</string>
+  <string name="input_pin_code_to_unlock">Déverrouiller le périphérique</string>
+  <string name="input_puk_code">Code PUK</string>
+  <string name="input_puk_code_to_unlock">Déverrouiller le périphérique</string>
   <string name="lock_screen_date">EEEE d MMMM</string>
   <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée.</string>
   <string name="lockscreen_access_pattern_cleared">Schéma effacé.</string>
