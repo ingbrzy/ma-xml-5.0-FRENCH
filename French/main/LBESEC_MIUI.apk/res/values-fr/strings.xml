@@ -80,7 +80,7 @@
   <string name="HIPS_Perm_CallLog_Desc">Accéder à votre journal d\'appel</string>
   <string name="HIPS_Perm_CallLog_Hint">%1$s applications ont la permission d\'accéder à votre journal d\'appel</string>
   <string name="HIPS_Perm_CallMonitor">Surveillance des appels</string>
-  <string name="HIPS_Perm_CallMonitor_Desc">Surveiller les appels entrants et sortants, contrôler le volume, etc...</string>
+  <string name="HIPS_Perm_CallMonitor_Desc">Surveiller les appels entrants et sortants, contrôler le volume, etc.</string>
   <string name="HIPS_Perm_CallMonitor_Hint">%1$s applications ont la permission de surveiller les appels entrants et sortants et de régler le volume</string>
   <string name="HIPS_Perm_CallState">État du téléphone</string>
   <string name="HIPS_Perm_CallState_Desc">Obtenir l\'état téléphone</string>
@@ -118,7 +118,7 @@
   <string name="HIPS_Perm_Network_UnknownAddr">Adresse inconnue</string>
   <string name="HIPS_Perm_Network_WIFIEvent">En utilisant le réseau Wi-Fi</string>
   <string name="HIPS_Perm_PhoneID">ID du téléphone</string>
-  <string name="HIPS_Perm_PhoneID_Desc">Obtenir l\'ID de votre téléphone, en incluant l\'IMEI, IMSI, etc</string>
+  <string name="HIPS_Perm_PhoneID_Desc">Obtenir l\'ID de votre téléphone, en incluant l\'IMEI, IMSI, etc.</string>
   <string name="HIPS_Perm_PhoneID_Hint">%1$s applications ont la permission d\'obtenir votre numéro de téléphone</string>
   <string name="HIPS_Perm_PhoneID_ICCID">Obtenir la carte SIM SN</string>
   <string name="HIPS_Perm_PhoneID_IMEI">Obtenir le numéro IMEI</string>

@@ -372,7 +372,7 @@
   <string name="pref_volume_key_operation">Fonctionnement des touches de volume</string>
   <string name="pref_zoom_on_double_tap">Appuyer deux fois pour zoomer</string>
   <string name="preview">Aperçu</string>
-  <string name="progress_dialog_setting_wallpaper">"Définition du fond d\'écran…"</string>
+  <string name="progress_dialog_setting_wallpaper">"Définition du fond d\'écran..."</string>
   <string name="readmode_reach_last_page">La dernière page a été atteinte</string>
   <string name="readmodelist_bookmarks_to_show">Listes de lecture</string>
   <string name="recover">Récupérer</string>
@@ -389,7 +389,7 @@
   <string name="rlz_access_point">Y1</string>
   <string name="save">OK</string>
   <string name="save_to_bookmarks">Ajouter aux favoris</string>
-  <string name="saving_snapshot">Enregistrement en cours…</string>
+  <string name="saving_snapshot">Enregistrement en cours...</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">OK</string>
@@ -433,7 +433,7 @@
   <string name="tab_quicklinks">Liens rapides</string>
   <string name="tab_snapshots">Pages enregistrées</string>
   <string name="tab_yellowpage">Pages jaunes</string>
-  <string name="title_bar_loading">Chargement…</string>
+  <string name="title_bar_loading">Chargement...</string>
   <string name="too_many_subwindows_dialog_message">Seule une fenêtre pop-up peut être ouverte à la fois.</string>
   <string name="too_many_subwindows_dialog_title">Fenêtre contextuelle déjà ouverte</string>
   <string name="too_many_windows_dialog_message">"Impossible d\'ouvrir un nouvel onglet tant que vous n\'en avez pas fermé un autre."</string>

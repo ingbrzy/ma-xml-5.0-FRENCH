@@ -155,7 +155,7 @@
   <string name="contact_editor_prompt_multiple_accounts">Vous pouvez synchroniser votre nouveau contact avec l\'un des comptes suivants. Lequel voulez-vous utiliser ?</string>
   <string name="contact_editor_prompt_one_account">Votre nouveau contact sera synchronisé avec %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Votre nouveau contact ne sera pas sauvegardé. Ajouter un compte qui sauvegarde les contacts en ligne ?</string>
-  <string name="contact_list_loading">Chargement…</string>
+  <string name="contact_list_loading">Chargement...</string>
   <string name="contact_pick_photo">Photo</string>
   <string name="contact_read_only">Non modifiable depuis cette application</string>
   <string name="contact_status_update_attribution">via %1$s</string>
@@ -234,7 +234,7 @@
   <string name="device_import_failed_message">Échec de l\'importation !</string>
   <string name="device_import_local_account">Compte local</string>
   <string name="device_import_message">Importation en cours...</string>
-  <string name="device_import_progress_begin_message">Préparation de l\'import…</string>
+  <string name="device_import_progress_begin_message">Préparation de l\'import...</string>
   <string name="device_import_progress_end_message">Import terminé !</string>
   <string name="device_import_progress_message">Importation en cours...</string>
   <string name="device_import_progress_toast">%1$d contacts importés</string>
@@ -302,7 +302,7 @@
   <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
-  <string name="export_to_sim_title">Export vers la carte SIM…</string>
+  <string name="export_to_sim_title">Export vers la carte SIM...</string>
   <string name="export_vcard_description">Exporter la carte de visite sur la SD</string>
   <string name="exporting_contact_failed_message">"Échec de l\'exportation des données des contacts. (Raison : %s)"</string>
   <string name="exporting_contact_failed_title">"Échec de l\'exportation des données des contacts"</string>
@@ -353,7 +353,7 @@
   <string name="group_rename_dialog_title">Renommer le groupe</string>
   <string name="group_rename_fail_toast">Impossible de renommer le groupe</string>
   <string name="group_rename_success_toast">Groupe renommé avec succès</string>
-  <string name="group_sms_progress_msg">Préparation de groupe SMS…</string>
+  <string name="group_sms_progress_msg">Préparation de groupe SMS...</string>
   <string name="groupsLabel">Groupes</string>
   <string name="groups_list_empty">Aucun groupe</string>
   <string name="hint_distance">garder la distance</string>
@@ -382,9 +382,9 @@
   <string name="import_to_xiaomi_account_title">Voulez-vous importer ces contacts dans votre compte Xiaomi ?</string>
   <string name="import_vcard_description">Importer des contacts depuis la carte SD</string>
   <string name="import_weibo_dialog_title">Importer des contacts Sina Weibo</string>
-  <string name="import_weibo_notification_title">Importation de contacts Sina Weibo…</string>
+  <string name="import_weibo_notification_title">Importation de contacts Sina Weibo...</string>
   <string name="import_weibo_notification_title_done">Importation terminée</string>
-  <string name="import_weibo_progress_hint">Importation…</string>
+  <string name="import_weibo_progress_hint">Importation...</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_vcard_canceled_title">Importation de %s annulée</string>
@@ -679,7 +679,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="readOnlyContactWarning">"Il est impossible de supprimer des contacts sur les comptes en lecture seule. Vous pouvez cependant les masquer dans vos contacts"</string>
   <string name="reading_vcard_canceled_title">Lecture des données vCard annulée</string>
   <string name="reading_vcard_failed_title">"Échec lecture données carte de visite"</string>
-  <string name="rebuild_t9_index_dialog_message">Reconstruction des données de l\'index T9…</string>
+  <string name="rebuild_t9_index_dialog_message">Reconstruction des données de l\'index T9...</string>
   <string name="recent">Récentes</string>
   <string name="recentCallsIconLabel">Journal des appels</string>
   <string name="recentCalls_addToContact">Ajouter</string>
@@ -703,12 +703,12 @@ Pour ajouter un contact à la liste de favoris :
   <string name="returnCall">Rappeler</string>
   <string name="ringLabelsGroup">Sonnerie</string>
   <string name="save_photo_progress">Enregistrement de la photo...</string>
-  <string name="savingContact">Enregistrement du contact…</string>
+  <string name="savingContact">Enregistrement du contact...</string>
   <string name="savingDisplayGroups">Sauver les options d\'affichage...</string>
   <string name="scan">analyser le périphérique</string>
   <string name="scan_duplicate_message">Total de (%1$d) contacts avec doublons</string>
   <string name="scan_merge">Recherche d\'éventuels contacts en double, veuillez patientez...</string>
-  <string name="scanning">Recherche de périphériques…</string>
+  <string name="scanning">Recherche de périphériques...</string>
   <string name="scanning_sdcard_failed_message">Échec de la recherche sur la carte SD (Raison : %s)</string>
   <string name="scanning_sdcard_failed_title">"Recherche impossible sur la carte SD"</string>
   <string name="searchHint">Rechercher des contacts</string>
@@ -753,7 +753,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="smart_group_frequency_4">Aucun contact depuis plus de 6 mois</string>
   <string name="smart_group_frequency_label">Par récemment contacté</string>
   <string name="smart_group_label">Regroupement intelligent</string>
-  <string name="smart_group_loading">Chargement de groupes intelligents…</string>
+  <string name="smart_group_loading">Chargement de groupes intelligents...</string>
   <string name="smart_group_location_label">Par emplacement</string>
   <string name="smart_group_location_unavailable">Aucune information sur l\'adresse</string>
   <string name="sms">SMS</string>

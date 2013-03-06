@@ -53,7 +53,7 @@
   <string name="not_selectable_in_effect">Non sélectionnable lorsque l\'effet est activé.</string>
   <string name="not_selectable_in_scene_mode">Ce paramètre ne peut pas être sélectionné en mode Scène.</string>
   <string name="open">Ouvrir</string>
-  <string name="pano_capture_indication">Capture vue panoramique…</string>
+  <string name="pano_capture_indication">Capture vue panoramique...</string>
   <string name="pano_dialog_panorama_failed">Impossible d\'enregistrer le panoramique.</string>
   <string name="pano_dialog_prepare_preview">Préparation vue panoramique...</string>
   <string name="pano_dialog_title">Panoramique</string>
@@ -62,7 +62,7 @@
   <string name="pano_how_to_use_prompt">Appuyez sur le déclencheur pour commencer à prendre des photos panoramiques</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Restez stable lors du déplacement</string>
   <string name="pano_how_to_use_prompt_to_move">Lors de la prise, essayez de garder le mouvement du téléphone stable</string>
-  <string name="pano_review_saving_indication_str">Enregistrement…</string>
+  <string name="pano_review_saving_indication_str">Enregistrement...</string>
   <string name="pano_too_fast_prompt">Trop rapide</string>
   <string name="pref_back_camera_focusmode_title">Mode focus (Caméra dorsale)</string>
   <string name="pref_back_camera_picture_size_default">3200x1800</string>

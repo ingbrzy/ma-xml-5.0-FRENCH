@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="Parse_error_dlg_text">"Un problème est survenu lors de l\'analyse du package."</string>
-  <string name="Parse_error_dlg_title">"Erreur d\'analyse"</string>
   <string name="allow_source_dlg_text">\"Une demande d\'installation d\'autres applications a été initiée à partir de l\'application %1$s.
 
 Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?\"</string>
@@ -44,6 +42,11 @@ Toutes vos données d\'utilisateur précédentes vont être enregistrées.\"</st
   <string name="other_relative">Autres autorisations</string>
   <string name="out_of_space_dlg_text">"Impossible d\'installer %1$s. Veuillez libérer de l\'espace, puis réessayer."</string>
   <string name="out_of_space_dlg_title">Mémoire insuffisante</string>
+  <string name="Parse_error_dlg_text">"Un problème est survenu lors de l\'analyse du package."</string>
+  <string name="Parse_error_dlg_title">"Erreur d\'analyse"</string>
+  <string name="perm_action_accept">Accepter</string>
+  <string name="perm_action_prompt">Demander</string>
+  <string name="perm_action_reject">Rejeter</string>
   <string name="perm_notice">Alerte de sécurité</string>
   <string name="perm_privacy_app_finish">Terminer</string>
   <string name="perm_privacy_app_installed">Installation réussie !</string>
@@ -64,7 +67,7 @@ Toutes vos données d\'utilisateur précédentes vont être enregistrées.\"</st
   <string name="uninstall_confirm_question">Voulez-vous désinstaller cette application ?</string>
   <string name="uninstall_done">Désinstallation terminée.</string>
   <string name="uninstall_failed">Échec de la désinstallation.</string>
-  <string name="uninstall_failed_device_policy_manager">"Impossible de désinstaller ce package, car il s\'agit d\'un administrateur actif."</string>
+  <string name="uninstall_failed_device_policy_manager">"Impossible de désinstaller. Le package est un administrateur actif de l\'appareil."</string>
   <string name="uninstall_failed_msg">Impossible de désinstaller %1$s.</string>
   <string name="uninstall_failed_retained_app_msg">Une application personnalisée par votre opérateur ne peut être désinstallée.</string>
   <string name="uninstall_update_text">"Voulez-vous rétablir la configuration d\'usine de cette application ?"</string>

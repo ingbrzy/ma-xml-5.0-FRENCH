@@ -44,14 +44,14 @@
   <string name="download_line1">De : \"%1$s\"</string>
   <string name="download_line2">Fichier : %1$s</string>
   <string name="download_line3">Taille du fichier : %1$s</string>
-  <string name="download_line5">Réception de fichier en cours…</string>
+  <string name="download_line5">Réception de fichier en cours...</string>
   <string name="download_ok">Masquer</string>
   <string name="download_succ_line5">Fichier reçu</string>
   <string name="download_succ_ok">Ouvrir</string>
   <string name="download_success">Réception de %1$s terminée</string>
   <string name="download_title">Transfert de fichier</string>
   <string name="empty_file_notification_sent">Bluetooth: Fichier rejeté %1$s</string>
-  <string name="enabling_progress_content">Activation Bluetooth…</string>
+  <string name="enabling_progress_content">Activation Bluetooth...</string>
   <string name="enabling_progress_title">Veuillez patienter...</string>
   <string name="ftp_acceptance_dialog_header">Accès aux dossiers du téléphone</string>
   <string name="ftp_acceptance_dialog_title">%1$s demande un accès aux dossiers de votre téléphone. Accordez-vous cet accès à %2$s ?</string>

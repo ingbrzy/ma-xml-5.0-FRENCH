@@ -264,12 +264,12 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_ask_lasting_discovery">"Une application nécessite que d\'autres appareils Bluetooth puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth."</string>
   <string name="bluetooth_auto_connect">Connexion automatique</string>
   <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Assurez-vous que le mot de passe &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; s\'affiche."</string>
-  <string name="bluetooth_connect_specific_profiles_title">Se connecter à…</string>
+  <string name="bluetooth_connect_specific_profiles_title">Se connecter à...</string>
   <string name="bluetooth_connected">Connecté</string>
   <string name="bluetooth_connected_no_a2dp">Connecté (sans audio contenu mutimédia)</string>
   <string name="bluetooth_connected_no_headset">Connecté (sans audio pour appels tél.)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans audio tel./multimédia)</string>
-  <string name="bluetooth_connecting">Connexion…</string>
+  <string name="bluetooth_connecting">Connexion...</string>
   <string name="bluetooth_connecting_error_message">Impossible de se connecter à %1$s.</string>
   <string name="bluetooth_connection_dialog_text">Voulez-vous vous connecter à \"%1$s\" ?</string>
   <string name="bluetooth_connection_notif_message">Appuyez pour vous connecter à \"%1$s\".</string>
@@ -300,7 +300,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_disconnect_pan_user_profile">"L\'accès à Internet via %1$s va être interrompu."</string>
   <string name="bluetooth_disconnect_title">Déconnecter ?</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
-  <string name="bluetooth_disconnecting">Déconnexion…</string>
+  <string name="bluetooth_disconnecting">Déconnexion...</string>
   <string name="bluetooth_display_passkey_pin_msg">"Pour l\'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisissez &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, puis appuyez sur \"Retour\" ou sur \"Entrée\"."</string>
   <string name="bluetooth_dock_settings">"Paramètres de la station d\'accueil"</string>
   <string name="bluetooth_dock_settings_a2dp">Pour la musique et le multimédia</string>
@@ -352,7 +352,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_opp_profile_summary_connected">Connexion au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Connexion au serveur de transfert de fichiers non établie</string>
   <string name="bluetooth_opp_profile_summary_use_for">Utiliser pour le transfert de fichiers</string>
-  <string name="bluetooth_pairing">Association…</string>
+  <string name="bluetooth_pairing">Association...</string>
   <string name="bluetooth_pairing_accept">Se connecter</string>
   <string name="bluetooth_pairing_decline">Annuler</string>
   <string name="bluetooth_pairing_device_down_error_message">"Impossible d\'établir la communication avec %1$s."</string>
@@ -638,7 +638,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="development_settings_summary">"Définir les options pour le développement de l\'application"</string>
   <string name="development_settings_title">Options pour les développeurs</string>
   <string name="device_additional_status">Infos d\'état supplémentaires</string>
-  <string name="device_additional_status_summary">Numéro de téléphone, Signal, IMEI, etc..</string>
+  <string name="device_additional_status_summary">Numéro de téléphone, Signal, IMEI, etc.</string>
   <string name="device_admin_add_title">"Administrateur de l\'appareil"</string>
   <string name="device_admin_settings_title">"Paramètres de gestion de l\'appareil"</string>
   <string name="device_admin_status">"Cet administrateur est activé et permet à l\'application %1$s d\'effectuer les opérations suivantes : "</string>
@@ -1609,7 +1609,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="settings_license_activity_loading">Chargement...</string>
   <string name="settings_license_activity_title">Licences open source</string>
   <string name="settings_license_activity_unavailable">Un problème est survenu lors du chargement des licences.</string>
-  <string name="settings_safetylegal_activity_loading">Chargement…</string>
+  <string name="settings_safetylegal_activity_loading">Chargement...</string>
   <string name="settings_safetylegal_activity_title">Informations de sécurité</string>
   <string name="settings_safetylegal_activity_unreachable">"Vous n\'avez pas de connexion Internet. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet."</string>
   <string name="settings_safetylegal_title">Informations de sécurité</string>
@@ -1742,7 +1742,7 @@ Le code PIN est peut-être incorrect.\"</string>
   <string name="sync_error">Erreur de synchronisation</string>
   <string name="sync_failed">Échec de la synchronisation</string>
   <string name="sync_gmail">Gmail</string>
-  <string name="sync_in_progress">Synchronisation en cours…</string>
+  <string name="sync_in_progress">Synchronisation en cours...</string>
   <string name="sync_is_failing">La synchronisation rencontre des problèmes et sera bientôt rétablie.</string>
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Annuler la synchronisation</string>
@@ -1924,7 +1924,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="user_dict_settings_context_menu_edit_title">Modifier</string>
   <string name="user_dict_settings_edit_dialog_title">Modifier le mot</string>
   <string name="user_dict_settings_empty_text">"Votre dictionnaire personnel ne contient aucun mot. Ajoutez un mot en appuyant sur le bouton d\'ajout (\"+\")."</string>
-  <string name="user_dict_settings_more_languages">Plus de langues…</string>
+  <string name="user_dict_settings_more_languages">Plus de langues...</string>
   <string name="user_dict_settings_titlebar">Dictionnaire personnel</string>
   <string name="user_dict_single_settings_title">Dictionnaire personnel</string>
   <string name="user_discard_user_menu">Ignorer</string>
@@ -2079,7 +2079,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="wifi_eap_method">Méthode EAP</string>
   <string name="wifi_eap_user_cert">Certificat utilisateur</string>
   <string name="wifi_empty_list_wifi_off">Activez le Wi-Fi pour voir les réseaux disponibles.</string>
-  <string name="wifi_empty_list_wifi_on">Recherche de réseaux Wi-Fi en cours…</string>
+  <string name="wifi_empty_list_wifi_on">Recherche de réseaux Wi-Fi en cours...</string>
   <string name="wifi_enable">Activer Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Ne pas utiliser les réseaux Wi-Fi avec des connexions Internet de qualité médiocre</string>
   <string name="wifi_error">Erreur</string>
@@ -2116,7 +2116,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="wifi_notify_open_networks">Notification de réseau</string>
   <string name="wifi_notify_open_networks_summary">"Me notifier lorsqu\'un réseau ouvert est disponible"</string>
   <string name="wifi_on_time">Wi-Fi/temps</string>
-  <string name="wifi_other_network">Autre réseau…</string>
+  <string name="wifi_other_network">Autre réseau...</string>
   <string name="wifi_p2p_cancel_connect_message">"Voulez-vous annuler l\'invitation à se connecter avec %1$s ?"</string>
   <string name="wifi_p2p_cancel_connect_title">"Annuler l\'invitation ?"</string>
   <string name="wifi_p2p_device_info">"Informations sur l\'appareil"</string>
@@ -2130,7 +2130,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="wifi_p2p_menu_remove_group">Supprimer groupe</string>
   <string name="wifi_p2p_menu_rename">"Renommer l\'appareil"</string>
   <string name="wifi_p2p_menu_search">Rechercher des appareils</string>
-  <string name="wifi_p2p_menu_searching">Recherche en cours…</string>
+  <string name="wifi_p2p_menu_searching">Recherche en cours...</string>
   <string name="wifi_p2p_peer_devices">Appareils associés</string>
   <string name="wifi_p2p_persist_network">Mémoriser cette connexion</string>
   <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
@@ -2178,7 +2178,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="wifi_setup_description_connected">Appuyez sur <b>Suivant</b>\" pour poursuivre la configuration.
 
 Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.</string>
-  <string name="wifi_setup_description_connecting">La connexion peut prendre quelques minutes…</string>
+  <string name="wifi_setup_description_connecting">La connexion peut prendre quelques minutes...</string>
   <string name="wifi_setup_detail">Infos réseau</string>
   <string name="wifi_setup_eap_not_supported">"Vous ne pouvez pas configurer de connexion Wi-Fi EAP lors de l\'installation. Une fois celle-ci effectuée, vous pourrez le faire dans Paramètres &gt; Sans fil et réseaux."</string>
   <string name="wifi_setup_forget">Supprimer</string>
@@ -2187,19 +2187,19 @@ Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.<
   <string name="wifi_setup_refresh_list">Actualiser la liste</string>
   <string name="wifi_setup_save">Enregistrer</string>
   <string name="wifi_setup_skip">Ignorer</string>
-  <string name="wifi_setup_status_connecting">Connexion en cours…</string>
+  <string name="wifi_setup_status_connecting">Connexion en cours...</string>
   <string name="wifi_setup_status_eap_not_supported">"L\'EAP n\'est pas compatible."</string>
   <string name="wifi_setup_status_edit_network">Saisissez la configuration réseau.</string>
   <string name="wifi_setup_status_existing_network">Se connecter à un réseau existant</string>
   <string name="wifi_setup_status_new_network">Se connecter à un nouveau réseau</string>
   <string name="wifi_setup_status_proceed_to_next">"Passer à l\'étape suivante"</string>
-  <string name="wifi_setup_status_scanning">Recherche de réseaux…</string>
+  <string name="wifi_setup_status_scanning">Recherche de réseaux...</string>
   <string name="wifi_setup_status_select_network">Appuyez sur un réseau pour vous y connecter</string>
   <string name="wifi_setup_status_unsecured_network">Connexion à un réseau non sécurisé</string>
   <string name="wifi_setup_title">Configuration Wi-Fi</string>
   <string name="wifi_setup_title_add_network">Ajouter un réseau</string>
   <string name="wifi_setup_title_connected_network">Connecté au réseau Wi-Fi %s</string>
-  <string name="wifi_setup_title_connecting_network">Connexion au réseau Wi-Fi %s…</string>
+  <string name="wifi_setup_title_connecting_network">Connexion au réseau Wi-Fi %s...</string>
   <string name="wifi_setup_title_editing_network">Se connecter au réseau Wi-Fi %s</string>
   <string name="wifi_setup_wizard_title">Sélectionner le Wi-Fi</string>
   <string name="wifi_setup_wps">Configuration auto (WPS)</string>
@@ -2208,7 +2208,7 @@ Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.<
   <string name="wifi_signal">Intensité du signal</string>
   <string name="wifi_speed">Vitesse de connexion</string>
   <string name="wifi_ssid">SSID du réseau</string>
-  <string name="wifi_starting">Activation du Wi-Fi…</string>
+  <string name="wifi_starting">Activation du Wi-Fi...</string>
   <string name="wifi_state_disabled">Désactivé</string>
   <string name="wifi_state_disabling">Désactivation</string>
   <string name="wifi_state_enabled">Activé</string>
@@ -2249,7 +2249,7 @@ Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.<
   <string name="wifi_wapi_user_cert">Certificat utilisateur</string>
   <string name="wifi_wps_available_first_item">WPS disponible</string>
   <string name="wifi_wps_available_second_item">" (WPS disponible)"</string>
-  <string name="wifi_wps_complete">Configuration WPS réussie. Connexion au réseau en cours…</string>
+  <string name="wifi_wps_complete">Configuration WPS réussie. Connexion au réseau en cours...</string>
   <string name="wifi_wps_connected">Connecté au réseau Wi-Fi %s</string>
   <string name="wifi_wps_failed_auth">"Échec de l\'authentification. Veuillez réessayer."</string>
   <string name="wifi_wps_failed_generic">Échec de la configuration WPS. Veuillez réessayer dans quelques minutes.</string>
@@ -2260,7 +2260,7 @@ Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.<
   <string name="wifi_wps_onstart_pbc">"Appuyez sur le bouton \"Configuration Wi-Fi protégée\" de votre routeur. Celui-ci peut s\'appeler \"WPS\" ou contenir ce symbole : "</string>
   <string name="wifi_wps_onstart_pin">"Saisissez le code %1$s sur votre routeur Wi-Fi. La configuration peut prendre jusqu\'à deux minutes."</string>
   <string name="wifi_wps_overlap_error">Autre session protégée Wi-Fi détectée. Réessayez dans quelques minutes</string>
-  <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS…</string>
+  <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS...</string>
   <string name="wifi_wps_setup_title">Configuration Wi-Fi protégée</string>
   <string name="wimax_settings">Paramètres 4G</string>
   <string name="wimax_settings_summary">Configurer et gérer le réseau et le modem 4G</string>

@@ -99,7 +99,7 @@
   <string name="done">Entrée</string>
   <string name="download">Télécharger</string>
   <string name="download_later">Impossible de télécharger pour le moment. Veuillez réessayer ultérieurement.</string>
-  <string name="downloading">Téléchargement…</string>
+  <string name="downloading">Téléchargement...</string>
   <string name="duration_not_a_number">La durée doit être indiquée par un chiffre.</string>
   <string name="duration_sec">Durée (%s s.)</string>
   <string name="duration_selector_title">"Durée de la diapositive "</string>
@@ -151,7 +151,7 @@
   <string name="kilobyte">Ko</string>
   <string name="layout_selector_title">"Mise en page du diaporama "</string>
   <string name="loading_all_messages">Chargement de tous les messages...</string>
-  <string name="loading_conversations">Chargement des conversations…</string>
+  <string name="loading_conversations">Chargement des conversations...</string>
   <string name="loading_mms">Chargement MMS...</string>
   <string name="me">Moi</string>
   <string name="menu_compose_new">Nouveau message</string>
@@ -294,7 +294,7 @@
   <string name="recipient_label">"Destinataire : "</string>
   <string name="refresh">Rafraîchir</string>
   <string name="refresh_failed">La mise à jour a échouée</string>
-  <string name="refreshing">Actualisation…</string>
+  <string name="refreshing">Actualisation...</string>
   <string name="remove">Supprimer</string>
   <string name="remove_music">Supprimer la musique</string>
   <string name="remove_picture">"Supprimer l\'image"</string>

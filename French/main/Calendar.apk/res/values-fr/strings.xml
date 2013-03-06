@@ -55,7 +55,7 @@
   <string name="delete_recurring_event_title">"Supprimer l\'évènement \"%s\" ?"</string>
   <string name="delete_this_event_title">Supprimer cet évènement ?</string>
   <string name="description_label">Description</string>
-  <string name="directory_searching_fmt">Recherche en cours dans %s…</string>
+  <string name="directory_searching_fmt">Recherche en cours dans %s...</string>
   <string name="discard_label">Annuler</string>
   <string name="dismiss_all_label">Tout supprimer</string>
   <string name="do_not_check">Ne PAS cocher -&gt;</string>
@@ -91,7 +91,7 @@
   <string name="hint_where">Lieu</string>
   <string name="jump_date">Aller</string>
   <string name="jump_date_full">Aller à la date</string>
-  <string name="loading">Chargement…</string>
+  <string name="loading">Chargement...</string>
   <string name="local_calendar_display_name">Calendrier local</string>
   <string name="local_owner_account_name">Compte local</string>
   <string name="menu_about_preferences">À propos de Google Agenda</string>

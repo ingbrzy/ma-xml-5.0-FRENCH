@@ -29,7 +29,7 @@
   <string name="auto_correct_id3_summary">L\'algorithme d\'empreinte digitale audio corrigera les données ID3 lors de la lecture</string>
   <string name="batch_correct_id3_completed">Rectification de l\'ID3 terminée !</string>
   <string name="billboard">Panneau d\'affichage</string>
-  <string name="buffering">Mise en mémoire tampon…</string>
+  <string name="buffering">Mise en mémoire tampon...</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_sleep_mode">Mode veille désactivé</string>
   <string name="cancle_warining">Le mode veille s\'est arrêté</string>
@@ -124,7 +124,7 @@
   <string name="load_bill_in_process">Charger la liste du panneau d\'affichage</string>
   <string name="load_channel_failed">Impossible de charger la liste des canaux, veuillez recommencer</string>
   <string name="load_channel_in_process">Charger la liste de canaux</string>
-  <string name="loading">Chargement…</string>
+  <string name="loading">Chargement...</string>
   <string name="lrc_progress_modify">Ajuster la vitesse de défilement des paroles</string>
   <string name="lrc_progress_modify_helper">Ajuster les vitesse de défilement des paroles en les faisant glisser vers le haut ou vers le bas</string>
   <string name="lrc_search_failed">Paroles introuvables !</string>
@@ -233,7 +233,7 @@
   <string name="sort_by_track">Pistes</string>
   <string name="start_to_download_album">Téléchargement de pochette(s) d\'album(s) pour votre bibliothèque de musique(s)</string>
   <string name="start_to_download_avatar">Téléchargement de l\'avatar de l\'artiste dans votre bibliothèque de musique</string>
-  <string name="streamloadingtext">Connexion à %s…</string>
+  <string name="streamloadingtext">Connexion à %s...</string>
   <string formatted="false" name="track_album_format">%s - %s</string>
   <string name="track_edit">Chanson</string>
   <string name="track_num_format">(%s)</string>
