@@ -21,7 +21,7 @@
   <string name="accessibility_long_press_timeout_title">Durée de l\'appui prolongé</string>
   <string name="accessibility_menu_item_settings">Paramètres</string>
   <string name="accessibility_no_services_installed">Aucun service installé</string>
-  <string name="accessibility_power_button_ends_call_title">Touche Power termine les appels</string>
+  <string name="accessibility_power_button_ends_call_title">Touche Power pour raccrocher</string>
   <string name="accessibility_script_injection_allowed">Autorisé</string>
   <string name="accessibility_script_injection_button_allow">Autoriser</string>
   <string name="accessibility_script_injection_button_disallow">Ne pas autoriser</string>
@@ -35,8 +35,8 @@
   <string name="accessibility_service_no_apps_title">"Avez-vous besoin d\'un lecteur d\'écran ?"</string>
   <string name="accessibility_service_security_warning_summary">"%1$s peut recueillir la totalité du texte que vous saisissez, à l\'exception des mots de passe. Ceci comprend les données personnelles, telles que le numéro de votre carte de paiement, mais également les données sur vos interactions avec le téléphone."</string>
   <string name="accessibility_service_security_warning_title">Utiliser %1$s ?</string>
-  <string name="accessibility_service_state_off">Off</string>
-  <string name="accessibility_service_state_on">On</string>
+  <string name="accessibility_service_state_off">Activé</string>
+  <string name="accessibility_service_state_on">Désactivé</string>
   <string name="accessibility_services_title">Services</string>
   <string name="accessibility_settings">Accessibilité</string>
   <string name="accessibility_settings_title">"Paramètres d\'accessibilité"</string>
