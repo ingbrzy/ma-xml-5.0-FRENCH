@@ -322,6 +322,8 @@
   <string name="select_bottom_text">"Texte en bas de l\'écran"</string>
   <string name="select_different_media">Sélectionnez autre %1$s.</string>
   <string name="select_link_title">Sélectionner une action</string>
+  <string name="select_local_audio">Sélectionner un enregistrement audio local</string>
+  <string name="select_local_video">Sélectionner une video locale</string>
   <string name="select_top_text">"Texte en haut de l\'écran"</string>
   <string name="send">Envoyer</string>
   <string name="send_signature_confirm_dialog_message">Vous n\'avez pas écrit de contenu, voulez-vous l\'envoyer ?</string>

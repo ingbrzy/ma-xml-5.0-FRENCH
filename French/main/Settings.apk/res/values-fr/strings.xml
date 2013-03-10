@@ -1986,7 +1986,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="voice_title">Voix/USSD/MMI</string>
   <string name="volume_alarm_description">Alarmes</string>
   <string name="volume_alarm_mute">Couper le son des alarmes</string>
-  <string name="volume_bluetooth_description">Volume du Bluetooth</string>
+  <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Volume</string>
   <string name="volume_media_description">Musique, vidéo, jeux et autres fichiers multimédias</string>
   <string name="volume_media_mute">Couper le son de la musique et des autres médias</string>
@@ -1997,7 +1997,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="volume_ring_description">Sonnerie et notifications</string>
   <string name="volume_ring_mute">Couper la sonnerie et le son des notifications</string>
   <string name="volume_system_description">Volume système, pour l\'obturateur photo, l\'écran de verrouillage et les autres notifications système</string>
-  <string name="volume_voice_description">Volume de la voix</string>
+  <string name="volume_voice_description">Voix</string>
   <string name="vpn_cancel">Annuler</string>
   <string name="vpn_configure">Configurer le VPN</string>
   <string name="vpn_connect">Se connecter</string>
