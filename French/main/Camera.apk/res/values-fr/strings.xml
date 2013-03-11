@@ -55,8 +55,8 @@
   <string name="pref_camcorder_settings_category">Mode Caméra</string>
   <string name="pref_camera_flashmode_default">auto</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
-  <string name="pref_camera_flashmode_entry_off">Off</string>
-  <string name="pref_camera_flashmode_entry_on">On</string>
+  <string name="pref_camera_flashmode_entry_off">Désactivé</string>
+  <string name="pref_camera_flashmode_entry_on">Activé</string>
   <string name="pref_camera_flashmode_no_flash">no_flash</string>
   <string name="pref_camera_flashmode_title">Mode Flash</string>
   <string name="pref_camera_focusmode_entry_auto">Auto</string>

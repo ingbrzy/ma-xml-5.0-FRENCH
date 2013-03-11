@@ -35,8 +35,8 @@
   <string name="accessibility_service_no_apps_title">"Avez-vous besoin d\'un lecteur d\'écran ?"</string>
   <string name="accessibility_service_security_warning_summary">"%1$s peut recueillir la totalité du texte que vous saisissez, à l\'exception des mots de passe. Ceci comprend les données personnelles, telles que le numéro de votre carte de paiement, mais également les données sur vos interactions avec le téléphone."</string>
   <string name="accessibility_service_security_warning_title">Utiliser %1$s ?</string>
-  <string name="accessibility_service_state_off">Activé</string>
-  <string name="accessibility_service_state_on">Désactivé</string>
+  <string name="accessibility_service_state_off">Désactivé</string>
+  <string name="accessibility_service_state_on">Activé</string>
   <string name="accessibility_services_title">Services</string>
   <string name="accessibility_settings">Accessibilité</string>
   <string name="accessibility_settings_title">"Paramètres d\'accessibilité"</string>
@@ -420,7 +420,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="breathing_light_freq_title">Fréquence de clignotement de la LED</string>
   <string name="brightness">Luminosité</string>
   <string name="brightness_auto_adjust_off">La luminosité peut être ajustée à votre convenance en déplaçant le curseur. La luminosité de l\'écran restera inchangée dans n\'importe quel environnement.</string>
-  <string name="brightness_auto_adjust_on">La luminosité automatique peut être réglé en déplaçant le curseur. La luminosité de l\'écran varie selon votre réglage et les environs.</string>
+  <string name="brightness_auto_adjust_on">La luminosité automatique peut être réglée en déplaçant le curseur. La luminosité de l\'écran varie selon votre réglage et les environs.</string>
   <string name="brightness_summary">"Régler la luminosité de l\'écran"</string>
   <string name="bssid_label">BSSID :</string>
   <string name="build_number">Numéro de build</string>

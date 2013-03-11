@@ -205,8 +205,8 @@
   <string name="skip_setup_account_msg">Avec votre compte Xiaomi, vous pouvez synchroniser et sauvegarder vos SMS, contacts, photos, notes, etc. Continuer et configurer plus tard ?</string>
   <string name="skip_setup_account_title">Ignorer la configuration du compte</string>
   <string name="sync_dspt">Utiliser le compte Xiaomi pour synchroniser les données</string>
-  <string name="sync_off">Off</string>
-  <string name="sync_on">On</string>
+  <string name="sync_off">Désactivé</string>
+  <string name="sync_on">Activé</string>
   <string name="sync_sub_dspt">Un SMS sera envoyé pour activer le service</string>
   <string name="title_mili_center">Centre Mi Credit</string>
   <string name="title_pay_record">%1$s historique(s) de paiements</string>

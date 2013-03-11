@@ -138,7 +138,7 @@
   <string name="pref_camcorder_settings_category">Mode Caméra</string>
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
   <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
-  <string name="pref_camera_ae_bracket_hdr_entry_off">Off</string>
+  <string name="pref_camera_ae_bracket_hdr_entry_off">Désactivé</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_antibanding_default">50hz</string>
   <string name="pref_camera_antibanding_entry_0">Off</string>
@@ -222,7 +222,7 @@
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
-  <string name="pref_camera_hfr_entry_off">Off</string>
+  <string name="pref_camera_hfr_entry_off">Désactivé</string>
   <string name="pref_camera_hfr_title">Haute fréquence vidéo</string>
   <string name="pref_camera_histogram_default">disable</string>
   <string name="pref_camera_histogram_entry_disable">Désactiver</string>
@@ -304,7 +304,7 @@
   <string name="pref_camera_preview_entry_1000">1 seconde</string>
   <string name="pref_camera_preview_entry_2000">2 secondes</string>
   <string name="pref_camera_preview_entry_5000">5 secondes</string>
-  <string name="pref_camera_preview_entry_off">off</string>
+  <string name="pref_camera_preview_entry_off">Désactivé</string>
   <string name="pref_camera_preview_title">Aperçu</string>
   <string name="pref_camera_recordlocation_default">none</string>
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
@@ -347,7 +347,7 @@
   <string name="pref_camera_scenemode_entry_landscape">Paysage</string>
   <string name="pref_camera_scenemode_entry_night">Nuit</string>
   <string name="pref_camera_scenemode_entry_night_portrait">Portrait de nuit</string>
-  <string name="pref_camera_scenemode_entry_off">Désactiver</string>
+  <string name="pref_camera_scenemode_entry_off">Désactivé</string>
   <string name="pref_camera_scenemode_entry_party">Fête</string>
   <string name="pref_camera_scenemode_entry_portrait">Portrait</string>
   <string name="pref_camera_scenemode_entry_snow">Neige</string>
@@ -379,8 +379,8 @@
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activer</string>
   <string name="pref_camera_skinToneEnhancement_title">Amélioration de la teinte de peau</string>
   <string name="pref_camera_sound_default">on</string>
-  <string name="pref_camera_sound_entry_off">off</string>
-  <string name="pref_camera_sound_entry_on">on</string>
+  <string name="pref_camera_sound_entry_off">Désactivé</string>
+  <string name="pref_camera_sound_entry_on">Activé</string>
   <string name="pref_camera_sound_title">Son de la Camera</string>
   <string name="pref_camera_sound_title_entry_off">Désactivé</string>
   <string name="pref_camera_sound_title_entry_on">Activé</string>
