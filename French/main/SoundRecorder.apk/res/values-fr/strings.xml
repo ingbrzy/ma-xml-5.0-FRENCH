@@ -64,6 +64,8 @@
   <string name="status_bar_anti_disturb">Le son du téléphone a été coupé, ajustez le volume pour reprendre.</string>
   <string name="status_bar_back"> Cliquez pour revenir au dictaphone</string>
   <string name="status_bar_recording">Enregistrement...</string>
+  <string name="status_bar_recording_back">Cliquer pour retourner au dictaphone</string>
+  <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause. "</string>
   <string name="storage_is_full">Il n\'y a plus d\'espace libre</string>
   <string formatted="false" name="timer_format">%02d:%02d</string>
   <string name="unknown_caller">Appelant inconnu</string>

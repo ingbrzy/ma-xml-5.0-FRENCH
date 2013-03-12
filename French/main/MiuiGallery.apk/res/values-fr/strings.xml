@@ -19,6 +19,7 @@
   <string name="auto_create_recent_album_confirm">Après avoir désactivé cette fonctionnalité, la galerie effacera les données créées des albums favoris. Les albums favoris définis par l\'utilisateur ne seront pas affectés. Alternativement, vous pouvez le définir manuellement en touchant longuement un album.</string>
   <string name="auto_create_recent_album_over_ten_times">Créer un album favori lorsque vous ouvrez un album plus de 10 fois</string>
   <string name="autofix">Correction auto</string>
+  <string name="big_screen_alertdialog_title">Appareil projecteur</string>
   <string name="bigscrren_slide_exit">Quitter le diaporama affiché sur la TV</string>
   <string name="browse_category">Parcourir les photos</string>
   <string name="camera_connected">Appareil photo connecté.</string>
