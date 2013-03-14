@@ -516,8 +516,9 @@
   <string name="title">Titre</string>
   <string name="toast_burst_snap_finished_end">Photos prises</string>
   <string name="toast_burst_snap_finished_start">Rafale fini</string>
-  <string name="toast_burst_snap_forbidden_when_audio_capture_open">La rafale n\'est pas supporté lorsque la capture audio est activée.</string>
-  <string name="toast_burst_snap_forbidden_when_hdr_open">La rafale n\'est pas supporté lorsque le HDR est activée.</string>
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Le mode rafale n\'est pas supporté lorsque la capture audio est activée.</string>
+  <string name="toast_burst_snap_forbidden_when_hdr_open">Le mode rafale n\'est pas supporté lorsque le HDR est activé.</string>
+  <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Le mode rafale n\'est pas supporté quand l\'ISO n\'est défini sur 'auto'."</string>
   <string name="toast_start_audio_capture">Emmettre un son d\'obsturateur lors de la capture</string>
   <string name="undo">Annuler</string>
   <string name="unit_mm">mm</string>

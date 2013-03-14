@@ -125,6 +125,7 @@
   <string name="pref_icon_shadow_title">Ombre des icônes</string>
   <string name="pref_keep_in_memory_summary">Empêcher le launcher de se fermer lorsque la mémoire est faible.</string>
   <string name="pref_keep_in_memory_title">Garder en mémoire</string>
+  <string name="pref_keep_layout_summary">Le changement de la dispositon des icônes peut perturber la disposition de votre bureau.</string>
   <string name="pref_keep_layout_title">Garder la disposition actuelle</string>
   <string name="pref_render_in_truecolor_summary">Désactiver cette option améliore la fluidité.</string>
   <string name="pref_render_in_truecolor_title">Rendu de haute qualité</string>

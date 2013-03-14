@@ -25,6 +25,7 @@
   <string name="btn_query">Interroger maintenant</string>
   <string name="btn_recharge_large">Recharger maintenant</string>
   <string name="btn_recharge_other">Autres méthodes de recharge</string>
+  <string name="btn_voucher">Carte Mi Credit (%1$s)</string>
   <string name="button_cancel">Annuler</string>
   <string name="button_pay">Payer</string>
   <string name="button_recharge">Recharger</string>
@@ -157,6 +158,8 @@
   <string name="prev">Précédent</string>
   <string name="progress_connecting">Connexion...</string>
   <string name="progress_creating">Récupération des informations de la commande...</string>
+  <string name="progress_downloading">Téléchargement...</string>
+  <string name="progress_error_auth">Erreur d\'authentification, veuillez réessayer ultérieurement.</string>
   <string name="progress_error_common">Le rechargement a échoué, veuillez réessayer ultérieurement.</string>
   <string name="progress_error_network">Impossible de se connecter au réseau, veuillez vérifier l\'état du réseau.</string>
   <string name="progress_error_server">Erreur du serveur, veuillez réessayer plus tard.</string>
@@ -172,6 +175,7 @@
   <string name="progress_submit_title">Demande de recharge envoyée</string>
   <string name="progress_success_summary">Solde du compte: %1$s Mi Credits</string>
   <string name="progress_success_title">Recharge de %1$s Mi Credits effectuée</string>
+  <string name="progress_voucher_creating">Mise à jour MiCredit...</string>
   <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt: 
 1. Contactez le service clientèle sur : %1$s 
 2. Fournir ce numéro de série : %2$s</string>
@@ -188,6 +192,8 @@
   <string name="recharge_record_empty">Aucun historique de recharge</string>
   <string name="recharge_tenpay_summary">Assistance de recharge Tenpay</string>
   <string name="recharge_tenpay_title">Tenpay</string>
+  <string name="recharge_voucher_summary">Support de la recharge MiCredit</string>
+  <string name="recharge_voucher_title">Bons MiCredit</string>
   <string name="reg_by_email_failure">Échec de l\'enregistrement: %1$s</string>
   <string name="reg_failed">Échec de l\'enregistrement</string>
   <string name="reg_type_email">S\'inscrire par E-mail</string>
@@ -215,6 +221,7 @@
   <string name="title_recharge">Recharger Mi Credits</string>
   <string name="title_recharge_record">Historique des recharges</string>
   <string name="title_reg">Enregistrer un compte Xiaomi</string>
+  <string name="title_voucher">Recharger en utilisant un reçu MiCredit</string>
   <string name="unactivated_user">Non activé</string>
   <string name="unbind">Retirer l\'autorisation</string>
   <string name="update_contacts">Mise à jour des contacts</string>
@@ -224,4 +231,17 @@
   <string name="user_agreement_p3"> et </string>
   <string name="user_agreement_p4">Règles de confidentialité</string>
   <string name="user_agreement_p5">"En vous inscrivant, vous acceptez les"</string>
+  <string name="voucher_btn_exchange">Utiliser un bon</string>
+  <string name="voucher_btn_exchange_error">Invalide</string>
+  <string name="voucher_btn_has_exchanged">Bon racheté</string>
+  <string name="voucher_denom">MiCredits</string>
+  <string name="voucher_edit_hint">Mot de passe : </string>
+  <string name="voucher_edit_limit">Editer la limite</string>
+  <string name="voucher_empty">Pas de données MiCredit conservées</string>
+  <string name="voucher_error_code">Une erreur est survenue avec votre code de bon MiCredit</string>
+  <string name="voucher_exchange">Échanger</string>
+  <string name="voucher_exchange_count">(%1$s) bons utilisés</string>
+  <string name="voucher_exchange_success">Remboursement de %1$s MiCredit(s) effectué</string>
+  <string name="voucher_expire">Expiré le %1$s-%2$s-%3$s</string>
+  <string name="voucher_input">Saisir</string>
 </resources>

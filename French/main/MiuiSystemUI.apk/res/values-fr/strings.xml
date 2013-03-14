@@ -205,6 +205,8 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="status_bar_recent_inspect_item_title">"Informations sur l\'application"</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
   <string name="status_bar_recent_remove_item_title">Supprimer de la liste</string>
+  <string name="status_bar_recording_back">Cliquer pour retourner au dictaphone</string>
+  <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause. "</string>
   <string name="status_bar_settings_airplane">Mode Avion</string>
   <string name="status_bar_settings_auto_brightness_label">Auto</string>
   <string name="status_bar_settings_auto_rotation">"Rotation automatique de l\'écran"</string>

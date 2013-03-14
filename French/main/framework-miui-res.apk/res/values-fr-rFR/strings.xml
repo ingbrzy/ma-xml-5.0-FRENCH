@@ -373,6 +373,8 @@
   <string name="sim_changed_reactivate_notice">La carte SIM actuelle n\'est pas activée. Un SMS est nécessaire pour activer le service de Synchronisation Xiaomi. Réactiver maintenant ?</string>
   <string name="speaker">Haut-parleur</string>
   <string name="sync_one_time_sync">Touchez pour synchroniser (%1$s)</string>
+  <string name="today">Aujourd\'hui</string>
+  <string name="tomorrow">Demain</string>
   <string name="text_pastelist">Presse-papier</string>
   <string name="unknown">Numéro inconnu</string>
   <string name="unknown_caller">Appelant inconnu</string>
@@ -397,4 +399,5 @@
   <string name="volume_icon_description_notification">Notifications</string>
   <string name="volume_icon_description_ringer">Sonnerie</string>
   <string name="wake_alarm_message">Mettre l\'alarme en pause et rappeler dans %s </string>
+  <string name="yesterday">Hier</string>
 </resources>
