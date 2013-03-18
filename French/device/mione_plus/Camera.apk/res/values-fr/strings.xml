@@ -96,7 +96,7 @@
   <string name="pref_camera_autoexposure_entry_centerweighted">Centre pondéré</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Trame moyenne</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesure de spot</string>
-  <string name="pref_camera_autoexposure_title">Sélectionner le Mode d\'exposition automatique</string>
+  <string name="pref_camera_autoexposure_title">Mode d\'exposition automatique</string>
   <string name="pref_camera_autoexposure_value_centerweighted">center-weighted</string>
   <string name="pref_camera_autoexposure_value_frameaverage">frame-average</string>
   <string name="pref_camera_autoexposure_value_spotmetering">spot-metering</string>
@@ -252,7 +252,7 @@
   <string name="pref_camera_recordlocation_default">none</string>
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
   <string name="pref_camera_recordlocation_entry_on">Activé</string>
-  <string name="pref_camera_recordlocation_title">Enregist. position</string>
+  <string name="pref_camera_recordlocation_title">Enregistrer position</string>
   <string name="pref_camera_redeyereduction_default">disable</string>
   <string name="pref_camera_redeyereduction_entry_disable">Désactiver</string>
   <string name="pref_camera_redeyereduction_entry_enable">Activer</string>

@@ -156,7 +156,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="recent_apps_key_show">Afficher la touche des applications récentes</string>
   <string name="return_to_incall_screen">Cliquez pour revenir à l\'appel</string>
   <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
-  <string name="screen_button_disabled_message">Les touches du bas de l\'écran sont désactivés. Vous pouvez les activer en appuyant sur \"Home\" et \"Power\</string>
+  <string name="screen_button_disabled_message">Les touches du bas de l\'écran sont désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
   <string name="screen_button_enabled_message">Les touches du bas de l\'écran sont activées</string>
   <string name="screen_key_back">Touche retour</string>
   <string name="screen_key_home">Bouton d\'acceuil</string>
@@ -172,7 +172,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="screenshot_saving_title">"Enregistrement de la capture d\'écran..."</string>
   <string name="settings_expandable_under_fullscreen">Extensible en plein écran</string>
   <string name="settings_expandable_under_fullscreen_summary">En glissant vers le bas à partir du haut de l\'écran</string>
-  <string name="settings_expandable_under_keyguard">Extensible sur l\'écran de ver.</string>
+  <string name="settings_expandable_under_keyguard">Extensible sous écran de verr.</string>
   <string name="settings_expandable_under_keyguard_summary">Ne fonctionne que sur un écran de verrouillage non sécurisé</string>
   <string name="settings_expanded_view">Notifications en mode étendu</string>
   <string name="settings_notification_icon">Notifications de la barre d\'état</string>

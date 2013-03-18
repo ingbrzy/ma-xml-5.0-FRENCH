@@ -2,19 +2,19 @@
 <resources>
   <string name="MIUI_startpage">Page d\'accueil</string>
   <string name="accessibility_button_addbookmark">Ajouter aux favoris</string>
-  <string name="accessibility_button_back">Retour</string>
+  <string name="accessibility_button_back">Précédent</string>
   <string name="accessibility_button_bookmark">Favori</string>
   <string name="accessibility_button_bookmarks">Favoris</string>
   <string name="accessibility_button_clear">Effacer la saisie</string>
   <string name="accessibility_button_closetab">"Fermer l\'onglet"</string>
-  <string name="accessibility_button_forward">Avancer</string>
+  <string name="accessibility_button_forward">Suivant</string>
   <string name="accessibility_button_go">OK</string>
   <string name="accessibility_button_goto">Atteindre</string>
   <string name="accessibility_button_larger">Plus grand</string>
   <string name="accessibility_button_more">Autres options</string>
   <string name="accessibility_button_navscreen">Gestionnaire de pages</string>
-  <string name="accessibility_button_newincognitotab">Ouvrir un onglet de navigation privée</string>
-  <string name="accessibility_button_newtab">Ouvrir un nouvel onglet</string>
+  <string name="accessibility_button_newincognitotab">Nouvel onglet de navigation privée</string>
+  <string name="accessibility_button_newtab">Nouvel onglet</string>
   <string name="accessibility_button_refresh">Rafraîchir</string>
   <string name="accessibility_button_search">Rechercher</string>
   <string name="accessibility_button_smaller">Plus petit</string>
@@ -284,8 +284,8 @@
   <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_viewport">Utiliser une fenêtre large</string>
   <string name="pref_development_visual_indicator">Activez l\'indicateur visuel</string>
-  <string name="pref_exit_on_closing_last_tab_enabled_summary">Cochez cette case pour quitter le navigateur en fermant le dernier onglet. Décochez la case pour afficher la page d\'accueil</string>
-  <string name="pref_exit_on_closing_last_tab_enabled_title">Quitter en fermant le dernier onglet</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_summary">Cocher cette case pour quitter le navigateur en fermant le dernier onglet. Décocher la case pour afficher la page d\'accueil</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_title">Quitter en fermant dernier onglet</string>
   <string name="pref_extras_reset_default">Valeurs par défaut</string>
   <string name="pref_extras_reset_default_dlg">Rétablir les valeurs par défaut ?</string>
   <string name="pref_extras_reset_default_summary">Rétablir les paramètres par défaut</string>
@@ -371,7 +371,7 @@
   <string name="pref_video_preload_value_never">NEVER</string>
   <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_enabled">Touches de volume</string>
-  <string name="pref_volume_key_operation">Fonctionnement des touches de volume</string>
+  <string name="pref_volume_key_operation">Action des touches de volume</string>
   <string name="pref_zoom_on_double_tap">Appuyer deux fois pour zoomer</string>
   <string name="preview">Aperçu</string>
   <string name="progress_dialog_setting_wallpaper">"Définition du fond d\'écran..."</string>
@@ -430,7 +430,7 @@
   <string name="tab_bookmarks">Favoris</string>
   <string name="tab_closed">Onglet fermé.</string>
   <string name="tab_history">Historique</string>
-  <string name="tab_most_visited">Les + visités</string>
+  <string name="tab_most_visited">Les plus visités</string>
   <string name="tab_opened_background">Onglet ouvert en arrière-plan.</string>
   <string name="tab_quicklinks">Liens rapides</string>
   <string name="tab_snapshots">Pages enregistrées</string>

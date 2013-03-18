@@ -101,7 +101,7 @@
   <string name="kuaipan_over_space">Votre MiDrive n\'a perdu aucun espace.</string>
   <string name="kuaipan_prompt">Aide MiDrive</string>
   <string name="kuaipan_prompt_message">"Le serveur est actuellement indisponible, veuillez réessayer plus tard"</string>
-  <string name="kuaipan_tech_support">Support technique apporté par Xiaomi</string>
+  <string name="kuaipan_tech_support">Support technique de Xiaomi</string>
   <string name="load_err">Échec du chargement</string>
   <string name="loading">Chargement en cours...</string>
   <string name="local_cache">Cache local</string>

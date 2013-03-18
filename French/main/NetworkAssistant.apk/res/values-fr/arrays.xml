@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="date_of_traffic">
-    <item>Trafic d\'hier</item>
-    <item>Trafic d\'aujourd\'hui</item>
-    <item>Trafic du mois</item>
+    <item>Trafic d\'hier </item>
+    <item>Trafic d\'aujourd\'hui </item>
+    <item>Trafic du mois </item>
   </string-array>
   <string-array name="date_of_app_all">
     <item>Hier avec la 2G/3G</item>

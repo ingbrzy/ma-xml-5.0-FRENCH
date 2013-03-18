@@ -105,7 +105,7 @@
   <string name="cit_keyboard_back">Test du bouton: BACK</string>
   <string name="cit_keyboard_current">Clavier : %s</string>
   <string name="cit_keyboard_menu">Test du bouton: MENU</string>
-  <string name="cit_keyboard_test_summary">Montre quelle touche matérielle est sélectionnée, ce test ne vérifie pas le bouton home</string>
+  <string name="cit_keyboard_test_summary">Montre quelle touche matérielle est sélectionnée, ce test ne vérifie pas le bouton Accueil</string>
   <string name="cit_keyboard_test_title">Test du clavier</string>
   <string name="cit_label">Détection du matériel</string>
   <string name="cit_lcdlight_brightness">Rétro-éclairage</string>

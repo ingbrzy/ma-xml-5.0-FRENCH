@@ -60,7 +60,7 @@
   <string name="dismiss_all_label">Tout supprimer</string>
   <string name="do_not_check">Ne PAS cocher -&gt;</string>
   <string name="does_not_repeat">Évènement ponctuel</string>
-  <string name="done">Entrée</string>
+  <string name="done">OK</string>
   <string name="edit_event_all_day_label">Journée entière</string>
   <string name="edit_event_calendar_label">Agenda</string>
   <string name="edit_event_from_label">Du</string>

@@ -102,7 +102,7 @@
   <string name="sign_in_add_account">Veuillez activer votre compte Xiaomi</string>
   <string name="sign_in_add_account_helper">Votre téléphone n\'a pas de compte MIUI actif, ajoutez-en un pour recevoir des points utilisateur</string>
   <string name="sign_in_info">"Votre classement de mise à jour est %1$s, %2$s membres ont signé pour MIUI %3$s"</string>
-  <string name="sign_in_info_rank_more">"Votre classement de mise à jour est après %1$s sur %2$s membres qui ont signé pour MIUI %3$s"</string>
+  <string name="sign_in_info_rank_more">"Votre classement de mise à jour est de %1$s sur %2$s membres qui ont signé pour MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Votre classement de mise à jour est de %1$s sur %2$s membres qui ont signé pour MIUI %3$s"</string>
   <string name="stable_build">Version stable</string>
   <string name="start_update">Mettre à jour</string>

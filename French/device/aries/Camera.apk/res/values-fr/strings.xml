@@ -127,7 +127,7 @@
   <string name="pref_camera_autoexposure_entry_centerweighted">Centre pondéré</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Trame moyenne</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesure de spot</string>
-  <string name="pref_camera_autoexposure_title">Sélectionner le Mode d\'exposition automatique</string>
+  <string name="pref_camera_autoexposure_title">Mode d\'exposition automatique</string>
   <string name="pref_camera_coloreffect_default">none</string>
   <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
@@ -236,7 +236,7 @@
   <string name="pref_camera_recordlocation_default">none</string>
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
   <string name="pref_camera_recordlocation_entry_on">Activé</string>
-  <string name="pref_camera_recordlocation_title">Enregist. position</string>
+  <string name="pref_camera_recordlocation_title">Enregistrer position</string>
   <string name="pref_camera_redeyereduction_default">disable</string>
   <string name="pref_camera_redeyereduction_entry_auto">Automatique</string>
   <string name="pref_camera_redeyereduction_entry_disable">Désactiver</string>
@@ -393,7 +393,7 @@
   <string name="slideshow">Diaporama</string>
   <string name="snapshot_lower_than_video">La taille de capture vidéo est inférieure à la taille de la vidéo. Plafonnement de la taille de la vidéo. Veuillez sélectionner une résolution supérieure ou égale à la taille actuelle de la vidéo.</string>
   <string name="snapshot_qcif_and_d1">Seule la taille d\'instantané vidéo est prise en charge pour cette résolution.</string>
-  <string name="snapshotsize_low_powermode">La prise en charge de la résolution d\'image en mode faible consommation n\'est pas pris en charge. La taille de la vidéo  instantané sera utilisée. S\'il vous plaît sélectionner le mode de puissance élevé pour la taille de l\'image.</string>
+  <string name="snapshotsize_low_powermode">La prise en charge de la résolution d\'image en mode faible consommation n\'est pas pris en charge. La résolution de l\'instantané vidéo sera utilisée. Veuillez sélectionner le mode de puissance élevé pour choisir la résolution de l\'image.</string>
   <string name="spaceIsLow_content">La mémoire de stockage USB est pleine. Définissez la qualité sur une valeur plus basse ou supprimez des images ou d\'autres types de fichiers.</string>
   <string name="tags">Tags</string>
   <string name="tap_to_focus">Appuyez pour faire le focus</string>

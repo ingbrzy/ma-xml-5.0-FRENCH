@@ -7,7 +7,7 @@
     <string name="defaultVoiceMailAlphaTag">Messagerie vocale</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(Aucun numéro de téléphone)</string>
-    <string name="httpErrorBadUrl">Impossible d\'ouvrir la page, car l\'URL n\'est pas valide.</string>
+    <string name="httpErrorBadUrl">Impossible d\'ouvrir la page car l\'URL n\'est pas valide.</string>
     <string name="httpErrorUnsupportedScheme">Ce protocole n\'est pas compatible.</string>
     <string name="no">Annuler</string>
     <string name="ok">OK</string>
@@ -877,7 +877,7 @@ Appuyez sur \"OK\" pour continuer ou \"Annuler\" pour rester sur la page actuell
     <string name="oneMonthDurationPast">Il y a 1 mois</string>
     <string name="beforeOneMonthDurationPast">Il y a plus d\'un mois</string>
     <string name="last_month">Le mois dernier</string>
-    <string name="older">Préc.</string>
+    <string name="older">Précédent</string>
     <string name="preposition_for_date">le %s</string>
     <string name="preposition_for_time">à %s</string>
     <string name="preposition_for_year">en %s</string>
@@ -1077,7 +1077,7 @@ Voulez-vous la fermer ?</string>
     <string name="ime_action_send">Envoyer</string>
     <string name="ime_action_next">Suivant</string>
     <string name="ime_action_done">OK</string>
-    <string name="ime_action_previous">Préc.</string>
+    <string name="ime_action_previous">Précédent</string>
     <string name="ime_action_default">Exécuter</string>
     <string name="dial_number_using">Composer le numéro
 en utilisant %s</string>

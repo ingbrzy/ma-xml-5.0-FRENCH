@@ -21,7 +21,7 @@
   <string name="accessibility_long_press_timeout_title">Durée de l\'appui prolongé</string>
   <string name="accessibility_menu_item_settings">Paramètres</string>
   <string name="accessibility_no_services_installed">Aucun service installé</string>
-  <string name="accessibility_power_button_ends_call_title">Touche Power pour raccrocher</string>
+  <string name="accessibility_power_button_ends_call_title">Touche Marche/Arrêt pour raccrocher</string>
   <string name="accessibility_script_injection_allowed">Autorisé</string>
   <string name="accessibility_script_injection_button_allow">Autoriser</string>
   <string name="accessibility_script_injection_button_disallow">Ne pas autoriser</string>
@@ -147,8 +147,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="auto_restore_summary">"Lors de la réinstallation d\'une application, restaurer les paramètres et les données sauvegardées"</string>
   <string name="auto_restore_title">Restaurer automatiquement</string>
   <string name="auto_startup_application_manage">Contrôle d\'application</string>
-  <string name="auto_startup_count">Autoriser %d applications de démarrer automatiquement</string>
-  <string name="auto_startup_dialog_msg">\"MIUI autorisera à l\'application de démarrer automatiquement sans demander. Cela peut conduire à une consommation d\'énergie/de données. Autoriser le démarrage automatique ?»</string>
+  <string name="auto_startup_count">Démarrage auto de %d applications</string>
+  <string name="auto_startup_dialog_msg">\"MIUI autorisera l\'application à démarrer automatiquement sans demander. Cela peut conduire à une consommation d\'énergie/de données. Autoriser le démarrage automatique ?»</string>
   <string name="automatic_brightness">Ajuster automatiquement la luminosité</string>
   <string name="available_size">%s disponible</string>
   <string name="awake">"Durée de fonctionnement de l\'appareil"</string>
@@ -173,7 +173,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="band_mode_set">Définir</string>
   <string name="band_mode_succeeded">OK</string>
   <string name="band_mode_title">Définir la bande GSM/UMTS</string>
-  <string name="baseband_version">Version de bande de base</string>
+  <string name="baseband_version">Bande de base</string>
   <string name="battery_action_app_details">"Informations sur l\'application"</string>
   <string name="battery_action_app_settings">"Paramètres de l\'application"</string>
   <string name="battery_action_bluetooth">Paramètres Bluetooth</string>
@@ -614,9 +614,9 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="date_time_set_time">"Définir l\'heure"</string>
   <string name="date_time_set_timezone">Définir le fuseau horaire</string>
   <string name="date_time_settings">Paramètres de la date et de l\'heure</string>
-  <string name="debug_app">Sélectionner une application à déboguer</string>
-  <string name="debug_app_not_set">Aucune application à déboguer définie</string>
-  <string name="debug_app_set">Application à déboguer : %1$s</string>
+  <string name="debug_app">Choisir une application de débogage</string>
+  <string name="debug_app_not_set">Aucune application de débogage définie</string>
+  <string name="debug_app_set">Application de débogage : %1$s</string>
   <string name="debug_applications_category">Applications</string>
   <string name="debug_debugging_category">Débogage</string>
   <string name="debug_drawing_category">Tracé</string>
@@ -768,7 +768,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
 Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs développeurs les mettent à jour.\"</string>
   <string name="enforce_read_external_confirm_title">Protéger mémoire stockage USB ?</string>
   <string name="enforce_read_external_summary">"Les applis doivent demander l\'autorisation pour lire la mémoire."</string>
-  <string name="enforce_read_external_title">Protéger mémoire de stockage USB</string>
+  <string name="enforce_read_external_title">Protéger le stockage USB</string>
   <string name="enter_password">Saisir le mot de passe pour déchiffrer la mémoire de stockage</string>
   <string name="erase_application">Effacer les applications</string>
   <string name="erase_application_description">Effacer les applications installées</string>
@@ -842,7 +842,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="hidden_ssid_label">SSID caché : </string>
   <string name="history_details_title">"Informations sur l\'historique"</string>
   <string name="ime_security_warning">"Ce mode de saisie est susceptible d\'enregistrer le texte que vous saisissez, y compris vos données personnelles, telles que les mots de passe et les numéros de carte de paiement. Il provient de l\'application %1$s. Voulez-vous vraiment l\'activer ?"</string>
-  <string name="immediately_destroy_activities">Ne pas conserver activités</string>
+  <string name="immediately_destroy_activities">Ne pas conserver d\'activité</string>
   <string name="immediately_destroy_activities_summary">Supprimer immédiatement les activités abandonnées</string>
   <string name="ims_reg_required_off">"Désactivation de l\'enregistrement IMS requise"</string>
   <string name="ims_reg_required_on">"Activation de l\'enregistrement IMS requise"</string>
@@ -924,7 +924,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="location_gps">Satellites GPS</string>
   <string name="location_neighborhood_level">Autoriser applis à utiliser localisation Google pour estimer position plus rapidement. Infos localisation anonymes envoyées à Google.</string>
   <string name="location_neighborhood_level_wifi">Position déterminée par le Wi-Fi</string>
-  <string name="location_network_based">Localis. via Wi-Fi et réseau mobile</string>
+  <string name="location_network_based">Service de localisation Google</string>
   <string name="location_settings_title">Données de localisation</string>
   <string name="location_street_level">Autoriser les applications à utiliser le GPS sur votre téléphone pour vous localiser</string>
   <string name="location_title">Ma position</string>
@@ -983,7 +983,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lockpattern_retry_button_text">Réessayer</string>
   <string name="lockpattern_settings_change_lock_pattern">Modifier le schéma de déverrouillage</string>
   <string name="lockpattern_settings_choose_lock_pattern">Créer un schéma</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">Verr. auto MARCHE-ARRÊT</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Bouton Marche/Arrêt verr. auto</string>
   <string name="lockpattern_settings_enable_summary">"Dessiner un schéma pour déverrouiller l\'écran"</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrer au toucher</string>
   <string name="lockpattern_settings_enable_title">Schéma obligatoire</string>
@@ -998,7 +998,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lte_ram_dump_on">Activer le vidage de la mémoire RAM du LTE</string>
   <string name="macaddr_label">Adresse MAC : </string>
   <string name="main_running_process_description">"Processus principal en cours d\'utilisation."</string>
-  <string name="man_add_application">Ajouter manuellement des applications de démarrage automatique</string>
+  <string name="man_add_application">Ajouter manuellement des applications</string>
   <string name="manage_device_admin">"Administrateurs de l\'appareil"</string>
   <string name="manage_device_admin_summary">"Afficher ou désactiver les administrateurs de l\'appareil"</string>
   <string name="manage_space_text">"Gérer l\'espace"</string>
@@ -1054,14 +1054,14 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="media_volume_title">Multimédia</string>
   <string name="medium_font">Moyenne</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Applis (données des applis et contenu multimédia)</string>
+  <string name="memory_apps_usage">Applis (données, contenus multimédia)</string>
   <string name="memory_available">Disponible</string>
   <string name="memory_calculating_size">Calcul en cours</string>
   <string name="memory_dcim_usage">Images, vidéos</string>
   <string name="memory_downloads_usage">Téléchargements</string>
   <string name="memory_media_misc_usage">Divers</string>
   <string name="memory_media_usage">Support</string>
-  <string name="memory_music_usage">Audio (musique, sonneries, podcasts, etc.)</string>
+  <string name="memory_music_usage">Audio (musique, sonneries, etc.)</string>
   <string name="memory_size">Espace total</string>
   <string name="menu_cancel">Annuler</string>
   <string name="menu_delete">"Supprimer l\'APN"</string>
@@ -1130,8 +1130,8 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="no_services">Inactifs</string>
   <string name="normal_date_format">Format régional (%s)</string>
   <string name="notification_pulse_title">Voyant de notification</string>
-  <string name="notification_sound_dialog_title">Son de notification par défaut</string>
-  <string name="notification_sound_title">Son de notification par défaut</string>
+  <string name="notification_sound_dialog_title">Notification par défaut</string>
+  <string name="notification_sound_title">Notification par défaut</string>
   <string name="notification_vibrate_abbreviation">Notifications</string>
   <string name="notification_volume_title">Notifications</string>
   <string name="nsd_quick_toggle_summary">"Autoriser les applications sur d\'autres appareils à identifier les applications sur celui-ci"</string>
@@ -1322,7 +1322,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Veille GSM</string>
   <string name="power_idle">Téléphone inactif</string>
-  <string name="power_key">Touche marche/arrêt</string>
+  <string name="power_key">Touche Marche/Arrêt</string>
   <string name="power_mode">Mode d\'alimentation</string>
   <string name="power_phone">Appels vocaux</string>
   <string name="power_screen">Écran</string>
@@ -1336,7 +1336,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="pref_button_light_summary">Éclaire les touche Menu, Accueil et Retour</string>
   <string name="pref_operational_key">Touches opérationnelles</string>
   <string name="pref_volume_category_title">Touches volume</string>
-  <string name="pref_volume_wake_summary">Presser les touches de volume réactive l\'écran. Utile si le bouton Power est difficile d\'accès</string>
+  <string name="pref_volume_wake_summary">Presser les touches de volume réactive l\'écran. Utile si le bouton Marche/Arrêt est difficile d\'accès</string>
   <string name="pref_volume_wake_title">Éveil par les touches volume</string>
   <string name="preference_change_password_title">Modifier le mot de passe</string>
   <string name="preferred_launcher_title">Launcher préféré</string>
@@ -1471,7 +1471,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="restore_default_apn_completed">La réinitialisation des paramètres APN par défaut est terminée.</string>
   <string name="retry">Réessayer</string>
   <string name="ring_volume_title">Volume de la sonnerie</string>
-  <string name="ringtone_title">Sonnerie du téléphone</string>
+  <string name="ringtone_title">Sonnerie</string>
   <string name="roaming">Itinérance des données</string>
   <string name="roaming_disable">"Se connecter aux services de données lors de l\'itinérance"</string>
   <string name="roaming_enable">"Se connecter aux services de données lors de l\'itinérance"</string>
@@ -1614,8 +1614,8 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="settings_safetylegal_activity_unreachable">"Vous n\'avez pas de connexion Internet. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet."</string>
   <string name="settings_safetylegal_title">Informations de sécurité</string>
   <string name="settings_shortcut">Raccourci vers les paramètres</string>
-  <string name="show_all_anrs">"Afficher tous les messages \"L\'application ne répond pas\""</string>
-  <string name="show_all_anrs_summary">"Afficher \"L\'application ne répond plus\" pour applis en arrière-plan"</string>
+  <string name="show_all_anrs">"Afficher FC d\'applis en arrière-plan"</string>
+  <string name="show_all_anrs_summary">"Afficher \"L\'application ne répond plus\" pour les applications en arrière-plan"</string>
   <string name="show_background_processes">Voir processus en cache</string>
   <string name="show_cpu_usage">Afficher mém. CPU utilisée</string>
   <string name="show_cpu_usage_summary">Superposition écran indiquant mémoire CPU utilisée</string>
@@ -1668,7 +1668,7 @@ Le code PIN est peut-être incorrect.\"</string>
   <string name="skip_step">Ignorer cette étape</string>
   <string name="small_font">Petite</string>
   <string name="sms_delivered_sound_dialog_title">Choisissez le son de l\'accusé de réception</string>
-  <string name="sms_delivered_sound_title">Son de l\'accusé réception</string>
+  <string name="sms_delivered_sound_title">Accusé de réception</string>
   <string name="sms_over_ims_off">Désactiver SMS over IMS</string>
   <string name="sms_over_ims_on">Activer SMS over IMS</string>
   <string name="sms_received_sound_dialog_title">Choisir le son des SMS reçus</string>
@@ -1945,14 +1945,14 @@ Faire confiance à cette app. ?\"</string>
   <string name="vibrate_in_silent_title">Vibrer en mode silencieux</string>
   <string name="vibrate_input_devices">Utiliser le vibreur</string>
   <string name="vibrate_input_devices_summary">Rediriger le vibreur vers la manette de jeu lorsque vous êtes connecté</string>
-  <string name="vibrate_when_ringing_title">Vibreur quand téléphone sonne</string>
+  <string name="vibrate_when_ringing_title">Vibrer quand le téléphone sonne</string>
   <string name="virus_scan_app_continue">Continuer l\'analyse</string>
   <string name="virus_scan_app_find_risk">%d est une menace, il est recommandé de le désinstaller immédiatement.</string>
   <string name="virus_scan_app_finish">Fermer</string>
   <string name="virus_scan_app_force_stop">Analyse arrêtée</string>
   <string name="virus_scan_app_is_stop_scan">Souhaitez-vous arrêter l\'analyse antivirus ?</string>
   <string name="virus_scan_app_multi_engines">"Vous avez choisi plusieurs moteurs, le temps de balayage peut prendre plus de temps"</string>
-  <string name="virus_scan_app_no_risk">Aucun risque détecté.</string>
+  <string name="virus_scan_app_no_risk">Aucun risque détecté</string>
   <string name="virus_scan_app_passed">Le scan s\'est terminé avec succès</string>
   <string name="virus_scan_app_risk">Menace trouvée !</string>
   <string name="virus_scan_app_safe_scanning">L\'analyse est en cours d\'exécution...</string>
@@ -1960,7 +1960,7 @@ Faire confiance à cette app. ?\"</string>
   <string name="virus_scan_app_scanning">Analyse de l\'application en cours...</string>
   <string name="virus_scan_app_stop_scan">Arrêter l\'analyse</string>
   <string name="virus_scan_app_uninstall">Désinstallation du lot (%d)</string>
-  <string name="virus_scan_app_waiting">En attente de</string>
+  <string name="virus_scan_app_waiting">En attente...</string>
   <string name="virus_scanner_auto_update">Mise à jour automatique</string>
   <string name="virus_scanner_date_formater">dd MMM yyyy</string>
   <string name="virus_scanner_lib_already_latest">La base de données antivirus est à jour</string>

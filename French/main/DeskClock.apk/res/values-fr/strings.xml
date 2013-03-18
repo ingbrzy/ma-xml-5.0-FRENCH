@@ -68,7 +68,7 @@
   <string name="lap">Tour</string>
   <string name="lap_num">e tour</string>
   <string name="loading_ringtone">Chargement de la sonnerie...</string>
-  <string name="menu_add_worldclock">Ajouter un fuseau horaire</string>
+  <string name="menu_add_worldclock">Nouveau fuseau horaire</string>
   <string name="menu_alarmclock_edit">Éditer les alarmes</string>
   <string name="menu_delete">Supprimer</string>
   <string name="menu_desk_clock">Horloge de bureau</string>

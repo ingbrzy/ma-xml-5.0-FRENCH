@@ -17,12 +17,12 @@
   <string name="add_subject">Ajouter un objet</string>
   <string name="add_timing">Programmer</string>
   <string name="add_video">Ajouter une vidéo</string>
-  <string name="adding_attachments">Veuillez patienter pendant que les éléments sont ajoutés au diaporama.</string>
+  <string name="adding_attachments">Veuillez patienter pendant que les éléments sont ajoutés au diaporama</string>
   <string name="adding_attachments_title">Ajout de pièces jointes</string>
   <string name="adding_recipients">Ajout de destinataires...</string>
   <string name="app_label">SMS/MMS</string>
   <string name="attach_image">Images</string>
-  <string name="attach_record_sound">Enregistrer message</string>
+  <string name="attach_record_sound">Enregistrer un son</string>
   <string name="attach_record_video">Prendre une vidéo</string>
   <string name="attach_slideshow">Diaporama</string>
   <string name="attach_sound">Fichier audio</string>
@@ -96,12 +96,12 @@
   <string name="discard_message_reason">"Votre message va être supprimé, car aucun destinataire valide n\'a été spécifié."</string>
   <string name="discard_slideshow">Supprimer le diaporama</string>
   <string name="dl_failure_notification">Impossible de télécharger le message \"%1$s\" de %2$s.</string>
-  <string name="done">Entrée</string>
+  <string name="done">OK</string>
   <string name="download">Télécharger</string>
   <string name="download_later">Impossible de télécharger pour le moment. Veuillez réessayer ultérieurement.</string>
   <string name="downloading">Téléchargement...</string>
   <string name="duration_not_a_number">La durée doit être indiquée par un chiffre.</string>
-  <string name="duration_sec">Durée (%s s.)</string>
+  <string name="duration_sec">Durée (%s s)</string>
   <string name="duration_selector_title">"Durée de la diapositive "</string>
   <string name="duration_zero">La durée doit être supérieure à zéro seconde.</string>
   <string name="edit">Modifier</string>
@@ -130,7 +130,7 @@
   <string name="fetion_prefix">[Fetion]</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">"TR : "</string>
-  <string name="found_old_messages">Un total de: %1$s messages ont été trouvés sur l\'ancien compte. Voulez-vous les télécharger sur votre compte actuel: %2$s ?</string>
+  <string name="found_old_messages">%1$s messages ont été trouvés sur l\'ancien compte. Voulez-vous les télécharger sur votre compte actuel: %2$s ?</string>
   <string name="found_old_messages_title">Upload de messages</string>
   <string name="found_wild_messages">%s messages provenant d\'autres cartes SIM ont été trouvés sur MiCloud, souhaitez-vous les télécharger ?</string>
   <string name="found_wild_messages_title">Récupérer messages</string>
@@ -239,8 +239,8 @@
   <string name="pref_advanced_settings_title">Paramètres avancés</string>
   <string name="pref_edit_smsc_address">Numéro du centre SMS</string>
   <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>
-  <string name="pref_mms_settings_title">Messages multimédias (MMS)</string>
-  <string name="pref_notification_settings_title">Notifications</string>
+  <string name="pref_mms_settings_title">Paramètres MMS</string>
+  <string name="pref_notification_settings_title">Paramètres de notification</string>
   <string name="pref_other_title">Autre</string>
   <string name="pref_sms_theme_title">Configuration des thèmes</string>
   <string name="pref_summary_allow_si_sl_push">Autoriser la réception et la notification des messages WAP push (SI/SL)</string>
@@ -266,7 +266,7 @@
   <string name="pref_title_mms_auto_retrieval">Récupération auto</string>
   <string name="pref_title_mms_delete">Limite pour les MMS</string>
   <string name="pref_title_mms_read_reports">Confirmation de lecture</string>
-  <string name="pref_title_mms_retrieval_during_roaming">Itinérance</string>
+  <string name="pref_title_mms_retrieval_during_roaming">Récupération en itinérance</string>
   <string name="pref_title_new_message_popup">Pop-ups de nouveau message</string>
   <string name="pref_title_ringtone_repeat">Nombre de rappels</string>
   <string name="pref_title_show_recent_contacts">Afficher les contacts récents</string>
@@ -309,8 +309,8 @@
   <string name="save_ringtone">Enregistrer comme sonnerie</string>
   <string name="save_to_sim">Enregistrer sur la carte SIM</string>
   <string name="saved_label">"Sauvegardé : "</string>
-  <string name="saved_ringtone">Sonnerie enregistrée.</string>
-  <string name="saved_ringtone_fail">"Impossible d\'enregistrer la sonnerie."</string>
+  <string name="saved_ringtone">Sonnerie enregistrée</string>
+  <string name="saved_ringtone_fail">"Impossible d\'enregistrer la sonnerie"</string>
   <string name="search">SMS/MMS</string>
   <string name="search_empty">Aucune correspondance.</string>
   <string name="search_hint">Rechercher dans les messages</string>
@@ -328,7 +328,7 @@
   <string name="send">Envoyer</string>
   <string name="send_signature_confirm_dialog_message">Vous n\'avez pas écrit de contenu, voulez-vous l\'envoyer ?</string>
   <string name="send_signature_confirm_dialog_title">Confirmer l\'envoi</string>
-  <string name="send_to">Envoyer à: %1$s</string>
+  <string name="send_to">À : %1$s</string>
   <string name="send_to_count">%1$s message(s) envoyé(s)</string>
   <string name="send_to_index_contact">Envoi de %1$s sur %2$s...</string>
   <string name="sent_label">"Date d\'envoi : "</string>
@@ -361,7 +361,7 @@
   <string name="status_unread">Non lu</string>
   <string name="stick">Épingler</string>
   <string name="stick_conversation">Épingler la conversation courante</string>
-  <string name="sticked_conversation">Déjà épinglé</string>
+  <string name="sticked_conversation">Déjà épinglée</string>
   <string name="storage_limits_activity">Limites de stockage</string>
   <string name="storage_limits_message">Limiter le nombre de messages enregistrés par conversation ?</string>
   <string name="storage_limits_setting">Définir les limites</string>
@@ -378,7 +378,7 @@
   <string name="title_timed_message_dialog">Définir l\'heure d\'envoi de ce message</string>
   <string name="to_address_label">"À : "</string>
   <string name="to_count">%d au total</string>
-  <string name="to_label">À </string>
+  <string name="to_label">"À "</string>
   <string name="to_send_wrapper">Sera envoyé à %s</string>
   <string name="too_many_attachments">Le nombre de pièces jointes est limité à %1$s. Seules les %2$s premières seront ajoutées.</string>
   <string name="too_many_recipients">Le message comporte trop de destinataires (%1$s). Le nombre de destinataires est limité à %2$s.</string>
@@ -389,8 +389,7 @@
   <string name="type_to_compose_text_enter_to_send">Saisissez un message</string>
   <string name="type_to_compose_text_or_leave_blank">Saisissez un message ou laissez le champ vide</string>
   <string name="type_video">vidéo</string>
-  <string name="undelivered_msg_dialog_body">\"Impossible d\'envoyer ce message.
-Dernière tentative : %s.\"</string>
+  <string name="undelivered_msg_dialog_body">\"Impossible d\'envoyer ce message. %s tentatives"</string>
   <string name="undelivered_msg_dialog_title">Message non transmis</string>
   <string name="undelivered_sms_dialog_body">"Impossible d\'envoyer ce message."</string>
   <string name="unknown_num">Numéro inconnu</string>
