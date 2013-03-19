@@ -24,18 +24,18 @@
     <string name="VideoView_error_text_invalid_progressive_playback">Impossible de lire cette vidéo en streaming sur cet appareil.</string>
     <string name="selectTextMode">Sélectionner texte</string>
     <string name="status_bar_notification_info_overflow">>999</string>
-    <string name="month_long_standalone_january">janvier</string>
-    <string name="month_long_standalone_february">février</string>
-    <string name="month_long_standalone_march">mars</string>
-    <string name="month_long_standalone_april">avril</string>
-    <string name="month_long_standalone_may">mai</string>
-    <string name="month_long_standalone_june">juin</string>
-    <string name="month_long_standalone_july">juillet</string>
-    <string name="month_long_standalone_august">août</string>
-    <string name="month_long_standalone_september">septembre</string>
-    <string name="month_long_standalone_october">octobre</string>
-    <string name="month_long_standalone_november">novembre</string>
-    <string name="month_long_standalone_december">décembre</string>
+    <string name="month_long_standalone_january">Janvier</string>
+    <string name="month_long_standalone_february">Février</string>
+    <string name="month_long_standalone_march">Mars</string>
+    <string name="month_long_standalone_april">Avril</string>
+    <string name="month_long_standalone_may">Mai</string>
+    <string name="month_long_standalone_june">Juin</string>
+    <string name="month_long_standalone_july">Juillet</string>
+    <string name="month_long_standalone_august">Août</string>
+    <string name="month_long_standalone_september">Septembre</string>
+    <string name="month_long_standalone_october">Octobre</string>
+    <string name="month_long_standalone_november">Novembre</string>
+    <string name="month_long_standalone_december">Décembre</string>
     <string name="month_long_january">janvier</string>
     <string name="month_long_february">février</string>
     <string name="month_long_march">mars</string>
@@ -100,17 +100,17 @@
     <string name="day_of_week_shortest_thursday">J</string>
     <string name="day_of_week_shortest_friday">V</string>
     <string name="day_of_week_shortest_saturday">S</string>
-    <string name="am">matin</string>
-    <string name="pm">soir</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
     <string name="yesterday">Hier</string>
     <string name="today">Aujourd’hui</string>
     <string name="tomorrow">Demain</string>
-    <string name="hour_minute_24" formatted="false">%-k:%M</string>
+    <string name="hour_minute_24" formatted="false">%H:%M</string>
     <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
     <string name="twelve_hour_time_format">h:mm a</string>
-    <string name="twenty_four_hour_time_format">H:mm</string>
-    <string name="numeric_date" formatted="false">%d/%m/%Y</string>
+    <string name="twenty_four_hour_time_format">HH:mm</string>
+    <string name="numeric_date" formatted="false">%-e/%-m/%Y</string>
     <string name="numeric_date_format">dd/MM/yyyy</string>
     <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
     <string name="month_day_year" formatted="false">%-e %B %Y</string>
@@ -654,21 +654,21 @@
     <string name="phoneTypeHome">Domicile</string>
     <string name="phoneTypeMobile">Mobile</string>
     <string name="phoneTypeWork">Bureau</string>
-    <string name="phoneTypeFaxWork">Télécopie bureau</string>
-    <string name="phoneTypeFaxHome">Télécopie domicile</string>
-    <string name="phoneTypePager">Téléavertisseur</string>
+    <string name="phoneTypeFaxWork">Fax bureau</string>
+    <string name="phoneTypeFaxHome">Fax domicile</string>
+    <string name="phoneTypePager">Bipeur</string>
     <string name="phoneTypeOther">Autre</string>
     <string name="phoneTypeCallback">Rappel</string>
     <string name="phoneTypeCar">Voiture</string>
     <string name="phoneTypeCompanyMain">Entreprise (principal)</string>
     <string name="phoneTypeIsdn">RNIS</string>
     <string name="phoneTypeMain">Principal</string>
-    <string name="phoneTypeOtherFax">Autre télécopie</string>
+    <string name="phoneTypeOtherFax">Autre fax</string>
     <string name="phoneTypeRadio">Radio</string>
     <string name="phoneTypeTelex">Télex</string>
     <string name="phoneTypeTtyTdd">TTY/TTD (malentendants)</string>
     <string name="phoneTypeWorkMobile">Mobile (professionnel)</string>
-    <string name="phoneTypeWorkPager">Téléavertisseur (professionnel)</string>
+    <string name="phoneTypeWorkPager">Bipeur (professionnel)</string>
     <string name="phoneTypeAssistant">Assistant</string>
     <string name="phoneTypeMms">MMS</string>
     <string name="eventTypeCustom">Personnalisé</string>
@@ -763,7 +763,7 @@
     <string name="lockscreen_sim_puk_locked_instructions">Veuillez consulter le guide utilisateur ou contacter le service client.</string>
     <string name="lockscreen_sim_locked_message">La carte SIM est verrouillée.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Déblocage de la carte SIM...</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à %d reprises.
+    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">Vous avez reproduit un schéma de déverrouillage incorrect à %d reprises.
 
 Veuillez réessayer dans %d secondes.</string>
     <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">Vous avez saisi un mot de passe incorrect %d fois. 

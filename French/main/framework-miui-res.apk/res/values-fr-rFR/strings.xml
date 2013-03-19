@@ -3,8 +3,8 @@
   <string name="activate">Activer</string>
   <string name="activate_fail_notification_title">Veuillez réactiver le service Xiaomi Sync</string>
   <string name="activating">Activation...</string>
-  <string name="alarm_message_12_hour_formate">aah:mm</string>
-  <string name="alwaysUsePrompt">Définir par défaut (ne demandera plus la prochaine fois)</string>
+  <string name="alarm_message_12_hour_formate">h:mm aa</string>
+  <string name="alwaysUsePrompt">Définir par défaut (ne plus demander)</string>
   <string name="android_lockscreen_glogin_instructions">Pour déverrouiller, connectez-vous avec votre compte</string>
   <string name="arbor_day">Journée de l\'arbre</string>
   <string name="autumn_begins">Début de l\'Automne</string>
@@ -279,7 +279,7 @@
   <string name="force_exit_message">Fermé avec succès \"%1$s\</string>
   <string name="forget_password_string">Mot de passe oublié</string>
   <string name="format_time_in_12_hours">%1$s %2$s</string>
-  <string name="global_action_privacy_mode_dialog_message">En mode privé, les appels, les notes, les photos et les SMS sont cachés et le lanceur ne sera pas en mesure de passer en mode édition. Vous pouvez définir le mot de passe pour protéger le mode privé dans les paramètres de contrôle d’accès</string>
+  <string name="global_action_privacy_mode_dialog_message">En mode privé les appels, notes, photos et SMS sont cachés et le lanceur ne pourra pas passer en mode édition. Vous pouvez définir le mot de passe pour protéger le mode privé dans les paramètres de contrôle d’accès</string>
   <string name="global_action_toggle_privacy_mode">Mode privé</string>
   <string name="group_name_contacts">Contacts</string>
   <string name="group_name_coworkers">Collègues</string>
@@ -311,8 +311,8 @@
   <string name="memory_clear_result">"%1$s libre | %2$s disponible"</string>
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_mibi_license_title">Contrat d\'utilisation de Mi Credit</string>
-  <string name="miui_privacy_policy_title">Règles de confidentialité</string>
-  <string name="miui_unlockscreen_password_wrong">Mot de passe incorrect ! Veuillez Réessayer</string>
+  <string name="miui_privacy_policy_title">Politique de confidentialité</string>
+  <string name="miui_unlockscreen_password_wrong">Mot de passe incorrect ! Veuillez réessayer</string>
   <string name="miui_user_agreement_title">Contrat d\'utilisation</string>
   <string name="miui_user_manual_title">Manuel de l\'utilisateur</string>
   <string name="month_of_april">Avr</string>
@@ -391,7 +391,7 @@
   <string name="user_agreement4">Règles de confidentialité</string>
   <string name="user_agreement5">，cliquer sur OK indique que vous acceptez et vous conformez au contenu ci-dessus, cliquez sur Annuler pour quitter.</string>
   <string name="v5_deselect_all">Tout désélectionner</string>
-  <string name="v5_edit_mode_title_empty">Cochez des éléments</string>
+  <string name="v5_edit_mode_title_empty">Cocher des éléments</string>
   <string name="v5_icon_menu_bar_more_item_label">Plus</string>
   <string name="v5_select_all">Tout sélectionner</string>
   <string name="volume_alarm">Alarme</string>
