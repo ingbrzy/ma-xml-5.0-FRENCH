@@ -82,7 +82,7 @@
   <string name="resource_download">Télécharger</string>
   <string name="resource_downloaded_title">Ressources téléchargées</string>
   <string name="resource_downloading">Téléchargement</string>
-  <string name="resource_get_auth_checking">Vérification d\'autorisation...</string>
+  <string name="resource_get_auth_checking">Vérification de l'autorisation...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut pas s\'exécuter sur ce périphérique. Vous avez atteint la limite maximum de 10 comptes Xiaomi. Veuillez essayez avec un autre compte.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Vous avez atteint la limite autorisée !</string>
   <string name="resource_get_auth_missing">Le thème n\'a pas été téléchargé à partir de la boutique de thème, veuillez le télécharger à partir de la boutique de thème officielle.</string>
@@ -108,6 +108,7 @@
   <string name="resource_title">Détail des ressources</string>
   <string name="resource_title_select_ringtone">Sélectionner la sonnerie</string>
   <string name="resource_update">Mettre à jour</string>
+  <string name="restore_default_theme_alert">Vous êtes peut-être victime d\'une contrefaçon de thème, veuillez parcourir le market pour l\'acheter ou le re-télécharger.</string>
   <string name="sdcard_status_changed_dialog_message">"L\'application va se fermer, veuillez la réouvrir pour actualiser les ressources."</string>
   <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
   <string name="short_ringtone_resource">Court(&lt;5sec)</string>
@@ -116,6 +117,7 @@
   <string name="theme_changed_message">%1$s Appliqué avec succès</string>
   <string name="theme_changing_dialog_title">Application du nouveau thème, veuillez patienter...</string>
   <string name="theme_component_title_alarm">Alarme</string>
+  <string name="theme_component_title_alarmstyle">Style de l\'alarme</string>
   <string name="theme_component_title_all">Thèmes</string>
   <string name="theme_component_title_audio_effect">Effets audio</string>
   <string name="theme_component_title_boot_animation">Animation de démarrage</string>

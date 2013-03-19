@@ -334,6 +334,8 @@
   <string name="payphone">Téléphone public</string>
   <string name="peace_day">Journée de la paix</string>
   <string name="perm_auto_backup">Sauvegarde automatique</string>
+  <string name="perm_data_update_dspt">Mise à jour des watermark autorisée</string>
+  <string name="perm_data_update_lab">Mise à jour des données</string>
   <string name="perm_payment_dspt">Permettre à l\'application de payer avec le service de paiement Xiaomi</string>
   <string name="perm_payment_lab">Service de paiement Xiaomi</string>
   <string name="perm_send_push_dspt">Autoriser les messages push à Xiaomi</string>

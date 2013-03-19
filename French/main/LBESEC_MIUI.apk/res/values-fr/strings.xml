@@ -161,7 +161,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Vos données personnelles telles que vos comptes, vos mot de passes et vos messages pourraient être compromises</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Un dommage matériel permanent est également possible</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Utiliser avec précaution !</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step6">Êtes vous sûr de permettre à %1$s d\'obtenir la permission Root ?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">Êtes-vous sûr de vouloir permettre à %1$s d\'obtenir la permission Root ?</string>
   <string name="HIPS_SecurityPrompt_Reject">Refuser (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Se souvenir de mon choix</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s tente de %2$s</string>

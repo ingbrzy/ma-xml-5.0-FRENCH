@@ -39,7 +39,7 @@
   <string name="bookmark_list_title">Favoris</string>
   <string name="cannot_add_picture_and_video">"Impossible d\'ajouter une vidéo et une image sur une même diapositive."</string>
   <string name="cannot_add_slide_anymore">"Impossible d\'ajouter d\'autres diapositives."</string>
-  <string name="cannot_forward_drm_obj">"Impossible de transférer l\'objet GDN inclus dans le message."</string>
+  <string name="cannot_forward_drm_obj">"Impossible de transférer l\'objet DRM inclus dans le message."</string>
   <string name="cannot_get_details">Impossible de récupérer les détails.</string>
   <string name="cannot_send_message">"Impossible d\'envoyer le message"</string>
   <string name="cannot_send_message_reason">"Aucun destinataire valide n\'a été spécifié pour votre message."</string>
@@ -145,7 +145,7 @@
   <string name="hint_search_sms">%d SMS</string>
   <string name="importing_progress_private_message">Importation des messages vers la boîte privée</string>
   <string name="in_sms">Message</string>
-  <string name="insufficient_drm_rights">Privilèges GDN insuffisants détectés.</string>
+  <string name="insufficient_drm_rights">Droits DRM insuffisants détectés.</string>
   <string name="invalid_destination">Adresse de destination incorrecte.</string>
   <string name="invalid_recipient_message">Veuillez corriger le nom du ou des destinataires, sinon ils ne recevront pas le message.</string>
   <string name="kilobyte">Ko</string>
