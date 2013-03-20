@@ -122,7 +122,7 @@
   <string name="restore_data">Restaurer les données</string>
   <string name="restore_failed">La restauration a échoué !</string>
   <string name="restore_finished">Restauration terminée</string>
-  <string name="restore_launcher_layout_hit">(Remarque: Restaure la disposition du launcher)</string>
+  <string name="restore_launcher_layout_hit">(Remarque: Restaure la disposition du lanceur)</string>
   <string name="restore_progress">Restauration...</string>
   <string name="restore_report">Rapport de restauration</string>
   <string name="restore_telephony_hit">(Remarque : le processus de récupération va redémarrer l\'application du téléphone)</string>

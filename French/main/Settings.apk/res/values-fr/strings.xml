@@ -907,7 +907,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="large_font">Grande</string>
   <string name="last_synced">Dernière synchronisation : %1$s</string>
   <string name="launch_count_label">Nombre</string>
-  <string name="launcher_settings_title">Launcher</string>
+  <string name="launcher_settings_title">Lanceur</string>
   <string name="led_colors_summary">Couleur de la LED de notification</string>
   <string name="led_frequence_summary">Définir l\'intervalle entre les clignotements de la LED</string>
   <string name="led_pulse_summary">Faire clignoter la LED pour les nouvelles notifications</string>
@@ -1339,11 +1339,11 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="pref_volume_wake_summary">Presser les touches de volume réactive l\'écran. Utile si le bouton Marche/Arrêt est difficile d\'accès</string>
   <string name="pref_volume_wake_title">Éveil par les touches volume</string>
   <string name="preference_change_password_title">Modifier le mot de passe</string>
-  <string name="preferred_launcher_title">Launcher préféré</string>
-  <string name="preferred_launcher_warning_message">Remplacer le launcher par défaut peut entrainer une hausse de l\'utilisation de ressources. Êtes-vous sur de vouloir continuer ?</string>
-  <string name="preferred_launcher_warning_replace">Remplacer le Launcher</string>
-  <string name="preferred_launcher_warning_title">Remplacement du launcher par défaut</string>
-  <string name="preferred_launcher_warning_use_system">Utiliser le launcher par défaut</string>
+  <string name="preferred_launcher_title">Lanceur préféré</string>
+  <string name="preferred_launcher_warning_message">Remplacer le lanceur par défaut peut entrainer une hausse de l\'utilisation de ressources. Êtes-vous sur de vouloir continuer ?</string>
+  <string name="preferred_launcher_warning_replace">Remplacer le lanceur</string>
+  <string name="preferred_launcher_warning_title">Remplacement du lanceur par défaut</string>
+  <string name="preferred_launcher_warning_use_system">Utiliser le lanceur par défaut</string>
   <string name="preferred_media_app_summary">Choisissez le lecteur de musique</string>
   <string name="privacy_mode_enable_sum">Cacher l\'historique d\'appels, les messages et autres données lors de l\'utilisation du mode privé</string>
   <string name="privacy_mode_enable_title">Activer le mode privé</string>
@@ -1554,7 +1554,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="search_key">Clé</string>
   <string name="search_label">Paramètres</string>
   <string name="search_language">Langue</string>
-  <string name="search_launcher">Launcher</string>
+  <string name="search_launcher">Lanceur</string>
   <string name="search_led">LED</string>
   <string name="search_network">Réseau</string>
   <string name="search_power_mode">mode de fonctionnement; performance; performance proritaire; mode performance; mode normal; mode conventionnel; mode par défaut; mode équilibré; mode économique; mode économie d\'énergie; performance; puissance</string>
