@@ -88,14 +88,14 @@
   <string name="install">Installer</string>
   <string name="invalid_contact_shortcut">Raccourci du contact invalide</string>
   <string name="loading">Chargement...</string>
-  <string name="loading_desktop">Chargement du launcher...</string>
+  <string name="loading_desktop">Chargement du lanceur...</string>
   <string name="loading_resource_detail_info">Chargement...</string>
   <string name="menu_add">Ajouter</string>
   <string name="menu_back_desktop">Retour à l\'accueil</string>
   <string name="menu_edit">Éditer</string>
   <string name="menu_exit_scene">Quitter le bureau Mi</string>
   <string name="menu_item_add_item">Ajouter à l\'écran d\'accueil</string>
-  <string name="menu_launcher_setting">Paramètres du launcher</string>
+  <string name="menu_launcher_setting">Paramètres du lanceur</string>
   <string name="menu_reset_scene">Réinitialiser la disposition</string>
   <string name="menu_search">Rechercher</string>
   <string name="menu_settings">Paramètres</string>
@@ -123,7 +123,7 @@
   <string name="pref_enable_drawing_cache_title">Cache graphique</string>
   <string name="pref_icon_shadow_summary">Activer les ombres sur les icônes de l\'écran d\'accueil.</string>
   <string name="pref_icon_shadow_title">Ombre des icônes</string>
-  <string name="pref_keep_in_memory_summary">Empêcher le launcher de se fermer lorsque la mémoire est faible.</string>
+  <string name="pref_keep_in_memory_summary">Empêcher le lanceur de se fermer lorsque la mémoire est faible.</string>
   <string name="pref_keep_in_memory_title">Garder en mémoire</string>
   <string name="pref_keep_layout_summary">Le changement de la dispositon des icônes peut perturber la disposition de votre bureau.</string>
   <string name="pref_keep_layout_title">Garder la disposition actuelle</string>
@@ -132,7 +132,7 @@
   <string name="pref_screen_transformation_type_title">Effets de transition</string>
   <string name="pref_wallpaper_scroll_type_title">Type de défilement du papier peint</string>
   <string name="preferences_general_title">Paramètres généraux</string>
-  <string name="preferences_title">Paramètres du launcher</string>
+  <string name="preferences_title">Paramètres du lanceur</string>
   <string name="processing">Traitement...</string>
   <string name="reset_scene_prompt">Le bureau sera remis dans sa disposition d\'origine</string>
   <string name="resource_alarm_default">Alarme</string>
