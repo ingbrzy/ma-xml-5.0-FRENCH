@@ -1,57 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string-array name="google">
-    <item>Google</item>
-    <item>google.com</item>
-    <item>http://www.google.com/favicon.ico</item>
-    <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
-    <item>UTF-8</item>
-    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-  </string-array>
+    <string-array name="google_fr">
+        <item>Google</item>
+        <item>google.fr</item>
+        <item>http://www.google.fr/favicon.ico</item>
+        <item>http://www.google.fr/search?hl={language}&amp;amp;ie={inputEncoding}&amp;amp;source=android-browser&amp;amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
+    </string-array>
+    <string-array name="bing_fr_FR">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>http://www.bing.com/s/wlflag.ico</item>
+        <item>http://www.bing.com/search?setmkt=fr-FR&amp;amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
+    </string-array>
+	    <string-array name="yahoo_fr">
+        <item>Yahoo! France</item>
+        <item>fr.yahoo.com</item>
+        <item>http://fr.search.yahoo.com/favicon.ico</item>
+        <item>http://fr.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://fr-sayt.ff.search.yahoo.com/gossip-fr-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
+    </string-array>
   <string-array name="pref_content_plugins_choices">
-    <item>Toujours activés</item>
-    <item>À la demande</item>
-    <item>Désactivés</item>
-  </string-array>
-  <string-array name="pref_homepage_choices">
-    <item>Page en cours</item>
-    <item>Acceuil MIUI</item>
-    <item>Page blanche</item>
-    <item>Page par défaut</item>
-    <item>Sites les plus visités</item>
-    <item>Autre</item>
-  </string-array>
-  <string-array name="pref_text_size_choices">
-    <item>Minuscule</item>
-    <item>Petit</item>
-    <item>Standard</item>
-    <item>Grand</item>
-    <item>Énorme</item>
-  </string-array>
-  <string-array name="pref_default_zoom_choices">
-    <item>Lointain</item>
-    <item>Moyen</item>
-    <item>Rapproché</item>
-  </string-array>
-  <string-array name="pref_data_preload_choices">
-    <item>Jamais</item>
-    <item>Uniquement sur une connexion Wi-Fi</item>
-    <item>Toujours</item>
-  </string-array>
+        <item>Toujours activés</item>
+        <item>À la demande</item>
+        <item>Désactivés</item>
+        </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Page d'acceuil</item>
+        <item>Sites les plus visités</item>
+        <item>Personnalisée</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Minuscule</item>
+        <item>Petit</item>
+        <item>Standard</item>
+        <item>Grand</item>
+        <item>Énorme</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Lointain</item>
+        <item>Moyen</item>
+        <item>Rapproché</item>
+    </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Ordinateur de bureau</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+        <item>Korean (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Jamais</item>
+        <item>Uniquement sur une connexion Wi-Fi</item>
+        <item>Toujours</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Jamais</item>
+        <item>Uniquement sur une connexion Wi-Fi</item>
+        <item>Toujours</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Jamais</item>
+        <item>Uniquement sur une connexion Wi-Fi</item>
+        <item>Toujours</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.fr/</item>
+        <item>Picasa</item>
+        <item>http://picasaweb.google.fr/</item>
+        <item>Yahoo!</item>
+        <item>http://fr.yahoo.com/</item>
+        <item>MSN</item>
+        <item>http://fr.msn.com/</item>
+        <item>Twitter</item>
+        <item>https://twitter.com/</item>
+        <item>Facebook</item>
+        <item>https://www.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://fr.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://www.ebay.fr/</item>
+        <item>Romandie</item>
+        <item>http://www.romandie.com</item>
+        <item>La Voix de la Russie</item>
+        <item>http://french.ruvr.ru/</item>
+        <item>Égalité et Réconciliation</item>
+        <item>http://www.egaliteetreconciliation.fr/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.fr/</item>
+        <item>Météo France</item>
+        <item>http://france.meteofrance.com/</item>
+        <item>Google Actualités</item>
+        <item>https://news.google.fr/</item>
+    </string-array>
   <string-array name="pref_ua_choices">
-    <item>Android</item>
-    <item>Ordinateur de bureau</item>
-    <item>iPhone</item>
-    <item>iPad</item>
-    <item>Froyo-N1</item>
-    <item>Honeycomb-Xoom</item>
+        <item>Android</item>
+        <item>Ordinateur de bureau</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
   </string-array>
   <string-array name="pref_volume_key_choices">
-    <item>Page haut/bas</item>
-    <item>Changer d\'onglet</item>
+        <item>Page haut/bas</item>
+        <item>Changer d\'onglet</item>
   </string-array>
   <string-array name="pref_fling_on_border_choices">
-    <item>Page avant/arrière</item>
-    <item>Changer d\'onglet</item>
+        <item>Page avant/arrière</item>
+        <item>Changer d\'onglet</item>
   </string-array>
 </resources>
