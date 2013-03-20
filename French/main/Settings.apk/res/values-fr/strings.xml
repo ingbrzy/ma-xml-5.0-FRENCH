@@ -2136,8 +2136,8 @@ Faire confiance à cette app. ?\"</string>
   <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_wps_setup">Définir une connexion Wi-Fi protégée</string>
   <string name="wifi_password">Mot de passe</string>
-  <string name="wifi_poor_network_detection">Éviter les connexions de mauvaise qualité</string>
-  <string name="wifi_poor_network_detection_summary">Ne pas utiliser de réseau Wi-Fi, sauf en cas de connexion Internet de bonne qualité</string>
+  <string name="wifi_poor_network_detection">Réseau optimal uniquement</string>
+  <string name="wifi_poor_network_detection_summary">Eviter les réseaux WiFi avec un mauvais signal ou contenant une mauvaise liaison internet.</string>
   <string name="wifi_quick_toggle_summary">Activer le Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Enregistré.</string>
