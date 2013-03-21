@@ -244,10 +244,10 @@
   <string name="cit_vibrator_play_touch_pattern">Profil de vibration</string>
   <string name="cit_vibrator_short">vibration courte</string>
   <string name="cit_vibrator_show_advanced">Options avancées</string>
-  <string name="cit_wifi_address_check_summary">Le test affichera l\'état actuel de la connexion WiFi</string>
-  <string name="cit_wifi_address_check_title">Test IP WiFi </string>
+  <string name="cit_wifi_address_check_summary">Le test affichera l\'état actuel de la connexion Wi-Fi</string>
+  <string name="cit_wifi_address_check_title">Test IP Wi-Fi </string>
   <string name="cit_wifi_address_error">Impossible d\'obtenir une adresse Wi-Fi, vérifiez la connexion Wi-Fi est activée, et essayez à nouveau</string>
-  <string name="cit_wifi_ap_scan_check_summary">Le test affichera une liste de tous les points d\'accès WiFi disponibles</string>
+  <string name="cit_wifi_ap_scan_check_summary">Le test affichera une liste de tous les points d\'accès Wi-Fi disponibles</string>
   <string name="cit_wifi_ap_scan_check_title">Test de recherche des points d\'accès Wi-Fi</string>
   <string name="cit_wifi_ap_scan_retry">Rescanner</string>
   <string name="cit_wifi_ap_scanning">Recherche des points d\'accès...</string>
