@@ -515,7 +515,7 @@ Cc : %4$s
   <string name="save_draft_action">Enregistrer</string>
   <string name="search_action">Rechercher</string>
   <string name="search_header_text_fmt">Résultats pour \"%1$s\</string>
-  <string name="search_hint">Rechercher l\'mail</string>
+  <string name="search_hint">Rechercher mail</string>
   <string name="search_mailbox_hint">Rechercher dans %1$s</string>
   <string name="search_slow_warning_message">Cette opération peut prendre du temps avec certains serveurs.</string>
   <string name="search_slow_warning_title">En attente des résultats...</string>

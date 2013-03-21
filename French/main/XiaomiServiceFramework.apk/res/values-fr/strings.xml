@@ -100,7 +100,7 @@
   <string name="micloud_active_email_sent_1">Nous avons envoyé un lien d\'activation à votre adresse mail : </string>
   <string name="micloud_active_email_visit">Visitez %s</string>
   <string name="micloud_activing_account">Activation de votre compte</string>
-  <string name="micloud_click_email">Cliquez sur le lien dans l\'mail pour activer votre compte Xiaomi</string>
+  <string name="micloud_click_email">Cliquez sur le lien dans mail pour activer votre compte Xiaomi</string>
   <string name="micloud_click_email_to_valid">Cliquez sur le lien d\'activation dans le message envoyé à votre boîte de réception</string>
   <string name="micloud_delete_account">Supprimer le compte</string>
   <string name="micloud_email">Adresse mail</string>
