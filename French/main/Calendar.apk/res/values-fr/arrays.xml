@@ -2,7 +2,7 @@
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Notification</item>
-        <item>E-mail</item>
+        <item>Mail</item>
         <item>SMS</item>
     </string-array>
     <integer-array name="reminder_methods_values">

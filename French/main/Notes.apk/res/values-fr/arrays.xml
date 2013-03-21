@@ -8,13 +8,13 @@
     </string-array>
     <string-array name="menu_share_ways">
         <item>Messagerie</item>
-        <item>E-mail</item>
+        <item>Mail</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Nom</item>
         <item>Surnom</item>
         <item>Téléphone</item>
-        <item>E-mail</item>
+        <item>Mail</item>
         <item>Organisation</item>
         <item>Messagerie Instantanée</item>
         <item>Téléphone SIP</item>

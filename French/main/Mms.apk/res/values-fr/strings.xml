@@ -20,7 +20,7 @@
   <string name="adding_attachments">Veuillez patienter pendant que les éléments sont ajoutés au diaporama</string>
   <string name="adding_attachments_title">Ajout de pièces jointes</string>
   <string name="adding_recipients">Ajout de destinataires...</string>
-  <string name="app_label">SMS/MMS</string>
+  <string name="app_label">Messages</string>
   <string name="attach_image">Images</string>
   <string name="attach_record_sound">Enregistrer un son</string>
   <string name="attach_record_video">Prendre une vidéo</string>
@@ -69,11 +69,11 @@
   <string name="context_menu_copy">Copier</string>
   <string name="context_menu_copy_notice">Sélection copiée dans le presse papier</string>
   <string name="context_menu_new_contact">Nouveau contact</string>
-  <string name="context_menu_send_mail">Envoyer un e-mail</string>
+  <string name="context_menu_send_mail">Envoyer un mail</string>
   <string name="context_menu_send_sms">Envoyer le message</string>
   <string name="context_menu_view_contact">Voir le contact</string>
   <string name="context_menu_view_mms">Voir le MMS</string>
-  <string name="conversation">SMS/MMS</string>
+  <string name="conversation">Messages</string>
   <string name="conversation_style">bulle</string>
   <string name="converting_to_picture_message">Conversion en message multimédia...</string>
   <string name="converting_to_text_message">Conversion en SMS...</string>
@@ -90,7 +90,7 @@
   <string name="delete_unlocked">Supprimer les messages verrouillés</string>
   <string name="delivery_report_activity">Accusé de réception</string>
   <string name="delivery_toast_body">Message reçu par %s</string>
-  <string name="disable_notifications_dialog_message">"Cesser de dupliquer les notifications SMS à partir de l\'application SMS/MMS par défaut ?"</string>
+  <string name="disable_notifications_dialog_message">"Cesser de dupliquer les notifications SMS à partir de l\'application Messages par défaut ?"</string>
   <string name="discard">Supprimer</string>
   <string name="discard_message">Ignorer</string>
   <string name="discard_message_reason">"Votre message va être supprimé, car aucun destinataire valide n\'a été spécifié."</string>
@@ -210,7 +210,7 @@
   <string name="mx_online">En ligne</string>
   <string name="mx_reactivate">Réactiver la messagerie cloud</string>
   <string name="mx_warning_notice">Un SMS sera envoyé pour activer la messagerie cloud. Il est possible que certains opérateurs le facturent</string>
-  <string name="need_download">En attente de synchronisation...</string>
+  <string name="need_download">En cours de synchronisation...</string>
   <string name="new_message">Nouveau message</string>
   <string name="new_message_arrived">Nouveau message</string>
   <string name="new_phrase">Nouveau message rapide</string>
@@ -311,10 +311,10 @@
   <string name="saved_label">"Sauvegardé : "</string>
   <string name="saved_ringtone">Sonnerie enregistrée</string>
   <string name="saved_ringtone_fail">"Impossible d\'enregistrer la sonnerie"</string>
-  <string name="search">SMS/MMS</string>
+  <string name="search">Messages</string>
   <string name="search_empty">Aucune correspondance.</string>
   <string name="search_hint">Rechercher dans les messages</string>
-  <string name="search_label">SMS/MMS</string>
+  <string name="search_label">Messages</string>
   <string name="search_setting_description">Texte de vos messages</string>
   <string name="search_show_more_results">Afficher plus</string>
   <string name="secs">s</string>

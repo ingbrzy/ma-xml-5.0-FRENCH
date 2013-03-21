@@ -47,7 +47,7 @@
   <string name="autofill_profile_editor_company_name">Nom de la société :</string>
   <string name="autofill_profile_editor_country">Pays :</string>
   <string name="autofill_profile_editor_delete_profile">Supprimer</string>
-  <string name="autofill_profile_editor_email_address">E-mail:</string>
+  <string name="autofill_profile_editor_email_address">Mail:</string>
   <string name="autofill_profile_editor_heading">Indiquez le texte à saisir automatiquement dans les formulaires Web</string>
   <string name="autofill_profile_editor_name">Nom et prénom :</string>
   <string name="autofill_profile_editor_phone_number">Téléphone :</string>
@@ -110,7 +110,7 @@
   <string name="contextmenu_openlink_newwindow">Ouvrir dans un nouvel onglet</string>
   <string name="contextmenu_openlink_newwindow_background">"Ouvrir dans un nouvel onglet d\'arrière-plan"</string>
   <string name="contextmenu_savelink">Enregistrer le lien</string>
-  <string name="contextmenu_send_mail">Envoyer un e-mail</string>
+  <string name="contextmenu_send_mail">Envoyer un mail</string>
   <string name="contextmenu_set_wallpaper">"Définir comme fond d\'écran"</string>
   <string name="contextmenu_sharelink">Partager le lien</string>
   <string name="contextmenu_view_image">"Afficher l\'image"</string>

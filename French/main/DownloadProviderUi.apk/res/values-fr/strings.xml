@@ -16,8 +16,8 @@
   <string name="dialog_failed_body">"Souhaitez-vous réessayer de télécharger le fichier ultérieurement ou préférez-vous le supprimer de la file d\'attente ?"</string>
   <string name="dialog_file_already_exists">Impossible de procéder au téléchargement. Le fichier de destination existe déjà.</string>
   <string name="dialog_file_missing_body">Impossible de trouver le fichier téléchargé.</string>
-  <string name="dialog_insufficient_space_on_cache">"Impossible de terminer le téléchargement. L\'espace disponible sur la mémoire de stockage interne est insuffisant."</string>
-  <string name="dialog_insufficient_space_on_external">"Impossible de terminer le téléchargement. L\'espace disponible sur la mémoire de stockage externe est insuffisant."</string>
+  <string name="dialog_insufficient_space_on_cache">"Impossible de terminer le téléchargement. L\'espace disponible sur la mémoire interne est insuffisant."</string>
+  <string name="dialog_insufficient_space_on_external">"Impossible de terminer le téléchargement. L\'espace disponible sur la carte SD est insuffisant."</string>
   <string name="dialog_media_not_found">"Impossible de procéder au téléchargement. Le support externe n\'est pas disponible."</string>
   <string name="dialog_queued_body">"Ce fichier est en attente de téléchargement, et n\'est donc pas encore disponible."</string>
   <string name="dialog_title_not_available">Téléchargement impossible</string>
@@ -62,7 +62,7 @@
   <string name="pref_download_settings_title">Affichage de l\'utilisation des données</string>
   <string name="pref_summary_enable_max_bytes_popup">"En utilisant le réseau de l\'opérateur, une demande de confirmation apparaît si la taille du fichier dépasse la limite"</string>
   <string name="pref_summary_max_bytes_limit_format">Message d\'alerte si la taille du fichier dépasse %s</string>
-  <string name="pref_title_enable_max_bytes_popup">Pop-up de téléchargement de données</string>
+  <string name="pref_title_enable_max_bytes_popup">Avertir des données mobile</string>
   <string name="pref_title_max_bytes_limit">Limite de taille de fichier</string>
   <string name="preferences_title">Paramètres</string>
   <string name="remove_download">Supprimer</string>

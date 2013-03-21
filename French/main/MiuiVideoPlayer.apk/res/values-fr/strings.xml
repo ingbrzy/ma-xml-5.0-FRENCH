@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_app_name">MiPlayer</string>
+  <string name="about_app_name">Vidéos</string>
   <string name="about_title">À propos</string>
   <string name="about_version">V5.0</string>
   <string name="adjust_position_next_media_notice">Suivant</string>

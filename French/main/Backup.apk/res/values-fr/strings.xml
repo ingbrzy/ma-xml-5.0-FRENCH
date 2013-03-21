@@ -2,7 +2,7 @@
 <resources>
   <string name="account_contact_backup_info">Données (Sauvegarde de Xiaomi et Gmail)</string>
   <string name="account_login">Se connecter</string>
-  <string name="account_summary">Sauvegarder les comptes Gmail, e-mail et Xiaomi</string>
+  <string name="account_summary">Sauvegarder les comptes Gmail, mail et Xiaomi</string>
   <string name="already_enable_encrypt">Cryptage activé</string>
   <string name="app_name">Sauvegarde</string>
   <string name="auto_backup">Sauvegarde automatique</string>
@@ -132,7 +132,7 @@
   <string name="sc_internal_server_error">Erreur interne du serveur</string>
   <string name="sc_network_unavailable">Erreur de connexion réseau</string>
   <string name="sc_others">Exception de programme</string>
-  <string name="sc_precondition_failed">Votre compte Xiaomi n\'a pas été associé à une adresse e-mail</string>
+  <string name="sc_precondition_failed">Votre compte Xiaomi n\'a pas été associé à une adresse mail</string>
   <string name="sc_request_timeout">Requête expirée</string>
   <string name="sc_service_unavailable">Le service cloud n\'est pas disponible</string>
   <string name="sc_unaccess_password_file">Ne pas stocker les mots de passes Wi-Fi</string>
@@ -144,7 +144,7 @@
   <string name="select_backup_item">Sélectionnez le point de sauvegarde</string>
   <string name="service_stoped">Service arrêté</string>
   <string name="settings_summary">Sauvegarder les paramètres du téléphone et de la messagerie</string>
-  <string name="sms_title">SMS/MMS</string>
+  <string name="sms_title">Messages</string>
   <string name="software_backup_info">Sauvegarder les applications et leurs données</string>
   <string name="start_backup">Démarrer la sauvegarde</string>
   <string name="start_restore">Restauration</string>

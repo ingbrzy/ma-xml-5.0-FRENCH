@@ -1139,14 +1139,14 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="oem_radio_info_label">Infos/paramètres OEM</string>
   <string name="onscreen_keyboard_settings_summary">Paramètres du clavier virtuel</string>
   <string name="other_relative">Autres autorisations</string>
-  <string name="owner_info_settings_edit_text_hint">Saisir texte à afficher sur écran de verrouillage</string>
-  <string name="owner_info_settings_title">Infos propriétaire</string>
+  <string name="owner_info_settings_edit_text_hint">Saisissez le texte à afficher sur écran de verrouillage</string>
+  <string name="owner_info_settings_title">Infos du propriétaire</string>
   <string name="packages_subtitle">Modules inclus</string>
   <string name="password_guard">Securité</string>
   <string name="percentage">%d%%</string>
   <string name="perm">Autorisations</string>
   <string name="perm_app">Applications</string>
-  <string name="perm_app_name">Autorisations</string>
+  <string name="perm_app_name">Permissions</string>
   <string name="perm_auto_start">Gérer le démarrage automatique des applications</string>
   <string name="perm_auto_start_desc">Activer ou désactiver la fonction de démarrage automatique des applications</string>
   <string name="perm_canceling">Annulation...</string>
@@ -1172,7 +1172,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="perm_hips_cancel_missed_calls">Désactive les notifications d\'appels manqués</string>
   <string name="perm_hips_contact_access">lire votre liste de contacts</string>
   <string name="perm_hips_desc">Surveille %1$d apps pour la sécurité et la protection des renseignements personnels</string>
-  <string name="perm_hips_desc1">Surveiller des applications pour la sécurité et la confidentialité</string>
+  <string name="perm_hips_desc1">Pour la sécurité et la confidentialité</string>
   <string name="perm_hips_desc2">Surveille %1$d apps pour la sécurité et la protection des renseignements personnels</string>
   <string name="perm_hips_disable_content">"Le désactiver arrêtera la requête de surveillance des applications et de protégera plus votre sécurité et votre vie privée. Êtes-vous sûr de vouloir le désactiver ?"</string>
   <string name="perm_hips_disable_title">Moniteur d\'autorisation</string>
@@ -1303,7 +1303,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="permission_manage">Gestion d\'autorisation</string>
   <string name="permission_manage_summary">Démarrage automatique, vie privée, gestion d\'autorisation sécurisée</string>
   <string name="permission_manage_title">%s détails de permission</string>
-  <string name="permissions_label">Autorisations</string>
+  <string name="permissions_label">Permissions</string>
   <string name="personal_data_section_title">Données personnelles</string>
   <string name="phone_info_label">Informations sur le téléphone</string>
   <string name="phone_language">Langue</string>
@@ -1624,7 +1624,7 @@ Remarque: pour environnement Ubuntu 8.04\"</string>
   <string name="show_hw_screen_updates">Afficher mises à jour GPU</string>
   <string name="show_hw_screen_updates_summary">Faire clignoter les éléments dessinés avec le GPU</string>
   <string name="show_magnifier_when_input">Afficher la loupe</string>
-  <string name="show_owner_info_on_lockscreen_label">"Coordonnées du propriétaire sur l\'écran verrouillé"</string>
+  <string name="show_owner_info_on_lockscreen_label">"Coordonnées du propriétaire sur l\'écran de verrouillage"</string>
   <string name="show_password">Faire apparaître mots de passe</string>
   <string name="show_rounded_corners">Afficher les coins arrondis</string>
   <string name="show_rounded_corners_summary">Nécessite un redémarrage pour prendre effet</string>

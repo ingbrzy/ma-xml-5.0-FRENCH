@@ -3,7 +3,7 @@
   <string name="access_denied">Accès refusé</string>
   <string name="account">Compte</string>
   <string name="account_dspt">"Les comptes Xiaomi permettent de synchroniser et sauvegarder vos messages, contacts, photos, etc."</string>
-  <string name="account_hint_text">E-mail/Numéro de téléphone</string>
+  <string name="account_hint_text">Mail/Numéro de téléphone</string>
   <string name="account_name">Compte: %1$s</string>
   <string name="activating">Activation...</string>
   <string name="add_weibo_account">Ajouter un compte</string>
@@ -39,7 +39,7 @@
   <string name="data_sync_notice">Utilisez votre compte Xiaomi pour synchroniser vos messages, vos contacts et autres données.</string>
   <string name="data_wipe_from_phone">Supprimer de mon appareil</string>
   <string name="disable_find_device_error">%1$s, impossible de désactiver la localisation de l\'appareil</string>
-  <string name="email_already_be_used">Adresse e-mail déjà utilisée</string>
+  <string name="email_already_be_used">Adresse mail déjà utilisée</string>
   <string name="enable_find_device_error">%1$s, impossible d\'activer la localisation de l\'appareil</string>
   <string name="error_auth_summary">Erreur d\'identification, veuillez réessayer</string>
   <string name="error_auth_title">Erreur de compte</string>
@@ -65,7 +65,7 @@
   <string name="error_user_id_mismatch_summary">Veuillez vérifier les détails de votre compte et essayer à nouveau</string>
   <string name="error_user_id_mismatch_title">Erreur d\'authentification !</string>
   <string name="error_verify_summary">L\'Application n\'a pas l\'autorisation de solliciter le service</string>
-  <string name="failed_to_send_activate_email">Impossible d\'envoyer un e-mail d\'activation</string>
+  <string name="failed_to_send_activate_email">Impossible d\'envoyer un mail d\'activation</string>
   <string name="fee">%1$s Mi Credits</string>
   <string name="find_device">Tracer le périphérique</string>
   <string name="find_device_check_phone_error_title">Impossible d\'activer la localisation de l\'appareil</string>
@@ -97,14 +97,14 @@
   <string name="micloud_account_label">Compte: %1$s</string>
   <string name="micloud_account_name">Compte Xiaomi</string>
   <string name="micloud_account_not_actived">Compte non activé</string>
-  <string name="micloud_active_email_sent_1">Nous avons envoyé un lien d\'activation à votre adresse e-mail : </string>
+  <string name="micloud_active_email_sent_1">Nous avons envoyé un lien d\'activation à votre adresse mail : </string>
   <string name="micloud_active_email_visit">Visitez %s</string>
   <string name="micloud_activing_account">Activation de votre compte</string>
-  <string name="micloud_click_email">Cliquez sur le lien dans l\'e-mail pour activer votre compte Xiaomi</string>
+  <string name="micloud_click_email">Cliquez sur le lien dans l\'mail pour activer votre compte Xiaomi</string>
   <string name="micloud_click_email_to_valid">Cliquez sur le lien d\'activation dans le message envoyé à votre boîte de réception</string>
   <string name="micloud_delete_account">Supprimer le compte</string>
-  <string name="micloud_email">Adresse e-mail</string>
-  <string name="micloud_error_email">E-mail invalide</string>
+  <string name="micloud_email">Adresse mail</string>
+  <string name="micloud_error_email">Mail invalide</string>
   <string name="micloud_error_empty_pwd">Mot de passe vide</string>
   <string name="micloud_error_empty_username">Nom d\'utilisateur vide</string>
   <string name="micloud_error_illegal_pwd">Mot de passe incorrect</string>
@@ -196,7 +196,7 @@
   <string name="recharge_voucher_title">Bons MiCredit</string>
   <string name="reg_by_email_failure">Échec de l\'enregistrement: %1$s</string>
   <string name="reg_failed">Échec de l\'enregistrement</string>
-  <string name="reg_type_email">S\'inscrire par E-mail</string>
+  <string name="reg_type_email">S\'inscrire par Mail</string>
   <string name="reg_type_phone">S\'inscrire par téléphone (recommandé)</string>
   <string name="relogin">Se connecter</string>
   <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appel et des notes déjà synchronisés sur votre appareil ?</string>

@@ -19,7 +19,7 @@
   <string name="chooser_wallpaper">Sélectionner un fond d\'écran à partir de</string>
   <string name="confirm_btn_label">OK</string>
   <string name="default_folder_title_game">Jeux</string>
-  <string name="default_folder_title_recommend">Recommandés</string>
+  <string name="default_folder_title_recommend">Utile</string>
   <string name="default_folder_title_security">Sécurité</string>
   <string name="default_folder_title_tools">Outils</string>
   <string name="description_author">Auteur :</string>

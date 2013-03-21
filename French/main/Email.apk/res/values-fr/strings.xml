@@ -57,7 +57,7 @@
   <string name="account_settings_vibrate_when_label">Vibreur</string>
   <string name="account_settings_vibrate_when_never">Jamais</string>
   <string name="account_settings_vibrate_when_silent">En mode silencieux</string>
-  <string name="account_settings_vibrate_when_summary">Vibrer à la réception d\'un e-mail</string>
+  <string name="account_settings_vibrate_when_summary">Vibrer à la réception d\'un mail</string>
   <string name="account_setup_account_type_exchange_action">Exchange</string>
   <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
   <string name="account_setup_account_type_headline">Type de compte</string>
@@ -69,7 +69,7 @@
   <string name="account_setup_basic_label">Veuillez remplir les informations de la boîte aux lettres %s :</string>
   <string name="account_setup_basic_name_label">Votre nom (facultatif)</string>
   <string name="account_setup_basics_default_label">Par défaut, envoyer les e-mails avec ce compte</string>
-  <string name="account_setup_basics_email_label">Adresse e-mail</string>
+  <string name="account_setup_basics_email_label">Adresse mail</string>
   <string name="account_setup_basics_exchange_title">Ajouter un compte Exchange</string>
   <string name="account_setup_basics_exchange_title_alternate">Ajouter un compte Exchange ActiveSync</string>
   <string name="account_setup_basics_headline">Compte de messagerie</string>
@@ -108,7 +108,7 @@
 (%s)\"</string>
   <string name="account_setup_failed_dlg_title">"Impossible de terminer"</string>
   <string name="account_setup_failed_ioerror">"Impossible d\'établir la connexion avec le serveur."</string>
-  <string name="account_setup_failed_protocol_unsupported">"L\'adresse de serveur saisie est incorrecte ou le serveur exige une version du protocole non compatible avec E-mail."</string>
+  <string name="account_setup_failed_protocol_unsupported">"L\'adresse de serveur saisie est incorrecte ou le serveur exige une version du protocole non compatible avec Mail."</string>
   <string name="account_setup_failed_security">"Impossible d\'établir la connexion avec le serveur en raison d\'une erreur de sécurité."</string>
   <string name="account_setup_failed_security_policies_unsupported">"Ce serveur nécessite des fonctionnalités de sécurité incompatibles avec votre appareil Android, dont : %s"</string>
   <string name="account_setup_failed_tls_required">Protocole TLS requis mais non pris en charge par le serveur.</string>
@@ -158,7 +158,7 @@
   <string name="account_setup_options_mail_window_auto">Automatique</string>
   <string name="account_setup_options_mail_window_default">"Utiliser paramètres défaut"</string>
   <string name="account_setup_options_mail_window_label">Jours à synchroniser</string>
-  <string name="account_setup_options_notify_label">Afficher une notification lors de la réception d\'un e-mail</string>
+  <string name="account_setup_options_notify_label">Afficher une notification lors de la réception d\'un mail</string>
   <string name="account_setup_options_sync_calendar_label">Synchroniser l\'agenda à partir de ce compte</string>
   <string name="account_setup_options_sync_contacts_label">Synchroniser les contacts issus de ce compte</string>
   <string name="account_setup_options_sync_email_label">Synchroniser les e-mails à partir de ce compte</string>
@@ -173,7 +173,7 @@
   <string name="account_setup_outgoing_username_label">Nom d\'utilisateur</string>
   <string name="account_setup_security_policies_required_fmt">Vous devez autoriser le serveur %s à contrôler à distance certaines fonctionnalités de sécurité de votre mobile Android. Voulez-vous terminer la configuration de ce compte ?</string>
   <string name="account_setup_security_required_title">Administration de la sécurité à distance</string>
-  <string name="account_setup_username_password_toast">Saisissez une adresse e-mail et un mot de passe corrects.</string>
+  <string name="account_setup_username_password_toast">Saisissez une adresse mail et un mot de passe corrects.</string>
   <string name="account_setup_username_uneditable_error">Vous ne pouvez pas modifier le nom d\'utilisateur d\'un compte. Pour ajouter un compte associé à un autre nom d\'utilisateur, appuyez sur \"Ajouter un compte\".</string>
   <string name="account_shortcut_picker_name">Compte</string>
   <string name="account_shortcut_picker_title">Sélectionner compte</string>
@@ -187,9 +187,9 @@
   <string name="add_quick_responses_action">Créer nouveau</string>
   <string name="alert_selected_all_message">"a au moins %d messages, sélectionner tout ?"</string>
   <string name="alert_title_selected">Sélectionner tout</string>
-  <string name="app_name">E-mail</string>
+  <string name="app_name">Mail</string>
   <string name="application_name">Instant Upload</string>
-  <string name="attachment_info_apk_install_disabled">"Les applications ne peuvent pas être installées directement depuis un e-mail. Enregistrez tout d\'abord cette application, puis installez-la à l\'aide de l\'application Téléchargements."</string>
+  <string name="attachment_info_apk_install_disabled">"Les applications ne peuvent pas être installées directement depuis un mail. Enregistrez tout d\'abord cette application, puis installez-la à l\'aide de l\'application Téléchargements."</string>
   <string name="attachment_info_application_settings">Paramètres application</string>
   <string name="attachment_info_dialog_default_title">Informations sur la pièce jointe</string>
   <string name="attachment_info_dialog_wifi_title">Connexion Wi-Fi requise</string>
@@ -226,10 +226,10 @@
   <string name="contextmenu_help">Aide</string>
   <string name="contextmenu_map">Carte</string>
   <string name="contextmenu_openlink">Ouvrir dans le navigateur</string>
-  <string name="contextmenu_send_mail">Envoyer un e-mail</string>
+  <string name="contextmenu_send_mail">Envoyer un mail</string>
   <string name="contextmenu_sharelink">Partager le lien</string>
   <string name="contextmenu_sms_dot">envoyer un SMS...</string>
-  <string name="copy_email"> Copier l\'adresse e-mail </string>
+  <string name="copy_email"> Copier l\'adresse mail </string>
   <string name="copy_number"> Copier le numéro de téléphone</string>
   <string name="create_action">Créer</string>
   <string name="debug_clear_webview_cache">Vider le cache</string>
@@ -246,7 +246,7 @@
   <string name="delete_quick_response_action">Supprimer</string>
   <string name="destination_format">%1$s \"%2$s\</string>
   <string name="device_admin_description">Active les stratégies de sécurité spécifiées par le serveur.</string>
-  <string name="device_admin_label">E-mail</string>
+  <string name="device_admin_label">Mail</string>
   <string name="dialog_first_wifi">Les fichiers volumineux ne seront transférés qu\'au moyen d\'une connexion Wi-Fi.</string>
   <string name="dialog_sync_all_canceled">Opération \"Tout synchroniser\" annulée.</string>
   <string name="dialog_sync_all_error_title">Tout synchroniser</string>
@@ -254,7 +254,7 @@
   <string name="dialog_sync_all_preparing">Préparation du transfert de %1$d photos et de %2$d vidéos...</string>
   <string name="dialog_sync_all_scanning">Recherche de fichiers...</string>
   <string name="dialog_sync_all_server_error">Un problème est survenu lors de la communication avec le serveur. Veuillez réessayer ultérieurement.</string>
-  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l\'application E-mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, évènements d\'agenda, etc.)."</string>
+  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l\'application Mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, évènements d\'agenda, etc.)."</string>
   <string name="discard_action">Supprimer</string>
   <string name="done">OK</string>
   <string name="done_action">OK</string>
@@ -343,7 +343,7 @@
   <string name="message_compose_bcc_hint">Cci</string>
   <string name="message_compose_cc_hint">Cc</string>
   <string name="message_compose_display_name">%1$s et %2$d autres</string>
-  <string name="message_compose_error_invalid_email">Certaines adresses e-mail sont incorrectes.</string>
+  <string name="message_compose_error_invalid_email">Certaines adresses mail sont incorrectes.</string>
   <string name="message_compose_error_no_recipients">Vous devez ajouter au moins un destinataire.</string>
   <string name="message_compose_from_label">De :</string>
   <string name="message_compose_fwd_header_fmt">\"
@@ -498,7 +498,7 @@ Cc : %4$s
   <string name="preference_title_videos_upload_connectivity">Conditions de transfert</string>
   <string name="preference_title_videos_upload_connectivity_summary">Les paramètres de connectivité des photos sont actuellement utilisés</string>
   <string name="previous_action">Précédente</string>
-  <string name="provider_note_live">"Seuls certains comptes \"Plus\" disposent d\'un accès POP permettant à ce programme de se connecter. Si vous ne parvenez pas à vous connecter avec l\'adresse e-mail et le mot de passe corrects, vous ne possédez peut-être pas de compte payant \"Plus\". Pour accéder à ces comptes de messagerie, lancez le navigateur Web."</string>
+  <string name="provider_note_live">"Seuls certains comptes \"Plus\" disposent d\'un accès POP permettant à ce programme de se connecter. Si vous ne parvenez pas à vous connecter avec l\'adresse mail et le mot de passe corrects, vous ne possédez peut-être pas de compte payant \"Plus\". Pour accéder à ces comptes de messagerie, lancez le navigateur Web."</string>
   <string name="provider_note_t_online">Avant de configurer ce compte de messagerie, consultez le site Web de T-Online et créez un mot de passe d\'accès à la messagerie POP3.</string>
   <string name="quick_responses_empty_view">Aucune réponse rapide</string>
   <string name="read_action">Marquer comme lu</string>
@@ -515,7 +515,7 @@ Cc : %4$s
   <string name="save_draft_action">Enregistrer</string>
   <string name="search_action">Rechercher</string>
   <string name="search_header_text_fmt">Résultats pour \"%1$s\</string>
-  <string name="search_hint">Rechercher l\'e-mail</string>
+  <string name="search_hint">Rechercher l\'mail</string>
   <string name="search_mailbox_hint">Rechercher dans %1$s</string>
   <string name="search_slow_warning_message">Cette opération peut prendre du temps avec certains serveurs.</string>
   <string name="search_slow_warning_title">En attente des résultats...</string>
@@ -564,8 +564,8 @@ Cc : %4$s
   <string name="upload_state_waiting_wifi">En attente d\'une connexion Wi-Fi</string>
   <string name="uploading_for">pour %s</string>
   <string name="uploading_to">Transfert vers <b>%s</b>...</string>
-  <string name="waitinf_for_sync_message_1">En attente de synchronisation</string>
-  <string name="waitinf_for_sync_message_2">Votre e-mail va bientôt s\'afficher.</string>
+  <string name="waitinf_for_sync_message_1">En cours de synchronisation...</string>
+  <string name="waitinf_for_sync_message_2">Vos e-mails vont bientôt s\'afficher.</string>
   <string name="widget_all_mail">Boîte de réception combinée</string>
   <string name="widget_loading">Chargement...</string>
   <string name="widget_no_accounts">"Vous n\'avez pas encore créé de compte de messagerie."</string>

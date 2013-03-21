@@ -782,7 +782,7 @@ Veuillez réessayer dans %d secondes.</string>
     <string name="lockscreen_glogin_forgot_pattern">Déverrouillage du compte</string>
     <string name="lockscreen_glogin_too_many_attempts">Trop de tentatives</string>
     <string name="lockscreen_glogin_instructions">Pour déverrouiller le téléphone, veuillez vous connecter avec votre compte Google.</string>
-    <string name="lockscreen_glogin_username_hint">Nom d\'utilisateur (e-mail)</string>
+    <string name="lockscreen_glogin_username_hint">Nom d\'utilisateur (mail)</string>
     <string name="lockscreen_glogin_password_hint">Mot de passe</string>
     <string name="lockscreen_glogin_submit_button">Se connecter</string>
     <string name="lockscreen_glogin_invalid_input">Nom d\'utilisateur ou mot de passe incorrect.</string>

@@ -10,7 +10,7 @@
   <string name="alert_message_initial_cloud">"Le système va automatiquement télécharger les anciennes et nouvelles photos et captures d'écran seulement lorsqu'il y a une connexion Wi-Fi."</string>
   <string name="alert_message_open_sync">"Sync est requis, souhaitez-vous ouvrir sync maintenant?"</string>
   <string name="aperture">"Ouverture"</string>
-  <string name="app_name">"Galerie"</string>
+  <string name="app_name">"Photos"</string>
   <string name="appwidget_empty_text">"Aucune photo"</string>
   <string name="appwidget_title">"Galerie photos"</string>
   <string name="auto">"Automatique"</string>

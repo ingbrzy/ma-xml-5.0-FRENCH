@@ -38,7 +38,7 @@
   <string name="calendar_refresh">Actualiser</string>
   <string name="change_response_title">Modifier la réponse</string>
   <string name="copy_db">Envoyer la base de données</string>
-  <string name="copy_email">"Copier l\'adresse e-mail"</string>
+  <string name="copy_email">"Copier l\'adresse mail"</string>
   <string name="copy_number">Copier le numéro de téléphone</string>
   <string name="create_an_account_desc">\"Tirez le meilleur parti de Google Agenda en utilisant un compte Google.
 
@@ -68,8 +68,8 @@
   <string name="edit_event_show_all">Tout afficher</string>
   <string name="edit_event_to_label">Au</string>
   <string name="edit_label">Modifier</string>
-  <string name="email_guests_label">Envoyer un e-mail aux invités</string>
-  <string name="email_picker_label">Envoyer un e-mail via</string>
+  <string name="email_guests_label">Envoyer un mail aux invités</string>
+  <string name="email_picker_label">Envoyer un mail via</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Évènement vide non créé.</string>
   <string name="event_create">Nouvel évènement</string>
@@ -98,7 +98,7 @@
   <string name="menu_general_preferences">Paramètres généraux</string>
   <string name="menu_preferences">Paramètres</string>
   <string name="menu_select_visible_calendars">Agendas à afficher</string>
-  <string name="miui_menu_create_event">Nouvel évènement</string>
+  <string name="miui_menu_create_event">Nouveau</string>
   <string name="modify_all">Modifier tous les évènements de la série</string>
   <string name="modify_all_following">Modifier cet évènement et tous les suivants</string>
   <string name="modify_event">Modifier uniquement cet évènement</string>

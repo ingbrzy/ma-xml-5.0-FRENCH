@@ -220,7 +220,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_24">HH:mm</string>
   <string name="status_bar_toggle_ac">Contrôle d\'accès</string>
-  <string name="status_bar_toggle_auto_brightness">Luminosité automatique</string>
+  <string name="status_bar_toggle_auto_brightness">Luminosité auto.</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Luminosité</string>
   <string name="status_bar_toggle_data">Données</string>
@@ -243,8 +243,8 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="status_bar_toggle_screen_button">Touches de l\'écran</string>
   <string name="status_bar_toggle_screenshot">Capture d\'écran</string>
   <string name="status_bar_toggle_shutdown">Éteindre</string>
-  <string name="status_bar_toggle_sync_auto">Synchronisation automatique</string>
-  <string name="status_bar_toggle_sync_manual">Synchronisation manuelle</string>
+  <string name="status_bar_toggle_sync_auto">Sync. automatique</string>
+  <string name="status_bar_toggle_sync_manual">Sync. manuelle</string>
   <string name="status_bar_toggle_syncing">Synchroniser</string>
   <string name="status_bar_toggle_torch">Torche</string>
   <string name="status_bar_toggle_vibrate">Vibreur</string>
@@ -253,7 +253,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="tab_notifications_lable">Notifications</string>
   <string name="tab_toggles_lable">Raccourcis</string>
   <string name="title_usb_accessory">Accessoire USB</string>
-  <string name="torch_activity_hint">Allumer la torche en maintenant l\'icône de verrouillage</string>
+  <string name="torch_activity_hint">Allumez la torche en maintenant la touche Home</string>
   <string name="torch_activity_name">Torche</string>
   <string name="usb_accessory_confirm_prompt">Ouvrir %1$s lors de la connexion de cet accessoire USB ?</string>
   <string name="usb_accessory_permission_prompt">"Autoriser l\'application %1$s à accéder à l\'accessoire USB ?"</string>
