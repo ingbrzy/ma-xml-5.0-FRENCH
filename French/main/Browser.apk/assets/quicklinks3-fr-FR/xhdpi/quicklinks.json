@@ -1,4 +1,4 @@
-{
+ï»¿{
     "quicklinks":[
         {
             "title":"Google",
@@ -58,7 +58,7 @@
             "favicon":"favicon_romandie.png"
         },
         {
-            "title":"Égalité et Réconciliation",
+            "title":"Egalite et Reconciliation",
             "url":"http://www.egaliteetreconciliation.fr/",
             "thumbnail":"thumb_eetr.png",
             "favicon":"favicon_eetr.png"
@@ -77,13 +77,13 @@
         },
 
         {
-            "title":"Météo-France",
+            "title":"Meteo-France",
             "url":"http://france.meteofrance.com/",
             "thumbnail":"thumb_meteo.png",
             "favicon":"favicon_meteo.png"
         },
         {
-            "title":"Google Actualités",
+            "title":"Google Actualites",
             "url":"https://news.google.fr/",
             "thumbnail":"thumb_googlenews.png",
             "favicon":"favicon_googlenews.png"
