@@ -30,17 +30,17 @@
   <string name="backup_file_error">Il y a un problème avec la sauvegarde, l\'opération n\'est pas valide.</string>
   <string name="backup_finished">Sauvegarde terminée</string>
   <string name="backup_hint">N\'éteignez pas le téléphone au risque de corrompre les données</string>
-  <string name="backup_items_app_tailer">\u0020fichiers de données d\'application</string>
-  <string name="backup_items_sysdata_tailer">\u0020fichiers de données système</string>
+  <string name="backup_items_app_tailer">" Fichiers de données d\'application"</string>
+  <string name="backup_items_sysdata_tailer">" Fichiers de données système"</string>
   <string name="backup_new">Nouveau :</string>
   <string name="backup_progress">Sauvegarde...</string>
-  <string name="backup_recently">\u0020(Dernier)</string>
+  <string name="backup_recently">" (Dernier)"</string>
   <string name="backup_report">Rapport de sauvegarde</string>
   <string name="backup_update">Mise à jour</string>
-  <string name="batch_delete_backup_confirm">\nÊtes-vous sûr de vouloir supprimer la sauvegarde sélectionnée ?</string>
+  <string name="batch_delete_backup_confirm">\nÊtes-vous sûr de vouloir supprimer les %d sauvegardes sélectionées ?</string>
   <string name="button_backup">Sauvegarder</string>
   <string name="button_cancel">Annuler</string>
-  <string name="button_finish">Terminer</string>
+  <string name="button_finish">Terminé</string>
   <string name="button_next">Suivant</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Arrière</string>
@@ -53,7 +53,7 @@
   <string name="cloud_backup_login">Ouvrir une session avec votre compte Xiaomi</string>
   <string name="cloud_backup_window_title">Sauvegarder dans le cloud</string>
   <string name="cloud_home_title">Cloud</string>
-  <string name="cloud_item_info_summary">\u0020(Local %1$s | Cloud %2$s)</string>
+  <string name="cloud_item_info_summary">" (Local %1$s | Cloud %2$s)"</string>
   <string name="cloud_last_backup">Dernière sauvegarde : </string>
   <string name="cloud_no_backup">Aucune sauvegarde dans le cloud</string>
   <string name="cloud_restore_guide">Cliquez sur Démarrer la restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
@@ -63,7 +63,7 @@
   <string name="compute_backup_info">Récupération des informations de sauvegarde...</string>
   <string name="compute_delete_contact_info">Recherche des contacts...</string>
   <string name="contact_title">Contacts</string>
-  <string name="current_account">Connecté en tant que: %s</string>
+  <string name="current_account">Connecté en tant que : %s</string>
   <string name="current_sim">Carte SIM actuelle</string>
   <string name="data_no_enough_space">Pas assez d\'espace libre dans la mémoire interne, libérez de l\'espace et essayez à nouveau</string>
   <string name="data_no_enough_space_message">La restauration a peut-être échoué, veuillez libérer un peu d\'espace de stockage interne et essayer à nouveau</string>
@@ -155,11 +155,11 @@
   <string name="task_backup_finished_local">Sauvegarde terminée</string>
   <string name="task_canceled">Annulé</string>
   <string name="task_canceled_all_local">Annuler la tâche</string>
-  <string name="task_canceled_local">La tâche %1$s a été annulée</string>
+  <string name="task_canceled_local">La tâche %s a été annulée</string>
   <string name="task_cloud_backup_cancel_dialog">La sauvegarde n\'est pas encore terminée\nCliquez sur OK pour annuler cette tâche</string>
   <string name="task_failed">Échoué</string>
   <string name="task_failed_all_local">Tâche échouée</string>
-  <string name="task_failed_local">La tâche %1$s n\'a pas réussi à s\'achever</string>
+  <string name="task_failed_local">La tâche %s n\'a pas réussi à s\'achever</string>
   <string name="task_finished">Terminé</string>
   <string name="task_local_backup_cancel_dialog">La sauvegarde n\'est pas encore terminée\nCliquez sur OK pour annuler cette tâche</string>
   <string name="task_pending">En attente</string>
@@ -175,8 +175,8 @@
   <string name="task_service_not_launched">Le service n\'est pas démarré, veuillez patienter !</string>
   <string name="task_stopped_exception">Tâche interrompue</string>
   <string name="total_num">%d enregistrement(s) au total</string>
-  <string name="unit_byte">\u0020Octets</string>
-  <string name="unit_piece">\u0020élément(s)</string>
-  <string name="unknown_hint">N/A</string>
+  <string name="unit_byte">" octets"</string>
+  <string name="unit_piece">" élément(s)"</string>
+  <string name="unknown_hint">Non disponible</string>
   <string name="wifi_title">Paramètres Wi-Fi</string>
 </resources>
