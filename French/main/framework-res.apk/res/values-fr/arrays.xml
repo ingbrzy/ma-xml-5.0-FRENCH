@@ -43,4 +43,11 @@
         <item>Autre</item>
         <item>Personnalisé</item>
     </string-array>
+	<integer-array name="maps_starting_lat_lng">
+        <item>49.528047</item>
+        <item>0.116395</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>6</item>
+    </integer-array>
 </resources>
