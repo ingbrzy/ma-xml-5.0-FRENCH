@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="emailAddressTypes">
-        <item>Domicile</item>
-        <item>Bureau</item>
-        <item>Autre</item>
-        <item>Personnalisée</item>
-    </string-array>
-    <string-array name="imProtocols">
-        <item>AIM</item>
-        <item>Windows Live</item>
-        <item>Yahoo</item>
-        <item>Skype</item>
-        <item>QQ</item>
-        <item>Google Talk</item>
-        <item>ICQ</item>
-        <item>Jabber</item>
-    </string-array>
-    <string-array name="organizationTypes">
-        <item>Bureau</item>
-        <item>Autre</item>
-        <item>Personnalisée</item>
-    </string-array>
-    <string-array name="phoneTypes">
-        <item>Domicile</item>
-        <item>Mobile</item>
-        <item>Bureau</item>
-        <item>Télécopie bureau</item>
-        <item>Télécopie domicile</item>
-        <item>"Récepteur d\'appel"</item>
-        <item>Autre</item>
-        <item>Personnalisé</item>
-    </string-array>
-    <string-array name="postalAddressTypes">
-        <item>Domicile</item>
-        <item>Bureau</item>
-        <item>Autre</item>
-        <item>Personnalisé</item>
-    </string-array>
-    <string-array name="imAddressTypes">
-        <item>Domicile</item>
-        <item>Bureau</item>
-        <item>Autre</item>
-        <item>Personnalisé</item>
-    </string-array>
-	<integer-array name="maps_starting_lat_lng">
-        <item>49.528047</item>
-        <item>0.116395</item>
+    <integer-array name="maps_starting_lat_lng">
+        <item>48850258</item>
+        <item>2351074</item>
     </integer-array>
     <integer-array name="maps_starting_zoom">
         <item>6</item>

@@ -167,9 +167,9 @@
     <string name="gigabyteShort">Go</string>
     <string name="terabyteShort">To</string>
     <string name="petabyteShort">Po</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="ellipsis">...</string>
-    <string name="ellipsis_two_dots">..</string>
+    <string name="ellipsis_two_dots">‥</string>
     <string name="mmiError">Problème de connexion ou code IHM non valide.</string>
     <string name="mmiFdnError">Opération réservée aux numéros autorisés</string>
     <string name="serviceEnabled">Le service a été activé.</string>
@@ -259,7 +259,7 @@
     <string name="httpErrorFile">Impossible d\'accéder au fichier.</string>
     <string name="httpErrorFileNotFound">Impossible de trouver le fichier demandé.</string>
     <string name="httpErrorTooManyRequests">Trop de requêtes sont en cours de traitement. Veuillez réessayer ultérieurement.</string>
-    <string name="notification_title">Erreur de connexion au compte %1$s</string>
+    <string name="notification_title">Erreur de connexion au compte \"%1$s\</string>
     <string name="contentServiceSync">Synchroniser</string>
     <string name="contentServiceSyncNotificationTitle">Synchronisation</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Trop de contenus supprimés (%s).</string>
@@ -1048,8 +1048,8 @@ Voulez-vous la fermer ?</string>
     <string name="hardware">Matériel</string>
     <string name="select_keyboard_layout_notification_title">Sélectionnez la disposition du clavier</string>
     <string name="select_keyboard_layout_notification_message">Appuyez ici pour sélectionner une disposition de clavier.</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_alphabet"> ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="fast_scroll_numeric_alphabet"> 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
     <string name="candidates_style"><u>candidats</u></string>
     <string name="ext_media_checking_notification_title">Préparation de la mémoire de stockage USB</string>
     <string name="ext_media_checking_notification_message">Recherche d\'erreurs</string>
@@ -1079,18 +1079,18 @@ Voulez-vous la fermer ?</string>
     <string name="ime_action_done">OK</string>
     <string name="ime_action_previous">Précédent</string>
     <string name="ime_action_default">Exécuter</string>
-    <string name="dial_number_using">"Composer le numéro
-en utilisant %s"</string>
-    <string name="create_contact_using">"Ajouter un contact
-en utilisant %s"</string>
+    <string name="dial_number_using">Composer le numéro
+en utilisant %s</string>
+    <string name="create_contact_using">Ajouter un contact
+en utilisant %s</string>
     <string name="grant_credentials_permission_message_header">Les applications suivantes demandent l\'autorisation d\'accéder à votre compte à partir de maintenant.</string>
     <string name="grant_credentials_permission_message_footer">Voulez-vous autoriser cette demande ?</string>
     <string name="grant_permissions_header_text">Demande d\'accès</string>
     <string name="allow">Autoriser</string>
     <string name="deny">Refuser</string>
     <string name="permission_request_notification_title">Autorisation demandée</string>
-    <string name="permission_request_notification_with_subtitle">"Autorisation demandée
-pour le compte %s"</string>
+    <string name="permission_request_notification_with_subtitle">Autorisation demandée
+pour le compte \"%s\"</string>
     <string name="input_method_binding_label">Mode de saisie</string>
     <string name="sync_binding_label">Synchronisation</string>
     <string name="accessibility_binding_label">Accessibilité</string>
