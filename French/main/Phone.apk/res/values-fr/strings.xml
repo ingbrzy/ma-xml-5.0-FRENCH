@@ -291,7 +291,7 @@
   <string name="custom_location_number_hint_miui">Indicatif régional tel que 010, numéro de groupe tel que 68#####</string>
   <string name="cw_title_miui">Appel en attente</string>
   <string name="data_enable_summary">"Activer l\'accès aux données sur le réseau mobile"</string>
-  <string name="data_enabled">Données activées</string>
+  <string name="data_enabled">Activer les données</string>
   <string name="deact_all_sub_not_supported">La désactivation des deux abonnements n\'est pas pris en charge.</string>
   <string name="default_contacts_countrycode_hint_miui">Par exemple: 86</string>
   <string name="default_contacts_countrycode_miui">Code pays des contacts par défaut</string>

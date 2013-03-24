@@ -21,7 +21,7 @@
   <string name="accessibility_long_press_timeout_title">"Durée de l'appui prolongé"</string>
   <string name="accessibility_menu_item_settings">"Paramètres"</string>
   <string name="accessibility_no_services_installed">"Aucun service installé"</string>
-  <string name="accessibility_power_button_ends_call_title">"Touche Marche/Arrêt pour raccrocher"</string>
+  <string name="accessibility_power_button_ends_call_title">"Touche Marche/Arrêt raccroche"</string>
   <string name="accessibility_script_injection_allowed">"Autorisé"</string>
   <string name="accessibility_script_injection_button_allow">"Autoriser"</string>
   <string name="accessibility_script_injection_button_disallow">"Ne pas autoriser"</string>
@@ -62,7 +62,7 @@
   <string name="advanced_settings_summary">"Activer d'autres paramètres"</string>
   <string name="airplane_mode">"Mode Avion"</string>
   <string name="alarm_volume_title">"Alarme"</string>
-  <string name="all_volume_title">"Volume"</string>
+  <string name="all_volume_title">"Volumes"</string>
   <string name="allow_bind_app_widget_activity_allow_bind">"Une fois le widget créé, %1$s peut accéder à toutes les données qu'il affiche."</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">"Créer un widget et autoriser l'accès ?"</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">"Toujours autoriser %1$s à créer des widgets et accéder à leurs données"</string>
@@ -119,7 +119,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="app_name_label">"Application"</string>
   <string name="app_not_found_dlg_text">"L'application ne figure pas dans la liste des applications installées."</string>
   <string name="app_notifications_switch_label">"Afficher notifications"</string>
-  <string name="app_process_limit_title">"Limite processus arr.-plan"</string>
+  <string name="app_process_limit_title">"Limite processus arrière-plan"</string>
   <string name="application_forbid_auto_startup">"Interdire le démarrage en arrière-plan de %s"</string>
   <string name="application_info_label">"Informations sur l'application"</string>
   <string name="application_item_already_permission">"Autorisé"</string>
@@ -147,7 +147,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="auto_restore_summary">"Lors de la réinstallation d'une application, restaurer les paramètres et les données sauvegardées"</string>
   <string name="auto_restore_title">"Restaurer automatiquement"</string>
   <string name="auto_startup_application_manage">"Contrôle d'application"</string>
-  <string name="auto_startup_count">"Démarrage auto de %d applications"</string>
+  <string name="auto_startup_count">"Démarrage automatique de %d applications"</string>
   <string name="auto_startup_dialog_msg">"\"MIUI autorisera l'application à démarrer automatiquement sans demander. Cela peut conduire à une consommation d'énergie/de données. Autoriser le démarrage automatique ?»"</string>
   <string name="automatic_brightness">"Ajuster automatiquement la luminosité"</string>
   <string name="available_size">"%s disponible"</string>
@@ -204,8 +204,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="battery_info_health_unspecified_failure">"Erreur inconnue"</string>
   <string name="battery_info_label">"Informations sur la batterie"</string>
   <string name="battery_info_level_label">"Niveau de la batterie :"</string>
-  <string name="battery_info_power_ac">"CA"</string>
-  <string name="battery_info_power_ac_usb">"CA + USB"</string>
+  <string name="battery_info_power_ac">"Secteur"</string>
+  <string name="battery_info_power_ac_usb">"Secteur + USB"</string>
   <string name="battery_info_power_label">"Prise électrique :"</string>
   <string name="battery_info_power_unknown">"Inconnu"</string>
   <string name="battery_info_power_unplugged">"Débranché"</string>
@@ -213,7 +213,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="battery_info_scale_label">"Batterie :"</string>
   <string name="battery_info_screen_on">"Écran activé :"</string>
   <string name="battery_info_status_charging">"Batterie en charge"</string>
-  <string name="battery_info_status_charging_ac">"(CA)"</string>
+  <string name="battery_info_status_charging_ac">"(Secteur)"</string>
   <string name="battery_info_status_charging_usb">"(USB)"</string>
   <string name="battery_info_status_discharging">"N'est pas en charge"</string>
   <string name="battery_info_status_full">"Chargée"</string>
@@ -316,7 +316,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_dun_remember_choice">"Ne plus me demander"</string>
   <string name="bluetooth_dun_request">"Requête DUN"</string>
   <string name="bluetooth_empty_list_bluetooth_off">"Activez le Bluetooth pour voir les appareils."</string>
-  <string name="bluetooth_enable">"Activer bluetooth"</string>
+  <string name="bluetooth_enable">"Activer le Bluetooth"</string>
   <string name="bluetooth_enable_alphanumeric_pin">"Le code PIN contient des lettres ou des symboles."</string>
   <string name="bluetooth_enter_passkey_msg">"Pour l'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir la clé d'accès requise de l'appareil : "</string>
   <string name="bluetooth_enter_passkey_other_device">"Vous devrez peut-être également saisir ce mot de passe sur l'autre appareil."</string>
@@ -413,7 +413,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_turning_on">"Activation du Bluetooth..."</string>
   <string name="bluetooth_untether_blank">"Le partage connexion avec %1$s va être annulé."</string>
   <string name="bluetooth_visibility">"Identifiable"</string>
-  <string name="bluetooth_visibility_timeout">"Délai de visibilité"</string>
+  <string name="bluetooth_visibility_timeout">"Durée de visibilité"</string>
   <string name="bluetooth_visibility_timeout_summary">"Définir la durée de visibilité du périphérique"</string>
   <string name="breathing_light_color_summary">"Couleur de la LED lors d'une nouvelle notification"</string>
   <string name="breathing_light_color_title">" : couleur de la LED"</string>
@@ -424,7 +424,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="brightness_auto_adjust_on">"La luminosité automatique peut être réglée en déplaçant le curseur. La luminosité de l'écran varie selon votre réglage et les environs."</string>
   <string name="brightness_summary">"Régler la luminosité de l'écran"</string>
   <string name="bssid_label">"BSSID :"</string>
-  <string name="build_number">"Numéro de build"</string>
+  <string name="build_number">"Numéro de version"</string>
   <string name="builtin_keyboard_settings_summary">"Paramètres du clavier physique"</string>
   <string name="builtin_keyboard_settings_title">"Clavier physique"</string>
   <string name="button_light_timeout">"Durée de l'éclairage"</string>
@@ -474,7 +474,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="config_ptp_function_name">"ptp"</string>
   <string name="configure_input_method">"Configurer les méthodes de saisie"</string>
   <string name="confirm_erase">"Confirmer la suppression"</string>
-  <string name="confirm_new_backup_pw_prompt">"Confirmez ici votre nouveau mot de passe de sauvegarde complète."</string>
+  <string name="confirm_new_backup_pw_prompt">"Confirmez votre nouveau mot de passe de sauvegarde complète."</string>
   <string name="contributors_title">"Collaborateurs"</string>
   <string name="controls_label">"Commandes"</string>
   <string name="controls_subtitle">"Ajuster la consommation"</string>
@@ -482,7 +482,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="create">"Créer"</string>
   <string name="credentials_configure_lock_screen_hint">"Avant d'utiliser le stockage d'identifiants, vous devez définir un code PIN ou un mot de passe pour le verrouillage d'écran."</string>
   <string name="credentials_enabled">"Stockage des identifiants activé"</string>
-  <string name="credentials_erased">"Les identifiants sont effacés."</string>
+  <string name="credentials_erased">"Les identifiants ont été effacés."</string>
   <string name="credentials_install">"Installer depuis la mémoire"</string>
   <string name="credentials_install_gesture_explanation">"Pour confirmer l'installation des certificats, vous devez dessiner votre schéma de déverrouillage."</string>
   <string name="credentials_install_gesture_prompt">"Dessinez votre schéma de déverrouillage."</string>
@@ -607,7 +607,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="date_time_12_hour_sample">"01:00 PM"</string>
   <string name="date_time_24_hour_sample">"13:00"</string>
   <string name="date_time_24hour">"Utiliser le format 24 h"</string>
-  <string name="date_time_auto">"Date/Heure automatique"</string>
+  <string name="date_time_auto">"Date/Heure automatiques"</string>
   <string name="date_time_auto_summaryOff">"Utiliser la date et l'heure fournies par le réseau"</string>
   <string name="date_time_auto_summaryOn">"Utiliser la date et l'heure fournies par le réseau"</string>
   <string name="date_time_date_format">"Choisir le format de la date"</string>
@@ -667,8 +667,8 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="device_status_summary">"Numéro de téléphone, signal, etc."</string>
   <string name="dialog_title_font_size">"Taille de police"</string>
   <string name="disableNetwork">"disableNetwork"</string>
-  <string name="disable_overlays">"Désact. superpos. matér."</string>
-  <string name="disable_overlays_summary">"Toujours utiliser le GPU pour la composition écran"</string>
+  <string name="disable_overlays">"Désact. superpos. matérielle"</string>
+  <string name="disable_overlays_summary">"Toujours utiliser le GPU pour la composition de l'écran"</string>
   <string name="disable_power_key_long_press_under_keyguard">"Désactiver sous écran de verrouillage"</string>
   <string name="disable_text">"Désactiver"</string>
   <string name="disabled">"Désactivée"</string>
@@ -696,7 +696,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="dock_settings_title">"Paramètres station d'accueil"</string>
   <string name="dock_sounds_enable_summary_off">"N'émettre aucun son lorsque le téléphone est inséré dans la station d'accueil ou retiré de celle-ci"</string>
   <string name="dock_sounds_enable_summary_on">"Émettre un son lorsque le téléphone est inséré dans la station d'accueil ou retiré de celle-ci"</string>
-  <string name="dock_sounds_enable_title">"Son d'insertion dans la station d'accueil"</string>
+  <string name="dock_sounds_enable_title">"Son d'insertion"</string>
   <string name="does_not_exist">"L'application n'existe pas."</string>
   <string name="dolby_bassboost_high">"Élevée"</string>
   <string name="dolby_bassboost_low">"Faible"</string>
@@ -762,10 +762,10 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="enable_drive_mode">"Activer le mode conduite"</string>
   <string name="enable_snapshot_screenlock">"Appui long pour capture d'écran"</string>
   <string name="enable_text">"Activer"</string>
-  <string name="enable_traces_dialog_title">"Sélect. traces activées"</string>
+  <string name="enable_traces_dialog_title">"Sélectionner les traces activées"</string>
   <string name="enable_traces_summary_all">"Toutes les traces sont actuellement activées."</string>
   <string name="enable_traces_summary_none">"Aucune trace n'est activée actuellement."</string>
-  <string name="enable_traces_summary_num">"%1$d traces activées actuellement"</string>
+  <string name="enable_traces_summary_num">"%1$d trace(s) activée(s) actuellement"</string>
   <string name="enable_traces_title">"Activer les traces"</string>
   <string name="enforce_read_external_confirm_message">"\"Lorsque la mémoire de stockage USB est protégée, les applications doivent demander l'autorisation de lire les données de la mémoire de stockage externe.
 
@@ -847,7 +847,7 @@ Certaines applications peuvent ne pas fonctionner jusqu'à ce que leurs dévelop
   <string name="history_details_title">"Informations sur l'historique"</string>
   <string name="ime_security_warning">"Ce mode de saisie est susceptible d'enregistrer le texte que vous saisissez, y compris vos données personnelles, telles que les mots de passe et les numéros de carte de paiement. Il provient de l'application %1$s. Voulez-vous vraiment l'activer ?"</string>
   <string name="immediately_destroy_activities">"Ne pas conserver d'activité"</string>
-  <string name="immediately_destroy_activities_summary">"Supprimer immédiatement les activités abandonnées"</string>
+  <string name="immediately_destroy_activities_summary">Arrêter chaque activité dès que l\'utilisateur la quitte</string>
   <string name="ims_reg_required_off">"Désactivation de l'enregistrement IMS requise"</string>
   <string name="ims_reg_required_on">"Activation de l'enregistrement IMS requise"</string>
   <string name="incoming_call_vibrate_abbreviation">"Appels"</string>
@@ -892,7 +892,7 @@ Certaines applications peuvent ne pas fonctionner jusqu'à ce que leurs dévelop
   <string name="join_many_items_last">"%1$s et %2$s"</string>
   <string name="join_many_items_middle">"%1$s, %2$s"</string>
   <string name="join_two_items">"%1$s et %2$s"</string>
-  <string name="keep_screen_on">"Rester activé"</string>
+  <string name="keep_screen_on">"Rester éveillé"</string>
   <string name="keep_screen_on_summary">"L'écran ne se met jamais en veille lors du chargement"</string>
   <string name="kernel_version">"Version du noyau"</string>
   <string name="key_settings">"Paramètres des boutons"</string>
@@ -926,11 +926,11 @@ Certaines applications peuvent ne pas fonctionner jusqu'à ce que leurs dévelop
   <string name="local_backup_password_toast_success">"Le nouveau mot de passe de secours a bien été défini."</string>
   <string name="local_backup_password_toast_validation_failure">"Échec de la définition du mot de passe de secours."</string>
   <string name="location_gps">"Satellites GPS"</string>
-  <string name="location_neighborhood_level">"Autoriser applis à utiliser localisation Google pour estimer position plus rapidement. Infos localisation anonymes envoyées à Google."</string>
+  <string name="location_neighborhood_level">"Autoriser l\'envoi anonyme d\'informations de localisation à Google. Permet aussi aux applications autorisées à utiliser les données provenant du Wi-Fi ou des réseaux mobiles de déterminer votre position approximative."</string>
   <string name="location_neighborhood_level_wifi">"Position déterminée par le Wi-Fi"</string>
   <string name="location_network_based">"Service de localisation Google"</string>
-  <string name="location_settings_title">"Données de localisation"</string>
-  <string name="location_street_level">"Autoriser les applications à utiliser le GPS sur votre téléphone pour vous localiser"</string>
+  <string name="location_settings_title">"Paramètres de localisation"</string>
+  <string name="location_street_level">"Autoriser les applications à utiliser le GPS pour vous localiser"</string>
   <string name="location_title">"Ma position"</string>
   <string name="lock_after_timeout">"Verrouiller automatiquement"</string>
   <string name="lock_after_timeout_summary">"Après %1$s de veille"</string>
@@ -991,7 +991,7 @@ Certaines applications peuvent ne pas fonctionner jusqu'à ce que leurs dévelop
   <string name="lockpattern_settings_enable_summary">"Dessiner un schéma pour déverrouiller l'écran"</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">"Vibrer au toucher"</string>
   <string name="lockpattern_settings_enable_title">"Schéma obligatoire"</string>
-  <string name="lockpattern_settings_enable_visible_pattern_title">"Faire apparaître le schéma"</string>
+  <string name="lockpattern_settings_enable_visible_pattern_title">"Rendre visible le schéma"</string>
   <string name="lockpattern_settings_help_how_to_record">"Comment dessiner un schéma de déverrouillage :"</string>
   <string name="lockpattern_settings_title">"Schéma de déverrouillage"</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"Réessayer dans %d secondes."</string>
@@ -1113,7 +1113,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="multi_touch_points_category_title">"Points multi-touch"</string>
   <string name="multi_touch_points_preference">"Redémarrez pour activer"</string>
   <string name="musicfx_title">"Effets musicaux"</string>
-  <string name="nearby_wifi">"Connexion Wi-Fi proche"</string>
+  <string name="nearby_wifi">"Connexions Wi-Fi proches"</string>
   <string name="network_detail">"Détails du réseau %s"</string>
   <string name="network_settings_title">"Réseaux mobiles"</string>
   <string name="network_state_label">"État du réseau:"</string>
@@ -1320,7 +1320,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="please_select_phase2">"Authentification phase 2"</string>
   <string name="please_type_passphrase">"Entrez le mot de passe Wi-Fi"</string>
   <string name="pointer_location">"Emplacement du curseur"</string>
-  <string name="pointer_location_summary">"Superposition écran indiquant données actuelles"</string>
+  <string name="pointer_location_summary">Afficher les interactions tactiles à l\'écran</string>
   <string name="pointer_settings_category">"Souris/Pavé tactile"</string>
   <string name="pointer_speed">"Vitesse du pointeur"</string>
   <string name="power_bluetooth">"Bluetooth"</string>
@@ -1622,9 +1622,9 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="show_all_anrs_summary">"Afficher \"L'application ne répond plus\" pour les applications en arrière-plan"</string>
   <string name="show_background_processes">"Voir processus en cache"</string>
   <string name="show_cpu_usage">"Afficher mém. CPU utilisée"</string>
-  <string name="show_cpu_usage_summary">"Superposition écran indiquant mémoire CPU utilisée"</string>
+  <string name="show_cpu_usage_summary">"Superposition écran indiquant la mémoire CPU utilisée"</string>
   <string name="show_fc">"Afficher les FC"</string>
-  <string name="show_fc_summary">"Afficher les messages de fermetures inopinées des applications"</string>
+  <string name="show_fc_summary">"Afficher les messages de fermetures inopinées d\'application"</string>
   <string name="show_hw_screen_updates">"Afficher mises à jour GPU"</string>
   <string name="show_hw_screen_updates_summary">"Faire clignoter les éléments dessinés avec le GPU"</string>
   <string name="show_magnifier_when_input">"Afficher la loupe"</string>
@@ -1633,10 +1633,10 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="show_rounded_corners">"Afficher les coins arrondis"</string>
   <string name="show_rounded_corners_summary">"Nécessite un redémarrage pour prendre effet"</string>
   <string name="show_running_services">"Afficher les services"</string>
-  <string name="show_screen_updates">"Affich. mise à jour surface"</string>
-  <string name="show_screen_updates_summary">"Faire clignoter les surfaces à chaque mise à jour"</string>
+  <string name="show_screen_updates">"Afficher les mises à jour de l\'écran"</string>
+  <string name="show_screen_updates_summary">Faire clignoter les zones de l\'écran lorsqu\'elles sont mises à jour</string>
   <string name="show_touches">"Afficher élément sélectionné"</string>
-  <string name="show_touches_summary">"Afficher repère visuel pour éléments sélectionnés"</string>
+  <string name="show_touches_summary">"Afficher un repère visuel pour les interactions tactiles"</string>
   <string name="silent_mode_title">"Silencieux"</string>
   <string name="sim_absent">"Aucune SIM/RUIM"</string>
   <string name="sim_bad_pin">"Code PIN incorrect."</string>
@@ -2039,9 +2039,9 @@ Faire confiance à cette app. ?\""</string>
   <string name="vpn_title">"VPN"</string>
   <string name="vpn_type">"Type"</string>
   <string name="vpn_username">"Nom d'utilisateur"</string>
-  <string name="wait_for_debugger">"Attendre l'intervention du débogueur"</string>
-  <string name="wait_for_debugger_summary">"Avant de s'exécuter, l'application déboguée doit attendre que le débogueur soit attaché."</string>
-  <string name="wallpaper_settings_fragment_title">"Sélectionner fond d'écran dans"</string>
+  <string name="wait_for_debugger">"Attendre le débogueur"</string>
+  <string name="wait_for_debugger_summary">"Avant de s\'exécuter, l\'application déboguée doit attendre qu\'un débogueur lui soit attaché."</string>
+  <string name="wallpaper_settings_fragment_title">"Sélectionner fond d'écran de"</string>
   <string name="wallpaper_settings_title">"Fond d'écran"</string>
   <string name="wfd_available_devices">"Périph disponibles"</string>
   <string name="wfd_disconnect_diag_msg">"Si votre session Wi-Fi est interrompue, votre connexion avec %1$s se terminera."</string>
@@ -2084,7 +2084,7 @@ Faire confiance à cette app. ?\""</string>
   <string name="wifi_eap_user_cert">"Certificat utilisateur"</string>
   <string name="wifi_empty_list_wifi_off">"Activez le Wi-Fi pour voir les réseaux disponibles."</string>
   <string name="wifi_empty_list_wifi_on">"Recherche de réseaux Wi-Fi en cours..."</string>
-  <string name="wifi_enable">"Activer Wi-Fi"</string>
+  <string name="wifi_enable">"Activer le Wi-Fi"</string>
   <string name="wifi_enable_watchdog_service_summary">"Ne pas utiliser les réseaux Wi-Fi avec des connexions Internet de qualité médiocre"</string>
   <string name="wifi_error">"Erreur"</string>
   <string name="wifi_fail_to_scan">"Impossible de rechercher des réseaux."</string>

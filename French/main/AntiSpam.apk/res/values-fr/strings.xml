@@ -62,7 +62,7 @@
   <string name="fw_advanced_settings">"Paramètres avancés"</string>
   <string name="fw_all_day">"Tous les jours"</string>
   <string name="fw_blacklist">"Liste noire"</string>
-  <string name="fw_blacklist_hint">"Les appels et les messages sont automatiquement bloqués quand ils sont ajoutés à la liste noire"</string>
+  <string name="fw_blacklist_hint">"Les appels et messages sont automatiquement bloqués quand ils sont ajoutés à la liste noire"</string>
   <string name="fw_blocked">"Stats bloqués"</string>
   <string name="fw_blocked_count" formatted="false">"%d %d appels et messages bloqués"</string>
   <string name="fw_call" formatted="false">"Temps d'appel: %s (%d)"</string>

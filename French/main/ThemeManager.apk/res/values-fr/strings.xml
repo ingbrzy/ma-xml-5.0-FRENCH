@@ -127,11 +127,11 @@
   <string name="theme_component_title_font">Polices</string>
   <string name="theme_component_title_framework">Système</string>
   <string name="theme_component_title_icon">Icônes</string>
-  <string name="theme_component_title_launcher">Accueil</string>
+  <string name="theme_component_title_launcher">Lanceur</string>
   <string name="theme_component_title_lockstyle">Écran de verrouillage</string>
-  <string name="theme_component_title_lockwallpaper">Écran de verrouillage</string>
+  <string name="theme_component_title_lockwallpaper">Fond d\'écran de verrouillage</string>
   <string name="theme_component_title_miwallpaper">Fond d\'écran</string>
-  <string name="theme_component_title_mms">SMS</string>
+  <string name="theme_component_title_mms">Application Messages</string>
   <string name="theme_component_title_notification">Notifications</string>
   <string name="theme_component_title_others">Autres</string>
   <string name="theme_component_title_photo_frame">Cadre photo</string>

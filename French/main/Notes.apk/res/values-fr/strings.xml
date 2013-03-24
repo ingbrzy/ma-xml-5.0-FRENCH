@@ -40,7 +40,7 @@
   <string name="format_move_notes_to_folder">%1$d notes ont été déplacées dans le dossiers %2$s</string>
   <string name="hint_foler_name">Entrez un nom de dossier</string>
   <string name="info_note_enter_desktop">Note ajoutée à l\'écran d\'accueil</string>
-  <string name="login_sync">Connexion et synchronisation</string>
+  <string name="login_sync">Se connecter</string>
   <string name="menu_create_folder">Nouveau dossier</string>
   <string name="menu_delete">Supprimer</string>
   <string name="menu_discard">Ignorer</string>
@@ -66,9 +66,9 @@
   <string name="pref_desc_mode_grid">Grille</string>
   <string name="pref_desc_mode_list">Liste</string>
   <string name="pref_title_data_export">Exportation de données</string>
-  <string name="pref_title_data_export_to_sdcard">Exporter la note sur la carte SD</string>
+  <string name="pref_title_data_export_to_sdcard">Exporter les notes sur la carte SD</string>
   <string name="pref_title_note_style">Style de note</string>
-  <string name="preferences_bg_random_appear_title">Post-it avec couleurs aléatoires</string>
+  <string name="preferences_bg_random_appear_title">Post-it de couleurs aléatoires</string>
   <string name="preferences_title">Paramètres</string>
   <string name="search">Notes</string>
   <string name="search_hint">Rechercher des notes</string>

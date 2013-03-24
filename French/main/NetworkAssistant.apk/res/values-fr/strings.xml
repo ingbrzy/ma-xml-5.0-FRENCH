@@ -111,8 +111,8 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="retry">Réessayer</string>
   <string name="save">Enregistrer</string>
   <string name="settings_page_adjust_summary_no_carrier">Opérateur non défini, l\'ajustement automatique est désactivé</string>
-  <string name="settings_page_traffic_summary">Disponible: %1$s, Avestissement: %2$s, Charge depuis %3$d</string>
-  <string name="settings_page_traffic_summary_no_settings">Non renseigné, charge depuis le %d du mois</string>
+  <string name="settings_page_traffic_summary">Disponible : %1$s, Averstissement : %2$s, Facturation : le %3$d du mois</string>
+  <string name="settings_page_traffic_summary_no_settings">Non renseigné, facturation le %d du mois</string>
   <string name="sms_match_fail">N\'a pas réussi à identifier les SMS</string>
   <string name="sms_template_match_fail">Identification du modèle de SMS échouée</string>
   <string name="sms_template_updated_label">"Mis à jour : "</string>
@@ -137,11 +137,11 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="traffic_total">Total: %s</string>
   <string name="traffic_used_status">Utilisé: %s</string>
   <string name="unknown">Inconnu</string>
-  <string name="unknown_free_traffic_hint">"Si vous ne connaissez pas votre allocation de donnée, merci de vous renseigner auprès de votre opérateur"</string>
-  <string name="unknown_free_traffic_text">"Je ne connais pas mon allocation de donnée ?"</string>
-  <string name="unknown_free_traffic_title">Forfait de donnée inconnu</string>
-  <string name="unknown_location">Localisation inconnue</string>
-  <string name="unknown_traffic_hint">Allocation de donnée inconnu, voulez-vous le renseigner ?</string>
+  <string name="unknown_free_traffic_hint">"Si vous ne connaissez pas votre allocation de données, merci de vous renseigner auprès de votre opérateur"</string>
+  <string name="unknown_free_traffic_text">"Je ne connais pas mon allocation de données"</string>
+  <string name="unknown_free_traffic_title">Allocation de données inconnue</string>
+  <string name="unknown_location">Lieu inconnu</string>
+  <string name="unknown_traffic_hint">Allocation de données inconnue, voulez-vous la renseigner ?</string>
   <string name="unknown_version">Version inconnue</string>
   <string name="update_fail">La mise à jour a échoué</string>
   <string name="update_no_network">La mise à jour a échoué, veuillez vérifier la connexion réseau.</string>
