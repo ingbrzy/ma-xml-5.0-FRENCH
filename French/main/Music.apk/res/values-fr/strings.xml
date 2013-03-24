@@ -25,7 +25,7 @@
   <string name="artist_edit">Artiste</string>
   <string name="artist_hot_audios">Populaire</string>
   <string name="artists_title">Artistes</string>
-  <string name="auto_correct_id3_settings">Auto-corriger les paramètres ID3</string>
+  <string name="auto_correct_id3_settings">Paramètres d\'auto-correction ID3</string>
   <string name="auto_correct_id3_summary">L\'algorithme d\'empreinte digitale audio corrigera les données ID3 lors de la lecture</string>
   <string name="batch_correct_id3_completed">Rectification de l\'ID3 terminée !</string>
   <string name="billboard">Panneau d\'affichage</string>
@@ -45,9 +45,9 @@
   <string name="correct_id3_open_other_connect">Veuillez lancer la correction de l\'ID3 en utilisant les paramètres Internet mobile</string>
   <string name="correct_id3_settings">Paramètres de correction ID3</string>
   <string name="correct_id3_start">Commencer la correction de l\'ID3</string>
-  <string name="correct_id3_success">L\'ID3 a été corrigé avec succès !
+  <string name="correct_id3_success">ID3 corrigés avec succès !
 </string>
-  <string name="correct_id3_summary">Cette méthode de correction peut entraîner des hauts frais de données mobile. Ne pas laisser ouvert après utilisation</string>
+  <string name="correct_id3_summary">Cette méthode de correction peut entraîner de hauts frais de données mobile. Ne pas laisser ouvert après utilisation</string>
   <string name="create_confirm">Confirmer</string>
   <string name="create_equalzier_create_text_prompt">Nom de l\'effet de l\'égaliseur</string>
   <string name="create_playlist_create_text_prompt">Nom de la liste de lecture</string>
@@ -74,13 +74,13 @@
   <string name="edit_playlist_menu">Modifier</string>
   <string name="empty_edit_hint">Information sur le morceau indisponible</string>
   <string name="emptyplaylist">La playlist sélectionnée est vide.</string>
-  <string name="enter_sleep_mode">Mettre en veille</string>
+  <string name="enter_sleep_mode">Minuteur de mise en veille</string>
   <string name="equalizer">Égaliseur</string>
   <string name="equalizer_delete">Supprimer</string>
   <string name="equalizer_delete_success">Profil égaliseur supprimé avec succès</string>
   <string name="equalizer_save_success">Le profil de l\'égalisateur a été sauvegardé</string>
   <string name="fade_effect_settings">Fondu entre les morceaux</string>
-  <string name="fade_effect_summary">Active le fondu entre chaque morceau joué</string>
+  <string name="fade_effect_summary">Activer le fondu entre chaque morceaux joué</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="file_not_found">Le fichier n\'existe pas</string>
   <string name="filter_by_duration">Filtrer par durée</string>

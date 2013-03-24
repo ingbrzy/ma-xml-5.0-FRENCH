@@ -29,9 +29,9 @@
   <string name="backup_failed">La sauvegarde a échoué, veuillez réessayer</string>
   <string name="backup_file_error">Il y a un problème avec la sauvegarde, l\'opération n\'est pas valide.</string>
   <string name="backup_finished">Sauvegarde terminée</string>
-  <string name="backup_hint">N\'éteignez pas le téléphone au risque de corrompre les données</string>
-  <string name="backup_items_app_tailer">" Fichiers de données d\'application"</string>
-  <string name="backup_items_sysdata_tailer">" Fichiers de données système"</string>
+  <string name="backup_hint">N\'éteignez pas le téléphone</string>
+  <string name="backup_items_app_tailer">" fichiers de données d\'application"</string>
+  <string name="backup_items_sysdata_tailer">" fichiers de données système"</string>
   <string name="backup_new">Nouveau :</string>
   <string name="backup_progress">Sauvegarde...</string>
   <string name="backup_recently">" (Dernier)"</string>

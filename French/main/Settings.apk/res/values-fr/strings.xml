@@ -77,7 +77,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="android_beam_off_summary">"Désactivé"</string>
   <string name="android_beam_on_summary">"Prêt à partager le contenu de l'application via NFC"</string>
   <string name="android_beam_settings_title">"Android Beam"</string>
-  <string name="animator_duration_scale_title">"Échelle durée animation"</string>
+  <string name="animator_duration_scale_title">"Échelle durée animations"</string>
   <string name="apn_apn">"APN"</string>
   <string name="apn_auth_type">"Type d'authentification"</string>
   <string name="apn_auth_type_chap">"CHAP"</string>
@@ -418,7 +418,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="breathing_light_color_summary">"Couleur de la LED lors d'une nouvelle notification"</string>
   <string name="breathing_light_color_title">" : couleur de la LED"</string>
   <string name="breathing_light_freq_summary">"Pause de la LED entre les flashs"</string>
-  <string name="breathing_light_freq_title">"Fréquence de clignotement de la LED"</string>
+  <string name="breathing_light_freq_title">" : fréquence de clignotement"</string>
   <string name="brightness">"Luminosité"</string>
   <string name="brightness_auto_adjust_off">"La luminosité peut être ajustée à votre convenance en déplaçant le curseur. La luminosité de l'écran restera inchangée dans n'importe quel environnement."</string>
   <string name="brightness_auto_adjust_on">"La luminosité automatique peut être réglée en déplaçant le curseur. La luminosité de l'écran varie selon votre réglage et les environs."</string>
@@ -1143,8 +1143,8 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="oem_radio_info_label">"Infos/paramètres OEM"</string>
   <string name="onscreen_keyboard_settings_summary">"Paramètres du clavier virtuel"</string>
   <string name="other_relative">"Autres autorisations"</string>
-  <string name="owner_info_settings_edit_text_hint">"Saisissez le texte à afficher sur écran de verrouillage"</string>
-  <string name="owner_info_settings_title">"Infos du propriétaire"</string>
+  <string name="owner_info_settings_edit_text_hint">"Saisissez le texte à afficher sur l\'écran de verrouillage"</string>
+  <string name="owner_info_settings_title">"Informations du propriétaire"</string>
   <string name="packages_subtitle">"Modules inclus"</string>
   <string name="password_guard">"Securité"</string>
   <string name="percentage">"%d%%"</string>
@@ -1784,7 +1784,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="track_frame_time_summary">"Mesurer durée rendu dans adb shell dumpsys gfxinfo"</string>
   <string name="trackball_settings">"Boule de commande"</string>
   <string name="trackball_wake_title">"Boule de commande éveillée"</string>
-  <string name="transition_animation_scale_title">"Échelle anim. transitions"</string>
+  <string name="transition_animation_scale_title">"Échelle animation transitions"</string>
   <string name="trust_switch_dialog_msg">"\"Miui ne vous demandera pas de confirmation sur la sécurité et la confidentialité lié à cette app. Assurez-vous de savoir ce que vous faîtes. 
 Faire confiance à cette app. ?\""</string>
   <string name="trusted_credentials">"Certificats de confiance"</string>
