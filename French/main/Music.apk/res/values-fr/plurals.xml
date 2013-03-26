@@ -14,7 +14,7 @@
   </plurals>
   <plurals name="Ntracks_format">
     <item quantity="one">1 chanson</item>
-    <item quantity="other">%1$d chanson</item>
+    <item quantity="other">%1$d chansons</item>
   </plurals>
   <plurals name="Nalbums_format">
     <item quantity="one">1 album</item>
