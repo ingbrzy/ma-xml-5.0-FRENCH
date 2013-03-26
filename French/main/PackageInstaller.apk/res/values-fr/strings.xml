@@ -8,7 +8,7 @@ Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?\"<
   <string name="app_not_found_dlg_text">"L\'application ne figure pas dans la liste des applications installées."</string>
   <string name="app_not_found_dlg_title">Application non trouvée</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l\'application à démarrer automatiquement sans confirmation. Cela peut engendrer une consommation de puissance ou de données. Autoriser le démarrage automatique ?"</string>
-  <string name="caller_app">Demandeur:%1$s</string>
+  <string name="caller_app">Demandeur : %1$s</string>
   <string name="cancel">Annuler</string>
   <string name="dlg_app_replacement_statement">\"L\'application que vous installez va en remplacer une autre.
 
@@ -21,7 +21,7 @@ Toutes vos données d\'utilisateur précédentes vont être enregistrées.\"</st
   <string name="done">OK</string>
   <string name="high_risk_perms">Autorisations à haut risque</string>
   <string name="install">Installer</string>
-  <string name="install_confirm_question">Voulez-vous installer cette application ? Elle aura accès à :</string>
+  <string name="install_confirm_question">Voulez-vous installer cette application ?\nElle aura accès à :</string>
   <string name="install_done">Application installée.</string>
   <string name="install_failed">Application non installée.</string>
   <string name="install_failed_cpu_abi_incompatible">"Cette application n\'est pas compatible avec votre téléphone."</string>

@@ -7,7 +7,7 @@
   <string name="next">"Suivant"</string>
   <string name="other_service_google_location">"Service de localisation Google"</string>
   <string name="other_service_google_location_use">"Localisation et recherche"</string>
-  <string name="other_service_google_location_use_help">"Autoriser le service de localisation Google à collecter des données de localisation anonymes. La collecte se produira même lorsqu\'aucune application n\'est en exécution. Pour régler ce paramètre, allez dans Paramètres &gt; Services de localisation"</string>
+  <string name="other_service_google_location_use_help">"Autoriser le service de localisation de Google à collecter des données de localisation anonymes. La collecte se produira même lorsqu\'aucune application n\'est en exécution. Pour régler ce paramètre, allez dans Paramètres &gt; Services de localisation"</string>
   <string name="other_service_google_location_use_summary">"Autoriser Google à utiliser votre position pour améliorer vos résultats de recherche et d\'autres services"</string>
   <string name="other_service_label">"Autres services"</string>
   <string name="other_service_location">"Service de localisation"</string>

@@ -194,7 +194,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="deleteConfirmation_title">Supprimer</string>
   <string name="delete_call_log_title">Sélectionnez le journal d\'appel à supprimer ?</string>
   <string name="delete_contact_calllog_title">"Êtes-vous sûr de vouloir supprimer le journal d\'appel du contact ?"</string>
-  <string name="delete_duplicate">Fusionner le lot</string>
+  <string name="delete_duplicate">Fusionner</string>
   <string name="delete_duplicate_message">"Fusion..."</string>
   <string name="delete_group_dialog_message">Êtes-vous sûr de vouloir supprimer le groupe \"%1$s\" ? (Les contacts ne seront pas effacés)</string>
   <string name="delete_group_dialog_title">Supprimer le groupe</string>
@@ -689,7 +689,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="preference_telocation_summary_countrycode_on">Ajouter automatiquement l\'indicatif du pays</string>
   <string name="preference_telocation_summary_teloc_off">Masquer la position</string>
   <string name="preference_telocation_summary_teloc_on">Afficher la position</string>
-  <string name="preference_telocation_title">Telocation</string>
+  <string name="preference_telocation_title">Localisation</string>
   <string name="preference_tone_title">Tonalité</string>
   <string name="prepare_import">prepare l\'import</string>
   <string name="preview_contact_card_title">Importer la fiche du contact</string>
