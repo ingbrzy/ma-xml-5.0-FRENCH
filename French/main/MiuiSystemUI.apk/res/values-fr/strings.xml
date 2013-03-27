@@ -256,7 +256,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="tab_notifications_lable">Notifications</string>
   <string name="tab_toggles_lable">Raccourcis</string>
   <string name="title_usb_accessory">Accessoire USB</string>
-  <string name="torch_activity_hint">Allumez la torche en maintenant la touche Home</string>
+  <string name="torch_activity_hint">Allumez la torche en maintenant la touche Accueil</string>
   <string name="torch_activity_name">Torche</string>
   <string name="usb_accessory_confirm_prompt">Ouvrir %1$s lors de la connexion de cet accessoire USB ?</string>
   <string name="usb_accessory_permission_prompt">"Autoriser l\'application %1$s à accéder à l\'accessoire USB ?"</string>

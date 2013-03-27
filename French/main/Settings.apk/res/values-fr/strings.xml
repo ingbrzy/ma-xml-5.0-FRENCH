@@ -637,7 +637,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="dev_settings_warning_title">"Activer les paramètres de développement ?"</string>
   <string name="development_enable">"Permettre le développement"</string>
   <string name="development_settings_summary">"Définir les options pour le développement de l'application"</string>
-  <string name="development_settings_title">"Options pour les développeurs"</string>
+  <string name="development_settings_title">"Options de développeur"</string>
   <string name="device_additional_status">"Infos d'état supplémentaires"</string>
   <string name="device_additional_status_summary">"Numéro de téléphone, Signal, IMEI, etc."</string>
   <string name="device_admin_add_title">"Administrateur de l'appareil"</string>
@@ -803,7 +803,7 @@ Certaines applications peuvent ne pas fonctionner jusqu'à ce que leurs dévelop
   <string name="filter_dlg_title">"Sélectionner les options du filtre"</string>
   <string name="finish_application">"Finir"</string>
   <string name="finish_button_label">"Terminer"</string>
-  <string name="firmware_version">"Version d'Android"</string>
+  <string name="firmware_version">"Version Android"</string>
   <string name="font_size_huge">"Énorme"</string>
   <string name="font_size_large">"Grand"</string>
   <string name="font_size_medium">"Moyenne"</string>
@@ -1162,10 +1162,10 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_disable">"Désactiver"</string>
   <string name="perm_enable">"Activer le moniteur d'autorisation"</string>
   <string name="perm_good">"Bon"</string>
-  <string name="perm_header">"Surveille %1$d apps"</string>
+  <string name="perm_header">"Surveillance de %1$d applications"</string>
   <string name="perm_header_disabled">"Moniteur de permission désactivé"</string>
   <string name="perm_hide_system_app">"Masquer les applications du système"</string>
-  <string name="perm_hips">"Gérer les autorisations d'apps"</string>
+  <string name="perm_hips">"Gérer les autorisations d'applications"</string>
   <string name="perm_hips_action_accept_count">"Autorisé: %1$d"</string>
   <string name="perm_hips_action_reject_count">"Refusé: %1$d"</string>
   <string name="perm_hips_adjust_ringer_volume">"ajuster le volume de la sonnerie"</string>
@@ -1176,9 +1176,9 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_hips_calllog_access">"lire vos journaux d'appels"</string>
   <string name="perm_hips_cancel_missed_calls">"Désactive les notifications d'appels manqués"</string>
   <string name="perm_hips_contact_access">"lire votre liste de contacts"</string>
-  <string name="perm_hips_desc">"Surveille %1$d apps pour la sécurité et la protection des renseignements personnels"</string>
-  <string name="perm_hips_desc1">"Pour la sécurité et la confidentialité"</string>
-  <string name="perm_hips_desc2">"Surveille %1$d apps pour la sécurité et la protection des renseignements personnels"</string>
+  <string name="perm_hips_desc">"Surveillance de %1$d applications pour votre sécurité et confidentialité"</string>
+  <string name="perm_hips_desc1">"Surveillance pour votre sécurité et confidentialité"</string>
+  <string name="perm_hips_desc2">"Surveillance de %1$d applications pour votre sécurité et confidentialité"</string>
   <string name="perm_hips_disable_content">"Le désactiver arrêtera la requête de surveillance des applications et de protégera plus votre sécurité et votre vie privée. Êtes-vous sûr de vouloir le désactiver ?"</string>
   <string name="perm_hips_disable_title">"Moniteur d'autorisation"</string>
   <string name="perm_hips_end_call">"raccrocher l'appel en cours"</string>
@@ -1252,9 +1252,9 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_hips_wifi_network_hint">"%1$s apps sont autorisés à accéder à internet via le réseau mobile"</string>
   <string name="perm_invalid_input">"Entrée invalide"</string>
   <string name="perm_loading">"Chargement..."</string>
-  <string name="perm_log">"Journaux"</string>
-  <string name="perm_log_clear_content">"Tous les journaux seront effacées. Continuer ?"</string>
-  <string name="perm_log_clear_title">"Effacer les journaux"</string>
+  <string name="perm_log">"Journal"</string>
+  <string name="perm_log_clear_content">"L\'ensemble du journal sera effacé. Continuer ?"</string>
+  <string name="perm_log_clear_title">"Effacer le journal"</string>
   <string name="perm_monitored_app">"Applications surveillées (%1$d)"</string>
   <string name="perm_notice">"Alerte de sécurité"</string>
   <string name="perm_operating">"En cours..."</string>
@@ -1264,7 +1264,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_privacy_app_finish">"Terminer"</string>
   <string name="perm_privacy_app_installed">"Installation réussie !"</string>
   <string name="perm_privacy_app_launch">"Démarrer"</string>
-  <string name="perm_privacy_app_log">"Journaux"</string>
+  <string name="perm_privacy_app_log">"Journal"</string>
   <string name="perm_privacy_app_manage">"Détails"</string>
   <string name="perm_privacy_app_trust">"Je fais confiance à cette app"</string>
   <string name="perm_privacy_app_trust_dialog_content">"MIUI ne vous demandera plus votre confirmation pour les autorisations touchant à la sécurité et la confidentialité de cette appli."</string>
@@ -1350,7 +1350,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="preferred_launcher_warning_title">"Remplacement du lanceur par défaut"</string>
   <string name="preferred_launcher_warning_use_system">"Utiliser le lanceur par défaut"</string>
   <string name="preferred_media_app_summary">"Choisissez le lecteur de musique"</string>
-  <string name="privacy_mode_enable_sum">"Cacher l'historique d'appels, les messages et autres données lors de l'utilisation du mode privé"</string>
+  <string name="privacy_mode_enable_sum">"Cacher l'historique d'appel, les messages et autres données lors de l'utilisation du mode privé"</string>
   <string name="privacy_mode_enable_title">"Activer le mode privé"</string>
   <string name="privacy_protect_title">"Protection des données personnelles"</string>
   <string name="privacy_relative">"Confidentialité lié"</string>

@@ -3,9 +3,9 @@
   <string name="Dashboard_App">Applications</string>
   <string name="Dashboard_HIPS_Disable_Content">Désactiver ceci diminue votre sécurité, cela provoquera l\'arrêt du suivi de vos application et de la protection de votre confidentialité par MIUI. Êtes-vous sûr de vouloir le désactiver?</string>
   <string name="Dashboard_HIPS_Disable_Title">LBE Guard</string>
-  <string name="Dashboard_Log">Journaux</string>
-  <string name="Dashboard_Log_Clear_Content">Tous les journaux seront effacés. Êtes-vous sûr de vouloir continuer ?</string>
-  <string name="Dashboard_Log_Clear_Title">Effacer les journaux</string>
+  <string name="Dashboard_Log">Journal</string>
+  <string name="Dashboard_Log_Clear_Content">L\ensemble du journal sera effacé. Êtes-vous sûr de vouloir continuer ?</string>
+  <string name="Dashboard_Log_Clear_Title">Effacer le journal</string>
   <string name="Dashboard_Perm">Permissions</string>
   <string name="Dashboard_Perm_AutoStart">Démarrage</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Activer ou désactiver le démarrage automatique des applications</string>
@@ -170,7 +170,7 @@
   <string name="Privacy_App_Finish">Terminer</string>
   <string name="Privacy_App_Installed">Configurer les permissions</string>
   <string name="Privacy_App_Launch">Démarrer</string>
-  <string name="Privacy_App_Log">Journaux</string>
+  <string name="Privacy_App_Log">Journal</string>
   <string name="Privacy_App_Manage">Détails</string>
   <string name="Privacy_App_Trust">J\'ai confiance en cette application</string>
   <string name="Privacy_App_TrustDialog_Content">Miui ne vous demandera aucune confirmation concernant la sécurité et la confidentialité pour toutes les opérations de cette application.</string>

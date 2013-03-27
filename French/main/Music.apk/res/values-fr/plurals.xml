@@ -49,8 +49,8 @@
     <item quantity="other">Il y a %d chansons sur la carte SD</item>
   </plurals>
   <plurals name="NNNtrackstoplaylist">
-    <item quantity="one">1 titre ajouté à %2$s.</item>
-    <item quantity="other">%d titres ajoutés à %2$s.</item>
+    <item quantity="one">1 titre ajouté à la liste de lecture.</item>
+    <item quantity="other">%d titres ajoutés à la liste de lecture.</item>
   </plurals>
   <plurals name="NNNtrackstofavoriteplaylist">
     <item quantity="one">1 chanson ajoutée à la liste de lecture.</item>

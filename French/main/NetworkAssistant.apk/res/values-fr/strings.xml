@@ -38,7 +38,7 @@
   <string name="carrier_query_number_title">Définir l\'opérateur et le numéro de support</string>
   <string name="carrier_settings_button">Paramètres du fournisseur de services</string>
   <string name="close_txt">Fermer</string>
-  <string name="control_app_internet">Contrôle réseau des apps</string>
+  <string name="control_app_internet">Contrôle réseau des applications</string>
   <string name="current_warning_value">Seuil d\'alerte: %s</string>
   <string name="daily_limit_dialog_disconnect_hint">Déconnecter Internet lorsque le trafic dépasse la limite définie</string>
   <string name="daily_limit_dialog_hint">Limite journalière de trafic (vide ou 0 signifie aucune limite)</string>
@@ -129,13 +129,13 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="sync_traffic_success">"Les données de l\'opérateur on été synchronisées, le trafic a été ajusté avec succès"</string>
   <string name="text_done">OK</string>
   <string name="text_save">Enregistrer</string>
-  <string name="traffic_none">N/A</string>
+  <string name="traffic_none">Aucun</string>
   <string name="traffic_remain">Restant</string>
   <string name="traffic_settings_error">Il y a une erreur dans vos paramètres de trafic mensuel. Selon vos paramètres et votre opérateur, votre trafic mensuel est de: %1$s et le trafic restant est de: %2$s.</string>
   <string name="traffic_suffix">Circulation</string>
   <string name="traffic_suffix_with_uint">Trafic (Mo)</string>
-  <string name="traffic_total">Total: %s</string>
-  <string name="traffic_used_status">Utilisé: %s</string>
+  <string name="traffic_total">%s : Total</string>
+  <string name="traffic_used_status">%s : Utilisé</string>
   <string name="unknown">Inconnu</string>
   <string name="unknown_free_traffic_hint">"Si vous ne connaissez pas votre allocation de données, merci de vous renseigner auprès de votre opérateur"</string>
   <string name="unknown_free_traffic_text">"Je ne connais pas mon allocation de données"</string>

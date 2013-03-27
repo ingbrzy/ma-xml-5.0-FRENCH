@@ -60,7 +60,7 @@
   <string name="prefDefault_max_bytes_limit">1048576</string>
   <string name="pref_dialog_title_max_bytes_limit">Limite de taille de fichier</string>
   <string name="pref_download_settings_title">Avertissement de téléchargement de données</string>
-  <string name="pref_summary_enable_max_bytes_popup">"En utilisant le réseau de l\'opérateur, une demande de confirmation apparaît si la taille du fichier dépasse la limite"</string>
+  <string name="pref_summary_enable_max_bytes_popup">"En utilisant le réseau de l\'opérateur une demande de confirmation apparaît si la taille du fichier dépasse la limite"</string>
   <string name="pref_summary_max_bytes_limit_format">Message d\'alerte si la taille du fichier dépasse %s</string>
   <string name="pref_title_enable_max_bytes_popup">Téléchargement de données</string>
   <string name="pref_title_max_bytes_limit">Limite de taille de fichier</string>

@@ -11,7 +11,7 @@
   <string name="err_type">Type de retour</string>
   <string name="err_type_call">Problèmes d\'appel</string>
   <string name="err_type_data_lost">Données perdues</string>
-  <string name="err_type_force_close">Fermeture forcée</string>
+  <string name="err_type_force_close">Fermetures forcées</string>
   <string name="err_type_network">Problèmes de réseau</string>
   <string name="err_type_others">Autres</string>
   <string name="err_type_power_consuming">Consommation d\'énergie</string>

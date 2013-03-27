@@ -58,7 +58,7 @@
   <string name="mione_update_fail_title">La mise à jour a échouée</string>
   <string name="mione_update_success_title">Mise à jour terminée</string>
   <string name="monthly_build">Version mensuelle</string>
-  <string name="move_data_to_sdcard_not_enough_space_message">Pas assez d\'espace sur la carte SD pour déplacer les %dMB de données sélectionnées</string>
+  <string name="move_data_to_sdcard_not_enough_space_message">Pas assez d\'espace sur la carte SD pour déplacer les %dMo de données sélectionnées</string>
   <string name="move_data_to_sdcard_title">Déplacer les données vers la carte SD</string>
   <string name="moving_data_to_sdcard_message">"Les données sont transférées vers la carte SD, veuillez ne pas activer le mode USB ni retirer la carte SD."</string>
   <string name="moving_data_to_sdcard_progress_format">Transféré %1$ddKb de %2$dKb</string>

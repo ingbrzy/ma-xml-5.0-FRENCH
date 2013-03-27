@@ -158,7 +158,7 @@
   <string name="prev">Précédent</string>
   <string name="progress_connecting">Connexion...</string>
   <string name="progress_creating">Récupération des informations de la commande...</string>
-  <string name="progress_downloading">Téléchargement...</string>
+  <string name="progress_downloading">Chargement...</string>
   <string name="progress_error_auth">Erreur d\'authentification, veuillez réessayer ultérieurement.</string>
   <string name="progress_error_common">Le rechargement a échoué, veuillez réessayer ultérieurement.</string>
   <string name="progress_error_network">Impossible de se connecter au réseau, veuillez vérifier l\'état du réseau.</string>
@@ -215,7 +215,8 @@
   <string name="sync_on">Activé</string>
   <string name="sync_sub_dspt">Un SMS sera envoyé pour activer le service</string>
   <string name="title_mili_center">Centre Mi Credit</string>
-  <string name="title_pay_record">%1$s historique(s) de paiements</string>
+  <string name="title_pay_record">%1$s : historique de paiements</string>
+  <string name="title_pay_record">%1$s : historique de paiements</string>
   <string name="title_paytool">Recharger par %1$s</string>
   <string name="title_prepaid">Recharger par carte</string>
   <string name="title_recharge">Recharger Mi Credits</string>
