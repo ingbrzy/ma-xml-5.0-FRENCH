@@ -34,7 +34,7 @@
   <string name="cancel_sleep_mode">Mode veille désactivé</string>
   <string name="cancle_warining">Le mode veille s\'est arrêté</string>
   <string name="channel">FM</string>
-  <string formatted="false" name="channel_format">"%s %s Mhz"</string>
+  <string name="channel_format" formatted="false">"%s %s Mhz"</string>
   <string name="channel_postfix">Mhz</string>
   <string name="click_to_shuffle">Lecture aléatoire</string>
   <string name="complete">Terminé</string>
@@ -45,8 +45,7 @@
   <string name="correct_id3_open_other_connect">Veuillez lancer la correction de l\'ID3 en utilisant les paramètres Internet mobile</string>
   <string name="correct_id3_settings">Paramètres de correction ID3</string>
   <string name="correct_id3_start">Commencer la correction de l\'ID3</string>
-  <string name="correct_id3_success">ID3 corrigés avec succès !
-</string>
+  <string name="correct_id3_success">ID3 corrigés avec succès !</string>
   <string name="correct_id3_summary">Cette méthode de correction peut entraîner de hauts frais de données mobile. Ne pas laisser ouvert après utilisation</string>
   <string name="create_confirm">Confirmer</string>
   <string name="create_equalzier_create_text_prompt">Nom de l\'effet de l\'égaliseur</string>
@@ -56,7 +55,7 @@
   <string name="delete_file_from_sdcard">Supprimer tous les fichiers de la carte SD</string>
   <string name="delete_item">Supprimer</string>
   <string name="delete_playlist_menu">Supprimer</string>
-  <string name="delete_song_desc">\"%s\" sera supprimé définitivement de votre carte SD.</string>
+  <string name="delete_song_desc">Cela supprimera définitivement %s de votre carte SD.</string>
   <string name="deselect_all">Rejeter tout</string>
   <string name="download">Télécharger</string>
   <string name="download_album_settings">Téléchargement de pochette auto</string>
@@ -154,7 +153,7 @@
   <string name="network_error">Aucune connexion réseau, veuillez vérifier vos paramètres réseau</string>
   <string name="new_albums">Nouveaux Albums</string>
   <string name="new_equalizer_name_template">Nouveau profil EQ %d</string>
-  <string name="new_playlist">Nouveau</string>
+  <string name="new_playlist">Nouvelle Playlist</string>
   <string name="new_playlist_name_template">Playlist %d</string>
   <string name="no_effect">Pas d\'effet</string>
   <string name="no_song_downloaded">La chanson ne peut pas être téléchargée</string>
@@ -180,7 +179,7 @@
   <string name="playlist_new">Créer une nouvelle liste de lecture</string>
   <string name="playlist_recently_added">Ajouté récemment</string>
   <string name="playlist_recently_played">Lu récemment</string>
-  <string name="playlist_renamed_message">Playlist renommée \"%s\".</string>
+  <string name="playlist_renamed_message">Playlist renommée.</string>
   <string name="playlists_title">Playlists </string>
   <string name="queue">Playlist actuelle</string>
   <string name="quit_player">Quitter</string>
@@ -212,7 +211,7 @@
   <string name="sdcard_missing_message_nosdcard">Carte SD indisponible.</string>
   <string name="search_hint">Recherchez musique</string>
   <string name="search_settings_description">Artistes, albums et morceaux</string>
-  <string name="search_suggestion">Suggestions de recherche: </string>
+  <string name="search_suggestion">"Suggestions de recherche : "</string>
   <string name="search_title">Rechercher</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_folder">Choix du dossier</string>
@@ -231,7 +230,7 @@
   <string name="sort_by_album">Trier par album</string>
   <string name="sort_by_artist">Trier par artiste</string>
   <string name="sort_by_track">Pistes</string>
-  <string name="start_to_download_album">Téléchargement de pochette(s) d\'album(s) pour votre bibliothèque de musique(s)</string>
+  <string name="start_to_download_album">Téléchargement de pochettes d\'album pour votre bibliothèque de musique</string>
   <string name="start_to_download_avatar">Téléchargement de l\'avatar de l\'artiste dans votre bibliothèque de musique</string>
   <string name="streamloadingtext">Connexion à %s...</string>
   <string formatted="false" name="track_album_format">%s - %s</string>

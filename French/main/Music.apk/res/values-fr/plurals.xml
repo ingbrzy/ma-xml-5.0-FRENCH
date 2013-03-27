@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="Ntracks_search_result_format">
-    <item quantity="one">1 chanson associée</item>
+    <item quantity="one">%d chanson associée</item>
     <item quantity="other">%d chansons associées</item>
   </plurals>
   <plurals name="Ntracks_total">
-    <item quantity="one">1 chanson</item>
+    <item quantity="one">%d chanson</item>
     <item quantity="other">%d chansons</item>
   </plurals>
   <plurals name="Ntracks_string">
-    <item quantity="one">1 chanson</item>
+    <item quantity="one">%d chanson</item>
     <item quantity="other">%d chansons</item>
   </plurals>
   <plurals name="Ntracks_format">
-    <item quantity="one">1 chanson</item>
-    <item quantity="other">%1$d chansons</item>
+    <item quantity="one">%d chanson</item>
+    <item quantity="other">%d chansons</item>
   </plurals>
   <plurals name="Nalbums_format">
-    <item quantity="one">1 album</item>
-    <item quantity="other">%1$d albums</item>
+    <item quantity="one">%d album</item>
+    <item quantity="other">%d albums</item>
   </plurals>
   <plurals name="Ntracks">
     <item quantity="one">chanson</item>
@@ -37,36 +37,36 @@
     <item quantity="other">listes de lectures</item>
   </plurals>
   <plurals name="Nfolders">
-    <item quantity="one">Dossier"</item>
-    <item quantity="other">Dossiers"</item>
+    <item quantity="one">" dossier"</item>
+    <item quantity="other">" dossiers"</item>
   </plurals>
   <plurals name="Nitems_batch_selection">
-    <item quantity="one">1 élément sélectionné</item>
+    <item quantity="one">%d élément sélectionné</item>
     <item quantity="other">%d éléments sélectionnés</item>
   </plurals>
   <plurals name="Ntrack_in_sdcard_format">
-    <item quantity="one">Il y a 1 chanson dans la carte SD</item>
-    <item quantity="other">Il y a %1$d chansons dans carte SD</item>
+    <item quantity="one">Il y a %d chanson sur la carte SD</item>
+    <item quantity="other">Il y a %d chansons sur la carte SD</item>
   </plurals>
   <plurals name="NNNtrackstoplaylist">
     <item quantity="one">1 titre ajouté à %2$s.</item>
-    <item quantity="other">%1$d titres ajoutés à %2$s.</item>
+    <item quantity="other">%d titres ajoutés à %2$s.</item>
   </plurals>
   <plurals name="NNNtrackstofavoriteplaylist">
     <item quantity="one">1 chanson ajoutée à la liste de lecture.</item>
-    <item quantity="other">%1$d chansons ajoutées à la liste de lecture.</item>
+    <item quantity="other">%d chansons ajoutées à la liste de lecture.</item>
   </plurals>
   <plurals name="Nonlinecategory">
-    <item quantity="one">catégorie\"</item>
-    <item quantity="other">catégories\"</item>
+    <item quantity="one">" catégorie"</item>
+    <item quantity="other">" catégories"</item>
   </plurals>
   <plurals name="album_details_format">
     <item quantity="one">%1$s, %2$d chanson</item>
     <item quantity="other">%1$s, %2$d chansons</item>
   </plurals>
   <plurals name="NNNtracksdeleted">
-    <item quantity="one">1 chanson a été supprimée !</item>
-    <item quantity="other">%1$d chansons ont été supprimées !</item>
+    <item quantity="one">1 chanson a été supprimée.</item>
+    <item quantity="other">%1$d chansons ont été supprimées.</item>
   </plurals>
   <plurals name="NTrackstoDownload">
     <item quantity="one">1 chanson sera téléchargée.</item>
