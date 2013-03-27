@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_label">Liste des contacts</string>
+  <string name="call_log_provider_label">Journal d\'appel</string>
   <string name="create_contact">Nouveau contact</string>
   <string name="default_directory">Contacts</string>
   <string name="edit_contact">Ajouter au contact</string>

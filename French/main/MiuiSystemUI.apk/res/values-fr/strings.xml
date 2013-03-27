@@ -93,10 +93,13 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="ext_media_badremoval_notification_title">La carte SD a été retirée de façon inattendue</string>
   <string name="ext_media_checking_notification_message">Vérification des erreurs.</string>
   <string name="ext_media_checking_notification_title">Préparation de la carte SD</string>
+  <string name="ext_media_mountable_notification_message">Média monté, vous pouvez y accéder via l\'Explorateur de fichiers</string>
+  <string name="ext_media_mountable_notification_title">Périphérique de stockage USB connecté</string>
   <string name="ext_media_nofs_notification_message">La carte SD est vide ou a un système de fichiers non supporté.</string>
   <string name="ext_media_nofs_notification_title">Carte SD vierge</string>
   <string name="ext_media_nomedia_notification_message">La carte SD est retirée. Insérer un nouveau média.</string>
   <string name="ext_media_nomedia_notification_title">Carte SD retirée</string>
+  <string name="ext_media_safe_remove">Retirer le média en tout sécurité</string>
   <string name="ext_media_safe_unmount_notification_message">Vous pouvez retirer votre carte SD en toute sécurité.</string>
   <string name="ext_media_safe_unmount_notification_title">La carte SD peut être retirée en toute sécurité</string>
   <string name="ext_media_unmountable_notification_message">Carte SD endommagée. Vous devriez peut-être la formater.</string>

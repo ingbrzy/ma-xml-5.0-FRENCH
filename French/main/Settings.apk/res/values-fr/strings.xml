@@ -642,7 +642,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="device_additional_status_summary">"Numéro de téléphone, Signal, IMEI, etc."</string>
   <string name="device_admin_add_title">"Administrateur de l'appareil"</string>
   <string name="device_admin_settings_title">"Paramètres de gestion de l'appareil"</string>
-  <string name="device_admin_status">"Cet administrateur est activé et permet à l'application %1$s d'effectuer les opérations suivantes : "</string>
+  <string name="device_admin_status">"Cet administrateur est actif et permet à l'application %1$s d'effectuer les opérations suivantes : "</string>
   <string name="device_admin_title">"Gestion de l'appareil"</string>
   <string name="device_admin_warning">"L'activation de cet administrateur permettra à l'application %1$s d'effectuer les opérations suivantes :"</string>
   <string name="device_cpu">CPU</string>
@@ -666,6 +666,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="device_status_activity_title">"État"</string>
   <string name="device_status_summary">"Numéro de téléphone, signal, etc."</string>
   <string name="dialog_title_font_size">"Taille de police"</string>
+  <string name="dirac_control">Contrôle Dirac</string>
   <string name="disableNetwork">"disableNetwork"</string>
   <string name="disable_overlays">"Désact. superpos. matérielle"</string>
   <string name="disable_overlays_summary">"Toujours utiliser le GPU pour la composition de l'écran"</string>

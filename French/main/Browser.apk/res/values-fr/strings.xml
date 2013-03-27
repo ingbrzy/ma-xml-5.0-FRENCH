@@ -28,7 +28,7 @@
   <string name="account">"Compte"</string>
   <string name="account_chooser_dialog_title">"Choisir un compte"</string>
   <string name="action">"Se connecter"</string>
-  <string name="add_bookmark">"Ajouter aux signets"</string>
+  <string name="add_bookmark">"Ajouter aux favoris"</string>
   <string name="add_bookmark_short">"Ajouter"</string>
   <string name="add_folder">"Ajouter au dossier"</string>
   <string name="add_new_bookmark">"Ajouter un favori"</string>
@@ -74,15 +74,15 @@
   <string name="bookmark_page">"Ajouter la dernière page consultée"</string>
   <string name="bookmark_saved">"Enregistré dans les favoris"</string>
   <string name="bookmark_this_page">"Ajouter cette page aux favoris"</string>
-  <string name="bookmark_this_page_to_readmodelist">"Ajoutez cette page au signet des listes de lectures"</string>
+  <string name="bookmark_this_page_to_readmodelist">"Ajouter cette page à la liste de lecture des favoris"</string>
   <string name="bookmark_thumbnail_view">"Vignettes"</string>
   <string name="bookmark_title">"Légende"</string>
-  <string name="bookmark_to_readmodelist_not_saved">"Impossible d'enregistrer le signet de la liste de lecture."</string>
-  <string name="bookmark_to_readmodelist_saved">"Enregistré dans les signets de la liste de lecture."</string>
+  <string name="bookmark_to_readmodelist_not_saved">"Impossible d'enregistrer la liste de lecture des favoris."</string>
+  <string name="bookmark_to_readmodelist_saved">"Enregistré dans liste de lecture des favoris."</string>
   <string name="bookmark_url">"URL"</string>
   <string name="bookmark_url_not_valid">"Cette URL n'est pas valide."</string>
   <string name="bookmarks">"Favoris"</string>
-  <string name="bookmarks_management">"Signets"</string>
+  <string name="bookmarks_management">"Favoris"</string>
   <string name="bookmarks_root_folder">"Dossier racine"</string>
   <string name="bookmarks_search">"Navigateur"</string>
   <string name="browserFrameFileErrorLabel">"Problème de fichier"</string>
@@ -146,9 +146,9 @@
   <string name="error_console_header_text_maximized">"Console JavaScript"</string>
   <string name="error_console_header_text_minimized">"Afficher la console JavaScript"</string>
   <string name="exit_browser_warning">"Quitter le navigateur ?"</string>
-  <string name="export_bookmark">"Exporter les signets"</string>
-  <string name="export_bookmark_failure">"L'exportation des signets vers la carte SD a échoué !"</string>
-  <string name="export_bookmark_sucess">"L'exportation des signets vers la carte SD a été effectuée."</string>
+  <string name="export_bookmark">"Exporter les favoris"</string>
+  <string name="export_bookmark_failure">"L'exportation des favoris vers la carte SD a échoué !"</string>
+  <string name="export_bookmark_sucess">"L'exportation des favoris vers la carte SD a été effectuée."</string>
   <string name="exported_bookmark_file_name">"Mes favoris"</string>
   <string name="file_picker_new_folder">"Nouveau dossier"</string>
   <string name="file_picker_sdcard_not_found">"Aucune carte SD n'est détectée, vérifiez si l'appareil est n'est pas connecté en USB ou en utilisation."</string>
@@ -170,13 +170,14 @@
   <string name="go_home">"Page d'accueil"</string>
   <string name="google_bookmarks">"Google:"</string>
   <string name="goto_dot">"OK"</string>
+  <string name="have_sent_bookmark_to_home_screen">Favori ajouté a la page d\'accueil</string>
   <string name="history">"Historique"</string>
   <string name="homepage_base">"http://www.google.fr/webhp?client={CID}&amp;source=android-home"</string>
   <string name="homepage_set">"La page d'accueil a été définie."</string>
   <string name="http">"http://"</string>
-  <string name="import_bookmark">"Importer les signets"</string>
-  <string name="import_bookmark_failure">"Échec de l'importation des signets !"</string>
-  <string name="import_bookmark_sucess">"Signets importés avec succès"</string>
+  <string name="import_bookmark">"Importer les favoris"</string>
+  <string name="import_bookmark_failure">"Échec de l'importation des favoris !"</string>
+  <string name="import_bookmark_sucess">"Favoris importés avec succès"</string>
   <string name="import_bookmarks_dialog_add">"Ajouter les favoris au compte Google"</string>
   <string name="import_bookmarks_dialog_confirm_add" formatted="false">"Ajouter les favoris de cet appareil et démarrer la synchronisation avec les favoris du compte %s"</string>
   <string name="import_bookmarks_dialog_confirm_delete" formatted="false">"Supprimer les favoris de cet appareil et démarrer la synchronisation avec les favoris du compte %s ?"</string>
@@ -376,7 +377,7 @@
   <string name="preview">"Aperçu"</string>
   <string name="progress_dialog_setting_wallpaper">"Définition du fond d'écran..."</string>
   <string name="readmode_reach_last_page">"La dernière page a été atteinte"</string>
-  <string name="readmodelist_bookmarks_to_show">"Listes de lecture"</string>
+  <string name="readmodelist_bookmarks_to_show">"Liste de lecture"</string>
   <string name="recover">"Récupérer"</string>
   <string name="recover_from_crash">"Continuer avec les dernière session de navigation"</string>
   <string name="reload">"Actualiser"</string>

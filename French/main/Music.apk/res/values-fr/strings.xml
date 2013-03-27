@@ -57,6 +57,8 @@
   <string name="delete_playlist_menu">Supprimer</string>
   <string name="delete_song_desc">Cela supprimera définitivement %s de votre carte SD.</string>
   <string name="deselect_all">Rejeter tout</string>
+  <string name="dirac_disabled">Dirac activé</string>
+  <string name="dirac_enabled">Dirac désactivé</string>
   <string name="download">Télécharger</string>
   <string name="download_album_settings">Téléchargement de pochette auto</string>
   <string name="download_album_summary">Peut coûter plus cher par le réseau mobile, veuillez utiliser une connexion Wi-Fi</string>

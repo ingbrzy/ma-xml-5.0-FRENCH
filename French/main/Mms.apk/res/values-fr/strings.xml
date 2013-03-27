@@ -111,6 +111,7 @@
   <string name="edit_slide_activity">Modifier la diapositive</string>
   <string name="edit_slideshow_activity">Modifier le diaporama</string>
   <string name="enable_password_protect">Activer le mot de passe de protection</string>
+  <string name="enable_visible_pattern_title">Rendre le schéma visible</string>
   <string name="enter_edit_mode">Supprimer</string>
   <string name="error_code_label">"Code d\'erreur : "</string>
   <string name="error_state">État incohérent</string>
@@ -159,6 +160,8 @@
   <string name="menu_edit">Modifier</string>
   <string name="menu_forward">Transférer</string>
   <string name="menu_lock">Verrouiller</string>
+  <string name="menu_new_manual">Entrer le numéro manuellement</string>
+  <string name="menu_pick_from_contact">Séléctionner à partir des contacts</string>
   <string name="menu_preferences">Paramètres</string>
   <string name="menu_unlock">Déverrouiller</string>
   <string name="menu_view_contact">Afficher le contact</string>
@@ -226,6 +229,7 @@
   <string name="notification_failed_multiple_title">Messages non envoyés</string>
   <string name="notification_multiple">%s messages non lus.</string>
   <string name="notification_multiple_title">Nouveaux messages</string>
+  <string name="number_add_hint">Entrez un numéro pour l\'ajouter aux Contacts Privés</string>
   <string name="phrase_confirm_delete_message">La phrase sélectionnée sera supprimée</string>
   <string name="phrase_empty">Aucune phrase</string>
   <string name="phrase_from">De %1s</string>

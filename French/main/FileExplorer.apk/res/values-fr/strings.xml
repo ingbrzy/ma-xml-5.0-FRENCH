@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="account_bind_prompt">"Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter..."</string>
   <string name="add_task">Ajouter une tâche</string>
   <string name="adding_upload_tasks">Ajout de tâches à partager.</string>
   <string name="app_name">Documents</string>
@@ -27,6 +28,7 @@
   <string name="category_zip">Archives</string>
   <string name="choose_send_type">Sélectionner type d\'envoi</string>
   <string name="choose_upload_location">Choisir l’emplacement de chargement</string>
+  <string name="clean_complete">Nettoyage effectué avec succès</string>
   <string name="clean_message">Suppression de %1$s</string>
   <string name="clean_title">Supprimer les fichiers de plus de 30 jours dans la corbeille</string>
   <string name="clean_trash_box">Vider la corbeille</string>
@@ -64,6 +66,7 @@
   <string name="dialog_type_image">Image</string>
   <string name="dialog_type_text">Texte</string>
   <string name="dialog_type_video">Video</string>
+  <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Échec du téléchargement !</string>
   <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de MiDrive. Cliquez sur le lien ci-dessous pour plus de détails : </string>
   <string name="download_successful">Téléchargement réussi</string>
@@ -82,6 +85,7 @@
   <string name="file_info_modified">Mis à jour : </string>
   <string name="file_info_size">Taille : </string>
   <string name="file_loading">Chargement...</string>
+  <string name="file_too_large">"Le fichier est trop volumineux et ne peut être envoyé"</string>
   <string name="finished">Terminé</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Cliquez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
   <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres, des lettres de l\'alphabet. Les majuscules et les minuscules sont différenciées.</string>
@@ -116,14 +120,18 @@
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Taille</string>
   <string name="menu_item_sort_type">Type</string>
+  <string name="migrate_announcement_msg">Si vous avez un compte vous pouvez y accéder dans les paramètres et préférences d\'accès</string>
+  <string name="migrate_announcement_title">Migration de compte</string>
   <string name="move_failed">Impossible de déplacer</string>
   <string name="multi_select_title">%1$s éléments(s) sélectionné(s)</string>
+  <string name="name_illegal">Le nom de fichier ne peut être vide</string>
   <string name="net_lose_connected">Réseau non disponible, impossible d\'obtenir la taille</string>
   <string name="networkView_notConnected">Aucun réseau disponible</string>
   <string name="networkView_offline">Mode hors ligne, actualisation du répertoire temporairement désactivé</string>
   <string name="new_folder_name">Nouveau dossier</string>
   <string name="no">Non</string>
   <string name="no_file">Aucun fichier</string>
+  <string name="no_more_space">Pas d\'espace libre</string>
   <string name="no_tasks">Aucune tâche</string>
   <string name="no_wifi">Aucun réseau Wi-Fi</string>
   <string name="no_wifi_hint">Aucune connexion Wi-Fi trouvée</string>
@@ -134,6 +142,8 @@
   <string name="operation_compress">Compresser</string>
   <string name="operation_compressing">Compression...</string>
   <string name="operation_copy">Copier</string>
+  <string name="operation_copying">Copie...</string>
+  <string name="operation_copying_detail">Copie de fichiers (%1$d/%2$d)</string>
   <string name="operation_create_folder">Nouveau dossier</string>
   <string name="operation_create_folder_message">Entrez le nom du dossier</string>
   <string name="operation_decompressing">Décompression...</string>
@@ -141,12 +151,14 @@
   <string name="operation_delete_confirm_message">Confirmer la suppression ?</string>
   <string name="operation_delete_confirm_message_folder">"Supprimer le dossier supprimera tous les fichiers qu\'il contient."</string>
   <string name="operation_deleting">Suppression en cours...</string>
+  <string name="operation_deleting_detail">Suppression de fichiers (%1$d/%2$d)</string>
   <string name="operation_download_link">Générer le lien de téléchargement</string>
   <string name="operation_favorite">Ajouter aux favoris</string>
   <string name="operation_hide_sys">Masquer les fichiers cachés</string>
   <string name="operation_info">Détails</string>
   <string name="operation_move">Déplacer</string>
   <string name="operation_moving">Déplacement...</string>
+  <string name="operation_moving_detail">Déplacement de fichiers (%1$d/%2$d)</string>
   <string name="operation_paste">Coller</string>
   <string name="operation_pasting">Copie...</string>
   <string name="operation_pause">Pause</string>
@@ -161,11 +173,14 @@
   <string name="operation_unfavorite">Supprimer des favoris</string>
   <string name="pan_settting">Paramètres MiDrive</string>
   <string name="paused">En pause</string>
+  <string name="query_bind_state">Interrogation de l\'état de liaison, veuillez patienter...</string>
   <string name="remote_management">FTP</string>
   <string name="rename_description">Changement de nom, veuillez patienter...</string>
   <string name="rename_failed">Le changement de nom de %1$s a échoué</string>
+  <string name="scanning">Scan en cours...</string>
   <string name="sd_card_available">Disponible: %1$s</string>
   <string name="sd_card_size">Mémoire: %1$s</string>
+  <string name="sd_full">La carte SD est pleine</string>
   <string name="search_hint">Rechercher Mes fichiers</string>
   <string name="search_title">Rechercher Mes fichiers</string>
   <string name="send_to_midrive">Envoyer à MiDrive</string>
@@ -218,6 +233,9 @@
   <string name="user_guide_upload_to_kuaipan">"Copier et coller des fichiers sur MiDrive"</string>
   <string name="utf8_summary">Codage par défaut</string>
   <string name="utf8_title">UTF-8</string>
+  <string name="wait_net">En attente de réseau</string>
+  <string name="wait_sdcard">En attente du montage de la carte SD</string>
+  <string name="wait_wifi">En attente d\'une connexion Wi-Fi</string>
   <string name="waiting">En attente...</string>
   <string name="wangpan_root_path">Mon disque</string>
   <string name="wifi_state">Statut du Wi-Fi</string>
