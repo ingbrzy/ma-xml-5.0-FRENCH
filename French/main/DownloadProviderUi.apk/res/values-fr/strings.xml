@@ -27,7 +27,7 @@
   <string name="download_error">Échec</string>
   <string name="download_error_insufficient_space">Espace insuffisant</string>
   <string name="download_in_process">Téléchargement</string>
-  <string name="download_info_count_deleted_tasks">%s téléchargement supprimés</string>
+  <string name="download_info_count_deleted_tasks">%s téléchargement(s) supprimé(s)</string>
   <string name="download_info_start_deleted_tasks">Supprimer les téléchargements</string>
   <string name="download_no_application_title">"Impossible d\'ouvrir le fichier"</string>
   <string name="download_paused">Téléchargement mis en pause</string>
