@@ -17,7 +17,7 @@
   <string name="cit_audio_loopback_dualmic_earpiece_title">Test d\'appel audio</string>
   <string name="cit_audio_loopback_next">Suivant</string>
   <string name="cit_audio_loopback_previous">Précédent</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test d'appel, parler en utilisant le micro principal et la voix sera entendue directement de l'appareil"</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test d\'appel, parler en utilisant le micro principal et la voix sera entendue directement de l\'appareil"</string>
   <string name="cit_battery_temp_fail">Le test de batterie a échoué avec (valeur=%d)</string>
   <string name="cit_battery_temp_pass">Test de batterie réussi</string>
   <string name="cit_batterylight_blue">Bleu</string>
@@ -71,7 +71,7 @@
   <string name="cit_front_camera_check_title">Tester l\'appareil photo (face avant)</string>
   <string name="cit_gps_check_summary">Ce test affichera les informations GPS</string>
   <string name="cit_gps_check_title">Test du GPS</string>
-  <string name="cit_gps_disabled">"Le GPS est désactivé, activez le depuis le menu d'activations rapides"</string>
+  <string name="cit_gps_disabled">"Le GPS est désactivé, activez le depuis le menu d\'activations rapides"</string>
   <string name="cit_gps_satellite_count">GPS Satellites : %d</string>
   <string name="cit_gps_satellite_prn">PRN : %s</string>
   <string name="cit_gps_satellite_snr">SNR : %s</string>

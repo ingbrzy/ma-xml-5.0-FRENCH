@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Import">Importer</string>
-  <string name="access_sd_fail">"Impossible d'accéder à la mémoire de stockage USB."</string>
+  <string name="access_sd_fail">"Impossible d\'accéder à la mémoire de stockage USB."</string>
   <string name="accessibility_camera_picker">Interrupteur des caméras avant et arrière</string>
   <string name="accessibility_review_thumbnail">Photo la plus récente</string>
   <string name="accessibility_shutter_button">Bouton de l\'obturateur</string>
@@ -9,7 +9,7 @@
   <string name="albums">Albums</string>
   <string name="aperture">Ouverture</string>
   <string name="auto">Automatique</string>
-  <string name="bg_replacement_message">"Placez votre appareil sur une surface stable et veillez à ce qu'il n'y ai aucun mouvement derrière vous. Puis sortez de la vision de la caméra."</string>
+  <string name="bg_replacement_message">"Placez votre appareil sur une surface stable et veillez à ce qu\'il n\'y ai aucun mouvement derrière vous. Puis sortez de la vision de la caméra."</string>
   <string name="camera_disabled">L\'appareil photo a été désactivé en raison des règles de sécurité.</string>
   <string name="camera_error_title">Erreur de l\'appareil photo.</string>
   <string name="camera_label">Appareil photo</string>
@@ -75,7 +75,7 @@
   <string name="group_by_time">Par date</string>
   <string name="hdr_exit_button_text">Quitter le mode HDR</string>
   <string name="height">Hauteur</string>
-  <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
+  <string name="image_file_name_format">"'IMG\'_ddMMyyyy_HHmmss"</string>
   <string name="import_complete">Importation terminée</string>
   <string name="import_fail">Échec de l\'importation !</string>
   <string name="iso">ISO</string>
@@ -94,11 +94,11 @@
   <string name="ok">OK</string>
   <string name="open">Ouvrir</string>
   <string name="orientation">Orientation</string>
-  <string name="pano_dialog_panorama_failed">"Impossible d'enregistrer le panorama"</string>
+  <string name="pano_dialog_panorama_failed">"Impossible d\'enregistrer le panorama"</string>
   <string name="pano_dialog_prepare_preview">Préparation vue panoramique...</string>
   <string name="pano_dialog_title">Panoramique</string>
   <string name="pano_dialog_waiting_previous">Attendre que le panorama précédent se termine</string>
-  <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
+  <string name="pano_file_name_format">"'PANO\'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Appuyez sur le déclencheur pour commencer à prendre des photos panoramiques</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Restez stable lors du déplacement</string>
   <string name="pano_how_to_use_prompt_to_move">Lors de la prise, essayez de garder le mouvement du téléphone stable</string>
@@ -409,13 +409,13 @@
   <string name="toast_burst_snap_finished_start">Rafale fini</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Le mode rafale n\'est pas supporté lorsque la capture audio est activée.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Le mode rafale n\'est pas supporté lorsque le HDR est activé.</string>
-  <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Le mode rafale n'est pas supporté quand l'ISO n'est défini sur 'auto'."</string>
+  <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Le mode rafale n\'est pas supporté quand l\'ISO n\'est défini sur \'auto'."</string>
   <string name="toast_start_audio_capture">Emmettre un son d\'obsturateur lors de la capture</string>
   <string name="undo">Annuler</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Caméra</string>
   <string name="video_err">"Impossible de lire le fichier vidéo."</string>
-  <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
+  <string name="video_file_name_format">"'VID\'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Taille maximale atteinte.</string>
   <string name="video_snapshot_hint">Prendre une photo pendant l\'enregistrement vidéo en tapant sur l\'écran de prévisualisation.</string>
   <string name="videocamera_settings_label">Paramètres de la caméra vidéo</string>
