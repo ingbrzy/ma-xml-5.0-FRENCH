@@ -17,7 +17,7 @@
   <string name="cit_audio_loopback_dualmic_earpiece_title">Test d\'appel audio</string>
   <string name="cit_audio_loopback_next">Suivant</string>
   <string name="cit_audio_loopback_previous">Précédent</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test d\'appel, parler en utilisant le micro principal et la voix sera entendue directement de l\'appareil"</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test d'appel, parler en utilisant le micro principal et la voix sera entendue directement de l'appareil"</string>
   <string name="cit_battery_temp_fail">Le test de batterie a échoué avec (valeur=%d)</string>
   <string name="cit_battery_temp_pass">Test de batterie réussi</string>
   <string name="cit_batterylight_blue">Bleu</string>
@@ -71,10 +71,12 @@
   <string name="cit_front_camera_check_title">Tester l\'appareil photo (face avant)</string>
   <string name="cit_gps_check_summary">Ce test affichera les informations GPS</string>
   <string name="cit_gps_check_title">Test du GPS</string>
-  <string name="cit_gps_disabled">Le GPS est désactivé, activez le depuis le menu d\'activations rapides</string>
+  <string name="cit_gps_disabled">"Le GPS est désactivé, activez le depuis le menu d'activations rapides"</string>
   <string name="cit_gps_satellite_count">GPS Satellites : %d</string>
   <string name="cit_gps_satellite_prn">PRN : %s</string>
   <string name="cit_gps_satellite_snr">SNR : %s</string>
+  <string name="cit_gyroscope_sensor_check_summary">Les valeurs du capteurs gyroscopiques pour les coordonnées X, Y, Z</string>
+  <string name="cit_gyroscope_sensor_check_title">Test Gyroscope</string>
   <string name="cit_headset_button_check_summary">Le test va afficher la touche de l\'appareil lorsqu\'elle sera activée</string>
   <string name="cit_headset_button_check_title">Test des écouteurs</string>
   <string name="cit_headset_button_click">Sélectionner le bouton du casque</string>
@@ -101,9 +103,7 @@
   <string name="cit_kayboard_volume_down">Test du bouton: VOLUME_DOWN</string>
   <string name="cit_kayboard_volume_up">Test du bouton: VOLUME_UP</string>
   <string name="cit_keyboard_back">Test du bouton: BACK</string>
-  <string name="cit_keyboard_camera">Bouton de test: CAMERA</string>
   <string name="cit_keyboard_current">Clavier : %s</string>
-  <string name="cit_keyboard_focus">Bouton de test: FOCUS</string>
   <string name="cit_keyboard_menu">Test du bouton: MENU</string>
   <string name="cit_keyboard_test_summary">Montre quelle touche matérielle est sélectionnée, ce test ne vérifie pas le bouton Accueil</string>
   <string name="cit_keyboard_test_title">Test du clavier</string>
@@ -119,7 +119,6 @@
   <string name="cit_magnetic_sensor_check_title">Test du capteur magnétique</string>
   <string name="cit_main_camera_check_summary">Test de la liste de contrôle: \n\n 1. Cliquez sur le bouton de l\'appareil photo pour ouvrir l\'appareil photo\n 2. Vérifier que le flash est activé\n 3. Cliquez sur la liste des photos\n 4. Cliquez sur le bouton OK, cela va automatiquement enregistrer l\'image\n 5. Vérifier que la photo s\'affiche correctement, et supprimez-la</string>
   <string name="cit_main_camera_check_title">Test de la caméra (face arrière)</string>
-  <string name="cit_main_camera_sdcard_error">Carte SD pleine, incapable de sauvegarder la photo</string>
   <string name="cit_name">Détection du matériel</string>
   <string name="cit_not_available">La version utilisateur ne permet pas ce test, seul le test d\'usine est disponible</string>
   <string name="cit_notificationlight">Indicateur de notification</string>
@@ -133,6 +132,8 @@
   <string name="cit_pointer_location_title">Test de l\'écran tactile</string>
   <string name="cit_power_check_summary">Ce test affiche la quantité de batterie disponible</string>
   <string name="cit_power_check_title">Test de la batterie</string>
+  <string name="cit_pressure_sensor_check_summary">Vérifier la valeur du capteur de pression</string>
+  <string name="cit_pressure_sensor_check_title">Test du capteur de pression</string>
   <string name="cit_proximity_sensor_check_summary">Couvrez le capteur de proximité avec votre doigt, les informations affichées vont de 0.0 (couvert) puis croissent</string>
   <string name="cit_proximity_sensor_check_title">Test du capteur de proximité</string>
   <string name="cit_reset_check_summary">Ce test nécessite un redémarrage du système</string>
@@ -206,12 +207,21 @@
   <string name="cit_tool_wifi_rx_ap_not_null">Le nom du point d\'accès ne peut pas être vide</string>
   <string name="cit_tool_wifi_rx_ap_type">Type du point d\'accès</string>
   <string name="cit_tool_wifi_rx_ap_type_error">Erreur de point d\'accès, entrez à nouveau les détails du bss / ad hoc</string>
+  <string name="cit_tool_wifi_rx_chan">Rx: Canal</string>
   <string name="cit_tool_wifi_rx_count_error">La valeur de sortie n\'est pas un nombre</string>
   <string name="cit_tool_wifi_rx_error">Une erreur s\'est produite</string>
   <string name="cit_tool_wifi_rx_exit">Rx: sortie</string>
   <string name="cit_tool_wifi_rx_run">Exécuter</string>
   <string name="cit_tool_wifi_rx_stop">Arrêter</string>
   <string name="cit_tool_wifi_rx_total_format">Transferé : %s</string>
+  <string name="cit_tool_wifi_tx_bg">Transmission : B/G</string>
+  <string name="cit_tool_wifi_tx_bg_chan">Canal :</string>
+  <string name="cit_tool_wifi_tx_bg_txpr">Puissance de Transmission :</string>
+  <string name="cit_tool_wifi_tx_bg_txrt">Débit de données :</string>
+  <string name="cit_tool_wifi_tx_n">Transmission : N</string>
+  <string name="cit_tool_wifi_tx_n_chan">Canal:</string>
+  <string name="cit_tool_wifi_tx_n_txpr">Puissance de transmission :</string>
+  <string name="cit_tool_wifi_tx_n_txrt">Débit de données : MCS</string>
   <string name="cit_torch_off">Éteindre la torche</string>
   <string name="cit_torch_on">Allumer la torche</string>
   <string name="cit_usb_OTG_in"> USB_OTG le périphérique est connecté </string>
