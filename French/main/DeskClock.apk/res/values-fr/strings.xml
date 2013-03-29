@@ -3,7 +3,7 @@
   <string name="add_alarm">Ajouter alarme</string>
   <string name="alarm_alert_alert_silenced">Alarme interrompue après %d minutes.</string>
   <string name="alarm_alert_dismiss_text">Quitter</string>
-  <string name="alarm_alert_snooze_set">Répétition dans %d minutes.</string>
+  <string name="alarm_alert_snooze_set">Répéter dans %d minutes</string>
   <string name="alarm_alert_snooze_text">Répéter</string>
   <string name="alarm_ascending_mode_summary">Alarme de plus en plus forte jusqu\'au volume défini dans les paramètres</string>
   <string name="alarm_ascending_mode_title">Alarme de plus en plus forte</string>
@@ -41,7 +41,7 @@
   <string name="day_concat">", "</string>
   <string name="days">%s jours</string>
   <string name="default_label">Alarme</string>
-  <string name="default_ringtone_setting_title">Définir la sonnerie par défaut</string>
+  <string name="default_ringtone_setting_title">Sonnerie par défaut</string>
   <string name="delelte_selected_timezone">Voulez-vous vraiment supprimer le(s) fuseau(x) horaire(s) ?</string>
   <string name="delete">Supprimer</string>
   <string name="delete_alarm">"Supprimer l\'alarme"</string>
@@ -114,7 +114,7 @@
   <string name="timezone_search_hint">Chercher une ville pour ajouter une horloge mondiale</string>
   <string name="volume_button_dialog_title">Effet des boutons</string>
   <string name="volume_button_setting_summary">Définir les actions de ces boutons lorsqu\'ils sont utilisés pendant une alarme</string>
-  <string name="volume_button_setting_title">Boutons du volume</string>
+  <string name="volume_button_setting_title">Boutons de volume</string>
   <string name="wait_when_operating_data_message">Opération en cours, veuillez patienter.</string>
   <string name="weather_fetch_failure">Les informations météo ne sont pas disponibles actuellement.</string>
   <string name="weekend_alarm_clock">Alarme pour les jours de congés</string>

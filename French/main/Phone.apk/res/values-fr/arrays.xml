@@ -41,7 +41,7 @@
         <item>NV</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY Off</item>
+        <item>TTY désactivé</item>
         <item>TTY Full</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>

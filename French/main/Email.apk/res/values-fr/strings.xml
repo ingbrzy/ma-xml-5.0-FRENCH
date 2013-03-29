@@ -478,7 +478,7 @@ Cc : %4$s
   <string name="preference_plus_sync_all_prompt_yes">Oui</string>
   <string name="preference_plus_sync_while_roaming">Transferts en itinérance</string>
   <string name="preference_plus_sync_while_roaming_summary">Transférer les photos et les vidéos en itinérance</string>
-  <string name="preference_plus_title">Param. Instant Upload</string>
+  <string name="preference_plus_title">Paramètres Instant Upload</string>
   <string name="preference_plus_upload_status">État du transfert</string>
   <string name="preference_summary_header_format">%1$s : %2$s</string>
   <string name="preference_summary_need_power">Transférer uniquement lorsque le téléphone est en charge</string>

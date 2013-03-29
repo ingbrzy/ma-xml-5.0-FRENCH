@@ -35,7 +35,7 @@
   <string name="answer_and_hangup_miui">Raccrocher et répondre</string>
   <string name="answer_features_setting_category_miui">Paramètres de réponse</string>
   <string name="answer_miui">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Ecran général.</string>
-  <string name="answer_state_setting_summary">Paramètres de retourner pour rendre muer, capteur de proximité, etc.</string>
+  <string name="answer_state_setting_summary">Paramètres de la coupure de sonnerie, du capteur de proximité, etc.</string>
   <string name="answer_state_setting_title">Paramètres d\'état d\'appel entrant</string>
   <string name="answer_state_setting_title_miui">Paramètres d\'état d\'appel entrant</string>
   <string name="answer_widget_dialog_title_miui">Sélectionnez votre geste de réponse</string>
@@ -153,12 +153,12 @@
   <string name="call_settings_category_miui">Paramètres d\'appel</string>
   <string name="call_settings_miui">Paramètres d\'appel</string>
   <string name="call_title_redialing_with_times_miui">Recomposé %d fois</string>
-  <string name="call_waiting_sum_miui">Pendant un appel, me signaler les appels entrants</string>
-  <string name="call_waiting_tone_continuously_miui">Jouer la tonalité en continu</string>
+  <string name="call_waiting_sum_miui">Me signaler les appels entrants pendant un appel</string>
+  <string name="call_waiting_tone_continuously_miui">"Jouer la tonalité en continu "</string>
   <string name="call_waiting_tone_stop_summary">(Appuyez sur la touche de volume pour arrêter la tonalité manuellement)</string>
   <string name="call_waiting_tone_title_miui">Tonalité d\'appel en attente</string>
-  <string name="call_waiting_tone_twice_and_vibrate_miui">Vibrer et jouer la tonalité deux fois</string>
-  <string name="call_waiting_tone_twice_only_miui">Jouer la tonalité deux fois seulement</string>
+  <string name="call_waiting_tone_twice_and_vibrate_miui">"Vibrer et jouer la tonalité deux fois "</string>
+  <string name="call_waiting_tone_twice_only_miui">"Jouer la tonalité deux fois seulement "</string>
   <string name="caller_id_sum_miui">Afficher/Masquer le numéro lors d\'un appel (si pris en charge par le réseau)</string>
   <string name="caller_id_title_miui">Affichage du numéro</string>
   <string name="caller_manage_header">Conférence téléphonique à %s</string>
@@ -412,7 +412,7 @@
   <string name="enable_sim_pin">Activer le code PIN de la carte SIM</string>
   <string name="enable_sim_pin_miui">Activer le code PIN de la carte SIM</string>
   <string name="enable_telocation_title_miui">Utiliser ma localisation</string>
-  <string name="enforce_proximity_summary_miui">Empêcher l\'utilisation abusive du téléphone lorsqu\'il est inactif</string>
+  <string name="enforce_proximity_summary_miui">Empêche les erreurs de manipulation lorsque le téléphone est inactif</string>
   <string name="enforce_proximity_title_miui">Forcer le capteur de proximité</string>
   <string name="enterName">Entrer le nom:</string>
   <string name="enterNumber">Entrer le numéro de téléphone :</string>
@@ -464,7 +464,7 @@ Voulez-vous tout de même changer de fournisseur ?\"</string>
   <string name="hac_mode_summary_miui">Activer la compatibilité avec les prothèses auditives</string>
   <string name="hac_mode_title">Assistance auditive</string>
   <string name="hac_mode_title_miui">Prothèses auditives</string>
-  <string name="handon_ringer_summary_miui">En vain si vibration activée pour les appels entrants</string>
+  <string name="handon_ringer_summary_miui">En vain si la vibration est activée pour les appels entrants</string>
   <string name="handon_ringer_title_miui">En silencieux dès la prise en main</string>
   <string name="hangup_sms_miui">Rejeter avec un SMS</string>
   <string name="ignore_miui">Ignorer</string>
@@ -494,7 +494,7 @@ Voulez-vous tout de même changer de fournisseur ?\"</string>
   <string name="incall_error_supp_service_transfer">"Impossible de transférer l\'appel."</string>
   <string name="incall_error_supp_service_unknown">"Ce service n\'est pas pris en charge."</string>
   <string name="incall_screen_background_summary_miui">"Utiliser le fond d\'écran de verrouillage si le correspondant n\'a pas d\'avatar"</string>
-  <string name="incall_screen_background_title_miui">Fond d\'écran de l\'interface d\'appel</string>
+  <string name="incall_screen_background_title_miui">Écran de l\'interface d\'appel</string>
   <string name="incall_status_dialed_mmi">Lancement de la séquence IHM...</string>
   <string name="international_disable">Option \"Actualités internationales\" désactivée</string>
   <string name="international_enable">Option \"Actualités internationales\" activée</string>
@@ -516,7 +516,7 @@ Voulez-vous tout de même changer de fournisseur ?\"</string>
   <string name="labelCF">"Transfert d\'appel"</string>
   <string name="labelCFB">Transférer si ligne occupée</string>
   <string name="labelCFNRc">Transférer si injoignable</string>
-  <string name="labelCFNRy">Transf. si sans réponse</string>
+  <string name="labelCFNRy">Transférer si sans réponse</string>
   <string name="labelCFU">Toujours transférer</string>
   <string name="labelCW">Appel en attente</string>
   <string name="labelCallerId">"Numéro de l\'appelant"</string>
@@ -578,7 +578,7 @@ Voulez-vous tout de même changer de fournisseur ?\"</string>
   <string name="missed_call_notify_once_miui">1 fois</string>
   <string name="missed_call_notify_ten_times_miui">10 fois</string>
   <string name="missed_call_notify_thrice_miui">3 fois</string>
-  <string name="missed_call_notify_times_summary_miui">Par défaut, répèter toutes les 5 minutes pour les appels manqués</string>
+  <string name="missed_call_notify_times_summary_miui">Par défaut, répéter toutes les 5 minutes pour les appels manqués</string>
   <string name="missed_call_notify_times_title_miui">Rappel des appels manqués</string>
   <string name="missed_call_notify_twice_miui">2 fois</string>
   <string name="mmiCancelled">Code IHM annulé</string>
@@ -816,7 +816,7 @@ Appuyez sur OK pour continuer.\"</string>
   <string name="registration_status_registering">Enregistrement en cours...</string>
   <string name="registration_status_server_unreachable">"Échec de l\'enregistrement du compte : veuillez vérifier le nom du serveur."</string>
   <string name="registration_status_still_trying">Tentative en cours...</string>
-  <string name="reject_via_sms_miui">Rejeter par SMS</string>
+  <string name="reject_via_sms_miui">Rejet par SMS</string>
   <string name="reject_via_sms_summary_miui">Définissez le SMS à envoyer à l\'appelant si l\'appel est rejeté</string>
   <string name="reject_via_sms_title_miui">Paramètres du rejet par SMS</string>
   <string name="remember_my_choice">Utiliser systématiquement pour passer des appels Internet</string>
@@ -838,7 +838,7 @@ Appuyez sur OK pour continuer.\"</string>
   <string name="requesting_unlock">Demande de déblocage du réseau...</string>
   <string name="reset_my_choice_hint">"Vous pouvez changer le compte à utiliser par défaut pour les appels Internet depuis l\'écran Téléphone &gt; Paramètres &gt; Paramètres d\'appel Internet &gt; Comptes."</string>
   <string name="respond_via_sms_canned_response_1">Peux pas parler. Quoi de neuf ?</string>
-  <string name="respond_via_sms_canned_response_1_miui">"Désolé(e) je ne peux pas répondre au téléphone en ce moment. Je vous rappellerai plus tard."</string>
+  <string name="respond_via_sms_canned_response_1_miui">"Désolé je ne peux pas répondre au téléphone en ce moment. Je vous rappellerai plus tard."</string>
   <string name="respond_via_sms_canned_response_2">Je te rappelle tout de suite.</string>
   <string name="respond_via_sms_canned_response_2_miui">"Je suis désolé je ne peux pas répondre au téléphone en ce moment. Que puis-je faire pour vous ?"</string>
   <string name="respond_via_sms_canned_response_3">"Je t\'appellerai plus tard."</string>
@@ -1079,7 +1079,7 @@ Veuillez contacter votre opérateur si le problème persiste.\"</string>
   <string name="voicemail_provider_sum_miui">Sélectionner un service de messagerie vocale</string>
   <string name="voicemail_settings">Configuration</string>
   <string name="voicemail_settings_for">Paramètres %s</string>
-  <string name="voicemail_settings_miui">Param. messagerie vocale</string>
+  <string name="voicemail_settings_miui">Paramètres de messagerie vocale</string>
   <string name="voicemail_settings_number_hint_miui">Saisir le numéro de la messagerie vocale</string>
   <string name="voicemail_settings_number_label">N° messagerie vocale</string>
   <string name="voicemail_settings_number_title_miui">N° de messagerie vocale</string>

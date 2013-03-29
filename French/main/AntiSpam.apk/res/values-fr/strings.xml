@@ -115,7 +115,7 @@
   <string name="no">"Annuler"</string>
   <string name="number_add_hint">"Ajouter le numéro à la liste noire"</string>
   <string name="opt_accept_whitelist">"Accepter si dans liste blanche"</string>
-  <string name="opt_reject_all">"Rejeter tout"</string>
+  <string name="opt_reject_all">"Tout rejeter"</string>
   <string name="opt_reject_blacklist">"Rejeter si dans liste noire"</string>
   <string name="opt_reject_blacklist_stranger">"Rejeter les appels inconnus"</string>
   <string name="opt_reject_blacklist_stranger_summary">"Les appels provenant de la liste noire seront rejetés, mais ceux de la liste blanche seront autorisés"</string>

@@ -217,7 +217,7 @@
   <string name="multi_select_title">"%1$s élément(s) sélectionné(s)"</string>
   <string name="name">"Libellé"</string>
   <string name="new_folder">"Nouveau dossier"</string>
-  <string name="new_incognito_tab">"Nouvel onglet navig. privée"</string>
+  <string name="new_incognito_tab">"Nouvel onglet navigation privée"</string>
   <string name="new_tab">"Nouvel onglet"</string>
   <string name="no_subfolders">"Aucun sous-dossier"</string>
   <string name="not_remind_again">"Ne plus me le rappeler"</string>
@@ -256,15 +256,15 @@
   <string name="pref_content_load_page_summary">"Afficher un aperçu des pages ouvertes récemment"</string>
   <string name="pref_content_night_read_mode">"Activer le mode Nuit"</string>
   <string name="pref_content_open_in_background">"Ouvrir en arrière-plan"</string>
-  <string name="pref_content_open_in_background_summary">"Ouvrir nouveaux onglets derrière l'onglet actuel"</string>
+  <string name="pref_content_open_in_background_summary">"Ouvrir le nouvel onglet derrière l'onglet actuel"</string>
   <string name="pref_content_plugins">"Activer les plug-ins"</string>
   <string name="pref_content_search_engine">"Définir le moteur de recherche"</string>
   <string name="pref_content_search_engine_summary">"Sélectionner un moteur de recherche"</string>
   <string name="pref_content_title">"Contenu de la page"</string>
   <string name="pref_data_preload_dialogtitle">"Préchargement des résultats de recherche"</string>
   <string name="pref_data_preload_summary">"Autoriser le préchargement des résultats de recherche fiables en arrière-plan"</string>
-  <string name="pref_data_preload_title">"Préchargement résultats recherche"</string>
-  <string name="pref_data_title">"Gestion bande passante"</string>
+  <string name="pref_data_preload_title">"Précharger les résultats de recherche"</string>
+  <string name="pref_data_title">"Gestion de la bande passante"</string>
   <string name="pref_default_text_encoding">"Encodage du texte"</string>
   <string name="pref_default_text_encoding_default">"Latin-1"</string>
   <string name="pref_default_text_encoding_dialogtitle">"Codage du texte"</string>
@@ -316,7 +316,7 @@
   <string name="pref_lab_quick_controls">"Commandes rapides"</string>
   <string name="pref_lab_quick_controls_summary">"Faites glisser votre pouce vers droite ou gauche pour ouvrir les commandes rapides et masquer les barres des applis/URL."</string>
   <string name="pref_lab_title">"Labs"</string>
-  <string name="pref_link_prefetch_dialogtitle">"Préchargement des pages Web"</string>
+  <string name="pref_link_prefetch_dialogtitle">"Précharger les pages Web"</string>
   <string name="pref_link_prefetch_summary">"Autoriser le navigateur à précharger en arrière-plan les pages Web associées"</string>
   <string name="pref_link_prefetch_title">"Préchargement des pages Web"</string>
   <string name="pref_min_font_size">"Taille de police minimale"</string>
@@ -327,7 +327,7 @@
   <string name="pref_privacy_clear_cookies">"Effacer tous les cookies"</string>
   <string name="pref_privacy_clear_cookies_dlg">"Supprimer tous les cookies ?"</string>
   <string name="pref_privacy_clear_cookies_summary">"Effacer tous les cookies du navigateur"</string>
-  <string name="pref_privacy_clear_form_data">"Eff. données formulaires"</string>
+  <string name="pref_privacy_clear_form_data">"Effacer données formulaires"</string>
   <string name="pref_privacy_clear_form_data_dlg">"Supprimer toutes les données de formulaire enregistrées ?"</string>
   <string name="pref_privacy_clear_form_data_summary">"Effacer toutes les données de formulaire enregistrées"</string>
   <string name="pref_privacy_clear_geolocation_access">"Supprimer l'accès"</string>
@@ -343,7 +343,7 @@
   <string name="pref_privacy_enable_geolocation">"Activer la localisation"</string>
   <string name="pref_privacy_enable_geolocation_summary">"Autoriser les sites à demander l'accès à vos données de localisation"</string>
   <string name="pref_privacy_formdata_title">"Données de formulaire"</string>
-  <string name="pref_privacy_location_title">"Lieu"</string>
+  <string name="pref_privacy_location_title">"Location"</string>
   <string name="pref_privacy_security_title">"Confidentialité et sécurité"</string>
   <string name="pref_reading_mode_enabled_title">"Mode de lecture"</string>
   <string name="pref_reading_mode_enabled_title_summary">"JavaScript doit être activé"</string>
@@ -354,7 +354,7 @@
   <string name="pref_security_remember_passwords_summary">"Enregistrer les noms d'utilisateur et les mots de passe pour les sites Web"</string>
   <string name="pref_security_save_form_data">"Données de formulaires"</string>
   <string name="pref_security_save_form_data_summary">"Mémoriser les données saisies dans les formulaires pour les réutiliser"</string>
-  <string name="pref_security_show_security_warning">"Avertiss. de sécurité"</string>
+  <string name="pref_security_show_security_warning">"Avertissement de sécurité"</string>
   <string name="pref_security_show_security_warning_summary">"Afficher un avertissement en cas de problème de sécurité d'un site"</string>
   <string name="pref_set_homepage_to">"Définir sur"</string>
   <string name="pref_setting_title">"Paramètres de pagination"</string>

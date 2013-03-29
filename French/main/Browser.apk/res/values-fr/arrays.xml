@@ -65,19 +65,19 @@
         <item>Korean (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
-        <item>Jamais</item>
-        <item>Uniquement sur une connexion Wi-Fi</item>
-        <item>Toujours</item>
+        <item>"Jamais "</item>
+        <item>"Uniquement sur une connexion Wi-Fi "</item>
+        <item>"Toujours "</item>
     </string-array>
     <string-array name="pref_link_prefetch_choices">
-        <item>Jamais</item>
-        <item>Uniquement sur une connexion Wi-Fi</item>
-        <item>Toujours</item>
+        <item>"Jamais "</item>
+        <item>"Uniquement sur une connexion Wi-Fi "</item>
+        <item>"Toujours "</item>
     </string-array>
     <string-array name="pref_video_preload_choices">
-        <item>Jamais</item>
-        <item>Uniquement sur une connexion Wi-Fi</item>
-        <item>Toujours</item>
+        <item>"Jamais "</item>
+        <item>"Uniquement sur une connexion Wi-Fi "</item>
+        <item>"Toujours "</item>
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>

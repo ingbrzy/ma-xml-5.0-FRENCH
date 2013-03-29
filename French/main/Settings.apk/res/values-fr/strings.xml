@@ -138,7 +138,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="auto_caps_summary">"Mettre une majuscule en début de phrase"</string>
   <string name="auto_launch_disable_text">"Aucun paramètre par défaut défini"</string>
   <string name="auto_launch_enable_text">"Vous avez choisi de lancer cette application par défaut pour certaines actions."</string>
-  <string name="auto_launch_label">"Lancer par défaut"</string>
+  <string name="auto_launch_label">"Lanceur par défaut"</string>
   <string name="auto_launch_label_generic">"Paramètres par défaut"</string>
   <string name="auto_punctuate">"Ponctuation automatique"</string>
   <string name="auto_punctuate_summary">"Appuyez deux fois sur la touche Espace pour insérer \".\""</string>
@@ -801,7 +801,7 @@ Certaines applications peuvent ne pas fonctionner jusqu'à ce que leurs dévelop
   <string name="filter_apps_running">"En cours"</string>
   <string name="filter_apps_third_party">"Téléchargées"</string>
   <string name="filter_dlg_title">"Sélectionner les options du filtre"</string>
-  <string name="finish_application">"Finir"</string>
+  <string name="finish_application">"Terminer"</string>
   <string name="finish_button_label">"Terminer"</string>
   <string name="firmware_version">"Version Android"</string>
   <string name="font_size_huge">"Énorme"</string>
@@ -1292,7 +1292,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_su_switch">"Autorisation ROOT"</string>
   <string name="perm_summary_disabled">"Désactivé"</string>
   <string name="perm_summary_enabled">"Activé"</string>
-  <string name="perm_sysopt_boost_auto_start">"Autorisation de démarrage automatique"</string>
+  <string name="perm_sysopt_boost_auto_start">"Autorisation de démarrage auto"</string>
   <string name="perm_sysopt_boost_auto_start_group">"Démarrage Automatique"</string>
   <string name="perm_sysopt_boost_auto_start_summary">"Autoriser ce processus à démarrer automatiquement"</string>
   <string name="perm_sysopt_boost_boot">"Démarrage"</string>
@@ -1304,8 +1304,8 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_user_app">"Apps téléchargées (%d)"</string>
   <string name="perm_version">"Version : %1$s"</string>
   <string name="permission_detail_info">"Voir les information de permission"</string>
-  <string name="permission_detail_info_summary">"Toutes les autorisations : Sûre %1$d, Privée %2$d, Autres %3$d"</string>
-  <string name="permission_manage">"Gestion d'autorisation"</string>
+  <string name="permission_detail_info_summary">"Toutes les autorisations : Sûres %1$d, Privées %2$d, Autres %3$d"</string>
+  <string name="permission_manage">"Gestion d'autorisations"</string>
   <string name="permission_manage_summary">"Démarrage automatique, vie privée, gestion d'autorisation sécurisée"</string>
   <string name="permission_manage_title">"%s détails de permission"</string>
   <string name="permissions_label">"Permissions"</string>
@@ -1348,12 +1348,12 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="preferred_launcher_warning_message">"Remplacer le lanceur par défaut peut entrainer une hausse de l'utilisation de ressources. Êtes-vous sur de vouloir continuer ?"</string>
   <string name="preferred_launcher_warning_replace">"Remplacer le lanceur"</string>
   <string name="preferred_launcher_warning_title">"Remplacement du lanceur par défaut"</string>
-  <string name="preferred_launcher_warning_use_system">"Utiliser le lanceur par défaut"</string>
+  <string name="preferred_launcher_warning_use_system">"Conserver le lanceur"</string>
   <string name="preferred_media_app_summary">"Choisissez le lecteur de musique"</string>
   <string name="privacy_mode_enable_sum">"Cacher l'historique d'appel, les messages et autres données lors de l'utilisation du mode privé"</string>
   <string name="privacy_mode_enable_title">"Activer le mode privé"</string>
   <string name="privacy_protect_title">"Protection des données personnelles"</string>
-  <string name="privacy_relative">"Confidentialité lié"</string>
+  <string name="privacy_relative">"Confidentialité"</string>
   <string name="privacy_settings">"Sauvegarder et réinitialiser"</string>
   <string name="privacy_settings_title">"Sauvegarder et réinitialiser"</string>
   <string name="private_sms_need_to_unlock">"Veuillez entrer le mot de passe SMS privé"</string>
@@ -1579,7 +1579,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="search_wifi">"Wi-Fi"</string>
   <string name="security_passwords_title">"Mots de passe"</string>
   <string name="security_privacy_settings_title">"Sécurité et confidentialité"</string>
-  <string name="security_relative">"Liés à la sécurité"</string>
+  <string name="security_relative">"Sécurité"</string>
   <string name="security_settings_desc">"Cette application peut accéder aux éléments suivants de votre téléphone :"</string>
   <string name="security_settings_desc_multi">"Cette application peut accéder aux éléments de votre téléphone répertoriés ci-dessous. Afin d'améliorer les performances et de réduire l'utilisation de la mémoire, certaines autorisations sont accordées à %1$s, car elle s'exécute au sein du même processus que les applications %2$s : "</string>
   <string name="security_settings_summary">"Définir les paramètres de l'option Ma position et de verrouillage"</string>
