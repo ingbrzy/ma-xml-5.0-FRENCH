@@ -356,7 +356,7 @@
     <string name="permdesc_setDebugApp">Permet à l\'application d\'activer le débogage d\'une autre application. Des applications malveillantes peuvent exploiter cette fonctionnalité pour en fermer d\'autres.</string>
     <string name="permlab_changeConfiguration">modifier les paramètres d\'affichage du système</string>
     <string name="permdesc_changeConfiguration">Permet à l\'application de modifier la configuration actuelle, par exemple les paramètres régionaux ou la taille de la police.</string>
-    <string name="permlab_enableCarMode">activer le mode voiture</string>
+    <string name="permlab_enableCarMode">activer le mode Voiture</string>
     <string name="permdesc_enableCarMode">Permet à l\'application d\'activer le mode Voiture.</string>
     <string name="permlab_killBackgroundProcesses">fermer les autres applications</string>
     <string name="permdesc_killBackgroundProcesses">Permet à l\'application de mettre fin aux processus d\'autres applications exécutés en arrière-plan. Cette autorisation peut interrompre l\'exécution d\'autres applications.</string>

@@ -31,7 +31,7 @@
   <string name="accessibility_service_default_description">"Aucune description fournie"</string>
   <string name="accessibility_service_disable_warning_summary">"Si vous appuyez sur \"OK\", %1$s sera arrêté."</string>
   <string name="accessibility_service_disable_warning_title">"Arrêter %1$s ?"</string>
-  <string name="accessibility_service_no_apps_message">"TalkBack fournit des commentaires audio aux personnes malvoyantes. Voulez-vous l\'installer gratuitement depuis l\'Android Market ?"</string>
+  <string name="accessibility_service_no_apps_message">"TalkBack fournit des commentaires audio aux personnes malvoyantes. Voulez-vous l\'installer gratuitement depuis le Play Store ?"</string>
   <string name="accessibility_service_no_apps_title">"Avez-vous besoin d\'un lecteur d\'écran ?"</string>
   <string name="accessibility_service_security_warning_summary">"%1$s peut recueillir la totalité du texte que vous saisissez, à l\'exception des mots de passe. Ceci comprend les données personnelles, telles que le numéro de votre carte de paiement, mais également les données sur vos interactions avec le téléphone."</string>
   <string name="accessibility_service_security_warning_title">"Utiliser %1$s ?"</string>
@@ -107,7 +107,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="apn_type">"Type d\'APN"</string>
   <string name="apn_user">"Nom d\'utilisateur"</string>
   <string name="app_disable_dlg_text">"Si vous désactivez une application intégrée, cela peut provoquer des dysfonctionnements d\'autres applications."</string>
-  <string name="app_disable_dlg_title">"Désactiver appli intégrée ?"</string>
+  <string name="app_disable_dlg_title">"Désactiver app intégrée ?"</string>
   <string name="app_disable_notifications_dlg_text">"Si vous désactivez les notifications de cette application, vous risquez de manquer des alertes et des mises à jour importantes."</string>
   <string name="app_disable_notifications_dlg_title">"Désactiver les notifications ?"</string>
   <string name="app_factory_reset">"Désinstaller les mises à jour"</string>
@@ -148,7 +148,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="auto_restore_title">"Restaurer automatiquement"</string>
   <string name="auto_startup_application_manage">"Contrôle d\'application"</string>
   <string name="auto_startup_count">"Démarrage automatique de %d applications"</string>
-  <string name="auto_startup_dialog_msg">"\"MIUI autorisera l\'application à démarrer automatiquement sans demander. Cela peut conduire à une consommation d\'énergie/de données. Autoriser le démarrage automatique ?»"</string>
+  <string name="auto_startup_dialog_msg">"MIUI autorisera l\'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d\'énergie et de données.
+  Autoriser le démarrage automatique ?"</string>
   <string name="automatic_brightness">"Ajuster automatiquement la luminosité"</string>
   <string name="available_size">"%s disponible"</string>
   <string name="awake">"Durée de fonctionnement de l\'appareil"</string>
@@ -737,7 +738,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="dolby_roomsize_normal">"Salle normale"</string>
   <string name="dolby_roomsize_summary">"Son surround disponible avec les écouteurs"</string>
   <string name="dolby_roomsize_title">"Mode surround : \u0020"</string>
-  <string name="drive_mode">"Mode voiture"</string>
+  <string name="drive_mode">"Mode Voiture"</string>
   <string name="drive_mode_auto_reply">"Réponse automatique"</string>
   <string name="drive_mode_auto_sms_reply_content">"Désolé, je suis actuellement au volant, je ne peux donc pas vous répondre. Je vous recontacterais plus tard."</string>
   <string name="drive_mode_auto_sms_reply_content_title">"Contenu de la réponse"</string>
@@ -745,10 +746,10 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="drive_mode_invert_stop_report">"Retourner pour arrêter les rapports"</string>
   <string name="drive_mode_only_contact_reply">"Vers la liste de contacts"</string>
   <string name="drive_mode_phone_report">"Appels"</string>
-  <string name="drive_mode_settings">"Activer le mode voiture"</string>
+  <string name="drive_mode_settings">"Activer le mode Voiture"</string>
   <string name="drive_mode_sms_auto_sms_reply">"Réponse par SMS automatique"</string>
   <string name="drive_mode_sms_report">"Messages"</string>
-  <string name="drive_mode_title">"Paramètres du mode voiture"</string>
+  <string name="drive_mode_title">"Paramètres du mode Voiture"</string>
   <string name="drive_mode_voice_report">"Rapport de la voix"</string>
   <string name="dtmf_tone_enable_title">"Numérotation sonore"</string>
   <string name="emergency_tone_summary">"Définir le comportement en cas d\'appel d\'urgence"</string>
@@ -757,8 +758,8 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="enableNetwork">"enableNetwork"</string>
   <string name="enable_adb">"Débogage USB"</string>
   <string name="enable_adb_summary">"Mode débogage lorsqu\'un câble USB est connecté"</string>
-  <string name="enable_assist_key_long_press">"Appui long ouvre l\'appli. Voix"</string>
-  <string name="enable_back_long_press">"Appui long ferme l\'appli."</string>
+  <string name="enable_assist_key_long_press">"Appui long ouvre l\'app Voix"</string>
+  <string name="enable_back_long_press">"Appui long ferme l\'app."</string>
   <string name="enable_compatibility">"Mettre l\'application à l\'échelle"</string>
   <string name="enable_drive_mode">"Activer le mode conduite"</string>
   <string name="enable_snapshot_screenlock">"Appui long pour capture d\'écran"</string>
@@ -772,7 +773,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
 
 Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs développeurs les mettent à jour.\""</string>
   <string name="enforce_read_external_confirm_title">"Protéger mémoire stockage USB ?"</string>
-  <string name="enforce_read_external_summary">"Les applis doivent demander l\'autorisation pour lire la mémoire."</string>
+  <string name="enforce_read_external_summary">"Les applications doivent demander l\'autorisation pour lire la mémoire."</string>
   <string name="enforce_read_external_title">"Protéger le stockage USB"</string>
   <string name="enter_password">"Saisir le mot de passe pour déchiffrer la mémoire de stockage"</string>
   <string name="erase_application">"Effacer les applications"</string>
@@ -796,7 +797,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="fcc_equipment_id">"ID de l\'équipement"</string>
   <string name="filter">"Filtrer"</string>
   <string name="filter_apps_all">"Toutes"</string>
-  <string name="filter_apps_cached">"Mise en cache"</string>
+  <string name="filter_apps_cached">"En cache"</string>
   <string name="filter_apps_onsdcard">"Stockage USB"</string>
   <string name="filter_apps_running">"En cours"</string>
   <string name="filter_apps_third_party">"Téléchargées"</string>
@@ -816,7 +817,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="force_hw_ui">"Forcer le rendu GPU"</string>
   <string name="force_hw_ui_summary">"Forcer l\'utilisation du GPU pour le dessin 2D"</string>
   <string name="force_stop">"Forcer l\'arrêt"</string>
-  <string name="force_stop_dlg_text">"Si vous forcez l\'arrêt d\'une application, cela peut provoquer son dysfonctionnement."</string>
+  <string name="force_stop_dlg_text">"Forcer l\'arrêt d\'une application peut provoquer son dysfonctionnement."</string>
   <string name="force_stop_dlg_title">"Forcer l\'arrêt ?"</string>
   <string name="forget_wifi_message">"Oublier ce réseau Wi-Fi ? Il se peut que vous deviez entrer le mot de passe lorsque vous vous y connecterez à nouveau"</string>
   <string name="frequently_fragment_delete">"Supprimer"</string>
@@ -1267,11 +1268,11 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_privacy_app_log">"Journal"</string>
   <string name="perm_privacy_app_manage">"Détails"</string>
   <string name="perm_privacy_app_trust">"Je fais confiance à cette app"</string>
-  <string name="perm_privacy_app_trust_dialog_content">"MIUI ne vous demandera plus votre confirmation pour les autorisations touchant à la sécurité et la confidentialité de cette appli."</string>
+  <string name="perm_privacy_app_trust_dialog_content">"MIUI ne vous demandera plus de confirmation pour les autorisations liées à votre sécurité et confidentialité provenant de cette application."</string>
   <string name="perm_privacy_app_trust_dialog_title">"Faire confiance à cette app"</string>
   <string name="perm_privacy_app_trust_summary">"De confiance"</string>
-  <string name="perm_privacy_app_trust_summary_off">"MIUI suivra cette application"</string>
-  <string name="perm_privacy_app_trust_summary_on">"MIUI fera confiance à cette app"</string>
+  <string name="perm_privacy_app_trust_summary_off">"MIUI surveillera cette application"</string>
+  <string name="perm_privacy_app_trust_summary_on">"MIUI fera confiance à cette application"</string>
   <string name="perm_privacy_app_uninstall">"Désinstaller"</string>
   <string name="perm_privacy_count">"Autorisé: %1$d Refusé: %2$d"</string>
   <string name="perm_service_disabled">"Service désactivé"</string>
@@ -1282,12 +1283,12 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_su_desc">"Surveille %1$d apps pour la permission ROOT"</string>
   <string name="perm_su_desc1">"Gérer les autorisations ROOT"</string>
   <string name="perm_su_disabled">"Permission ROOT désactivée"</string>
-  <string name="perm_su_disabled_desc">"Donner l\'autorisation aux apps tierces peut provoquer des instabilités système, la perte de données personnelles, système ou des dommages matériels. Veuillez être certain de ce que vous faites."</string>
+  <string name="perm_su_disabled_desc">"Donner l\'autorisation aux applications tierces peut provoquer des instabilités système, la perte de données personnelles, système ou des dommages matériels. Veuillez être certain de ce que vous faites."</string>
   <string name="perm_su_disabled_in_stable">"ROOT n\'est pas disponible dans la version stable de MIUI"</string>
-  <string name="perm_su_disabled_in_stable_desc">"Donner l\'autorisation aux apps tierces peut provoquer des instabilités système, la perte de données personnelles, système ou des dommages matériels. Veuillez passer à la version de développement de MIUI pour permettre la permission ROOT."</string>
+  <string name="perm_su_disabled_in_stable_desc">"Donner l\'autorisation aux applications tierces peut provoquer des instabilités système, la perte de données personnelles, système ou des dommages matériels. Veuillez passer à la version de développement de MIUI pour permettre la permission ROOT."</string>
   <string name="perm_su_disabled_in_stable_download">"Télécharger MIUI"</string>
-  <string name="perm_su_enable_content">"L\'activer permettra aux apps de demander la permission ROOT. Remarque: Donner l\'autorisation aux apps peut provoquer des instabilités système, la perte de données personnelles, système ou des dommages matériels, veuillez être prudent. Souhaitez-vous l\'activer ?"</string>
-  <string name="perm_su_enable_dialog">"%1$s cherche à obtenir la permission système ROOT qui est désactivé par défaut pour garantir la sécurité du système. Si vous en avez besoin allez dans les paramètres du gestionnaire d\'autorisations."</string>
+  <string name="perm_su_enable_content">"L\'activer permettra aux applications de demander la permission ROOT. Remarque: Donner l\'autorisation aux applications peut provoquer des instabilités système, la perte de données personnelles, système ou des dommages matériels, veuillez être prudent. Souhaitez-vous l\'activer ?"</string>
+  <string name="perm_su_enable_dialog">"%1$s cherche à obtenir la permission ROOT système qui est désactivée par défaut pour garantir la sécurité du système. Si vous en avez besoin allez dans les paramètres du gestionnaire d\'autorisations."</string>
   <string name="perm_su_enable_title">"Autorisation ROOT"</string>
   <string name="perm_su_switch">"Autorisation ROOT"</string>
   <string name="perm_summary_disabled">"Désactivé"</string>
@@ -1461,8 +1462,8 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="remove_account_label">"Supprimer le compte"</string>
   <string name="remove_device_admin">"Désactiver"</string>
   <string name="remove_from_frequently_fragment">"Supprimer \"%s\" des paramètres communs ?"</string>
-  <string name="reset_app_preferences">"Réinitialiser préf. applis"</string>
-  <string name="reset_app_preferences_button">"Réinitialiser applis"</string>
+  <string name="reset_app_preferences">"Réinitialiser préf. des apps"</string>
+  <string name="reset_app_preferences_button">"Réinitialiser apps"</string>
   <string name="reset_app_preferences_desc">"\"Cette opération entraîne la réinitialisation de toutes les préférences pour : 
 
  \"<li>les applications désactivées ;</li>\"
@@ -1547,7 +1548,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="search_about">"À propos"</string>
   <string name="search_accelerometer">"Accéléromètre"</string>
   <string name="search_access_control">"Contrôle d\'accès"</string>
-  <string name="search_airplane">"Mode avion"</string>
+  <string name="search_airplane">"Mode Avion"</string>
   <string name="search_android_beam">"Beam"</string>
   <string name="search_battery_indicator">"Indicateur de batterie"</string>
   <string name="search_bluetooth">"Bluetooth"</string>
@@ -1619,7 +1620,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="settings_safetylegal_activity_unreachable">"Vous n\'avez pas de connexion Internet. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet."</string>
   <string name="settings_safetylegal_title">"Informations de sécurité"</string>
   <string name="settings_shortcut">"Raccourci vers les paramètres"</string>
-  <string name="show_all_anrs">"Afficher FC d\'applis en arrière-plan"</string>
+  <string name="show_all_anrs">"Afficher FC d\'apps en arrière-plan"</string>
   <string name="show_all_anrs_summary">"Afficher \"L\'application ne répond plus\" pour les applications en arrière-plan"</string>
   <string name="show_background_processes">"Voir processus en cache"</string>
   <string name="show_cpu_usage">"Afficher mém. CPU utilisée"</string>
@@ -1738,7 +1739,7 @@ Le code PIN est peut-être incorrect.\""</string>
   <string name="summary_font_size">"%1$s"</string>
   <string name="supplicant_state_label">"État suppliant:"</string>
   <string name="sync_active">"Synchronisation activée"</string>
-  <string name="sync_automatically">"Synchro auto des données des applis"</string>
+  <string name="sync_automatically">"Synchro auto des données des apps"</string>
   <string name="sync_calendar">"Agenda"</string>
   <string name="sync_contacts">"Contacts"</string>
   <string name="sync_disabled">"Synchronisation désactivée"</string>
@@ -1786,8 +1787,8 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="trackball_settings">"Boule de commande"</string>
   <string name="trackball_wake_title">"Boule de commande éveillée"</string>
   <string name="transition_animation_scale_title">"Échelle animation transitions"</string>
-  <string name="trust_switch_dialog_msg">"\"Miui ne vous demandera pas de confirmation sur la sécurité et la confidentialité lié à cette app. Assurez-vous de savoir ce que vous faîtes. 
-Faire confiance à cette app. ?\""</string>
+  <string name="trust_switch_dialog_msg">"Miui ne vous demandera plus de confirmation pour les opérations liées a votre sécurité et confidentialité provenant de cette application.
+  Faire confiance à cette application ?"</string>
   <string name="trusted_credentials">"Certificats de confiance"</string>
   <string name="trusted_credentials_disable_confirmation">"Désactiver le certificat d\'autorité du système ?"</string>
   <string name="trusted_credentials_disable_label">"Désactiver"</string>

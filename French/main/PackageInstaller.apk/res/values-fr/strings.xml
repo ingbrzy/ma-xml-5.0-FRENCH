@@ -7,7 +7,8 @@ Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?\"<
   <string name="app_name">"Programme d\'installation du kit"</string>
   <string name="app_not_found_dlg_text">"L\'application ne figure pas dans la liste des applications installées."</string>
   <string name="app_not_found_dlg_title">Application non trouvée</string>
-  <string name="auto_startup_dialog_msg">"MIUI autorisera l\'application à démarrer automatiquement sans confirmation. Cela peut engendrer une consommation de puissance ou de données. Autoriser le démarrage automatique ?"</string>
+  <string name="auto_startup_dialog_msg">"MIUI autorisera l\'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d\'énergie et de données.
+  Autoriser le démarrage automatique ?"</string>
   <string name="caller_app">Demandeur : %1$s</string>
   <string name="cancel">Annuler</string>
   <string name="dlg_app_replacement_statement">\"L\'application que vous installez va en remplacer une autre.
@@ -60,7 +61,8 @@ Toutes vos données d\'utilisateur précédentes vont être enregistrées.\"</st
   <string name="safe_relative">Autorisations sécurisées</string>
   <string name="security_settings_desc">Autoriser cette application à :</string>
   <string name="settings">Paramètres</string>
-  <string name="trust_switch_dialog_msg">"MIUI ne vous demandera plus de confirmation de sécurité et de confidentialité relative à cette application. Faire confiance à cette application ?"</string>
+  <string name="trust_switch_dialog_msg">"Miui ne vous demandera plus de confirmation pour les opérations liées a votre sécurité et confidentialité provenant de cette application.
+  Faire confiance à cette application ?"</string>
   <string name="uninstall_activity_text">"%1$s fait partie de l\'application suivante : "</string>
   <string name="uninstall_application_text">Voulez-vous désinstaller cette application ?</string>
   <string name="uninstall_application_title">"Désinstaller l\'application"</string>
