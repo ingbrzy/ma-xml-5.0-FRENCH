@@ -346,7 +346,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="fail_reason_vcard_parse_error">"Impossible d\'analyser le fichier vCard pour une raison inattendue."</string>
   <string name="favoritesFrequentCalled">Souvent appelé</string>
   <string name="favoritesFrequentContacted">Fréquemment contacté</string>
-  <string name="favorites_list_empty">Aucun favoris</string>
+  <string name="favorites_list_empty">Aucun favori</string>
   <string name="foundTooManyContacts">Plus de %d contacts trouvés</string>
   <string name="frequency_none">"Ne pas rappeler"</string>
   <string name="frequency_three_days">Vérifier et rappeler tous les 3 jours</string>
@@ -427,7 +427,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="listTotalAllContactsZero">Aucun contact</string>
   <string name="listTotalAllContactsZeroCustom">Aucun contact visible</string>
   <string name="listTotalAllContactsZeroGroup">Aucun contact dans %s</string>
-  <string name="listTotalAllContactsZeroStarred">Aucun favoris</string>
+  <string name="listTotalAllContactsZeroStarred">Aucun favori</string>
   <string name="listTotalPhoneContactsZero">Pas de contacts avec des numéros de téléphone</string>
   <string name="list_filter_all_accounts">Tous les contacts</string>
   <string name="list_filter_all_starred">Favoris</string>
@@ -561,7 +561,7 @@ Pour ajouter des contacts, appuyez sur \"<font fgcolor="#ffffffff"><b>Menu</b></
 \"<li><font fgcolor="#ffffffff"><b>\"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
 \"</b></font></li></string>
   <string name="noContactsWithPhoneNumbers">Aucun contact avec numéro de téléphone</string>
-  <string name="noFavoritesHelpText">\"Vous ne disposez d\'aucun favoris.
+  <string name="noFavoritesHelpText">\"Vous ne disposez d\'aucun favori.
 
 Pour ajouter un contact à la liste de favoris :
 
@@ -588,7 +588,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="non_phone_caption">N° de téléphone</string>
   <string name="non_phone_close">Fermer</string>
   <string name="none_found">Aucun périphérique trouvé</string>
-  <string name="none_paired">Aucun périphérique appairer</string>
+  <string name="none_paired">Aucun périphérique appairé</string>
   <string name="not_applied">Non pris en charge</string>
   <string name="notification_action_voicemail_play">Lire</string>
   <string name="notification_new_voicemail_ticker">Nouveau message vocal de %s</string>
@@ -630,7 +630,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="picker_all_list_empty">Aucun contact</string>
   <string name="picker_contact_title">Veuillez choisir un contact</string>
   <string name="picker_email_title">Veuillez choisir un email</string>
-  <string name="picker_favorites_list_empty">Aucun favoris</string>
+  <string name="picker_favorites_list_empty">Aucun favori</string>
   <string name="picker_groups_list_empty">Aucun groupe</string>
   <string name="picker_join_title">Choisissez un contact à joindre avec %s</string>
   <string name="picker_number_title">Veuillez choisir un numéro</string>

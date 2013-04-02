@@ -1201,7 +1201,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_hips_location_source_network">"Source: Réseau"</string>
   <string name="perm_hips_mobile_network">"Réseau mobile"</string>
   <string name="perm_hips_mobile_network_desc">"Réseau mobile"</string>
-  <string name="perm_hips_mobile_network_hint">"%1$s apps sont autorisés à accéder à internet via le réseau mobile"</string>
+  <string name="perm_hips_mobile_network_hint">"%1$s apps sont autorisées à accéder à Internet via le réseau mobile"</string>
   <string name="perm_hips_network_accept">"accepter la connexion de %1$s"</string>
   <string name="perm_hips_network_connect">"se connecter à %1$s"</string>
   <string name="perm_hips_network_listen">"Ecoute sur le port %1$s"</string>
@@ -1250,7 +1250,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_hips_switch">"Moniteur d\'autorisation"</string>
   <string name="perm_hips_wifi_network">"Réseau Wi-Fi"</string>
   <string name="perm_hips_wifi_network_desc">"Réseau Wi-Fi"</string>
-  <string name="perm_hips_wifi_network_hint">"%1$s apps sont autorisés à accéder à internet via le réseau mobile"</string>
+  <string name="perm_hips_wifi_network_hint">"%1$s apps sont autorisées à accéder à Internet via le réseau mobile"</string>
   <string name="perm_invalid_input">"Entrée invalide"</string>
   <string name="perm_loading">"Chargement..."</string>
   <string name="perm_log">"Journal"</string>
@@ -1637,7 +1637,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="show_running_services">"Afficher les services"</string>
   <string name="show_screen_updates">"Afficher les mises à jour de l\'écran"</string>
   <string name="show_screen_updates_summary">Faire clignoter les zones de l\'écran lorsqu\'elles sont mises à jour</string>
-  <string name="show_touches">"Afficher élément sélectionné"</string>
+  <string name="show_touches">"Afficher interactions tactiles"</string>
   <string name="show_touches_summary">"Afficher un repère visuel pour les interactions tactiles"</string>
   <string name="silent_mode_title">"Silencieux"</string>
   <string name="sim_absent">"Aucune SIM/RUIM"</string>
@@ -2143,7 +2143,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="wifi_p2p_wps_setup">"Définir une connexion Wi-Fi protégée"</string>
   <string name="wifi_password">"Mot de passe"</string>
   <string name="wifi_poor_network_detection">"Réseau optimal uniquement"</string>
-  <string name="wifi_poor_network_detection_summary">"Eviter les réseaux Wi-Fi avec un mauvais signal ou contenant une mauvaise liaison internet."</string>
+  <string name="wifi_poor_network_detection_summary">"Éviter les réseaux Wi-Fi avec un mauvais signal ou une mauvaise liaison Internet."</string>
   <string name="wifi_quick_toggle_summary">"Activer le Wi-Fi"</string>
   <string name="wifi_quick_toggle_title">"Wi-Fi"</string>
   <string name="wifi_remembered">"Enregistré."</string>
