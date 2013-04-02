@@ -198,7 +198,7 @@
   <string name="transformation_type_rotate">Rotation</string>
   <string name="transformation_type_stack">En cascade</string>
   <string name="uninstall">Désinstaller</string>
-  <string name="uninstall_dialog_message">Le désinstaller supprimera toutes ses données</string>
+  <string name="uninstall_dialog_message">La désinstaller supprimera toutes ses données</string>
   <string name="uninstall_dialog_title_format">Supprimer \"%s\"</string>
   <string name="unknown_artist_name">Artiste inconnu</string>
   <string name="unnamed_folder_name">Dossier sans nom</string>

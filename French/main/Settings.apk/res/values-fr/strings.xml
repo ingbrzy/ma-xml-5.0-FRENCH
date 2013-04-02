@@ -107,7 +107,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="apn_type">"Type d\'APN"</string>
   <string name="apn_user">"Nom d\'utilisateur"</string>
   <string name="app_disable_dlg_text">"Si vous désactivez une application intégrée, cela peut provoquer des dysfonctionnements d\'autres applications."</string>
-  <string name="app_disable_dlg_title">"Désactiver app intégrée ?"</string>
+  <string name="app_disable_dlg_title">"Désactiver l\'app intégrée ?"</string>
   <string name="app_disable_notifications_dlg_text">"Si vous désactivez les notifications de cette application, vous risquez de manquer des alertes et des mises à jour importantes."</string>
   <string name="app_disable_notifications_dlg_title">"Désactiver les notifications ?"</string>
   <string name="app_factory_reset">"Désinstaller les mises à jour"</string>
@@ -419,7 +419,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="breathing_light_color_summary">"Couleur de la LED lors d\'une nouvelle notification"</string>
   <string name="breathing_light_color_title">" : couleur de la LED"</string>
   <string name="breathing_light_freq_summary">"Pause de la LED entre les flashs"</string>
-  <string name="breathing_light_freq_title">" : fréquence de clignotement"</string>
+  <string name="breathing_light_freq_title">" : fréq. de clignotement"</string>
   <string name="brightness">"Luminosité"</string>
   <string name="brightness_auto_adjust_off">"La luminosité peut être ajustée à votre convenance en déplaçant le curseur. La luminosité de l\'écran restera inchangée dans n\'importe quel environnement."</string>
   <string name="brightness_auto_adjust_on">"La luminosité automatique peut être réglée en déplaçant le curseur. La luminosité de l\'écran varie selon votre réglage et les environs."</string>
@@ -607,7 +607,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="date_picker_title">"Date"</string>
   <string name="date_time_12_hour_sample">"01:00 PM"</string>
   <string name="date_time_24_hour_sample">"13:00"</string>
-  <string name="date_time_24hour">"Utiliser le format 24 h"</string>
+  <string name="date_time_24hour">"Utiliser le format 24h"</string>
   <string name="date_time_auto">"Date/Heure automatiques"</string>
   <string name="date_time_auto_summaryOff">"Utiliser la date et l\'heure fournies par le réseau"</string>
   <string name="date_time_auto_summaryOn">"Utiliser la date et l\'heure fournies par le réseau"</string>
@@ -671,7 +671,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="disableNetwork">"disableNetwork"</string>
   <string name="disable_overlays">"Désact. superpos. matérielle"</string>
   <string name="disable_overlays_summary">"Toujours utiliser le GPU pour la composition de l\'écran"</string>
-  <string name="disable_power_key_long_press_under_keyguard">"Désactiver sous écran de verrouillage"</string>
+  <string name="disable_power_key_long_press_under_keyguard">"Désactiver sous écran de verr."</string>
   <string name="disable_text">"Désactiver"</string>
   <string name="disabled">"Désactivée"</string>
   <string name="disconnect">"Déconnecter"</string>
@@ -759,7 +759,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="enable_adb">"Débogage USB"</string>
   <string name="enable_adb_summary">"Mode débogage lorsqu\'un câble USB est connecté"</string>
   <string name="enable_assist_key_long_press">"Appui long ouvre l\'app Voix"</string>
-  <string name="enable_back_long_press">"Appui long ferme l\'app."</string>
+  <string name="enable_back_long_press">"Appui long pour fermer l\'app"</string>
   <string name="enable_compatibility">"Mettre l\'application à l\'échelle"</string>
   <string name="enable_drive_mode">"Activer le mode conduite"</string>
   <string name="enable_snapshot_screenlock">"Appui long pour capture d\'écran"</string>
@@ -1060,7 +1060,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="media_volume_title">"Multimédia"</string>
   <string name="medium_font">"Moyenne"</string>
   <string name="memory">"RAM"</string>
-  <string name="memory_apps_usage">"Applis (données, contenus multimédia)"</string>
+  <string name="memory_apps_usage">"Applis (données, multimédia)"</string>
   <string name="memory_available">"Disponible"</string>
   <string name="memory_calculating_size">"Calcul en cours"</string>
   <string name="memory_dcim_usage">"Images, vidéos"</string>
@@ -1506,7 +1506,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="screen_compatibility_label">"Compatibilité de l\'écran"</string>
   <string name="screen_compatibility_text">"Cette application n\'est peut-être pas adaptée à votre écran. Vous pouvez modifier les paramètres d\'ajustement ici."</string>
   <string name="screen_on_proximity_sensor_summary">"Désactive les fonctions d\'appels si l\'appareil est dans la poche (via le détecteur de proximité)."</string>
-  <string name="screen_on_proximity_sensor_title">"Éviter les erreurs de manip."</string>
+  <string name="screen_on_proximity_sensor_title">"Éviter les erreurs de manipulation"</string>
   <string name="screen_saturation_adjust">"Saturation"</string>
   <string name="screen_timeout">"Veille"</string>
   <string name="screen_timeout_summary">"Après %1$s d\'inactivité"</string>
@@ -1908,7 +1908,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="usb_title">"USB"</string>
   <string name="use_default_tts_settings_summary">"Remplacer les paramètres de l\'application par les paramètres ci-dessous"</string>
   <string name="use_default_tts_settings_title">"Utiliser mes paramètres"</string>
-  <string name="use_location_summary">"Autoriser Google à utiliser votre position pour améliorer vos résultats de recherche et autres services Google"</string>
+  <string name="use_location_summary">"Autoriser Google à utiliser votre position pour améliorer vos résultats de recherche et d\'autres services"</string>
   <string name="use_location_title">"Localisation et recherche"</string>
   <string name="use_system_language_to_select_input_method_subtypes">"Utiliser la langue du système"</string>
   <string name="user_add_user_menu">"Ajouter utilisateur"</string>
