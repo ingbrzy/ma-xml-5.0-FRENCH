@@ -1090,6 +1090,9 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="move_app_to_internal">"Déplacer vers le téléphone"</string>
   <string name="move_app_to_sdcard">"Déplacer vers USB"</string>
   <string name="moving">"Déplacement en cours"</string>
+  <string name="msd_driver_download">Télecharger le pilote</string>
+  <string name="msd_driver_mac_download">Aller sur http://miuiandroid.com/mac/ pour télécharger à partir de votre MAC</string>
+  <string name="msd_driver_windows_xp_download">Aller sur http://miuiandroid.com/windows/ pour télécharger à partir de votre PC</string>
   <string name="msd_help_summary">"Problèmes d\'accès au stockage du mobile via un ordinateur ? Veuillez sélectionner le système d\'exploitation de votre ordinateur : "</string>
   <string name="msd_help_title">"Aide"</string>
   <string name="msd_install">"Installer le pilote"</string>

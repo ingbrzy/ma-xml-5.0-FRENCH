@@ -135,6 +135,8 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="clearFrequentsProgress_title">Suppression des contacts fréquents</string>
   <string name="clear_default">Effacer par défaut</string>
   <string name="click_close">Cliquez pour fermer</string>
+  <string name="cloud_antispam_summary">Filtrer les appels et messages via Wi-Fi et données réseau</string>
+  <string name="cloud_antispam_title">Garde Cloud</string>
   <string name="composer_failed_to_get_database_infomation">"Impossible d\'obtenir les informations de la base de données"</string>
   <string name="composer_has_no_exportable_contact">Il n\'y a aucun contact exportable. Si vous avez réellement des contacts sur votre téléphone, ils peuvent être interdits d\'exportation par certains fournisseurs de données.</string>
   <string name="composer_not_initialized">"Le compositeur de carte de visite n\'est pas correctement initialisé"</string>
@@ -609,6 +611,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="option_view_group">Afficher</string>
   <string name="organizationLabelsGroup">Organisation</string>
   <string name="organization_company_and_title">%2$s, %1$s</string>
+  <string name="other_contacts">Autres</string>
   <string name="other_phone">autres téléphones</string>
   <string name="payphone">Téléphone public</string>
   <string name="people">Contacts</string>
@@ -731,14 +734,14 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_can_not_selected">%1$s ne peut pas être sélectionné !</string>
   <string name="resource_default">Sonnerie par défaut</string>
   <string name="resource_default_name">Ressources</string>
-  <string name="resource_delete_all">Êtes-vous sur de vouloir supprimer les %1$d ressources sélectionnées ?</string>
-  <string name="resource_delete_confirm">Êtes-vous sur de vouloir supprimer ces ressources ?</string>
+  <string name="resource_delete_all">Êtes-vous sûr de vouloir supprimer les %1$d ressources sélectionnées ?</string>
+  <string name="resource_delete_confirm">Êtes-vous sûr de vouloir supprimer ces ressources ?</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_download">Télécharger</string>
   <string name="resource_downloaded_title">Ressources téléchargées</string>
   <string name="resource_downloading">Téléchargement...</string>
   <string name="resource_get_auth_checking">Vérification de l\'autorisation...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut pas fonctionner sur cet appareil car vous avez atteint la limite de 10, veuillez utiliser un autre appareil</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut pas fonctionner sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre appareil</string>
   <string name="resource_get_auth_exceed_max_limit_title">Limite d\'autorisations dépassée</string>
   <string name="resource_get_auth_missing">Le thème ne provient pas du market officiel, veuillez en télécharger un similaire du market officiel</string>
   <string name="resource_get_auth_retrieving">Obtention de l\'autorisation...</string>
@@ -746,12 +749,12 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_list_title">Dernier</string>
   <string name="resource_local">%1$s local</string>
   <string name="resource_mute">Aucun</string>
-  <string name="resource_no_result">Pas de résultat</string>
+  <string name="resource_no_result">Aucun résultat</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_online">En ligne %1$s</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
-  <string name="resource_price_unit">MI Credits</string>
+  <string name="resource_price_unit">MICredits</string>
   <string name="resource_ringtone_default">Sonneries</string>
   <string name="resource_see_more">Voir plus</string>
   <string name="resource_select">Sélectionner</string>
@@ -852,6 +855,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="splitConfirmation">Séparer ce contact en plusieurs contacts ?</string>
   <string name="splitConfirmation_title">Séparer le contact</string>
   <string name="starredList">Favoris</string>
+  <string name="starred_contacts">Favoris</string>
   <string name="status_available">Espace disponible</string>
   <string name="status_away">Absent</string>
   <string name="status_busy">Occupé</string>

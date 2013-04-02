@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_app_name">Vidéos</string>
+  <string name="about_developer_label">Développeur</string>
+  <string name="about_developer_name">MIUI</string>
   <string name="about_title">À propos</string>
-  <string name="about_version">V5.0</string>
+  <string name="about_version">V4.0</string>
+  <string name="about_version_label">"Version :"</string>
   <string name="adjust_position_next_media_notice">Suivant</string>
   <string name="adjust_position_prev_media_notice">Précédent</string>
   <string name="airkan_control_device_des">Vous pouvez contrôler la lecture vidéo via le bouton du bas</string>

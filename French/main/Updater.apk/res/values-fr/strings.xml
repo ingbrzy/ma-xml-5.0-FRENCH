@@ -13,6 +13,7 @@
   <string name="apply_update_dialog_cancel_button">Annuler</string>
   <string name="apply_update_dialog_update_button">Mettre à jour</string>
   <string name="apply_update_fail">La mise à jour du système a échoué</string>
+  <string name="apply_update_timer">Mise à jour terminées，l\'appareil redémarrera dans %d secondes</string>
   <string name="apply_upload_info_message">Cliquer sur mettre à jour maintenant redémarrera automatiquement le téléphone pour appliquer la mise à jour</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
   <string name="applying_rom_message">Application de la mise à jour</string>
@@ -83,6 +84,8 @@
   <string name="paused_queued_for_network">En attente d\'une connexion réseau</string>
   <string name="paused_queued_for_wifi">En attente d\'une connexion Wi-Fi</string>
   <string name="previous">Précédent</string>
+  <string name="reboot_later">Redémarrer plus tard</string>
+  <string name="reboot_now">Redémarrer maintenant</string>
   <string name="reboot_to_new_system">Redémarrer vers la nouvelle version</string>
   <string name="recommend">Recommandés</string>
   <string name="recommend_comment_hint">Raison (facultatif)</string>
@@ -94,6 +97,7 @@
   <string name="sdcard_is_not_present_dialog_title">Aucune carte SD n\'a été trouvée</string>
   <string name="send_install_log">Envoyer au journal d\'erreur</string>
   <string name="send_install_log_error">Échec de l\'envoi du journal d\'erreur</string>
+  <string name="share">Partager</string>
   <string name="share_qq">Poster via Tencent weibo</string>
   <string name="share_sina">Poster via Sina weibo</string>
   <string name="share_update">Partager les informations de mise à jour système</string>
@@ -110,6 +114,8 @@
   <string name="submit_fail">Échec d\'envoi</string>
   <string name="submit_progress">Envoi en cours...</string>
   <string name="submit_success">Envoi réussi, Merci !</string>
+  <string name="system_backup_apply_helper">L\'appareil redémarrera automatiquement pour appliquer la mise à jour</string>
+  <string name="system_backup_ask">Demander plus tard</string>
   <string name="system_backup_button_text">Effectuer une sauvegarde du système avant la mise à jour</string>
   <string name="system_backup_cancel_text">Redémarrer pour MàJ</string>
   <string name="system_backup_error_message">La sauvegarde MIUI n\'a pas été trouvée, veuillez sauvegarder manuellement</string>

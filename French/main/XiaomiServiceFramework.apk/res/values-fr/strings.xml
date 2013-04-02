@@ -41,6 +41,8 @@
   <string name="disable_find_device_error">%1$s, impossible de désactiver la localisation de l\'appareil</string>
   <string name="email_already_be_used">Adresse mail déjà utilisée</string>
   <string name="enable_find_device_error">%1$s, impossible d\'activer la localisation de l\'appareil</string>
+  <string name="error_account_changed_summary">Votre compte Xiaomi a été mis à jour. Veuillez vérifier vos détails et réessayer plus tard</string>
+  <string name="error_account_changed_title">Compte mis à jour</string>
   <string name="error_auth_summary">Erreur d\'identification, veuillez réessayer</string>
   <string name="error_auth_title">Erreur de compte</string>
   <string name="error_common_summary">Erreur système, veuillez réessayer plus tard</string>
@@ -179,6 +181,7 @@
   <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt: 
 1. Contactez le service clientèle sur : %1$s 
 2. Fournir ce numéro de série : %2$s</string>
+  <string name="progress_warning_waiting">Les changements du compte sont en train d'être mis à jour. Veuillez réessayer plus tard.</string>
   <string name="quick_login_title">L\'authentification est requise, veuillez entrer votre mot de passe</string>
   <string name="recharge_alipay_summary">Recharge Alipay</string>
   <string name="recharge_alipay_title">Alipay</string>

@@ -3,6 +3,7 @@
   <string name="activity_not_found">"Aucune application n\'est disponible pour effectuer l\'action."</string>
   <string name="add_account">"Ajouter un compte"</string>
   <string name="add_to_cloud_album">"Ajouter au MiCloud"</string>
+  <string name="add_to_cloud_fail_too_many_items">L\'opération a échoué, trop d\'élements sélectionnés</string>
   <string name="add_to_cloud_folder">"Ajouter au dossier MiCloud"</string>
   <string name="albums">"Albums"</string>
   <string name="albumset_page_title_separator">" | "</string>
@@ -51,9 +52,11 @@
   <string name="cloudfolder_already_exists">"Le dossier MiCloud existe déjà"</string>
   <string name="confirm_delete">"Supprimer"</string>
   <string name="confirm_delete_album" formatted="false">"Êtes-vous sûr de vouloir supprimer %s albums (contenant %s éléments) ?"</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s image(s) in %s album(s), êtes-vous sur de vouloir les supprimer ?</string>
   <string name="confirm_delete_folders_and_pictures">"Êtes-vous sûr de vouloir supprimer %s ?"</string>
   <string name="confirm_delete_folders_including" formatted="false">"%s dossiers (incluant %s)"</string>
   <string name="confirm_delete_including_null">"0 élément"</string>
+  <string name="confirm_delete_items">%s éléments</string>
   <string name="confirm_delete_pictures">"%s images"</string>
   <string name="confirm_delete_system_album">"%s est un album système, êtes-vous sûr de vouloir le supprimer ?"</string>
   <string name="confirm_delete_videos">"%s vidéos"</string>
@@ -72,7 +75,9 @@
   <string name="damaged_file">"Le fichier est endommagé"</string>
   <string name="defalt_local_mobile">"Mobile"</string>
   <string name="delete">"Supprimer"</string>
+  <string name="delete_fail_too_many_items">Échec de la suppression, trop d\'élements séléctionnés</string>
   <string name="deleting_files">"Suppression des fichiers..."</string>
+  <string name="demo_video_folder_display_name">Vidéo de démo</string>
   <string name="description">"Description"</string>
   <string name="details">"Détails"</string>
   <string name="details_hms">"%1$d:%2$02d:%3$02d"</string>
@@ -170,6 +175,7 @@
   <string name="miliao_painting_folder_display_name">"Dessins MiTalk"</string>
   <string name="miliao_saved_folder_display_name">"Enregistrements MiTalk"</string>
   <string name="mimetype">"Type MIME"</string>
+  <string name="mishop_saved_folder_display_name">Enregistrements MiShop</string>
   <string name="miui_capture_screen_folder_display_name">"Captures d\'écran"</string>
   <string name="model">"Modèle"</string>
   <string name="modify_cloud_settings">"Paramètres MiCloud"</string>
@@ -234,6 +240,7 @@
   <string name="select_video">"Sélectionner vidéo"</string>
   <string name="send">"Envoyer"</string>
   <string name="send_multiple_files_hint_format">"Envoyer plusieurs fichiers (%s)"</string>
+  <string name="send_to_cloud_failed_message">Échec de l\'envoi de l\'élement à l\'album Cloud</string>
   <string name="sepia">"Sépia"</string>
   <string name="set_hidden_album">"Album masqué"</string>
   <string name="set_image">"Utiliser l\'image comme"</string>

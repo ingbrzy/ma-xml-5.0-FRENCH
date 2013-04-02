@@ -170,8 +170,12 @@
   <string name="task_restore_cancel_progress">Annulation en cours...</string>
   <string name="task_restore_finished_local">Restauration terminée</string>
   <string name="task_restore_none">La restauration n\'est pas nécessaire</string>
+  <string name="task_running_backup_dialog">Sauvegarde en cours en arrière-plan, appuyez sur OK pour l\'afficher.</string>
+  <string name="task_running_backup_hint">Service en cours en arrière-plan, veuillez réessayer !</string>
   <string name="task_running_dialog">La sauvegarde et la restauration en arrière-plan sont en cours, appuyez sur OK pour l\'afficher</string>
   <string name="task_running_hint">Le service est exécuté en arrière-plan, veuillez réessayer la restauration de cette sauvegarde !</string>
+  <string name="task_running_restore_dialog">Restauration de sauvegarde en cours, appuyez sur OK pour l\'afficher.</string>
+  <string name="task_running_restore_hint">Service en cours en arrière-plan, veuillez réessayer !</string>
   <string name="task_service_not_launched">Le service n\'est pas démarré, veuillez patienter !</string>
   <string name="task_stopped_exception">Tâche interrompue</string>
   <string name="total_num">%d enregistrement(s) au total</string>

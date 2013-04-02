@@ -16,6 +16,7 @@
   <string name="dialog_failed_body">"Souhaitez-vous réessayer de télécharger le fichier ultérieurement ou préférez-vous le supprimer de la file d\'attente ?"</string>
   <string name="dialog_file_already_exists">Impossible de procéder au téléchargement. Le fichier de destination existe déjà.</string>
   <string name="dialog_file_missing_body">Impossible de trouver le fichier téléchargé.</string>
+  <string name="dialog_file_missing_title">Échec de l\'ouverture du fichier</string>
   <string name="dialog_insufficient_space_on_cache">"Impossible de terminer le téléchargement. L\'espace disponible sur la mémoire interne est insuffisant."</string>
   <string name="dialog_insufficient_space_on_external">"Impossible de terminer le téléchargement. L\'espace disponible sur la carte SD est insuffisant."</string>
   <string name="dialog_media_not_found">"Impossible de procéder au téléchargement. Le support externe n\'est pas disponible."</string>
