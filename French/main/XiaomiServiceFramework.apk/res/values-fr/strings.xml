@@ -181,7 +181,7 @@
   <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt: 
 1. Contactez le service clientèle sur : %1$s 
 2. Fournir ce numéro de série : %2$s</string>
-  <string name="progress_warning_waiting">Les changements du compte sont en train d'être mis à jour. Veuillez réessayer plus tard.</string>
+  <string name="progress_warning_waiting">Les changements du compte sont en train d\'être mis à jour. Veuillez réessayer plus tard.</string>
   <string name="quick_login_title">L\'authentification est requise, veuillez entrer votre mot de passe</string>
   <string name="recharge_alipay_summary">Recharge Alipay</string>
   <string name="recharge_alipay_title">Alipay</string>
