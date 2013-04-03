@@ -12,7 +12,7 @@
   <string name="bg_replacement_message">"Placez votre appareil sur une surface stable et veillez à ce qu\'il n\'y ai aucun mouvement derrière vous. Puis sortez de la vision de la caméra."</string>
   <string name="camera_disabled">"L\'appareil photo a été désactivé en raison des règles de sécurité."</string>
   <string name="camera_error_title">"Erreur de l\'appareil photo."</string>
-  <string name="camera_label">"Appareil photo"</string>
+  <string name="camera_label">"Caméra"</string>
   <string name="camera_settings_label">"Paramètres de l\'appareil photo"</string>
   <string name="can_not_play_video">"Pour lire la vidéo, vous devez déverrouiller l\'écran"</string>
   <string name="cancel">"Annuler"</string>
@@ -63,7 +63,7 @@
   <string name="flash_off">"Flash désactivé"</string>
   <string name="flash_on">"Flash activé"</string>
   <string name="focal_length">"Longueur focale"</string>
-  <string name="folder_camera">"Appareil photo"</string>
+  <string name="folder_camera">"Photos"</string>
   <string name="folder_download">"Téléchargements"</string>
   <string name="folder_imported">"Importations"</string>
   <string name="folder_screenshot">"Captures d\'écran"</string>

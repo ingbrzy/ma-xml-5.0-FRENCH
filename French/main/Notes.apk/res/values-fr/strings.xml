@@ -14,7 +14,7 @@
   <string name="alert_title_exceed_image_limit">Limite d\'images par note atteinte !</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
-  <string name="attachment_camera">Appareil photo</string>
+  <string name="attachment_camera">Caméra</string>
   <string name="attachment_contact">Contact</string>
   <string name="attachment_gallery">Photos</string>
   <string name="button_new_note">Nouvelle Note</string>

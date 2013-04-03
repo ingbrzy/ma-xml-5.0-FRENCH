@@ -10,7 +10,7 @@
     <item>"Photos"</item>
     <item>"Gestionnaire d\'autorisations"</item>
     <item>"Stockage Météo"</item>
-    <item>"Appareil photo"</item>
+    <item>"Caméra"</item>
     <item>"Assistant réseau"</item>
   </string-array>
   <string-array name="system_data_label">

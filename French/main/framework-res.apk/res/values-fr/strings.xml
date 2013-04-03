@@ -1050,7 +1050,7 @@ Voulez-vous la fermer ?</string>
     <string name="select_keyboard_layout_notification_message">Appuyez ici pour sélectionner une disposition de clavier.</string>
     <string name="fast_scroll_alphabet"> ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
     <string name="fast_scroll_numeric_alphabet"> 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
-    <string name="candidates_style"><u>candidats</u></string>
+    <string name="candidates_style">candidats</string>
     <string name="ext_media_checking_notification_title">Préparation de la mémoire de stockage USB</string>
     <string name="ext_media_checking_notification_message">Recherche d\'erreurs</string>
     <string name="ext_media_nofs_notification_title">Mémoire de stockage USB vide</string>

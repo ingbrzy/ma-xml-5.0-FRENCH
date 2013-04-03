@@ -118,7 +118,7 @@
   <string name="micloud_resend_active_email">Renvoyer le mail d\'activation</string>
   <string name="micloud_use_existing">Se connecter</string>
   <string name="micloud_val_sms_alert">Un SMS va être envoyé afin de confirmer votre numéro de téléphone, continuer ?</string>
-  <string name="micloud_welcome_skip_login"><u>Passer l\'enregistrement</u></string>
+  <string name="micloud_welcome_skip_login">Passer l\'enregistrement</string>
   <string name="mili_center">Centre Mi Credit</string>
   <string name="next">Suivant</string>
   <string name="no_sim">La Carte SIM est introuvable, impossible de synchroniser</string>

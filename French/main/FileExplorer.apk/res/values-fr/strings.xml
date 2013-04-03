@@ -179,7 +179,7 @@
   <string name="rename_failed">Le changement de nom de %1$s a échoué</string>
   <string name="scanning">Scan en cours...</string>
   <string name="sd_card_available">Disponible: %1$s</string>
-  <string name="sd_card_size">Mémoire: %1$s</string>
+  <string name="sd_card_size">Total: %1$s</string>
   <string name="sd_full">La carte SD est pleine</string>
   <string name="search_hint">Rechercher Mes fichiers</string>
   <string name="search_title">Rechercher Mes fichiers</string>

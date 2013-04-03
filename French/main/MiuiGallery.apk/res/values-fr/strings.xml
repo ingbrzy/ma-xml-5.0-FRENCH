@@ -25,7 +25,7 @@
   <string name="browse_category">"Parcourir les photos"</string>
   <string name="camera_connected">"Appareil photo connecté."</string>
   <string name="camera_disconnected">"Appareil photo déconnecté."</string>
-  <string name="camera_folder_display_name">"Photos de la caméra"</string>
+  <string name="camera_folder_display_name">"Photos"</string>
   <string name="camera_path">"/DCIM/Camera"</string>
   <string name="camera_setas_wallpaper">"Fond d\'écran"</string>
   <string name="camera_view_none_message">"Les photos prises seront affichées ici."</string>
@@ -148,7 +148,7 @@
   <string name="initial_cloud_button_text">"Commencez à utiliser votre MiCloud"</string>
   <string name="initial_cloud_text">"À tout moment et n\'importe où, organisez et visualisez vos photos"</string>
   <string name="input_cloudfolder_name">"Nom du dossier MiCloud"</string>
-  <string name="internal_camera_folder_display_name">"Photos internes de la caméra"</string>
+  <string name="internal_camera_folder_display_name">"Photos de la caméra"</string>
   <string name="internal_miui_capture_screen_folder_display_name">"Captures d\'écran internes"</string>
   <string name="internal_sd_card">"Carte SD interne"</string>
   <string name="iso">"ISO"</string>
