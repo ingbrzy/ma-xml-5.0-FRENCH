@@ -113,6 +113,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="app_factory_reset">"Désinstaller les mises à jour"</string>
   <string name="app_factory_reset_dlg_text">"Toutes les mises à jour de cette application système Android vont être désinstallées."</string>
   <string name="app_factory_reset_dlg_title">"Désinstaller les mises à jour ?"</string>
+  <string name="app_floating_window_dlg">Autoriser \"%1$s\" à afficher une fenêtre pop-up</string>
   <string name="app_forward_locked">"L\'application est protégée contre la copie."</string>
   <string name="app_install_location_summary">"Modifier l\'emplacement d\'installation par défaut pour les nouvelles applications"</string>
   <string name="app_install_location_title">"Emplacement d\'installation souhaité"</string>
@@ -805,6 +806,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="finish_application">"Terminer"</string>
   <string name="finish_button_label">"Terminer"</string>
   <string name="firmware_version">"Version Android"</string>
+  <string name="floating_window_switch_label">Afficher la fenêtre pop-up</string>
   <string name="font_size_huge">"Énorme"</string>
   <string name="font_size_large">"Grand"</string>
   <string name="font_size_medium">"Moyenne"</string>
