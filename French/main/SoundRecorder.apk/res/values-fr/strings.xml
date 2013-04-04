@@ -30,7 +30,6 @@
   <string name="low_battery_warning">Un arrêt inattendu peut causer la perte de l\'enregistrement, il est recommandé d\'enregistrer uniquement lorsque la batterie est complètement chargée.</string>
   <string name="mark_now">(En cours)</string>
   <string name="max_length_reached">Durée maximale atteinte</string>
-  <string name="menu_setting">Paramètres</string>
   <string name="menu_settings">Paramètres</string>
   <string name="menu_view_record_list">Liste des enregistrements</string>
   <string formatted="false" name="minute">%d minute</string>

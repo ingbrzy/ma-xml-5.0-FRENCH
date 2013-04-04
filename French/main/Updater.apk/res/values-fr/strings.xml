@@ -118,9 +118,10 @@
   <string name="system_backup_ask">Demander plus tard</string>
   <string name="system_backup_button_text">Effectuer une sauvegarde du système avant la mise à jour</string>
   <string name="system_backup_cancel_text">Redémarrer pour MàJ</string>
+  <string name="system_backup_download_helper">Une fois le téléchargement terminé l\'appareil redémarrera automatiquement pour se mettre à jour</string>
   <string name="system_backup_error_message">La sauvegarde MIUI n\'a pas été trouvée, veuillez sauvegarder manuellement</string>
+  <string name="system_backup_helper">La mise à jour système n\'effacera pas les données utilisateur. Toutefois, il est recommandé de faire une sauvegarde de vos données utilisateur avant la mise à jour.</string>
   <string name="system_backup_ok_text">Sauvegarder</string>
-  <string name="sytemt_backup_helper">La mise à jour système n\'effacera pas les données utilisateur. Toutefois, il est recommandé de faire une sauvegarde de vos données utilisateur avant la mise à jour.</string>
   <string name="top_secret_build">Version secrète</string>
   <string name="update_comment_hint">(facultatif)</string>
   <string name="update_comment_title">Vos commentaires</string>
