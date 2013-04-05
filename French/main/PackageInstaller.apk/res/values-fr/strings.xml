@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="allow_source_dlg_text">\"Une demande d\'installation d\'autres applications a été initiée à partir de l\'application %1$s.
+  <string name="Parse_error_dlg_text">Un problème est survenu lors de l\'analyse du paquet.</string>
+  <string name="Parse_error_dlg_title">Erreur d\'analyse</string>
+  <string name="allow_source_dlg_text">"Une demande d\'installation d\'autres applications a été initiée à partir de l\'application %1$s.
 
-Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?\"</string>
+Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?"</string>
   <string name="allow_source_dlg_title">Nouvelle source pour les applications</string>
-  <string name="app_name">"Programme d\'installation du kit"</string>
-  <string name="app_not_found_dlg_text">"L\'application ne figure pas dans la liste des applications installées."</string>
+  <string name="app_name">Programme d\'installation du kit</string>
+  <string name="app_not_found_dlg_text">L\'application ne figure pas dans la liste des applications installées.</string>
   <string name="app_not_found_dlg_title">Application non trouvée</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l\'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d\'énergie et de données.
   Autoriser le démarrage automatique ?"</string>
   <string name="caller_app">Demandeur : %1$s</string>
   <string name="cancel">Annuler</string>
-  <string name="dlg_app_replacement_statement">\"L\'application que vous installez va en remplacer une autre.
+  <string name="dlg_app_replacement_statement">"L\'application que vous installez va en remplacer une autre.
 
-Toutes vos données d\'utilisateur précédentes vont être enregistrées.\"</string>
-  <string name="dlg_app_replacement_title">"Remplacer l\'application ?"</string>
+Toutes vos données d\'utilisateur précédentes vont être enregistrées."</string>
+  <string name="dlg_app_replacement_title">Remplacer l\'application ?</string>
   <string name="dlg_ok">OK</string>
-  <string name="dlg_sys_app_replacement_statement">\"Il s\'agit d\'une application système.
+  <string name="dlg_sys_app_replacement_statement">"Il s\'agit d\'une application système.
 
-Toutes vos données d\'utilisateur précédentes vont être enregistrées.\"</string>
+Toutes vos données d\'utilisateur précédentes vont être enregistrées."</string>
   <string name="done">OK</string>
   <string name="high_risk_perms">Autorisations à haut risque</string>
   <string name="install">Installer</string>
@@ -26,25 +28,23 @@ Toutes vos données d\'utilisateur précédentes vont être enregistrées.\"</st
   <string name="install_done">Application installée.</string>
   <string name="install_failed">Application non installée.</string>
   <string name="install_failed_cpu_abi_incompatible">"Cette application n\'est pas compatible avec votre téléphone."</string>
-  <string name="install_failed_file_not_found">"Le package spécifié a été supprimé avant la finalisation de l\'installation."</string>
-  <string name="install_failed_inconsistent_certificates">"Un package portant le même nom accompagné d\'une signature différente est déjà installé."</string>
+  <string name="install_failed_file_not_found">Le package spécifié a été supprimé avant la finalisation de l\'installation.</string>
+  <string name="install_failed_inconsistent_certificates">Un package portant le même nom accompagné d\'une signature différente est déjà installé.</string>
   <string name="install_failed_invalid_apk">Le package semble corrompu.</string>
-  <string name="install_failed_msg">"Impossible d\'installer %1$s sur ce téléphone."</string>
-  <string name="install_failed_older_sdk">"Le package est uniquement compatible avec les dernières versions d\'Android."</string>
-  <string name="install_failed_verify_failed">"Impossible d\'installer le package, car il ne répond pas aux critères de validation."</string>
+  <string name="install_failed_msg">Impossible d\'installer %1$s sur ce téléphone.</string>
+  <string name="install_failed_older_sdk">Le package est uniquement compatible avec les dernières versions d\'Android.</string>
+  <string name="install_failed_verify_failed">Impossible d\'installer le package, car il ne répond pas aux critères de validation.</string>
   <string name="install_failed_verify_timeout">Expiration du délai lors de la tentative de validation de ce package. Veuillez le réinstaller ultérieurement.</string>
   <string name="installing">Installation...</string>
   <string name="launch">Ouvrir</string>
   <string name="lift_ban">Lever l\'interdiction</string>
   <string name="low_risk_perms">Autorisations de faible risque</string>
   <string name="manage_applications">Gérer les applications</string>
-  <string name="manage_device_administrators">"Gérer les administrateurs de l\'appareil"</string>
+  <string name="manage_device_administrators">Gérer les administrateurs de l\'appareil</string>
   <string name="ok">OK</string>
   <string name="other_relative">Autres autorisations</string>
-  <string name="out_of_space_dlg_text">"Impossible d\'installer %1$s. Veuillez libérer de l\'espace, puis réessayer."</string>
+  <string name="out_of_space_dlg_text">Impossible d\'installer %1$s. Veuillez libérer de l\'espace, puis réessayer.</string>
   <string name="out_of_space_dlg_title">Mémoire insuffisante</string>
-  <string name="Parse_error_dlg_text">"Un problème est survenu lors de l\'analyse du package."</string>
-  <string name="Parse_error_dlg_title">"Erreur d\'analyse"</string>
   <string name="perm_action_accept">Accepter</string>
   <string name="perm_action_prompt">Demander</string>
   <string name="perm_action_reject">Rejeter</string>
@@ -63,19 +63,20 @@ Toutes vos données d\'utilisateur précédentes vont être enregistrées.\"</st
   <string name="settings">Paramètres</string>
   <string name="trust_switch_dialog_msg">"Miui ne vous demandera plus de confirmation pour les opérations liées a votre sécurité et confidentialité provenant de cette application.
   Faire confiance à cette application ?"</string>
-  <string name="uninstall_activity_text">"%1$s fait partie de l\'application suivante : "</string>
+  <string name="uninstall_activity_text">%1$s fait partie de l\'application suivante : </string>
   <string name="uninstall_application_text">Voulez-vous désinstaller cette application ?</string>
-  <string name="uninstall_application_title">"Désinstaller l\'application"</string>
+  <string name="uninstall_application_title">Désinstaller l\'application</string>
   <string name="uninstall_confirm_question">Voulez-vous désinstaller cette application ?</string>
   <string name="uninstall_done">Désinstallation terminée.</string>
   <string name="uninstall_failed">Échec de la désinstallation.</string>
-  <string name="uninstall_failed_device_policy_manager">"Impossible de désinstaller. Le package est un administrateur actif de l\'appareil."</string>
+  <string name="uninstall_failed_device_policy_manager">Impossible de désinstaller. Le package est un administrateur actif de l\'appareil.</string>
   <string name="uninstall_failed_msg">Impossible de désinstaller %1$s.</string>
   <string name="uninstall_failed_retained_app_msg">Une application personnalisée par votre opérateur ne peut être désinstallée.</string>
-  <string name="uninstall_update_text">"Voulez-vous rétablir la configuration d\'usine de cette application ?"</string>
+  <string name="uninstall_update_text">Voulez-vous rétablir la configuration d\'usine de cette application ?</string>
   <string name="uninstall_update_title">Désinstaller la mise à jour</string>
   <string name="uninstalling">Désinstallation...</string>
   <string name="unknown">Inconnu</string>
   <string name="unknown_apps_dlg_text">"Pour plus de sécurité, votre téléphone bloque l\'installation d\'applications de sources inconnues."</string>
   <string name="unknown_apps_dlg_title">Installation bloquée</string>
+  <string name="unknown_installer">Installateur inconnu</string>
 </resources>
