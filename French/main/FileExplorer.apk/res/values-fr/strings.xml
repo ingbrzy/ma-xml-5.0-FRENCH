@@ -55,11 +55,11 @@
   <string name="decompress_to">Décompresser vers :</string>
   <string name="decompress_to_here">Décompresser ici</string>
   <string name="delete_failed">Surpession échouée</string>
-  <string name="delete_file">Supprimer ?</string>
+  <string name="delete_file">Êtes-vous sûr de vouloir supprimer ce fichier ?</string>
   <string name="delete_files">Êtes-vous sûr de vouloir supprimer les %1$d fichiers sélectionnés ?</string>
-  <string name="delete_files_and_folders">Êtes-vous sûr de vouloir supprimer les dossiers %1$d et %2$d sélectionnés ?</string>
+  <string name="delete_files_and_folders">Êtes-vous sûr de vouloir supprimer les %1$d fichier(s) et %2$d dossier(s) sélectionnés ?</string>
   <string name="delete_folder">Êtes-vous sûr de vouloir supprimer ce dossier ?</string>
-  <string name="delete_folders">Êtes-vous sûr de vouloir supprimer les dossiers %1$d sélectionnés ?</string>
+  <string name="delete_folders">Êtes-vous sûr de vouloir supprimer les %1$d dossiers sélectionnés ?</string>
   <string name="des_running_trans">Il reste encore %1$d fichiers à transférer</string>
   <string name="dialog_select_type">Sélectionner le type de fichier</string>
   <string name="dialog_type_audio">Audio</string>
@@ -149,7 +149,7 @@
   <string name="operation_decompressing">Décompression...</string>
   <string name="operation_delete">Supprimer</string>
   <string name="operation_delete_confirm_message">Confirmer la suppression ?</string>
-  <string name="operation_delete_confirm_message_folder">"Supprimer le dossier supprimera tous les fichiers qu\'il contient."</string>
+  <string name="operation_delete_confirm_message_folder">"Supprimer le dossier supprimera tous les fichiers qu\'il contient. "</string>
   <string name="operation_deleting">Suppression en cours...</string>
   <string name="operation_deleting_detail">Suppression de fichiers (%1$d/%2$d)</string>
   <string name="operation_download_link">Générer le lien de téléchargement</string>

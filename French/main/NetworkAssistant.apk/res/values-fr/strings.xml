@@ -42,8 +42,8 @@
   <string name="current_warning_value">Seuil d\'alerte: %s</string>
   <string name="daily_limit_dialog_disconnect_hint">Déconnecter Internet lorsque le trafic dépasse la limite définie</string>
   <string name="daily_limit_dialog_hint">Limite journalière de trafic (vide ou 0 signifie aucune limite)</string>
-  <string name="daily_limit_result">Être informé et déconnecter Internet lorsque le trafic journalier dépasse %dMo</string>
-  <string name="daily_limit_result_no_disconnect">Être informé lorsque le trafic journalier dépasse %dMo</string>
+  <string name="daily_limit_result">Être informé et déconnecter Internet lorsque le trafic journalier dépasse %d Mo</string>
+  <string name="daily_limit_result_no_disconnect">Être informé lorsque le trafic journalier dépasse %d Mo</string>
   <string name="daily_limit_result_no_limit">Être informé lorsque la limite journalière de trafic est dépassée</string>
   <string name="detail_app_button">Informations application</string>
   <string name="dialog_button_adjust">Ajuster</string>
