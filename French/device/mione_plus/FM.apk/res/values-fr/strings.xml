@@ -72,6 +72,8 @@
   <string name="menu_by_loudspeaker">Haut-parleur</string>
   <string name="menu_delete">Supprimer</string>
   <string name="menu_edit">Modifier</string>
+  <string name="menu_exit">Fermer la radio</string>
+  <string name="menu_jump">Passer à la radio</string>
   <string name="menu_new_station">Ajouter une nouvelle Station</string>
   <string name="menu_play">Lire</string>
   <string name="menu_record_list">Liste des enregistrements</string>

@@ -212,6 +212,7 @@
   <string name="mx_offline">Hors-ligne</string>
   <string name="mx_online">En ligne</string>
   <string name="mx_reactivate">Réactiver la messagerie cloud</string>
+  <string name="mx_recommend_msg">Activer la messagerie cloud pour envoyer des messages gratuits</string>
   <string name="mx_warning_notice">Un SMS sera envoyé pour activer la messagerie cloud. Il est possible que certains opérateurs le facturent</string>
   <string name="need_download">En cours de synchronisation...</string>
   <string name="new_message">Nouveau message</string>
