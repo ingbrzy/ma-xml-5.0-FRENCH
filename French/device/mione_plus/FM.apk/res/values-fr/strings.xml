@@ -86,7 +86,7 @@
   <string name="menu_scan_for_preset">Recherche pour pré-sélections</string>
   <string name="menu_scan_start">Analyser</string>
   <string name="menu_scan_stop">Arrêtez de chercher</string>
-  <string name="menu_select_station">Sélectionnez la Station</string>
+  <string name="menu_select_station">Sélectionner la station</string>
   <string name="menu_settings">Paramètres</string>
   <string name="menu_sleep">Mise en veille de l\'écran</string>
   <string name="menu_sleep_cancel">Annuler la veille</string>

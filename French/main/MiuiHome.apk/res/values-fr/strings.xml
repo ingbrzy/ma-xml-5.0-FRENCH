@@ -26,7 +26,7 @@
   <string name="description_designer">Concepteur :</string>
   <string name="description_download">Télécharger :</string>
   <string name="description_size">Taille :</string>
-  <string name="description_summary">Récapitulatif :</string>
+  <string name="description_summary">Résumé :</string>
   <string name="description_uploadtime">Mise à jour :</string>
   <string name="description_version">Version :</string>
   <string name="download_failed">Echec du téléchargement</string>
@@ -87,7 +87,7 @@
   <string name="guide_install_app_msg">Application non installée. La rechercher sur le Market maintenant ?</string>
   <string name="guide_install_app_title">Installer Application</string>
   <string name="guide_tips_editing_mode">Maintenez le widget ci-dessous pour le faire glisser sur l\'écran</string>
-  <string name="home_indicator">Indicateur</string>
+  <string name="home_indicator">bottom_point</string>
   <string name="install">Installer</string>
   <string name="invalid_contact_shortcut">Raccourci du contact invalide</string>
   <string name="loading">Chargement...</string>
@@ -157,7 +157,7 @@
   <string name="resource_get_auth_missing">Le thème n\'a pas été téléchargé à partir de la boutique de thème officiel, veuillez le télécharger à partir de la boutique officiel.</string>
   <string name="resource_get_auth_retrieving">Récupération d\'autorisation...</string>
   <string name="resource_importing">Importation en cours</string>
-  <string name="resource_list_title">Dernier sélectionné</string>
+  <string name="resource_list_title">Derniers sélectionnés</string>
   <string name="resource_local">Local %1$s</string>
   <string name="resource_mute">Aucun</string>
   <string name="resource_no_result">Aucun résultat</string>

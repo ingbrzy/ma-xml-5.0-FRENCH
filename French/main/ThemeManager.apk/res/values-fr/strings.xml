@@ -27,7 +27,7 @@
   <string name="description_designer">Concepteur :</string>
   <string name="description_download">Télécharger :</string>
   <string name="description_size">Taille :</string>
-  <string name="description_summary">Récapitulatif :</string>
+  <string name="description_summary">Résumé :</string>
   <string name="description_uploadtime">Mise à jour :</string>
   <string name="description_version">Version :</string>
   <string name="desktop_wallpaper">Écran d\'accueil</string>
@@ -67,7 +67,7 @@
   <string name="resource_comment_publish">Envoyer</string>
   <string name="resource_comment_rate">Note:</string>
   <string name="resource_comment_sending">Soumission du commentaire...</string>
-  <string name="resource_comment_title">Commentaires: %1$s</string>
+  <string name="resource_comment_title">Commentaires : %1$s</string>
   <string name="resource_comment_upload_data_invalid">Désolé, le commentaire soumis n\'est pas valide</string>
   <string name="resource_comment_upload_failed">L\'enregistrement du commentaire a échoué</string>
   <string name="resource_comment_upload_not_bought">Vous devez appliquer le thème avant de commenter.</string>
@@ -83,12 +83,12 @@
   <string name="resource_downloaded_title">Ressources téléchargées</string>
   <string name="resource_downloading">Téléchargement</string>
   <string name="resource_get_auth_checking">Vérification de l\'autorisation...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut pas s\'exécuter sur ce périphérique. Vous avez atteint la limite maximum de 10 comptes Xiaomi. Veuillez essayez avec un autre compte.</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut pas s\'exécuter sur ce périphérique. Vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre appareil</string>
   <string name="resource_get_auth_exceed_max_limit_title">Vous avez atteint la limite autorisée !</string>
   <string name="resource_get_auth_missing">Le thème n\'a pas été téléchargé à partir de la boutique de thème, veuillez le télécharger à partir de la boutique de thème officielle.</string>
   <string name="resource_get_auth_retrieving">Récupération d\'autorisation...</string>
   <string name="resource_importing">Importation en cours</string>
-  <string name="resource_list_title">Dernier sélectionné</string>
+  <string name="resource_list_title">Derniers sélectionnés</string>
   <string name="resource_local">Local %1$s</string>
   <string name="resource_mute">Aucun</string>
   <string name="resource_no_result">Aucun résultat</string>
