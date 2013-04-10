@@ -135,6 +135,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="clearFrequentsProgress_title">Suppression des contacts fréquents</string>
   <string name="clear_default">Effacer par défaut</string>
   <string name="click_close">Cliquez pour fermer</string>
+  <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_summary">Filtrer les appels et messages via Wi-Fi et données réseau</string>
   <string name="cloud_antispam_title">Garde Cloud</string>
   <string name="composer_failed_to_get_database_infomation">"Impossible d\'obtenir les informations de la base de données"</string>

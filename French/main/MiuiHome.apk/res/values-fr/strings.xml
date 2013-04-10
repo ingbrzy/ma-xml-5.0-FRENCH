@@ -63,6 +63,7 @@
   <string name="gadget_clock_22_label">Horloge 2x2</string>
   <string name="gadget_clock_24_label">Horloge 2x4</string>
   <string name="gadget_error_text">Problème de chargement du widget</string>
+  <string name="gadget_google_search_label">Recherche Google</string>
   <string name="gadget_load_error">Erreur de chargement du widget...</string>
   <string name="gadget_photo_22_label">Photo 2x2</string>
   <string name="gadget_photo_24_label">Cadre photo 2x4</string>
@@ -83,6 +84,8 @@
   <string name="group_folder">Nouveau dossier</string>
   <string name="group_live_folders">Dossiers</string>
   <string name="group_shortcuts">Raccourcis</string>
+  <string name="guide_install_app_msg">Application non installée. La rechercher sur le Market maintenant ?</string>
+  <string name="guide_install_app_title">Installer Application</string>
   <string name="guide_tips_editing_mode">Maintenez le widget ci-dessous pour le faire glisser sur l\'écran</string>
   <string name="home_indicator">Indicateur</string>
   <string name="install">Installer</string>

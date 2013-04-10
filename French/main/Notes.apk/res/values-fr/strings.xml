@@ -51,7 +51,9 @@
   <string name="menu_rename_folder">Renommer le dossier</string>
   <string name="menu_send_to_desktop">Envoyer sur l\'écran d\'accueil</string>
   <string name="menu_setting">Paramètres</string>
+  <string name="menu_stick">Attacher</string>
   <string name="menu_title_select_folder">Choix du dossier</string>
+  <string name="menu_unstick">Détacher</string>
   <string name="not_now">Pas maintenant</string>
   <string name="note_alert_expired">Expiré</string>
   <string name="note_link_email">Envoyer un mail</string>

@@ -192,6 +192,7 @@
   <string name="import_bookmarks_wizard_next">"Suivant"</string>
   <string name="import_bookmarks_wizard_previous">"Précédent"</string>
   <string name="importing_favorite_files">"Importation des données..."</string>
+  <string name="in_incognito">La navigation privée est activée, aucun historique ne sera sauvegardé.</string>
   <string name="instant_search_label">"Google avec Recherche instantanée (Google Labs)"</string>
   <string name="is_first_history_item">"Est le premier élément de l\'historique"</string>
   <string name="is_first_tab">"Premier onglet"</string>
@@ -221,6 +222,7 @@
   <string name="new_tab">"Nouvel onglet"</string>
   <string name="no_subfolders">"Aucun sous-dossier"</string>
   <string name="not_remind_again">"Ne plus me le rappeler"</string>
+  <string name="notif_install_successful">Téléchargement réussi</string>
   <string name="ok">"OK"</string>
   <string name="open_all_bookmarks">"Tout ouvrir"</string>
   <string name="open_all_in_new_window">"Toujours ouvrir dans un nouvel onglet"</string>
@@ -434,6 +436,7 @@
   <string name="tab_history">"Historique"</string>
   <string name="tab_most_visited">"Les plus visités"</string>
   <string name="tab_opened_background">"Onglet ouvert en arrière-plan."</string>
+  <string name="tab_opened_background_in_incognito">Nouvel onglet privé ouvert</string>
   <string name="tab_quicklinks">"Liens rapides"</string>
   <string name="tab_snapshots">"Pages enregistrées"</string>
   <string name="tab_yellowpage">"Pages jaunes"</string>

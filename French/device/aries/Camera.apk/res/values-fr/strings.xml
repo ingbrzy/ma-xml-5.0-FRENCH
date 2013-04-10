@@ -73,6 +73,7 @@
   <string name="group_by_location">"Par emplacement"</string>
   <string name="group_by_tags">"Par tag"</string>
   <string name="group_by_time">"Par date"</string>
+  <string name="hand_night_exit_button_text">Quitter le mode nuit</string>
   <string name="hdr_exit_button_text">"Quitter le mode HDR"</string>
   <string name="height">"Hauteur"</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
@@ -170,6 +171,7 @@
   <string name="pref_camera_focusmode_entry_normal">"Standard"</string>
   <string name="pref_camera_focusmode_title">"Mise au point"</string>
   <string name="pref_camera_front_picture_size_default">"1920x1088"</string>
+  <string name="pref_camera_hand_night_title">Mode nuit</string>
   <string name="pref_camera_hfr_default">"off"</string>
   <string name="pref_camera_hfr_entry_2x">"60"</string>
   <string name="pref_camera_hfr_entry_3x">"90"</string>
@@ -390,6 +392,7 @@
   <string name="show_videos_only">"Afficher les vidéos"</string>
   <string name="simple_mode_button_text_audio_capture">"Fermer la capture audio"</string>
   <string name="simple_mode_button_text_color_effect">"Fermer les filtres"</string>
+  <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
   <string name="simple_mode_button_text_hdr">"Fermer le mode HDR"</string>
   <string name="simple_mode_button_text_panorama">"Fermer le mode panorama"</string>
   <string name="simple_mode_button_text_slow_video">"Fermer la caméra en ralenti"</string>
