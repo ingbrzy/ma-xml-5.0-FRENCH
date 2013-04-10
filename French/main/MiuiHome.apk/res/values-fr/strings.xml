@@ -87,7 +87,6 @@
   <string name="guide_install_app_msg">Application non installée. La rechercher sur le Market maintenant ?</string>
   <string name="guide_install_app_title">Installer Application</string>
   <string name="guide_tips_editing_mode">Maintenez le widget ci-dessous pour le faire glisser sur l\'écran</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="install">Installer</string>
   <string name="invalid_contact_shortcut">Raccourci du contact invalide</string>
   <string name="loading">Chargement...</string>
