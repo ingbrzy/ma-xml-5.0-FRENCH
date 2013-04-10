@@ -140,7 +140,7 @@
   <string name="theme_component_title_wallpaper">Fond d\'écran</string>
   <string name="theme_description_title_customized">Personnalisé</string>
   <string name="theme_description_title_default">Par défaut</string>
-  <string name="theme_import_activity_label">Mettre à jour le thème</string>
+  <string name="theme_import_activity_label">Mettre à jour les thèmes</string>
   <string name="theme_import_data">Importation des données du thème</string>
   <string name="theme_import_fail">Impossible d\'importer %1$s</string>
   <string name="theme_import_from_sdcard">Importer depuis la carte SD</string>

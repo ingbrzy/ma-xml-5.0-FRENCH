@@ -5,7 +5,7 @@
   <string name="button_sort_by_size">Trier par taille</string>
   <string name="cancel_download_notice">Ignorer l\'avis de téléchargement</string>
   <string name="cancel_running_download">Annuler</string>
-  <string name="confirm_delete_downloads_message">%d téléchargements sélectionnés seront supprimés !</string>
+  <string name="confirm_delete_downloads_message">%d téléchargements vont être supprimés</string>
   <string name="confirm_delete_the_download_item_message">Veuillez confirmer la suppression du téléchargement</string>
   <string name="confirm_disable_download_only_in_wifi_message">Désactiver \"Télécharger via Wi-Fi uniquement\" sera susceptible de générer des frais supplémentaires de données. Êtes-vous sûr de vouloir le désactiver ?</string>
   <string name="delete_download">Supprimer</string>

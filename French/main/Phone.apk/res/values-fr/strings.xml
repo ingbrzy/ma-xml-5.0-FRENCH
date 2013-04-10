@@ -690,27 +690,27 @@ Voulez-vous tout de même changer de fournisseur ?\"</string>
   <string name="ota_skip_activation_dialog_message">"Si vous poursuivez sans activer votre mobile, vous ne pourrez ni téléphoner, ni vous connecter à des réseaux de données mobiles. La connexion à un réseau Wi-Fi reste possible. Vous serez invité à effectuer l\'activation à chaque démarrage du téléphone."</string>
   <string name="ota_skip_activation_dialog_skip_label">Ignorer</string>
   <string name="ota_skip_activation_dialog_title">"Ignorer l\'activation ?"</string>
-  <string name="ota_spc_failure">"NOMBRE EXCESSIF D\'ÉCHECS SPC"</string>
-  <string name="ota_speaker">Ht. parleur</string>
+  <string name="ota_spc_failure">"Nombre excessif d\'échecs SPC"</string>
+  <string name="ota_speaker">Haut parleur</string>
   <string name="ota_successful">Votre téléphone est désormais activé. Un délai de 15 minutes peut être nécessaire avant de démarrer le service.</string>
   <string name="ota_title_activate">Activer votre téléphone</string>
   <string name="ota_title_activate_success">Votre téléphone est activé</string>
   <string name="ota_title_problem_with_activation">"Problème lors de l\'activation"</string>
-  <string name="ota_touch_activate">\"Vous devez passer un appel spécial pour activer le service de téléphonie. 
+  <string name="ota_touch_activate">"Vous devez passer un appel spécial pour activer le service de téléphonie. 
 
-Après avoir appuyé sur \"Activer\", écoutez les instructions qui vous permettront d\'activer votre téléphone.\"</string>
+Après avoir appuyé sur \"Activer\", écoutez les instructions qui vous permettront d\'activer votre téléphone."</string>
   <string name="ota_try_again">Réessayer</string>
-  <string name="ota_unsuccessful">\"Votre téléphone n\'a pas pu être activé. 
+  <string name="ota_unsuccessful">"Votre téléphone n\'a pas pu être activé. 
 Il est possible que vous deviez vous déplacer vers une zone disposant d\'une meilleure couverture (près d\'une fenêtre ou à l\'extérieur).
 
-Veuillez réessayer ou appeler le service client pour plus d\'options.\"</string>
+Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="other_settings">"Autres paramètres d\'appel"</string>
   <string name="other_settings_miui">Autres paramètres d\'appel</string>
   <string name="password">Mot de passe</string>
   <string name="password_title">Mot de passe</string>
   <string name="pause_prompt_no">Non</string>
-  <string name="pause_prompt_str">\"Envoi des tonalités
-\"</string>
+  <string name="pause_prompt_str">"Envoi des tonalités
+"</string>
   <string name="pause_prompt_yes">Oui</string>
   <string name="payphone">Cabine téléphonique</string>
   <string name="phoneAppLabel">Téléphone</string>
@@ -767,8 +767,8 @@ Veuillez réessayer ou appeler le service client pour plus d\'options.\"</string
   <string name="preferred_network_mode_title">Mode réseau</string>
   <string name="preferred_network_mode_wcdma_only_summary">Mode réseau préféré : WCDMA uniquement</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Mode réseau préféré : WCDMA de préférence</string>
-  <string name="preferred_network_type_3g_only_warning_miui">\"Vous avez choisi 3G seulement. Cela signifie qu\'en l\'absence de couverture 3G, vous n\'aurez AUCUN réseau !
-Appuyez sur OK pour continuer.\"</string>
+  <string name="preferred_network_type_3g_only_warning_miui">"Vous avez choisi 3G seulement. Cela signifie qu\'en l\'absence de couverture 3G, vous n\'aurez AUCUN réseau !
+Appuyez sur OK pour continuer."</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G privilégiée</string>
@@ -1012,19 +1012,19 @@ Appuyez sur OK pour continuer.\"</string>
   <string name="telocation_show_settings_miui">Paramètres d\'affichage</string>
   <string name="third_party_account_summary">"Ce compte est actuellement utilisé par l\'application %s."</string>
   <string name="throttle_current_usage">Données utilisées sur la période en cours</string>
-  <string name="throttle_data_rate_reduced_subtext">\"%1$s maximum dépassé
-Taux de transfert des données réduit à %2$d Ko/s\"</string>
+  <string name="throttle_data_rate_reduced_subtext">"%1$s maximum dépassé
+Taux de transfert des données réduit à %2$d Ko/s"</string>
   <string name="throttle_data_usage">Consommation des données</string>
   <string name="throttle_data_usage_subtext">%1$s sur %3$s - (%2$d ٪) du maximum par période</string>
   <string name="throttle_help">En savoir plus</string>
   <string name="throttle_help_subtext">"Plus d\'informations sur les règles de votre opérateur mobile concernant l\'utilisation des données sur son réseau"</string>
   <string name="throttle_rate">Règles relatives au taux de transfert des données</string>
   <string name="throttle_rate_subtext">"Taux de transfert des données réduit à %1$d Ko/s si le plafond d\'utilisation est dépassé"</string>
-  <string name="throttle_status_subtext">\"%1$s sur %3$s - (%2$d ٪) du maximum par période
-La prochaine période démarre dans %4$d jours (%5$s).\"</string>
+  <string name="throttle_status_subtext">"%1$s sur %3$s - (%2$d ٪) du maximum par période
+La prochaine période démarre dans %4$d jours (%5$s)."</string>
   <string name="throttle_time_frame">"Période d\'utilisation des données"</string>
-  <string name="throttle_time_frame_subtext">\"%1$d ٪ du cycle écoulé
-La prochaine période démarre dans %2$d jours (%3$s).\"</string>
+  <string name="throttle_time_frame_subtext">"%1$d ٪ du cycle écoulé
+La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="title_data_settings">Paramètres des données</string>
   <string name="transport">Protocole</string>
   <string name="transport_title">Type de transport</string>
@@ -1054,8 +1054,8 @@ La prochaine période démarre dans %2$d jours (%3$s).\"</string>
   <string name="username_title">"Nom d\'utilisateur"</string>
   <string name="ussdRunning">Exécution du code USSD...</string>
   <string name="vibrate_on_ring_title">Mode Vibreur lorsque le tél. sonne</string>
-  <string name="vm_change_failed">\"Impossible de modifier le numéro de la messagerie vocale.
-Veuillez contacter votre opérateur si le problème persiste.\"</string>
+  <string name="vm_change_failed">"Impossible de modifier le numéro de la messagerie vocale.
+Veuillez contacter votre opérateur si le problème persiste."</string>
   <string name="vm_changed">Le numéro de messagerie vocale a été modifié.</string>
   <string name="voice_privacy">Confidentialité voix</string>
   <string name="voice_privacy_miui">Confidentialité vocale</string>
@@ -1083,8 +1083,8 @@ Veuillez contacter votre opérateur si le problème persiste.\"</string>
   <string name="voicemail_settings_number_hint_miui">Saisir le numéro de la messagerie vocale</string>
   <string name="voicemail_settings_number_label">N° messagerie vocale</string>
   <string name="voicemail_settings_number_title_miui">N° de messagerie vocale</string>
-  <string name="wait_prompt_str">\"Envoyer les tonalités suivantes ?
-\"</string>
+  <string name="wait_prompt_str">"Envoyer les tonalités suivantes ?
+"</string>
   <string name="wild_prompt_str">Remplacer le caractère générique par</string>
   <string name="xdivert_active">Actif</string>
   <string name="xdivert_button">Réglage du X-Divert</string>
