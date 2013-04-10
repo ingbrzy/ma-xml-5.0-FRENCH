@@ -37,7 +37,7 @@
   <string name="backup_recently">" (Dernier)"</string>
   <string name="backup_report">Rapport de sauvegarde</string>
   <string name="backup_update">Mise à jour</string>
-  <string name="batch_delete_backup_confirm">\nÊtes-vous sûr de vouloir supprimer les %d sauvegardes sélectionées ?</string>
+  <string name="batch_delete_backup_confirm">Êtes-vous sûr de vouloir supprimer %d sauvegarde(s) séléctionnnée(s) ?</string>
   <string name="button_backup">Sauvegarder</string>
   <string name="button_cancel">Annuler</string>
   <string name="button_finish">Terminé</string>

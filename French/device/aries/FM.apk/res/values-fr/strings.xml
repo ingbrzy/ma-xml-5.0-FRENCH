@@ -25,7 +25,7 @@
   <string name="delete_station_title">Supprimer</string>
   <string name="dialog_sleep_title">Sélectionnez heure d\'arrêt automatique</string>
   <string name="durationformat">%2$d:%5$02d</string>
-  <string name="edit_station">Editer la station</string>
+  <string name="edit_station">Éditer la station</string>
   <string name="enter_rssi">Entrez RMSSI Delta</string>
   <string name="enter_sigth">Entrez le Signal Th</string>
   <string name="exit_fm">Quitter</string>

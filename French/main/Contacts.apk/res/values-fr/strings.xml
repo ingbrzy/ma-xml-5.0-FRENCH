@@ -36,7 +36,7 @@
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Supprimer des contacts par lot</string>
-  <string name="batch_delete_msg">"Êtes-vous sur de vouloir supprimer les %d contacts sélectionnés ?
+  <string name="batch_delete_msg">"Êtes-vous sûr de vouloir supprimer les %d contacts sélectionnés ?
   
 Si vous utilisez le service de synchronisation de contact, les informations dans le nuage seront également supprimées."</string>
   <string name="bluetooth_connection_failed_toast">Connexion Bluetooth interrompue</string>

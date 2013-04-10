@@ -60,4 +60,11 @@
         <item>5</item>
         <item>Inactif</item>
     </string-array>
+	<string-array name="alarm_repeat_type">
+        <item>Une fois</item>
+        <item>Quotidiennement</item>
+        <item>Jours de travail</item>
+        <item>Lundi à Vendredi</item>
+        <item>Personalisée</item>
+    </string-array>
 </resources>

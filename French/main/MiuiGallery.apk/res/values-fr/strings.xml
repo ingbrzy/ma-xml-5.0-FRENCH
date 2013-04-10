@@ -37,7 +37,7 @@
   <string name="clear_thumbnail_cache_summary">"Visiter la galerie génère des miniatures. Vider le cache libérera de l\'espace."</string>
   <string name="click_to_enter_camera">"Ouvrir l\'appareil photo"</string>
   <string name="close">"Fermer"</string>
-  <string name="cloud_album_more_settings">" Paramètres de l\’album MiCloud"</string>
+  <string name="cloud_album_more_settings">"Paramètres de l\'album MiCloud"</string>
   <string name="cloud_album_set_create">"Nouveau"</string>
   <string name="cloud_albums">"Albums MiCloud"</string>
   <string name="cloud_camera_display_name">"Non trié"</string>

@@ -52,8 +52,8 @@
   <string name="default_ringtone_setting_title">Sonnerie par défaut</string>
   <string name="delelte_selected_timezone">Voulez-vous vraiment supprimer le(s) fuseau(x) horaire(s) ?</string>
   <string name="delete">Supprimer</string>
-  <string name="delete_alarm">"Supprimer l\'alarme"</string>
-  <string name="delete_alarm_confirm">Supprimer cette alarme ?</string>
+  <string name="delete_alarm">"Supprimer alarme"</string>
+  <string name="delete_alarm_confirm">Supprimer alarme(s) ?</string>
   <string name="delete_timezone_title">Supprimer le fuseau horaire</string>
   <string name="description_author">Auteur :</string>
   <string name="description_designer">Concepteur :</string>
@@ -116,7 +116,7 @@
   <string name="online_search_hint">Recherche de ressources en ligne</string>
   <string name="pause">Pause</string>
   <string name="processing">En cours...</string>
-  <string name="remind_ringtone">Mémoriser la sonnerie</string>
+  <string name="remind_ringtone">Sonnerie</string>
   <string name="reset">RÀZ</string>
   <string name="resource_alarm_default">Alarme</string>
   <string name="resource_app_name">Ressources de navigateur</string>

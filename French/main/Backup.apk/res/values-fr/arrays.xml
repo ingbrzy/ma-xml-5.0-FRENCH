@@ -9,9 +9,10 @@
     <item>"Explorateur de fichiers"</item>
     <item>"Photos"</item>
     <item>"Gestionnaire d\'autorisations"</item>
+	<item>"Caméra"</item>
+	<item>"Assistant réseau"</item>
     <item>"Stockage Météo"</item>
-    <item>"Caméra"</item>
-    <item>"Assistant réseau"</item>
+    <item>"Météo"</item>
   </string-array>
   <string-array name="system_data_label">
     <item>"Contacts"</item>
@@ -33,7 +34,7 @@
   </string-array>
   <string-array name="cloud_data_label">
     <item>"Contacts"</item>
-    <item>"journal d\'appel"</item>
+    <item>"Journal d\'appel"</item>
     <item>"Messages"</item>
     <item>"Paramètres Wi-Fi"</item>
     <item>"Notes"</item>

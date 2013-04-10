@@ -239,7 +239,7 @@
   <string name="voucher_btn_has_exchanged">Bon racheté</string>
   <string name="voucher_denom">MiCredits</string>
   <string name="voucher_edit_hint">Mot de passe : </string>
-  <string name="voucher_edit_limit">Editer la limite</string>
+  <string name="voucher_edit_limit">Éditer la limite</string>
   <string name="voucher_empty">Pas de données MiCredit conservées</string>
   <string name="voucher_error_code">Une erreur est survenue avec votre code de bon MiCredit</string>
   <string name="voucher_exchange">Échanger</string>

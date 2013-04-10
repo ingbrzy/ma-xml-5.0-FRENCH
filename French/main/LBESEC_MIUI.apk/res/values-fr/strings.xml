@@ -107,7 +107,7 @@
   <string name="HIPS_Perm_Location_Source_GPS">Source: GPS</string>
   <string name="HIPS_Perm_Location_Source_Network">Source: Réseau</string>
   <string name="HIPS_Perm_MobileNetwork">Réseau mobile</string>
-  <string name="HIPS_Perm_MobileNetwork_Desc">Accès à Internet avec le réseau du téléphone mobile</string>
+  <string name="HIPS_Perm_MobileNetwork_Desc">Accéder à Internet via le réseau mobile</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s applications ont la permission d\'accéder à Internet</string>
   <string name="HIPS_Perm_Network_Accept">Autoriser la connexion de %1$s</string>
   <string name="HIPS_Perm_Network_Connect">Se connecter à %1$s</string>
@@ -149,7 +149,7 @@
   <string name="HIPS_Perm_SilenceRinger">Couper la sonnerie</string>
   <string name="HIPS_Perm_Title">Titre</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">Accéder à Internet en Wi-Fi</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">Accéder à Internet via Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s applications ont la permission d\'accéder à Internet</string>
   <string name="HIPS_SecurityPrompt_Accept">Autorisé (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Autoriser</string>
@@ -158,7 +158,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Mise en garde importante</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Êtes-vous sûr de vouloir autoriser à %1$s la permission Root ?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">La permission Root peut provoquer une instabilité du système</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step3">Vos données personnelles telles que vos comptes, vos mot de passes et vos messages pourraient être compromises</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">Vos données personnelles (comptes, mots de passe, messages, etc.) pourraient être compromises</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Un dommage matériel permanent est également possible</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Utiliser avec précaution !</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Êtes-vous sûr de vouloir permettre à %1$s d\'obtenir la permission Root ?</string>

@@ -21,8 +21,8 @@
   <string name="call_record_folder_name">Notes vocales</string>
   <string name="close">Fermer</string>
   <string name="default_folder_name">Notes</string>
-  <string name="enable_sync">Sync</string>
-  <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Xiaomi %1$s, synchroniser maintenant ?</string>
+  <string name="enable_sync">Synchroniser</string>
+  <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Xiaomi %1$s, les synchroniser maintenant ?</string>
   <string name="error_note_empty_for_clock">Désolé, le rappel ne peut pas être défini sur une note vide</string>
   <string name="error_note_empty_for_send_to_desktop">Désolé, impossible d\'envoyer à l\'écran d\'accueil puis de vider la note</string>
   <string name="error_note_not_exist">La note n\'existe pas</string>
@@ -74,7 +74,7 @@
   <string name="search_hint">Rechercher des notes</string>
   <string name="search_label">Recherche de notes...</string>
   <string name="search_setting_description">Rechercher du texte dans les notes</string>
-  <string name="select_account_prompt">Activer la synchronisation de note</string>
+  <string name="select_account_prompt">Activer la synchronisation de notes</string>
   <string name="snippet_image_stub">[Image]</string>
   <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Export réussi</string>

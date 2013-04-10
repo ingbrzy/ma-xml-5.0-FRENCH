@@ -38,7 +38,7 @@ Toutes vos données d\'utilisateur précédentes vont être enregistrées."</str
   <string name="installing">Installation...</string>
   <string name="launch">Ouvrir</string>
   <string name="lift_ban">Lever l\'interdiction</string>
-  <string name="low_risk_perms">Autorisations de faible risque</string>
+  <string name="low_risk_perms">Autorisations à faible risque</string>
   <string name="manage_applications">Gérer les applications</string>
   <string name="manage_device_administrators">Gérer les administrateurs de l\'appareil</string>
   <string name="ok">OK</string>

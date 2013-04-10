@@ -11,7 +11,7 @@
   <string name="call_record_or">"ou"</string>
   <string name="call_record_sample_prefix_miui">"Enregistrement d\'appel"</string>
   <string name="caller_info_name_delimiter">"Ou"</string>
-  <string name="callNoAnswerTimeFormat">"Sonne %s fois"</string>
+  <string name="callNoAnswerTimeFormat">"A sonné %s fois"</string>
   <string name="check_phone_error_title">"Impossible d\'ouvrir la Synchronisation"</string>
   <string name="check_phone_io_error">"Erreur réseau"</string>
   <string name="childrens_day">"Journée de l\'enfant"</string>
