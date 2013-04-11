@@ -145,7 +145,7 @@
   <string name="Import">"Importer"</string>
   <string name="import_complete">"Importation terminée"</string>
   <string name="import_fail">"Échec de l\'importation."</string>
-  <string name="initial_cloud_button_text">"Commencez à utiliser votre MiCloud"</string>
+  <string name="initial_cloud_button_text">"Commencer à utiliser MiCloud"</string>
   <string name="initial_cloud_text">"À tout moment et n\'importe où, organisez et visualisez vos photos"</string>
   <string name="input_cloudfolder_name">"Nom du dossier MiCloud"</string>
   <string name="internal_camera_folder_display_name">"Photos de la caméra"</string>
@@ -248,10 +248,10 @@
   <string name="set_label_local_albums">"Albums en local"</string>
   <string name="set_label_mtp_devices">"Appareils MTP"</string>
   <string name="set_lock_and_wallpaper">"Définir comme fond d\'écran..."</string>
-  <string name="set_lock_or_wallpaper">"Définir fond d\'écran"</string>
+  <string name="set_lock_or_wallpaper">"Définir comme fond d\'écran"</string>
   <string name="set_lockscreen">"Fond d\'écran de verrouillage"</string>
   <string name="set_recent_album">"Définir en tant qu\'album récent"</string>
-  <string name="set_wallpaper">"Définir fond d\'écran"</string>
+  <string name="set_wallpaper">"Définir comme fond d\'écran"</string>
   <string name="settings">"Paramètres"</string>
   <string name="settings_i_xiaomi_com">"Connectez-vous sur i.xiaomi.com pour gérer votre stockage MiCloud"</string>
   <string name="shadow">"Ombres"</string>
@@ -287,8 +287,8 @@
   <string name="sync_only_in_wifi">"Wi-Fi seulement"</string>
   <string name="sync_only_in_wifi_summary">"Il est recommandé de l\'activer sinon cela va consommer du trafic réseau."</string>
   <string name="tab_all_text">"Les deux"</string>
-  <string name="tab_lockscreen_text">"Écran de verrouillage"</string>
-  <string name="tab_wallpaper_text">"Ordinateur de bureau"</string>
+  <string name="tab_lockscreen_text">"Verrouillage"</string>
+  <string name="tab_wallpaper_text">"Accueil"</string>
   <string name="tags">"Tags"</string>
   <string name="temperature">"Chaud"</string>
   <string name="time">"Heure"</string>

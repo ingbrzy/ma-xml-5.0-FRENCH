@@ -50,7 +50,7 @@
   <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
   <string name="always_use_device">Utiliser par défaut pour ce périphérique USB</string>
   <string name="app_label">IU système</string>
-  <string name="battery_low_percent_format">%d%% restant(s)</string>
+  <string name="battery_low_percent_format">%d%% restants</string>
   <string name="battery_low_subtitle">Le niveau de la batterie est faible.</string>
   <string name="battery_low_title">Brancher le chargeur</string>
   <string name="battery_low_why">Utilisation de la batterie</string>

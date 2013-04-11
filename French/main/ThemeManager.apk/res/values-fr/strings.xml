@@ -146,7 +146,7 @@
   <string name="theme_import_from_sdcard">Importer depuis la carte SD</string>
   <string name="theme_import_importing">Mise à jour... %1$d restant</string>
   <string name="theme_import_item_delete_request_button">Supprimer</string>
-  <string name="theme_import_item_delete_request_content">Le thème n\'a pas été mis à jour, vous pouvez l\'utiliser après la mise à jour ou choisir de le supprimer.</string>
+  <string name="theme_import_item_delete_request_content">Le thème n\'a pas été mis à jour, vous pourrez l\'utiliser après l\'avoir mis à jour, ou le supprimer.</string>
   <string name="theme_import_item_delete_request_title">Le thème n\'est pas à jour</string>
   <string name="theme_import_item_importing">Mise à jour...</string>
   <string name="theme_import_item_not_upgraded">Non mis à jour</string>
