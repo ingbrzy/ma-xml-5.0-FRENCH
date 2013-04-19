@@ -114,6 +114,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="app_factory_reset_dlg_text">"Toutes les mises à jour de cette application système Android vont être désinstallées."</string>
   <string name="app_factory_reset_dlg_title">"Désinstaller les mises à jour ?"</string>
   <string name="app_floating_window_dlg">Autoriser \"%1$s\" à afficher une fenêtre pop-up</string>
+  <string name="app_floating_window_dlg_disable">"Désactiver les réglages de fenêtre flottante de %1$s stoppera l\'application de force. Êtes-vous sûr de vouloir le désactiver ?"</string>
+  <string name="app_floating_window_dlg_enable">"Activer les réglages de fenêtre flottante de %1$s requiert un redémarrage de l\'application. Êtes-vous sûr de vouloir l\'activer ?"</string>
   <string name="app_forward_locked">"L\'application est protégée contre la copie."</string>
   <string name="app_install_location_summary">"Modifier l\'emplacement d\'installation par défaut pour les nouvelles applications"</string>
   <string name="app_install_location_title">"Emplacement d\'installation souhaité"</string>
@@ -808,6 +810,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="finish_button_label">"Terminer"</string>
   <string name="firmware_version">"Version Android"</string>
   <string name="floating_window_switch_label">Afficher la fenêtre pop-up</string>
+  <string name="floating_window_switch_label_disable">Masquer la fenêtre pop-up</string>
   <string name="font_size_huge">"Énorme"</string>
   <string name="font_size_large">"Grand"</string>
   <string name="font_size_medium">"Moyenne"</string>
@@ -1666,6 +1669,7 @@ Le code PIN est peut-être incorrect.\""</string>
   <string name="sim_lock_off">"Demander le code PIN pour utiliser le téléphone"</string>
   <string name="sim_lock_on">"Demander le code PIN pour utiliser le téléphone"</string>
   <string name="sim_lock_settings">"Paramètres verrouillage SIM"</string>
+  <string name="sim_management_title">Gestion SIM</string>
   <string name="sim_lock_settings_category">"Configurer verrouillage carte SIM"</string>
   <string name="sim_lock_settings_title">"Verrouillage de la SIM"</string>
   <string name="sim_pin_attempts">"Tentatives restantes : "</string>

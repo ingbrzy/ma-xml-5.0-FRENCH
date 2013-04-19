@@ -429,7 +429,8 @@
   <string name="ssl_unknown">"Erreur : Certificat inconnu."</string>
   <string name="ssl_untrusted">"Ce certificat provient d\'une autorité non approuvée."</string>
   <string name="ssl_warnings_header">"Le certificat de sécurité pour ce site présente des problèmes."</string>
-  <string name="stop">"Interrompre"</string>
+  <string name="stop">Interrompre</string>
+  <string name="stop_loading">Interrompre</string>
   <string name="stopping">"Arrêt..."</string>
   <string name="tab_bookmarks">"Favoris"</string>
   <string name="tab_closed">"Onglet fermé."</string>

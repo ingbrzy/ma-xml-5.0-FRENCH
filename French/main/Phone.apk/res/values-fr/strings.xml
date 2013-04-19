@@ -42,6 +42,9 @@
   <string name="answer_widget_sliding_horizontal_miui">Coulissement horizontal</string>
   <string name="answer_widget_sliding_vertical_miui">Coulissement vertical</string>
   <string name="answer_widget_title_miui">Geste de réponse</string>
+  <string name="antispam_marked_count">%1$d personnes marquées</string>
+  <string name="antispam_marked_title">%1$s</string>
+  <string name="antispam_notification_title">Numéro inconnu détecté</string>
   <string name="apn_settings">"Noms des points d\'accès"</string>
   <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Code régional requis pour les appels d\'urgence</string>

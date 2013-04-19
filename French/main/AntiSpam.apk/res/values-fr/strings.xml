@@ -46,6 +46,7 @@
   <string name="context_call">"Appeler"</string>
   <string name="context_ms">"Envoyer le message"</string>
   <string name="context_new_contact">"Nouveau Contact"</string>
+  <string name="custom_mark_category">Personalisé</string>
   <string name="edit_blacklist">"Modifier la note"</string>
   <string name="edit_whitelist">"Modifier la note"</string>
   <string name="emptylist_fwlog_call">"Tous les appels bloqués seront enregistrés ici."</string>
@@ -108,6 +109,8 @@
   <string name="fw_whitelist">"Liste blanche"</string>
   <string name="fw_whitelist_hint">"Les membres de la liste blanche ne seront pas bloqués"</string>
   <string name="log_count">"(%d)"</string>
+  <string name="mark_number_dialog_maintitle">Marquer les numéros inconnus et sauver</string>
+  <string name="mark_number_dialog_subtitle">Développé avec Sogou</string>
   <string name="member_firewall_log" formatted="false">"Bloqué : Numéro %d détails %d"</string>
   <string name="menu_edit">"Modifier"</string>
   <string name="mms_log_tab_title">"Messages"</string>
@@ -130,5 +133,10 @@
   <string name="save_button">"Enregistrer"</string>
   <string name="show_firewall_notification">"Notifications du pare-feu"</string>
   <string name="show_notification">"Afficher les notifications"</string>
-  <string name="whitelist_tab_title">"Liste blanche"</string>
+  <string name="smart_antispam">Antispam intelligent</string>
+  <string name="turn_on_smart_antispam_hint">Après l\'avoir activé les numéros seront identifiés, étiquetter les numéros aide à déterminer appels frauduleux.</string>
+  <string name="turn_on_smart_antispam_summary_off">Demander la base de données des numéros locaux</string>
+  <string name="turn_on_smart_antispam_summary_on">Fonctionne seulement en Wi-Fi et réseau 3G</string>
+  <string name="turn_on_smart_antispam_title">Identifier les numéros inconnus</string>
+  <string name="whitelist_tab_title">Liste blanche</string>
 </resources>
