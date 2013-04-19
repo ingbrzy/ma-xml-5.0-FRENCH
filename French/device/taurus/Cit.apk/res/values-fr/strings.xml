@@ -71,7 +71,7 @@
   <string name="cit_front_camera_check_title">Tester l\'appareil photo (face avant)</string>
   <string name="cit_gps_check_summary">Ce test affichera les informations GPS</string>
   <string name="cit_gps_check_title">Test du GPS</string>
-  <string name="cit_gps_disabled">"Le GPS est désactivé, activez le depuis le menu d\'activations rapides"</string>
+  <string name="cit_gps_disabled">Le GPS est désactivé, activez le depuis le menu d\'activations rapides</string>
   <string name="cit_gps_satellite_count">GPS Satellites : %d</string>
   <string name="cit_gps_satellite_prn">PRN : %s</string>
   <string name="cit_gps_satellite_snr">SNR : %s</string>

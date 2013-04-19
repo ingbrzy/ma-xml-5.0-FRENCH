@@ -2,12 +2,12 @@
 <resources>
   <string name="ErrorTooManyRequests">Trop de requêtes sont en cours de traitement. Veuillez réessayer ultérieurement.</string>
   <string name="ack_record">Enregistrement accusé de réception</string>
-  <string name="airplane_error_msg">"Bluetooth ne peut être utilisé en mode Avion."</string>
+  <string name="airplane_error_msg">Bluetooth ne peut être utilisé en mode Avion.</string>
   <string name="airplane_error_title">Mode Avion</string>
   <string name="app_name">Partage Bluetooth</string>
   <string name="app_name_bpp">Bluetooth BPP</string>
   <string name="auth_notif_message">Entrer la clé de session de %1$s</string>
-  <string name="auth_notif_ticker">Demande d\'authentification OBEX</string>
+  <string name="auth_notif_ticker">"Demande d\'authentification OBEX"</string>
   <string name="auth_notif_title">Clé de session</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bpp_authentication_timeout_message">Délai de saisie de la clé écoulé pour %1$s</string>
@@ -21,13 +21,12 @@
   <string name="bt_enable_line1">Vous devez activer la fonction Bluetooth pour pouvoir utiliser les services Bluetooth.</string>
   <string name="bt_enable_line2">Activer le Bluetooth maintenant ?</string>
   <string name="bt_enable_ok">Activer</string>
-  <string name="bt_enable_title"></string>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">"Espace insuffisant sur la mémoire de stockage USB pour l\'enregistrement du fichier de \"%1$s\"."</string>
   <string name="bt_sm_2_2">Espace nécessaire : %1$s</string>
-  <string name="bt_toast_1">La réception du fichier va commencer. La progression va s\'afficher dans le panneau de notification.</string>
-  <string name="bt_toast_2">"Impossible de recevoir le fichier."</string>
+  <string name="bt_toast_1">"La réception du fichier va commencer. La progression va s\'afficher dans le panneau de notification."</string>
+  <string name="bt_toast_2">Impossible de recevoir le fichier.</string>
   <string name="bt_toast_3">Réception du fichier de \"%1$s\" interrompue</string>
   <string name="bt_toast_4">Envoi du fichier à \"%1$s\"</string>
   <string name="bt_toast_5">Envoi de %1$s fichiers à \"%2$s\"</string>
@@ -35,8 +34,8 @@
   <string name="btopp_live_folder">Reçu par Bluetooth</string>
   <string name="defaultname">Kit mains libres</string>
   <string name="defaultnumber">000000</string>
-  <string name="deleteAll_record">Supprimer tout l\'enregistrement</string>
-  <string name="delete_record">Supprimer l\'enregistrement</string>
+  <string name="deleteAll_record">"Supprimer tout l\'enregistrement"</string>
+  <string name="delete_record">"Supprimer l\'enregistrement"</string>
   <string name="download_cancel">Arrêter</string>
   <string name="download_fail_line1">Fichier non reçu</string>
   <string name="download_fail_line2">Fichier : %1$s</string>
@@ -45,7 +44,6 @@
   <string name="download_line1">De : \"%1$s\"</string>
   <string name="download_line2">Fichier : %1$s</string>
   <string name="download_line3">Taille du fichier : %1$s</string>
-  <string name="download_line4"></string>
   <string name="download_line5">Réception de fichier en cours...</string>
   <string name="download_ok">Masquer</string>
   <string name="download_succ_line5">Fichier reçu</string>
@@ -65,7 +63,7 @@
   <string name="ftp_session_key_dialog_header">Clé de session Bluetooth requise</string>
   <string name="ftp_session_key_dialog_title">Saisir la clé pour %1$s</string>
   <string name="hello">Bonjour à tous, TestActivity</string>
-  <string name="inbound_history_title">"Transferts entrants"</string>
+  <string name="inbound_history_title">Transferts entrants</string>
   <string name="inbound_noti_title">Partage Bluetooth : fichiers reçus</string>
   <string name="incoming_file_confirm_Notification_caption">Voulez-vous recevoir ce fichier ?</string>
   <string name="incoming_file_confirm_Notification_title">Partage Bluetooth : réception de fichier</string>
@@ -77,8 +75,8 @@
   <string name="incoming_file_confirm_timeout_content">Expiration du délai de réception du fichier de \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
   <string name="incoming_file_confirm_title">Transfert de fichier</string>
-  <string name="incoming_file_toast_msg">Fichier entrant provenant d\'un autre appareil. Confirmez que vous souhaitez recevoir ce fichier.</string>
-  <string name="insert_record">Insérer l\'enregistrement</string>
+  <string name="incoming_file_toast_msg">"Fichier entrant provenant d\'un autre appareil. Confirmez que vous souhaitez recevoir ce fichier."</string>
+  <string name="insert_record">"Insérer l\'enregistrement"</string>
   <string name="localPhoneName">Mon nom</string>
   <string name="map_acceptance_dialog_header">Accès aux dossiers du téléphone</string>
   <string name="map_acceptance_dialog_title">%1$s demande un accès aux dossiers de votre téléphone. Accordez-vous cet accès à %2$s ?</string>
@@ -90,10 +88,10 @@
   <string name="map_notif_title">Requêtes MAP</string>
   <string name="map_session_key_dialog_header">Clé de session Bluetooth requise</string>
   <string name="map_session_key_dialog_title">Saisir la clé pour %1$s</string>
-  <string name="no_transfers">L\'historique des transferts est vide.</string>
+  <string name="no_transfers">"L\'historique des transferts est vide."</string>
   <string name="not_exist_file">Aucun fichier</string>
-  <string name="not_exist_file_desc">"\"Le fichier n\'existe pas. 
-\""</string>
+  <string name="not_exist_file_desc">\"Le fichier n\'existe pas. 
+\"</string>
   <string name="noti_caption">Réussite : %1$s, échec : %2$s</string>
   <string name="notification_received">Partage Bluetooth : %1$s reçu</string>
   <string name="notification_received_fail">Partage Bluetooth : fichier %1$s non reçu</string>
@@ -104,21 +102,19 @@
   <string name="notification_sent_fail">Partage Bluetooth : fichier %1$s non envoyé</string>
   <string name="notify_server">Avertir le serveur TCP</string>
   <string name="ok_button">OK</string>
-  <string name="outbound_history_title">"Transferts sortants"</string>
+  <string name="outbound_history_title">Transferts sortants</string>
   <string name="outbound_noti_title">Partage Bluetooth : fichiers envoyés</string>
   <string name="pbap_acceptance_timeout_message">Délai d\'acceptation de la connexion à %1$s écoulé</string>
-  <string name="pbap_authentication_timeout_message">Délai d\'attente dépassé pour la saisie de la clé de session avec \"%1$s\"</string>
+  <string name="pbap_authentication_timeout_message">"Délai d\'attente dépassé pour la saisie de la clé de session avec \"%1$s\""</string>
   <string name="pbap_session_key_dialog_header">Clé de session Bluetooth requise</string>
   <string name="pbap_session_key_dialog_title">Entrer la clé de session de %1$s</string>
-  <string name="permdesc_bluetoothShareManager">Permet à l\'application d\'accéder au gestionnaire BluetoothShare et de l\'utiliser pour le transfert de fichiers.</string>
-  <string name="permdesc_bluetoothWhitelist">Permet à l\'application d\'ajouter temporairement un appareil Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l\'utilisateur ne soit nécessaire.</string>
-  <string name="permdesc_handoverStatus">Permet la réception d\'informations concernant l\'état du transfert via Bluetooth.</string>
+  <string name="permdesc_bluetoothShareManager">"Permet à l\'application d\'accéder au gestionnaire BluetoothShare et de l\'utiliser pour le transfert de fichiers."</string>
+  <string name="permdesc_bluetoothWhitelist">"Permet à l\'application d\'ajouter temporairement un appareil Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l\'utilisateur ne soit nécessaire."</string>
+  <string name="permdesc_handoverStatus">"Permet la réception d\'informations concernant l\'état du transfert via Bluetooth."</string>
   <string name="permlab_bluetoothShareManager">Accéder au gestionnaire de téléchargement</string>
   <string name="permlab_bluetoothWhitelist">Ajouter des appareils Bluetooth à la liste blanche.</string>
   <string name="permlab_handoverStatus">Recevoir des messages concernant les transferts Bluetooth</string>
-  <string name="process"></string>
   <string name="share_prepare">Préparation du partage Bluetooth</string>
-  <string name="sharedUserId"></string>
   <string name="start_server">Démarrer le serveur TCP</string>
   <string name="status_bpp_aborted_by_printer">Impression arrêtée par l\'utilisateur</string>
   <string name="status_bpp_canceled_by_user">Impression annulée par un utilisateur</string>
@@ -138,16 +134,16 @@
   <string name="status_bpp_stopped_by_printer">Impression arrêtée par l\'imprimante</string>
   <string name="status_bpp_sucess">Impression terminée avec succès</string>
   <string name="status_bpp_unknown_error_by_printer">Erreur inconnue de l\'imprimante</string>
-  <string name="status_canceled">Le transfert a été annulé par l\'utilisateur.</string>
+  <string name="status_canceled">"Le transfert a été annulé par l\'utilisateur."</string>
   <string name="status_connection_error">Échec de la connexion.</string>
   <string name="status_file_error">Problème de mémoire.</string>
-  <string name="status_forbidden">L\'appareil cible n\'autorise pas le transfert.</string>
+  <string name="status_forbidden">"L\'appareil cible n\'autorise pas le transfert."</string>
   <string name="status_no_sd_card">Aucune mémoire de stockage USB</string>
   <string name="status_not_accept">"Le contenu n\'est pas compatible."</string>
-  <string name="status_pending">Le transfert de fichier n\'a pas encore commencé.</string>
-  <string name="status_protocol_error">"Impossible de traiter la demande correctement."</string>
+  <string name="status_pending">"Le transfert de fichier n\'a pas encore commencé."</string>
+  <string name="status_protocol_error">Impossible de traiter la demande correctement.</string>
   <string name="status_running">Le transfert de fichier est en cours.</string>
-  <string name="status_success">Le transfert de fichiers s\'est déroulé correctement.</string>
+  <string name="status_success">"Le transfert de fichiers s\'est déroulé correctement."</string>
   <string name="status_unknown_error">Erreur inconnue.</string>
   <string name="transfer_clear_dlg_msg">Tous les éléments de la liste seront effacés.</string>
   <string name="transfer_clear_dlg_title">Effacer</string>
@@ -158,9 +154,9 @@
   <string name="unknownNumber">Inconnu</string>
   <string name="unknown_device">Périphérique inconnu</string>
   <string name="unknown_file">Fichier inconnu</string>
-  <string name="unknown_file_desc">"\"Aucune application ne permet de gérer ce type de fichier. 
-\""</string>
-  <string name="update_record">Confirmer l\'enregistrement</string>
+  <string name="unknown_file_desc">\"Aucune application ne permet de gérer ce type de fichier. 
+\"</string>
+  <string name="update_record">"Confirmer l\'enregistrement"</string>
   <string name="upload_fail_cancel">Fermer</string>
   <string name="upload_fail_line1">"Le fichier n\'a pas été envoyé à %1$s."</string>
   <string name="upload_fail_line1_2">Fichier : %1$s</string>
