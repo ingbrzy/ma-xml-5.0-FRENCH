@@ -334,8 +334,8 @@
   <string name="pref_camera_skinToneEnhancement_value_enable">enable</string>
   <string name="pref_camera_skin_beautify_default">off</string>
   <string name="pref_camera_sound_default">on</string>
-  <string name="pref_camera_sound_entry_off">Désactivé</string>
-  <string name="pref_camera_sound_entry_on">Activé</string>
+  <string name="pref_camera_sound_entry_off">off</string>
+  <string name="pref_camera_sound_entry_on">on</string>
   <string name="pref_camera_sound_title">Son de la Camera</string>
   <string name="pref_camera_sound_title_entry_off">Désactivé</string>
   <string name="pref_camera_sound_title_entry_on">Activé</string>
