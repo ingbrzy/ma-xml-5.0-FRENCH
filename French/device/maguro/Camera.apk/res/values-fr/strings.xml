@@ -114,7 +114,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_2500">2.5s</string>
   <string name="pref_video_time_lapse_frame_interval_entry_3000">3s</string>
   <string name="pref_video_time_lapse_frame_interval_entry_5000">5s</string>
-  <string name="pref_video_time_lapse_frame_interval_title">Intervalle de temps écoulé</string>
+  <string name="pref_video_time_lapse_frame_interval_title">Intervalle de temps</string>
   <string name="preparing_sd">Préparation du stockage...</string>
   <string name="review_cancel">ANNULER</string>
   <string name="review_ok">OK</string>
