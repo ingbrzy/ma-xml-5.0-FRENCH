@@ -33,11 +33,11 @@
   <string name="category_zip">Archives</string>
   <string name="choose_send_type">Sélectionner type d\'envoi</string>
   <string name="choose_upload_location">Choisir l’emplacement de chargement</string>
-<string name="clean_app_garbage">Suppression de %d élément(s)</string>
+  <string name="clean_app_garbage">Suppression de %d élément(s)</string>
   <string name="clean_message">Suppression de %1$s</string>
   <string name="clean_title">Supprimer les fichiers de plus de 30 jours dans la corbeille</string>
   <string name="clean_trash_box">Vider la corbeille</string>
- <string name="cleanup_complete">Nettoyage réussi</string>
+  <string name="cleanup_complete">Nettoyage réussi</string>
   <string name="clear_cache">Vider le cache</string>
   <string name="close">Fermer</string>
   <string name="compress_message">Compresser vers:</string>
@@ -110,7 +110,7 @@ Indésirable"</string>
   <string name="header_text_cleaned">Supprimer indésirable</string> 
   <string name="header_text_cleaning">Nettoyage indésirable laissé</string> 
   <string name="header_text_scanned">Fichiers indésirables à supprimer trouvés</string> 
-  <string name="header_text_scanning">Scan des fichiers indésirables...<string>
+  <string name="header_text_scanning">Scan des fichiers indésirables...</string>
   <string name="instruction">Entrez l\'adresse suivante dans votre client FTP:</string>
   <string name="instruction_pre">Démarrez le service pour activer le serveur FTP</string>
   <string name="item_name">Sans nom</string>
