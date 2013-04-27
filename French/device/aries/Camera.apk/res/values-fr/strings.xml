@@ -404,6 +404,7 @@
   <string name="simple_mode_button_text_hdr">"Fermer le mode HDR"</string>
   <string name="simple_mode_button_text_panorama">"Fermer le mode panorama"</string>
   <string name="simple_mode_button_text_slow_video">"Fermer la caméra en ralenti"</string>
+  <string name="simple_mode_title">Mode Simple</string>
   <string name="skip">"Ignorer"</string>
   <string name="slideshow">"Diaporama"</string>
   <string name="snapshot_lower_than_video">"La taille de capture vidéo est inférieure à la taille de la vidéo. Plafonnement de la taille de la vidéo. Veuillez sélectionner une résolution supérieure ou égale à la taille actuelle de la vidéo."</string>

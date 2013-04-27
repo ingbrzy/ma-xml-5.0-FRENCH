@@ -6,8 +6,8 @@
   <string name="button_next">Suivant</string>
   <string name="button_pre">Précédent</string>
   <string name="cancel">Annuler</string>
-  <string name="cancel_receive">Annuler la réception</string>
-  <string name="cancel_send">Annuler l\'envoi</string>
+  <string name="cancel_receive">Annuler</string>
+  <string name="cancel_send">Annuler</string>
   <string name="canceling">Annulation</string>
   <string name="choose_title">Choisir un fichier</string>
   <string name="connect_confirm">%1$s requiert une connexion</string>
@@ -29,7 +29,7 @@
   <string name="guide_label">Guide de transfert</string>
   <string name="history">Historique de transfert</string>
   <string name="history_all">Tout l\'historique</string>
-  <string name="history_receive">Recevoir l\'historique</string>
+  <string name="history_receive">Historique reçu</string>
   <string name="history_send">Envoyer l\'historique</string>
   <string name="input_device_name">Entrer le nom de l\'appareil</string>
   <string name="input_device_name_tip">Utiliser Transfert pour envoyer des fichiers, pour l\'interconnectivité Bluetooth et l\'établissement d\'un Hotspot partagé. D\'autres appareils verront le nom de votre appareil.</string>
@@ -40,8 +40,8 @@
   <string name="noti_completed">Terminé, %1$d/%2$d fichier(s) transféré(s)</string>
   <string name="noti_receiving">%1$s : Réception de %2$d/%3$d fichier(s)</string>
   <string name="noti_sending">%1$s : Envoi de %2$d/%3$d fichier(s)</string>
-  <string name="noti_wait_receive">Attente de réception...</string>
-  <string name="noti_wait_send">"Attente de réception, veuillez vous assurer que l\'envoyeur a activé la connexion et peut envoyer des fichiers "</string>
+  <string name="noti_wait_receive">Attente de réception de fichier(s)</string>
+  <string name="noti_wait_send">"Attente de réception de fichier(s), veuillez vous assurer que l\'envoyeur a activé la connexion et peut envoyer des fichiers "</string>
   <string name="ok">OK</string>
   <string name="operation_delete">Supprimer</string>
   <string name="operation_goto_folder">Aller au dossier</string>
@@ -94,6 +94,7 @@
   <string name="title_step_three">3. Partager des fichiers avec des amis</string>
   <string name="title_step_two">2. AnyShare est un protocole de transfert universel</string>
   <string name="transfer_history">Historique de transfert</string>
+  <string name="trasfer_list">Liste des transferts</string>
   <string name="use_start">Commencer maintenant</string>
   <string name="voice_assist_match">Auto-couplage rapide</string>
   <string name="voice_match">Auto-couplage</string>
