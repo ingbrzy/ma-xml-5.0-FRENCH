@@ -15,6 +15,7 @@
   <string name="bind_description">Autoriser la synchronisation avec les contacts du téléphone</string>
   <string name="bind_sina_weibo">Autoriser Sina Weibo</string>
   <string name="bind_weibo_description">Trouver les contacts téléphoniques, amis et d\'autres informations directement à partir de votre compte</string>
+  <string name="binded">Associé</string>
   <string name="binding_behavior_error">Erreur d\'autorisation !</string>
   <string name="btn_activate">Activer</string>
   <string name="btn_back">Arrière</string>
@@ -158,6 +159,7 @@
   <string name="prepaid_picker_title_default">Sélectionnez le montant de la recharge</string>
   <string name="prepaid_picker_title_selected">Montant de la recharge</string>
   <string name="prev">Précédent</string>
+  <string name="process_result">Résultat :</string>
   <string name="progress_connecting">Connexion...</string>
   <string name="progress_creating">Récupération des informations de la commande...</string>
   <string name="progress_downloading">Chargement...</string>
@@ -229,6 +231,7 @@
   <string name="unbind">Retirer l\'autorisation</string>
   <string name="update_contacts">Mise à jour des contacts</string>
   <string name="update_contacts_description">Met à jour vos contacts téléphoniques et d\'autres informations</string>
+  <string name="updated_contacts">%s contacts mis à jour</string>
   <string name="user_agreement_p1">"En vous connectant, vous acceptez les"</string>
   <string name="user_agreement_p2">Conditions d\'utilisation de Xiaomi</string>
   <string name="user_agreement_p3"> et </string>

@@ -156,7 +156,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="automatic_brightness">"Ajuster automatiquement la luminosité"</string>
   <string name="available_size">"%s disponible"</string>
   <string name="awake">"Durée de fonctionnement de l\'appareil"</string>
-  <string name="back_long_press">"Touche retour"</string>
+  <string name="back_key">Touche Retour</string>
+  <string name="back_long_press">"Touche Retour"</string>
   <string name="back_long_press_timeout">"Délai en secondes"</string>
   <string name="background_data">"Données en arrière-plan"</string>
   <string name="background_data_dialog_message">"La désactivation des données en arrière-plan économise la batterie et réduit l\'utilisation des données. Certaines applications peuvent continuer d\'utiliser la connexion Internet en arrière-plan."</string>
@@ -672,6 +673,9 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="device_status_summary">"Numéro de téléphone, signal, etc."</string>
   <string name="dialog_title_font_size">"Taille de police"</string>
   <string name="dirac_control">Contrôle Dirac</string>
+  <string name="dirac_mode_earbuds">Écouteurs classiques</string>
+  <string name="dirac_mode_earphones">Écouteurs intra-auriculaires</string>
+  <string name="dirac_mode_off">Dirac désactivé</string>
   <string name="disableNetwork">"disableNetwork"</string>
   <string name="disable_overlays">"Désact. superpos. matérielle"</string>
   <string name="disable_overlays_summary">"Toujours utiliser le GPU pour la composition de l\'écran"</string>
@@ -853,6 +857,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="help_label">"Aide"</string>
   <string name="hidden_ssid_label">"SSID caché : "</string>
   <string name="history_details_title">"Informations sur l\'historique"</string>
+  <string name="home_key">Touche Accueil</string>
   <string name="ime_security_warning">"Ce mode de saisie est susceptible d\'enregistrer le texte que vous saisissez, y compris vos données personnelles, telles que les mots de passe et les numéros de carte de paiement. Il provient de l\'application %1$s. Voulez-vous vraiment l\'activer ?"</string>
   <string name="immediately_destroy_activities">"Ne pas conserver d\'activité"</string>
   <string name="immediately_destroy_activities_summary">Arrêter chaque activité dès que l\'utilisateur la quitte</string>
@@ -1513,6 +1518,9 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="screen_button_key">"Écran de touches virtuelles"</string>
   <string name="screen_color_temperature_adjust">"Température des couleurs"</string>
   <string name="screen_compatibility_label">"Compatibilité de l\'écran"</string>
+  <string name="screen_key_long_press">Touches d\'appui long de l\'écran</string>
+  <string name="screen_key_long_press_action">Fonction de déclenchement</string>
+  <string name="screen_key_long_press_timeout">Délai de l\'appui long</string>
   <string name="screen_compatibility_text">"Cette application n\'est peut-être pas adaptée à votre écran. Vous pouvez modifier les paramètres d\'ajustement ici."</string>
   <string name="screen_on_proximity_sensor_summary">"Désactive les fonctions d\'appels si l\'appareil est dans la poche (via le détecteur de proximité)."</string>
   <string name="screen_on_proximity_sensor_title">"Éviter les erreurs de manipulation"</string>
@@ -1842,8 +1850,9 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="tts_settings">"Paramètres de la synthèse vocale"</string>
   <string name="tts_settings_changed_demo">"Vos paramètres ont été modifiés. Voici un échantillon illustrant les nouveaux paramètres."</string>
   <string name="tts_settings_title">"Sortie de la synthèse vocale"</string>
-  <string name="turn_off_radio">"Éteindre le signal radio"</string>
-  <string name="turn_on_radio">"Allumer le signal radio"</string>
+  <string name="turn_off_radio">"Éteindre la radio"</string>
+  <string name="turn_on_radio">"Allumer la radio"</string>
+  <string name="under_keyguard">Sur l\'écran de verrouillage</string>
   <string name="uninstall_text">"Désinstaller"</string>
   <string name="unknown">"Inconnu"</string>
   <string name="unlock_backup_info_summary">"Lorsque vous ne pouvez pas utiliser Face Unlock, comment voulez-vous effectuer le déverrouillage ?"</string>
