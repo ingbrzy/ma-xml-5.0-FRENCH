@@ -88,8 +88,9 @@
   <string name="i_know">OK</string>
   <string name="imported_contacts">%s contacts importés</string>
   <string name="input_password_hint">Saisissez le mot de passe</string>
-  <string name="label_order_name">Nom du produit:</string>
-  <string name="label_order_price">Quantité:</string>
+  <string name="int_phone_user_notice">Lors de l\'enregistrement d\'un numéro hors de Chine veuillez entrer votre code de pays, par exemple +33xxxxxxxxx</string>
+  <string name="label_order_name">Nom du produit :</string>
+  <string name="label_order_price">Quantité :</string>
   <string name="login">Se connecter</string>
   <string name="login_failed">Échec de la connexion</string>
   <string name="login_notice">Connexion...</string>
@@ -119,6 +120,8 @@
   <string name="micloud_resend_active_email">Renvoyer le mail d\'activation</string>
   <string name="micloud_use_existing">Se connecter</string>
   <string name="micloud_val_sms_alert">Un SMS va être envoyé afin de confirmer votre numéro de téléphone, continuer ?</string>
+  <string name="micloud_via_int_sms_alert">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
+  <string name="micloud_via_sms_alert">Un SMS va être envoyé pour valider notre numéro de téléphone. Êtes-vous sûr de vouloir continuer ?</string>
   <string name="micloud_welcome_skip_login">Passer l\'enregistrement</string>
   <string name="mili_center">Centre Mi Credit</string>
   <string name="next">Suivant</string>
@@ -203,11 +206,13 @@
   <string name="reg_failed">Échec de l\'enregistrement</string>
   <string name="reg_type_email">S\'inscrire par Mail</string>
   <string name="reg_type_phone">S\'inscrire par téléphone (recommandé)</string>
+  <string name="reging">Inscription, veuillez patienter...</string>
   <string name="relogin">Se connecter</string>
   <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appel et des notes déjà synchronisés sur votre appareil ?</string>
   <string name="remove_confirm">Supprimer</string>
   <string name="remove_unactivated_account_notice">Le compte Xiaomi n\'est pas activé, désirez-vous le retirer maintenant ?</string>
   <string name="removing_account">Suppression du compte...</string>
+  <string name="send_int_sms_for_sync_notice">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
   <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
   <string name="send_sms_for_sync_title">Service de synchronisation non activé</string>
   <string name="sim_changed_notification_content">Carte SIM non activée, veuillez la réactiver</string>

@@ -88,11 +88,11 @@
   <string name="share">Partager</string>
   <string name="share_text">MIUI V5 supporte le transfert de fichier sans utilisation du réseau mobile. Utilisateurs non MIUI V5, veuillez télécharger %1$s</string>
   <string name="summary_step_one">Envoyer des images, musiques, contacts et autres fichiers divers</string>
-  <string name="summary_step_two">Inviter des amis à installer AnyShare</string>
-  <string name="support_tip">AnyShare fournira les instructions</string>
+  <string name="summary_step_two">Inviter des amis à installer MiShare</string>
+  <string name="support_tip">MiShare fournira les instructions</string>
   <string name="title_step_one">1. Les fichiers peuvent être transférés sans utilisation du réseau mobile</string>
   <string name="title_step_three">3. Partager des fichiers avec des amis</string>
-  <string name="title_step_two">2. AnyShare est un protocole de transfert universel</string>
+  <string name="title_step_two">2. MiShare est un protocole de transfert universel</string>
   <string name="transfer_history">Historique de transfert</string>
   <string name="trasfer_list">Liste des transferts</string>
   <string name="use_start">Commencer maintenant</string>
