@@ -113,7 +113,7 @@
   <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
   <string name="short_ringtone_resource">Court(&lt;5sec)</string>
   <string name="theme_another_import_running">L\'importation est déjà en cours, veuillez patienter et réessayer</string>
-  <string name="theme_changed_failed_message">Echec de l\'application du thème %1$s.</string>
+  <string name="theme_changed_failed_message">Échec de l\'application du thème %1$s.</string>
   <string name="theme_changed_message">%1$s Appliqué avec succès</string>
   <string name="theme_changing_dialog_title">Application du nouveau thème, veuillez patienter...</string>
   <string name="theme_component_title_alarm">Alarme</string>

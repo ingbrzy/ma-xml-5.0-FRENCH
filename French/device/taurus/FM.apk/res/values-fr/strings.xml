@@ -32,10 +32,10 @@
   <string name="factory_reset_dialog_message">Ceci va supprimer tous les paramètres y compris les préréglages</string>
   <string name="factory_reset_dialog_title">Confirmer la réinitialisation</string>
   <string name="find_af_station">Rechercher</string>
-  <string name="fm_cmd_failed_call_on">Echec FM. La FM n\'est pas autorisée pendant l\'appel</string>
-  <string name="fm_cmd_failed_msg">Echec FM. Si le problème persiste, veuillez éteindre FM et le rallumer</string>
-  <string name="fm_cmd_failed_msg_hdmi">Echec FM. FM et HDMI en même temps non supporté</string>
-  <string name="fm_command_failed_title">Echec FM</string>
+  <string name="fm_cmd_failed_call_on">Échec FM. La FM n\'est pas autorisée pendant l\'appel</string>
+  <string name="fm_cmd_failed_msg">Échec FM. Si le problème persiste, veuillez éteindre FM et le rallumer</string>
+  <string name="fm_cmd_failed_msg_hdmi">Échec FM. FM et HDMI en même temps non supporté</string>
+  <string name="fm_command_failed_title">Échec FM</string>
   <string name="fm_command_timeout_title">Délai d\'attente expiré</string>
   <string name="fm_tune_timeout_msg">Pas de réponse pour accrocher la Station FM, si le problème persiste, veuillez éteindre FM et le rallumer</string>
   <string name="fmradio_clear_confirm_msg">Les stations enregistrées seront supprimées, poursuivre la recherche ?</string>
@@ -83,7 +83,7 @@
   <string name="presetlist_autoselect_title">Confirmer la sélection auto</string>
   <string name="radio_text_string">Ceci est un message radio dont le texte demande un défilement</string>
   <string name="record_error_unknown">Enregistrement stoppé. Erreur inconnue pendant l\'enregistrement</string>
-  <string name="record_fail">Echec d\'enregistrement</string>
+  <string name="record_fail">Échec d\'enregistrement</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Cliquez sur pour afficher le fichier %s</string>
   <string name="record_sucess">Enregistrement réussi</string>

@@ -120,9 +120,9 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="sorted_flux">Statistiques du trafic</string>
   <string name="stop_app_button">Fermer</string>
   <string name="sync_fail_notify_detail">Le retour d\'information de l\'opérateurs n\'a pas été reçu, appuyez pour réessayer</string>
-  <string name="sync_fail_notify_title">Echec de la synchronisation</string>
+  <string name="sync_fail_notify_title">Échec de la synchronisation</string>
   <string name="sync_traffic_fail_message">La synchronisation avec l\'opérateur de téléphonie mobile a échoué, le serveur est occupé. Veuillez réessayer plus tard ou appeler le service client au %s pour obtenir de l\'aide</string>
-  <string name="sync_traffic_fail_title">Echec de la synchronisation</string>
+  <string name="sync_traffic_fail_title">Échec de la synchronisation</string>
   <string name="sync_traffic_ing">Synchronisation auprès de l\'opérateur, veuillez patienter...</string>
   <string name="sync_traffic_no_cmd_detail">"Soumettez votre Pays, ville, indicatif (+33) et opérateur sur le forum suivant: http://www.miui.com/forum-172-1.html. Merci."</string>
   <string name="sync_traffic_no_cmd_title">Aucun modèle de SMS</string>

@@ -189,7 +189,7 @@
   <string name="timer_start_alarm">Démarrer le minuteur</string>
   <string name="timer_title">Minuteur</string>
   <string name="timer_tutorial">Faire coulisser</string>
-  <string name="timezone_exist_error_message">Echec de l\'opération, le fuseau horaire semble déjà exister.</string>
+  <string name="timezone_exist_error_message">Échec de l\'opération, le fuseau horaire semble déjà exister.</string>
   <string name="timezone_search_hint">Chercher une ville pour ajouter une horloge mondiale</string>
   <string name="update_legal_workday_toast">Mettre à jour les vacances publiques chinoises dans les Paramètres</string>
   <string name="volume_button_dialog_title">Effet des boutons</string>

@@ -29,7 +29,7 @@
   <string name="description_summary">Résumé :</string>
   <string name="description_uploadtime">Mise à jour :</string>
   <string name="description_version">Version :</string>
-  <string name="download_failed">Echec du téléchargement</string>
+  <string name="download_failed">Échec du téléchargement</string>
   <string name="download_preview_failed">Impossible de charger l\'aperçu</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
