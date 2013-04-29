@@ -232,7 +232,7 @@
         <item>Vitesse d\'animation x10</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation désacrivée</item>
+        <item>Animation désactivée</item>
         <item>Vitesse d\'animation x0.5</item>
         <item>Vitesse d\'animation x1</item>
         <item>Vitesse d\'animation x1.5</item>
@@ -241,7 +241,7 @@
         <item>Vitesse d\'animation x10</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation désacrivée</item>
+        <item>Animation désactivée</item>
         <item>Vitesse d\'animation x0.5</item>
         <item>Vitesse d\'animation x1</item>
         <item>Vitesse d\'animation x1.5</item>
@@ -399,4 +399,11 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Brillant</item>
         <item>Standard</item>
     </string-array>
+	<string-array name="screen_key_long_press_action"> 
+		<item>Aucune</item> 
+		<item>Lancer les applications récentes</item> 
+		<item>Lancer l\'Assistant Vocal</item> 
+		<item>Lancer Google Now</item> 
+		<item>Fermer l\'application actuelle</item> 
+	</string-array>
 </resources>
