@@ -412,7 +412,8 @@
   <string name="short_pincode_error_msg">"Veuillez entrer de 4 à 8 chiffres"</string>
   <string name="short_pukcode_error_msg">"Veuillez saisir au moins 8 chiffres"</string>
   <string name="sim_account_name">"SIM"</string>
-  <string name="sim_changed_reactivate_notice">"La carte SIM actuelle n\'est pas activée. Un SMS est nécessaire pour activer le service de Synchronisation Xiaomi. Réactiver maintenant ?"</string>
+  <string name="sim_changed_reactivate_int_notice">La carte SIM actuelle n\'est pas activée. Un SMS international est requis pour activer ce service. Désirez-vous l\'activer maintenant ?</string>
+  <string name="sim_changed_reactivate_notice">"La carte SIM actuelle n\'est pas activée. Un SMS est nécessaire pour activer le service de Synchronisation Xiaomi. Le réactiver maintenant ?"</string>
   <string name="sim_in_airplane_mode">Désactiver le mode Avion</string>
   <string name="sim_locked">Carte SIM verrouillée</string>
   <string name="sim_not_ready">Carte SIM en cours d\'utilisation, veuillez réessayer plus tard.</string>

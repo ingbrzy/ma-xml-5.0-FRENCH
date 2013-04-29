@@ -50,6 +50,8 @@
   <string name="pref_title_record_type">Type de fichier d\'enregistrement</string>
   <string name="preference_led_indicator">Indicateur d\'enregistrement lorsque l\'écran est verrouillé</string>
   <string name="preference_led_indicator_prompt">Afficher les indicateurs LED et de barre d\'état pendant l\'enregistrement lorsque l\'écran est verrouillé</string>
+  <string name="preference_silent_mode">Enregistrement en mode silencieux</string>
+  <string name="preference_silent_mode_summary">Activer pour permettre les enregistrements en mode silencieux</string>
   <string name="preferences_title">Paramètres</string>
   <string name="record_list">Liste des enregistrements</string>
   <string name="record_loading"> Démarrage de l\'enregistrement, veuillez patienter.</string>

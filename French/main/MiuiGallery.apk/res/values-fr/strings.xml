@@ -3,9 +3,11 @@
   <string name="action_fail_unknown_error">L\'opération a échoué pour une raison inconnue.</string>
   <string name="activity_not_found">"Aucune application n\'est disponible pour effectuer l\'action."</string>
   <string name="add_account">"Ajouter un compte"</string>
+  <string name="add_sharer">Ajouter aux partagés</string>
   <string name="add_to_cloud_album">"Ajouter au MiCloud"</string>
   <string name="add_to_cloud_fail_too_many_items">L\'opération a échoué, trop d\'élements sélectionnés</string>
   <string name="add_to_cloud_folder">"Ajouter au dossier MiCloud"</string>
+  <string name="album_name">Nom de l\'album</string>
   <string name="albums">"Albums"</string>
   <string name="albumset_page_title_separator">" | "</string>
   <string name="alert">"Avis d\'information"</string>
@@ -30,6 +32,7 @@
   <string name="camera_path">"/DCIM/Camera"</string>
   <string name="camera_setas_wallpaper">"Fond d\'écran"</string>
   <string name="camera_view_none_message">"Les photos prises seront affichées ici."</string>
+  <string name="can_modified">Autoriser les mises à jour</string>
   <string name="cancel">"Annuler"</string>
   <string name="cant_delete_system_album">"%s est un album système et ne peut être supprimé !"</string>
   <string name="cleaning_cache">"Nettoyage du cache..."</string>
@@ -232,6 +235,7 @@
   <string name="save_photo">"Enregistrer la photo retouchée ?"</string>
   <string name="saving_failure">"Impossible d\'enregistrer la photo"</string>
   <string name="saving_image">"Enregistrement de l\'image..."</string>
+  <string name="scan_qr_code">Partager le QR code avec des amis pour permettre le partage de fichiers</string>
   <string name="sd_not_available">"Carte SD non montée ou indisponible"</string>
   <string name="seconds">"secondes"</string>
   <string name="select_album">"Sélectionner album"</string>
@@ -256,9 +260,14 @@
   <string name="settings">"Paramètres"</string>
   <string name="settings_i_xiaomi_com">"Connectez-vous sur i.xiaomi.com pour gérer votre stockage MiCloud"</string>
   <string name="shadow">"Ombres"</string>
-  <string name="shadow_polymorphism">"photoeditor_effect_shadow"</string>
+  <string name="share_album">Partager l\'album</string> 
+  <string name="share_album_owner">Partagé</string> 
+  <string name="share_album_qr_code">QR code</string> 
+  <string name="share_album_share_to">Partager avec</string> 
+  <string name="sharer_status_accepted">Accepté</string> 
+  <string name="sharer_status_refused">Rejeté</string> 
+  <string name="sharer_status_waitting">En attente</string>
   <string name="sharpen">"Netteté"</string>
-  <string name="sharpen_polymorphism">"photoeditor_effect_sharpen"</string>
   <string name="show_all">"Images et vidéos"</string>
   <string name="show_hidden_album">"Afficher les albums masqués"</string>
   <string name="show_hidden_albums">"Afficher les albums masqués"</string>

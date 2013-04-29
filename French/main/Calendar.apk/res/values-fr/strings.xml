@@ -126,7 +126,7 @@
   <string name="preferences_category_account_title">Compte</string>
   <string name="preferences_category_general_title">Général</string>
   <string name="preferences_clear_search_history_summary">Supprimer toutes les recherches effectuées</string>
-  <string name="preferences_clear_search_history_title">Effacer historique des recherches</string>
+  <string name="preferences_clear_search_history_title">Effacer l\'historique de recherche</string>
   <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">Rappel par défaut</string>
   <string name="preferences_default_reminder_title">Rappel par défaut</string>
@@ -150,7 +150,7 @@
   <string name="quick_response_settings">Réponses rapides</string>
   <string name="quick_response_settings_edit_title">Réponse rapide</string>
   <string name="quick_response_settings_summary">"Modifier réponses par défaut lors d\'envoi d\'e-mails aux invités"</string>
-  <string name="quick_response_settings_title">Modif. rép. rapides</string>
+  <string name="quick_response_settings_title">Modifier réponses rapides</string>
   <string name="reminders_label">Ajouter un rappel</string>
   <string name="repeats_label">Fréquence</string>
   <string name="response_maybe">Peut-être</string>
