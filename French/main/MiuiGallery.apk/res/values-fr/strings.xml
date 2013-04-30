@@ -14,7 +14,7 @@
   <string name="alert_message_initial_cloud">"Le système va automatiquement télécharger les anciennes et nouvelles photos et captures d\'écran seulement lorsqu\'il y a une connexion Wi-Fi."</string>
   <string name="alert_message_open_sync">"Sync est requis, souhaitez-vous ouvrir sync maintenant?"</string>
   <string name="aperture">"Ouverture"</string>
-  <string name="app_name">"Photos"</string>
+  <string name="app_name">Galerie</string>
   <string name="appwidget_empty_text">"Aucune photo"</string>
   <string name="appwidget_title">"Galerie photos"</string>
   <string name="auto">"Automatique"</string>
@@ -28,7 +28,7 @@
   <string name="browse_category">"Parcourir les photos"</string>
   <string name="camera_connected">"Appareil photo connecté."</string>
   <string name="camera_disconnected">"Appareil photo déconnecté."</string>
-  <string name="camera_folder_display_name">"Photos"</string>
+  <string name="camera_folder_display_name">"Appareil photo"</string>
   <string name="camera_path">"/DCIM/Camera"</string>
   <string name="camera_setas_wallpaper">"Fond d\'écran"</string>
   <string name="camera_view_none_message">"Les photos prises seront affichées ici."</string>

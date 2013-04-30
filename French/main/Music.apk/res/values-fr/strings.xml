@@ -10,7 +10,7 @@
   <string name="album_display_summary">Afficher la pochette de l\'album dans l\'interface du lecteur</string>
   <string name="album_download">Télécharger la pochette de l\'album</string>
   <string name="album_edit">Album</string>
-  <string name="album_picker_not_found">L\'application \"Photos\" n\'a pas été trouvée sur le périphérique</string>
+  <string name="album_picker_not_found">L\'application \"Galerie\" n\'a pas été trouvée sur le périphérique</string>
   <string name="album_search_failed">Pochette introuvable !</string>
   <string name="album_search_local_descript">Local | %1$d x %2$d</string>
   <string name="album_search_online_descript">En ligne | %1$d x %2$d</string>

@@ -30,6 +30,10 @@
   <string name="menu_wh_item_full_screen_label">Plein écran</string>
   <string name="menu_wh_item_using_16_9_label">Format 16:9</string>
   <string name="menu_wh_item_using_4_3_label">Format 4:3</string>
+  <string name="nowifi_alert_dialog_continue">Continuer</string>
+  <string name="nowifi_alert_dialog_exit">Quitter</string>
+  <string name="nowifi_alert_dialog_message">Utilisation du réseau mobile pour diffuser la vidéo, êtes-vous sûr de vouloir continuer ?</string>
+  <string name="nowifi_alert_dialog_title">Alerte de trafic</string>
   <string name="temp_play_history_button_label">Afficher l\'historique</string>
   <string name="to_be_play_label_v5">Démarrage de la lecture</string>
   <string name="toast_back_key_pressed_notice">Réappuyez sur la touche retour pour quitter.</string>

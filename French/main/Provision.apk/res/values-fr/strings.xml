@@ -2,6 +2,7 @@
 <resources>
   <string name="continues">"Continuer"</string>
   <string name="data_usage_summary">"Si vous n\'avez pas demandé un forfait de données, il est recommandé de les désactiver. Sinon, votre opérateur peut vous facturer des frais supplémentaires."</string>
+  <string name="default_gprs_sim_name">Veuillez entrer la limite de données de \"%s\"</string>
   <string name="input_method">"Mode de saisie"</string>
   <string name="input_method_category">"Sélectionner la méthode de saisie par défaut"</string>
   <string name="next">"Suivant"</string>

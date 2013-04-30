@@ -96,7 +96,7 @@
   <string name="login">Se connecter</string>
   <string name="login_failed">Échec de la connexion</string>
   <string name="login_notice">Connexion...</string>
-  <string name="mibi_license_message">Service Mi Credit de Xiaomi. En cliquant sur OK, vous acceptez être en accord avec %1$s.</string>
+  <string name="mibi_license_message">Service Mi Credit de Xiaomi. En cliquant sur OK, vous acceptez être en accord avec le %1$s.</string>
   <string name="mibi_license_message_span">Contrat d\'utilisation de Mi Credit</string>
   <string name="mibi_license_title">Contrat d\'utilisation de Mi Credit</string>
   <string name="micloud_account">Compte Xiaomi</string>
@@ -229,7 +229,7 @@
   <string name="skip_login">Ignorer la connexion</string>
   <string name="skip_setup_account_msg">Avec votre compte Xiaomi, vous pouvez synchroniser et sauvegarder vos SMS, contacts, photos, notes, etc. Continuer et configurer plus tard ?</string>
   <string name="skip_setup_account_title">Ignorer la configuration du compte</string>
-  <string name="sync_dspt">Utiliser le compte Xiaomi pour synchroniser les données</string>
+  <string name="sync_dspt">Activer la synchronisation</string>
   <string name="sync_off">Désactivé</string>
   <string name="sync_on">Activé</string>
   <string name="sync_sub_dspt">Un SMS sera envoyé pour activer le service</string>

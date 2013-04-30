@@ -199,8 +199,8 @@
   <string name="mx_activate_hint_server">Le serveur n\'a pas réussi à activer la messagerie cloud. L\'activer maintenant ?</string>
   <string name="mx_activate_hint_sim_change">Carte SIM changée, la réactivation de messagerie cloud est nécessaire. L\'activer maintenant ?</string>
   <string name="mx_activate_int_hint_malformed_info">Erreur durant la requête. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string> 
-  <string name="mx_activate_int_hint_server">L\'activation de la messagerie cloud par le serveur a échouée, un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string> 
-  <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_activate_int_hint_server">L\'activation de la messagerie cloud par le serveur a échoué, un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string> 
+  <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_auto_resend_mms">Réenvoyer le MMS</string>
   <string name="mx_auto_resend_mms_summary">Envoyer automatiquement comme MMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_auto_resend_sms">Envoyer en tant que SMS</string>
@@ -284,7 +284,7 @@
   <string name="pref_title_system_mms_priority">Priorité de réception des MMS</string>
   <string name="pref_title_wake_up_screen">Allumer l\'écran</string>
   <string name="preferences_title">Paramètres</string>
-  <string name="prepare_send">Prépare l\'envoi...</string>
+  <string name="prepare_send">Préparation de l\'envoi...</string>
   <string name="preview">Aperçu</string>
   <string name="preview_slideshow">Aperçu</string>
   <string name="priority_high">Élevée</string>

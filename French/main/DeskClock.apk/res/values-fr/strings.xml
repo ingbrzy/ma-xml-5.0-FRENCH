@@ -78,7 +78,7 @@
   <string name="enable_alarm">"Activer l\'alarme"</string>
   <string name="every_day">Tous les jours</string>
   <string name="full_wday_month_day_no_year">EEE d MMMM</string>
-  <string name="gallery_button_description">Photos</string>
+  <string name="gallery_button_description">Galerie</string>
   <string name="hide_clock">"Masquer l\'horloge"</string>
   <string name="holiday_data_already_newest">Les données des jours de travail sont déjà les plus récentes</string>
   <string name="holiday_data_no_network">Pas de réseau, veuillez réessayer plus tard</string>

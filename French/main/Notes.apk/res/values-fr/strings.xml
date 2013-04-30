@@ -14,9 +14,9 @@
   <string name="alert_title_exceed_image_limit">Limite d\'images par note atteinte !</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
-  <string name="attachment_camera">Caméra</string>
+  <string name="attachment_camera">Appareil photo</string>
   <string name="attachment_contact">Contact</string>
-  <string name="attachment_gallery">Photos</string>
+  <string name="attachment_gallery">Galerie</string>
   <string name="button_new_note">Nouvelle Note</string>
   <string name="call_record_folder_name">Notes vocales</string>
   <string name="close">Fermer</string>
@@ -46,7 +46,7 @@
   <string name="menu_discard">Ignorer</string>
   <string name="menu_folder_change_name">Renommer le dossier</string>
   <string name="menu_font_size">Taille de police</string>
-  <string name="menu_move">Déplacer vers le dossier</string>
+  <string name="menu_move">Déplacer au dossier</string>
   <string name="menu_move_parent_folder">Dossier parent</string>
   <string name="menu_rename_folder">Renommer le dossier</string>
   <string name="menu_send_to_desktop">Envoyer sur l\'écran d\'accueil</string>
@@ -70,7 +70,7 @@
   <string name="pref_title_data_export">Exportation de données</string>
   <string name="pref_title_data_export_to_sdcard">Exporter les notes sur la carte SD</string>
   <string name="pref_title_note_style">Style de note</string>
-  <string name="preferences_bg_random_appear_title">Post-it de couleurs aléatoires</string>
+  <string name="preferences_bg_random_appear_title">Notes de couleurs aléatoires</string>
   <string name="preferences_title">Paramètres</string>
   <string name="search">Notes</string>
   <string name="search_hint">Rechercher des notes</string>

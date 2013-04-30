@@ -798,6 +798,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="separatorJoinAggregateSuggestions">Contacts suggérés</string>
   <string name="service_provider">Pages jaunes</string>
   <string name="set_default">Définir par défaut</string>
+  <string name="set_photo_failed_msg">Échec de la mise en place de l\'avatar</string>
   <string name="share_error">"Ce contact ne peut pas être partagé."</string>
   <string name="share_via">Partager le contact via</string>
   <string name="share_visible_contacts">Partager les contacts visibles</string>

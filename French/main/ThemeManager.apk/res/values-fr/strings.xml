@@ -86,7 +86,7 @@
   <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut pas s\'exécuter sur ce périphérique. Vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre appareil</string>
   <string name="resource_get_auth_exceed_max_limit_title">Vous avez atteint la limite autorisée !</string>
   <string name="resource_get_auth_missing">Le thème n\'a pas été téléchargé à partir de la boutique de thème, veuillez le télécharger à partir de la boutique de thème officielle.</string>
-  <string name="resource_get_auth_retrieving">Récupération d\'autorisation...</string>
+  <string name="resource_get_auth_retrieving">Récupération de l\'autorisation...</string>
   <string name="resource_importing">Importation en cours</string>
   <string name="resource_list_title">Derniers sélectionnés</string>
   <string name="resource_local">Local %1$s</string>

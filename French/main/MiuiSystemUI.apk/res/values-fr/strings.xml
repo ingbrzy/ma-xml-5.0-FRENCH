@@ -168,7 +168,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="screen_rotation_freeze_message">Rotation de l\'écran vérouillée en mode paysage</string>
   <string name="screenshot_failed_text">"Impossible enregistrer capture d\'écran. Périphérique de stockage peut-être en cours d\'utilisation."</string>
   <string name="screenshot_failed_title">"Impossible de réaliser une capture d\'écran"</string>
-  <string name="screenshot_saved_text">"Appuyez pour afficher votre capture d\'écran."</string>
+  <string name="screenshot_saved_text">"Appuyez pour l\'afficher"</string>
   <string name="screenshot_saved_title">"Capture d\'écran réussie"</string>
   <string name="screenshot_saving_text">"Enregistrement de la capture d\'écran en cours..."</string>
   <string name="screenshot_saving_ticker">Enregistrement capture écran...</string>
@@ -223,7 +223,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_24">HH:mm</string>
   <string name="status_bar_toggle_ac">Contrôle d\'accès</string>
-  <string name="status_bar_toggle_auto_brightness">Luminosité auto.</string>
+  <string name="status_bar_toggle_auto_brightness">Luminosité automatique</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Luminosité</string>
   <string name="status_bar_toggle_data">Données</string>

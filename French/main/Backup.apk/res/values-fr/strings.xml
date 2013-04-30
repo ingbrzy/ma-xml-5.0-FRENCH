@@ -7,10 +7,10 @@
   <string name="app_name">Sauvegarde</string>
   <string name="auto_backup">Sauvegarde automatique</string>
   <string name="auto_backup_all_user_apps">Toutes les applications</string>
-  <string name="auto_backup_choose">Sauvegarder automatiquement</string>
+  <string name="auto_backup_choose">Choix de sauvegarde</string>
   <string name="auto_backup_choose_empty">Pas de sauvegarde</string>
   <string name="auto_backup_choose_title">Choisir les éléments à sauvegarder</string>
-  <string name="auto_backup_date">Fréquence de sauvegarde (en jours)</string>
+  <string name="auto_backup_date">Jours de sauvegarde</string>
   <string name="auto_backup_only_wifi">Sauvegarder automatiquement seulement en Wi-Fi</string>
   <string name="auto_backup_open">Activer la sauvegarde auto</string>
   <string name="auto_backup_progress">Exécution d\'une sauvegarde automatique, veuillez patienter...</string>
@@ -18,7 +18,7 @@
   <string name="auto_backup_selected_user_apps">Applications sélectionnées</string>
   <string name="auto_backup_setting">Sauvegarde automatique</string>
   <string name="auto_backup_system_data">Système</string>
-  <string name="auto_backup_time">Planifier une sauvegarde</string>
+  <string name="auto_backup_time">Heure de sauvegarde</string>
   <string name="auto_backup_user_data">Applications</string>
   <string name="backup">Sauvegarde</string>
   <string name="backup_data">Sauvegarde de données</string>
@@ -141,7 +141,7 @@
   <string name="sdcard_no_enough_space_message">La sauvegarde peut échouer, veuillez libérer de la mémoire et réessayez</string>
   <string name="sdcard_unmounted">Carte SD non montée ou introuvable !</string>
   <string name="select_all">Tout sélectionner</string>
-  <string name="select_backup_item">Sélectionnez la sauvegarde</string>
+  <string name="select_backup_item">Éléments à sauvegarder</string>
   <string name="service_stoped">Service arrêté</string>
   <string name="settings_summary">Sauvegarder les paramètres du téléphone et de la messagerie</string>
   <string name="sms_title">Messages</string>

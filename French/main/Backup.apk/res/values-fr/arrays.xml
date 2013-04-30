@@ -7,28 +7,27 @@
   <string-array name="system_package_label">
     <item>"Navigateur"</item>
     <item>"Explorateur de fichiers"</item>
-    <item>"Photos"</item>
+    <item>"Galerie"</item>
     <item>"Gestionnaire d\'autorisations"</item>
-	<item>"Caméra"</item>
+	<item>"Stockage Météo"</item>
+	<item>"Appareil photo"</item>
 	<item>"Assistant réseau"</item>
-    <item>"Stockage Météo"</item>
-    <item>"Météo"</item>
   </string-array>
   <string-array name="system_data_label">
     <item>"Contacts"</item>
     <item>"Journal d\'appel"</item>
     <item>"Messages"</item>
     <item>"Messages multimédias"</item>
-    <item>"Paramètres du système"</item>
+    <item>"Paramètres système"</item>
     <item>"Paramètres Wi-Fi"</item>
     <item>"Disposition du bureau"</item>
-    <item>"Paramètres de l\'alarme"</item>
+    <item>"Paramètres d\'alarme"</item>
     <item>"Notes"</item>
     <item>"Ne pas déranger"</item>
     <item>"Compte"</item>
   </string-array>
   <string-array name="app_type_desc">
-    <item>"Données"</item>
+    <item>"Données "</item>
     <item>"Application"</item>
     <item>"Application et données"</item>
   </string-array>

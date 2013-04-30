@@ -28,7 +28,7 @@
   <string name="anti_private_title">"Bloquer les numéros masqués"</string>
   <string name="anti_stranger_summary">"Filtrer les contacts n\'appartenant pas au carnet d\'adresse"</string>
   <string name="anti_stranger_title">"Mode anti-étranger"</string>
-  <string name="app_name">"Blacklist"</string>
+  <string name="app_name">"Garde"</string>
   <string name="black_white_list_tab_title">"Listes"</string>
   <string name="blacklist_tab_title">"Liste noire"</string>
   <string name="call_log_tab_title">"Appels"</string>
@@ -134,7 +134,7 @@
   <string name="show_firewall_notification">"Notifications du pare-feu"</string>
   <string name="show_notification">"Afficher les notifications"</string>
   <string name="smart_antispam">Antispam intelligent</string>
-  <string name="turn_on_smart_antispam_hint">Après l\'avoir activé les numéros seront identifiés, étiquetter les numéros aide à déterminer appels frauduleux.</string>
+  <string name="turn_on_smart_antispam_hint">Après l\'avoir activé les numéros seront identifiés. Étiquetter les numéros aide à déterminer les appels frauduleux.</string>
   <string name="turn_on_smart_antispam_summary_off">Demander la base de données des numéros locaux</string>
   <string name="turn_on_smart_antispam_summary_on">Fonctionne seulement en Wi-Fi et réseau 3G</string>
   <string name="turn_on_smart_antispam_title">Identifier les numéros inconnus</string>

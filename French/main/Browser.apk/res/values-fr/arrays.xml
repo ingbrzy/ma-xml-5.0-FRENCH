@@ -17,7 +17,7 @@
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
 	    <string-array name="yahoo_fr">
-        <item>Yahoo! France</item>
+        <item>Yahoo!</item>
         <item>fr.yahoo.com</item>
         <item>http://fr.search.yahoo.com/favicon.ico</item>
         <item>http://fr.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>

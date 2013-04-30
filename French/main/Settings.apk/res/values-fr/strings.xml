@@ -8,7 +8,7 @@
   <string name="ac_set_apps_title">"Protéger les applications"</string>
   <string name="accelerometer_summary_off">"Changer automatiquement d\'orientation lors de la rotation du téléphone"</string>
   <string name="accelerometer_summary_on">"Changer automatiquement d\'orientation lors de la rotation du téléphone"</string>
-  <string name="accelerometer_title">"Rotation auto de l\'écran"</string>
+  <string name="accelerometer_title">"Rotation automatique de l\'écran"</string>
   <string name="access_control_app_entry_multiple">"Ouvrir %s"</string>
   <string name="access_control_app_entry_single">"Ouvrir l\'application sélectionnée"</string>
   <string name="access_control_need_password">"%s a été protégé"</string>
@@ -1071,7 +1071,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="media_volume_title">"Multimédia"</string>
   <string name="medium_font">"Moyenne"</string>
   <string name="memory">"RAM"</string>
-  <string name="memory_apps_usage">"Applis (données, multimédia)"</string>
+  <string name="memory_apps_usage">"Apps (données, multimédia)"</string>
   <string name="memory_available">"Disponible"</string>
   <string name="memory_calculating_size">"Calcul en cours"</string>
   <string name="memory_dcim_usage">"Images, vidéos"</string>
@@ -1652,7 +1652,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="show_rounded_corners">"Afficher les coins arrondis"</string>
   <string name="show_rounded_corners_summary">"Nécessite un redémarrage pour prendre effet"</string>
   <string name="show_running_services">"Afficher les services"</string>
-  <string name="show_screen_updates">"Afficher les mises à jour de l\'écran"</string>
+  <string name="show_screen_updates">"Afficher mises à jour de l\'écran"</string>
   <string name="show_screen_updates_summary">Faire clignoter les zones de l\'écran lorsqu\'elles sont mises à jour</string>
   <string name="show_touches">"Afficher interactions tactiles"</string>
   <string name="show_touches_summary">"Afficher un repère visuel pour les interactions tactiles"</string>
@@ -1867,7 +1867,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="unlock_set_enter_system_summary">"Ne pas utiliser l\'écran de verrouillage. Vous accéderez directement au système en allumant l\écran"</string>
   <string name="unlock_set_unlock_biometric_weak_summary">"Sécurité faible, expérimental"</string>
   <string name="unlock_set_unlock_biometric_weak_title">"Face Unlock"</string>
-  <string name="unlock_set_unlock_disabled_summary">"Désactivé par admin., règles chiffrement ou stockage des identifiants"</string>
+  <string name="unlock_set_unlock_disabled_summary">"Désactivé par l\'administrateur, les règles de chiffrement ou le stockage des identifiants"</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">"Modifier ou désactiver la sécurité : schéma, code PIN ou mot de passe"</string>
   <string name="unlock_set_unlock_launch_picker_change_title">"Modifier écran verr."</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">"Choisir une méthode pour verrouiller l\'écran"</string>
@@ -2054,7 +2054,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="vpn_save_login">"Enregistrer les informations de compte"</string>
   <string name="vpn_search_domains">"Domaines de recherche DNS"</string>
   <string name="vpn_server">"Adresse du serveur"</string>
-  <string name="vpn_settings_password">"Paramètres de mot de passe VPN"</string>
+  <string name="vpn_settings_password">"Paramètres du mot de passe VPN"</string>
   <string name="vpn_settings_title">"VPN"</string>
   <string name="vpn_show_options">"Afficher les options avancées"</string>
   <string name="vpn_title">"VPN"</string>

@@ -259,7 +259,7 @@
   <string name="pref_content_night_read_mode">"Activer le mode Nuit"</string>
   <string name="pref_content_open_in_background">"Ouvrir en arrière-plan"</string>
   <string name="pref_content_open_in_background_summary">"Ouvrir le nouvel onglet derrière l\'onglet actuel"</string>
-  <string name="pref_content_plugins">"Activer les plug-ins"</string>
+  <string name="pref_content_plugins">"Activer les plugins"</string>
   <string name="pref_content_search_engine">"Définir le moteur de recherche"</string>
   <string name="pref_content_search_engine_summary">"Sélectionner un moteur de recherche"</string>
   <string name="pref_content_title">"Contenu de la page"</string>

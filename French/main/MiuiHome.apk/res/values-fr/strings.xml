@@ -154,7 +154,7 @@
   <string name="resource_get_auth_exceed_max_limit_tips">le thème ne peut pas s\'exécuter sur ce périphérique avec votre compte. Veuillez essayer avec un autre compte Xiaomi.</string>
   <string name="resource_get_auth_exceed_max_limit_title">La limite autorisée a été atteinte !</string>
   <string name="resource_get_auth_missing">Le thème n\'a pas été téléchargé à partir de la boutique de thème officiel, veuillez le télécharger à partir de la boutique officiel.</string>
-  <string name="resource_get_auth_retrieving">Récupération d\'autorisation...</string>
+  <string name="resource_get_auth_retrieving">Récupération de l\'autorisation...</string>
   <string name="resource_importing">Importation en cours</string>
   <string name="resource_list_title">Derniers sélectionnés</string>
   <string name="resource_local">Local %1$s</string>

@@ -81,7 +81,7 @@
   <string name="settings_label">Paramètres de transfert</string>
   <string name="settings_photo">Avatar</string>
   <string name="settings_photo_camera">Prendre une nouvelle photo</string>
-  <string name="settings_photo_pick">Sélectionner à partir de la Gallerie</string>
+  <string name="settings_photo_pick">Sélectionner à partir de la Galerie</string>
   <string name="settings_photo_remove">Supprimer l\'avatar</string>
   <string name="settings_receive_confirm_summary">Confirmer la requête de transfert de fichier(s)</string>
   <string name="settings_receive_confirm_title">Recevoir la confirmation</string>

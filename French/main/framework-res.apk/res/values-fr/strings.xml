@@ -1041,7 +1041,7 @@ Voulez-vous la fermer ?</string>
     <string name="extmedia_format_message">Tous les fichiers stockés sur la mémoire de stockage USB vont être effacés. Cette action est irréversible.</string>
     <string name="extmedia_format_button_format">Format</string>
     <string name="adb_active_notification_title">Débogage USB activé</string>
-    <string name="adb_active_notification_message">Appuyez pour désactiver le débogage USB.</string>
+    <string name="adb_active_notification_message">Appuyez pour le désactiver</string>
     <string name="select_input_method">Sélectionnez le mode de saisie</string>
     <string name="configure_input_methods">Configurer les modes de saisie</string>
     <string name="use_physical_keyboard">Clavier physique</string>
