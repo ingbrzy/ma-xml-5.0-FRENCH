@@ -14,7 +14,7 @@
         <item>En fonction de l\'image</item>
         <item>Centré</item>
         <item>À gauche</item>
-        <item>À droit</item>
+        <item>À droite</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Standard</item>

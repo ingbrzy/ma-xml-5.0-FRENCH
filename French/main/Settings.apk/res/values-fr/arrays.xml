@@ -406,4 +406,10 @@ Vous pouvez maintenant transférer des fichiers"</item>
 		<item>Lancer Google Now</item> 
 		<item>Fermer l\'application actuelle</item> 
 	</string-array>
+    <string-array name="screen_key_long_press_timeout"> 
+		<item>0.5 seconde</item> 
+		<item>1 seconde</item> 
+		<item>1.5 seconde</item> 
+		<item>2 secondes</item> 
+	</string-array>
 </resources>

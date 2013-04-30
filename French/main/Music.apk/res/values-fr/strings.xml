@@ -182,7 +182,7 @@
   <string name="playlist_recently_added">Ajouté récemment</string>
   <string name="playlist_recently_played">Lu récemment</string>
   <string name="playlist_renamed_message">Playlist renommée.</string>
-  <string name="playlists_title">Playlists </string>
+  <string name="playlists_title">Playlists</string>
   <string name="powered_by">Fourni par</string>
   <string name="queue">Playlist actuelle</string>
   <string name="quit_player">Quitter</string>
@@ -217,8 +217,8 @@
   <string name="search_suggestion">"Suggestions de recherche : "</string>
   <string name="search_title">Rechercher</string>
   <string name="select_all">Tout sélectionner</string>
-  <string name="select_folder">Choix du dossier</string>
-  <string name="select_quit_time">Régler la minuterie pour arrêter le lecteur (en min)</string>
+  <string name="select_folder">Choix des dossiers</string>
+  <string name="select_quit_time">Régler la minuterie pour arrêter la lecture (en minute)</string>
   <string name="send_to">Envoyer à</string>
   <string name="send_to_application">Envoyer à une autre application</string>
   <string name="shake_and_skip">Secouer pour passer</string>

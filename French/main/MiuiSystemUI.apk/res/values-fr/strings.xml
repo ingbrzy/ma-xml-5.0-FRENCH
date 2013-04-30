@@ -162,8 +162,8 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="screen_button_disabled_message">Les touches du bas de l\'écran sont désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
   <string name="screen_button_enabled_message">Les touches du bas de l\'écran sont activées</string>
   <string name="screen_key_back">Touche retour</string>
-  <string name="screen_key_home">Bouton d\'acceuil</string>
-  <string name="screen_key_menu">Boutton menu</string>
+  <string name="screen_key_home">Touche Accueil</string>
+  <string name="screen_key_menu">Touche Menu</string>
   <string name="screen_key_recent_apps">Touche des applications récentes</string>
   <string name="screen_rotation_freeze_message">Rotation de l\'écran vérouillée en mode paysage</string>
   <string name="screenshot_failed_text">"Impossible enregistrer capture d\'écran. Périphérique de stockage peut-être en cours d\'utilisation."</string>

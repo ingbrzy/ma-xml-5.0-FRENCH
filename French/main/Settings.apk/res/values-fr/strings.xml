@@ -939,7 +939,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="local_backup_password_toast_success">"Le nouveau mot de passe de secours a bien été défini."</string>
   <string name="local_backup_password_toast_validation_failure">"Échec de la définition du mot de passe de secours."</string>
   <string name="location_gps">"Satellites GPS"</string>
-  <string name="location_neighborhood_level">"Autoriser l\'envoi anonyme d\'informations de localisation à Google. Permet aussi aux applications autorisées à utiliser les données provenant du Wi-Fi ou des réseaux mobiles de déterminer votre position approximative."</string>
+  <string name="location_neighborhood_level">"Autoriser l\'envoi anonyme d\'informations de localisation à Google. Permet aussi aux applications autorisées d\'utiliser les données du Wi-Fi ou des réseaux mobiles afin de déterminer votre position approximative."</string>
   <string name="location_neighborhood_level_wifi">"Position déterminée par le Wi-Fi"</string>
   <string name="location_network_based">"Service de localisation Google"</string>
   <string name="location_settings_title">"Paramètres de localisation"</string>
@@ -1082,7 +1082,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="memory_size">"Espace total"</string>
   <string name="menu_cancel">"Annuler"</string>
   <string name="menu_delete">"Supprimer l\'APN"</string>
-  <string name="menu_key">"Boutton menu"</string>
+  <string name="menu_key">"Touche Menu"</string>
   <string name="menu_new">"Nouvel APN"</string>
   <string name="menu_restore">"Rétablir param. par défaut"</string>
   <string name="menu_save">"Enregistrer"</string>
@@ -1927,7 +1927,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="usb_title">"USB"</string>
   <string name="use_default_tts_settings_summary">"Remplacer les paramètres de l\'application par les paramètres ci-dessous"</string>
   <string name="use_default_tts_settings_title">"Utiliser mes paramètres"</string>
-  <string name="use_location_summary">"Autoriser Google à utiliser votre position pour améliorer vos résultats de recherche et d\'autres services"</string>
+  <string name="use_location_summary">"Autoriser Google à utiliser votre position pour améliorer vos résultats de recherche ainsi que d\'autres services"</string>
   <string name="use_location_title">"Localisation et recherche"</string>
   <string name="use_system_language_to_select_input_method_subtypes">"Utiliser la langue du système"</string>
   <string name="user_add_user_menu">"Ajouter utilisateur"</string>
