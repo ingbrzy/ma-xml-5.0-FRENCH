@@ -267,11 +267,11 @@
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN with certificates and Xauth authentication</item>
-        <item>IPSec VPN with certificates and hybrid authentication</item>
+        <item>L2TP/IPSec VPN avec clés partagées</item>
+        <item>L2TP/IPSec VPN avec certificats</item>
+        <item>IPSec VPN avec clés partagées et authentification Xauth</item>
+        <item>IPSec VPN avec certificats et authentification Xauth</item>
+        <item>IPSec VPN avec certificats et authentification hybride</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Déconnecté</item>
@@ -398,7 +398,16 @@ Vous pouvez maintenant transférer des fichiers"</item>
     <string-array name="screen_saturation_title">
         <item>Brillant</item>
         <item>Standard</item>
-    </string-array>
+	</string-array>
+	<string-array name="perm_hips_action">
+		<item>Autoriser</item>
+		<item>Demander</item>
+		<item>Refuser</item>
+	</string-array>
+	<string-array name="startup_hips_action">
+		<item>Autoriser</item>
+		<item>Refuser</item>
+	</string-array>	
 	<string-array name="screen_key_long_press_action"> 
 		<item>Aucune</item> 
 		<item>Lancer les applications récentes</item> 

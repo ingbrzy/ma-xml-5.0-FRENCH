@@ -680,7 +680,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="preference_phone">Téléphone</string>
   <string name="preference_phone_more_title">Plus de paramètres téléphoniques</string>
   <string name="preference_remove_duplicate">Fusionner les contacts en double</string>
-  <string name="preference_simple_mode_description">La liste d\'élément n\'affiche pas l\'avatar, l\'attribution et l\'entreprise</string>
+  <string name="preference_simple_mode_description">La liste d\'éléments n\'affiche pas l\'avatar, l\'attribution ni l\'entreprise</string>
   <string name="preference_simple_mode_title">Mode simple</string>
   <string name="preference_smart_group_company_summary">Grouper les contacts par société</string>
   <string name="preference_smart_group_company_title">Par société</string>

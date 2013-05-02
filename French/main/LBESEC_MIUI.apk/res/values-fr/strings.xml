@@ -81,7 +81,7 @@
   <string name="HIPS_Perm_CallLog_Hint">%1$s applications ont la permission d\'accéder à votre journal d\'appel</string>
   <string name="HIPS_Perm_CallMonitor">Surveillance des appels</string>
   <string name="HIPS_Perm_CallMonitor_Desc">Surveiller les appels entrants et sortants, contrôler le volume, etc.</string>
-  <string name="HIPS_Perm_CallMonitor_Hint">%1$s applications ont la permission de surveiller les appels entrants et sortants et de régler le volume</string>
+  <string name="HIPS_Perm_CallMonitor_Hint">%1$s applications ont la permission de surveiller les appels entrants et sortants, et de régler le volume</string>
   <string name="HIPS_Perm_CallState">État du téléphone</string>
   <string name="HIPS_Perm_CallState_Desc">Obtenir l\'état téléphone</string>
   <string name="HIPS_Perm_CallState_Hint">%1$s applications ont la permission d\'obtenir l\'état du téléphone</string>

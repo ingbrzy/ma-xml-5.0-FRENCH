@@ -5,9 +5,9 @@
   <string name="adding_upload_tasks">Ajout de tâches à partager.</string>
   <string name="app_cache_cleanup_indication">%s cache</string>
   <string name="app_cache_title">Cache des apps</string>
-  <string name="app_garbage_cleanup_indication">%s apps indésirables</string>
+  <string name="app_garbage_cleanup_indication">%s apps superflues</string>
   <string name="app_garbage_path">Localisation :</string>
-  <string name="app_garbage_title">App indésirable</string>
+  <string name="app_garbage_title">App superflue</string>
   <string name="app_name">Explorateur</string>
   <string name="application_size_label">Application</string>
   <string name="background">Télécharger en arrière-plan</string>
@@ -74,7 +74,7 @@
   <string name="download_failed">Échec du téléchargement !</string>
   <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de MiDrive. Cliquez sur le lien ci-dessous pour plus de détails : </string>
   <string name="downloading">Téléchargement...</string>
-  <string name="empty_dir_cleanup_indication">%s fichiers indésirables</string>
+  <string name="empty_dir_cleanup_indication">%s fichiers superflus</string>
   <string name="empty_dir_title">Dossiers vides</string>
   <string name="enable_sd_card">Aucune carte SD disponible, veuillez en connecter une</string>
   <string name="error_info_cant_send_folder">Impossible d\'envoyer le dossier</string>
@@ -103,15 +103,15 @@
   <string name="ftp_username_and_passworld">Nom d\'utilisateur et mot de passe</string>
   <string name="ftp_username_hint">Nom d\'utilisateur</string>
   <string name="garbage_size_metric">"%s 
-Indésirable"</string>
+Superflu"</string>
   <string name="gbk_summary">Si vous utilisez l\'encodage GBK, par exemple sous Windows, choisissez ce type de codage pour éviter la présence de caractères chinois</string>
   <string name="gbk_title">GBK</string>
   <string name="give_up_cleaning">Annuler le nettoyage</string> 
-  <string name="header_text_cleaned">Supprimer indésirable</string> 
-  <string name="header_text_cleaning">Nettoyage indésirable laissé</string> 
-  <string name="header_text_scanned">Fichiers indésirables à supprimer trouvés</string> 
-  <string name="header_text_scanning">Scan des fichiers indésirables...</string>
-  <string name="instruction">Entrez l\'adresse suivante dans votre client FTP:</string>
+  <string name="header_text_cleaned">Superflu supprimé</string> 
+  <string name="header_text_cleaning">Nettoyage, superflu restant</string> 
+  <string name="header_text_scanned">Fichiers superflus à supprimer</string> 
+  <string name="header_text_scanning">Scan des fichiers superflus...</string>
+  <string name="instruction">Entrez l\'adresse suivante dans votre client FTP :</string>
   <string name="instruction_pre">Démarrez le service pour activer le serveur FTP</string>
   <string name="item_name">Sans nom</string>
   <string name="kuaipan_over_space">Votre MiDrive n\'a perdu aucun espace.</string>

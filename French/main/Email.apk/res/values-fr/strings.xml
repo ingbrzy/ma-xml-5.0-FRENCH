@@ -130,7 +130,7 @@
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (accepter tous les certificats)</string>
   <string name="account_setup_incoming_title">Paramétrer un nouveau compte</string>
   <string name="account_setup_incoming_username_label">Nom d\'utilisateur</string>
-  <string name="account_setup_index_label">Veuillez choisir parmi la liste des fournisseurs de services de Courriel :</string>
+  <string name="account_setup_index_label">Veuillez choisir parmi la liste des fournisseurs de services Mail :</string>
   <string name="account_setup_index_other_mails">Autre compte de messagerie</string>
   <string name="account_setup_index_title">Paramètres de compte</string>
   <string name="account_setup_names_account_name_label">Nom du compte (facultatif)</string>

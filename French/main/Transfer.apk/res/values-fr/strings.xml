@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_to_send">Envoyer fichier(s)</string>
+  <string name="about_to_send">Envoi de fichier(s)</string>
   <string name="app_name">Transfert</string>
   <string name="button_last">Commencer maintenant</string>
   <string name="button_next">Suivant</string>
@@ -53,7 +53,7 @@
   <string name="receive_cancel_tip2">Annulation de la réception. %1$d/%2$d fichier(s) reçu(s)</string>
   <string name="receive_canceled">Annulé</string>
   <string name="receive_cannot_created_file">Échec de la création de fichier</string>
-  <string name="receive_files">Recevoir fichier(s)</string>
+  <string name="receive_files">Réception de fichier(s)</string>
   <string name="receive_finish">Réception terminée</string>
   <string name="receive_finish_tip">$1%d fichiers(s) reçus :</string>
   <string name="receive_from">Réception de :</string>
@@ -98,7 +98,7 @@
   <string name="use_start">Commencer maintenant</string>
   <string name="voice_assist_match">Auto-couplage rapide</string>
   <string name="voice_match">Auto-couplage</string>
-  <string name="waiting_receive">Attente d\'envoyer</string>
+  <string name="waiting_receive">En attente de l\'envoyeur</string>
   <string name="welcome_tip1">Transférer des fichiers rapidement sans utilisation de données mobiles</string>
   <string name="welcome_tip2">Transférer rapidement des images, des musiques, des contacts et bien plus encore !</string>
   <string name="you_can">Je peux</string>
