@@ -134,8 +134,10 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="traffic_settings_error">Il y a une erreur dans vos paramètres de trafic mensuel. Selon vos paramètres et votre opérateur, votre trafic mensuel est de: %1$s et le trafic restant est de: %2$s.</string>
   <string name="traffic_suffix">Circulation</string>
   <string name="traffic_suffix_with_uint">Trafic (Mo)</string>
-  <string name="traffic_total">%s : Total</string>
-  <string name="traffic_used_status">%s : Utilisé</string>
+  <string name="traffic_total">"%s
+Total"</string>
+  <string name="traffic_used_status">"%s
+Utilisé"</string>
   <string name="unknown">Inconnu</string>
   <string name="unknown_free_traffic_hint">"Si vous ne connaissez pas votre allocation de données, merci de vous renseigner auprès de votre opérateur"</string>
   <string name="unknown_free_traffic_text">"Je ne connais pas mon allocation de données"</string>
