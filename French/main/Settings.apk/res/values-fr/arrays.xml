@@ -398,27 +398,27 @@ Vous pouvez maintenant transférer des fichiers"</item>
     <string-array name="screen_saturation_title">
         <item>Brillant</item>
         <item>Standard</item>
-	</string-array>
-	<string-array name="perm_hips_action">
-		<item>Autoriser</item>
-		<item>Demander</item>
-		<item>Refuser</item>
-	</string-array>
-	<string-array name="startup_hips_action">
-		<item>Autoriser</item>
-		<item>Refuser</item>
-	</string-array>	
-	<string-array name="screen_key_long_press_action"> 
-		<item>Aucune</item> 
-		<item>Lancer les applications récentes</item> 
-		<item>Lancer l\'Assistant Vocal</item> 
-		<item>Lancer Google Now</item> 
-		<item>Fermer l\'application actuelle</item> 
-	</string-array>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>Autoriser</item>
+        <item>Demander</item>
+        <item>Refuser</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Autoriser</item>
+        <item>Refuser</item>
+    </string-array>	
+    <string-array name="screen_key_long_press_action"> 
+        <item>Aucune</item> 
+        <item>Lancer les applications récentes</item> 
+        <item>Lancer l\'Assistant Vocal</item> 
+        <item>Lancer Google Now</item> 
+        <item>Fermer l\'application actuelle</item> 
+    </string-array>
     <string-array name="screen_key_long_press_timeout"> 
-		<item>0.5 seconde</item> 
-		<item>1 seconde</item> 
-		<item>1.5 seconde</item> 
-		<item>2 secondes</item> 
-	</string-array>
+        <item>0.5 seconde</item> 
+        <item>1 seconde</item> 
+        <item>1.5 seconde</item> 
+        <item>2 secondes</item> 
+    </string-array>
 </resources>
