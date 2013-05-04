@@ -30,8 +30,8 @@
   <string name="backup_file_error">Il y a un problème avec la sauvegarde, l\'opération n\'est pas valide.</string>
   <string name="backup_finished">Sauvegarde terminée</string>
   <string name="backup_hint">N\'éteignez pas le téléphone</string>
-  <string name="backup_items_app_tailer">" fichiers de données d\'application"</string>
-  <string name="backup_items_sysdata_tailer">" fichiers de données système"</string>
+  <string name="backup_items_app_tailer">" fichiers de données d\'application. "</string>
+  <string name="backup_items_sysdata_tailer">" fichiers de données système. "</string>
   <string name="backup_new">Nouveau :</string>
   <string name="backup_progress">Sauvegarde...</string>
   <string name="backup_recently">" (Dernier)"</string>

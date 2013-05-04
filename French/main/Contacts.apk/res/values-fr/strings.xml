@@ -173,7 +173,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="contact_status_update_attribution">via %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
   <string name="contact_unfavorite_toast">Contact retiré des favoris avec succès</string>
-  <string name="contactsAllLabel">Tout</string>
+  <string name="contactsAllLabel">Contacts</string>
   <string name="contactsFavoritesLabel">Favoris</string>
   <string name="contactsGroupsLabel">Groupes</string>
   <string name="contactsJoinedMessage">Contacts rejoint</string>
@@ -269,7 +269,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="device_version_header_no_bluetooth">Importer les contacts de la carte SIM</string>
   <string name="device_version_title">Sélectionnez la version de mobile</string>
   <string name="dialerDialpadHintText">Composez pour ajouter un appel</string>
-  <string name="dialerIconLabel">Téléphone</string>
+  <string name="dialerIconLabel">Récents</string>
   <string name="dialerKeyboardHintText">Utilisez le clavier pour composer le numéro</string>
   <string name="dialer_addAnotherCall">Autre appel</string>
   <string name="dialer_empty_text_loading">Chargement...</string>

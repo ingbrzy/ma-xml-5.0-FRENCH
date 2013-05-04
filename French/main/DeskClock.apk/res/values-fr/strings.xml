@@ -23,7 +23,7 @@
   <string name="alarm_label_hint">Entrez le nom de l\'alarme</string>
   <string name="alarm_list_title">Alarmes</string>
   <string name="alarm_notify_snooze_label">%s (répétition)</string>
-  <string name="alarm_notify_snooze_text">Prochaine alarme à %s. Appuyez pour annuler.</string>
+  <string name="alarm_notify_snooze_text">Prochaine alarme à %s. Appuyez pour l\'annuler.</string>
   <string name="alarm_notify_text">"Répétez ou ignorez l\'alarme."</string>
   <string name="alarm_repeat">Répéter</string>
   <string name="alarm_screen">Régler la sonnerie de variété</string>
