@@ -858,7 +858,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="splitConfirmation_title">Séparer le contact</string>
   <string name="starredList">Favoris</string>
   <string name="starred_contacts">Favoris</string>
-  <string name="status_available">Espace disponible</string>
+  <string name="status_available">Disponible</string>
   <string name="status_away">Absent</string>
   <string name="status_busy">Occupé</string>
   <string name="strequentList">Favoris</string>

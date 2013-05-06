@@ -30,7 +30,7 @@
   <string name="action">"Se connecter"</string>
   <string name="add_bookmark">"Ajouter aux favoris"</string>
   <string name="add_bookmark_short">"Ajouter"</string>
-  <string name="add_folder">"Ajouter au dossier"</string>
+  <string name="add_folder">"Créer un dossier"</string>
   <string name="add_new_bookmark">"Ajouter un favori"</string>
   <string name="add_to_bookmarks_menu_option">"Favoris"</string>
   <string name="add_to_homescreen_menu_option">"Écran d\'accueil"</string>

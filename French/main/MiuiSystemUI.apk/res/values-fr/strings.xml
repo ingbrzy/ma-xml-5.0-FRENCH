@@ -136,7 +136,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="notification_icon_filter_settings_loading">Chargement, veuillez patienter...</string>
   <string name="notification_icon_filter_show">Afficher les notifications de la barre d\'état</string>
   <string name="notification_icon_filter_summary">Désactiver cette option affichera les notifications de toutes les applications dans le coin supérieur gauche de la barre d\'état.</string>
-  <string name="notification_icon_filter_title">Masquer les notification</string>
+  <string name="notification_icon_filter_title">Masquer les notifications</string>
   <string name="notification_otg_gamestick_in">Manette de jeu connectée</string>
   <string name="notification_otg_gamestick_out">Manette de jeu déconnectée</string>
   <string name="notification_otg_keyboard_in">Clavier connecté</string>

@@ -58,7 +58,7 @@ Toutes vos données d\'utilisateur précédentes vont être enregistrées."</str
   <string name="perm_sysopt_boost_auto_start_summary">L\'application démarrera automatiquement !</string>
   <string name="privacy_relative">Autorisations de confidentialité</string>
   <string name="safe_guard_support">Support technique %1$s</string>
-  <string name="safe_relative">Autorisations sécurisées</string>
+  <string name="safe_relative">Autorisations de sécurité</string>
   <string name="security_settings_desc">Autoriser cette application à :</string>
   <string name="settings">Paramètres</string>
   <string name="trust_switch_dialog_msg">"Miui ne vous demandera plus de confirmation pour les opérations liées a votre sécurité et confidentialité provenant de cette application.

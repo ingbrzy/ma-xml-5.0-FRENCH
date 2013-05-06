@@ -1511,7 +1511,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="runningservicedetails_stop_dlg_title">"Arrêter le service système ?"</string>
   <string name="runningservices_settings_summary">"Afficher et contrôler les services en cours d\'exécution"</string>
   <string name="runningservices_settings_title">"Services en cours d\'exécution"</string>
-  <string name="safe_relative">"Autorisations sécurisées"</string>
+  <string name="safe_relative">"Autorisations de sécurité"</string>
   <string name="scan_list_label">"Résultats de l\'analyse:"</string>
   <string name="screen">"Écran"</string>
   <string name="screen_button_custom">"Personnaliser la position des touches tactiles"</string>
