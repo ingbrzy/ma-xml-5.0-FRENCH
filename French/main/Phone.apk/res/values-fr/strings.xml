@@ -1097,7 +1097,7 @@ Veuillez contacter votre opérateur si le problème persiste."</string>
   <string name="xdivert_not_supported">X-Divert non pris en charge par le CDMA</string>
   <string name="xdivert_partial_set">XDivert n\'a été défini que pour le 1er abonnement</string>
   <string name="xdivert_setting">Réglage du X-Divert</string>
-  <string name="xdivert_status">Statut de X-Divert</string>
+  <string name="xdivert_status">État de X-Divert</string>
   <string name="xdivert_sub_absent">Les deux abonnements doivent être activé pour traiter X-Divert</string>
   <string name="xdivert_summary">Paramètres CFNRc</string>
   <string name="xdivert_title">X-Divert</string>

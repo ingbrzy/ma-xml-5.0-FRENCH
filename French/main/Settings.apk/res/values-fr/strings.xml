@@ -1687,9 +1687,11 @@ Le code PIN est peut-être incorrect.\""</string>
   <string name="sim_pin_toggle">"Verrouiller la carte SIM"</string>
   <string name="sim_pins_dont_match">"Les codes PIN ne correspondent pas."</string>
   <string name="sim_reenter_new">"Confirmez le nouveau code PIN"</string>
+  <string name="sim_status_title">État SIM</string>
   <string name="skip_button_label">"Annuler"</string>
   <string name="skip_label">"Ignorer"</string>
   <string name="skip_step">"Ignorer cette étape"</string>
+  <string name="slot_status_title">Information IMEI</string>
   <string name="small_font">"Petite"</string>
   <string name="sms_delivered_sound_dialog_title">"Choisissez le son de l\'accusé de réception"</string>
   <string name="sms_delivered_sound_title">"Accusé de réception"</string>

@@ -6,7 +6,7 @@
   <string name="app_name">Thèmes</string>
   <string name="apply_font_btn_exclude">Appliquer sans la police d\'écriture</string>
   <string name="apply_font_btn_reboot">Appliquer et redémarrer</string>
-  <string name="apply_font_tip">Le thème contient des remplacements de police, un redémarrage est nécessaire pour l\'appliquer.</string>
+  <string name="apply_font_tip">Le thème contient une police, un redémarrage est nécessaire pour l\'appliquer.</string>
   <string name="apply_lockscreen_paper_tips">Le fond d\'écran de verrouillage est en cours d\'utilisation et ne peut pas être changé, le nouveau fond d\'écran de verrouillage ne sera pas visible.</string>
   <string name="apply_theme_no_select_message">Veuillez sélectionner des composants.</string>
   <string name="backup_preference_title">Sauvegarder le thème</string>

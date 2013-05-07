@@ -271,7 +271,7 @@ Superflu"</string>
   <string name="waiting_for_cleaning">En attente de nettoyage</string>
   <string name="waiting_for_scanning">En attente de scan</string>
   <string name="wangpan_root_path">Mon disque</string>
-  <string name="wifi_state">Statut du Wi-Fi</string>
+  <string name="wifi_state">État du Wi-Fi</string>
   <string name="xiaomi_account">Compte Xiaomi</string>
   <string name="yes">Oui</string>
 </resources>

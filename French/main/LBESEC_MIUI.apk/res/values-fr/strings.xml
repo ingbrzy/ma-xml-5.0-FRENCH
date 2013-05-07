@@ -94,8 +94,8 @@
   <string name="HIPS_Perm_Contact_Desc">Accéder à votre liste de contacts</string>
   <string name="HIPS_Perm_Contact_Hint">%1$s applications ont la permission d\'accéder à votre liste de contacts</string>
   <string name="HIPS_Perm_EndCall">Raccrocher</string>
-  <string name="HIPS_Perm_GetCallState">Obtenir le statut de l\'appel actuel</string>
-  <string name="HIPS_Perm_ListenCallState">Surveiller le statut de l\'appel</string>
+  <string name="HIPS_Perm_GetCallState">Obtenir l\'état de l\'appel actuel</string>
+  <string name="HIPS_Perm_ListenCallState">Surveiller l\'état de l\'appel</string>
   <string name="HIPS_Perm_Location">Positionnement</string>
   <string name="HIPS_Perm_Location_Access">Obtenir votre position actuelle</string>
   <string name="HIPS_Perm_Location_CellInfo">Obtenir la localisation cellulaire</string>

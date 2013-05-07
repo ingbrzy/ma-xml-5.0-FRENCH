@@ -44,6 +44,7 @@
   <string name="clock_instructions">Sélectionner une horloge</string>
   <string name="close_alarm">Fermer l\'alarme</string>
   <string name="common_settings">Paramètres généraux</string>
+  <string name="confirm_abort">Annuler</string>
   <string name="control_set_alarm">"Régler l\'alarme"</string>
   <string name="control_set_alarm_with_existing">Alarme définie: %s</string>
   <string name="day">1 jour</string>
@@ -88,6 +89,8 @@
   <string name="holiday_update_pref_invalidate_title">Mise à jour des jours de travail (expiré)</string>
   <string name="holiday_update_pref_summary">Rechercher des mises à jour</string>
   <string name="holiday_update_pref_title">Données des jours de travail mises à jour</string>
+  <string name="holiday_update_summary">Vérifier les mises à jour</string>
+  <string name="holiday_update_title">Mettre à jour requiert une connexion réseau</string>
   <string name="home_button_description">"Lanceur d\'applications"</string>
   <string name="hour">1 heure</string>
   <string name="hour_unit">h</string>

@@ -65,6 +65,9 @@
   <string name="notealert_ok">Réussi</string>
   <string name="notelist_menu_new">Ajouter une note</string>
   <string name="notelist_string_info">...</string>
+  <string name="notify_alarm_action_mute">Mettre en silence</string>
+  <string name="notify_alarm_action_view">Voir</string>
+  <string name="notify_alarm_title">Rappel d\'alarme</string>
   <string name="pref_desc_mode_grid">Grille</string>
   <string name="pref_desc_mode_list">Liste</string>
   <string name="pref_title_data_export">Exportation de données</string>
