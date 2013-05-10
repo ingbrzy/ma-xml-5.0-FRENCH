@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="google_fr">
+    <string-array name="google">
         <item>Google</item>
-        <item>google.fr</item>
-        <item>http://www.google.fr/favicon.ico</item>
-        <item>http://www.google.fr/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-    </string-array>
-    <string-array name="bing_fr_FR">
-        <item>Bing</item>
-        <item>bing.com</item>
-        <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=fr-FR&amp;q={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-    </string-array>
-	    <string-array name="yahoo_fr">
-        <item>Yahoo!</item>
-        <item>fr.yahoo.com</item>
-        <item>http://fr.search.yahoo.com/favicon.ico</item>
-        <item>http://fr.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://fr-sayt.ff.search.yahoo.com/gossip-fr-sayt?output=fxjson&amp;command={searchTerms}</item>
     </string-array>
   <string-array name="pref_content_plugins_choices">
         <item>Toujours activés</item>
