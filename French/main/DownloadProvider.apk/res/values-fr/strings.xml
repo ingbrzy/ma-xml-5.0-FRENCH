@@ -4,7 +4,7 @@
     <string name="permlab_downloadManager">Accéder au gestionnaire de téléchargement.</string>
     <string name="permdesc_downloadManager">Permet à l\'application d\'accéder au gestionnaire de téléchargement et de l\'utiliser pour télécharger des fichiers. Les applications malveillantes peuvent s\'en servir pour entraver les téléchargements et accéder aux informations personnelles.</string>
     <string name="permlab_downloadManagerAdvanced">Fonctions avancées du gestionnaire de téléchargement.</string>
-    <string name="permdesc_downloadManagerAdvanced">Permet à l\'application d\'accéder aux fonctions avancées du gestionnaire de téléchargements. Les applications malveillantes peuvent utiliser cette option pour perturber les téléchargements et accéder à des informations personnelles.</string>
+    <string name="permdesc_downloadManagerAdvanced">Permet à l\'application d\'accéder aux fonctions avancées du gestionnaire de téléchargement. Les applications malveillantes peuvent utiliser cette option pour perturber les téléchargements et accéder à des informations personnelles.</string>
     <string name="permlab_downloadCompletedIntent">Envoyer des notifications de téléchargement.</string>
     <string name="permdesc_downloadCompletedIntent">Permet à l\'application d\'envoyer des notifications concernant les téléchargements effectués. Les applications malveillantes peuvent s\'en servir pour tromper les autres applications de téléchargement de fichiers.</string>
     <string name="permlab_seeAllExternal">Voir tous les téléchargements effectués sur la carte SD</string>

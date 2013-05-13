@@ -369,7 +369,7 @@
     <string name="permlab_retrieve_window_content">récupérer le contenu de l\'écran</string>
     <string name="permdesc_retrieve_window_content">Permet à l\'application de récupérer le contenu de la fenêtre active. Des applications malveillantes peuvent exploiter cette fonctionnalité pour récupérer et lire la totalité du contenu de la fenêtre, à l\'exception des mots de passe.</string>
     <string name="permlab_shutdown">arrêt partiel</string>
-    <string name="permdesc_shutdown">Place le gestionnaire d\'activités en état d\'arrêt. N\'effectue pas un arrêt complet.</string>
+    <string name="permdesc_shutdown">Place le gestionnaire d\'activité en état d\'arrêt. N\'effectue pas un arrêt complet.</string>
     <string name="permlab_stopAppSwitches">empêcher les changements d\'applications</string>
     <string name="permdesc_stopAppSwitches">Empêche l\'utilisateur de changer d\'application.</string>
     <string name="permlab_runSetActivityWatcher">suivre et contrôler le lancement de toutes les applications</string>

@@ -12,7 +12,7 @@
   <string name="accessibility_button_goto">"Atteindre"</string>
   <string name="accessibility_button_larger">"Plus grand"</string>
   <string name="accessibility_button_more">"Autres options"</string>
-  <string name="accessibility_button_navscreen">"Gestionnaire de pages"</string>
+  <string name="accessibility_button_navscreen">"Gestionnaire de page"</string>
   <string name="accessibility_button_newincognitotab">"Nouvel onglet de navigation privée"</string>
   <string name="accessibility_button_newtab">"Nouvel onglet"</string>
   <string name="accessibility_button_refresh">"Rafraîchir"</string>
