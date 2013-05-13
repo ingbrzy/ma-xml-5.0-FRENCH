@@ -17,7 +17,7 @@
     <item quantity="other">"%d trouvés"</item>
   </plurals>
   <plurals name="merge_info">
-    <item quantity="one">"fusionné à partir de %0$d source"</item>
+    <item quantity="one">"non fusionné"</item>
     <item quantity="other">"fusionné à partir de %0$d sources"</item>
   </plurals>
   <plurals name="num_groups_in_account">
@@ -25,15 +25,15 @@
     <item quantity="other">"%0$d groupes"</item>
   </plurals>
   <plurals name="num_contacts_in_group">
-    <item quantity="one">"1 personne de %2$s"</item>
-    <item quantity="other">"%1$d personnes de %2$s"</item>
+    <item quantity="one">"%1$d contact de %2$s"</item>
+    <item quantity="other">"%1$d contacts de %2$s"</item>
   </plurals>
   <plurals name="group_list_num_contacts_in_group">
-    <item quantity="one">"1 personne"</item>
+    <item quantity="one">"%1$d personne"</item>
     <item quantity="other">"%1$d personnes"</item>
   </plurals>
   <plurals name="group_list_num_numbers_in_group">
-    <item quantity="one">"1 numéro"</item>
+    <item quantity="one">"%1$d numéro"</item>
     <item quantity="other">"%1$d numéros"</item>
   </plurals>
   <plurals name="notification_voicemail_title">
@@ -41,11 +41,11 @@
     <item quantity="other">"%1$d messages vocaux"</item>
   </plurals>
   <plurals name="number_of_items_selected">
-    <item quantity="one">"1 sélectionné"</item>
+    <item quantity="one">"%1$d sélectionné"</item>
     <item quantity="other">"%1$d sélectionnés"</item>
   </plurals>
   <plurals name="group_add_success_toast">
-    <item quantity="one">"1 personne a été ajoutée avec succès"</item>
+    <item quantity="one">"%1$d personne a été ajoutée avec succès"</item>
     <item quantity="other">"%1$d personnes ont été ajoutées avec succès"</item>
   </plurals>
   <plurals name="smart_group_member_count">

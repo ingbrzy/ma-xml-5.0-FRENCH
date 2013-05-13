@@ -924,14 +924,14 @@ Appuyez sur \"OK\" pour continuer ou \"Annuler\" pour rester sur la page actuell
     <string name="anr_title" />
     <string name="anr_activity_application">L\'application %2$s ne répond pas.
 
-Voulez-vous quitter ?</string>
+Voulez-vous la quitter ?</string>
     <string name="anr_activity_process">L\'activité %1$s ne répond pas.
 
 Voulez-vous quitter ?</string>
-    <string name="anr_application_process">L\'application %1$s ne répond pas. Voulez-vous quitter ?</string>
+    <string name="anr_application_process">L\'application %1$s ne répond pas. Voulez-vous la quitter ?</string>
     <string name="anr_process">Le processus %1$s ne répond pas.
 
-Voulez-vous quitter ?</string>
+Voulez-vous le quitter ?</string>
     <string name="force_close">OK</string>
     <string name="report">Rapport</string>
     <string name="wait">Attendre</string>

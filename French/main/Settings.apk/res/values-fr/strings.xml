@@ -942,7 +942,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="location_neighborhood_level">"Autoriser l\'envoi anonyme d\'informations de localisation à Google. Permet aussi aux applications autorisées d\'utiliser les données du Wi-Fi ou des réseaux mobiles afin de déterminer votre position approximative."</string>
   <string name="location_neighborhood_level_wifi">"Position déterminée par le Wi-Fi"</string>
   <string name="location_network_based">"Service de localisation Google"</string>
-  <string name="location_settings_title">"Paramètres de localisation"</string>
+  <string name="location_settings_title">"Services de localisation"</string>
   <string name="location_street_level">"Autoriser les applications à utiliser le GPS pour vous localiser"</string>
   <string name="location_title">"Ma position"</string>
   <string name="lock_after_timeout">"Verrouiller automatiquement"</string>
@@ -1301,7 +1301,8 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_su_disabled_in_stable">"ROOT n\'est pas disponible dans la version stable de MIUI"</string>
   <string name="perm_su_disabled_in_stable_desc">"Donner l\'autorisation ROOT aux applications tierces peut provoquer des instabilités système, la perte de données personnelles et système, ou des dommages matériels. Veuillez passer à la version de développement de MIUI pour permettre la permission ROOT."</string>
   <string name="perm_su_disabled_in_stable_download">"Télécharger MIUI"</string>
-  <string name="perm_su_enable_content">"L\'activer permettra aux applications de demander la permission ROOT. Remarque: Donner cette autorisation aux applications peut provoquer des instabilités système, la perte de données personnelles et système, ou des dommages matériels, veuillez être prudent. Souhaitez-vous l\'activer ?"</string>
+  <string name="perm_su_enable_content">"L\'activer permettra aux applications de demander la permission ROOT.
+  Donner cette autorisation aux applications peut provoquer des instabilités système, la perte de données personnelles et système, ou des dommages matériels, veuillez être prudent. Souhaitez-vous l\'activer ?"</string>
   <string name="perm_su_enable_dialog">"%1$s cherche à obtenir la permission ROOT système qui est désactivée par défaut pour garantir la sécurité du système. Si vous en avez besoin allez dans les paramètres du gestionnaire d\'autorisation."</string>
   <string name="perm_su_enable_title">"Autorisation ROOT"</string>
   <string name="perm_su_switch">"Autorisation ROOT"</string>

@@ -477,8 +477,8 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="menu_display_selected">Afficher la sélection</string>
   <string name="menu_doNotSave">Annuler</string>
   <string name="menu_done">OK</string>
-  <string name="menu_editContact">Modifier</string>
-  <string name="menu_editGroup">Modifier</string>
+  <string name="menu_editContact">Éditer</string>
+  <string name="menu_editGroup">Éditer</string>
   <string name="menu_help">Aide</string>
   <string name="menu_import_export">Importer/Exporter</string>
   <string name="menu_joinAggregate">Associer le contact</string>
@@ -816,7 +816,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="sim_export_loading">Informations de la carte SIM en cours de lecture. Cette opération peut prendre quelques minutes, veuillez patientez...</string>
   <string name="sim_indexed_contact_not_exist">La position %1$d sur la carte SIM n\'est pas valide, elle se trouve peut-être entre %2$d et %3$d</string>
   <string name="sim_no_contact">Aucun contact sur la carte SIM</string>
-  <string name="single_group_list_empty">Aucun membre de groupe</string>
+  <string name="single_group_list_empty">Aucun membre dans le groupe</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
   <string name="smart_group_company_label">Par société</string>
   <string name="smart_group_company_unavailable">Aucune information sur la société</string>
