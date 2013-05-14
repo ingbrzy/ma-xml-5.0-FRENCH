@@ -4,10 +4,10 @@
   <string name="add_task">Ajouter une tâche</string>
   <string name="adding_upload_tasks">Ajout de tâches à partager.</string>
   <string name="app_cache_cleanup_indication">%s cache</string>
-  <string name="app_cache_title">Cache des apps</string>
-  <string name="app_garbage_cleanup_indication">%s apps superflues</string>
+  <string name="app_cache_title">Cache des applications</string>
+  <string name="app_garbage_cleanup_indication">%s applications superflues</string>
   <string name="app_garbage_path">Localisation :</string>
-  <string name="app_garbage_title">App superflue</string>
+  <string name="app_garbage_title">Applications superflues</string>
   <string name="app_name">Explorateur</string>
   <string name="application_size_label">Application</string>
   <string name="background">Télécharger en arrière-plan</string>

@@ -31,9 +31,9 @@
   <string name="accessibility_service_default_description">"Aucune description fournie"</string>
   <string name="accessibility_service_disable_warning_summary">"Si vous appuyez sur \"OK\", %1$s sera arrêté."</string>
   <string name="accessibility_service_disable_warning_title">"Arrêter %1$s ?"</string>
-  <string name="accessibility_service_no_apps_message">"TalkBack fournit des commentaires audio aux personnes malvoyantes. Voulez-vous l\'installer gratuitement depuis le Play Store ?"</string>
+  <string name="accessibility_service_no_apps_message">"TalkBack fournit des informations audio aux personnes malvoyantes. Voulez-vous l\'installer gratuitement depuis le Play Store ?"</string>
   <string name="accessibility_service_no_apps_title">"Avez-vous besoin d\'un lecteur d\'écran ?"</string>
-  <string name="accessibility_service_security_warning_summary">"%1$s peut recueillir la totalité du texte que vous saisissez, à l\'exception des mots de passe. Ceci comprend les données personnelles, telles que le numéro de votre carte de paiement, mais également les données sur vos interactions avec le téléphone."</string>
+  <string name="accessibility_service_security_warning_summary">"%1$s peut recueillir la totalité du texte que vous saisissez, à l\'exception des mots de passe. Ceci comprend les données personnelles telles que le numéro de votre carte de paiement, mais également les données de vos interactions avec le téléphone."</string>
   <string name="accessibility_service_security_warning_title">"Utiliser %1$s ?"</string>
   <string name="accessibility_service_state_off">"Désactivé"</string>
   <string name="accessibility_service_state_on">"Activé"</string>
@@ -141,15 +141,15 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="auto_caps_summary">"Mettre une majuscule en début de phrase"</string>
   <string name="auto_launch_disable_text">"Aucun paramètre par défaut défini"</string>
   <string name="auto_launch_enable_text">"Vous avez choisi de lancer cette application par défaut pour certaines actions."</string>
-  <string name="auto_launch_label">"Lanceur par défaut"</string>
+  <string name="auto_launch_label">"Lancer par défaut"</string>
   <string name="auto_launch_label_generic">"Paramètres par défaut"</string>
   <string name="auto_punctuate">"Ponctuation automatique"</string>
   <string name="auto_punctuate_summary">"Appuyez deux fois sur la touche Espace pour insérer \".\""</string>
   <string name="auto_replace">"Remplacement auto"</string>
   <string name="auto_replace_summary">"Corriger les mots mal saisis"</string>
-  <string name="auto_restore_summary">"Lors de la réinstallation d\'une application, restaurer les paramètres et les données sauvegardées"</string>
+  <string name="auto_restore_summary">"Lors de la réinstallation d\'une application restaurer les paramètres et les données sauvegardées"</string>
   <string name="auto_restore_title">"Restaurer automatiquement"</string>
-  <string name="auto_startup_application_manage">"Contrôle d\'application"</string>
+  <string name="auto_startup_application_manage">"Démarrage"</string>
   <string name="auto_startup_count">"Démarrage automatique de %d applications"</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l\'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d\'énergie et de données.
   Autoriser le démarrage automatique ?"</string>
@@ -199,7 +199,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="battery_indicator_style">"Style de l\'indicateur de batterie"</string>
   <string name="battery_info_awake_battery">"Temps de veille sur batterie :"</string>
   <string name="battery_info_awake_plugged">"Temps en activité lors du rechargement :"</string>
-  <string name="battery_info_health_cold">"Peu populaire"</string>
+  <string name="battery_info_health_cold">Froid</string>
   <string name="battery_info_health_dead">"Vide"</string>
   <string name="battery_info_health_good">"Bon"</string>
   <string name="battery_info_health_label">"État de la batterie :"</string>
@@ -220,7 +220,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="battery_info_status_charging">"Batterie en charge"</string>
   <string name="battery_info_status_charging_ac">"(Secteur)"</string>
   <string name="battery_info_status_charging_usb">"(USB)"</string>
-  <string name="battery_info_status_discharging">"N\'est pas en charge"</string>
+  <string name="battery_info_status_discharging">Se décharge</string>
   <string name="battery_info_status_full">"Chargée"</string>
   <string name="battery_info_status_label">"État de la batterie :"</string>
   <string name="battery_info_status_not_charging">"Débranchée"</string>
@@ -641,7 +641,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="details_title">"Informations sur l\'utilisation"</string>
   <string name="dev_settings_warning_message">"Ces paramètres sont en cours de développement. Ils peuvent endommager votre appareil et les applications qui s\'y trouvent, ou provoquer leur dysfonctionnement."</string>
   <string name="dev_settings_warning_title">"Activer les paramètres de développement ?"</string>
-  <string name="development_enable">"Permettre le développement"</string>
+  <string name="development_enable">"Activer le développement"</string>
   <string name="development_settings_summary">"Définir les options pour le développement de l\'application"</string>
   <string name="development_settings_title">"Options de développeur"</string>
   <string name="device_additional_status">"Infos d\'état supplémentaires"</string>
@@ -748,11 +748,11 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="dolby_roomsize_title">"Mode surround : \u0020"</string>
   <string name="drive_mode">"Mode Voiture"</string>
   <string name="drive_mode_auto_reply">"Réponse automatique"</string>
-  <string name="drive_mode_auto_sms_reply_content">"Désolé, je suis actuellement au volant, je ne peux donc pas vous répondre. Je vous recontacterais plus tard."</string>
+  <string name="drive_mode_auto_sms_reply_content">"Désolé, je suis actuellement au volant, je ne peux donc pas vous répondre. Je vous recontacterai plus tard."</string>
   <string name="drive_mode_auto_sms_reply_content_title">"Contenu de la réponse"</string>
-  <string name="drive_mode_calling_auto_sms_reply">"Répondre automatiquement aux appels par un SMS"</string>
+  <string name="drive_mode_calling_auto_sms_reply">"Répondre aux appels par un SMS"</string>
   <string name="drive_mode_invert_stop_report">"Retourner pour arrêter les rapports"</string>
-  <string name="drive_mode_only_contact_reply">"Vers la liste de contacts"</string>
+  <string name="drive_mode_only_contact_reply">"Répondre uniquement aux contacts"</string>
   <string name="drive_mode_phone_report">"Appels"</string>
   <string name="drive_mode_settings">"Activer le mode Voiture"</string>
   <string name="drive_mode_sms_auto_sms_reply">"Réponse par SMS automatique"</string>
@@ -769,7 +769,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="enable_assist_key_long_press">"Appui long ouvre l\'app Voix"</string>
   <string name="enable_back_long_press">"Appui long pour fermer l\'app"</string>
   <string name="enable_compatibility">"Mettre l\'application à l\'échelle"</string>
-  <string name="enable_drive_mode">"Activer le mode conduite"</string>
+  <string name="enable_drive_mode">"Activer le mode Voiture"</string>
   <string name="enable_snapshot_screenlock">"Appui long pour capture d\'écran"</string>
   <string name="enable_text">"Activer"</string>
   <string name="enable_traces_dialog_title">"Sélectionner les traces activées"</string>
@@ -1154,7 +1154,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="notification_sound_title">"Notification par défaut"</string>
   <string name="notification_vibrate_abbreviation">"Notifications"</string>
   <string name="notification_volume_title">"Notifications"</string>
-  <string name="nsd_quick_toggle_summary">"Autoriser les applications sur d\'autres appareils à identifier les applications sur celui-ci"</string>
+  <string name="nsd_quick_toggle_summary">"Autoriser les applications d\'autres appareils à identifier les applications de celui-ci"</string>
   <string name="nsd_quick_toggle_title">"Identification du service réseau"</string>
   <string name="oem_radio_info_label">"Infos/paramètres OEM"</string>
   <string name="onscreen_keyboard_settings_summary">"Paramètres du clavier virtuel"</string>
@@ -1162,7 +1162,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="owner_info_settings_edit_text_hint">"Saisissez le texte à afficher sur l\'écran de verrouillage"</string>
   <string name="owner_info_settings_title">"Informations du propriétaire"</string>
   <string name="packages_subtitle">"Modules inclus"</string>
-  <string name="password_guard">"Securité"</string>
+  <string name="password_guard">"Sécurité"</string>
   <string name="percentage">"%d%%"</string>
   <string name="perm">"Autorisations"</string>
   <string name="perm_app">"Applications"</string>
@@ -1523,7 +1523,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="screen_key_long_press_action">Action de l\'appui long</string>
   <string name="screen_key_long_press_timeout">Délai de l\'appui long</string>
   <string name="screen_compatibility_text">"Cette application n\'est peut-être pas adaptée à votre écran. Vous pouvez modifier les paramètres d\'ajustement ici."</string>
-  <string name="screen_on_proximity_sensor_summary">"Désactive les fonctions d\'appels si l\'appareil est dans la poche (via le détecteur de proximité)."</string>
+  <string name="screen_on_proximity_sensor_summary">"Désactive les fonctions d\'appel si l\'appareil est dans la poche (via le détecteur de proximité)."</string>
   <string name="screen_on_proximity_sensor_title">"Éviter les erreurs de manipulation"</string>
   <string name="screen_saturation_adjust">"Saturation"</string>
   <string name="screen_timeout">"Veille"</string>
@@ -1540,12 +1540,12 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="screensaver_timeout_zero_summary">"Jamais"</string>
   <string name="sd_card_settings_label">"Mémoire USB"</string>
   <string name="sd_card_storage">"Mémoire USB"</string>
-  <string name="sd_eject">"Désinstal. mémoire partagée"</string>
+  <string name="sd_eject">"Désinstaller mémoire partagée"</string>
   <string name="sd_eject_summary">"Désinstaller mémoire USB interne"</string>
   <string name="sd_ejecting_summary">"Désinstallation en cours"</string>
   <string name="sd_ejecting_title">"Désinstallation en cours"</string>
   <string name="sd_format">"Effacer la mémoire USB"</string>
-  <string name="sd_format_summary">"Effacer les données de la mémoire de stockage USB interne (ex. : musique, photos)"</string>
+  <string name="sd_format_summary">"Effacer les données de la mémoire de stockage USB interne (ex : musique, photos)"</string>
   <string name="sd_insert_summary">"Insérer mémoire USB à installer"</string>
   <string name="sd_memory">"Mémoire de stockage USB"</string>
   <string name="sd_mount">"Installer une mémoire de stockage USB"</string>
@@ -1602,7 +1602,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="security_settings_desc">"Cette application peut accéder aux éléments suivants de votre téléphone :"</string>
   <string name="security_settings_desc_multi">"Cette application peut accéder aux éléments de votre téléphone répertoriés ci-dessous. Afin d\'améliorer les performances et de réduire l\'utilisation de la mémoire, certaines autorisations sont accordées à %1$s, car elle s\'exécute au sein du même processus que les applications %2$s : "</string>
   <string name="security_settings_summary">"Définir les paramètres de l\'option Ma position et de verrouillage"</string>
-  <string name="security_settings_title">"Sécurité"</string>
+  <string name="security_settings_title">"Système et Sécurité"</string>
   <string name="sel_sub_summary">"Sélectionnez l\'abonnement pour SUB-1 et SUB-2"</string>
   <string name="sel_sub_title">"Configurer Abonnements"</string>
   <string name="select_all">"Tout sélectionner"</string>
@@ -1804,7 +1804,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="total_size">"%s (total)"</string>
   <string name="total_size_label">"Total"</string>
   <string name="track_frame_time">"Rendu GPU du profil"</string>
-  <string name="track_frame_time_summary">"Mesurer durée rendu dans adb shell dumpsys gfxinfo"</string>
+  <string name="track_frame_time_summary">"Mesurer la durée du rendu dans adb shell dumpsys gfxinfo"</string>
   <string name="trackball_settings">"Boule de commande"</string>
   <string name="trackball_wake_title">"Boule de commande éveillée"</string>
   <string name="transition_animation_scale_title">"Échelle animation transitions"</string>
@@ -1983,7 +1983,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="virus_scan_app_no_risk">"Aucun risque détecté"</string>
   <string name="virus_scan_app_passed">"Le scan s\'est terminé avec succès"</string>
   <string name="virus_scan_app_risk">"Menace trouvée !"</string>
-  <string name="virus_scan_app_safe_scanning">"L\'analyse est en cours d\'exécution..."</string>
+  <string name="virus_scan_app_safe_scanning">"Analyse en cours d\'exécution..."</string>
   <string name="virus_scan_app_scan_finish">"Analyse terminée !"</string>
   <string name="virus_scan_app_scanning">"Analyse de l\'application en cours..."</string>
   <string name="virus_scan_app_stop_scan">"Arrêter l\'analyse"</string>
@@ -2031,7 +2031,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="vpn_connect">"Se connecter"</string>
   <string name="vpn_connect_to">"Se connecter à %s"</string>
   <string name="vpn_create">"Ajouter un profil VPN"</string>
-  <string name="vpn_dns_servers">"Serveurs DNS (Ex. 8.8.8.8)"</string>
+  <string name="vpn_dns_servers">"Serveurs DNS (ex : 8.8.8.8)"</string>
   <string name="vpn_dns_servers_hint">"ex: 8.8.8.8"</string>
   <string name="vpn_edit">"Modifier le profil VPN"</string>
   <string name="vpn_ipsec_ca_cert">"Certificat d\'autorité IPSec"</string>
@@ -2050,7 +2050,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="vpn_no_server_cert">"(certificat reçu du serveur)"</string>
   <string name="vpn_not_used">"(non utilisé)"</string>
   <string name="vpn_password">"Mot de passe"</string>
-  <string name="vpn_routes">"Itinéraires transfert (Ex. 10.0.0.0/8)"</string>
+  <string name="vpn_routes">"Itinéraires transfert (ex : 10.0.0.0/8)"</string>
   <string name="vpn_routes_hint">"ex: 10.0.0.0/8"</string>
   <string name="vpn_safe">"Sécurité des connexions VPN"</string>
   <string name="vpn_save">"Enregistrer"</string>

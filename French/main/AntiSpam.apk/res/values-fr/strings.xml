@@ -15,10 +15,10 @@
   <string name="act_hangup_call">"Raccrocher immédiatement"</string>
   <string name="act_hangup_call_summary">"Les appels rejetés ne s\'afficheront pas dans le journal d\'appel"</string>
   <string name="act_ignore_call">"Ne pas journaliser les appels"</string>
-  <string name="act_ignore_ms">"Ignorer notification(s)"</string>
+  <string name="act_ignore_ms">"Ignorer les notifications"</string>
   <string name="act_ms">"Journaliser les messages"</string>
   <string name="act_mute_call">"Mettre les appels en sourdine"</string>
-  <string name="act_mute_call_summary">"Les appels n\'afficheront pas de notifications mais seront toujours enregistrés dans le journal d\'appel"</string>
+  <string name="act_mute_call_summary">"Les appels n\'afficheront pas de notification mais seront toujours enregistrés dans le journal d\'appel"</string>
   <string name="act_mute_ms">"Notification(s) silencieuse(s)"</string>
   <string name="act_mute_ms_summary">"Les notifications sont désactivées mais les messages seront toujours visibles"</string>
   <string name="add_blacklist">"Ajouter à la liste noire"</string>
@@ -28,7 +28,7 @@
   <string name="anti_private_title">"Bloquer les numéros masqués"</string>
   <string name="anti_stranger_summary">"Filtrer les contacts n\'appartenant pas au carnet d\'adresse"</string>
   <string name="anti_stranger_title">"Mode anti-étranger"</string>
-  <string name="app_name">"Garde"</string>
+  <string name="app_name">"Anti-Spam"</string>
   <string name="black_white_list_tab_title">"Listes"</string>
   <string name="blacklist_tab_title">"Liste noire"</string>
   <string name="call_log_tab_title">"Appels"</string>
@@ -64,9 +64,9 @@
   <string name="fw_all_day">"Tous les jours"</string>
   <string name="fw_blacklist">"Liste noire"</string>
   <string name="fw_blacklist_hint">"Les appels et messages sont automatiquement bloqués quand ils sont ajoutés à la liste noire"</string>
-  <string name="fw_blocked">"Stats bloqués"</string>
-  <string name="fw_blocked_count" formatted="false">"%d %d appels et messages bloqués"</string>
-  <string name="fw_call" formatted="false">"Temps d\'appel: %s (%d)"</string>
+  <string name="fw_blocked">"Statistiques de blocage"</string>
+  <string name="fw_blocked_count" formatted="false">"%d appel(s) et %d message(s) bloqué(s)"</string>
+  <string name="fw_call" formatted="false">"Temps d\'appel : %s (%d)"</string>
   <string name="fw_call_imported">"Importation du journal d\'appel"</string>
   <string name="fw_call_muted">"Appel en sourdine"</string>
   <string name="fw_call_rejected">"Appel rejeté"</string>
@@ -76,10 +76,10 @@
   <string name="fw_edit_keyword">"Modifier les mots clés"</string>
   <string name="fw_end_time">"Fin du temps de blocage"</string>
   <string name="fw_import_blacklist">"Importer la liste noire"</string>
-  <string name="fw_import_blacklist_confirm">"%d numéros sélectionnés, importer à la liste noire ?"</string>
+  <string name="fw_import_blacklist_confirm">"%d numéros sélectionnés, les ajouter à la liste noire ?"</string>
   <string name="fw_import_ms">"Importer tous les messages"</string>
   <string name="fw_import_whitelist">"Importer la liste blanche"</string>
-  <string name="fw_import_whitelist_confirm">"%d numéros sélectionnés, importer à la liste blanche ?"</string>
+  <string name="fw_import_whitelist_confirm">"%d numéros sélectionnés, les ajouter à la liste blanche ?"</string>
   <string name="fw_in_blacklist">"Le numéro %s est déjà dans la liste noire"</string>
   <string name="fw_in_whitelist">"Le numéro %s est déjà dans la liste blanche"</string>
   <string name="fw_keyword_filter">"Filtrer par mots clés"</string>
@@ -90,7 +90,7 @@
   <string name="fw_menu_new_blacklist_title">"Ajouter à la liste noire"</string>
   <string name="fw_menu_new_manual">"Ajoutez manuellement le numéro"</string>
   <string name="fw_menu_new_whitelist_title">"Ajouter à la liste blanche"</string>
-  <string name="fw_menu_pick_from_contact">"Sélectionner dans mes contacts"</string>
+  <string name="fw_menu_pick_from_contact">"Sélectionner depuis mes contacts"</string>
   <string name="fw_menu_remove">"Supprimer"</string>
   <string name="fw_ms" formatted="false">"Date du message: %s (%d)"</string>
   <string name="fw_ms_filtered">"Les messages sont filtrés"</string>
@@ -109,9 +109,9 @@
   <string name="fw_whitelist">"Liste blanche"</string>
   <string name="fw_whitelist_hint">"Les membres de la liste blanche ne seront pas bloqués"</string>
   <string name="log_count">"(%d)"</string>
-  <string name="mark_number_dialog_maintitle">Marquer les numéros inconnus et sauver</string>
+  <string name="mark_number_dialog_maintitle">Marquer comme numéro inconnu et envoyer</string>
   <string name="mark_number_dialog_subtitle">Développé avec Sogou</string>
-  <string name="member_firewall_log" formatted="false">"Bloqué : Numéro %d détails %d"</string>
+  <string name="member_firewall_log" formatted="false">"Bloqué : Numéro %d, Détails %d"</string>
   <string name="menu_edit">"Modifier"</string>
   <string name="mms_log_tab_title">"Messages"</string>
   <string name="new_bw_list_button">"Ajouter des contacts"</string>
@@ -135,7 +135,7 @@
   <string name="show_notification">"Afficher les notifications"</string>
   <string name="smart_antispam">Antispam intelligent</string>
   <string name="turn_on_smart_antispam_hint">Après l\'avoir activé les numéros seront identifiés. Étiquetter les numéros aide à déterminer les appels frauduleux.</string>
-  <string name="turn_on_smart_antispam_summary_off">Demander la base de données des numéros locaux</string>
+  <string name="turn_on_smart_antispam_summary_off">Uniquement interroger avec la base de données locale</string>
   <string name="turn_on_smart_antispam_summary_on">Fonctionne seulement en Wi-Fi et réseau 3G</string>
   <string name="turn_on_smart_antispam_title">Identifier les numéros inconnus</string>
   <string name="whitelist_tab_title">Liste blanche</string>

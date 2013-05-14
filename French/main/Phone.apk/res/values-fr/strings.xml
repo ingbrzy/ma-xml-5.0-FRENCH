@@ -64,12 +64,12 @@
   <string name="auto_answer_delay_entries_immediately_miui">0s</string>
   <string name="auto_answer_delay_title_miui">Délai de réponse automatique</string>
   <string name="auto_answer_pref_summary_miui">Répondre automatiquement aux appels</string>
-  <string name="auto_answer_pref_title_miui">Réglages de réponse automatique</string>
+  <string name="auto_answer_pref_title_miui">Répondre automatiquement</string>
   <string name="auto_answer_scenario_enteries_always_miui">Toujours</string>
   <string name="auto_answer_scenario_enteries_bluetooth_only_miui">Bluetooth uniquement</string>
   <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Casque/Bluetooth uniquement</string>
   <string name="auto_answer_scenario_enteries_headset_only_miui">Casque seulement</string>
-  <string name="auto_answer_scenario_title_miui">Scénario pour le décrochage automatique</string>
+  <string name="auto_answer_scenario_title_miui">Scénario pour le décrochage auto</string>
   <string name="auto_answer_setting_title_miui">Réglages de réponse automatique</string>
   <string name="auto_answer_summary_delay">(délai:%ss)</string>
   <string name="auto_answer_summary_not_enabled">Inactif</string>
@@ -468,7 +468,7 @@ Voulez-vous tout de même changer de fournisseur ?\"</string>
   <string name="hac_mode_title">Assistance auditive</string>
   <string name="hac_mode_title_miui">Prothèses auditives</string>
   <string name="handon_ringer_summary_miui">En vain si la vibration est activée pour les appels entrants</string>
-  <string name="handon_ringer_title_miui">En silencieux dès la prise en main</string>
+  <string name="handon_ringer_title_miui">En silencieux dès prise en main</string>
   <string name="hangup_sms_miui">Rejeter avec un SMS</string>
   <string name="ignore_miui">Ignorer</string>
   <string name="importAllSimEntries">Tout importer</string>
@@ -1044,7 +1044,7 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="turn_off_auto_select_warning_message_miui">Après la désactivation de cette option, il utilisera le réseau que vous avez sélectionné manuellement et ne sera pas enregistré à un autre réseau</string>
   <string name="turn_off_miui">Éteindre</string>
   <string name="turnover_mute_summary_miui">Retourner pour couper la sonnerie de l\'appel lorsque le téléphone est placé horizontalement</string>
-  <string name="turnover_mute_title_miui">Retourner pour couper la sonnerie</string>
+  <string name="turnover_mute_title_miui">Retourner pour couper sonnerie</string>
   <string name="undefined_miui">Non défini</string>
   <string name="unknown">Inconnu</string>
   <string name="unknown_num">Numéro inconnu</string>

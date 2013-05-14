@@ -10,7 +10,7 @@
   <string name="alert_title_remove_account">Supprimer le compte</string>
   <string name="app_name">Xiaomi Services Framework</string>
   <string name="bad_authentication">Échec d\'authentification, identifiant et/ou mot de passe incorrect</string>
-  <string name="balance">Solde: %1$s Mi Credits</string>
+  <string name="balance">Solde : %1$s Mi Credits</string>
   <string name="bind">Autoriser</string>
   <string name="bind_description">Autoriser la synchronisation avec les contacts du téléphone</string>
   <string name="bind_sina_weibo">Autoriser Sina Weibo</string>
@@ -125,7 +125,7 @@
   <string name="micloud_via_int_sms_alert">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
   <string name="micloud_via_sms_alert">Un SMS va être envoyé pour valider notre numéro de téléphone. Êtes-vous sûr de vouloir continuer ?</string>
   <string name="micloud_welcome_skip_login">Passer l\'enregistrement</string>
-  <string name="mili_center">Centre Mi Credit</string>
+  <string name="mili_center">Mi Credit</string>
   <string name="next">Suivant</string>
   <string name="no_sim">La Carte SIM est introuvable, impossible de synchroniser</string>
   <string name="nobind">Non autorisé</string>

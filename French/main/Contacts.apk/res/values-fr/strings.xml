@@ -3,7 +3,7 @@
   <string name="account_abnormal_state">Informations de compte anormales, essayez de vous reconnectez ou essayez plus tard !</string>
   <string name="account_container_title">Sur ce compte</string>
   <string name="account_default">Téléphone</string>
-  <string name="account_phone">Téléphone uniquement, non synchronisés</string>
+  <string name="account_phone">Téléphone uniquement, non synchronisé</string>
   <string name="account_sim">Seulement enregistrés sur la carte SIM</string>
   <string name="account_type_format">Contact %1$s</string>
   <string name="actionIncomingCall">Appels entrants</string>
@@ -137,7 +137,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="click_close">Cliquez pour fermer</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_summary">Filtrer les appels et messages via Wi-Fi et données réseau</string>
-  <string name="cloud_antispam_title">Garde Cloud</string>
+  <string name="cloud_antispam_title">Anti-Spam Cloud</string>
   <string name="composer_failed_to_get_database_infomation">"Impossible d\'obtenir les informations de la base de données"</string>
   <string name="composer_has_no_exportable_contact">Il n\'y a aucun contact exportable. Si vous avez réellement des contacts sur votre téléphone, ils peuvent être interdits d\'exportation par certains fournisseurs de données.</string>
   <string name="composer_not_initialized">"Le compositeur de carte de visite n\'est pas correctement initialisé"</string>
@@ -775,7 +775,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="savingDisplayGroups">Sauvegarder les options d\'affichage...</string>
   <string name="scan">analyser le périphérique</string>
   <string name="scan_duplicate_message">Total de (%1$d) contacts avec doublons</string>
-  <string name="scan_merge">Recherche d\'éventuels contacts en double, veuillez patientez...</string>
+  <string name="scan_merge">Recherche d\'éventuels contacts en double, veuillez patienter...</string>
   <string name="scanning">Recherche de périphériques...</string>
   <string name="scanning_sdcard_failed_message">Échec de la recherche sur la carte SD (Raison : %s)</string>
   <string name="scanning_sdcard_failed_title">"Recherche impossible sur la carte SD"</string>
@@ -813,7 +813,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="sim_card_no_free_space_title">Carte SIM saturée</string>
   <string name="sim_contact_search_error">Une erreur s\'est produite lors de la recherche de contacts sur la carte SIM</string>
   <string name="sim_contacts">Contacts de la carte SIM</string>
-  <string name="sim_export_loading">Informations de la carte SIM en cours de lecture. Cette opération peut prendre quelques minutes, veuillez patientez...</string>
+  <string name="sim_export_loading">Informations de la carte SIM en cours de lecture. Cette opération peut prendre quelques minutes, veuillez patienter...</string>
   <string name="sim_indexed_contact_not_exist">La position %1$d sur la carte SIM n\'est pas valide, elle se trouve peut-être entre %2$d et %3$d</string>
   <string name="sim_no_contact">Aucun contact sur la carte SIM</string>
   <string name="single_group_list_empty">Aucun membre dans le groupe</string>
