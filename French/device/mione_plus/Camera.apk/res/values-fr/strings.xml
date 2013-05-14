@@ -51,7 +51,6 @@
   <string name="effect_none">Aucun</string>
   <string name="effect_silly_faces">Grimaces</string>
   <string name="empty">" "</string>
-  <string name="enter_expert_mode_title">Mode professionnel</string>
   <string name="error_app_unsupported">Résolution vidéo non supportée par cet encodeur.</string>
   <string name="error_app_unsupported_hfr_720p">Le 720P peut prendre en charge jusqu\'à 90 FPS</string>
   <string name="error_app_unsupported_hfr_codec">Seul l\'encodage vidéo H264 est supporté si le HFR est activé.</string>
@@ -137,7 +136,6 @@
   <string name="pref_camera_coloreffect_entry_posterize">Postérisation</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sépia</string>
   <string name="pref_camera_coloreffect_title">Effet de couleur</string>
-  <string name="pref_camera_coloreffect_title_simple_mode">Filtres</string>
   <string name="pref_camera_contrast_default">5</string>
   <string name="pref_camera_contrast_entry_level0">Niveau 0</string>
   <string name="pref_camera_contrast_entry_level1">Niveau 1</string>

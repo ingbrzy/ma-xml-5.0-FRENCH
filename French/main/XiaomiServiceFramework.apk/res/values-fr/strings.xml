@@ -11,12 +11,9 @@
   <string name="app_name">Xiaomi Services Framework</string>
   <string name="bad_authentication">Échec d\'authentification, identifiant et/ou mot de passe incorrect</string>
   <string name="balance">Solde : %1$s Mi Credits</string>
-  <string name="bind">Autoriser</string>
-  <string name="bind_description">Autoriser la synchronisation avec les contacts du téléphone</string>
   <string name="bind_sina_weibo">Autoriser Sina Weibo</string>
   <string name="bind_weibo_description">Trouver les contacts téléphoniques, amis et d\'autres informations directement à partir de votre compte</string>
   <string name="binded">Associé</string>
-  <string name="binding_behavior_error">Erreur d\'autorisation !</string>
   <string name="btn_activate">Activer</string>
   <string name="btn_back">Arrière</string>
   <string name="btn_call">Appelez le support technique</string>
@@ -88,7 +85,6 @@
   <string name="frozen">(Verrouillé)</string>
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
   <string name="i_know">OK</string>
-  <string name="imported_contacts">%s contacts importés</string>
   <string name="input_password_hint">Saisissez le mot de passe</string>
   <string name="int_phone_user_notice">Lors de l\'enregistrement d\'un numéro hors de Chine veuillez entrer votre code de pays, par exemple +33xxxxxxxxx</string>
   <string name="label_order_name">Nom du produit :</string>
@@ -121,13 +117,11 @@
   <string name="micloud_reg_new">S\'inscrire</string>
   <string name="micloud_resend_active_email">Renvoyer le mail d\'activation</string>
   <string name="micloud_use_existing">Se connecter</string>
-  <string name="micloud_val_sms_alert">Un SMS va être envoyé afin de confirmer votre numéro de téléphone, continuer ?</string>
   <string name="micloud_via_int_sms_alert">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
   <string name="micloud_via_sms_alert">Un SMS va être envoyé pour valider notre numéro de téléphone. Êtes-vous sûr de vouloir continuer ?</string>
   <string name="micloud_welcome_skip_login">Passer l\'enregistrement</string>
   <string name="mili_center">Mi Credit</string>
   <string name="next">Suivant</string>
-  <string name="no_sim">La Carte SIM est introuvable, impossible de synchroniser</string>
   <string name="nobind">Non autorisé</string>
   <string name="order_price">%1$s Mi Credits</string>
   <string name="other_settings">Autres paramètres</string>
@@ -168,14 +162,8 @@
   <string name="progress_connecting">Connexion...</string>
   <string name="progress_creating">Récupération des informations de la commande...</string>
   <string name="progress_downloading">Chargement...</string>
-  <string name="progress_error_auth">Erreur d\'authentification, veuillez réessayer ultérieurement.</string>
-  <string name="progress_error_common">Le rechargement a échoué, veuillez réessayer ultérieurement.</string>
-  <string name="progress_error_network">Impossible de se connecter au réseau, veuillez vérifier l\'état du réseau.</string>
   <string name="progress_error_pay_title">Le paiement a échoué</string>
   <string name="progress_error_recharge_title">La recharge a échoué</string>
-  <string name="progress_error_server">Erreur du serveur, veuillez réessayer plus tard.</string>
-  <string name="progress_error_title">Rechargement échoué</string>
-  <string name="progress_error_waiting">Toujours pas mis à jour, veuillez réessayer plus tard !</string>
   <string name="progress_loading">Traitement en cours, veuillez patienter...</string>
   <string name="progress_paytool_creating">Génération de la commande de %1$s...</string>
   <string name="progress_paytool_installing">Installation du plug-in de sécurité mobile %1$s...</string>
@@ -184,13 +172,10 @@
   <string name="progress_submit_hint">Recharge effective dans 3 minutes environ</string>
   <string name="progress_submit_pay_summary">Résumé de paiement : %1$s yuan</string>
   <string name="progress_submit_recharge_summary">Recharge de : %1$s yuan</string>
-  <string name="progress_submit_summary">Recharge: %1$s yuan</string>
   <string name="progress_submit_title">Demande de recharge envoyée</string>
   <string name="progress_success_pay_title">Paiement de %1$s Mi Credit effectué</string>
   <string name="progress_success_recharge_summary">Balance du compte : %1$s Mi Credits</string>
   <string name="progress_success_recharge_title">Recharge de %1$s Mi Credits effectuée</string>
-  <string name="progress_success_summary">Solde du compte: %1$s Mi Credits</string>
-  <string name="progress_success_title">Recharge de %1$s Mi Credits effectuée</string>
   <string name="progress_voucher_creating">Mise à jour Mi Credit...</string>
   <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt: 
 1. Contactez le service clientèle sur : %1$s 

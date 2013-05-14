@@ -69,6 +69,7 @@
   <string name="dialog_type_image">Image</string>
   <string name="dialog_type_text">Texte</string>
   <string name="dialog_type_video">Video</string>
+  <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Dossier vide</string>
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Échec du téléchargement !</string>
@@ -92,6 +93,7 @@
   <string name="file_loading">Chargement...</string>
   <string name="file_too_large">"Le fichier est trop volumineux et ne peut être envoyé"</string>
   <string name="finished">Terminé</string>
+  <string name="folder_exist">Le fichier existe déjà</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Cliquez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
   <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres, des lettres de l\'alphabet. Les majuscules et les minuscules sont différenciées.</string>
   <string name="ftp_anonymous_login">FTP anonyme</string>
@@ -101,6 +103,8 @@
   <string name="ftp_port_number">Port</string>
   <string name="ftp_transfer_secure">Sécuriser le transfert FTP</string>
   <string name="ftp_username_and_passworld">Nom d\'utilisateur et mot de passe</string>
+  <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
+  <string name="garbage_item_path_format" formatted="false">%s %s</string>
   <string name="ftp_username_hint">Nom d\'utilisateur</string>
   <string name="garbage_size_metric">"%s 
 Superflu"</string>
@@ -194,7 +198,6 @@ Superflu"</string>
   <string name="pan_settting">Paramètres MiDrive</string>
   <string name="paused">En pause</string>
   <string name="query_bind_state">Interrogation de l\'état de liaison, veuillez patienter...</string>
-  <string name="release_space_indication">Détecter les fichiers inutiles</string>
   <string name="rename_description">Changement de nom, veuillez patienter...</string>
   <string name="rename_failed">Le changement de nom de %1$s a échoué</string>
   <string name="restart_cleaning">Redémarrer</string>

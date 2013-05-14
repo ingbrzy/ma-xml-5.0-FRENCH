@@ -136,7 +136,6 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="clear_default">Effacer par défaut</string>
   <string name="click_close">Cliquez pour fermer</string>
   <string name="cloud_antispam_mark">Spam</string>
-  <string name="cloud_antispam_summary">Filtrer les appels et messages via Wi-Fi et données réseau</string>
   <string name="cloud_antispam_title">Anti-Spam Cloud</string>
   <string name="composer_failed_to_get_database_infomation">"Impossible d\'obtenir les informations de la base de données"</string>
   <string name="composer_has_no_exportable_contact">Il n\'y a aucun contact exportable. Si vous avez réellement des contacts sur votre téléphone, ils peuvent être interdits d\'exportation par certains fournisseurs de données.</string>
@@ -406,7 +405,6 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="import_weibo_fetch_followers">Récuperation de followers Sina Weibo...</string>
   <string name="import_weibo_notification_title">Importation de contacts Sina Weibo...</string>
   <string name="import_weibo_notification_title_done">Importation terminée</string>
-  <string name="import_weibo_progress_hint">Importation...</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_vcard_canceled_title">Importation de %s annulée</string>
@@ -423,7 +421,6 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="label_notes">Notes</string>
   <string name="label_sip_address">Appel Internet</string>
   <string name="launcherDialer">Téléphone</string>
-  <string name="listAllContactsInAccount">Contacts dans %s</string>
   <string name="listCustomView">Les contacts en affichage personnalisée</string>
   <string name="listFoundAllContactsZero">Non trouvé</string>
   <string name="listSingleContact">Contact unique</string>

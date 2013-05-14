@@ -73,7 +73,6 @@
   <string name="msg_searching">Recherche des stations pour créer la liste de pré-sélections</string>
   <string name="msg_searching_title">Pré-sélection automatique</string>
   <string name="msg_seeking">Recherche des stations FM</string>
-  <string name="msg_unable_start_fm_title">Impossible de démarrer la FM</string>
   <string name="msg_weak_searching">Recherche des fréquences à transmettre</string>
   <string name="no_storage">Monte la carte SD avant que l\'enregistrement ne commence</string>
   <string name="preparing_sd">Préparation de la carte SD</string>
@@ -88,7 +87,6 @@
   <string name="record_file_location_format">Cliquez sur pour afficher le fichier %s</string>
   <string name="record_sucess">Enregistrement réussi</string>
   <string name="regional_band">Le choix Bande Régionale effacera toutes les stations enregistrées</string>
-  <string name="revert_to_fac">Revenir aux paramètres d\'usine</string>
   <string name="search_dialog_title">Recherche des Stations</string>
   <string name="sel_audio_output">Sélectionner la sortie Audio</string>
   <string name="sel_band_menu">Sélectionnez la Bande Régionale</string>
@@ -97,7 +95,6 @@
   <string name="set_sigth">Configurer le Signal Th</string>
   <string name="settings_menu">Paramètres</string>
   <string name="settings_revert_confirm_msg">Ceci va supprimer tous les paramètres y compris les préréglages</string>
-  <string name="settings_revert_confirm_title">Confirmer les paramètres de réinitialisation</string>
   <string name="settings_revert_defaults_title">Réinitialisation aux paramètres d\'usine</string>
   <string name="spaceIsLow_content">Votre carte SD manque d\'espace. Adapter le choix de qualité ou supprimer certaines images ou autres fichiers.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>

@@ -113,7 +113,6 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="app_factory_reset">"Désinstaller les mises à jour"</string>
   <string name="app_factory_reset_dlg_text">"Toutes les mises à jour de cette application système Android vont être désinstallées."</string>
   <string name="app_factory_reset_dlg_title">"Désinstaller les mises à jour ?"</string>
-  <string name="app_floating_window_dlg">Autoriser \"%1$s\" à afficher une fenêtre pop-up</string>
   <string name="app_floating_window_dlg_disable">"Désactiver les réglages de fenêtre flottante de %1$s stoppera l\'application de force. Êtes-vous sûr de vouloir le désactiver ?"</string>
   <string name="app_floating_window_dlg_enable">"Activer les réglages de fenêtre flottante de %1$s requiert un redémarrage de l\'application. Êtes-vous sûr de vouloir l\'activer ?"</string>
   <string name="app_forward_locked">"L\'application est protégée contre la copie."</string>
@@ -157,8 +156,6 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="available_size">"%s disponible"</string>
   <string name="awake">"Durée de fonctionnement de l\'appareil"</string>
   <string name="back_key">Touche Retour</string>
-  <string name="back_long_press">"Touche Retour"</string>
-  <string name="back_long_press_timeout">"Délai en secondes"</string>
   <string name="background_data">"Données en arrière-plan"</string>
   <string name="background_data_dialog_message">"La désactivation des données en arrière-plan économise la batterie et réduit l\'utilisation des données. Certaines applications peuvent continuer d\'utiliser la connexion Internet en arrière-plan."</string>
   <string name="background_data_dialog_title">"Dés. données arr.-plan ?"</string>
@@ -384,7 +381,6 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_profile_dun">"Accès au réseau commuté"</string>
   <string name="bluetooth_profile_headset">"Paramètres audio du téléphone"</string>
   <string name="bluetooth_profile_hid">"Périphérique d\'entrée"</string>
-  <string name="bluetooth_profile_name">"Téléphone MIUI de %1$s"</string>
   <string name="bluetooth_profile_opp">"Transfert de fichier"</string>
   <string name="bluetooth_profile_pan">"Accès Internet"</string>
   <string name="bluetooth_profile_pan_nap">"Partage de connexion Internet"</string>
@@ -654,7 +650,6 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">"Double cœur "</string>
   <string name="device_cpu4_info">"Quadruple cœur "</string>
-  <string name="device_default_name">"Téléphone Xiaomi"</string>
   <string name="device_edit_title">"Changer le nom du périphérique"</string>
   <string name="device_info_default">"Inconnu"</string>
   <string name="device_info_label">"Informations sur l\'appareil"</string>
@@ -766,8 +761,6 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="enableNetwork">"enableNetwork"</string>
   <string name="enable_adb">"Débogage USB"</string>
   <string name="enable_adb_summary">"Mode débogage lorsqu\'un câble USB est connecté"</string>
-  <string name="enable_assist_key_long_press">"Appui long ouvre l\'app Voix"</string>
-  <string name="enable_back_long_press">"Appui long pour fermer l\'app"</string>
   <string name="enable_compatibility">"Mettre l\'application à l\'échelle"</string>
   <string name="enable_drive_mode">"Activer le mode Voiture"</string>
   <string name="enable_snapshot_screenlock">"Appui long pour capture d\'écran"</string>
@@ -1051,13 +1044,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="master_clear_personal_data_sdcard">"Êtes-vous sûr de vouloir effacer vos données personnelles et de formater la carte SD ? Cette opération ne peut pas être annulée"</string>
   <string name="master_clear_summary">"Effacer toutes les données du téléphone"</string>
   <string name="master_clear_title">"Restaurer valeurs d\'usine"</string>
-  <string name="mdb_entering">"Entrant"</string>
-  <string name="mdb_restore_cancel">"Annuler"</string>
-  <string name="mdb_restore_info1">"Restaurera les données de votre téléphone"</string>
-  <string name="mdb_restore_info2">"Veuillez ne pas rompre la connexion USB"</string>
-  <string name="mdb_restore_label">"Restauration mdb"</string>
-  <string name="mdb_restore_mode">"Mode de restauration"</string>
-  <string name="mdb_usb_disconnection_exit">"USB déconnecté, annulation de la restauration"</string>
   <string name="media_button">"Bouton multimédia"</string>
   <string name="media_format_button_text">"Effacer la mémoire USB"</string>
   <string name="media_format_desc">"Effacer toute la mémoire de stockage USB ? Vous allez perdre <b>toutes</b> les données stockées."</string>
@@ -1093,7 +1079,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="misc_files">"Fichiers divers"</string>
   <string name="misc_files_selected_count">"%1$d fichiers sélectionnés sur %2$d"</string>
   <string name="misc_files_selected_count_bytes">"%1$s sur %2$s"</string>
-  <string name="miui_device_default_name">"Android"</string>
   <string name="mms_vibrate_abbreviation">"Messages"</string>
   <string name="model_number">"Numéro du modèle"</string>
   <string name="move_app">"Déplacer"</string>
@@ -1275,7 +1260,6 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_operating">"En cours..."</string>
   <string name="perm_optimize">"Optimiser"</string>
   <string name="perm_privacy_app_count">"%1$d autorisation(s)"</string>
-  <string name="perm_privacy_app_count_trust_summary">"App de confiance"</string>
   <string name="perm_privacy_app_finish">"Terminer"</string>
   <string name="perm_privacy_app_installed">"Installation réussie !"</string>
   <string name="perm_privacy_app_launch">"Démarrer"</string>
@@ -1343,7 +1327,6 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="power_bluetooth">"Bluetooth"</string>
   <string name="power_cell">"Veille GSM"</string>
   <string name="power_idle">"Téléphone inactif"</string>
-  <string name="power_key">"Touche Marche/Arrêt"</string>
   <string name="power_mode">"Mode d\'alimentation"</string>
   <string name="power_phone">"Appels vocaux"</string>
   <string name="power_screen">"Écran"</string>
@@ -1356,7 +1339,6 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="pref_button_light">"Activer l\'éclairage"</string>
   <string name="pref_button_light_summary">"Éclaire les touche Menu, Accueil et Retour"</string>
   <string name="pref_operational_key">"Touches opérationnelles"</string>
-  <string name="pref_volume_category_title">"Touches volume"</string>
   <string name="pref_volume_wake_summary">"Presser les touches de volume réactive l\'écran. Utile si le bouton Marche/Arrêt est difficile d\'accès"</string>
   <string name="pref_volume_wake_title">"Éveil par les touches volume"</string>
   <string name="preference_change_password_title">"Modifier le mot de passe"</string>
@@ -1512,7 +1494,6 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="runningservicedetails_stop_dlg_title">"Arrêter le service système ?"</string>
   <string name="runningservices_settings_summary">"Afficher et contrôler les services en cours d\'exécution"</string>
   <string name="runningservices_settings_title">"Services en cours d\'exécution"</string>
-  <string name="safe_relative">"Autorisations de sécurité"</string>
   <string name="scan_list_label">"Résultats de l\'analyse:"</string>
   <string name="screen">"Écran"</string>
   <string name="screen_button_custom">"Personnaliser la position des touches tactiles"</string>
@@ -1651,7 +1632,6 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="show_owner_info_on_lockscreen_label">"Coordonnées du propriétaire sur l\'écran de verrouillage"</string>
   <string name="show_password">"Faire apparaître mots de passe"</string>
   <string name="show_rounded_corners">"Afficher les coins arrondis"</string>
-  <string name="show_rounded_corners_summary">"Nécessite un redémarrage pour prendre effet"</string>
   <string name="show_running_services">"Afficher les services"</string>
   <string name="show_screen_updates">"Afficher mises à jour de l\'écran"</string>
   <string name="show_screen_updates_summary">Faire clignoter les zones de l\'écran lorsqu\'elles sont mises à jour</string>

@@ -8,10 +8,8 @@
   <string name="alert_message_delete_note">Êtes-vous sûr de vouloir supprimer cette note ?</string>
   <string name="alert_message_delete_notes">Êtes-vous sûr de vouloir supprimer les %1$s notes sélectionnées ?</string>
   <string name="alert_message_discard_changes">Ignorer toutes les modifications ?</string>
-  <string name="alert_message_exceed_image_limit">Au maximum 15 images peuvent être attachées à une note, faites une nouvelle note pour ajouter d\'autres images</string>
   <string name="alert_title_delete">Supprimer les notes sélectionnées</string>
   <string name="alert_title_discard">Ignorer les modifications ?</string>
-  <string name="alert_title_exceed_image_limit">Limite d\'images par note atteinte !</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
   <string name="attachment_camera">Appareil photo</string>

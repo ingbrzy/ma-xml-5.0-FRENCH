@@ -14,7 +14,6 @@
   <string name="add_slide">Ajouter une diapositive</string>
   <string name="add_slide_hint">Appuyez pour créer une diapositive.</string>
   <string name="add_smiley">Smiley</string>
-  <string name="add_subject">Ajouter un objet</string>
   <string name="add_timing">Programmer</string>
   <string name="add_video">Ajouter une vidéo</string>
   <string name="adding_attachments">Veuillez patienter pendant que les éléments sont ajoutés au diaporama</string>
@@ -86,7 +85,6 @@
   <string name="delete_bookmark">Supprimer des favoris</string>
   <string name="delete_message">Supprimer</string>
   <string name="delete_phrase">Supprimer la phrase</string>
-  <string name="delete_subject">Supprimer le sujet</string>
   <string name="delete_unlocked">Supprimer les messages verrouillés</string>
   <string name="delivery_report_activity">Accusé de réception</string>
   <string name="delivery_toast_body">Message reçu par %s</string>
