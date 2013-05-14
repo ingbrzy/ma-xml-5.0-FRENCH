@@ -85,6 +85,7 @@
   <string name="success_sdcard_export">Export réussi</string>
   <string name="time_picker_dialog_title">Réglage du rappel</string>
   <string name="toast_message_add_image_fail">Impossible d\'insérer l\'image !</string>
+  <string name="toast_privacy_mode">Impossible d\'éditer une note en mode privé</string>
   <string name="widget_havenot_content">Aucune note associée, cliquez pour associer une note.</string>
   <string name="widget_under_visit_mode">VOUS NE PASSEREZ PAS !!!
 - Le Ninja Gris</string>
