@@ -459,7 +459,7 @@
   <string name="volume_alarm">"Alarme"</string>
   <string name="volume_icon_description_bluetooth">"Bluetooth"</string>
   <string name="volume_icon_description_incall">"Appel"</string>
-  <string name="volume_icon_description_media">"Multimedia"</string>
+  <string name="volume_icon_description_media">"Multimédia"</string>
   <string name="volume_icon_description_notification">"Notifications"</string>
   <string name="volume_icon_description_ringer">"Sonnerie"</string>
   <string name="wake_alarm_message">"Mettre l\'alarme en pause et rappeler dans %s "</string>
