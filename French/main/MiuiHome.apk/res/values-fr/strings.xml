@@ -18,7 +18,7 @@
   <string name="confirm_btn_label">OK</string>
   <string name="default_folder_title_game">Jeux</string>
   <string name="default_folder_title_recommend">Utile</string>
-  <string name="default_folder_title_security">Sécurité</string>
+  <string name="default_folder_title_security">Système et Sécurité</string>
   <string name="default_folder_title_tools">Outils</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>

@@ -28,7 +28,7 @@
   <string name="choose_recommend">Veuillez choisir ou non de recommander</string>
   <string name="confirm_download_cancelation_dialog_message">Êtes-vous sûr de vouloir annuler le téléchargement en cours ?</string>
   <string name="copy_install_log">Copier dans le Presse-papiers</string>
-  <string name="current_version_text">Version actuelle</string>
+  <string name="current_version_text">"Version actuelle : "</string>
   <string name="current_version_update_monthly_build">Version actuelle (Mettre à jour vers la version mensuelle)</string>
   <string name="daily_build">Version quotidienne</string>
   <string name="dialog_no">Non</string>

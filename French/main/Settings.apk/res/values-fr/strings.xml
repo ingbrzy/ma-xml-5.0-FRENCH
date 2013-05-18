@@ -1583,7 +1583,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="security_settings_desc">"Cette application peut accéder aux éléments suivants de votre téléphone :"</string>
   <string name="security_settings_desc_multi">"Cette application peut accéder aux éléments de votre téléphone répertoriés ci-dessous. Afin d\'améliorer les performances et de réduire l\'utilisation de la mémoire, certaines autorisations sont accordées à %1$s, car elle s\'exécute au sein du même processus que les applications %2$s : "</string>
   <string name="security_settings_summary">"Définir les paramètres de l\'option Ma position et de verrouillage"</string>
-  <string name="security_settings_title">"Système et Sécurité"</string>
+  <string name="security_settings_title">"Sécurité"</string>
   <string name="sel_sub_summary">"Sélectionnez l\'abonnement pour SUB-1 et SUB-2"</string>
   <string name="sel_sub_title">"Configurer Abonnements"</string>
   <string name="select_all">"Tout sélectionner"</string>
