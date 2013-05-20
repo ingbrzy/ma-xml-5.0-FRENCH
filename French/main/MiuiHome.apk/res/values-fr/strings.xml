@@ -47,7 +47,7 @@
   <string name="free_style_enter_tip">Glisser vers le bas avec deux doigts pour passer à MiSpace</string>
   <string name="free_style_exit_tip">Glisser vers le haut avec deux doigts pour quitter MiSpace</string>
   <string name="free_style_londing_text">Préparation de MiSpace...</string>
-  <string name="gadget_clear_button_label">Effacer les tâches</string>
+  <string name="gadget_clear_button_label">Tâches</string>
   <string name="gadget_clock_12_label">Horloge 1x2</string>
   <string name="gadget_clock_22_label">Horloge 2x2</string>
   <string name="gadget_clock_24_label">Horloge 2x4</string>
@@ -146,7 +146,7 @@
   <string name="status_bar_toggle_power_high">Performance</string>
   <string name="status_bar_toggle_power_low">Économie d\'énergie</string>
   <string name="status_bar_toggle_power_mid">Normal</string>
-  <string name="status_bar_toggle_power_mode">Mode d\'énergie</string>
+  <string name="status_bar_toggle_power_mode">Mode puissance</string>
   <string name="status_bar_toggle_privacy_mode">Mode privé</string>
   <string name="status_bar_toggle_reboot">Redémarrer</string>
   <string name="status_bar_toggle_ring">Son</string>
@@ -155,8 +155,8 @@
   <string name="status_bar_toggle_screen_button">Touches de l\'écran</string>
   <string name="status_bar_toggle_screenshot">Capture d\'écran</string>
   <string name="status_bar_toggle_shutdown">Éteindre</string>
-  <string name="status_bar_toggle_sync_auto">Sync. automatique</string>
-  <string name="status_bar_toggle_sync_manual">Sync. manuelle</string>
+  <string name="status_bar_toggle_sync_auto">Synchro automatique</string>
+  <string name="status_bar_toggle_sync_manual">Synchro manuelle</string>
   <string name="status_bar_toggle_syncing">Synchroniser</string>
   <string name="status_bar_toggle_torch">Torche</string>
   <string name="status_bar_toggle_vibrate">Vibreur</string>
@@ -178,10 +178,10 @@
   <string name="uninstall_dialog_title_format">Supprimer \"%s\"</string>
   <string name="unknown_artist_name">Artiste inconnu</string>
   <string name="unnamed_folder_name">Dossier sans nom</string>
-  <string name="wallpaper_scrolling">Mode fond d\'écran</string>
+  <string name="wallpaper_scrolling">tous</string>
   <string name="widget_favorite_contacts_edit">Éditeur</string>
   <string name="widget_favorite_contacts_label">Favoris</string>
   <string name="widget_favorite_contacts_style">Changer la taille</string>
   <string name="widget_gadget_player">Musique</string>
-  <string name="widget_global_search">Recherche globale</string>
+  <string name="widget_global_search">Recherche</string>
 </resources>

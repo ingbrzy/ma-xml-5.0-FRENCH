@@ -449,7 +449,7 @@
   <string name="ua_switcher_desktop">"Voir version ordinateur"</string>
   <string name="uploads_disabled">"Les transferts de fichiers sont désactivés."</string>
   <string name="url_copy_done">"URL copié"</string>
-  <string name="url_hint">"Recherchez ou tapez l\'URL"</string>
+  <string name="url_hint">"Recherchez ou entrez une URL"</string>
   <string name="username">"Nom"</string>
   <string name="view_certificate">"Afficher le certificat"</string>
   <string name="warning">"Avertissement"</string>

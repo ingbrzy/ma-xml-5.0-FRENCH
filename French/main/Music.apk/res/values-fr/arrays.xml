@@ -2,7 +2,7 @@
 <resources>
     <string-array name="equalizer_presents">
         <item>Normal</item>
-        <item>Classic</item>
+        <item>Classique</item>
         <item>Dance</item>
         <item>Folk</item>
         <item>Heavy Metal</item>
@@ -12,18 +12,18 @@
         <item>Rock</item>
     </string-array>
     <string-array name="weeklist">
-        <item>1 week</item>
-        <item>2 weeks</item>
-        <item>3 weeks</item>
-        <item>4 weeks</item>
-        <item>5 weeks</item>
-        <item>6 weeks</item>
-        <item>7 weeks</item>
-        <item>8 weeks</item>
-        <item>9 weeks</item>
-        <item>10 weeks</item>
-        <item>11 weeks</item>
-        <item>12 weeks</item>
+        <item>1 semaine</item>
+        <item>2 semaines</item>
+        <item>3 semaines</item>
+        <item>4 semaines</item>
+        <item>5 semaines</item>
+        <item>6 semaines</item>
+        <item>7 semaines</item>
+        <item>8 semaines</item>
+        <item>9 semaines</item>
+        <item>10 semaines</item>
+        <item>11 semaines</item>
+        <item>12 semaines</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>" "</item>

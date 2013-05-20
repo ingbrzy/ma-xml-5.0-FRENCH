@@ -234,7 +234,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="status_bar_toggle_power_high">Performance</string>
   <string name="status_bar_toggle_power_low">Économie d\'énergie</string>
   <string name="status_bar_toggle_power_mid">Normal</string>
-  <string name="status_bar_toggle_power_mode">Mode d\'énergie</string>
+  <string name="status_bar_toggle_power_mode">Mode puissance</string>
   <string name="status_bar_toggle_privacy_mode">Mode privé</string>
   <string name="status_bar_toggle_reboot">Redémarrer</string>
   <string name="status_bar_toggle_ring">Son</string>
@@ -243,8 +243,8 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="status_bar_toggle_screen_button">Touches de l\'écran</string>
   <string name="status_bar_toggle_screenshot">Capture d\'écran</string>
   <string name="status_bar_toggle_shutdown">Éteindre</string>
-  <string name="status_bar_toggle_sync_auto">Sync. automatique</string>
-  <string name="status_bar_toggle_sync_manual">Sync. manuelle</string>
+  <string name="status_bar_toggle_sync_auto">Synchro automatique</string>
+  <string name="status_bar_toggle_sync_manual">Synchro manuelle</string>
   <string name="status_bar_toggle_syncing">Synchroniser</string>
   <string name="status_bar_toggle_torch">Torche</string>
   <string name="status_bar_toggle_vibrate">Vibreur</string>

@@ -12,7 +12,7 @@
   <string name="activity_title_contacts_filter">Contacts à afficher</string>
   <string name="activity_title_settings">Paramètres</string>
   <string name="addPeopleToGroup">Pour ajouter des membres, veuillez le modifier.</string>
-  <string name="add_2sec_pause">Ajouter une pause de 2 s</string>
+  <string name="add_2sec_pause">Ajouter une pause de 2s</string>
   <string name="add_account">Ajouter un compte</string>
   <string name="add_blacklist">Ajouter à la liste noire</string>
   <string name="add_connection_button">Ajouter une connexion</string>
@@ -86,10 +86,10 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="calllog_menu_edit_before_call">Modifier avant d\'appeler</string>
   <string name="calllog_menu_send_sms">Envoyer un message</string>
   <string name="callrecordview_item_newcontact">Nouveau Contact</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$dmin %2$ds</string>
   <string name="callrecordview_item_op_time_missed">Non connecté</string>
-  <string name="callrecordview_item_op_time_only_minutes">%d min</string>
-  <string name="callrecordview_item_op_time_only_seconds">%d sec</string>
+  <string name="callrecordview_item_op_time_only_minutes">%dmin</string>
+  <string name="callrecordview_item_op_time_only_seconds">%ds</string>
   <string name="callrecordview_item_op_time_rejected">Appel rejeté</string>
   <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Sortant : "</string>
@@ -202,7 +202,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="delete_group_dialog_title">Supprimer le groupe</string>
   <string name="delete_unknown_contact_calllog_title">"Supprimer les contacts inconnus du journal d\'appel ?"</string>
   <string name="description_add_contact">Ajouter aux contacts</string>
-  <string name="description_author">"Auteur : "</string>
+  <string name="description_author">Auteur :</string>
   <string name="description_call">Appeler %1$s</string>
   <string name="description_call_log_incoming_call">Appel entrant</string>
   <string name="description_call_log_missed_call">Appel manqué</string>
@@ -212,7 +212,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="description_call_log_voicemail">Messagerie vocale</string>
   <string name="description_contact_photo">photo du contact</string>
   <string name="description_delete_button">retour arrière</string>
-  <string name="description_designer">"Designer : "</string>
+  <string name="description_designer">Concepteur :</string>
   <string name="description_dial_button">composer</string>
   <string name="description_dial_phone_number">Composez le téléphone %1$s</string>
   <string name="description_digits_edittext">numéro à composer</string>
@@ -235,11 +235,11 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="description_search_button">rechercher</string>
   <string name="description_send_message">Envoyer un message à %1$s</string>
   <string name="description_send_text_message">Envoyer un message texte à %1$s</string>
-  <string name="description_size">"Taille : "</string>
+  <string name="description_size">Taille :</string>
   <string name="description_star">favori</string>
-  <string name="description_summary">"Résumé : "</string>
-  <string name="description_uploadtime">"MàJ : "</string>
-  <string name="description_version">"Version : "</string>
+  <string name="description_summary">Résumé :</string>
+  <string name="description_uploadtime">Mise à jour :</string>
+  <string name="description_version">Version :</string>
   <string name="description_view_contact">Voir contact %1$s</string>
   <string name="description_view_contact_detail">Voir le contact</string>
   <string name="description_voicemail_button">messagerie vocale</string>
@@ -545,7 +545,7 @@ Pour ajouter des contacts, appuyez sur \"<font fgcolor="#ffffffff"><b>Menu</b></
 \"<li><font fgcolor="#ffffffff"><b>\"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
 \"</b></font></li>\"</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Aucun contact à afficher. (Si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes)"</string>
-  <string name="noContactsNoSimHelpText">\"Vous n\'avez pas encore de contacts à afficher. 
+  <string name="noContactsNoSimHelpText">\"Vous n\'avez pas encore de contact à afficher. 
 
 Pour ajouter des contacts, appuyez sur\"</string>
   <string name="noContactsNoSimHelpTextWithSync">\"Vous n\'avez aucun contact à afficher (si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes).
@@ -726,7 +726,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="removePhoto">Supprimer la photo</string>
   <string name="remove_duplicate">"MIUI vous aidera à trouver et fusionner les contacts en double, ils ne seront pas fusionnées automatiquement. Pour les fusionner vous devez le faire manuellement"</string>
   <string name="resource_alarm_default">Alarme</string>
-  <string name="resource_app_name">Navigateur de Ressources</string>
+  <string name="resource_app_name">Navigateur de ressources</string>
   <string name="resource_apply">Appliquer</string>
   <string name="resource_buy">Acheter</string>
   <string name="resource_can_not_selected">%1$s ne peut pas être sélectionné !</string>

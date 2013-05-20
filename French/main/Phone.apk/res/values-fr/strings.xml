@@ -278,7 +278,7 @@
   <string name="contacts_icon_label_miui">Contacts</string>
   <string name="corporate_unlock_failed">La demande de déverrouillage de la carte SIM d\'entreprise est infructueuse.</string>
   <string name="corporate_unlock_success">Déverrouillage de la SIM d\'entreprise réussie.</string>
-  <string name="count_down">Secondes:</string>
+  <string name="count_down">Secondes :</string>
   <string name="count_of_persons_in_conference_miui">Total de %d personnes</string>
   <string name="countrycode_alert_message_warning_miui">L\'indicatif du pays que vous avez saisi peut être faux, êtes-vous sûr de vouloir l\'utiliser ?</string>
   <string name="countrycode_alert_message_wrong_miui">L\'indicatif du pays saisi est faux, veuillez le ressaisir</string>

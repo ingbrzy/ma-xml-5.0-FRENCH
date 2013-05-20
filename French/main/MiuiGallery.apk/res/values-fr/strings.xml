@@ -51,7 +51,7 @@
   <string name="cloud_tab_all">"Tout"</string>
   <string name="cloud_tab_locations">"Lieux"</string>
   <string name="cloudfolder_already_exists">"Le dossier MiCloud existe déjà"</string>
-  <string name="confirm_delete">"Supprimer"</string>
+  <string name="confirm_delete">"Confirmer la suppression de %s élément(s) ?"</string>
   <string name="confirm_delete_album" formatted="false">"Êtes-vous sûr de vouloir supprimer %s albums (contenant %s éléments) ?"</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s image(s) in %s album(s), êtes-vous sur de vouloir les supprimer ?</string>
   <string name="confirm_delete_folders_and_pictures">"Êtes-vous sûr de vouloir supprimer %s ?"</string>
@@ -232,16 +232,16 @@
   <string name="saving_image">"Enregistrement de l\'image..."</string>
   <string name="sd_not_available">"Carte SD non montée ou indisponible"</string>
   <string name="seconds">"secondes"</string>
-  <string name="select_album">"Sélectionner album"</string>
+  <string name="select_album">"Sélectionner un album"</string>
   <string name="select_all">"Tout sélectionner"</string>
-  <string name="select_image">"Sélectionner photo"</string>
-  <string name="select_item">"Sélectionner élément"</string>
-  <string name="select_video">"Sélectionner vidéo"</string>
+  <string name="select_image">"Sélectionner une photo"</string>
+  <string name="select_item">"Sélectionner un élément"</string>
+  <string name="select_video">"Sélectionner une vidéo"</string>
   <string name="send">"Envoyer"</string>
   <string name="send_multiple_files_hint_format">"Envoyer plusieurs fichiers (%s)"</string>
   <string name="send_to_cloud_failed_message">Échec de l\'envoi de l\'élement à l\'album Cloud</string>
   <string name="sepia">"Sépia"</string>
-  <string name="set_hidden_album">"Album masqué"</string>
+  <string name="set_hidden_album">"Masquer"</string>
   <string name="set_image">"Utiliser l\'image comme"</string>
   <string name="set_label_all_albums">"Tous les albums"</string>
   <string name="set_label_local_albums">"Albums en local"</string>
@@ -282,7 +282,7 @@
   <string name="sync_album_summary">Envoyer vos photos et captures d\'écran sur MiCloud</string>
   <string name="sync_history_power_on">"Synchroniser lors de la charge"</string>
   <string name="sync_only_in_wifi">"Wi-Fi seulement"</string>
-  <string name="sync_only_in_wifi_summary">Il est recommandé de l\'activer pour éviter une consommation du trafic réseau.</string>
+  <string name="sync_only_in_wifi_summary">Il est recommandé de l\'activer pour éviter une consommation de trafic réseau.</string>
   <string name="tab_all_text">"Les deux"</string>
   <string name="tab_lockscreen_text">"Verrouillage"</string>
   <string name="tab_wallpaper_text">"Accueil"</string>
@@ -302,9 +302,9 @@
   <string name="wallpaper">"Fond d\'écran"</string>
   <string name="warn">"Attention"</string>
   <string name="white_balance">"Balance blancs"</string>
-  <string name="widget_type">"Sélectionner images"</string>
-  <string name="widget_type_album">"Sélectionner un album"</string>
-  <string name="widget_type_photo">"Sélectionner une image"</string>
+  <string name="widget_type">"Choix des images"</string>
+  <string name="widget_type_album">"Choisir un album"</string>
+  <string name="widget_type_photo">"Choisir une image"</string>
   <string name="widget_type_shuffle">"Affichage aléatoire des images"</string>
   <string name="width">"Largeur"</string>
   <string name="yes">"Oui"</string>

@@ -5,9 +5,9 @@
         <item quantity="one">Supprimer cette conversation ?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s sec</item>
-        <item quantity="one">%s sec</item>
-        <item quantity="few">%s sec</item>
+        <item quantity="other">%ss</item>
+        <item quantity="one">%ss</item>
+        <item quantity="few">%ss</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s résultats pour \"%2$s\"</item>

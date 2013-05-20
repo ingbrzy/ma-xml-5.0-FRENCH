@@ -40,7 +40,7 @@
   <string name="toast_message_continue_play_from">Continuer la lecture de</string>
   <string name="toast_message_continue_play_hour">heures</string>
   <string name="toast_message_continue_play_minute">min</string>
-  <string name="toast_message_continue_play_second_and_play">sec</string>
+  <string name="toast_message_continue_play_second_and_play">s</string>
   <string name="top_status_local_media">Médias locaux</string>
   <string name="top_status_online_media">Médias en ligne</string>
   <string name="video_info_audio_bitrate_label">Débit audio :</string>
