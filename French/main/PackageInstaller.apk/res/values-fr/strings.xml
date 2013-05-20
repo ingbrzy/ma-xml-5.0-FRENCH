@@ -13,14 +13,14 @@ Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?"</
   Autoriser le démarrage automatique ?"</string>
   <string name="caller_app">Demandeur : %1$s</string>
   <string name="cancel">Annuler</string>
-  <string name="dlg_app_replacement_statement">"L\'application que vous installez va en remplacer une autre.
+  <string name="dlg_app_replacement_statement">"L\'application que vous installez en remplacera une autre.
 
-Toutes vos données d\'utilisateur précédentes vont être enregistrées."</string>
+Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="dlg_app_replacement_title">Remplacer l\'application ?</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Il s\'agit d\'une application système.
 
-Toutes vos données d\'utilisateur précédentes vont être enregistrées."</string>
+Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="done">OK</string>
   <string name="high_risk_perms">Autorisations à haut risque</string>
   <string name="install">Installer</string>
