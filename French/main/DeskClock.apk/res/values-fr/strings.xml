@@ -116,6 +116,7 @@
   <string name="stopwatch_title">Chronomètre</string>
   <string name="system_time_setting">Paramètres</string>
   <string name="time">Heure</string>
+  <string name="timer_alert_alert_silenced">Minuteur arrêté après %d minutes.</string>
   <string name="timer_continue">Continuer</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_hour">heure(s)</string>

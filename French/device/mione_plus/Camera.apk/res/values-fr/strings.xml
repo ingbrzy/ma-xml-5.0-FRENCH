@@ -17,6 +17,8 @@
   <string name="can_not_play_video">Pour lire la vidéo, vous devez déverrouiller l\'écran</string>
   <string name="cancel">Annuler</string>
   <string name="cannot_connect_camera">"Impossible de se connecter à la caméra."</string>
+  <string name="cannot_connect_camera_once">"Impossible de se connecter à l\'appareil photo, veuillez le redémarrer"</string> 
+  <string name="cannot_connect_camera_twice">"Impossible de se connecter à l\'appareil photo, veuillez redémarrer votre téléphone"</string>
   <string name="clear_effects">Effacer les effets</string>
   <string name="close">Fermer</string>
   <string name="confirm_change_mode_title">Changer de mode</string>
