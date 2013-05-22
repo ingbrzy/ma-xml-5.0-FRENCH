@@ -23,7 +23,7 @@
   <string name="cancel_download_buton_text">Annuler</string>
   <string name="check_update">Rechercher des mises à jour</string>
   <string name="check_update_policy">Vérifier les mises à jour</string>
-  <string name="check_update_when_wifi_available">Uniquement avec une connexion Wi-Fi</string>
+  <string name="check_update_when_wifi_available">Uniquement en connexion Wi-Fi</string>
   <string name="checking_for_updates">Vérification des mises à jour...</string>
   <string name="choose_recommend">Veuillez choisir ou non de recommander</string>
   <string name="confirm_download_cancelation_dialog_message">Êtes-vous sûr de vouloir annuler le téléchargement en cours ?</string>
@@ -130,7 +130,7 @@
   <string name="update_feel">1. Comment vous sentez-vous ?</string>
   <string name="update_general">Pas mal</string>
   <string name="update_happy">Joyeux</string>
-  <string name="update_monthly_build_only">Mettre à jour vers la compilation mensuelle seulement</string>
+  <string name="update_monthly_build_only">Mettre à jour vers la compilation mensuelle uniquement</string>
   <string name="update_sad">Triste</string>
   <string name="update_success">Félicitations, la mise à jour est appliquée avec succès !</string>
   <string name="update_success_body">Le système a été correctement mis à jour vers %s</string>

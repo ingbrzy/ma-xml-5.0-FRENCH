@@ -47,12 +47,12 @@
   <string name="keep_queued_download">Conserver</string>
   <string name="menu_enter_edit_mode">Éditeur</string>
   <string name="menu_preferences">Paramètres</string>
-  <string name="might_lead_to_mobile_charge">"Après avoir annulé, il n\'y aura pas de message de téléchargement sur votre appareil. Cela peut mener à une augmentation du trafic mobile"</string>
+  <string name="might_lead_to_mobile_charge">"Après l\'avoir désactivé il n\'y aura pas d\'avertissement de téléchargement, ce qui peut mener à une augmentation du trafic mobile"</string>
   <string name="missing_title">&lt;Inconnu&gt;</string>
   <string name="no_downloads">Aucun téléchargement</string>
   <string name="open_download">Ouvrir</string>
   <string name="pause_download">Pause</string>
-  <string name="pause_download_when_wifi_disconnected">Télécharger seulement via Wi-Fi</string>
+  <string name="pause_download_when_wifi_disconnected">Télécharger uniquement via Wi-Fi</string>
   <string name="paused_by_app">Mis en pause manuellement</string>
   <string name="paused_queued_for_wifi">En attente d\'une connexion Wi-Fi</string>
   <string name="paused_unknown">Erreur inconnue</string>
@@ -61,7 +61,7 @@
   <string name="prefDefault_max_bytes_limit">1048576</string>
   <string name="pref_dialog_title_max_bytes_limit">Limite de taille de fichier</string>
   <string name="pref_download_settings_title">Avertissement de téléchargement de données</string>
-  <string name="pref_summary_enable_max_bytes_popup">"En utilisant le réseau de l\'opérateur une demande de confirmation apparaît si la taille du fichier dépasse la limite"</string>
+  <string name="pref_summary_enable_max_bytes_popup">"Une demande de confirmation apparaît si la taille du téléchargement via le réseau de l\'opérateur dépasse la limite</string>
   <string name="pref_summary_max_bytes_limit_format">Message d\'alerte si la taille du fichier dépasse %s</string>
   <string name="pref_title_enable_max_bytes_popup">Téléchargement de données</string>
   <string name="pref_title_max_bytes_limit">Limite de taille de fichier</string>

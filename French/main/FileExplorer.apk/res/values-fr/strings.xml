@@ -75,7 +75,7 @@
   <string name="download_failed">Échec du téléchargement !</string>
   <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de MiDrive. Cliquez sur le lien ci-dessous pour plus de détails :</string>
   <string name="downloading">Téléchargement...</string>
-  <string name="empty_dir_cleanup_indication">%s fichiers superflus</string>
+  <string name="empty_dir_cleanup_indication">%s dossiers vides</string>
   <string name="empty_dir_title">Dossiers vides</string>
   <string name="enable_sd_card">Aucune carte SD disponible, veuillez en connecter une</string>
   <string name="error_info_cant_send_folder">Impossible d\'envoyer le dossier</string>

@@ -889,7 +889,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="internal_media_format_desc">"Effacer toute la mémoire interne ? Vous perdrez toutes les données telles que la musique et les photos"</string>
   <string name="internal_media_format_final_desc">"Effacer le stockage interne supprimera tous les fichiers stockés, vous ne pouvez pas inverser cette action ! Le téléphone redémarrera après effacement du stockage interne."</string>
   <string name="internal_media_format_title">"Effacer la mémoire interne"</string>
-  <string name="internal_memory">"Mémoire de stockage interne"</string>
+  <string name="internal_memory">"Stockage interne"</string>
   <string name="internal_storage">"Stockage interne"</string>
   <string name="invalid_location">"L\'emplacement d\'installation n\'est pas valide."</string>
   <string name="invalid_size_value">"Impossible de calculer la taille du package."</string>
@@ -1269,8 +1269,8 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_privacy_app_trust_dialog_content">"MIUI ne vous demandera plus de confirmation pour les autorisations liées à votre sécurité et confidentialité provenant de cette application."</string>
   <string name="perm_privacy_app_trust_dialog_title">"Faire confiance à cette app"</string>
   <string name="perm_privacy_app_trust_summary">"De confiance"</string>
-  <string name="perm_privacy_app_trust_summary_off">"MIUI surveillera cette application"</string>
-  <string name="perm_privacy_app_trust_summary_on">"MIUI fera confiance à cette application"</string>
+  <string name="perm_privacy_app_trust_summary_off">"MIUI surveille cette application"</string>
+  <string name="perm_privacy_app_trust_summary_on">"MIUI fait confiance à cette application"</string>
   <string name="perm_privacy_app_uninstall">"Désinstaller"</string>
   <string name="perm_privacy_count">"Autorisé: %1$d Refusé: %2$d"</string>
   <string name="perm_service_disabled">"Service désactivé"</string>
@@ -1684,7 +1684,7 @@ Le code PIN est peut-être incorrect.\""</string>
   <string name="sms_title">"SMS"</string>
   <string name="sort_order_alpha">"Trier par nom"</string>
   <string name="sort_order_size">"Trier par taille"</string>
-  <string name="sound_category_call_ringtone_vibrate_title">"Sonnerie et vibreur pour les appels"</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Sonnerie d\'appel et vibration</string>
   <string name="sound_category_calls_and_notification_title">"Sonnerie et notifications"</string>
   <string name="sound_category_notification_title">"Notifications"</string>
   <string name="sound_category_sound_title">"Paramètres généraux"</string>
@@ -1789,7 +1789,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="trackball_wake_title">"Boule de commande éveillée"</string>
   <string name="transition_animation_scale_title">"Échelle animation transitions"</string>
   <string name="trust_switch_dialog_msg">"Miui ne vous demandera plus de confirmation pour les opérations liées a votre sécurité et confidentialité provenant de cette application.
-  Faire confiance à cette application ?"</string>
+Faire confiance à cette application ?"</string>
   <string name="trusted_credentials">"Certificats de confiance"</string>
   <string name="trusted_credentials_disable_confirmation">"Désactiver le certificat d\'autorité du système ?"</string>
   <string name="trusted_credentials_disable_label">"Désactiver"</string>

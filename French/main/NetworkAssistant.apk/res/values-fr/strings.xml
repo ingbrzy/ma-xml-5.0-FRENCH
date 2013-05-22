@@ -38,7 +38,7 @@
   <string name="carrier_query_number_title">Définir l\'opérateur et le numéro de support</string>
   <string name="carrier_settings_button">Paramètres du fournisseur de services</string>
   <string name="close_txt">Fermer</string>
-  <string name="control_app_internet">Contrôle réseau des applications</string>
+  <string name="control_app_internet">Contrôle réseau des apps</string>
   <string name="current_warning_value">Seuil d\'alerte: %s</string>
   <string name="daily_limit_dialog_disconnect_hint">Déconnecter Internet lorsque le trafic dépasse la limite définie</string>
   <string name="daily_limit_dialog_hint">Limite journalière de trafic (vide ou 0 signifie aucune limite)</string>

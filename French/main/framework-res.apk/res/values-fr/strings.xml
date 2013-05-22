@@ -266,7 +266,7 @@
     <string name="low_memory">La mémoire du téléphone est pleine. Veuillez supprimer des fichiers pour libérer de l\'espace.</string>
     <string name="me">Moi</string>
     <string name="power_dialog">Options du téléphone</string>
-    <string name="silent_mode">Mode silencieux</string>
+    <string name="silent_mode">Silencieux</string>
     <string name="turn_on_radio">Activer le mode sans fil</string>
     <string name="turn_off_radio">Désactiver le mode sans fil</string>
     <string name="screen_lock">Verrouillage de l\'écran</string>

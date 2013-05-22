@@ -63,7 +63,7 @@
   <string name="receive_uncompleted">Processus de réception inachevé</string>
   <string name="received">Reçu</string>
   <string name="resend">Renvoyer</string>
-  <string name="scan_tip">Veuillez vous assurer que le receveur a activé la connexion et peut recevoir des fichiers</string>
+  <string name="scan_tip">Assurez-vous que le receveur a activé la connexion et peut recevoir des fichiers</string>
   <string name="scanning">Scan...</string>
   <string name="sdcard_unavailable">Carte SD indisponible</string>
   <string name="send">Envoyer</string>
@@ -72,7 +72,7 @@
   <string name="send_files">Envoi de %1$d fichier(s)</string>
   <string name="send_finish">Fichier envoyé !</string>
   <string name="send_finish_tip">%1$d fichier(s) envoyé(s) à :</string>
-  <string name="send_tip">Envoyer des images, musiques, contacts et autres fichiers par lot.</string>
+  <string name="send_tip">Envoyez des images, musiques, contacts et autres fichiers par lot.</string>
   <string name="send_to">Envoyer à :</string>
   <string name="send_uncompleted">Envoi inachevé</string>
   <string name="sent">Envoyer</string>
@@ -99,7 +99,7 @@
   <string name="voice_assist_match">Couplage automatique rapide</string>
   <string name="voice_match">Couplage automatique</string>
   <string name="waiting_receive">En attente de l\'envoyeur</string>
-  <string name="welcome_tip1">Transférer des fichiers rapidement sans utilisation de données mobiles</string>
-  <string name="welcome_tip2">Transférer rapidement des images, des musiques, des contacts et bien plus encore !</string>
+  <string name="welcome_tip1">Transférez des fichiers rapidement sans utilisation de données mobiles</string>
+  <string name="welcome_tip2">Transférez rapidement des images, des musiques, des contacts et bien plus encore !</string>
   <string name="you_can">Je peux</string>
 </resources>

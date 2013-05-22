@@ -40,17 +40,17 @@
   <string formatted="false" name="notification_warning">Espace libre faible (moins de %d minutes)...</string>
   <string name="open_file_explorer">Ouvrez l\'explorateur de fichiers</string>
   <string formatted="false" name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>
-  <string name="preference_led_indicator">Indicateur d\'enregistrement lorsque l\'écran est verrouillé</string>
-  <string name="preference_led_indicator_prompt">Afficher les indicateurs LED et de barre d\'état pendant l\'enregistrement lorsque l\'écran est verrouillé</string>
-  <string name="preference_silent_mode">Enregistrement en mode silencieux</string>
-  <string name="preference_silent_mode_summary">Activer pour permettre les enregistrements en mode silencieux</string>
+  <string name="preference_led_indicator">Enregistrement sous écran de verr.</string>
+  <string name="preference_led_indicator_prompt">Lors d'un enregistrement sous écran de verrouillage l\'indiquer via la LED et la barre d'état</string>
+  <string name="preference_silent_mode">Enregistrement en silencieux</string>
+  <string name="preference_silent_mode_summary">Activer pour permettre les enregistrements en silencieux</string>
   <string name="record_list">Liste des enregistrements</string>
   <string name="record_loading"> Démarrage de l\'enregistrement, veuillez patienter.</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title"> Choisissez l\'enregistrement</string>
   <string name="record_saving">Sauvegarde de l\'enregistrement en cours, merci de patienter !</string>
   <string name="recording">Enregistrement...</string>
-  <string name="recording_stopped">L\'enregistrement a cessé</string>
+  <string name="recording_stopped">Fin de l\'enregistrement</string>
   <string name="rename">Renommer</string>
   <string name="rename_dialog_title">Renommer cet enregistrement</string>
   <string name="rename_duplicate">Nom de l\'enregistrement en double, veuillez le renommer :</string>
@@ -59,7 +59,7 @@
   <string formatted="false" name="second">%d secondes</string>
   <string name="send_to">Envoyer à</string>
   <string name="sound_recorder_settings">Paramètres d\'enregistrement</string>
-  <string name="status_bar_anti_disturb">Le son du téléphone a été coupé, ajustez le volume pour reprendre.</string>
+  <string name="status_bar_anti_disturb">Téléphone en silencieux, ajustez le volume pour reprendre.</string>
   <string name="status_bar_back"> Cliquez pour revenir au dictaphone</string>
   <string name="status_bar_recording">Enregistrement...</string>
   <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause. "</string>

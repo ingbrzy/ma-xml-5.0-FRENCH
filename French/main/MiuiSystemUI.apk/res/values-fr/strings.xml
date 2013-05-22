@@ -168,8 +168,8 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="screenshot_saved_text">"Appuyez pour l\'afficher"</string>
   <string name="screenshot_saved_title">"Capture d\'écran réussie"</string>
   <string name="screenshot_saving_text">"Enregistrement de la capture d\'écran en cours..."</string>
-  <string name="screenshot_saving_ticker">Enregistrement capture écran...</string>
-  <string name="screenshot_saving_title">"Enregistrement de la capture d\'écran..."</string>
+  <string name="screenshot_saving_ticker">Enregistrement de la capture d\'écran...</string>
+  <string name="screenshot_saving_title">Enregistrement de la capture d\'écran...</string>
   <string name="settings_expandable_under_fullscreen">Extensible en plein écran</string>
   <string name="settings_expandable_under_fullscreen_summary">En glissant vers le bas à partir du haut de l\'écran</string>
   <string name="settings_expandable_under_keyguard">Extensible sous écran de verr.</string>

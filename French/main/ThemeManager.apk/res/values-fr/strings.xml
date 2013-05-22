@@ -90,7 +90,7 @@
   <string name="resource_importing">Importation en cours</string>
   <string name="resource_list_title">Derniers sélectionnés</string>
   <string name="resource_local">Local %1$s</string>
-  <string name="resource_mute">Aucun</string>
+  <string name="resource_mute">Aucune</string>
   <string name="resource_no_result">Aucun résultat</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_online">En ligne %1$s</string>
