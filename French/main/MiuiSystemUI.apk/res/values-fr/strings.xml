@@ -256,7 +256,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="tab_notifications_lable">Notifications</string>
   <string name="tab_toggles_lable">Raccourcis</string>
   <string name="title_usb_accessory">Accessoire USB</string>
-  <string name="toast_rotation_locked">Écran verrouillé en mode paysage</string>
+  <string name="toast_rotation_locked">Écran verrouillé en orientation paysage</string>
   <string name="torch_activity_hint">Vous pouvez allumer la torche en maintenant la touche Accueil sous écran de verrouillage</string>
   <string name="torch_activity_name">Torche</string>
   <string name="usb_accessory_confirm_prompt">Ouvrir %1$s lors de la connexion de cet accessoire USB ?</string>
