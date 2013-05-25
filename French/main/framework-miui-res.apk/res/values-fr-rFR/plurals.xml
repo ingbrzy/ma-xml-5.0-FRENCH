@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="a_hour_ago">
-    <item quantity="one">"Il y a une heure"</item>
-    <item quantity="other">"Il y a %d heures"</item>
+    <item quantity="other">"Il y a une heure"</item>
   </plurals>
   <plurals name="abbrev_a_hour_ago">
-    <item quantity="one">"Il y a une heure avant"</item>
-    <item quantity="other">"Il y a %d heures avant"</item>
+    <item quantity="other">"Il y a une heure"</item>
   </plurals>
   <plurals name="abbrev_half_hour_ago">
-    <item quantity="one">"Il y a une demi-heure"</item>
-    <item quantity="other">"Il y a %d demi-heures"</item>
+    <item quantity="other">"Il y a une demi-heure"</item>
   </plurals>
   <plurals name="abbrev_in_a_hour">
-    <item quantity="one">"Dans une heure"</item>
-    <item quantity="other">"Dans %d heures"</item>
+    <item quantity="other">"Dans une heure"</item>
   </plurals>
   <plurals name="abbrev_in_half_hour">
-    <item quantity="one">"Dans une quart d\'heure"</item>
-    <item quantity="other">"Dans %d quart d\'heures"</item>
+    <item quantity="other">"Dans une demi-heure"</item>
   </plurals>
   <plurals name="abbrev_in_less_than_one_minute">
-    <item quantity="one">"Immédiatement"</item>
     <item quantity="other">"Immédiatement"</item>
   </plurals>
   <plurals name="abbrev_in_num_minutes">
@@ -29,7 +23,6 @@
     <item quantity="other">"dans %d min"</item>
   </plurals>
   <plurals name="abbrev_less_than_one_minute_ago">
-    <item quantity="one">"À l\'instant"</item>
     <item quantity="other">"À l\'instant"</item>
   </plurals>
   <plurals name="abbrev_num_minutes_ago">
@@ -37,19 +30,15 @@
     <item quantity="other">"Il y a %d min"</item>
   </plurals>
   <plurals name="half_hour_ago">
-    <item quantity="one">"Il y a une quart d\'heure"</item>
-    <item quantity="other">"Il y a %d quart d\'heures"</item>
+    <item quantity="other">"Il y a une demi-heure"</item>
   </plurals>
   <plurals name="in_a_hour">
-    <item quantity="one">"Dans une heure"</item>
-    <item quantity="other">"Dans %d heures"</item>
+    <item quantity="other">"Dans une heure"</item>
   </plurals>
   <plurals name="in_half_hour">
-    <item quantity="one">"Dans une demi-heure"</item>
-    <item quantity="other">"Dans %d demi-heures"</item>
+    <item quantity="other">"Dans une demi-heure"</item>
   </plurals>
   <plurals name="in_less_than_one_minute">
-    <item quantity="one">"Immédiatement"</item>
     <item quantity="other">"Immédiatement"</item>
   </plurals>
   <plurals name="in_num_minutes">
@@ -57,7 +46,6 @@
     <item quantity="other">"dans %d minutes"</item>
   </plurals>
   <plurals name="less_than_one_minute_ago">
-    <item quantity="one">"À l\'instant"</item>
     <item quantity="other">"À l\'instant"</item>
   </plurals>
   <plurals name="num_minutes_ago">
