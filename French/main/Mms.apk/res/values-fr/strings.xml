@@ -101,7 +101,7 @@
   <string name="duration_not_a_number">La durée doit être indiquée par un chiffre.</string>
   <string name="duration_sec">Durée (%s s)</string>
   <string name="duration_selector_title">"Durée de la diapositive "</string>
-  <string name="duration_zero">La durée doit être supérieure à zéro seconde.</string>
+  <string name="duration_zero">La durée doit être supérieure à zéro.</string>
   <string name="edit">Modifier</string>
   <string name="edit_nickname_for_nocontact">Aucun destinataire trouvé. Vous devez avoir au moins un destinataire pour éditer son nom.</string>
   <string name="edit_nickname_for_nocontact_by_robot">Vous devez avoir au moins un destinataire pour éditer des noms.</string>

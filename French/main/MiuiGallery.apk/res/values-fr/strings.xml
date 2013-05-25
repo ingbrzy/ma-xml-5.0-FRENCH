@@ -268,7 +268,7 @@
   <string name="slideshow_category">"Diaporama"</string>
   <string name="slideshow_dream_name">"Diaporama"</string>
   <string name="slideshow_interval">"Intervalle du diaporama"</string>
-  <string name="slideshow_interval_dialog_title">"L\'intervalle de lecture du diaporama doit être supérieur à 0 seconde"</string>
+  <string name="slideshow_interval_dialog_title">"L\'intervalle d\'affichage du diaporama doit être supérieur à 0"</string>
   <string name="slideshow_interval_invalid">"Intervalle invalide. Celui-ci doit être compris entre 1 et 3600. L\'intervalle par défaut va être utilisé en attendant."</string>
   <string name="slideshow_repeat_mode">Boucler</string>
   <string name="storage_all_volumes">"Tous les périphériques de stockage"</string>
@@ -279,7 +279,7 @@
   <string name="sync_album">"Synchroniser les albums"</string>
   <string name="sync_album_error">"Impossible de télécharger les photos dans cet album. Veuillez réessayer plus tard."</string>
   <string name="sync_album_set_error">"Impossible de télécharger la liste des albums. Veuillez réessayer plus tard."</string>
-  <string name="sync_album_summary">Envoyer vos photos et captures d\'écran sur MiCloud</string>
+  <string name="sync_album_summary">Envoyer vos photos et captures d\'écran sur MiCloud.</string>
   <string name="sync_history_power_on">"Synchroniser lors de la charge"</string>
   <string name="sync_only_in_wifi">"Wi-Fi uniquement"</string>
   <string name="sync_only_in_wifi_summary">Il est recommandé de l\'activer pour éviter une consommation de trafic réseau.</string>

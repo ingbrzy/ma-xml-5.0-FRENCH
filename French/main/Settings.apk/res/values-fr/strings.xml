@@ -1996,7 +1996,7 @@ Faire confiance à cette application ?"</string>
   <string name="volume_alarm_mute">"Couper le son des alarmes"</string>
   <string name="volume_bluetooth_description">"Bluetooth"</string>
   <string name="volume_category_title">"Volume"</string>
-  <string name="volume_media_description">"Musique, vidéo, jeux et autres fichiers multimédias"</string>
+  <string name="volume_media_description">"Musique, vidéo, jeux et autres médias"</string>
   <string name="volume_media_mute">"Couper le son de la musique et des autres médias"</string>
   <string name="volume_notification_description">"Notifications"</string>
   <string name="volume_notification_mute">"Couper le son des notifications"</string>

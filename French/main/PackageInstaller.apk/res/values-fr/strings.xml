@@ -47,7 +47,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="out_of_space_dlg_title">Mémoire insuffisante</string>
   <string name="perm_action_accept">Accepter</string>
   <string name="perm_action_prompt">Demander</string>
-  <string name="perm_action_reject">Rejeter</string>
+  <string name="perm_action_reject">Refuser</string>
   <string name="perm_notice">Alerte de sécurité</string>
   <string name="perm_privacy_app_finish">Terminer</string>
   <string name="perm_privacy_app_installed">Installation réussie !</string>

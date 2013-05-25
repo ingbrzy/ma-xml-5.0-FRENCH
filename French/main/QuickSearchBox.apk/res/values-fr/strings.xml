@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Recherche</string>
+  <string name="apps_search_activity" />
+  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="clear_shortcuts">Effacer les raccourcis</string>
   <string name="clear_shortcuts_agree">Effacer les raccourcis</string>
   <string name="clear_shortcuts_disagree">Conserver les raccourcis</string>
@@ -9,7 +11,7 @@
 Pour effacer votre historique de navigation, utilisez les paramètres du navigateur.\"</string>
   <string name="clear_shortcuts_summary">Effacer les raccourcis vers les suggestions de recherche sélectionnées récemment</string>
   <string name="corpus_description_apps">Noms des applications installées</string>
-  <string name="corpus_description_web">Recherche sur le Web Google, favoris et historique de navigation</string>
+  <string name="corpus_description_web">Rechercher sur internet, les favoris et l\'historique de navigation</string>
   <string name="corpus_hint_apps">Rechercher dans les applications</string>
   <string name="corpus_label_apps">Applications</string>
   <string name="corpus_label_global">Tout</string>
@@ -25,10 +27,13 @@ Pour effacer votre historique de navigation, utilisez les paramètres du navigat
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Recherche Google</string>
   <string name="google_suggest_base">http://www.google.fr/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="menu_help">Aide</string>
   <string name="menu_settings">Paramètres de recherche</string>
   <string name="remove_from_history">"Supprimer de l\'historique des recherches ?"</string>
   <string name="remove_from_history_failed">"Impossible de supprimer l\'élément de l\'historique."</string>
+  <string name="search_in_app_store">Rechercher sur le market</string>
+  <string name="search_in_web">Rechercher sur internet</string>
   <string name="search_settings">Paramètres de recherche</string>
   <string name="search_sources">Sources</string>
   <string name="search_sources_summary">"Sélection des sources à explorer sur le téléphone lors d\'une recherche"</string>
