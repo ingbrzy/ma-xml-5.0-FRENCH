@@ -19,7 +19,7 @@
   <string name="adjust_traffic_title">Ajuster les données relatives au trafic</string>
   <string name="adjust_traffic_update">Mise à jour</string>
   <string name="app_detail_internet_background">Activer en tâche de fond</string>
-  <string name="app_detail_internet_background_traffic">"Visible: %1$s Tâche de fond: %2$s"</string>
+  <string name="app_detail_internet_background_traffic">"Premier plan: %1$s, Tâche de fond: %2$s"</string>
   <string name="app_detail_internet_control_category">Contrôle réseau</string>
   <string name="app_detail_title">Détails de l\'application</string>
   <string name="app_detail_version">Version: %s</string>
@@ -76,12 +76,12 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="menu_sort">Trier</string>
   <string name="menu_sort_by_all_traffic">Trier par trafic total</string>
   <string name="menu_sort_by_disabled">Trier par applications désactivées</string>
-  <string name="menu_sort_by_mobile_traffic">Trier par trafic mobile</string>
+  <string name="menu_sort_by_mobile_traffic">Trier par trafic 2G/3G</string>
   <string name="menu_sort_by_name">Trier par nom</string>
   <string name="menu_traffic_adjust">Ajuster le trafic</string>
   <string name="menu_traffic_settings">Paramètres du trafic</string>
-  <string name="mobile_traffic">Mobile: %s</string>
-  <string name="mobile_type">Mobile</string>
+  <string name="mobile_traffic">2G/3G : %s</string>
+  <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">Paramètres du trafic</string>
   <string name="notify_carrier_settings_title">Vous n\'avez pas configuré votre opérateur. Le configurer maintenant ?</string>
   <string name="notify_traffic_settings_cancel_hint">Les notifications et la surveillance du trafic seront désactivés. Quitter maintenant ?</string>

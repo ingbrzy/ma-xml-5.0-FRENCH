@@ -697,7 +697,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="previous">précédent</string>
   <string name="private_num">Numéro privé</string>
   <string name="processing">Traitement...</string>
-  <string name="profile_display_name">Profil configuré</string>
+  <string name="profile_display_name">Configurer mon profil</string>
   <string formatted="false" name="progress_notifier_message">Importation de %1$s/%2$s : %3$s...</string>
   <string name="quickcontact_missing_app">Application introuvable</string>
   <string name="quit_dialog_confirm_title">Êtes-vous sûr de vouloir quitter la fusion des contacts ?</string>

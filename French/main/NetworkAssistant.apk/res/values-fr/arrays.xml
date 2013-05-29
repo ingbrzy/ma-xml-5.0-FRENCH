@@ -14,9 +14,9 @@
     <item>Ce mois avec le Wi-Fi</item>
   </string-array>
   <string-array name="date_of_app">
-    <item>Hier 2G/3G</item>
-    <item>Aujourd\'hui 2G/3G</item>
-    <item>Ce mois 2G/3G</item>
+    <item>"Hier 2G/3G "</item>
+    <item>"Aujourd\'hui 2G/3G "</item>
+    <item>"Ce mois 2G/3G "</item>
   </string-array>
   <string-array name="traffic_uints">
     <item>" o"</item>

@@ -284,7 +284,7 @@
     <string name="global_actions">Options du téléphone</string>
     <string name="global_action_lock">Verrouillage de l\'écran</string>
     <string name="global_action_power_off">Éteindre</string>
-    <string name="global_action_toggle_silent_mode">Mode silencieux</string>
+    <string name="global_action_toggle_silent_mode">Silencieux</string>
     <string name="global_action_silent_mode_on_status">Le son est désactivé.</string>
     <string name="global_action_silent_mode_off_status">Le son est activé.</string>
     <string name="global_actions_toggle_airplane_mode">Mode Avion</string>
@@ -1175,7 +1175,7 @@ pour le compte \"%s\"</string>
     <string name="description_direction_right">Faites glisser vers la droite pour %s.</string>
     <string name="description_target_unlock">Déverrouiller</string>
     <string name="description_target_camera">Appareil photo</string>
-    <string name="description_target_silent">Mode silencieux</string>
+    <string name="description_target_silent">Silencieux</string>
     <string name="description_target_soundon">Son activé</string>
     <string name="description_target_search">Rechercher</string>
     <string name="description_target_unlock_tablet">Faites glisser votre doigt pour déverrouiller l\'appareil.</string>

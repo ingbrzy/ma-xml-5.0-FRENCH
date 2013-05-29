@@ -851,7 +851,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="hidden_ssid_label">"SSID caché : "</string>
   <string name="history_details_title">"Informations sur l\'historique"</string>
   <string name="home_key">Touche Accueil</string>
-  <string name="ime_security_warning">"Ce mode de saisie est susceptible d\'enregistrer le texte que vous saisissez, y compris vos données personnelles, telles que les mots de passe et les numéros de carte de paiement. Il provient de l\'application %1$s. Voulez-vous vraiment l\'activer ?"</string>
+  <string name="ime_security_warning">"Ce mode de saisie est susceptible d\'enregistrer le texte que vous saisissez, y compris vos données personnelles telles que les mots de passe et les numéros de carte de paiement. Il provient de l\'application %1$s. Voulez-vous vraiment l\'activer ?"</string>
   <string name="immediately_destroy_activities">"Ne pas conserver d\'activité"</string>
   <string name="immediately_destroy_activities_summary">Arrêter chaque activité dès que l\'utilisateur la quitte</string>
   <string name="ims_reg_required_off">"Désactivation de l\'enregistrement IMS requise"</string>
@@ -1758,7 +1758,7 @@ Le code PIN est peut-être incorrect.\""</string>
 %1$s"</string>
   <string name="sync_plug">"<font fgcolor="#ffffffff">Bienvenue sur Google Sync !</font>
 Une solution Google pour synchroniser vos données et vous permettre d\'accéder à vos contacts, vos rendez-vous et plus, où que vous soyez."</string>
-  <string name="sync_settings">"Comptes et synchronisation"</string>
+  <string name="sync_settings">"Comptes &amp; synchronisation"</string>
   <string name="sync_wifi_label">"Sync. Wi-Fi"</string>
   <string name="system">"Système"</string>
   <string name="system_package">"Les mises à jour du système ne peuvent pas être installées sur des supports externes."</string>
