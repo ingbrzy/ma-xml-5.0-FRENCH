@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="Ntracks_remove_from_favorite_playlist">
+    <item quantity="other">%d chansons retirées de la playlist</item>
+    <item quantity="one">1 chanson retirée de la playlist</item>
+  </plurals>
   <plurals name="Ntracks_search_result_format">
     <item quantity="one">%d chanson associée</item>
     <item quantity="other">%d chansons associées</item>

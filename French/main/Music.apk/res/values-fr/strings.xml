@@ -41,6 +41,7 @@
   <string name="confirm">Confirmer</string>
   <string name="correct_id3_by_internet">Auto-corriger l\'ID3 avec Internet</string>
   <string name="correct_id3_failed">Correction des données ID3 échouée !</string>
+  <string name="correct_id3_in_processing">Correction des données ID3 de la chanson</string>
   <string name="correct_id3_not_support">La correction de l\'ID3 n\'est pas prise en charge par ce type de fichier</string>
   <string name="correct_id3_open_other_connect">Veuillez activer une connexion Internet dans les Paramètres pour lancer la correction de l\'ID3</string>
   <string name="correct_id3_settings">Paramètres de correction ID3</string>
@@ -57,8 +58,6 @@
   <string name="delete_playlist_menu">Supprimer</string>
   <string name="delete_song_desc">Cela supprimera définitivement %s de votre carte SD.</string>
   <string name="deselect_all">Rejeter tout</string>
-  <string name="dirac_disabled">Dirac activé</string>
-  <string name="dirac_enabled">Dirac désactivé</string>
   <string name="download">Télécharger</string>
   <string name="download_album_settings">Téléchargement de pochette auto</string>
   <string name="download_album_summary">Peut coûter plus cher via le réseau mobile, privilégiez une connexion Wi-Fi</string>
@@ -72,7 +71,6 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-  <string name="edit_playlist_menu">Modifier</string>
   <string name="empty_edit_hint">Information sur le morceau indisponible</string>
   <string name="emptyplaylist">La playlist sélectionnée est vide.</string>
   <string name="enter_sleep_mode">Minuteur de mise en veille</string>
@@ -161,8 +159,8 @@
   <string name="no_song_downloaded">La chanson ne peut pas être téléchargée</string>
   <string name="not_selected">Veuillez sélectionner une chanson</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
-  <string name="online_music">Musique en ligne</string>
   <string name="online_search_hint">Rechercher des musiques en ligne</string>
+  <string name="online_title">En ligne</string>
   <string name="other_settings">Autres</string>
   <string name="overwrite_confirm">Écraser</string>
   <string name="play_all">Tout lire</string>

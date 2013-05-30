@@ -99,6 +99,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="callrecordview_menu_delete_called">Effacer les appels émis du journal d\'appel</string>
   <string name="callrecordview_menu_delete_confirm">Confirmer %s ?</string>
   <string name="callrecordview_menu_delete_missed">Effacer les appels manqués du journal d\'appel</string>
+  <string name="callrecordview_menu_delete_new">Effacer les nouveaux contacts du journal d\'appel</string>
   <string name="callrecordview_menu_delete_one">Retirer du journal d\'appel</string>
   <string name="callrecordview_menu_delete_stranger">Effacer les numéros inconnus du journal d\'appel</string>
   <string name="callrecordview_menu_paste">Coller</string>
@@ -108,6 +109,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="callrecordview_menu_show_all">Afficher tous les appels</string>
   <string name="callrecordview_menu_show_called">Afficher les appels sortants</string>
   <string name="callrecordview_menu_show_missed">Afficher les appels manqués</string>
+  <string name="callrecordview_menu_show_new">Nouveaux contacts</string>
   <string name="callrecordview_menu_show_stranger">Afficher les appels inconnus</string>
   <string name="callrecordview_menu_show_title">Filtre du journal d\'appel</string>
   <string name="cancel_confirmation_dialog_message">Voulez-vous annuler les modifications ?</string>
@@ -319,6 +321,8 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="eventLabelsGroup">Evén.</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">L\'export vers la carte SIM est terminé</string>
+  <string name="export_sim_contact_finish_failure">Stockage SIM plein, terminé : %1$d inachevé : %2$d</string> 
+  <string name="export_sim_contact_finish_success">%d contact(s) copié(s) de la carte SIM</string>
   <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
@@ -380,6 +384,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="hint_findContacts">Rechercher</string>
   <string name="hint_more_contact">utiliser la fusion de contact lorsqu\'il y a des contacts en double</string>
   <string name="hint_search_contacts">%d contacts</string>
+  <string name="hint_search_emails">%d Mails</string>
   <string name="hint_search_phone_numbers">%d numéros de téléphone de contact</string>
   <string name="ic_menu_back">Retour</string>
   <string name="ic_menu_done">OK</string>
