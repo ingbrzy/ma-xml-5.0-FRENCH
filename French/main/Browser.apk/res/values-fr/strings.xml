@@ -37,6 +37,7 @@
   <string name="add_to_other_folder_menu_option">"Autre dossier"</string>
   <string name="add_xiaomi_account_warning">"Veuillez vous connecter à un compte Xiaomi"</string>
   <string name="added_to_bookmarks">"Ajouté aux favoris."</string>
+  <string name="alert_tips">Le site que vous visitez présente un risque potentiel de sécurité, voulez-vous continuer ?</string>
   <string name="allow">"Autoriser"</string>
   <string name="application_name">"Navigateur"</string>
   <string name="autofill_profile_editor_address_line_1">"Ligne d\'adresse 1 :"</string>
@@ -96,6 +97,8 @@
   <string name="choosertitle_sharevia">"Partager via"</string>
   <string name="clear">"Effacer"</string>
   <string name="clear_history">"Effacer l\'historique"</string>
+  <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous ces onglets ?</string> 
+  <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
   <string name="containing_folder">"Ajouter à"</string>
   <string name="contextheader_folder_bookmarkcount" formatted="false">"%d favori(s)"</string>
   <string name="contextheader_folder_empty">"Dossier vide"</string>
@@ -217,6 +220,10 @@
   <string name="move_to_up_folder">"Remonter d\'un niveau"</string>
   <string name="multi_select_title">"%1$s élément(s) sélectionné(s)"</string>
   <string name="name">"Libellé"</string>
+  <string name="navigation_button_close">Fermer</string> 
+  <string name="navigation_button_newtab">Nouveau</string> 
+  <string name="navigation_button_tab">Onglet</string> 
+  <string name="navigation_button_view">Voir</string>
   <string name="new_folder">"Nouveau dossier"</string>
   <string name="new_incognito_tab">"Nouvel onglet navigation privée"</string>
   <string name="new_tab">"Nouvel onglet"</string>
@@ -297,6 +304,7 @@
   <string name="pref_extras_website_settings">"Paramètres du site Web"</string>
   <string name="pref_extras_website_settings_summary">"Paramètres avancés de sites Web individuels"</string>
   <string name="pref_fling_on_border_enabled">"Glisser sur le bord"</string>
+  <string name="pref_fling_on_border_enabled_title_summary">Glisser d\'un bord de l\'écran</string>
   <string name="pref_fling_on_border_operation">"Action du glissement"</string>
   <string name="pref_font_size_category">"Taille de la police"</string>
   <string name="pref_force_userscalable">"Forcer activation du zoom"</string>
