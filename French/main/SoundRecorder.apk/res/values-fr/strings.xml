@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="alert_message_delete_record">Voulez-vous supprimer l\'enregistrement sélectionné ?</string>
+  <string name="alert_message_delete_record">Voulez-vous supprimer le ou les enregistrement(s) sélectionné(s) ?</string>
   <string name="app_name">Dictaphone</string>
   <string name="audio_db_album_name">Enregistrements audio</string>
   <string name="audio_db_artist_name">Vos enregistrements</string>
@@ -36,7 +36,7 @@
   <string name="no_file">Aucun enregistrement</string>
   <string name="notification_playback">Lecture de l\'enregistrement...</string>
   <string name="notification_recording">Enregistrement...</string>
-  <string name="notification_stopped">Enregistrement a cessé</string>
+  <string name="notification_stopped">L\'Enregistrement a cessé</string>
   <string formatted="false" name="notification_warning">Espace libre faible (moins de %d minutes)...</string>
   <string name="open_file_explorer">Ouvrez l\'explorateur de fichiers</string>
   <string formatted="false" name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>

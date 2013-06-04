@@ -2114,7 +2114,7 @@ N'importe quel utilisateur peut accepter des autorisations mises à jour pour le
   <string name="virus_scanner_auto_update">"Mise à jour automatique"</string>
   <string name="virus_scanner_date_formater">"dd MMM yyyy"</string>
   <string name="virus_scanner_lib_already_latest">"La base de données antivirus est à jour"</string>
-  <string name="virus_scanner_lib_update_failed">"Échec de la mise à jour de base de données Antivirus !"</string>
+  <string name="virus_scanner_lib_update_failed">"Échec de la mise à jour de la base de données antivirus !"</string>
   <string name="virus_scanner_lib_updating">"Mise à jour de la base de données en cours..."</string>
   <string name="virus_scanner_manual_update">"Mettre à jour manuellement"</string>
   <string name="virus_scanner_provider">"Sécurité assurée par %s"</string>
