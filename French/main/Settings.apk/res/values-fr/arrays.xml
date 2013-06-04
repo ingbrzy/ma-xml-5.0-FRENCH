@@ -421,4 +421,17 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>1.5 seconde</item> 
         <item>2 secondes</item> 
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Aucun</item>
+        <item>720 x 480 mdpi</item>
+        <item>1 280 x 720 tvdpi</item>
+        <item>1 920 x 1 080 xdpi</item>
+        <item>1 280x720 tvdpi et 1 920x1 080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Aucun</item>
+        <item>Logcat</item>
+        <item>Systrace (graphismes)</item>
+        <item>Appeler une pile sur glGetError</item>
+    </string-array>
 </resources>
