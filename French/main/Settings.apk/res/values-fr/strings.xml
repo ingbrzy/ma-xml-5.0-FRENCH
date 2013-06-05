@@ -2388,6 +2388,8 @@ Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi."
   <string name="wifi_signal">"Intensité du signal"</string>
   <string name="wifi_skip_anyway">Ignorer quand même</string>
   <string name="wifi_skipped_message">"AVERTISSEMENT : Des frais supplémentaires de connexion à Internet peuvent être appliqués par votre opérateur.
+
+La configuration du téléphone peut générer une forte activité sur le réseau."</string>
   <string name="wifi_speed">"Vitesse de connexion"</string>
   <string name="wifi_ssid">"SSID du réseau"</string>
   <string name="wifi_starting">"Activation du Wi-Fi..."</string>
