@@ -1675,7 +1675,6 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="security_settings_billing_desc">Cette application peut engendrer des frais :</string>
   <string name="security_settings_desc">"Cette application peut accéder aux éléments suivants de votre téléphone :"</string>
   <string name="security_settings_desc_multi">"Cette application peut accéder aux éléments de votre téléphone répertoriés ci-dessous. Afin d\'améliorer les performances et de réduire l\'utilisation de la mémoire, certaines autorisations sont accordées à %1$s, car elle s\'exécute au sein du même processus que les applications %2$s : "</string>
-  <string name="security_settings_summary">"Définir les paramètres de l\'option Ma position et de verrouillage"</string>
   <string name="security_settings_premium_sms_desc">Envoyer un SMS premium</string>
   <string name="security_settings_summary">"Définir les paramètres de l'option Ma position et de verrouillage"</string>
   <string name="security_settings_title">"Sécurité"</string>
@@ -2024,7 +2023,6 @@ Faire confiance à cette application ?"</string>
   <string name="use_system_language_to_select_input_method_subtypes">"Utiliser la langue du système"</string>
   <string name="user_account_title">Compte pour contenu</string>
   <string name="user_add_user_menu">"Ajouter utilisateur"</string>
-  <string name="user_confirm_remove_message">"L\'espace et les données de cet utilisateur vont être supprimés de ce téléphone. Cette action est irréversible."</string>
   <string name="user_add_user_message_long">"Vous pouvez partager cet appareil avec d'autres personnes en créant des utilisateurs supplémentaires. Chaque utilisateur dispose de son propre espace, où il peut personnaliser ses propres applications, ses fonds d'écran, et autres. Chacun peut également modifier les paramètres d'une tablette, tels que le Wi-Fi, qui affectent tous les utilisateurs.
 
 Lorsque vous créez un nouvel utilisateur, celui-ci doit suivre une procédure d'installation.
@@ -2057,13 +2055,20 @@ N'importe quel utilisateur peut accepter des autorisations mises à jour pour le
   <string name="user_dict_settings_more_languages">"Plus de langues..."</string>
   <string name="user_dict_settings_titlebar">"Dictionnaire personnel"</string>
   <string name="user_dict_single_settings_title">"Dictionnaire personnel"</string>
+  <string name="user_discard_user_menu">"Ignorer"</string>
   <string name="user_info_settings_title">Infos utilisateur</string>
+  <string name="user_information_heading">"Informations sur l\'utilisateur"</string>
   <string name="user_list_title">Autres utilisateurs</string>
+  <string name="user_market_apps_heading">"Applications installées"</string>
+  <string name="user_market_requires_pin">"PIN requis"</string>
+  <string name="user_max_content_rating">"Evaluation du contenu"</string>
+  <string name="user_name_title">"Nom"</string>
   <string name="user_new_user_name">Nouvel utilisateur</string>
   <string name="user_nickname">Pseudonyme</string>
   <string name="user_owner">Propriétaire</string>
   <string name="user_picture_title">ID de photo</string>
   <string name="user_remove_user_menu">"Supp. %1$s de l'appareil"</string>
+  <string name="user_restrictions_heading">"Restrictions de contenu"</string>
   <string name="user_settings_title">Utilisateurs</string>
   <string name="user_setup_button_setup_later">Pas maintenant</string>
   <string name="user_setup_button_setup_now">Configurer maintenant</string>
@@ -2072,23 +2077,12 @@ N'importe quel utilisateur peut accepter des autorisations mises à jour pour le
   <string name="user_summary_active">Actif</string>
   <string name="user_summary_inactive">Inactif</string>
   <string name="user_summary_not_set_up">Non configuré</string>
+  <string name="user_system_apps_heading">"Applications système"</string>
   <string name="user_you_section">Vous</string>
   <string name="verify_applications">Vérifier les applications</string>
   <string name="verify_applications_summary">"Ne pas autoriser l'installation d'applications potentiellement dangereuses ou afficher un avertissement"</string>
   <string name="verify_apps_over_usb_summary">Vérifiez que les applications installées par ADB/ADT ne présentent pas de comportement dangereux.</string>
   <string name="verify_apps_over_usb_title">Vérifier les applis via USB</string>
-  <string name="user_discard_user_menu">"Ignorer"</string>
-  <string name="user_information_heading">"Informations sur l\'utilisateur"</string>
-  <string name="user_list_title">"Autres utilisateurs"</string>
-  <string name="user_market_apps_heading">"Applications installées"</string>
-  <string name="user_market_requires_pin">"PIN requis"</string>
-  <string name="user_max_content_rating">"Evaluation du contenu"</string>
-  <string name="user_name_title">"Nom"</string>
-  <string name="user_new_user_name">"Nouvel utilisateur"</string>
-  <string name="user_remove_user_menu">"Supp. %1$s de l\'appareil"</string>
-  <string name="user_restrictions_heading">"Restrictions de contenu"</string>
-  <string name="user_settings_title">"Utilisateurs"</string>
-  <string name="user_system_apps_heading">"Applications système"</string>
   <string name="version_text">"version %1$s"</string>
   <string name="vibrate_category_title">"Vibreur"</string>
   <string name="vibrate_in_normal_title">"Vibrer en mode normal"</string>
