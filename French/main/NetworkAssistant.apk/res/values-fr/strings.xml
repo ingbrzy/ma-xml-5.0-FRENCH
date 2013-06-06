@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about">À propos</string>
+  <string name="adjust_no_network_update_data_fail">Échec de l\'actualisation des données, veuillez réessayer après avoir vérifié vos paramètres réseau.</string>
   <string name="adjust_traffic_auto_adjust_hint">Régulièrement, le système demande des informations à l\'opérateur et ajuste les données. Il est nécessaire de définir les informations de l\'opérateur</string>
   <string name="adjust_traffic_auto_adjust_open_hint">L\'ajustement automatique est activé, le trafic de données sera mis à jour automatiquement</string>
   <string name="adjust_traffic_auto_adjust_title">Ajustement automatique du trafic</string>
