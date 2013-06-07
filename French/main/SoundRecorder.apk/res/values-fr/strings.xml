@@ -45,9 +45,9 @@
   <string name="preference_silent_mode">Enregistrement en silencieux</string>
   <string name="preference_silent_mode_summary">Activer pour permettre les enregistrements en silencieux</string>
   <string name="record_list">Liste des enregistrements</string>
-  <string name="record_loading"> Démarrage de l\'enregistrement, veuillez patienter.</string>
+  <string name="record_loading">Chargement de l\'enregistrement, veuillez patienter.</string>
   <string name="record_name_hour">.</string>
-  <string name="record_picker_title"> Choisissez l\'enregistrement</string>
+  <string name="record_picker_title">Choisissez l\'enregistrement</string>
   <string name="record_saving">Sauvegarde de l\'enregistrement en cours, merci de patienter !</string>
   <string name="recording">Enregistrement...</string>
   <string name="recording_stopped">Fin de l\'enregistrement</string>
@@ -60,7 +60,7 @@
   <string name="send_to">Envoyer à</string>
   <string name="sound_recorder_settings">Paramètres d\'enregistrement</string>
   <string name="status_bar_anti_disturb">Téléphone en silencieux, ajustez le volume pour reprendre.</string>
-  <string name="status_bar_back"> Cliquez pour revenir au dictaphone</string>
+  <string name="status_bar_back">Cliquez pour revenir au dictaphone</string>
   <string name="status_bar_recording">Enregistrement...</string>
   <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause. "</string>
   <string name="storage_is_full">Il n\'y a plus d\'espace libre</string>

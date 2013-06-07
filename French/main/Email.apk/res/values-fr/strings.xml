@@ -229,8 +229,8 @@
   <string name="contextmenu_send_mail">Envoyer un mail</string>
   <string name="contextmenu_sharelink">Partager le lien</string>
   <string name="contextmenu_sms_dot">envoyer un SMS...</string>
-  <string name="copy_email"> Copier l\'adresse mail </string>
-  <string name="copy_number"> Copier le numéro de téléphone</string>
+  <string name="copy_email">Copier l\'adresse mail </string>
+  <string name="copy_number">Copier le numéro de téléphone</string>
   <string name="create_action">Créer</string>
   <string name="debug_clear_webview_cache">Vider le cache</string>
   <string name="debug_disable_graphics_acceleration_label">Désactiver l\'accélération graphique</string>

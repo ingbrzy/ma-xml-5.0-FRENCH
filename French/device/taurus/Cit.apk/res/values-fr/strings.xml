@@ -2,10 +2,10 @@
 <resources>
   <string name="cit_OTG_plugin_check_summary">Ce test permet de détecter un périphérique OTG.</string>
   <string name="cit_OTG_plugin_check_title">Démarrer le test OTG</string>
-  <string name="cit_OTG_plugout_check_summary"> Ce test permet de détecter la présence d\'un périphérique connecté OTG.</string>
+  <string name="cit_OTG_plugout_check_summary">Ce test permet de détecter la présence d\'un périphérique connecté OTG.</string>
   <string name="cit_OTG_plugout_check_title">Status OTG retiré</string>
-  <string name="cit_OTG_waiting_in">Merci d\'insérer le périphérique USB_OTG.</string>
-  <string name="cit_OTG_waiting_out">Merci de débrancher le périphérique USB_OTG.</string>
+  <string name="cit_OTG_waiting_in">Merci d\'insérer le périphérique USB OTG.</string>
+  <string name="cit_OTG_waiting_out">Merci de débrancher le périphérique USB OTG.</string>
   <string name="cit_ac_charger_in">Le chargeur est connecté</string>
   <string name="cit_ac_charger_out">Le chargeur est déconnecté</string>
   <string name="cit_accelermeter_sensor_check_summary">L\'écran affichera l\'accélération dans les 3 dimensions X, Y, Z (Note : si le téléphone est tourné, les valeurs changeront en fonction de l\'orientation de l\'écran</string>
@@ -224,8 +224,8 @@
   <string name="cit_tool_wifi_tx_n_txrt">Débit de données : MCS</string>
   <string name="cit_torch_off">Éteindre la torche</string>
   <string name="cit_torch_on">Allumer la torche</string>
-  <string name="cit_usb_OTG_in"> USB_OTG le périphérique est connecté </string>
-  <string name="cit_usb_OTG_out"> Aucun équipement de USB_OTG n\'est connecté. </string>
+  <string name="cit_usb_OTG_in">Périphérique USB OTG connecté.</string>
+  <string name="cit_usb_OTG_out">Équipement USB OTG démonté.</string>
   <string name="cit_usb_charger_in">Chargeur USB connecté</string>
   <string name="cit_usb_charger_out">Le chargeur USB est déconnecté</string>
   <string name="cit_version_check_summary">Versions trouvées du matériel et du logiciel</string>

@@ -343,7 +343,7 @@
   <string name="tint">"Coloration"</string>
   <string name="title">"Titre"</string>
   <string name="to_count">%d total</string> 
-  <string name="too_many_recipients">Le message a trop de destinataires(%1$s), le nombre total autorisé est de %2$s.</string> 
+  <string name="too_many_recipients">Le message a trop de destinataires(%1$s), le nombre total autorisé est de %2$s.</string>
   <string name="try_to_send">Tentative d\'envoi</string>
   <string name="turn_left">"Faire pivoter à gauche"</string>
   <string name="turn_right">"Faire pivoter à droite"</string>

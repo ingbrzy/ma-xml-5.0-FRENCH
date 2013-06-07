@@ -288,7 +288,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="dialog_voicemail_not_ready_message">Pour configurer la messagerie vocale, accédez à Menu &gt; Paramètres.</string>
   <string name="directory_search_label">Répertoire</string>
   <string name="dirty_contacts_notification_description">Le stockage local a %d contacts non synchronisées</string>
-  <string name="dirty_contacts_notification_message"> (Désactiver les notifications via les paramètres)</string>
+  <string name="dirty_contacts_notification_message">(Désactiver les notifications via les paramètres)</string>
   <string name="dirty_contacts_notification_title">Synchroniser les contacts qui ne le sont pas encore ?</string>
   <string name="display_all_contacts">Tous les contacts</string>
   <string name="display_more_groups">Autres groupes...</string>
@@ -321,7 +321,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="eventLabelsGroup">Evén.</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">L\'export vers la carte SIM est terminé</string>
-  <string name="export_sim_contact_finish_failure">Stockage SIM plein, terminé : %1$d inachevé : %2$d</string> 
+  <string name="export_sim_contact_finish_failure">Stockage SIM plein, terminé : %1$d inachevé : %2$d</string>
   <string name="export_sim_contact_finish_success">%d contact(s) copié(s) de la carte SIM</string>
   <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
@@ -416,7 +416,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="importing_vcard_description">Importation de %s...</string>
   <string name="importing_vcard_finished_title">Carte de visite %s importée</string>
   <string name="insertContactDescription">Créer un contact</string>
-  <string name="insertGroupDescription"> Créer un groupe</string>
+  <string name="insertGroupDescription">Créer un groupe</string>
   <string name="invalidContactMessage">"Le contact n\'existe pas."</string>
   <string name="keep_local">Garder en local</string>
   <string name="keep_local_btn">Sauvegarder sur le téléphone uniquement</string>

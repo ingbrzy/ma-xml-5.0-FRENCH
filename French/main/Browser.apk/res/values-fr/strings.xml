@@ -99,7 +99,7 @@
   <string name="clear">"Effacer"</string>
   <string name="clear_history">"Effacer l\'historique"</string>
   <string name="clear_history_group">Effacer l\'historique</string>
-  <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous ces onglets ?</string> 
+  <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous ces onglets ?</string>
   <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
   <string name="containing_folder">"Ajouter à"</string>
   <string name="contextheader_folder_bookmarkcount" formatted="false">"%d favori(s)"</string>
@@ -182,9 +182,9 @@
   <string name="goto_dot">"OK"</string>
   <string name="have_sent_bookmark_to_home_screen">Favori ajouté a la page d\'accueil</string>
   <string name="history">"Historique"</string>
-  <string name="history_browsed">Historique de navigation</string> 
-  <string name="history_most_visited">Les plus visités</string> 
-  <string name="history_saved_webpage">Enregistrer la page Web</string> 
+  <string name="history_browsed">Historique de navigation</string>
+  <string name="history_most_visited">Les plus visités</string>
+  <string name="history_saved_webpage">Enregistrer la page Web</string>
   <string name="history_track">Historique</string>
   <string name="homepage_base">"http://www.google.fr/webhp?client={CID}&amp;source=android-home"</string>
   <string name="homepage_set">"La page d\'accueil a été définie."</string>
@@ -231,9 +231,9 @@
   <string name="move_to_up_folder">"Remonter d\'un niveau"</string>
   <string name="multi_select_title">"%1$s élément(s) sélectionné(s)"</string>
   <string name="name">"Libellé"</string>
-  <string name="navigation_button_close">Fermer</string> 
-  <string name="navigation_button_newtab">Nouveau</string> 
-  <string name="navigation_button_tab">Onglet</string> 
+  <string name="navigation_button_close">Fermer</string>
+  <string name="navigation_button_newtab">Nouveau</string>
+  <string name="navigation_button_tab">Onglet</string>
   <string name="navigation_button_view">Voir</string>
   <string name="new_folder">"Nouveau dossier"</string>
   <string name="new_incognito_tab">"Nouvel onglet navigation privée"</string>
@@ -417,8 +417,8 @@
   <string name="return_to_homepage">"Retour à l\'accueil"</string>
   <string name="rlz_access_point">"Y1"</string>
   <string name="save">"OK"</string>
-  <string name="save_dialog_title">Sauvegarder</string> 
-  <string name="save_file_already_exist_alert_message">Le fichier existe déjà, voulez-vous le remplacer ?</string> 
+  <string name="save_dialog_title">Sauvegarder</string>
+  <string name="save_file_already_exist_alert_message">Le fichier existe déjà, voulez-vous le remplacer ?</string>
   <string name="save_file_already_exist_alert_title">Le fichier existe !</string>
   <string name="save_to_bookmarks">"Ajouter aux favoris"</string>
   <string name="saving_snapshot">"Enregistrement en cours..."</string>
@@ -458,9 +458,9 @@
   <string name="stop">Interrompre</string>
   <string name="stop_loading">Interrompre</string>
   <string name="stopping">"Arrêt..."</string>
-  <string name="storage_internal">Mémoire interne</string> 
-  <string name="storage_sd_card">Carte SD</string> 
-  <string name="storage_usb">Stockage USB</string> 
+  <string name="storage_internal">Mémoire interne</string>
+  <string name="storage_sd_card">Carte SD</string>
+  <string name="storage_usb">Stockage USB</string>
   <string name="tab_bookmarks">"Favoris"</string>
   <string name="tab_closed">"Onglet fermé."</string>
   <string name="tab_history">"Historique"</string>

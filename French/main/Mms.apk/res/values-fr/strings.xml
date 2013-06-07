@@ -196,8 +196,8 @@
   <string name="mx_activate_hint_malformed_info">Opération interrompue, la réactivation de la messagerie en mode cloud est nécessaire. L\'activer maintenant ?</string>
   <string name="mx_activate_hint_server">Le serveur n\'a pas réussi à activer la messagerie cloud. L\'activer maintenant ?</string>
   <string name="mx_activate_hint_sim_change">Carte SIM changée, la réactivation de messagerie cloud est nécessaire. L\'activer maintenant ?</string>
-  <string name="mx_activate_int_hint_malformed_info">Erreur durant la requête. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string> 
-  <string name="mx_activate_int_hint_server">L\'activation de la messagerie cloud par le serveur a échoué, un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string> 
+  <string name="mx_activate_int_hint_malformed_info">Erreur durant la requête. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_activate_int_hint_server">L\'activation de la messagerie cloud par le serveur a échoué, un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_auto_resend_mms">Réenvoyer le MMS</string>
   <string name="mx_auto_resend_mms_summary">Envoyer automatiquement comme MMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>

@@ -24,7 +24,7 @@
   <string name="backup_data">Sauvegarde de données</string>
   <string name="backup_delete">Supprimer :</string>
   <string name="backup_empty">Pas de fichier de sauvegarde trouvé</string>
-  <string name="backup_empty_info"> Sauvegarder vos données, paramètres et applications</string>
+  <string name="backup_empty_info">Sauvegarder vos données, paramètres et applications</string>
   <string name="backup_error">Erreur de sauvegarde</string>
   <string name="backup_failed">La sauvegarde a échoué, veuillez réessayer</string>
   <string name="backup_file_error">Il y a un problème avec la sauvegarde, l\'opération n\'est pas valide.</string>

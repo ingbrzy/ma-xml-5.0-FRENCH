@@ -168,7 +168,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="assisted_gps">"Utiliser le GPS assisté"</string>
   <string name="assisted_gps_disabled">"Utiliser le serveur pour assister le GPS (désactiver pour améliorer les performances du GPS)"</string>
   <string name="assisted_gps_enabled">"Utiliser le serveur pour assister le GPS (désactiver pour réduire l\'utilisation du réseau)"</string>
-  <string name="audio_profile_settings_title">Profils audio</string> 
+  <string name="audio_profile_settings_title">Profils audio</string>
   <string name="audio_record_proc_title">"Suppression du bruit"</string>
   <string name="auto_caps">"Majuscules automatiques"</string>
   <string name="auto_caps_summary">"Mettre une majuscule en début de phrase"</string>
