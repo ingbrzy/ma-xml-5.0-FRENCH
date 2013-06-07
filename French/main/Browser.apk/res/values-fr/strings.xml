@@ -83,6 +83,7 @@
   <string name="bookmark_url">"URL"</string>
   <string name="bookmark_url_not_valid">"Cette URL n\'est pas valide."</string>
   <string name="bookmarks">"Favoris"</string>
+  <string name="bookmarks_content_is_null">Aucun favori</string>
   <string name="bookmarks_management">"Favoris"</string>
   <string name="bookmarks_root_folder">"Dossier racine"</string>
   <string name="bookmarks_search">"Navigateur"</string>
@@ -97,6 +98,7 @@
   <string name="choosertitle_sharevia">"Partager via"</string>
   <string name="clear">"Effacer"</string>
   <string name="clear_history">"Effacer l\'historique"</string>
+  <string name="clear_history_group">Effacer l\'historique</string>
   <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous ces onglets ?</string> 
   <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
   <string name="containing_folder">"Ajouter à"</string>
@@ -153,8 +155,13 @@
   <string name="export_bookmark_failure">"L\'exportation des favoris vers la carte SD a échoué !"</string>
   <string name="export_bookmark_sucess">"L\'exportation des favoris vers la carte SD a été effectuée."</string>
   <string name="exported_bookmark_file_name">"Mes favoris"</string>
+  <string name="file_dir">Dossier</string>
+  <string name="file_name">Nom du fichier</string>
+  <string name="file_picker">Choisir le chemin</string>
   <string name="file_picker_new_folder">"Nouveau dossier"</string>
   <string name="file_picker_sdcard_not_found">"Aucune carte SD n\'est détectée, vérifiez si l\'appareil est n\'est pas connecté en USB ou en utilisation."</string>
+  <string name="filename_empty_alert_message">Le nom du fichier ne peut pas être vide</string>
+  <string name="filename_illegal_alert_message">Le nom du fichier contient des caractères illégaux, le fichier a été automatiquement supprimmé</string>
   <string name="find_on_page">"Rechercher sur la page"</string>
   <string name="folder_name">"Nom du dossier"</string>
   <string name="forward">"Suivant"</string>
@@ -175,6 +182,10 @@
   <string name="goto_dot">"OK"</string>
   <string name="have_sent_bookmark_to_home_screen">Favori ajouté a la page d\'accueil</string>
   <string name="history">"Historique"</string>
+  <string name="history_browsed">Historique de navigation</string> 
+  <string name="history_most_visited">Les plus visités</string> 
+  <string name="history_saved_webpage">Enregistrer la page Web</string> 
+  <string name="history_track">Historique</string>
   <string name="homepage_base">"http://www.google.fr/webhp?client={CID}&amp;source=android-home"</string>
   <string name="homepage_set">"La page d\'accueil a été définie."</string>
   <string name="http">"http://"</string>
@@ -234,6 +245,8 @@
   <string name="open_all_bookmarks">"Tout ouvrir"</string>
   <string name="open_all_in_new_window">"Toujours ouvrir dans un nouvel onglet"</string>
   <string name="open_bookmark">"Ouvrir"</string>
+  <string name="open_history_group_in_new_window">Ouvrir tous les éléments de l\'historique dans une nouvelle fenêtre</string>
+  <string name="open_history_most_visited_group_in_new_window">Ouvrir les pages Web les plus visitées</string>
   <string name="other_bookmarks">"Autres favoris"</string>
   <string name="page_info">"Infos sur la page"</string>
   <string name="page_info_address">"Adresse :"</string>
@@ -344,6 +357,7 @@
   <string name="pref_privacy_clear_geolocation_access_dlg">"Supprimer l\'accès des sites aux données de localisation ?"</string>
   <string name="pref_privacy_clear_geolocation_access_summary">"Supprimer l\'accès aux données de localisation pour tous les sites Web"</string>
   <string name="pref_privacy_clear_history">"Effacer l\'historique"</string>
+  <string name="pref_privacy_clear_history_by_group_dlg">Êtes-vous sûr de vouloir effacer votre historique de navigation ?</string>
   <string name="pref_privacy_clear_history_dlg">"Supprimer l\'historique de navigation ?"</string>
   <string name="pref_privacy_clear_history_summary">"Effacer l\'historique du navigateur"</string>
   <string name="pref_privacy_clear_passwords">"Effacer mots de passe"</string>
@@ -386,6 +400,7 @@
   <string name="pref_zoom_on_double_tap">"Appuyer deux fois pour zoomer"</string>
   <string name="preview">"Aperçu"</string>
   <string name="progress_dialog_setting_wallpaper">"Définition du fond d\'écran..."</string>
+  <string name="quicklinks_management">Liens rapides</string>
   <string name="readmode_reach_last_page">"La dernière page a été atteinte"</string>
   <string name="readmodelist_bookmarks_to_show">"Liste de lecture"</string>
   <string name="recover">"Récupérer"</string>
@@ -402,6 +417,9 @@
   <string name="return_to_homepage">"Retour à l\'accueil"</string>
   <string name="rlz_access_point">"Y1"</string>
   <string name="save">"OK"</string>
+  <string name="save_dialog_title">Sauvegarder</string> 
+  <string name="save_file_already_exist_alert_message">Le fichier existe déjà, voulez-vous le remplacer ?</string> 
+  <string name="save_file_already_exist_alert_title">Le fichier existe !</string>
   <string name="save_to_bookmarks">"Ajouter aux favoris"</string>
   <string name="saving_snapshot">"Enregistrement en cours..."</string>
   <string name="search_baidu">"Baidu"</string>
@@ -440,6 +458,9 @@
   <string name="stop">Interrompre</string>
   <string name="stop_loading">Interrompre</string>
   <string name="stopping">"Arrêt..."</string>
+  <string name="storage_internal">Mémoire interne</string> 
+  <string name="storage_sd_card">Carte SD</string> 
+  <string name="storage_usb">Stockage USB</string> 
   <string name="tab_bookmarks">"Favoris"</string>
   <string name="tab_closed">"Onglet fermé."</string>
   <string name="tab_history">"Historique"</string>
