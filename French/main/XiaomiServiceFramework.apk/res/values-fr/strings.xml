@@ -84,15 +84,15 @@
   <string name="find_device_success_title">Localisation de l\'appareil activé</string>
   <string name="find_password_on_web_msg">Veuillez visiter account.xiaomi.com pour récupérer votre mot de passe</string>
   <string name="frozen">(Verrouillé)</string>
-  <string name="giftcard_acitivity_and_denomination">%2$s Mi Credit carte-cadeau de %1$s</string> 
-  <string name="giftcard_denom">Mi Credit(s)</string> 
-  <string name="giftcard_denom_available">Mi Credit(s) disponibles</string> 
-  <string name="giftcard_denom_frozen">Mi Credit(s) gelés</string> 
-  <string name="giftcard_empty">Pas de carte-cadeau</string> 
-  <string name="giftcard_expire">%1$s-%2$s-%3$s expiré</string> 
+  <string name="giftcard_acitivity_and_denomination">%2$s Mi Credit carte-cadeau de %1$s</string>
+  <string name="giftcard_denom">Mi Credit(s)</string>
+  <string name="giftcard_denom_available">Mi Credit(s) disponibles</string>
+  <string name="giftcard_denom_frozen">Mi Credit(s) gelés</string>
+  <string name="giftcard_empty">Pas de carte-cadeau</string>
+  <string name="giftcard_expire">%1$s-%2$s-%3$s expiré</string>
   <string name="giftcard_hint">"Mi Credits en carte-cadeau dépensés en premier
-et ne peuvent être utilisés si expirés"</string> 
-  <string name="giftcard_record">Mi Credit reçus</string> 
+et ne peuvent être utilisés si expirés"</string>
+  <string name="giftcard_record">Mi Credit reçus</string>
   <string name="giftcard_value">(%1$s Mi Credit carte-cadeau)</string>
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
   <string name="i_know">OK</string>

@@ -408,18 +408,18 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Autoriser</item>
         <item>Refuser</item>
     </string-array>	
-    <string-array name="screen_key_long_press_action"> 
-        <item>Aucune</item> 
-        <item>Lancer les applications récentes</item> 
-        <item>Lancer l\'Assistant Vocal</item> 
-        <item>Lancer Google Now</item> 
-        <item>Fermer l\'application actuelle</item> 
+    <string-array name="screen_key_long_press_action">
+        <item>Aucune</item>
+        <item>Lancer les applications récentes</item>
+        <item>Lancer l\'Assistant Vocal</item>
+        <item>Lancer Google Now</item>
+        <item>Fermer l\'application actuelle</item>
     </string-array>
-    <string-array name="screen_key_long_press_timeout"> 
-        <item>0.5 seconde</item> 
-        <item>1 seconde</item> 
-        <item>1.5 seconde</item> 
-        <item>2 secondes</item> 
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 seconde</item>
+        <item>1 seconde</item>
+        <item>1.5 seconde</item>
+        <item>2 secondes</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Aucun</item>
