@@ -725,6 +725,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="recent_contacts_label">Récent</string>
   <string name="recent_number">Recent</string>
   <string name="recent_updates">Récent</string>
+  <string name="redirect_calls_to_vm_confirm_message">Si vous n'avez pas demandé à l\'exploitant de cette entreprise veuillez ne pas l\'activer. Sinon, vous pourriez ne pas être en mesure de recevoir des appels de ce contact.</string>
+  <string name="redirect_calls_to_vm_confirm_text">Activer</string>
   <string name="relationLabelsGroup">Relation</string>
   <string name="remind_btn_ignore">Ignorer</string>
   <string name="remind_btn_sync_now">Synchroniser maintenant</string>
