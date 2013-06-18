@@ -46,7 +46,7 @@
   <string name="daily_limit_result">Être informé et déconnecter Internet lorsque le trafic journalier dépasse %d Mo</string>
   <string name="daily_limit_result_no_disconnect">Être informé lorsque le trafic journalier dépasse %d Mo</string>
   <string name="daily_limit_result_no_limit">Être informé lorsque la limite journalière de trafic est dépassée</string>
-  <string name="detail_app_button">Informations application</string>
+  <string name="detail_app_button">Infos de l\'app</string>
   <string name="dialog_button_adjust">Ajuster</string>
   <string name="disable_background_connect_warning">Lorsque la connexion de données en arrière-plan est limitée, certaines applications ou services peuvent ne pas s\'exécuter via le réseau mobile. Êtes-vous sûr de vouloir fermer ?</string>
   <string name="disable_background_mobile_connect">Désactiver les données en arrière-plan</string>

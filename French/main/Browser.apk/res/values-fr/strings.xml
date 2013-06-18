@@ -99,7 +99,7 @@
   <string name="clear">"Effacer"</string>
   <string name="clear_history">"Effacer l\'historique"</string>
   <string name="clear_history_group">Effacer l\'historique</string>
-  <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous ces onglets ?</string>
+  <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous les onglets ?</string>
   <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
   <string name="containing_folder">"Ajouter à"</string>
   <string name="contextheader_folder_bookmarkcount" formatted="false">"%d favori(s)"</string>
@@ -225,7 +225,7 @@
   <string name="menu_enable_night_mode">"Activer le mode nuit"</string>
   <string name="menu_exit">"Quitter"</string>
   <string name="menu_preferences">"Paramètres"</string>
-  <string name="menu_save_snapshot">"Enreg. pour lire hors connex."</string>
+  <string name="menu_save_snapshot">Enregistrer pour lire hors connexion</string>
   <string name="menu_share_url">"Partager"</string>
   <string name="menu_view_download">"Téléchargements"</string>
   <string name="move_to_up_folder">"Remonter d\'un niveau"</string>
@@ -478,7 +478,7 @@
   <string name="ua_switcher_desktop">"Voir version ordinateur"</string>
   <string name="uploads_disabled">"Les transferts de fichiers sont désactivés."</string>
   <string name="url_copy_done">"URL copié"</string>
-  <string name="url_hint">"Recherchez ou entrez une URL"</string>
+  <string name="url_hint">"Rechercher ou entrer adresse"</string>
   <string name="username">"Nom"</string>
   <string name="view_certificate">"Afficher le certificat"</string>
   <string name="warning">"Avertissement"</string>

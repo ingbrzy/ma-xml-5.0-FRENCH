@@ -28,7 +28,7 @@
   <string name="auto_correct_id3_settings">Paramètres d\'auto-correction ID3</string>
   <string name="auto_correct_id3_summary">L\'algorithme d\'empreinte digitale audio corrigera les données ID3 lors de la lecture</string>
   <string name="batch_correct_id3_completed">Rectification de l\'ID3 terminée !</string>
-  <string name="billboard">Panneau d\'affichage</string>
+  <string name="billboard">Billboard</string>
   <string name="buffering">Chargement...</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_sleep_mode">Mode veille désactivé</string>
@@ -111,7 +111,7 @@
   <string name="keep_quit_position_summary">Restaurer la piste à la dernière position connue au redémarrage de l\'application</string>
   <string name="listen_to_music_online_settings">Écouter de la musique en ligne</string>
   <string name="listen_to_online_summary">Écouter de la musique via le réseau mobile ou Wi-Fi</string>
-  <string name="load_album_artist_failed">Le chargement de la liste d\'albums et d\'artistes. Veuillez réessayer.</string>
+  <string name="load_album_artist_failed">Le chargement de la liste d\'albums et d\'artistes a échoué. Veuillez réessayer.</string>
   <string name="load_album_artist_in_process">Chargement de la liste d\'albums et d\'artistes...</string>
   <string name="load_album_failed">Le chargement de la liste d\'albums a échoué, veuillez réessayer</string>
   <string name="load_album_in_process">Chargement de la liste d\'albums</string>
@@ -187,7 +187,7 @@
   <string name="quit_warining">La lecture s\'arrêtera dans %d minute(s)</string>
   <string name="recentlyadded_title">Derniers ajouts</string>
   <string name="recentlyplayed_title">Lu récemment</string>
-  <string name="recommend">Recommander</string>
+  <string name="recommend">Recommandé</string>
   <string name="refresh_finish">Actualisé avec succès</string>
   <string name="refresh_in_processing">Actualisation...</string>
   <string name="refresh_media_db">Rafraîchir</string>
@@ -197,7 +197,8 @@
   <string name="rename_album_menu">Renommer l\'album</string>
   <string name="rename_artist_menu">Renommer l\'artiste</string>
   <string name="rename_playlist_menu">Renommer</string>
-  <string name="ringtone_menu">En sonnerie</string>
+  <string name="retry">Réessayer</string>
+  <string name="ringtone_menu">Utiliser comme sonnerie</string>
   <string name="ringtone_set">\"%s\" a été défini comme sonnerie.</string>
   <string name="save">Enregistrer</string>
   <string name="scanning">Analyse de la carte SD...</string>
