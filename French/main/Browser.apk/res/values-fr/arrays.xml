@@ -8,11 +8,11 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
-  <string-array name="pref_content_plugins_choices">
+    <string-array name="pref_content_plugins_choices">
         <item>Toujours activés</item>
         <item>À la demande</item>
         <item>Désactivés</item>
-        </string-array>
+    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Page d\'acceuil</item>
         <item>Sites les plus visités</item>
@@ -93,20 +93,20 @@
         <item>Google Actualités</item>
         <item>https://news.google.fr/</item>
     </string-array>
-  <string-array name="pref_ua_choices">
+    <string-array name="pref_ua_choices">
         <item>Android</item>
         <item>Ordinateur de bureau</item>
         <item>iPhone</item>
         <item>iPad</item>
         <item>Froyo-N1</item>
         <item>Honeycomb-Xoom</item>
-  </string-array>
-  <string-array name="pref_volume_key_choices">
+    </string-array>
+    <string-array name="pref_volume_key_choices">
         <item>Page haut/bas</item>
         <item>Changer d\'onglet</item>
-  </string-array>
-  <string-array name="pref_fling_on_border_choices">
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
         <item>Page avant/arrière</item>
         <item>Changer d\'onglet</item>
-  </string-array>
+    </string-array>
 </resources>

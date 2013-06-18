@@ -189,7 +189,7 @@ et ne peuvent être utilisés si expirés"</string>
   <string name="progress_success_recharge_summary">Balance du compte : %1$s Mi Credits</string>
   <string name="progress_success_recharge_title">Recharge de %1$s Mi Credits effectuée</string>
   <string name="progress_voucher_creating">Mise à jour Mi Credit...</string>
-  <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt: 
+  <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt : 
 1. Contactez le service clientèle sur : %1$s 
 2. Fournir ce numéro de série : %2$s</string>
   <string name="progress_warning_waiting">Les changements du compte sont en cours de mise à jour. Veuillez réessayer plus tard.</string>
