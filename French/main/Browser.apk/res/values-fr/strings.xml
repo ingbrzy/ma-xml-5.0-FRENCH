@@ -39,6 +39,8 @@
   <string name="added_to_bookmarks">"Ajouté aux favoris."</string>
   <string name="alert_tips">Le site que vous visitez présente un risque potentiel de sécurité, voulez-vous continuer ?</string>
   <string name="allow">"Autoriser"</string>
+  <string name="app_new_version">Vous avez déjà téléchargé la dernière version</string>
+  <string name="app_update_install">Nouvelle version téléchargée et prête pour l\'installation</string>
   <string name="application_name">"Navigateur"</string>
   <string name="autofill_profile_editor_address_line_1">"Ligne d\'adresse 1 :"</string>
   <string name="autofill_profile_editor_address_line_1_hint">"Adresse postale, boîte postale, \"Aux soins de\""</string>
@@ -98,6 +100,7 @@
   <string name="choosertitle_sharevia">"Partager via"</string>
   <string name="clear">"Effacer"</string>
   <string name="clear_history">"Effacer l\'historique"</string>
+  <string name="clip_dialog_title">Ouvrir le lien copié ?</string>
   <string name="clear_history_group">Effacer l\'historique</string>
   <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous les onglets ?</string>
   <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
@@ -130,6 +133,8 @@
   <string name="delete_multi_bookmarks_alert_title">"Êtes-vous sûr de vouloir supprimer %1$s ?"</string>
   <string name="disable_autofill">"Désactiver la saisie automatique"</string>
   <string name="do_not_save">"Annuler"</string>
+  <string name="download_complete">Téléchargement terminé</string>
+  <string name="download_failed">Le téléchargement a échoué</string>
   <string name="download_no_sdcard_dlg_msg" formatted="false">"Une mémoire de stockage USB est requise pour télécharger %s."</string>
   <string name="download_no_sdcard_dlg_title">"Mémoire USB non disponible"</string>
   <string name="download_pending">"Début du téléchargement..."</string>
@@ -280,12 +285,14 @@
   <string name="pref_content_open_in_background">"Ouvrir en arrière-plan"</string>
   <string name="pref_content_open_in_background_summary">"Ouvrir le nouvel onglet derrière l\'onglet actuel"</string>
   <string name="pref_content_plugins">"Activer les plugins"</string>
+  <string name="pref_content_preload_title">Précharger le contenu</string>
   <string name="pref_content_search_engine">"Définir le moteur de recherche"</string>
   <string name="pref_content_search_engine_summary">"Sélectionner un moteur de recherche"</string>
   <string name="pref_content_title">"Contenu de la page"</string>
   <string name="pref_data_preload_dialogtitle">"Préchargement des résultats de recherche"</string>
   <string name="pref_data_preload_summary">"Autoriser le préchargement des résultats de recherche fiables en arrière-plan"</string>
   <string name="pref_data_preload_title">"Précharger les résultats de recherche"</string>
+  <string name="pref_data_preload_value_never_summary">Ne pas autoriser le navigateur à ouvrir des résultats sensibles en arrière-plan</string>
   <string name="pref_data_title">"Gestion de la bande passante"</string>
   <string name="pref_default_text_encoding">"Encodage du texte"</string>
   <string name="pref_default_text_encoding_default">"Latin-1"</string>
@@ -328,6 +335,13 @@
   <string name="pref_general_sync_title">"Synchronisation"</string>
   <string name="pref_general_title">"Général"</string>
   <string name="pref_gesture_title">"Opérations gestuelles"</string>
+  <string name="pref_image_display_control">Contrôle de l\'affichage d\'image</string> 
+  <string name="pref_images_preload_dialogtitle">Préchargement d\'images...</string> 
+  <string name="pref_images_preload_summary">" Autoriser le navigateur à précharger les images lorsque le serveur le supporte"</string> 
+  <string name="pref_images_preload_title">Préchargement d\'image</string> 
+  <string name="pref_images_preload_value_always_summary">Toujours autoriser le navigateur à précharger les images lorsque le serveur le supporte</string> 
+  <string name="pref_images_preload_value_never_summary">Ne jamais autoriser le préchargemet d\'image</string> 
+  <string name="pref_images_preload_value_wifi_only_summary">Précharger les images uniquement en Wi-Fi</string>
   <string name="pref_inverted">"Rendu inversé"</string>
   <string name="pref_inverted_category">"Rendu inversé de l\'écran"</string>
   <string name="pref_inverted_contrast">"Contraste"</string>
@@ -342,6 +356,7 @@
   <string name="pref_link_prefetch_dialogtitle">"Précharger les pages Web"</string>
   <string name="pref_link_prefetch_summary">"Autoriser le navigateur à précharger en arrière-plan les pages Web associées"</string>
   <string name="pref_link_prefetch_title">"Préchargement des pages Web"</string>
+  <string name="pref_link_prefetch_value_never_summary">Ne jamais autoriser le navigateur à précharger des pages web liées en arrière-plan</string>
   <string name="pref_min_font_size">"Taille de police minimale"</string>
   <string name="pref_min_font_size_value" formatted="false">"%d pt"</string>
   <string name="pref_privacy_clear_cache">"Vider le cache"</string>
@@ -392,9 +407,7 @@
   <string name="pref_video_preload_dialogtitle">"Préchargement de la vidéo..."</string>
   <string name="pref_video_preload_summary">"Autoriser le navigateur de précharger la vidéo lorsque le serveur le supporte"</string>
   <string name="pref_video_preload_title">"Préchargement de la vidéo"</string>
-  <string name="pref_video_preload_value_always">"ALWAYS"</string>
-  <string name="pref_video_preload_value_never">"NEVER"</string>
-  <string name="pref_video_preload_value_wifi_only">"WIFI_ONLY"</string>
+  <string name="pref_video_preload_value_never_summary">Ne jamais autoriser le navigateur à précharger des vidéos</string>
   <string name="pref_volume_key_enabled">"Touches de volume"</string>
   <string name="pref_volume_key_operation">"Action des touches de volume"</string>
   <string name="pref_zoom_on_double_tap">"Appuyer deux fois pour zoomer"</string>
