@@ -11,6 +11,8 @@
   <string name="app_name">Explorateur</string>
   <string name="application_size_label">Application</string>
   <string name="background">Télécharger en arrière-plan</string>
+  <string name="big5_summary">L\'encodage par défaut du chinois traditionnel pour le système Windows</string>
+  <string name="big5_title">BIG5</string>
   <string name="bind_account">Lier au compte MiDrive</string>
   <string name="bind_account_summary">Si vous avez déjà un compte MiDrive vous pouvez l\'ajouter pour récupérer vos données personnelles</string>
   <string name="binded_accout_description">Les comptes sont fusionnés, utilisez votre compte Xiaomi ou MiDrive pour vous connecter, les deux peuvent lire vos données</string>
@@ -123,6 +125,7 @@ Superflu"</string>
   <string name="instruction">Entrez l\'adresse suivante dans votre client FTP :</string>
   <string name="instruction_pre">Démarrez le service pour activer le serveur FTP</string>
   <string name="item_name">Sans nom</string>
+  <string name="kuaipan_label">MiDrive</string>
   <string name="kuaipan_over_space">Votre MiDrive n\'a perdu aucun espace.</string>
   <string name="kuaipan_prompt">Aide MiDrive</string>
   <string name="kuaipan_prompt_message">"Le serveur est actuellement indisponible, veuillez réessayer plus tard"</string>
@@ -261,6 +264,7 @@ Superflu"</string>
   <string name="ui_main_toast_favorite_removed">Les favoris on été supprimés</string>
   <string name="ui_main_toast_operation_failed">Échec de la suppression de %1$s des favoris.</string>
   <string name="uninstall_app_data">Supprimer l\'application et ses données</string>
+  <string name="unmount_inform_text">Le stockage USB va être démonté.</string>
   <string name="upload_failed">Échec du téléchargement !</string>
   <string name="upload_file_toolarge_message">Les fichiers %1$d allant au-delà de 300 Mo ne peuvent pas être partagés. Veuillez vérifier la gestion de transfert pour plus de détails.</string>
   <string name="uploading">Envoi...</string>

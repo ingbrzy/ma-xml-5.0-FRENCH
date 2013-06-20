@@ -199,6 +199,7 @@
   <string name="rename_playlist_menu">Renommer</string>
   <string name="retry">Réessayer</string>
   <string name="ringtone_menu">Utiliser comme sonnerie</string>
+  <string name="ringtone_not_support">Format de sonnerie non pris en charge</string>
   <string name="ringtone_set">\"%s\" a été défini comme sonnerie.</string>
   <string name="save">Enregistrer</string>
   <string name="scanning">Analyse de la carte SD...</string>

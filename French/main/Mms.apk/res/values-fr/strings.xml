@@ -261,6 +261,8 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Récupérer automatiquement les messages en itinérance</string>
   <string name="pref_summary_new_message_popup">Afficher un pop-up quand un nouveau message est reçu</string>
   <string name="pref_summary_new_message_popup_when_secure">Aucune notification en mode visiteur</string>
+  <string name="pref_summary_notification_body_enabled">Prévisualiser les messages sur l\'écran de verrouillage et la barre d\'état</string> 
+  <string name="pref_summary_notification_body_enabled_when_secure">Prévisualisation des messages désactivée quand le contrôle d\'accès est activé</string>
   <string name="pref_summary_on_system_mms_priority">L\'application recevra les MMS en premier</string>
   <string name="pref_summary_show_recent_contacts">Afficher la liste des derniers contacts utilisés lors de la composition d\'un message</string>
   <string name="pref_summary_wake_up_screen">Allumer l\'écran lorsque vous recevez de nouveaux messages</string>
@@ -276,6 +278,7 @@
   <string name="pref_title_mms_read_reports">Confirmation de lecture</string>
   <string name="pref_title_mms_retrieval_during_roaming">Récupération en itinérance</string>
   <string name="pref_title_new_message_popup">Pop-up de nouveau message</string>
+  <string name="pref_title_notification_body_enabled">Voir un apperçu</string>
   <string name="pref_title_ringtone_repeat">Nombre de rappels</string>
   <string name="pref_title_show_recent_contacts">Afficher les contacts récents</string>
   <string name="pref_title_sms_delete">Limite pour les SMS</string>
@@ -392,6 +395,7 @@
   <string name="too_many_recipients">Le message comporte trop de destinataires (%1$s). Le nombre de destinataires est limité à %2$s.</string>
   <string name="too_many_unsent_mms">"Impossible d\'envoyer le message maintenant. Trop grand nombre de MMS non envoyés."</string>
   <string name="try_to_send">"Essayer d\'envoyer"</string>
+  <string name="type_attachment">pièce jointe</string>
   <string name="type_audio">Audio</string>
   <string name="type_picture">image</string>
   <string name="type_to_compose_text_enter_to_send">Saisissez un message</string>

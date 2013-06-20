@@ -52,6 +52,7 @@
   <string name="dialog_ok">"OK"</string>
   <string name="disable_video_snapshot_hint">"Instantané vidéo désactivé en cas d\'activation des effets spéciaux."</string>
   <string name="download_by_browser">Télécharger via le navigateur</string>
+  <string name="download_wechat">Télécharger WeChat</string>
   <string name="duration">"Durée"</string>
   <string name="edit">"Modifier"</string>
   <string name="effect_backdropper_disco">"Disco"</string>
@@ -79,6 +80,7 @@
   <string name="find_mecard_qrcode">Trouver le QR code de la carte visiteur</string>
   <string name="find_other_qrcode">Trouver le QR code</string>
   <string name="find_web_qrcode">Trouver le site Internet QR code</string>
+  <string name="find_wechat_qrcode">Trouver un QR code WeChat</string>
   <string name="find_weixin_qrcode">Trouver le QR code weixin</string>
   <string name="flash">"Flash"</string>
   <string name="flash_off">"Flash désactivé"</string>
@@ -103,6 +105,7 @@
   <string name="import_fail">"Échec de l\'importation !"</string>
   <string name="iso">"ISO"</string>
   <string name="launch_market">Lancer le PlayStore</string>
+  <string name="launch_wechat">Lancer WeChat</string>
   <string name="loading">"Chargement..."</string>
   <string name="loading_video">"Chargement de la vidéo..."</string>
   <string name="location">"Lieu"</string>
@@ -463,6 +466,7 @@
   <string name="web_url_apk_warning">Le QR code sélectionné contient une application qui peut contenir un risque, veuillez plutôt rechercher via le PlayStore</string>
   <string name="web_url_warning">Le site QR code Internet peut entraîner un risque, le navigateur MIUI va scanner le QR code en toute sécurité pour vous.</string>
   <string name="website_details">"Détails du site web : "</string>
+  <string name="wechat_details">Détails WeChat :</string>
   <string name="weixin_details">"Détails Weixin : "</string>
   <string name="white_balance">"Balance des blancs"</string>
   <string name="width">"Largeur"</string>

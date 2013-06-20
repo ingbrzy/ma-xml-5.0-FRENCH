@@ -88,6 +88,9 @@
   <string name="map_notif_title">Requêtes MAP</string>
   <string name="map_session_key_dialog_header">Clé de session Bluetooth requise</string>
   <string name="map_session_key_dialog_title">Saisir la clé pour %1$s</string>
+  <string name="miui_transfer_history_title">Historique de transfert Bluetooth</string>
+  <string name="miui_transfer_inbound_title">Entrant</string>
+  <string name="miui_transfer_outbound_title">Sortant</string>
   <string name="no_transfers">"L\'historique des transferts est vide."</string>
   <string name="not_exist_file">Aucun fichier</string>
   <string name="not_exist_file_desc">\"Le fichier n\'existe pas. 

@@ -103,6 +103,7 @@ et ne peuvent être utilisés si expirés"</string>
   <string name="login">Se connecter</string>
   <string name="login_failed">Échec de la connexion</string>
   <string name="login_notice">Connexion...</string>
+  <string name="memu_refresh">Rafraîchir</string>
   <string name="mibi_license_message">Service Mi Credit de Xiaomi. En cliquant sur OK, vous acceptez être en accord avec le %1$s.</string>
   <string name="mibi_license_message_span">Contrat d\'utilisation de Mi Credit</string>
   <string name="mibi_license_title">Contrat d\'utilisation de Mi Credit</string>

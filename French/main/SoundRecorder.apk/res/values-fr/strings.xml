@@ -42,6 +42,8 @@
   <string formatted="false" name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>
   <string name="preference_led_indicator">Enregistrement sous écran de verr.</string>
   <string name="preference_led_indicator_prompt">Lors d\'un enregistrement sous écran de verrouillage l\'indiquer via la LED et la barre d\'état</string>
+  <string name="preference_record_type_dialog_title">Choisir un type d\'enregistrement</string>
+  <string name="preference_record_type_title">Type d\'enregistrement</string>
   <string name="preference_silent_mode">Enregistrement en silencieux</string>
   <string name="preference_silent_mode_summary">Activer pour permettre les enregistrements en silencieux</string>
   <string name="record_list">Liste des enregistrements</string>
