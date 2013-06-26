@@ -55,7 +55,7 @@
   <string name="error_has_bought_title">Répéter l\'achat</string>
   <string name="error_illegal_order_summary">Une erreur est survenue pendant le traitement de votre commande, veuillez réessayer plus tard</string>
   <string name="error_illegal_order_title">Erreur dans la commande !</string>
-  <string name="error_mili_title">Mi Credits insuffisant</string>
+  <string name="error_mili_title">Mi Credits insuffisants</string>
   <string name="error_network">Erreur réseau</string>
   <string name="error_network_summary">Une erreur réseau s\'est produite, veuillez vérifier que le réseau est actif puis réessayer</string>
   <string name="error_network_title">Erreur réseau</string>
@@ -98,8 +98,8 @@ et ne peuvent être utilisés si expirés"</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Saisissez le mot de passe</string>
   <string name="int_phone_user_notice">Lors de l\'enregistrement d\'un numéro hors de Chine veuillez entrer votre code de pays, par exemple +33xxxxxxxxx</string>
-  <string name="label_order_name">Nom du produit :</string>
-  <string name="label_order_price">Quantité :</string>
+  <string name="label_order_name">"Nom du produit : "</string>
+  <string name="label_order_price">"Quantité : "</string>
   <string name="login">Se connecter</string>
   <string name="login_failed">Échec de la connexion</string>
   <string name="login_notice">Connexion...</string>
@@ -133,7 +133,7 @@ et ne peuvent être utilisés si expirés"</string>
   <string name="micloud_via_sms_alert">Un SMS va être envoyé pour valider notre numéro de téléphone. Êtes-vous sûr de vouloir continuer ?</string>
   <string name="micloud_welcome_skip_login">Passer l\'enregistrement</string>
   <string name="mili_center">Mi Credit</string>
-  <string name="my_mili_record">Mes Mi Credit</string>
+  <string name="my_mili_record">Mes Mi Credits</string>
   <string name="next">Suivant</string>
   <string name="nobind">Non autorisé</string>
   <string name="order_price">%1$s Mi Credits</string>

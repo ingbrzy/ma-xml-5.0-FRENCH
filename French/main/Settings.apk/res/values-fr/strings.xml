@@ -2099,7 +2099,7 @@ N'importe quel utilisateur peut accepter des autorisations mises à jour pour le
   <string name="virus_scan_app_no_risk">"Aucun risque détecté"</string>
   <string name="virus_scan_app_passed">"Le scan s\'est terminé avec succès"</string>
   <string name="virus_scan_app_risk">"Menace trouvée !"</string>
-  <string name="virus_scan_app_safe_scanning">"Analyse en cours d\'exécution..."</string>
+  <string name="virus_scan_app_safe_scanning">"Analyse en cours..."</string>
   <string name="virus_scan_app_scan_finish">"Analyse terminée !"</string>
   <string name="virus_scan_app_scanning">"Analyse de l\'application en cours..."</string>
   <string name="virus_scan_app_stop_scan">"Arrêter l\'analyse"</string>
