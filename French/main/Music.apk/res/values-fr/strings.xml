@@ -182,6 +182,8 @@
   <string name="playlist_renamed_message">Playlist renommée.</string>
   <string name="playlists_title">Playlists</string>
   <string name="powered_by">Fourni par</string>
+  <string name="project_device">Xiaomi MiBox</string>
+  <string name="project_device_mobile">Appareil mobile</string>
   <string name="queue">Playlist actuelle</string>
   <string name="quit_player">Quitter</string>
   <string name="quit_warining">La lecture s\'arrêtera dans %d minute(s)</string>
