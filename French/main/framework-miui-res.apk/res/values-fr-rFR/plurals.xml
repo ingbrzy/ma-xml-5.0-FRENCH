@@ -53,7 +53,7 @@
     <item quantity="other">"Il y a %d minutes"</item>
   </plurals>
   <plurals name="v5_edit_mode_title">
-    <item quantity="one">"%1$d élément séléctionné"</item>
-    <item quantity="other">"%1$d éléments séléctionnés"</item>
+    <item quantity="one">"%1$d élément sélectionné"</item>
+    <item quantity="other">"%1$d éléments sélectionnés"</item>
   </plurals>
 </resources>

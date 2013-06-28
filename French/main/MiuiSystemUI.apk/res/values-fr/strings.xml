@@ -103,7 +103,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="ext_media_safe_unmount_notification_message">Vous pouvez retirer votre carte SD en toute sécurité.</string>
   <string name="ext_media_safe_unmount_notification_title">La carte SD peut être retirée en toute sécurité</string>
   <string name="ext_media_unmountable_notification_message">Carte SD endommagée. Vous devriez peut-être la formater.</string>
-  <string name="ext_media_unmountable_notification_title">Carte SD endomagée</string>
+  <string name="ext_media_unmountable_notification_title">Carte SD endommagée</string>
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Position définie par GPS</string>
   <string name="gps_notification_searching_text">Recherche de GPS...</string>
@@ -165,7 +165,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="screen_key_home">Touche Accueil</string>
   <string name="screen_key_menu">Touche Menu</string>
   <string name="screen_key_recent_apps">Touche des applications récentes</string>
-  <string name="screen_rotation_freeze_message">Rotation de l\'écran vérouillée en mode paysage</string>
+  <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillée en mode paysage</string>
   <string name="screenshot_failed_text">"Impossible enregistrer capture d\'écran. Périphérique de stockage peut-être en cours d\'utilisation."</string>
   <string name="screenshot_failed_title">"Impossible de réaliser une capture d\'écran"</string>
   <string name="screenshot_saved_text">"Appuyez pour l\'afficher"</string>

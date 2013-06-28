@@ -10,6 +10,6 @@
 	<string-array name="general_preference_auto_advance_summary_array">
         <item>"Afficher le message suivant après suppression d\'un message"</item>
         <item>"Afficher le message précédent après suppression d\'un message"</item>
-        <item>"Afficher la liste des messages apprès suppression d\'un message"</item>
+        <item>"Afficher la liste des messages après suppression d\'un message"</item>
     </string-array>
 </resources>

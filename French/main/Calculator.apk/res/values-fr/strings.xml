@@ -63,7 +63,7 @@
   <string name="sqrtDesc">racine carrée</string>
   <string name="standard">standard</string>
   <string name="tan">tan</string>
-  <string name="tanDesc">tangeante</string>
+  <string name="tanDesc">tangente</string>
   <string name="tan_mathematical_value">tan</string>
   <string name="text_copied_toast">Texte copié.</string>
 </resources>

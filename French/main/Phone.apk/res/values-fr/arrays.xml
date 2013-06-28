@@ -17,7 +17,7 @@
         <item>GSM/WCDMA auto</item>
         <item>WCDMA uniquement</item>
         <item>GSM uniquement</item>
-        <item>GSM/WCDMA preferé</item>
+        <item>GSM/WCDMA préferé</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_lte">
         <item>LTE/CDMA</item>
@@ -30,7 +30,7 @@
         <item>Japonais</item>
         <item>Coréen</item>
         <item>Chinois</item>
-        <item>Hebreux</item>
+        <item>Hébreux</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Seulement à la maison</item>

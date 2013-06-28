@@ -14,7 +14,7 @@
         <item>Désactivés</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Page d\'acceuil</item>
+        <item>Page d\'accueil</item>
         <item>Sites les plus visités</item>
         <item>Personnalisée</item>
     </string-array>

@@ -60,7 +60,7 @@
   <string name="decompress_success">Décompression réussie</string>
   <string name="decompress_to">Décompresser vers :</string>
   <string name="decompress_to_here">Décompresser ici</string>
-  <string name="delete_failed">Surpession échouée</string>
+  <string name="delete_failed">Suppression échouée</string>
   <string name="delete_file">Êtes-vous sûr de vouloir supprimer ce fichier ?</string>
   <string name="delete_files">Êtes-vous sûr de vouloir supprimer les %1$d fichiers sélectionnés ?</string>
   <string name="delete_files_and_folders">Êtes-vous sûr de vouloir supprimer les %1$d fichier(s) et %2$d dossier(s) sélectionnés ?</string>
@@ -71,7 +71,7 @@
   <string name="dialog_type_audio">Audio</string>
   <string name="dialog_type_image">Image</string>
   <string name="dialog_type_text">Texte</string>
-  <string name="dialog_type_video">Video</string>
+  <string name="dialog_type_video">Vidéo</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Dossier vide</string>
   <string name="dlg_error_unmount_text">Impossible de démonter le stockage USB. Veuillez réessayer plus tard</string>
@@ -168,9 +168,9 @@ Superflu"</string>
   <string name="notif_server_starting">Le serveur FTP a démarré</string>
   <string name="notif_title">Serveur FTP</string>
   <string name="open_changed_file_message">"Le fichier que vous essayez d\'ouvrir a été modifié, vous pouvez : 
-1. Le télecharger (mettre à jour le fichier local) 
+1. Le télécharger (mettre à jour le fichier local) 
 2. L\'envoyer (mettre à jour le fichier distant)"</string>
-  <string name="open_changed_file_title">File modified</string>
+  <string name="open_changed_file_title">Fichier modifié</string>
   <string name="operating">En cours...</string>
   <string name="operation_cancel">Annuler</string>
   <string name="operation_compress">Compresser</string>

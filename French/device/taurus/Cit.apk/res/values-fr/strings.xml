@@ -3,7 +3,7 @@
   <string name="cit_OTG_plugin_check_summary">Ce test permet de détecter un périphérique OTG.</string>
   <string name="cit_OTG_plugin_check_title">Démarrer le test OTG</string>
   <string name="cit_OTG_plugout_check_summary">Ce test permet de détecter la présence d\'un périphérique connecté OTG.</string>
-  <string name="cit_OTG_plugout_check_title">Status OTG retiré</string>
+  <string name="cit_OTG_plugout_check_title">OTG retiré</string>
   <string name="cit_OTG_waiting_in">Merci d\'insérer le périphérique USB OTG.</string>
   <string name="cit_OTG_waiting_out">Merci de débrancher le périphérique USB OTG.</string>
   <string name="cit_ac_charger_in">Le chargeur est connecté</string>
@@ -42,14 +42,14 @@
   <string name="cit_camera_sdcard_error">La carte SD est pleine. Impossible d\'enregistrer les images</string>
   <string name="cit_charger_plugin_check_summary">Vérifier l\'état actuel du chargeur</string>
   <string name="cit_charger_plugin_check_title">Tester la connexion du chargeur</string>
-  <string name="cit_charger_plugout_check_summary">Débrancher et rebrancher le chargeur lançera le test</string>
+  <string name="cit_charger_plugout_check_summary">Débrancher et rebrancher le chargeur lancera le test</string>
   <string name="cit_charger_plugout_check_title">Tester la déconnexion du chargeur</string>
   <string name="cit_charger_waiting_in">En attente de chargeur</string>
   <string name="cit_charger_waiting_out">Débrancher le chargeur</string>
   <string name="cit_display_check_summary">Le test affichera une image, ajoutez un fichier .bmp à la racine de la carte SD</string>
   <string name="cit_display_check_title">Test de l\'écran</string>
   <string name="cit_display_continue">Cliquez sur l\'écran pour commencer le test</string>
-  <string name="cit_exit_test_summary">Fermer les tests feront perdre toutes les données, êtes-vous sûr de vouloir continuer ?</string>
+  <string name="cit_exit_test_summary">Fermer les tests fera perdre toutes les données, êtes-vous sûr de vouloir continuer ?</string>
   <string name="cit_exit_test_title">Arrêter le test</string>
   <string name="cit_fail">Échoué</string>
   <string name="cit_fm_audio_path">Définir le chemin audio</string>
@@ -75,7 +75,7 @@
   <string name="cit_gps_satellite_count">GPS Satellites : %d</string>
   <string name="cit_gps_satellite_prn">PRN : %s</string>
   <string name="cit_gps_satellite_snr">SNR : %s</string>
-  <string name="cit_gyroscope_sensor_check_summary">Les valeurs du capteurs gyroscopiques pour les coordonnées X, Y, Z</string>
+  <string name="cit_gyroscope_sensor_check_summary">Les valeurs du capteur gyroscopique pour les coordonnées X, Y, Z</string>
   <string name="cit_gyroscope_sensor_check_title">Test Gyroscope</string>
   <string name="cit_headset_button_check_summary">Le test va afficher la touche de l\'appareil lorsqu\'elle sera activée</string>
   <string name="cit_headset_button_check_title">Test des écouteurs</string>
@@ -145,9 +145,9 @@
   <string name="cit_sd_mp3_not_existed">"Le fichier music.mp3 ne doit pas se trouver à la racine de votre carte SD, ajoutez le fichier et recommencez le test de lecture."</string>
   <string name="cit_sd_plugged_in">Carte SD chargée, retirez la carte SD</string>
   <string name="cit_sd_plugged_out">Carte SD non montée, monter la carte SD</string>
-  <string name="cit_sd_plugin_check_summary">Ce test va détecter si la carte SD est montée, l\'écran affiche alors \La carte SD a été montée\</string>
+  <string name="cit_sd_plugin_check_summary">Ce test va détecter si la carte SD est montée, l\'écran affiche alors \"La carte SD a été montée\"</string>
   <string name="cit_sd_plugin_check_title">test du montage de la carte SD</string>
-  <string name="cit_sd_plugout_check_summary">Ce test va détecter si la carte SD est désintallée, l\'écran affiche alors \La carte SD a été désintallée\</string>
+  <string name="cit_sd_plugout_check_summary">Ce test va détecter si la carte SD est désinstallée, l\'écran affiche alors \"La carte SD a été désinstallée\"</string>
   <string name="cit_sd_plugout_check_title">test du montage de la carte SD</string>
   <string name="cit_sd_unmount">Démonter la carte SD</string>
   <string name="cit_sd_unmount_sucess">La carte SD a été montée avec succès</string>
@@ -213,7 +213,7 @@
   <string name="cit_tool_wifi_rx_exit">Rx: sortie</string>
   <string name="cit_tool_wifi_rx_run">Exécuter</string>
   <string name="cit_tool_wifi_rx_stop">Arrêter</string>
-  <string name="cit_tool_wifi_rx_total_format">Transferé : %s</string>
+  <string name="cit_tool_wifi_rx_total_format">Transféré : %s</string>
   <string name="cit_tool_wifi_tx_bg">Transmission : B/G</string>
   <string name="cit_tool_wifi_tx_bg_chan">Canal :</string>
   <string name="cit_tool_wifi_tx_bg_txpr">Puissance de Transmission :</string>

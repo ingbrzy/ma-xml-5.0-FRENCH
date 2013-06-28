@@ -9,11 +9,11 @@
   <string name="apply_existing_update_md5error_title">La signature MD5 ne correspond pas</string>
   <string name="apply_later_button_text">Annuler</string>
   <string name="apply_now_button_text">Confirmer</string>
-  <string name="apply_unable_to_reboot_toast">Impossible de redémarrer pour entrer dans le recovery</string>
+  <string name="apply_unable_to_reboot_toast">Impossible de redémarrer pour entrer dans le Recovery</string>
   <string name="apply_update_dialog_cancel_button">Annuler</string>
   <string name="apply_update_dialog_update_button">Mettre à jour</string>
   <string name="apply_update_fail">La mise à jour du système a échoué</string>
-  <string name="apply_update_timer">Mise à jour terminées，l\'appareil redémarrera dans %d secondes</string>
+  <string name="apply_update_timer">Mise à jour terminée, l\'appareil redémarrera dans %d secondes</string>
   <string name="apply_upload_info_message">Cliquer sur Mettre à jour maintenant redémarrera automatiquement le téléphone pour appliquer la mise à jour.</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
   <string name="applying_rom_message">Application de la mise à jour</string>
@@ -65,7 +65,7 @@
   <string name="moving_data_to_sdcard_progress_format">Transféré %1$ddKb de %2$dKb</string>
   <string name="my_best_update">La meilleure mise à jour que j\'ai choisie</string>
   <string name="my_expect_update">Les attentes que j\'ai choisies</string>
-  <string name="my_rank">Classement des mises à jours :</string>
+  <string name="my_rank">Classement des mises à jour :</string>
   <string name="my_update_feel">Mes sentiments</string>
   <string name="my_worst_update">La pire mise à jour que j\'ai choisie</string>
   <string name="network_error">Une erreur de connexion réseau s\'est produite, veuillez essayer de nouveau</string>
@@ -73,7 +73,7 @@
   <string name="new_update_download_complete_body">Mise à jour possible : %s</string>
   <string name="new_update_downloading_body">Téléchargement de la nouvelle version : %s</string>
   <string name="new_updates_found_notification_title">Une mise à jour système a été détectée !</string>
-  <string name="new_updates_found_title">Mises à jours disponibles</string>
+  <string name="new_updates_found_title">Mises à jour disponibles</string>
   <string name="next">Suivant</string>
   <string name="no_proper_updates">Aucune mise à jour n\'a été trouvée pour la version actuellement installée</string>
   <string name="no_updatecheck_executed">Vérification de la mise à jour non effectuée</string>

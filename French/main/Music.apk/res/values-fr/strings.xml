@@ -25,7 +25,7 @@
   <string name="artist_edit">Artiste</string>
   <string name="artist_hot_audios">Populaire</string>
   <string name="artists_title">Artistes</string>
-  <string name="auto_correct_id3_settings">Paramètres d\'auto-correction ID3</string>
+  <string name="auto_correct_id3_settings">Paramètres d\'autocorrection ID3</string>
   <string name="auto_correct_id3_summary">L\'algorithme d\'empreinte digitale audio corrigera les données ID3 lors de la lecture</string>
   <string name="batch_correct_id3_completed">Rectification de l\'ID3 terminée !</string>
   <string name="billboard">Billboard</string>
@@ -39,7 +39,7 @@
   <string name="click_to_shuffle">Lecture aléatoire</string>
   <string name="complete">Terminé</string>
   <string name="confirm">Confirmer</string>
-  <string name="correct_id3_by_internet">Auto-corriger l\'ID3 avec Internet</string>
+  <string name="correct_id3_by_internet">Autocorriger l\'ID3 avec Internet</string>
   <string name="correct_id3_failed">Correction des données ID3 échouée !</string>
   <string name="correct_id3_in_processing">Correction des données ID3 de la chanson</string>
   <string name="correct_id3_not_support">La correction de l\'ID3 n\'est pas prise en charge par ce type de fichier</string>
@@ -79,7 +79,7 @@
   <string name="equalizer_delete_success">Profil égaliseur supprimé avec succès</string>
   <string name="equalizer_save_success">Le profil de l\'égalisateur a été sauvegardé</string>
   <string name="fade_effect_settings">Fondu entre les morceaux</string>
-  <string name="fade_effect_summary">Activer le fondu entre chaque morceaux joué</string>
+  <string name="fade_effect_summary">Activer le fondu entre chaque morceaux joués</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="file_not_found">Le fichier n\'existe pas</string>
   <string name="filter_by_duration">Filtrer par durée</string>
@@ -103,7 +103,7 @@
   <string name="hot_artists">Artistes populaires</string>
   <string name="id3_edit">Modifier les informations ID3</string>
   <string name="id3_edit_failed">Impossible de modifier les informations ID3</string>
-  <string name="id3_modify_confirm_check">Confirmer les modifications de l\'ID3 ?</string>
+  <string name="id3_modify_confirm_check">Confirmer les modifications ID3 ?</string>
   <string name="id3_modify_confirm_text">Enregistrer</string>
   <string name="impunity_declaration">La musique en ligne que vous êtes sur le point d\'utiliser provient du Service de Musique en Ligne Baidu. Cliquez sur \"Confirmer\" pour accepter ses conditions et l\'utiliser ou cliquez sur \"Annuler\" pour quitter.</string>
   <string name="impunity_declaration_title">Déclaration</string>
@@ -125,7 +125,7 @@
   <string name="load_channel_in_process">Chargement de la liste de chaines</string>
   <string name="loading">Chargement...</string>
   <string name="lrc_progress_modify">Ajuster la vitesse de défilement des paroles</string>
-  <string name="lrc_progress_modify_helper">Ajuster les vitesse de défilement des paroles en les faisant glisser vers le haut ou vers le bas</string>
+  <string name="lrc_progress_modify_helper">Ajuster la vitesse de défilement des paroles en les faisant glisser vers le haut ou vers le bas</string>
   <string name="lrc_search_failed">Paroles introuvables !</string>
   <string name="lrc_searching">Recherche de paroles...</string>
   <string name="lrc_select">Sélectionner les paroles</string>

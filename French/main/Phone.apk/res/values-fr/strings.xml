@@ -29,7 +29,7 @@
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Oui</string>
   <string name="allContactdeleteFailed">Impossible de supprimer tous les contacts de la SIM!!!</string>
-  <string name="allContactdeleteSuccess">Tous les contacts de la carte SIM ont été supprimé avec succès</string>
+  <string name="allContactdeleteSuccess">Tous les contacts de la carte SIM ont été supprimés avec succès</string>
   <string name="always_enable_mms_miui">Toujours recevoir les MMS</string>
   <string name="always_enable_mms_summary_miui">Toujours recevoir les MMS même lorsque les données sont désactivées</string>
   <string name="answer_and_hangup_miui">Raccrocher et répondre</string>
@@ -192,8 +192,8 @@
   <string name="card_title_dialing">Appel en cours...</string>
   <string name="card_title_forwardcheckreceived">Vérifier avant de recevoir</string>
   <string name="card_title_forwarded_MTcall">Appel entrant transféré</string>
-  <string name="card_title_forwarded_incoming_call_miui">Transferer appel(s) entrant(s)</string>
-  <string name="card_title_hanging_up">"Fin de l\'appel.."</string>
+  <string name="card_title_forwarded_incoming_call_miui">Transférer appel(s) entrant(s)</string>
+  <string name="card_title_hanging_up">"Fin de l\'appel..."</string>
   <string name="card_title_in_call">Appel en cours</string>
   <string name="card_title_in_progress">Appel en cours</string>
   <string name="card_title_incoming_barred">Appels entrants interdit</string>
@@ -251,7 +251,7 @@
   <string name="command_error_sim_absent_miui">La carte à puce (ICC) est absente.</string>
   <string name="command_error_sim_pin2_miui">Le code PIN2 est nécessaire pour terminer cette opération.</string>
   <string name="command_error_sim_puk2_miui">Le code PIN2 est verrouillé, le code PUK2 est nécessaire pour le déverrouiller.</string>
-  <string name="command_error_sms_fail_retry_miui">Impossible d\'envoyer le sms, veuillez réessayer plus tard.</string>
+  <string name="command_error_sms_fail_retry_miui">Impossible d\'envoyer le SMS, veuillez réessayer plus tard.</string>
   <string name="command_error_unsupported_mode_miui">Le type de réseau favori n\'est pas supporté.</string>
   <string name="command_error_unsupported_request_miui">Cette opération n\'est pas supportée.</string>
   <string name="confCall">Conférence tél.</string>
@@ -329,7 +329,7 @@
   <string name="description_image_button_one">un</string>
   <string name="description_image_button_pound">dièse</string>
   <string name="description_image_button_seven">sept</string>
-  <string name="description_image_button_six">Six</string>
+  <string name="description_image_button_six">six</string>
   <string name="description_image_button_star">étoile</string>
   <string name="description_image_button_three">trois</string>
   <string name="description_image_button_two">deux</string>
@@ -450,7 +450,7 @@
   <string name="fdn_failed">L\'opération FDN a échoué.</string>
   <string name="fdn_invalid_number">"Le numéro autorisé n\'a pas été mis à jour, car il ne doit pas comporter plus de 20 chiffres."</string>
   <string name="fdn_miui">Numérotation fixe</string>
-  <string name="fdn_summary_miui">Les options ci dessus sont désactivées si le FDN est activé</string>
+  <string name="fdn_summary_miui">Les options ci-dessus sont désactivées si le FDN est activé</string>
   <string name="fdn_unavailable">Service FDN indisponible</string>
   <string name="fw_change_failed">\"Impossible de modifier le numéro de transfert.
 Veuillez contacter votre opérateur si le problème persiste.\"</string>
@@ -840,14 +840,14 @@ Appuyez sur OK pour continuer."</string>
   <string name="requesting_sp_unlock">Demande de déverrouillage du prestataire de services de la SIM...</string>
   <string name="requesting_unlock">Demande de déblocage du réseau...</string>
   <string name="reset_my_choice_hint">"Vous pouvez changer le compte à utiliser par défaut pour les appels Internet depuis l\'écran Téléphone &gt; Paramètres &gt; Paramètres d\'appel Internet &gt; Comptes."</string>
-  <string name="respond_via_sms_canned_response_1">Peux pas parler. Quoi de neuf ?</string>
+  <string name="respond_via_sms_canned_response_1">Je ne peux pas parler. Quoi de neuf ?</string>
   <string name="respond_via_sms_canned_response_1_miui">"Désolé je ne peux pas répondre au téléphone en ce moment. Je vous rappellerai plus tard."</string>
   <string name="respond_via_sms_canned_response_2">Je te rappelle tout de suite.</string>
   <string name="respond_via_sms_canned_response_2_miui">"Je suis désolé je ne peux pas répondre au téléphone en ce moment. Que puis-je faire pour vous ?"</string>
   <string name="respond_via_sms_canned_response_3">"Je t\'appellerai plus tard."</string>
-  <string name="respond_via_sms_canned_response_3_miui">"Désolé mais je suis trop occupé, rappelez moi plus tard."</string>
-  <string name="respond_via_sms_canned_response_4">Peux pas parler. On se rappelle ?</string>
-  <string name="respond_via_sms_canned_response_4_miui">"Je ne peux pas parler au téléphone, qu\'est-ce qu\'il y a ?"</string>
+  <string name="respond_via_sms_canned_response_3_miui">"Désolé mais je suis trop occupé, rappelez-moi plus tard."</string>
+  <string name="respond_via_sms_canned_response_4">Je ne peux pas parler. On se rappelle ?</string>
+  <string name="respond_via_sms_canned_response_4_miui">"Je ne peux pas parler au téléphone, qu\'y a-t-il ?"</string>
   <string name="respond_via_sms_confirmation_format">Message envoyé à %s.</string>
   <string name="respond_via_sms_custom_message">Message personnalisé</string>
   <string name="respond_via_sms_edittext_dialog_title">Réponse rapide</string>
@@ -895,7 +895,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="set_sub_1">Abonnement 1 :</string>
   <string name="set_sub_2">Abonnement 2 :</string>
   <string name="set_sub_activate_failed">Activation échouée</string>
-  <string name="set_sub_activate_not_supported">L\'activation n\'est pas pris en charge</string>
+  <string name="set_sub_activate_not_supported">L\'activation n\'est pas prise en charge</string>
   <string name="set_sub_activate_success">L\'activation a réussi</string>
   <string name="set_sub_deactivate_failed">La désactivation a échoué</string>
   <string name="set_sub_deactivate_not_supported">La désactivation n\'est pas prise en charge</string>
@@ -1098,7 +1098,7 @@ Veuillez contacter votre opérateur si le problème persiste."</string>
   <string name="xdivert_partial_set">XDivert n\'a été défini que pour le 1er abonnement</string>
   <string name="xdivert_setting">Réglage du X-Divert</string>
   <string name="xdivert_status">État de X-Divert</string>
-  <string name="xdivert_sub_absent">Les deux abonnements doivent être activé pour traiter X-Divert</string>
+  <string name="xdivert_sub_absent">Les deux abonnements doivent être activés pour traiter X-Divert</string>
   <string name="xdivert_summary">Paramètres CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
 </resources>

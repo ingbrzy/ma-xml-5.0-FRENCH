@@ -109,7 +109,7 @@
   <string name="resource_title_select_ringtone">Sélectionner la sonnerie</string>
   <string name="resource_update">MàJ</string>
   <string name="restore_default_theme_alert">Vous êtes peut-être victime d\'une contrefaçon de thème, veuillez parcourir le market pour l\'acheter ou le re-télécharger.</string>
-  <string name="sdcard_status_changed_dialog_message">"L\'application va se fermer, veuillez la réouvrir pour actualiser les ressources."</string>
+  <string name="sdcard_status_changed_dialog_message">"L\'application va se fermer, veuillez la rouvrir pour actualiser les ressources."</string>
   <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
   <string name="short_ringtone_resource">Court(&lt;5s)</string>
   <string name="theme_another_import_running">L\'importation est déjà en cours, veuillez patienter et réessayer</string>
@@ -117,7 +117,7 @@
   <string name="theme_batch_update_all">Mettre à jour</string>
   <string name="theme_batch_update_dlg_content">Voulez-vous mettre à jour maintenant ?</string>
   <string name="theme_batch_update_dlg_title">Mise à jour</string>
-  <string name="theme_batch_updating_text">%1$d theme(s) en cours de mise à jour</string>
+  <string name="theme_batch_updating_text">%1$d thème(s) en cours de mise à jour</string>
   <string name="theme_changed_failed_message">Échec de l\'application du thème %1$s.</string>
   <string name="theme_changed_message">%1$s Appliqué avec succès</string>
   <string name="theme_changing_dialog_title">Application du nouveau thème, veuillez patienter...</string>

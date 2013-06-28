@@ -73,7 +73,7 @@
   <string name="group_folder">Nouveau dossier</string>
   <string name="group_live_folders">Dossiers</string>
   <string name="group_shortcuts">Raccourcis</string>
-  <string name="guide_install_app_msg">Application non installée. La rechercher sur le Market maintenant ?</string>
+  <string name="guide_install_app_msg">Application non installée. La rechercher sur le Play Store maintenant ?</string>
   <string name="guide_install_app_title">Installer Application</string>
   <string name="guide_tips_editing_mode">Maintenez le widget ci-dessous pour le faire glisser sur l\'écran</string>
   <string name="install">Installer</string>
@@ -112,7 +112,7 @@
   <string name="pref_icon_shadow_title">Ombre des icônes</string>
   <string name="pref_keep_in_memory_summary">Empêcher le lanceur de se fermer lorsque la mémoire est faible.</string>
   <string name="pref_keep_in_memory_title">Garder en mémoire</string>
-  <string name="pref_keep_layout_summary">Le changement de la dispositon des icônes peut perturber la disposition de votre bureau.</string>
+  <string name="pref_keep_layout_summary">Le changement de la disposition des icônes peut perturber la disposition de votre bureau.</string>
   <string name="pref_keep_layout_title">Garder la disposition actuelle</string>
   <string name="pref_render_in_truecolor_summary">Désactiver cette option améliore la fluidité.</string>
   <string name="pref_render_in_truecolor_title">Rendu de haute qualité</string>

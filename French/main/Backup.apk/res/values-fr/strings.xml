@@ -87,7 +87,12 @@
   <string name="findlost_contact_online">Restaurer les contacts supprimés à partir du cloud</string>
   <string name="guarded_mode_dialog_message">Impossible de sauvegarder/restaurer en mode privé</string>
   <string name="guarded_mode_dialog_title">Mode privé</string>
-  <string name="import_from_xiaomi_account_hint1">1.Installez MiTalk et connectez-vous.\n http://www.miliao.com\n\n3.	Entrez les paramètres MiTalk et choisissez \"Sauvegardez les contacts sur le compte Xiaomi\</string>
+  <string name="import_from_xiaomi_account_hint1">1. \u0009Ouvrez vos contacts
+  
+  2. \u0009Installez MiTalk et connectez-vous.
+  \u0009http://www.miliao.com	
+  
+  3. \u0009Entrez dans les paramètres MiTalk et choisissez \"Sauvegardez les contacts sur le compte Xiaomi\"</string>
   <string name="import_from_xiaomi_account_hint2">Remarque : Passez à l\'étape suivante si la sauvegarde existe déjà</string>
   <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder les contacts sur d\'autres appareils, sauf sur le Mi-One</string>
   <string name="local_app_name">Sauvegarde</string>

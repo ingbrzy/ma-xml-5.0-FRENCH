@@ -412,7 +412,7 @@
   <string name="rotate_left">"Faire pivoter à gauche"</string>
   <string name="rotate_right">"Faire pivoter à droite"</string>
   <string name="save">Sauvegarder</string>
-  <string name="scan_qrcode">Scaner le QR code</string>
+  <string name="scan_qrcode">Scanner le QR code</string>
   <string name="secure_access_web_url">Accès Internet sécurisé</string>
   <string name="see_app_details">Voir les détails de l\'app</string>
   <string name="see_qrcode_detals">Voir les détails du QR code</string>
@@ -457,7 +457,7 @@
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Le mode rafale n\'est pas supporté lorsque la capture audio est activée."</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">"Le mode rafale n\'est pas supporté lorsque le HDR est activé."</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Le mode rafale n\'est pas supporté quand l\'ISO n\'est défini sur \'auto'."</string>
-  <string name="toast_start_audio_capture">"Emmettre un son d\'obsturateur lors de la capture"</string>
+  <string name="toast_start_audio_capture">"Émettre un son d\'obturateur lors de la capture"</string>
   <string name="undo">"Annuler"</string>
   <string name="unit_mm">"mm"</string>
   <string name="video_camera_label">"Caméra"</string>

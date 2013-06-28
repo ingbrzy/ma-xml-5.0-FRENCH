@@ -305,7 +305,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Assurez-vous que le mot de passe &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; s\'affiche."</string>
   <string name="bluetooth_connect_specific_profiles_title">"Se connecter à..."</string>
   <string name="bluetooth_connected">"Connecté"</string>
-  <string name="bluetooth_connected_no_a2dp">"Connecté (sans audio contenu mutimédia)"</string>
+  <string name="bluetooth_connected_no_a2dp">"Connecté (sans audio contenu multimédia)"</string>
   <string name="bluetooth_connected_no_headset">"Connecté (sans audio pour appels tél.)"</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">"Connecté (sans audio tel./multimédia)"</string>
   <string name="bluetooth_connecting">"Connexion..."</string>
@@ -1161,7 +1161,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="move_app_to_internal">"Déplacer vers le téléphone"</string>
   <string name="move_app_to_sdcard">"Déplacer vers USB"</string>
   <string name="moving">"Déplacement en cours"</string>
-  <string name="msd_driver_download">Télecharger le pilote</string>
+  <string name="msd_driver_download">Télécharger le pilote</string>
   <string name="msd_driver_mac_download">Aller sur http://miuiandroid.com/mac/ pour télécharger à partir de votre MAC</string>
   <string name="msd_driver_windows_xp_download">Aller sur http://miuiandroid.com/windows/ pour télécharger à partir de votre PC</string>
   <string name="msd_help_summary">"Problèmes d\'accès au stockage du mobile via un ordinateur ? Veuillez sélectionner le système d\'exploitation de votre ordinateur : "</string>
@@ -1409,7 +1409,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="power_screen">"Écran"</string>
   <string name="power_usage_history">"Utilisation de la batterie"</string>
   <string name="power_usage_level_and_status">"%1$s – %2$s"</string>
-  <string name="power_usage_not_available">"Info d\'utilisation batterie indispo"</string>
+  <string name="power_usage_not_available">"Info d\'utilisation batterie indisp."</string>
   <string name="power_usage_summary">"Répartition de l\'utilisation de la batterie"</string>
   <string name="power_usage_summary_title">"Batterie"</string>
   <string name="power_wifi">"Wi-Fi"</string>
@@ -1654,7 +1654,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="search_launcher">"Lanceur"</string>
   <string name="search_led">"LED"</string>
   <string name="search_network">"Réseau"</string>
-  <string name="search_power_mode">"mode de fonctionnement; performance; performance proritaire; mode performance; mode normal; mode conventionnel; mode par défaut; mode équilibré; mode économique; mode économie d\'énergie; performance; puissance"</string>
+  <string name="search_power_mode">"mode de fonctionnement; performance; performance prioritaire; mode performance; mode normal; mode conventionnel; mode par défaut; mode équilibré; mode économique; mode économie d\'énergie; performance; puissance"</string>
   <string name="search_ring_volume">"Volume de la sonnerie"</string>
   <string name="search_ringtone">"Sonnerie"</string>
   <string name="search_screen_timeout">"Délai de mise en veille de l\'écran"</string>
@@ -1895,7 +1895,7 @@ Une solution Google pour synchroniser vos données et vous permettre d\'accéder
   <string name="trackball_settings">"Boule de commande"</string>
   <string name="trackball_wake_title">"Boule de commande éveillée"</string>
   <string name="transition_animation_scale_title">"Échelle animation transitions"</string>
-  <string name="trust_switch_dialog_msg">"Miui ne vous demandera plus de confirmation pour les opérations liées a votre sécurité et confidentialité provenant de cette application.
+  <string name="trust_switch_dialog_msg">"Miui ne vous demandera plus de confirmation pour les opérations liées à votre sécurité et confidentialité provenant de cette application.
 Faire confiance à cette application ?"</string>
   <string name="trusted_credentials">"Certificats de confiance"</string>
   <string name="trusted_credentials_disable_confirmation">"Désactiver le certificat d\'autorité du système ?"</string>

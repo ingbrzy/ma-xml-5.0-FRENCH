@@ -4,10 +4,10 @@
   <string name="find_device">Rechercher appareil</string>
   <string name="find_device_stop_noise">Cliquez sur \"OK\" pour arrêter l\'alerte sonore</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Il est recommandé de l\'activer, sans quoi il risque de consommer votre allocation de données</string>
-  <string name="pref_title_sync_contacts_title">Sync contact</string>
+  <string name="pref_title_sync_contacts_title">Synchroniser contact</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utiliser uniquement le Wi-Fi pour afficher la photo</string>
   <string name="sub_sync_item_sms_summary">Il est recommandé de l\'activer, sans quoi il risque de consommer votre allocation de données</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Utiliser uniquement le Wi-Fi pour sync les MMS/SMS</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Utiliser uniquement le Wi-Fi pour synchroniser les MMS/SMS</string>
   <string name="sync_item_sms_summary">Les SMS lu seront automatiquement synchronisés</string>
-  <string name="sync_item_sms_title">Sync SMS</string>
+  <string name="sync_item_sms_title">Synchroniser SMS</string>
 </resources>

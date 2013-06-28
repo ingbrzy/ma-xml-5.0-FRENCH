@@ -166,7 +166,7 @@
   <string name="file_picker_new_folder">"Nouveau dossier"</string>
   <string name="file_picker_sdcard_not_found">"Aucune carte SD n\'est détectée, vérifiez si l\'appareil est n\'est pas connecté en USB ou en utilisation."</string>
   <string name="filename_empty_alert_message">Le nom du fichier ne peut pas être vide</string>
-  <string name="filename_illegal_alert_message">Le nom du fichier contient des caractères illégaux, le fichier a été automatiquement supprimmé</string>
+  <string name="filename_illegal_alert_message">Le nom du fichier contient des caractères illégaux, le fichier a été automatiquement supprimé</string>
   <string name="find_on_page">"Rechercher sur la page"</string>
   <string name="folder_name">"Nom du dossier"</string>
   <string name="forward">"Suivant"</string>

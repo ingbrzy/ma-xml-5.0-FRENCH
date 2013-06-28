@@ -46,7 +46,7 @@
   <string name="context_call">"Appeler"</string>
   <string name="context_ms">"Envoyer le message"</string>
   <string name="context_new_contact">"Nouveau Contact"</string>
-  <string name="custom_mark_category">Personalisé</string>
+  <string name="custom_mark_category">Personnalisé</string>
   <string name="edit_blacklist">"Modifier la note"</string>
   <string name="edit_whitelist">"Modifier la note"</string>
   <string name="emptylist_fwlog_call">"Tous les appels bloqués seront enregistrés ici."</string>
@@ -92,7 +92,7 @@
   <string name="fw_menu_new_whitelist_title">"Ajouter à la liste blanche"</string>
   <string name="fw_menu_pick_from_contact">"Sélectionner depuis mes contacts"</string>
   <string name="fw_menu_remove">"Supprimer"</string>
-  <string name="fw_ms" formatted="false">"Date du message: %s (%d)"</string>
+  <string name="fw_ms" formatted="false">"Date du message : %s (%d)"</string>
   <string name="fw_ms_filtered">"Les messages sont filtrés"</string>
   <string name="fw_ms_imported">"Importer les messages"</string>
   <string name="fw_ms_muted">"Les messages sont mis en sourdine"</string>
@@ -133,8 +133,8 @@
   <string name="save_button">"Enregistrer"</string>
   <string name="show_firewall_notification">"Notifications du pare-feu"</string>
   <string name="show_notification">"Afficher les notifications"</string>
-  <string name="smart_antispam">Antispam intelligent</string>
-  <string name="turn_on_smart_antispam_hint">Après l\'avoir activé les numéros seront identifiés. Étiquetter les numéros aide à déterminer les appels frauduleux.</string>
+  <string name="smart_antispam">Anti-Spam intelligent</string>
+  <string name="turn_on_smart_antispam_hint">Après l\'avoir activé les numéros seront identifiés. Étiqueter les numéros aide à déterminer les appels frauduleux.</string>
   <string name="turn_on_smart_antispam_summary_off">Uniquement interroger avec la base de données locale</string>
   <string name="turn_on_smart_antispam_summary_on">Fonctionne seulement en Wi-Fi et réseau 3G</string>
   <string name="turn_on_smart_antispam_title">Identifier les numéros inconnus</string>

@@ -43,7 +43,7 @@
         <item>Tous les jours</item>
         <item>"Jours ouvrés "</item>
         <item>Du lundi au vendredi</item>
-        <item>Personalisé</item>
+        <item>Personnalisé</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minute</item>

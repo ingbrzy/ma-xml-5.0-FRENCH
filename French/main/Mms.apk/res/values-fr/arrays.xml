@@ -17,7 +17,7 @@
 		<item>Téléphone SIP</item>
 		<item>Anniversaire</item>
 		<item>Site web</item>
-		<item>Addresse</item>
+		<item>Adresse</item>
 		<item>Note</item>
 	</string-array>
 	<string-array name="entries_date_type">

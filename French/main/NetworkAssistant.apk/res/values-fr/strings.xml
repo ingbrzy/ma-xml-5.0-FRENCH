@@ -86,7 +86,7 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">Paramètres du trafic</string>
   <string name="notify_carrier_settings_title">Vous n\'avez pas configuré votre opérateur. Le configurer maintenant ?</string>
-  <string name="notify_traffic_settings_cancel_hint">Les notifications et la surveillance du trafic seront désactivés. Quitter maintenant ?</string>
+  <string name="notify_traffic_settings_cancel_hint">Les notifications et la surveillance du trafic seront désactivées. Quitter maintenant ?</string>
   <string name="notify_traffic_settings_title">Vous n\'avez pas configuré votre plan de données. Le configurer maintenant ?</string>
   <string name="overseas_menu_traffic_adjust">Ajuster manuellement</string>
   <string name="overseas_menu_traffic_settings">Limite de trafic de données</string>
@@ -113,7 +113,7 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="retry">Réessayer</string>
   <string name="save">Enregistrer</string>
   <string name="settings_page_adjust_summary_no_carrier">Opérateur non défini, l\'ajustement automatique est désactivé</string>
-  <string name="settings_page_traffic_summary">Disponible : %1$s, Averstissement : %2$s, Facturation : le %3$d du mois</string>
+  <string name="settings_page_traffic_summary">Disponible : %1$s, Avertissement : %2$s, Facturation : le %3$d du mois</string>
   <string name="settings_page_traffic_summary_no_settings">Non renseigné, facturation le %d du mois</string>
   <string name="sms_match_fail">N\'a pas réussi à identifier les SMS</string>
   <string name="sms_template_match_fail">Identification du modèle de SMS échouée</string>
@@ -128,7 +128,7 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="sync_traffic_ing">Synchronisation auprès de l\'opérateur, veuillez patienter...</string>
   <string name="sync_traffic_no_cmd_detail">"Soumettez votre Pays, ville, indicatif (+33) et opérateur sur le forum suivant: http://www.miui.com/forum-172-1.html. Merci."</string>
   <string name="sync_traffic_no_cmd_title">Aucun modèle de SMS</string>
-  <string name="sync_traffic_success">"Les données de l\'opérateur on été synchronisées, le trafic a été ajusté avec succès"</string>
+  <string name="sync_traffic_success">"Les données de l\'opérateur ont été synchronisées, le trafic a été ajusté avec succès"</string>
   <string name="text_done">OK</string>
   <string name="text_save">Enregistrer</string>
   <string name="traffic_none">Aucun</string>

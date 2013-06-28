@@ -5,16 +5,16 @@
   <string name="add_account">"Ajouter un compte"</string>
   <string name="add_sharer">Ajouter un partageur</string>
   <string name="add_to_cloud_album">"Ajouter au MiCloud"</string>
-  <string name="add_to_cloud_fail_too_many_items">L\'opération a échoué, trop d\'élements sélectionnés</string>
+  <string name="add_to_cloud_fail_too_many_items">L\'opération a échoué, trop d\'éléments sélectionnés</string>
   <string name="add_to_cloud_folder">"Ajouter au dossier MiCloud"</string>
-  <string name="adding_recipients">Ajout de déstinataires...</string>
+  <string name="adding_recipients">Ajout de destinataires...</string>
   <string name="album_name">Nom de l\'album</string>
   <string name="album_share_stat_content">Nouvelles invitations de partage d\'albums</string>
   <string name="albums">"Albums"</string>
   <string name="albumset_page_title_separator">" | "</string>
   <string name="alert">"Avis d\'information"</string>
   <string name="alert_message_initial_cloud">"Le système va automatiquement télécharger les anciennes et nouvelles photos ainsi que les captures d\'écran seulement lorsqu\'il y a une connexion Wi-Fi."</string>
-  <string name="alert_message_open_sync">"Sync est requis, souhaitez-vous ouvrir sync maintenant?"</string>
+  <string name="alert_message_open_sync">"Sync est requis, souhaitez-vous ouvrir Sync maintenant?"</string>
   <string name="aperture">"Ouverture"</string>
   <string name="app_name">Galerie</string>
   <string name="appwidget_empty_text">"Aucune photo"</string>
@@ -75,7 +75,7 @@
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_copy">Copier</string>
   <string name="context_menu_copy_notice">Sélection copiée dans le presse-papiers</string>
-  <string name="context_menu_new_contact">Nouveur contact</string>
+  <string name="context_menu_new_contact">Nouveau contact</string>
   <string name="context_menu_view_contact">Voir le contact</string>
   <string name="contrast">"Contraste"</string>
   <string name="contrast_polymorphism">"photoeditor_effect_contrast"</string>
@@ -91,7 +91,7 @@
   <string name="damaged_file">"Le fichier est endommagé"</string>
   <string name="defalt_local_mobile">"Mobile"</string>
   <string name="delete">"Supprimer"</string>
-  <string name="delete_fail_too_many_items">Échec de la suppression, trop d\'élements séléctionnés</string>
+  <string name="delete_fail_too_many_items">Échec de la suppression, trop d\'éléments sélectionnés</string>
   <string name="deleting_files">"Suppression des fichiers..."</string>
   <string name="demo_video_folder_display_name">Vidéo de démo</string>
   <string name="description">"Description"</string>
@@ -175,7 +175,7 @@
   <string name="internal_camera_folder_display_name">"Photos de la caméra"</string>
   <string name="internal_miui_capture_screen_folder_display_name">"Captures d\'écran internes"</string>
   <string name="internal_sd_card">"Carte SD interne"</string>
-  <string name="invalid_recipient_message">"Corrigez les erreurs de déstinataires ou ils ne recevront pas le message"</string>
+  <string name="invalid_recipient_message">"Corrigez les erreurs de destinataires ou ils ne recevront pas le message"</string>
   <string name="iso">"ISO"</string>
   <string name="kick_sharer">Retirer le partageur</string>
   <string name="kick_sharer_failed">Échec du retrait du partageur</string>
@@ -278,7 +278,7 @@
   <string name="select_video">"Sélectionner une vidéo"</string>
   <string name="send">"Envoyer"</string>
   <string name="send_multiple_files_hint_format">"Envoyer plusieurs fichiers (%s)"</string>
-  <string name="send_to_cloud_failed_message">Échec de l\'envoi de l\'élement à l\'album Cloud</string>
+  <string name="send_to_cloud_failed_message">Échec de l\'envoi de l\'élément à l\'album Cloud</string>
   <string name="sepia">"Sépia"</string>
   <string name="set_hidden_album">"Masquer"</string>
   <string name="set_image">"Utiliser l\'image comme"</string>

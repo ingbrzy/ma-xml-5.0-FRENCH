@@ -69,7 +69,7 @@
   <string name="receive_tip">Pour un appareillage rapide et une file d\'attente de transmission efficace.</string>
   <string name="receive_uncompleted">Processus de réception inachevé</string>
   <string name="received">Reçu</string>
-  <string name="recv_sound">Receivoir un son</string>
+  <string name="recv_sound">Recevoir un son</string>
   <string name="resend">Renvoyer</string>
   <string name="scan_2d_code">Scanner un code 2D</string>
   <string name="scan_tip">Assurez-vous que le receveur a activé la connexion et peut recevoir des fichiers</string>
