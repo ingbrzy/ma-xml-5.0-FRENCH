@@ -342,11 +342,8 @@
   <string name="pref_camera_volumekey_function_entry_volume">"Volume"</string>
   <string name="pref_camera_volumekey_function_entry_zooming">"Zoom"</string>
   <string name="pref_camera_volumekey_function_title">"Fonctions des touches volume"</string>
-  <string name="pref_camera_watermark_default">Désactivé</string>
   <string name="pref_camera_watermark_entry_off">Désactivé</string>
   <string name="pref_camera_watermark_entry_on">Activé</string>
-  <string name="pref_camera_watermark_entryvalue_off">Désactivé</string>
-  <string name="pref_camera_watermark_entryvalue_on">Activé</string>
   <string name="pref_camera_watermark_title">Filigrane de temps</string>
   <string name="pref_camera_whitebalance_default">"auto"</string>
   <string name="pref_camera_whitebalance_entry_auto">"Automatique"</string>
