@@ -31,6 +31,8 @@
   <string name="aggregation_suggestion_join_dialog_message">Associer ce contact au contact sélectionné ?</string>
   <string name="all_list_empty">Aucun contact</string>
   <string name="all_resources">Tout</string>
+  <string name="antispam_mark_my_contribution">Ma contribution à la base de données</string>
+  <string name="antispam_provider_format">Ce nombre marqué a été ajouté par %s</string>
   <string name="attach_photo_dialog_title">Photo du contact</string>
   <string name="audio_chat">Conversation audio</string>
   <string name="auto_nickname">Auto</string>
@@ -166,6 +168,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="contact_edit_title_insert">Créer %s contact</string>
   <string name="contact_edit_title_readonly">Contact inaltérable</string>
   <string name="contact_editor_prompt_multiple_accounts">Vous pouvez synchroniser votre nouveau contact avec l\'un des comptes suivants. Lequel voulez-vous utiliser ?</string>
+  <string name="contact_is_readOnly">Impossible d\'éditer les contacts en lecture seule</string>
   <string name="contact_editor_prompt_one_account">Votre nouveau contact sera synchronisé avec %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Votre nouveau contact ne sera pas sauvegardé. Ajouter un compte qui sauvegarde les contacts en ligne ?</string>
   <string name="contact_list_loading">Chargement...</string>
@@ -407,6 +410,11 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="import_to_xiaomi_account_title">Voulez-vous importer ces contacts dans votre compte Xiaomi ?</string>
   <string name="import_vcard_description">Importer des contacts depuis la carte SD</string>
   <string name="import_weibo_dialog_title">Importer des contacts Sina Weibo</string>
+  <string name="import_weibo_error_no_matched_contacts">Mise à jour des contacts terminée : aucun contact assorti</string> 
+  <string name="import_weibo_error_no_network">Mise à jour des contacts terminée : problème de réseau</string> 
+  <string name="import_weibo_error_no_xiaomi_phone">Mise à jour des contacts terminée : aucun numéro de téléphone dans le compte Xiaomi</string> 
+  <string name="import_weibo_error_unknown">Mise à jour des contacts terminée : erreur inconnue</string> 
+  <string name="import_weibo_error_user_cancel">Mise à jour des contacts terminée : l\'utilisateur a quitté</string>
   <string name="import_weibo_fetch_followers">Récupération de followers Sina Weibo...</string>
   <string name="import_weibo_notification_title">Importation de contacts Sina Weibo...</string>
   <string name="import_weibo_notification_title_done">Importation terminée</string>
@@ -462,6 +470,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="menu_bar_group_delete">Supprimer</string>
   <string name="menu_bar_group_rename">Renommer</string>
   <string name="menu_bar_group_ringtone">Sonnerie du groupe</string>
+  <string name="menu_bar_group_ringtone_largeui">Sonnerie</string>
   <string name="menu_bar_group_sms">SMS groupé</string>
   <string name="menu_call">Appeler le contact</string>
   <string name="menu_callNumber">Appel de %s</string>
@@ -703,6 +712,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="private_num">Numéro privé</string>
   <string name="processing">Traitement...</string>
   <string name="profile_display_name">Configurer mon profil</string>
+  <string name="profile_name">Mon profil</string>
   <string formatted="false" name="progress_notifier_message">Importation de %1$s/%2$s : %3$s...</string>
   <string name="quickcontact_missing_app">Application introuvable</string>
   <string name="quit_dialog_confirm_title">Êtes-vous sûr de vouloir quitter la fusion des contacts ?</string>
@@ -820,6 +830,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="sim_export_loading">Informations de la carte SIM en cours de lecture. Cette opération peut prendre quelques minutes, veuillez patienter...</string>
   <string name="sim_indexed_contact_not_exist">La position %1$d sur la carte SIM n\'est pas valide, elle se trouve peut-être entre %2$d et %3$d</string>
   <string name="sim_no_contact">Aucun contact sur la carte SIM</string>
+  <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Aucun membre dans le groupe</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
   <string name="smart_group_company_label">Par société</string>

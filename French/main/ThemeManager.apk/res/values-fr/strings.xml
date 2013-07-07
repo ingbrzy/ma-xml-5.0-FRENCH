@@ -143,8 +143,10 @@
   <string name="theme_component_title_ringtone">Sonnerie</string>
   <string name="theme_component_title_statusbar">Barre d\'état</string>
   <string name="theme_component_title_wallpaper">Fond d\'écran</string>
+  <string name="theme_current_using_has_update">Le thème actuel a été mis à jour, cliquez ici pour l\'appliquer</string>
   <string name="theme_description_title_customized">Personnalisé</string>
   <string name="theme_description_title_default">Par défaut</string>
+  <string name="theme_immediately_apply_tip">Le thème a été mis à jour, l\'appliquer immédiatement ?</string>
   <string name="theme_import_activity_label">Mettre à jour les thèmes</string>
   <string name="theme_import_data">Importation des données du thème</string>
   <string name="theme_import_fail">Impossible d\'importer %1$s</string>
@@ -167,6 +169,7 @@
   <string name="theme_import_stoping">Arrêt en cours...</string>
   <string name="theme_importing">Importation du thème en cours...</string>
   <string name="theme_is_imported">Thème importé</string>
+  <string name="theme_name">%1$s</string>
   <string name="theme_sdcard_importing">Importation en cours</string>
   <string name="theme_select_others">Autres</string>
   <string name="theme_upgrade_request_cancel">Annuler</string>

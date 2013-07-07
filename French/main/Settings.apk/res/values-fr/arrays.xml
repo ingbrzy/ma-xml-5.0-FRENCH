@@ -434,4 +434,10 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Systrace (graphismes)</item>
         <item>Appeler une pile sur glGetError</item>
     </string-array>
+    <string-array name="change_security_lock_picker"> 
+        <item>Face Unlock</item> 
+        <item>Modèle</item> 
+        <item>Mot de passe numérique</item> 
+        <item>Mot de passe mixte</item> 
+    </string-array>
 </resources>

@@ -20,6 +20,7 @@
   <string name="cache_size_label">Cache</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_app_garbage_cleanup">Annuler le nettoyage des applications</string>
+  <string name="cancel_with_count_down">Annuler (%d)</string>
   <string name="category_all">Tout</string>
   <string name="category_apk">APKs</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -39,7 +40,10 @@
   <string name="clean_message">Suppression de %1$s</string>
   <string name="clean_title">Supprimer les fichiers de plus de 30 jours dans la corbeille</string>
   <string name="clean_trash_box">Vider la corbeille</string>
+  <string name="cleaned">Nettoyage terminé</string>
+  <string name="cleaning">Nettoyage...</string>
   <string name="cleanup_complete">Nettoyage réussi</string>
+  <string name="cleanup_stopped">Nettoyage interrompu</string>
   <string name="close">Fermer</string>
   <string name="compress_fail">La compression a échoué, la destination existe déjà</string>
   <string name="compress_message">Compresser vers:</string>
@@ -47,6 +51,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
   <string name="copy_failed">Échec de la copie</string>
+  <string name="count_down_time">Commencer après %d secondes</string>
   <string name="create_kuaipan_shortcut_pref">Créer un raccourci sur le bureau</string>
   <string name="create_new_folder_desctiption">Création d\'un nouveau dossier...</string>
   <string name="create_new_folder_failed">Impossible de créer le dossier %1$s</string>
@@ -91,6 +96,7 @@
   <string name="favorite_photo">Photo</string>
   <string name="favorite_ringtone">Sonnerie</string>
   <string name="favorite_screen_cap">Captures d\'écran</string>
+  <string name="file_cleanup">Nettoyage de fichier</string>
   <string name="file_info_canread">Lisible : </string>
   <string name="file_info_canwrite">Accessible en écriture : </string>
   <string name="file_info_ishidden">Caché :</string>
@@ -211,6 +217,7 @@ Superflu"</string>
   <string name="rename_description">Changement de nom, veuillez patienter...</string>
   <string name="rename_failed">Le changement de nom de %1$s a échoué</string>
   <string name="restart_cleaning">Redémarrer</string>
+  <string name="scanned">Scan achevé</string>
   <string name="scanning" formatted="false">Scan de %d apps ... (sur %d apps)</string>
   <string name="scanning_on_going">Scan en cours...</string>
   <string name="sd_card_available">Disponible : %1$s</string>
