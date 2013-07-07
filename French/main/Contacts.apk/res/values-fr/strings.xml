@@ -769,7 +769,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_online">En ligne %1$s</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
-  <string name="resource_price_unit">Mi Credits</string>
+  <string name="resource_price_unit">MiCredits</string>
   <string name="resource_ringtone_default">Sonneries</string>
   <string name="resource_see_more">Voir plus</string>
   <string name="resource_select">Sélectionner</string>
