@@ -8,8 +8,8 @@
   <string name="account_hint_text">Mail/Numéro de téléphone</string>
   <string name="account_name">Compte : %1$s</string>
   <string name="activate_phone_failed_notif_title">Échec de l\'activation du service MiCloud</string> 
-  <string name="activate_phone_send_sms_fail">Échec de l'envoi du SMS d\'activation, impossible d\'ouvrir le service de synchronisation</string> 
-  <string name="activate_phone_send_sms_failed_notif">Échec de l'envoi du SMS d\'activation</string> 
+  <string name="activate_phone_send_sms_fail">Échec de l\'envoi du SMS d\'activation, impossible d\'ouvrir le service de synchronisation</string> 
+  <string name="activate_phone_send_sms_failed_notif">Échec de l\'envoi du SMS d\'activation</string> 
   <string name="activate_phone_server_error">Erreur de serveur,impossible d\'ouvrir le service de synchronisation</string> 
   <string name="activate_phone_server_error_notif">Erreur de serveur</string>
   <string name="activating">Activation...</string>
@@ -128,7 +128,7 @@ et ne peuvent être utilisés si expirés"</string>
   <string name="micloud_account_name">Compte Xiaomi</string>
   <string name="micloud_account_not_actived">Compte non activé</string>
   <string name="micloud_activate_account_fail_notify_title">Échec de l\'activation de votre compte Xiaomi</string> 
-  <string name="micloud_activate_account_success_notify_title">Activation de votre compte Xiami réussie</string> 
+  <string name="micloud_activate_account_success_notify_title">Activation de votre compte Xiaomi réussie</string> 
   <string name="micloud_activate_back_btn">Annuler</string> 
   <string name="micloud_activate_retry_btn">Retenter l\'activation</string> 
   <string name="micloud_activating_account_notify_info">Vous activez votre compte Xiaomi</string> 
@@ -165,7 +165,7 @@ Vous pouvez faire autre chose..."</string>
   <string name="micloud_proceed">Continuer</string>
   <string name="micloud_reg_new">S\'inscrire</string>
   <string name="micloud_resend_active_email">Renvoyer le mail d\'activation</string>
-  <string name="micloud_summary">Se connecter au compte Xiami pour synchroniser les Contacts, la Galerie et d\'autres fonctions.</string>
+  <string name="micloud_summary">Se connecter au compte Xiaomi pour synchroniser les Contacts, la Galerie et d\'autres fonctions.</string>
   <string name="micloud_use_existing">Se connecter</string>
   <string name="micloud_via_int_sms_alert">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
   <string name="micloud_via_sms_alert">Un SMS va être envoyé pour valider notre numéro de téléphone. Êtes-vous sûr de vouloir continuer ?</string>
