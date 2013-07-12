@@ -123,6 +123,7 @@
   <string name="system_backup_helper">Celle-ci n\'effacera pas les données utilisateur, il est toutefois recommandé de faire une sauvegarde de vos données utilisateur avant de l\'effectuer.</string>
   <string name="system_backup_ok_text">Sauvegarder</string>
   <string name="top_secret_build">Version secrète</string>
+  <string name="unstable_build">Version instable</string>
   <string name="update_comment_hint">(facultatif)</string>
   <string name="update_comment_title">Vos commentaires</string>
   <string name="update_feedback">Mettre à jour les avis</string>

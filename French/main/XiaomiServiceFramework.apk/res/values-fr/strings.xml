@@ -218,7 +218,7 @@ Vous pouvez faire autre chose..."</string>
   <string name="progress_error_recharge_title">La recharge a échoué</string>
   <string name="progress_loading">Traitement en cours, veuillez patienter...</string>
   <string name="progress_paytool_creating">Génération de la commande de %1$s...</string>
-  <string name="progress_paytool_installing">Installation du plug-in de sécurité mobile %1$s...</string>
+  <string name="progress_paytool_installing">Installation du plugin de sécurité mobile %1$s...</string>
   <string name="progress_prepaid_creating">Génération de la commande de la recharge...</string>
   <string name="progress_querying">Traitement de la demande de paiement...</string>
   <string name="progress_submit_hint">Recharge effective dans 3 minutes environ</string>

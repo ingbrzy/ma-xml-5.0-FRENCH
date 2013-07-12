@@ -335,6 +335,9 @@
   <string name="pref_video_continuous_focus">"Focus continu"</string>
   <string name="pref_video_continuous_focus_entry_off">"Désactivé"</string>
   <string name="pref_video_continuous_focus_entry_on">"Activé"</string>
+  <string name="pref_video_focusmode_entry_auto">Toucher</string> 
+  <string name="pref_video_focusmode_entry_continuous">CAF</string> 
+  <string name="pref_video_focusmode_title">Mode focus</string>
   <string name="pref_video_quality_entry_1080p">"HD"</string>
   <string name="pref_video_quality_entry_480p">"SD"</string>
   <string name="pref_video_quality_entry_720p">"HD"</string>

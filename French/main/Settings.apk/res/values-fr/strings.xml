@@ -497,6 +497,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="cdma_security_settings_summary">"Définir les paramètres de la fonction Ma position, de déverrouillage de l\'écran et de verrouillage du stockage des identifiants"</string>
   <string name="cell_broadcast_settings">"Diffusions cellulaires"</string>
   <string name="cell_broadcast_settings_summary">"Sélectionnez les types d\'alertes d\'urgence à afficher."</string>
+  <string name="change_password">Changer le mot de passe</string> 
+  <string name="change_security_lock">Essayer d\'autres façons de déverrouiller</string>
   <string name="checkbox_notification_same_as_incoming_call">"Utiliser le volume des appels entrants pour les notifications"</string>
   <string name="choose_timezone">"Sélectionner le fuseau horaire"</string>
   <string name="clear_activities">"Effacer les actions par défaut"</string>
@@ -1014,6 +1016,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lock_intro_message">"Protégez votre appareil contre les utilisations non autorisées en créant un modèle de déverrouillage d\'écran personnel. Utilisez votre doigt pour relier les points sur l\'écran suivant. Vous devez relier au moins quatre points. Prêt à commencer ? Appuyez sur Suivant."</string>
   <string name="lock_screen_unlock_show">"Afficher directement l\'écran du MDP"</string>
   <string name="lock_screen_unlock_show_summary">"Ne pas utiliser d\'autre écran de verrouillage, aller dans l\'interface de déverrouillage de l\'écran"</string>
+  <string name="lock_settings_common_title">Paramètres de verrouillage</string>
   <string name="lock_settings_picker_settings">"Définir l\'écran de verrouillage"</string>
   <string name="lock_settings_picker_title">"Sélect. verr. écran"</string>
   <string name="lock_settings_title">"Sécurité de l\'écran"</string>
@@ -1141,6 +1144,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="memory_media_usage">"Support"</string>
   <string name="memory_music_usage">"Audio (musique, sonneries, etc.)"</string>
   <string name="memory_size">"Espace total"</string>
+  <string name="memory_title">Disponible %1$s\u0009\u0009Total %2$s</string>
   <string name="menu_cancel">"Annuler"</string>
   <string name="menu_delete">"Supprimer l\'APN"</string>
   <string name="menu_key">"Touche Menu"</string>
@@ -1941,6 +1945,7 @@ Faire confiance à cette application ?"</string>
   <string name="tts_settings_changed_demo">"Vos paramètres ont été modifiés. Voici un échantillon illustrant les nouveaux paramètres."</string>
   <string name="tts_settings_title">"Sortie de la synthèse vocale"</string>
   <string name="turn_off_radio">"Éteindre la radio"</string>
+  <string name="turn_off_security_lock">Désactiver le verrouillage</string>
   <string name="turn_on_radio">"Allumer la radio"</string>
   <string name="under_keyguard">Sur l\'écran de verrouillage</string>
   <string name="uninstall_all_users_text">Désinstaller pour tous les utilisateurs</string>
@@ -2453,6 +2458,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wps_connect_summary">"Assurez-vous que votre routeur prend en charge le WPS"</string>
   <string name="wps_connect_title">"Se connecter en utilisant le WPS"</string>
   <string name="xiaomi_account">"Compte Xiaomi"</string>
+  <string name="xiaomi_cloud_service">MiCloud</string> 
+  <string name="xiaomi_money_service">Centre MiCredit</string>
   <string name="yes">"Oui"</string>
   <string name="zone_auto">"Fuseau horaire automatique"</string>
   <string name="zone_auto_summaryOff">"Utiliser le fuseau horaire fourni par le réseau"</string>
