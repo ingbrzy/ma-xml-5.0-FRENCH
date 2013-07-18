@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+ <resources> 
+  <string name="mi_wallpaper_loading">Chargement de MiWallpaper...</string> 
+  <string name="mi_wallpaper_title">MiWallpaper</string> 
+ </resources>
