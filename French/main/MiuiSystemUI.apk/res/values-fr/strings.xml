@@ -107,6 +107,9 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Position définie par GPS</string>
   <string name="gps_notification_searching_text">Recherche de GPS...</string>
+  <string name="headset_custom">Personnaliser</string> 
+  <string name="headset_info">Personnaliser les fonctions des boutons</string> 
+  <string name="headset_settings">Casque connecté</string>
   <string name="invalid_charger">\"Chargement USB non disponible.
 Vous devez utiliser le chargeur fourni.\"</string>
   <string name="key_position_custom">Personnaliser la position de touche</string>

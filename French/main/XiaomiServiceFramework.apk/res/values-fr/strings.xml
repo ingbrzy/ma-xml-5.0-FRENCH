@@ -101,6 +101,7 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="error_has_bought_title">Répéter l\'achat</string>
   <string name="error_illegal_order_summary">Une erreur est survenue pendant le traitement de votre commande, veuillez réessayer plus tard</string>
   <string name="error_illegal_order_title">Erreur dans la commande !</string>
+  <string name="error_invalid_dev_id">Identité de l\'appareil invalide</string>
   <string name="error_mili_title">MiCredits insuffisants</string>
   <string name="error_network">Erreur réseau</string>
   <string name="error_network_summary">Une erreur réseau s\'est produite, veuillez vérifier que le réseau est actif puis réessayer</string>
