@@ -18,6 +18,9 @@
   <string name="dialog_send">Envoyer</string>
   <string name="dialog_title_storage_full">Mémoire pleine</string>
   <string name="dialog_warning">Attention</string>
+  <string name="duration_format_hour">%sh</string> 
+  <string name="duration_format_minute">%sm</string> 
+  <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Erreur interne de l\'application</string>
   <string name="error_app_internal_title">Erreur du Dictaphone</string>
   <string name="error_filename_too_long">Nom de fichier trop long</string>
@@ -33,6 +36,7 @@
   <string name="max_length_reached">Durée maximale atteinte</string>
   <string name="menu_settings">Paramètres</string>
   <string name="menu_view_record_list">Liste des enregistrements</string>
+  <string name="message_file_size_error">L\'enregistrement a atteint la taille d'\enregistrement maximum supportée par %s</string>
   <string formatted="false" name="minute">%d minute</string>
   <string name="no_file">Aucun enregistrement</string>
   <string name="notification_playback">Lecture de l\'enregistrement...</string>
@@ -67,6 +71,7 @@
   <string name="status_bar_recording">Enregistrement...</string>
   <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause. "</string>
   <string name="storage_is_full">Il n\'y a plus d\'espace libre</string>
-  <string formatted="false" name="timer_format">%02d:%02d</string>
+  <string name="timer_format" formatted="false">%02d:%02d</string>
+  <string name="toast_max_record_time">App : %1$s temps d\'enregistrement maximum %2$s</string>
   <string name="unknown_caller">Appelant inconnu</string>
 </resources>

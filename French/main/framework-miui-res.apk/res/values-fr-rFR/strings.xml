@@ -254,9 +254,11 @@
   <string name="days">jours</string>
   <string name="delete">"Supprimer"</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
+  <string name="device_hongmi">Téléphone Hongmi</string>
   <string name="device_xiaomi">Téléphone Xiaomi</string>
   <string name="double_seventh_day">"Tanabata (doubles septième)"</string>
   <string name="emergency_call_string">"Appel d\'urgence"</string>
+  <string name="err_resource_leak">Malheureusement %1$s s\'est arrêté suite à une fuite de ressources.</string>
   <string name="error_forbidden">"Votre compte a quelques problèmes. Synchronisation désactivée."</string>
   <string name="error_not_acceptable">"Une erreur de serveur s\'est produite. Synchronisation désactivée."</string>
   <string name="error_title">"Erreur de synchronisation pour %s"</string>

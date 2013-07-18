@@ -21,6 +21,8 @@
   <string name="call_record_folder_name">Notes vocales</string>
   <string name="close">Fermer</string>
   <string name="default_folder_name">Notes</string>
+  <string name="dlg_desc_confirm_alarm_silent">L\'alarme et les notes ne sonneront pas en mode silencieux quand désactivé.</string> 
+  <string name="dlg_title_confirm_alarm_silent">Voulez-vous réduire au silence les alarmes en mode silencieux ?</string>
   <string name="enable_sync">Synchroniser</string>
   <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Xiaomi %1$s, les synchroniser maintenant ?</string>
   <string name="error_note_empty_for_clock">Désolé, le rappel ne peut pas être défini sur une note vide</string>
@@ -69,8 +71,11 @@
   <string name="notify_alarm_action_mute">Mettre en silence</string>
   <string name="notify_alarm_action_view">Voir</string>
   <string name="notify_alarm_title">Rappel d\'alarme</string>
+  <string name="pref_desc_alarm_when_silent">Les alarmes ne sonneront pas en mode silencieux</string>
   <string name="pref_desc_mode_grid">Grille</string>
   <string name="pref_desc_mode_list">Liste</string>
+  <string name="pref_title_alarm_when_silent">Alarme en mode silencieux</string> 
+  <string name="pref_title_common">Paramètres communs</string>
   <string name="pref_title_data_export">Exportation de données</string>
   <string name="pref_title_data_export_to_sdcard">Exporter les notes sur la carte SD</string>
   <string name="pref_title_note_style">Style de note</string>

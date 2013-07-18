@@ -8,6 +8,7 @@
   <string name="account_type_format">Contact %1$s</string>
   <string name="actionIncomingCall">Appels entrants</string>
   <string name="action_menu_overflow_description">"Plus d\'options"</string>
+  <string name="activity_not_found_uri">Pas d\'application supportée trouvée !</string>
   <string name="activity_title_confirm_add_detail">Ajouter au contact</string>
   <string name="activity_title_contacts_filter">Contacts à afficher</string>
   <string name="activity_title_settings">Paramètres</string>
@@ -150,6 +151,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="config_import_vcard_type">default</string>
   <string name="confirm_delete_contact_all_call_logs">"Êtes-vous sûr de vouloir supprimer %s du journal d\'appel ?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Êtes-vous sûr de vouloir supprimer le contact du journal d\'appel ?"</string>
+  <string name="confirm_delete_sim_entry_miui">Confirmer la suppression des %d contacts sélectionnés de la carte SIM ?</string>
   <string name="confirm_export_message">Exporter les contacts vers le fichier %s ?</string>
   <string name="confirm_export_title">Confirmer l\'exportation</string>
   <string name="connections">Connexions</string>
@@ -205,7 +207,11 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="delete_duplicate_message">"Fusion..."</string>
   <string name="delete_group_dialog_message">Êtes-vous sûr de vouloir supprimer le groupe \"%1$s\" ? (Les contacts ne seront pas effacés)</string>
   <string name="delete_group_dialog_title">Supprimer le groupe</string>
+  <string name="delete_selected_sim_entry_miui">Supprimer les contacts sélectionnés ?</string> 
+  <string name="delete_sim_entries_finish">Suppression des contacts SIM réussie</string> 
+  <string name="delete_sim_entry_miui">Supprimer les contacts SIM</string>
   <string name="delete_unknown_contact_calllog_title">"Supprimer les contacts inconnus du journal d\'appel ?"</string>
+  <string name="deleting_sim_entry_miui">Suppression des contacts de la carte SIM</string>
   <string name="description_add_contact">Ajouter aux contacts</string>
   <string name="description_author">Auteur :</string>
   <string name="description_call">Appeler %1$s</string>
@@ -403,6 +409,9 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="import_name">nom</string>
   <string name="import_one_vcard_string">Importer le fichier de carte de visite</string>
   <string name="import_percent">0%</string>
+  <string name="import_selected_sim_entries_miui">Importer les contacts sélectionnés</string> 
+  <string name="import_sim_entries_finish">Import des contacts SIM terminé avec succès</string> 
+  <string name="import_sim_entry_miui">Importer de la carte SIM</string>
   <string name="import_to_xiaomi_account_confirm">Importer</string>
   <string name="import_to_xiaomi_account_progress_finish">Importation terminée</string>
   <string name="import_to_xiaomi_account_progress_message">Importation en cours...</string>
@@ -420,6 +429,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="import_weibo_notification_title_done">Importation terminée</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
+  <string name="importing_sim_contacts_miui">Import des contacts SIM...</string>
   <string name="importing_vcard_canceled_title">Importation de %s annulée</string>
   <string name="importing_vcard_description">Importation de %s...</string>
   <string name="importing_vcard_finished_title">Carte de visite %s importée</string>
@@ -713,12 +723,14 @@ Pour ajouter un contact à la liste de favoris :
   <string name="processing">Traitement...</string>
   <string name="profile_display_name">Configurer mon profil</string>
   <string name="profile_name">Mon profil</string>
+  <string name="profile_name_photo">Moi</string>
   <string formatted="false" name="progress_notifier_message">Importation de %1$s/%2$s : %3$s...</string>
   <string name="quickcontact_missing_app">Application introuvable</string>
   <string name="quit_dialog_confirm_title">Êtes-vous sûr de vouloir quitter la fusion des contacts ?</string>
   <string name="readOnlyContactDeleteConfirmation">Ce contact contient les informations de plusieurs comptes. Les informations de comptes en lecture seule seront masquées dans les listes des contacts et non supprimées</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contient des informations provenant de plusieurs comptes. Les informations de comptes de lecture seule seront masquées dans votre liste de contacts mais ne seront pas supprimées.</string>
   <string name="readOnlyContactWarning">"Il est impossible de supprimer des contacts sur les comptes en lecture seule. Vous pouvez cependant les masquer dans vos contacts"</string>
+  <string name="readingSimContacts">Lecture des informations de la carte SIM, veuillez patienter...</string>
   <string name="reading_vcard_canceled_title">Lecture des données vCard annulée</string>
   <string name="reading_vcard_failed_title">"Échec lecture données carte de visite"</string>
   <string name="rebuild_t9_index_dialog_message">Reconstruction des données de l\'index T9...</string>
@@ -821,10 +833,14 @@ Pour ajouter un contact à la liste de favoris :
   <string name="shortcutDialContact">Numérotation directe</string>
   <string name="shortcutMessageContact">Message direct</string>
   <string name="showAllContactsJoinItem">Afficher tous les contacts</string>
+  <string name="simContacts_airplaneMode">Pour importer des contacts de la carte SIM veuillez désactiver le mode Avion.</string> 
+  <string name="simContacts_empty">Aucun contact trouvé sur la carte SIM.</string>
   <string name="simContacts_emptyLoading">Lecture depuis la carte SIM...</string>
   <string name="simContacts_title">Sélectionner les contacts à importer</string>
   <string name="sim_card_no_free_space_message">La carte SIM est pleine, impossible d\'importer de nouveaux contacts. Veuillez libérer de l\'espace et essayer à nouveau</string>
   <string name="sim_card_no_free_space_title">Carte SIM saturée</string>
+  <string name="sim_contact_dropdown_menu_deselect_all_miui">Tout désélectionner</string> 
+  <string name="sim_contact_dropdown_menu_select_all_miui">Tout sélectionner</string>
   <string name="sim_contact_search_error">Une erreur s\'est produite lors de la recherche de contacts sur la carte SIM</string>
   <string name="sim_contacts">Contacts de la carte SIM</string>
   <string name="sim_export_loading">Informations de la carte SIM en cours de lecture. Cette opération peut prendre quelques minutes, veuillez patienter...</string>
@@ -886,6 +902,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="title_other_devices">Autres périphériques disponibles</string>
   <string name="title_paired_devices">Périphériques appareillé</string>
   <string name="toast_call_detail_error">"Impossible de consulter les détails de l\'appel demandé."</string>
+  <string name="toast_copy_done">Copie terminée avec succès</string> 
+  <string name="toast_copying">Copie, veuillez patienter...</string>
   <string name="toast_displaying_all_contacts">Affichage de tous les contacts</string>
   <string name="toast_finish_delete_call_log">Le journal des appels a été effacé</string>
   <string name="toast_for_failed_saving_nickname">Impossible d\'enregistrer le surnom !</string>
