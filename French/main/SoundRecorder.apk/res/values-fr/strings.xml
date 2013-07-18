@@ -36,7 +36,7 @@
   <string name="max_length_reached">Durée maximale atteinte</string>
   <string name="menu_settings">Paramètres</string>
   <string name="menu_view_record_list">Liste des enregistrements</string>
-  <string name="message_file_size_error">L\'enregistrement a atteint la taille d'\enregistrement maximum supportée par %s</string>
+  <string name="message_file_size_error">L\'enregistrement a atteint la taille d\'enregistrement maximum supportée par %s</string>
   <string formatted="false" name="minute">%d minute</string>
   <string name="no_file">Aucun enregistrement</string>
   <string name="notification_playback">Lecture de l\'enregistrement...</string>
