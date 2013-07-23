@@ -1611,7 +1611,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="screen_button_key">"Écran de touches virtuelles"</string>
   <string name="screen_color_temperature_adjust">"Température des couleurs"</string>
   <string name="screen_compatibility_label">"Compatibilité de l\'écran"</string>
-  <string name="screen_key_long_press">Touches d\'appui long de l\'écran</string>
+  <string name="screen_key_long_press">Appui long des touches d\'écran</string>
   <string name="screen_key_long_press_action">Action de l\'appui long</string>
   <string name="screen_key_long_press_timeout">Délai de l\'appui long</string>
   <string name="screen_compatibility_text">"Cette application n\'est peut-être pas adaptée à votre écran. Vous pouvez modifier les paramètres d\'ajustement ici."</string>
