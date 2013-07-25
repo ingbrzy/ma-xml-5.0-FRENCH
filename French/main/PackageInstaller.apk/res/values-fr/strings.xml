@@ -17,6 +17,8 @@ Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?"</
 
 Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="dlg_app_replacement_title">Remplacer l\'application ?</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) remplacera la version installée (%3$s). Toutes les données utilisateur existantes seront sauvegardées. 
+Voulez-vous continuer ?"</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Il s\'agit d\'une application système.
 

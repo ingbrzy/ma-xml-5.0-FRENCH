@@ -26,6 +26,8 @@
     <string name="menu_delete_one">Retirer l\'élément du journal d\'appel</string>
     <string name="toast_finish_delete_call_log">Le journal d\'appel a été effacé</string>
     <string name="confirm_delete_call_log_title">Supprimer le journal d\'appel ?</string>
+	<string name="contact_detail_calllog_call_note_tips">Notes d\'appel</string> 
+   	<string name="contact_detail_calllog_call_record_tips">Journal d\'appel</string>
     <string name="confirm_delete_all_call_log_title">Confirmer la suppression du journal d\'appel ?</string>
     <string name="menu_delete_call_log">Supprimer le journal d\'appel</string>
     <string name="menu_add_black_list">Ajouter à la liste noire</string>

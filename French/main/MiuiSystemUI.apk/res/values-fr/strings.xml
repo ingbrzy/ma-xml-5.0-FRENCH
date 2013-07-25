@@ -27,10 +27,10 @@
   <string name="accessibility_no_wifi">Wi-Fi déconnecté</string>
   <string name="accessibility_no_wimax">Aucun signal WiMAX</string>
   <string name="accessibility_notifications_button">Notifications</string>
-  <string name="accessibility_phone_one_bar">Signal : faible</string>
+  <string name="accessibility_phone_one_bar">Signal : faible</string>
   <string name="accessibility_phone_signal_full">Signal excellent</string>
-  <string name="accessibility_phone_three_bars">Signal : bon</string>
-  <string name="accessibility_phone_two_bars">Signal : moyen</string>
+  <string name="accessibility_phone_three_bars">Signal : bon</string>
+  <string name="accessibility_phone_two_bars">Signal : moyen</string>
   <string name="accessibility_recent">Applications récentes</string>
   <string name="accessibility_recents_item_dismissed">Application \"%s\" ignorée.</string>
   <string name="accessibility_remove_notification">Supprimer la notification</string>
@@ -50,10 +50,10 @@
   <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
   <string name="always_use_device">Utiliser par défaut pour ce périphérique USB</string>
   <string name="app_label">IU système</string>
-  <string name="battery_low_percent_format">%d%% restants</string>
+  <string name="battery_low_percent_format">%d%% restants</string>
   <string name="battery_low_subtitle">Le niveau de la batterie est faible.</string>
   <string name="battery_low_title">Brancher le chargeur</string>
-  <string name="battery_low_why">Utilisation de la batterie</string>
+  <string name="battery_low_why">Utilisation batterie</string>
   <string name="bluetooth_tethered">Connexion Bluetooth partagée</string>
   <string name="call_status_dialing">Numérotation</string>
   <string name="camera_key_action_app_title">Ouvrir l\'application</string>

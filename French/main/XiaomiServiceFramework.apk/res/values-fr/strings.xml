@@ -24,6 +24,7 @@
   <string name="bankcall_card">Carte bancaire</string> 
   <string name="bankcall_card_hint">Veuillez entrer votre numéro de compte bancaire</string> 
   <string name="bankcall_card_type">%1$s-%2$s</string> 
+  <string name="bankcall_card_type_tailnum">%1$s-%2$s (Carte # %3$s)</string>
   <string name="bankcall_city">Ville</string> 
   <string name="bankcall_credit_card">Carte de crédit</string> 
   <string name="bankcall_debit_card">Carte de débit</string> 

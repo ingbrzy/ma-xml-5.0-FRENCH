@@ -312,7 +312,8 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="display_ungrouped">Tous les autres contacts</string>
   <string name="display_warn_remove_ungrouped">Si vous retirez \"%s\" de la synchronisation, les contacts non groupés le seront également.</string>
   <string name="download_failed">Échec du téléchargement !</string>
-  <string name="download_preview_failed">Échec du chargement de la prévisualisation !</string>
+  <string name="download_preview_failed">Impossible de charger l\'aperçu</string>
+  <string name="duplicate_group_name">Le nom de groupe de contacts existe déjà</string>
   <string name="editContactDescription">Modifier contact</string>
   <string name="editGroupDescription">Modifier le groupe</string>
   <string name="edit_contact">Modifier contact</string>

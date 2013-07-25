@@ -25,6 +25,7 @@
   <string name="dlg_title_confirm_alarm_silent">Voulez-vous réduire au silence les alarmes en mode silencieux ?</string>
   <string name="enable_sync">Synchroniser</string>
   <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Xiaomi %1$s, les synchroniser maintenant ?</string>
+  <string name="error_contact_not_exist">Le contact n\'existe pas</string>
   <string name="error_note_empty_for_clock">Désolé, le rappel ne peut pas être défini sur une note vide</string>
   <string name="error_note_empty_for_send_to_desktop">Désolé, impossible d\'envoyer à l\'écran d\'accueil puis de vider la note</string>
   <string name="error_note_not_exist">La note n\'existe pas</string>

@@ -28,7 +28,8 @@
   <string name="confirm_location_message">"Le Mi-Two permet d\'enregistrer vos informations de localisation, souhaitez-vous activer les services de localisation ?"</string>
   <string name="confirm_restore_message">"Les réglages de la caméra seront restaurés aux valeurs par défaut."</string>
   <string name="confirm_restore_title">"Restaurer les paramètres par défaut"</string>
-  <string name="contact_address">Addresse</string>
+  <string name="connect_wifi">Se connecter à ce réseau Wi-Fi</string>
+  <string name="contact_address">Adresse</string>
   <string name="contact_birthday">Anniversaire</string>
   <string name="contact_company">Compagnie</string>
   <string name="contact_details">Détails du contact :</string>
@@ -52,6 +53,7 @@
   <string name="dialog_ok">"OK"</string>
   <string name="disable_video_snapshot_hint">"Instantané vidéo désactivé en cas d\'activation des effets spéciaux."</string>
   <string name="download_by_browser">Télécharger via le navigateur</string>
+  <string name="download_qq">Télécharger QQ</string>
   <string name="download_wechat">Télécharger WeChat</string>
   <string name="duration">"Durée"</string>
   <string name="edit">"Modifier"</string>
@@ -79,9 +81,11 @@
   <string name="find_market_qrcode">Trouver le QR code du market</string>
   <string name="find_mecard_qrcode">Trouver le QR code de la carte visiteur</string>
   <string name="find_other_qrcode">Trouver le QR code</string>
+  <string name="find_qq_qrcode">Trouver un QR code QQ</string>
   <string name="find_web_qrcode">Trouver le site Internet QR code</string>
   <string name="find_wechat_qrcode">Trouver un QR code WeChat</string>
   <string name="find_weixin_qrcode">Trouver le QR code weixin</string>
+  <string name="find_wifi_qrcode">Trouver un QR code Wi-Fi</string>
   <string name="flash">"Flash"</string>
   <string name="flash_off">"Flash désactivé"</string>
   <string name="flash_on">"Flash activé"</string>
@@ -105,6 +109,7 @@
   <string name="import_fail">"Échec de l\'importation !"</string>
   <string name="iso">"ISO"</string>
   <string name="launch_market">Lancer le PlayStore</string>
+  <string name="launch_qq">Lancer QQ</string>
   <string name="launch_wechat">Lancer WeChat</string>
   <string name="loading">"Chargement..."</string>
   <string name="loading_video">"Chargement de la vidéo..."</string>
@@ -366,9 +371,10 @@
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 secondes (900 fois)</string>
   <string name="pref_video_time_lapse_frame_interval_title">"Intervalle de temps"</string>
   <string name="preparing_sd">"Préparation du stockage..."</string>
+  <string name="qq_details">Détails QQ :</string>
   <string name="qr_code_details">"Détails QR code : "</string>
   <string name="record_back_pressed_hint">"Appuyez à nouveau pour arrêter l\'enregistrement"</string>
-  <string name="resume_playing_message">"Reprendre la lecture à partir de %s ?"</string>
+  <string name="resume_playing_message">"Reprendre la lecture à partir de %s ?"</string>
   <string name="resume_playing_restart">"Redémarrer"</string>
   <string name="resume_playing_resume">"Reprendre la lecture"</string>
   <string name="resume_playing_title">"Reprendre la vidéo"</string>
@@ -438,4 +444,13 @@
   <string name="weixin_details">"Détails Weixin : "</string>
   <string name="white_balance">"Balance des blancs"</string>
   <string name="width">"Largeur"</string>
+  <string name="wifi_connect_fail">Délai de connexion dépassé ou échec du réseau Wi-Fi</string> 
+  <string name="wifi_connect_success">Connecté avec succès au réseau Wi-Fi</string> 
+  <string name="wifi_connecting">Connexion Wi-Fi...</string> 
+  <string name="wifi_details">Détails du réseau Wi-Fi :</string> 
+  <string name="wifi_open_fail">Impossible d\'ouvrir le réseau Wi-Fi</string> 
+  <string name="wifi_pwd">Mot de passe :</string> 
+  <string name="wifi_security">Sécurité :</string> 
+  <string name="wifi_ssid">SSID :</string> 
+  <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
 </resources>
