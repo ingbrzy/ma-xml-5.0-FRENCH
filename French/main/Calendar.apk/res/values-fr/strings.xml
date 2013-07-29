@@ -113,9 +113,6 @@
   <string name="no_syncable_calendars">"Pas d\'agenda"</string>
   <string name="no_title_label">(Sans titre)</string>
   <string name="not_synced">Non synchronisé</string>
-  <string name="prefDefault_alerts_vibrateWhen">Jamais</string>
-  <string name="prefDefault_alerts_vibrate_false">Jamais</string>
-  <string name="prefDefault_alerts_vibrate_true">Toujours</string>
   <string name="prefDialogTitle_vibrateWhen">Vibreur</string>
   <string name="preferences_about_title">À propos</string>
   <string name="preferences_alerts_popup_title">Notification par pop-up</string>
