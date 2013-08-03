@@ -775,9 +775,6 @@ Veuillez réessayer dans %d secondes.</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">Vous avez saisi un code PIN incorrect %d fois. 
 
 Veuillez réessayer dans %d secondes.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à %d reprises. Au bout de %d échecs supplémentaires, vous devrez déverrouiller votre téléphone à l\'aide de votre identifiant Google.
-
-Veuillez réessayer dans %d secondes.</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
     <string name="lockscreen_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Réessayez dans %d secondes.</string>
