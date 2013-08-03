@@ -50,7 +50,7 @@
   <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
   <string name="always_use_device">Utiliser par défaut pour ce périphérique USB</string>
   <string name="app_label">IU système</string>
-  <string name="battery_low_percent_format">%d%% restants</string>
+  <string name="battery_low_percent_format">%d%% restants.</string>
   <string name="battery_low_subtitle">Le niveau de la batterie est faible.</string>
   <string name="battery_low_title">Brancher le chargeur</string>
   <string name="battery_low_why">Utilisation batterie</string>
@@ -255,6 +255,7 @@ Vous devez utiliser le chargeur fourni.\"</string>
   <string name="status_bar_toggle_torch">Torche</string>
   <string name="status_bar_toggle_vibrate">Vibreur</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
+  <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
   <string name="status_bar_use_physical_keyboard">Clavier physique</string>
   <string name="tab_notifications_lable">Notifications</string>
   <string name="tab_toggles_lable">Raccourcis</string>

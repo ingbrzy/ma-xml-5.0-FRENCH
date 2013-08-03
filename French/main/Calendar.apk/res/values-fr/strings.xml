@@ -146,7 +146,7 @@
   <string name="quick_response_email_failed">Impossible de trouver un programme de messagerie électronique.</string>
   <string name="quick_response_settings">Réponses rapides</string>
   <string name="quick_response_settings_edit_title">Réponse rapide</string>
-  <string name="quick_response_settings_summary">"Modifier réponses par défaut lors d\'envoi d\'e-mails aux invités"</string>
+  <string name="quick_response_settings_summary">"Modifier les réponses par défaut lors d\'envoi de mails aux invités"</string>
   <string name="quick_response_settings_title">Modifier réponses rapides</string>
   <string name="reminders_label">Ajouter un rappel</string>
   <string name="repeats_label">Fréquence</string>

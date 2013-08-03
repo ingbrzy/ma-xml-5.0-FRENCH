@@ -23,6 +23,7 @@
   <string name="component_lockstyle_personal_title">Paramètres</string>
   <string name="component_select_title">%1$s composants sélectionnés</string>
   <string name="component_settings_title">Personnaliser le thème</string>
+  <string name="deleting">Suppression...</string>
   <string name="description_author">Auteur :</string>
   <string name="description_designer">Concepteur :</string>
   <string name="description_download">Télécharger :</string>
@@ -78,6 +79,8 @@
   <string name="resource_default_name">Ressource</string>
   <string name="resource_delete_all">Êtes-vous sûr de vouloir supprimer les %1$d ressources sélectionnées ?</string>
   <string name="resource_delete_confirm">Êtes-vous sûr de vouloir supprimer ces ressources ?</string>
+  <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string> 
+  <string name="resource_delta_update_successful">Patch de mise à jour réussi, sauvegarde de %1$s.</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_download">Télécharger</string>
   <string name="resource_downloaded_title">Ressources téléchargées</string>
@@ -87,6 +90,7 @@
   <string name="resource_get_auth_exceed_max_limit_title">Vous avez atteint la limite autorisée !</string>
   <string name="resource_get_auth_missing">Le thème n\'a pas été téléchargé à partir de la boutique de thème, veuillez le télécharger à partir de la boutique de thème officielle.</string>
   <string name="resource_get_auth_retrieving">Récupération de l\'autorisation...</string>
+  <string name="resource_import_successful">Téléchargement réussi.</string>
   <string name="resource_importing">Importation en cours</string>
   <string name="resource_list_title">Derniers sélectionnés</string>
   <string name="resource_local">%1$s locaux</string>

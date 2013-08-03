@@ -192,11 +192,11 @@ Vous pouvez faire autre chose..."</string>
   <string name="micloud_error_illegal_pwd">Mot de passe incorrect</string>
   <string name="micloud_input_password_prompt">Saisissez le mot de passe</string>
   <string name="micloud_intro_01_part_01">Économise sur les coûts de SMS</string> 
-  <string name="micloud_intro_01_part_02">MIUI vous permet d\'envoyer des messages cloud via le réseau</string> 
+  <string name="micloud_intro_01_part_02">MIUI vous permet d\'envoyer des messages cloud via le réseau.</string> 
   <string name="micloud_intro_02_part_01">Ne nécessite rien</string> 
   <string name="micloud_intro_02_part_02">Les services cloud vous permettent de synchroniser vos contacts, messages, photos et autres données sur divers appareils mobiles.</string> 
   <string name="micloud_intro_03_part_01">Ne perd jamais vos données et vous assure que vos contenus soient protégés</string> 
-  <string name="micloud_intro_03_part_02">Gère vos données et localise, verrouille ou efface le contenu de l\'appareil sur i.xiaomi.com</string> 
+  <string name="micloud_intro_03_part_02">Gère vos données et localise, verrouille ou efface le contenu de l\'appareil sur i.xiaomi.com.</string> 
   <string name="micloud_is_what">Qu\'est-ce que MiCloud?</string> 
   <string name="micloud_more">En apprendre plus</string>
   <string name="micloud_password_confirm_hint">Confirmer mot passe</string>
@@ -338,6 +338,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="sync_on">Activé</string>
   <string name="sync_sub_dspt">Un SMS sera envoyé pour activer le service</string>
   <string name="sync_sub_int_dspt">Un SMS international pourra être envoyé pour activer le service</string>
+  <string name="title">titre</string>
   <string name="title_mili_center">Centre MiCredits</string>
   <string name="title_pay">Payer avec des MiCredits</string>
   <string name="title_pay_record">%1$s : historique de paiements</string>
@@ -353,6 +354,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="update_contacts_description">Met à jour vos contacts téléphoniques et d\'autres informations</string>
   <string name="updated_contacts">%s contacts mis à jour</string>
   <string name="user_agreement_p1">"En vous connectant, vous acceptez les"</string>
+  <string name="value">Valeur</string>
   <string name="user_agreement_p2">Conditions d\'utilisation de Xiaomi</string>
   <string name="user_agreement_p3"> et </string>
   <string name="user_agreement_p4">Règles de confidentialité</string>

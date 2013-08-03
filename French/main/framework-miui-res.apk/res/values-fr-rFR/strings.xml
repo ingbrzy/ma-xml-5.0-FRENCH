@@ -316,6 +316,9 @@
   <string name="lockscreen_access_pattern_detected">"Schéma terminé"</string>
   <string name="lockscreen_access_pattern_start">"Schéma commencé"</string>
   <string name="lockscreen_emergency_call">"Appel d\'urgence"</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Vous avez mal entré votre mot de passe %d fois. Après %d tentatives infructueuses de plus il vous sera demandé de déverrouiller votre téléphone avec vos détails de compte. 
+  
+Réessayer dans %d secondes."</string>
   <string name="lockscreen_forgot_pattern_button_text">"Schéma oublié ?"</string>
   <string name="lockscreen_pattern_instructions">"Dessinez un schéma pour déverrouiller le téléphone"</string>
   <string name="lockscreen_pattern_wrong">"Schéma incorrect, veuillez réessayer"</string>

@@ -211,6 +211,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="delete_sim_entries_finish">Suppression des contacts SIM réussie</string> 
   <string name="delete_sim_entry_miui">Supprimer les contacts SIM</string>
   <string name="delete_unknown_contact_calllog_title">"Supprimer les contacts inconnus du journal d\'appel ?"</string>
+  <string name="deleting">Suppression...</string>
   <string name="deleting_sim_entry_miui">Suppression des contacts de la carte SIM</string>
   <string name="description_add_contact">Ajouter aux contacts</string>
   <string name="description_author">Auteur :</string>
@@ -311,6 +312,8 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="display_sim_contacts">Afficher les contacts SIM</string>
   <string name="display_ungrouped">Tous les autres contacts</string>
   <string name="display_warn_remove_ungrouped">Si vous retirez \"%s\" de la synchronisation, les contacts non groupés le seront également.</string>
+  <string name="dlg_add_blacklist">Ajouter le numéro sélectionné à la liste noire ?</string> 
+  <string name="dlg_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
   <string name="download_failed">Échec du téléchargement !</string>
   <string name="download_preview_failed">Impossible de charger l\'aperçu</string>
   <string name="duplicate_group_name">Le nom de groupe de contacts existe déjà</string>
@@ -754,6 +757,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="remind_btn_ignore">Ignorer</string>
   <string name="remind_btn_sync_now">Synchroniser maintenant</string>
   <string name="removePhoto">Supprimer la photo</string>
+  <string name="remove_blacklist">Retirer le la liste noire</string>
   <string name="remove_duplicate">"MIUI vous aidera à trouver et fusionner les contacts en double, ils ne seront pas fusionnées automatiquement. Pour les fusionner vous devez le faire manuellement"</string>
   <string name="resource_alarm_default">Alarme</string>
   <string name="resource_app_name">Navigateur de ressources</string>
@@ -764,6 +768,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_default_name">Ressources</string>
   <string name="resource_delete_all">Êtes-vous sûr de vouloir supprimer les %1$d ressources sélectionnées ?</string>
   <string name="resource_delete_confirm">Êtes-vous sûr de vouloir supprimer ces ressources ?</string>
+  <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string> 
+  <string name="resource_delta_update_successful">Patch de mise à jour réussi, sauvegarde de %1$s.</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_download">Télécharger</string>
   <string name="resource_downloaded_title">Ressources téléchargées</string>
@@ -772,7 +778,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut pas fonctionner sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre appareil</string>
   <string name="resource_get_auth_exceed_max_limit_title">Limite d\'autorisations dépassée</string>
   <string name="resource_get_auth_missing">Le thème ne provient pas du market officiel, veuillez en télécharger un similaire du market officiel</string>
-  <string name="resource_get_auth_retrieving">Obtention de l\'autorisation...</string>
+  <string name="resource_get_auth_retrieving">Récupération de l\'autorisation...</string>
+  <string name="resource_import_successful">Téléchargement réussi.</string>
   <string name="resource_importing">Importation...</string>
   <string name="resource_list_title">Dernier</string>
   <string name="resource_local">%1$s local</string>

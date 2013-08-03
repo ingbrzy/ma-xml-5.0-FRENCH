@@ -384,6 +384,8 @@
   <string name="empty_alert">Le champ %s est obligatoire.</string>
   <string name="empty_networks_list">Aucun réseau trouvé.</string>
   <string name="enable">Activer</string>
+  <string name="enable_antispam_strange_summary">"&gt;Réduire au silence le premier appel d'un numéro inconnu"</string> 
+  <string name="enable_antispam_strange_title">Appel anti étranger</string>
   <string name="enable_disable_administrative">Administration</string>
   <string name="enable_disable_advertisements">Annonces</string>
   <string name="enable_disable_atr">Infos trafic locales</string>
@@ -721,6 +723,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="phone_entered_ecm_text">"Mode de rappel d\'urgence activé"</string>
   <string name="phone_in_ecm_call_notification_text">Connexion des données désactivée</string>
   <string name="phone_in_ecm_notification_title">"Mode de rappel d\'urgence"</string>
+  <string name="phone_info_divider">"  |  "</string>
   <string name="phone_numbers">Entrer les numéros de téléphone</string>
   <string name="pick_outgoing_call_phone_type">Passer un appel</string>
   <string name="pick_outgoing_sip_phone">Utiliser un compte de téléphonie par Internet :</string>

@@ -736,6 +736,9 @@
     <string name="lockscreen_instructions_when_pattern_disabled">Appuyez sur \"Menu\" pour déverrouiller le téléphone.</string>
     <string name="lockscreen_pattern_instructions">Dessinez un schéma pour déverrouiller le téléphone</string>
     <string name="lockscreen_emergency_call">Appel d\'urgence</string>
+	<string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Vous avez mal entré votre mot de passe %d fois. Après %d tentatives infructueuses de plus il vous sera demandé de déverrouiller votre téléphone avec vos détails de compte. 
+  
+Réessayer dans %d secondes."</string>
     <string name="lockscreen_return_to_call">Retour à l\'appel</string>
     <string name="lockscreen_pattern_correct">Combinaison correcte !</string>
     <string name="lockscreen_pattern_wrong">Veuillez réessayer.</string>
