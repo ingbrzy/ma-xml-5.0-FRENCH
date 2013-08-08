@@ -29,7 +29,7 @@
   <string name="sim_card_detection_status_absent">"Carte SIM non détectée !"</string>
   <string name="traffic_protection_label">"Suivi du trafic de données"</string>
   <string name="traffic_protection_summary">"Cette fonction vous permet d\'éviter tout dépassement lorsque la limite de votre forfait de données est atteinte."</string>
-  <string name="traffic_protection_text_hint">"Saisissez la limite de votre forfait de données."</string>
-  <string name="traffic_protection_unknown">"&lt;u&gt;\"Je ne sais pas. Renseigner plus tard.\"&lt;/u&gt;"</string>
+  <string name="traffic_protection_text_hint">Limite de votre forfait de données.</string>
+  <string name="traffic_protection_unknown"><u>Je ne sais pas. Renseigner plus tard.</u></string>
   <string name="use_data">"Activer les données"</string>
 </resources>

@@ -109,7 +109,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d\
   <string name="android_beam_on_summary">"Prêt à partager le contenu de l\'application via NFC"</string>
   <string name="android_beam_settings_title">"Android Beam"</string>
   <string name="animator_duration_scale_title">"Échelle durée animations"</string>
-  <string name="antispam_quiet_mode_title">Mode silencieux</string>
+  <string name="antispam_quiet_mode_title">Ne pas déranger</string>
   <string name="apn_apn">"APN"</string>
   <string name="apn_auth_type">"Type d\'authentification"</string>
   <string name="apn_auth_type_chap">"CHAP"</string>
