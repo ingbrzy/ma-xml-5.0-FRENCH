@@ -141,7 +141,7 @@
   <string name="sleep_mode">Mode veille</string>
   <string name="spaceIsLow_content">Votre carte SD manque d\'espace. Adapter le choix de qualité ou supprimer certaines images ou autres fichiers.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
-  <string name="stat_notif_tx_frequency">Emission FM à : %1$s</string>
+  <string name="stat_notif_tx_frequency">Émission FM à : %1$s</string>
   <string name="station_edit">Modifier</string>
   <string name="station_format_error">Une erreur de formatage s\'est produite</string>
   <string name="station_freq_format">%sMHz</string>
