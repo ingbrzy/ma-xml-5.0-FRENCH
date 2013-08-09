@@ -108,6 +108,11 @@
   <string name="sign_in_info">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
   <string name="sign_in_info_rank_more">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
+  <string name="sina_share_fail">Envoi échoué !</string> 
+  <string name="sina_share_pendding">Envoi...</string> 
+  <string name="sina_share_success">Envoi réussi!</string> 
+  <string name="sina_token_expired_warning">Le compte Weibo a expiré, veuillez vous reconnecter</string> 
+  <string name="sina_token_invalid_warning">Le compte Weibo est invalide, veuillez vous reconnecter</string>
   <string name="stable_build">Version stable</string>
   <string name="start_update">Mettre à jour</string>
   <string name="submit">Envoyer</string>

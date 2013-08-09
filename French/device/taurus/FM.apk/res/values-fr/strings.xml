@@ -44,6 +44,7 @@
   <string name="frequency_out_of_range">(%1$s~%2$s) fréquence radio hors limites</string>
   <string name="frequency_should_not_null">La fréquence radio ne peut pas être vide !</string>
   <string name="hint_station_name">Entrez le nom de Station</string>
+  <string name="increase_af">augmenter la fréquence</string>
   <string name="input_station">Fréquence Radio (MHz)</string>
   <string name="menu_add_list">Ajouter liste</string>
   <string name="menu_delete">Supprimer</string>
@@ -74,18 +75,22 @@
   <string name="msg_searching_title">Pré-sélection automatique</string>
   <string name="msg_seeking">Recherche des stations FM</string>
   <string name="msg_weak_searching">Recherche des fréquences à transmettre</string>
+  <string name="next_station">station suivante</string>
   <string name="no_storage">Monte la carte SD avant que l\'enregistrement ne commence</string>
+  <string name="pre_station">station précédente</string>
   <string name="preparing_sd">Préparation de la carte SD</string>
   <string name="preset_delete">Supprimer</string>
   <string name="preset_replace">Remplacer</string>
   <string name="preset_tune">Ajustement</string>
   <string name="presetlist_autoselect_title">Confirmer la sélection auto</string>
   <string name="radio_text_string">Ceci est un message radio dont le texte demande un défilement</string>
+  <string name="record_error_file_removed">Enregistrement arrêté. Le fichier enregistré a été supprimé.</string>
   <string name="record_error_unknown">Enregistrement stoppé. Erreur inconnue pendant l\'enregistrement</string>
   <string name="record_fail">Échec d\'enregistrement</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Cliquez sur pour afficher le fichier %s</string>
   <string name="record_sucess">Enregistrement réussi</string>
+  <string name="reduce_af">réduire la fréquence</string>
   <string name="regional_band">Le choix Bande Régionale effacera toutes les stations enregistrées</string>
   <string name="search_dialog_title">Recherche des Stations</string>
   <string name="sel_audio_output">Sélectionner la sortie Audio</string>
@@ -98,7 +103,7 @@
   <string name="settings_revert_defaults_title">Réinitialisation aux paramètres d\'usine</string>
   <string name="spaceIsLow_content">Votre carte SD manque d\'espace. Adapter le choix de qualité ou supprimer certaines images ou autres fichiers.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
-  <string name="stat_notif_tx_frequency">Emission FM à : %1$s</string>
+  <string name="stat_notif_tx_frequency">Émission FM à : %1$s</string>
   <string name="station_edit">Modifier</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="station_move">Déplacer</string>
@@ -116,4 +121,8 @@
   <string name="toast_save_station">%sMHz a été sauvegardé</string>
   <string name="toast_sleep_mode">Arrêter FM dans %s</string>
   <string name="transmit_msg_string">Transmission à :</string>
+  <string name="turn_off_fm">Éteindre la FM</string> 
+  <string name="turn_off_speaker_phone">Désactiver le haut parleur</string> 
+  <string name="turn_on_fm">Allumer la FM</string> 
+  <string name="turn_on_speaker_phone">Activer le haut parleur</string>
 </resources>

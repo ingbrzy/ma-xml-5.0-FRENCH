@@ -20,6 +20,7 @@
   <string name="editmode_menu_delete">Supprimer</string>
   <string name="editmode_menu_share">Partager</string>
   <string name="error_bad_file">Fichier corrompu</string>
+  <string name="error_connect_service">Impossible de se connecter au service de transfert.</string>
   <string name="error_download">Le téléchargement a échoué</string>
   <string name="error_general">Une erreur globale est survenue</string>
   <string name="error_network">Une erreur de réseau est survenue</string>
