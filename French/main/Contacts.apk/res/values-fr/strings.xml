@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account_abnormal_state">Informations de compte anormales, essayez de vous reconnectez ou essayez plus tard !</string>
-  <string name="account_container_title">Sur ce compte</string>
+  <string name="account_container_title">Sur le compte suivant</string>
   <string name="account_default">Téléphone</string>
   <string name="account_phone">Téléphone uniquement, non synchronisé</string>
   <string name="account_sim">Seulement enregistrés sur la carte SIM</string>
@@ -331,7 +331,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="emptyGroup">Ce groupe est vide.</string>
   <string name="empty_divider_title">Vous pouvez</string>
   <string name="enter_contact_name">"Entrer le nom d\'un contact"</string>
-  <string name="eventLabelsGroup">Évèn.</string>
+  <string name="eventLabelsGroup">Anniversaire</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">L\'export vers la carte SIM est terminé</string>
   <string name="export_sim_contact_finish_failure">Stockage SIM plein, terminé : %1$d inachevé : %2$d</string>

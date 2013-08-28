@@ -24,7 +24,7 @@
   <string name="close">"Fermer"</string>
   <string name="confirm_change_mode_title">"Changer de mode"</string>
   <string name="confirm_change_to_expert_mode_message">"Passer en mode professionnel ?"</string>
-  <string name="confirm_change_to_simple_mode_message">"Basculer vers le mode Simple ?"</string>
+  <string name="confirm_change_to_simple_mode_message">"Basculer vers le mode simple ?"</string>
   <string name="confirm_location_message">"Le Mi-Two permet d\'enregistrer vos informations de localisation, souhaitez-vous activer les services de localisation ?"</string>
   <string name="confirm_restore_message">"Les réglages de la caméra seront restaurés aux valeurs par défaut."</string>
   <string name="confirm_restore_title">"Restaurer les paramètres par défaut"</string>
@@ -150,7 +150,7 @@
   <string name="pref_camera_antibanding_entry_1">"50 Hz"</string>
   <string name="pref_camera_antibanding_entry_2">"60 Hz"</string>
   <string name="pref_camera_antibanding_entry_3">"Auto"</string>
-  <string name="pref_camera_antibanding_title">"Anti-bandes"</string>
+  <string name="pref_camera_antibanding_title">Filtre à bande passante</string>
   <string name="pref_camera_audio_capture_title">"Capture audio"</string>
   <string name="pref_camera_auto_focus_title_entry_off">"Désactivé"</string>
   <string name="pref_camera_auto_focus_title_entry_on">"Activé"</string>
@@ -199,7 +199,7 @@
   <string name="pref_camera_hfr_entry_3x">"90"</string>
   <string name="pref_camera_hfr_entry_4x">"120"</string>
   <string name="pref_camera_hfr_entry_off">"Désactivé"</string>
-  <string name="pref_camera_hfr_title">"Haute fréquence vidéo"</string>
+  <string name="pref_camera_hfr_title">"Cadence d'image élevée (ralenti)"</string>
   <string name="pref_camera_histogram_entry_disable">"Désactiver"</string>
   <string name="pref_camera_histogram_entry_enable">"Activer"</string>
   <string name="pref_camera_histogram_title">"Histogramme"</string>
@@ -212,13 +212,13 @@
   <string name="pref_camera_iso_entry_iso400">"ISO400"</string>
   <string name="pref_camera_iso_entry_iso800">"ISO800"</string>
   <string name="pref_camera_iso_title">"Sélectionner ISO"</string>
-  <string name="pref_camera_jpegquality_entry_fine">"Fin"</string>
+  <string name="pref_camera_jpegquality_entry_fine">"Fine"</string>
   <string name="pref_camera_jpegquality_entry_normal">"Standard"</string>
-  <string name="pref_camera_jpegquality_entry_superfine">"Très fin"</string>
+  <string name="pref_camera_jpegquality_entry_superfine">"Très fine"</string>
   <string name="pref_camera_jpegquality_title">"Qualité de l\'image"</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Focus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Prise en rafale</string>
-  <string name="pref_camera_long_pressing_burst_shooting_title">Action de l\'obturateur</string>
+  <string name="pref_camera_long_pressing_burst_shooting_title">Action du déclencheur</string>
   <string name="pref_camera_movie_solid_entry_off">"Désactivé"</string>
   <string name="pref_camera_movie_solid_entry_on">"Activé"</string>
   <string name="pref_camera_movie_solid_title">"Film solide"</string>
@@ -251,7 +251,7 @@
   <string name="pref_camera_preview_title">"Aperçu"</string>
   <string name="pref_camera_recordlocation_entry_off">"Désactivé"</string>
   <string name="pref_camera_recordlocation_entry_on">"Activé"</string>
-  <string name="pref_camera_recordlocation_title">"Enregistrer position"</string>
+  <string name="pref_camera_recordlocation_title">"Enregistrer la position"</string>
   <string name="pref_camera_redeyereduction_entry_auto">"Automatique"</string>
   <string name="pref_camera_redeyereduction_entry_disable">"Désactiver"</string>
   <string name="pref_camera_redeyereduction_entry_enable">"Activer"</string>
@@ -299,7 +299,7 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">"Désactiver"</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">"Activer"</string>
   <string name="pref_camera_skinToneEnhancement_title">"Amélioration de la teinte de peau"</string>
-  <string name="pref_camera_sound_title">"Son de la Camera"</string>
+  <string name="pref_camera_sound_title">"Son de l'appareil photo"</string>
   <string name="pref_camera_sound_title_entry_off">"Désactivé"</string>
   <string name="pref_camera_sound_title_entry_on">"Activé"</string>
   <string name="pref_camera_touchafaec_entry_off">"Désactivé"</string>
@@ -313,10 +313,10 @@
   <string name="pref_camera_volumekey_function_entry_shutter">"Obturateur"</string>
   <string name="pref_camera_volumekey_function_entry_volume">"Volume"</string>
   <string name="pref_camera_volumekey_function_entry_zooming">"Zoom"</string>
-  <string name="pref_camera_volumekey_function_title">"Fonctions des touches volume"</string>
+  <string name="pref_camera_volumekey_function_title">"Fonctions des touches de volume"</string>
   <string name="pref_camera_watermark_entry_off">Désactivé</string>
   <string name="pref_camera_watermark_entry_on">Activé</string>
-  <string name="pref_camera_watermark_title">Filigrane de temps</string>
+  <string name="pref_camera_watermark_title">Horodatage en filigrane</string>
   <string name="pref_camera_whitebalance_entry_auto">"Automatique"</string>
   <string name="pref_camera_whitebalance_entry_cloudy">"Nuageux"</string>
   <string name="pref_camera_whitebalance_entry_daylight">"Lumière du jour"</string>
@@ -407,7 +407,7 @@
   <string name="simple_mode_button_text_hdr">"Fermer le mode HDR"</string>
   <string name="simple_mode_button_text_panorama">"Fermer le mode panorama"</string>
   <string name="simple_mode_button_text_slow_video">"Fermer la caméra en ralenti"</string>
-  <string name="simple_mode_title">Mode Simple</string>
+  <string name="simple_mode_title">Mode simple</string>
   <string name="skip">"Ignorer"</string>
   <string name="slideshow">"Diaporama"</string>
   <string name="snapshot_lower_than_video">"La taille de capture vidéo est inférieure à la taille de la vidéo. Plafonnement de la taille de la vidéo. Veuillez sélectionner une résolution supérieure ou égale à la taille actuelle de la vidéo."</string>

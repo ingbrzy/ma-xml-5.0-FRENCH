@@ -1038,8 +1038,8 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lock_after_timeout">"Verrouiller automatiquement"</string>
   <string name="lock_after_timeout_summary">"Après %1$s de veille"</string>
   <string name="lock_intro_message">"Protégez votre appareil contre les utilisations non autorisées en créant un modèle de déverrouillage d\'écran personnel. Utilisez votre doigt pour relier les points sur l\'écran suivant. Vous devez relier au moins quatre points. Prêt à commencer ? Appuyez sur Suivant."</string>
-  <string name="lock_screen_unlock_show">"Afficher directement l\'écran du MDP"</string>
-  <string name="lock_screen_unlock_show_summary">"Ne pas utiliser d\'autre écran de verrouillage, aller dans l\'interface de déverrouillage de l\'écran"</string>
+  <string name="lock_screen_unlock_show">"Désactiver l'autre écran de verrouillage"</string>
+  <string name="lock_screen_unlock_show_summary">"Désactiver l'écran sans mot de passe et aller directement sur l'écran avec mot de passe"</string>
   <string name="lock_settings_common_title">Paramètres de verrouillage</string>
   <string name="lock_settings_picker_settings">"Définir l\'écran de verrouillage"</string>
   <string name="lock_settings_picker_title">"Sélect. verr. écran"</string>
