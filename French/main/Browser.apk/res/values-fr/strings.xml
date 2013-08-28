@@ -170,8 +170,8 @@
   <string name="download_video_menu_dialog_title">Installation...</string> 
   <string name="download_video_menu_video_version_low">Vous devez mettre à jour MiuiVideo.</string> 
   <string name="download_video_no_title_default_name">Vidéo sans nom</string> 
-  <string name="download_video_please_download_market">Vous devez installer MiApps.</string> 
-  <string name="download_video_please_select_video">Choisissez une vidéo</string> 
+  <string name="download_video_please_download_market">Vous devez installer MiApps pour utiliser cette fonction</string> 
+  <string name="download_video_please_select_video">Sélectionner une vidéo</string> 
   <string name="download_video_start_down_toast">Télécharger %1$s vidéo(s)</string> 
   <string name="download_video_unseleted_all">Tout désélectionner</string>
   <string name="downloaded">Téléchargé</string> 

@@ -384,7 +384,7 @@
   <string name="empty_alert">Le champ %s est obligatoire.</string>
   <string name="empty_networks_list">Aucun réseau trouvé.</string>
   <string name="enable">Activer</string>
-  <string name="enable_antispam_strange_summary">"&gt;Couper le son du premier appel d'un numéro inconnu"</string> 
+  <string name="enable_antispam_strange_summary">"Couper le son du premier appel d'un numéro inconnu"</string> 
   <string name="enable_antispam_strange_title">Appel anti étranger</string>
   <string name="enable_disable_administrative">Administration</string>
   <string name="enable_disable_advertisements">Annonces</string>

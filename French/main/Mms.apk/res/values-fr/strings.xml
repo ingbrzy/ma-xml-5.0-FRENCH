@@ -237,7 +237,7 @@
   <string name="notification_multiple">%s messages non lus.</string>
   <string name="notification_multiple_title">Nouveaux messages</string>
   <string name="number_add_hint">Entrez un numéro pour l\'ajouter aux Contacts Privés</string>
-  <string name="overwrite_edited_content">Écrasera le contenu édité, continuer ?</string>
+  <string name="overwrite_edited_content">Cela écrasera le contenu édité, voulez-vous continuer ?</string>
   <string name="phrase_confirm_delete_message">La phrase sélectionnée sera supprimée</string>
   <string name="phrase_empty">Aucune phrase</string>
   <string name="phrase_from">De %1s</string>

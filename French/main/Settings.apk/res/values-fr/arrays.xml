@@ -404,6 +404,10 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Demander</item>
         <item>Refuser</item>
     </string-array>
+    <string-array name="phone_call_noise_suppression_title"> 
+        <item>Suppression de bruit simple micro</item> 
+        <item>Suppression de bruit double micro</item> 
+    </string-array>
     <string-array name="startup_hips_action">
         <item>Autoriser</item>
         <item>Refuser</item>

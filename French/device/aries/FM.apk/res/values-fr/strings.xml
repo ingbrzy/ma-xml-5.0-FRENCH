@@ -44,7 +44,7 @@
   <string name="frequency_out_of_range">(%1$s~%2$s) fréquence radio hors limites</string>
   <string name="frequency_should_not_null">La fréquence radio ne peut pas être vide !</string>
   <string name="hint_station_name">Entrez le nom de Station</string>
-  <string name="increase_af">augmenter la fréquence</string>
+  <string name="increase_af">Augmenter la fréquence</string>
   <string name="input_station">Fréquence Radio (MHz)</string>
   <string name="menu_add_list">Ajouter liste</string>
   <string name="menu_delete">Supprimer</string>
@@ -75,9 +75,9 @@
   <string name="msg_searching_title">Pré-sélection automatique</string>
   <string name="msg_seeking">Recherche des stations FM</string>
   <string name="msg_weak_searching">Recherche des fréquences à transmettre</string>
-  <string name="next_station">station suivante</string>
+  <string name="next_station">Station suivante</string>
   <string name="no_storage">Monte la carte SD avant que l\'enregistrement ne commence</string>
-  <string name="pre_station">station précédente</string>
+  <string name="pre_station">Station précédente</string>
   <string name="preparing_sd">Préparation de la carte SD</string>
   <string name="preset_delete">Supprimer</string>
   <string name="preset_replace">Remplacer</string>
@@ -90,7 +90,7 @@
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Cliquez sur pour afficher le fichier %s</string>
   <string name="record_sucess">Enregistrement réussi</string>
-  <string name="reduce_af">réduire la fréquence</string>
+  <string name="reduce_af">Réduire la fréquence</string>
   <string name="regional_band">Le choix Bande Régionale effacera toutes les stations enregistrées</string>
   <string name="search_dialog_title">Recherche des Stations</string>
   <string name="sel_audio_output">Sélectionner la sortie Audio</string>

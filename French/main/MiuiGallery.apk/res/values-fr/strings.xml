@@ -294,6 +294,12 @@
   <string name="saving_failure">"Impossible d\'enregistrer la photo"</string>
   <string name="saving_image">"Enregistrement de l\'image..."</string>
   <string name="scan_qr_code">Autoriser les autres scan QR code à voir cet album partagé</string>
+  <string name="screensaver_activate_mode">"Diaporama d'écran de veille"</string>
+  <string name="screensaver_activate_only_charging">"Activer l'écran de veille uniquement pendant la charge"</string>
+  <string name="screensaver_category">Écran de veille</string>
+  <string name="screensaver_no_data">"Pas d'image dans l'album."</string>
+  <string name="screensaver_path">"Album d'écran de veille :"</string>
+  <string name="screensaver_path_not_set">Non défini</string>
   <string name="sd_not_available">"Carte SD non montée ou indisponible"</string>
   <string name="seconds">"secondes"</string>
   <string name="select_album">"Sélectionner un album"</string>
@@ -314,6 +320,8 @@
   <string name="set_lock_or_wallpaper">"Définir comme fond d\'écran"</string>
   <string name="set_lockscreen">"Fond d\'écran de verrouillage"</string>
   <string name="set_recent_album">"Définir en tant qu\'album récent"</string>
+  <string name="set_screensaver_path_message">"Cet album s'affichera 5 secondes après que l'écran s'éteigne."</string> 
+  <string name="set_screensaver_path_title">"Diaporama d'écran de veille"</string>
   <string name="set_wallpaper">"Définir comme fond d\'écran"</string>
   <string name="settings">"Paramètres"</string>
   <string name="settings_i_xiaomi_com">"Connectez-vous sur i.xiaomi.com pour gérer votre stockage MiCloud"</string>
@@ -347,6 +355,8 @@
   <string name="slideshow_interval_dialog_title">"L\'intervalle d\'affichage du diaporama doit être supérieur à 0"</string>
   <string name="slideshow_interval_invalid">"Intervalle invalide. Celui-ci doit être compris entre 1 et 3600. L\'intervalle par défaut va être utilisé en attendant."</string>
   <string name="slideshow_repeat_mode">Boucler</string>
+  <string name="slideshow_time_select_title">"Sélectionner l'intervalle du diaporama"</string> 
+  <string name="slideshow_time_title">Intervalle du diaporama</string>
   <string name="storage_all_volumes">"Tous les périphériques de stockage"</string>
   <string name="storage_no_space">"Aucun espace de stockage disponible."</string>
   <string name="straighten">"Redresser"</string>
