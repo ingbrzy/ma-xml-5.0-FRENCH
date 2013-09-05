@@ -78,6 +78,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="call_other_fax">Appeler fax</string>
   <string name="call_pager">Appeler Bipper</string>
   <string name="call_radio">Appeler radio</string>
+  <string name="call_record_setting_miui">"Paramètres d'enregistrement"</string>
   <string name="call_settings">Paramètres</string>
   <string name="call_telex">Composer le télex</string>
   <string name="call_tty_tdd">Appel TTY/TDD</string>
@@ -139,7 +140,9 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="clearFrequentsConfirmation_title">Effacer les contacts fréquents ?</string>
   <string name="clearFrequentsProgress_title">Suppression des contacts fréquents</string>
   <string name="clear_default">Effacer par défaut</string>
+  <string name="clear_digits">effacer le numéro de téléphone</string>
   <string name="click_close">Cliquez pour fermer</string>
+  <string name="close_dial_pad">fermer le pavé de numérotation</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_title">Anti-Spam Cloud</string>
   <string name="composer_failed_to_get_database_infomation">"Impossible d\'obtenir les informations de la base de données"</string>
@@ -203,6 +206,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="deleteConfirmation_title">Supprimer</string>
   <string name="delete_call_log_title">Sélectionnez le journal d\'appel à supprimer ?</string>
   <string name="delete_contact_calllog_title">"Êtes-vous sûr de vouloir supprimer le journal d\'appel du contact ?"</string>
+  <string name="delete_dial_input">supprimer</string>
   <string name="delete_duplicate">Fusionner</string>
   <string name="delete_duplicate_message">"Fusion..."</string>
   <string name="delete_group_dialog_message">Êtes-vous sûr de vouloir supprimer le groupe \"%1$s\" ? (Les contacts ne seront pas effacés)</string>
@@ -277,6 +281,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="device_pairing_dialog_message">Jumelage de périphériques (vous devrez peut-être confirmer sur l\'autre téléphone)...</string>
   <string name="device_pairing_dialog_title">Jumelage de périphériques</string>
   <string name="device_version_header_bluetooth">activez le Bluetooth</string>
+  <string name="dial">numéroter</string>
   <string name="device_version_header_no_bluetooth">Importer les contacts de la carte SIM</string>
   <string name="device_version_title">Sélectionnez la version de mobile</string>
   <string name="dialerDialpadHintText">Composez pour ajouter un appel</string>
@@ -728,7 +733,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="profile_display_name">Configurer mon profil</string>
   <string name="profile_name">Mon profil</string>
   <string name="profile_name_photo">Moi</string>
-  <string formatted="false" name="progress_notifier_message">Importation de %1$s/%2$s : %3$s...</string>
+  <string name="progress_notifier_message" formatted="false">Importation %s/%s : %s</string>
   <string name="quickcontact_missing_app">Application introuvable</string>
   <string name="quit_dialog_confirm_title">Êtes-vous sûr de vouloir quitter la fusion des contacts ?</string>
   <string name="readOnlyContactDeleteConfirmation">Ce contact contient les informations de plusieurs comptes. Les informations de comptes en lecture seule seront masquées dans les listes des contacts et non supprimées</string>

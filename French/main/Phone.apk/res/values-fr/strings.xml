@@ -143,12 +143,14 @@
   <string name="call_record_notification_message_low_space_miui">L\'enregistrement s\'est arrêté en raison de mémoire faible, cliquez pour voir %s.</string>
   <string name="call_record_notification_message_miui">Cliquez pour voir %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Enregistrement arrêté parce que la carte SD est démontée.</string>
+  <string name="call_record_notification_message_start_failed">"L'appareil d'enregistrement est utilisé par une autre application."</string>
   <string name="call_record_notification_title_error_miui">Échec de l\'enregistrement des appels</string>
   <string name="call_record_notification_title_miui">Enregistrement de l\'appel réussi</string>
   <string name="call_record_path_name_of_sdcard_miui">Carte SD</string>
   <string name="call_record_sd_error_miui">Erreur d\'accès à la carte SD !</string>
   <string name="call_record_sd_space_low_miui">La mémoire de la Carte SD est faible, veuillez essayer à nouveau après avoir libéré de l\'espace</string>
   <string name="call_record_setting_miui">Paramètres d\'enregistrement d\'appel</string>
+  <string name="call_record_unknown_error">"Une erreur inconnue est survenue pendant l'enregistrement !"</string>
   <string name="call_recording_notification_summary_miui">Afficher une notification dans la barre d\'état à la fin de l\'enregistrement</string>
   <string name="call_recording_notification_title_miui">Enregistrement de notification d\'appels</string>
   <string name="call_recording_prompt_miui">Ouvrir l\'enregistrement des appels</string>

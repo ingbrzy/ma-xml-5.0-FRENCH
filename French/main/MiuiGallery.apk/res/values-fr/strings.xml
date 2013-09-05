@@ -26,6 +26,8 @@
   <string name="alert">"Avis d\'information"</string>
   <string name="alert_message_initial_cloud">"Le système va automatiquement télécharger les anciennes et nouvelles photos ainsi que les captures d\'écran seulement lorsqu\'il y a une connexion Wi-Fi."</string>
   <string name="alert_message_open_sync">"Sync est requis, souhaitez-vous ouvrir Sync maintenant?"</string>
+  <string name="android_tencent_tencent_weibo">Tencent Weibo</string> 
+  <string name="androidesk_wallpapers">"Fond d'écran Android"</string>
   <string name="aperture">"Ouverture"</string>
   <string name="app_name">Galerie</string>
   <string name="appwidget_empty_text">"Aucune photo"</string>
@@ -35,7 +37,10 @@
   <string name="auto_create_recent_album_confirm">"Après avoir désactivé cette fonctionnalité, la galerie effacera les données créées des albums favoris. Les albums favoris définis par l\'utilisateur ne seront pas affectés. Alternativement, vous pouvez le définir manuellement en touchant longuement un album."</string>
   <string name="auto_create_recent_album_over_ten_times">"Créer un album favori lorsque vous ouvrez un album plus de 10 fois"</string>
   <string name="autofix">"Correction auto"</string>
-  <string name="autofix_polymorphism">"photoeditor_effect_autofix"</string>
+  <string name="autohomemain">Autohomemain</string> 
+  <string name="baidu_bdmobile_downloads">Baidu Mobile</string> 
+  <string name="baidu_flyflow_downloads">Baidu Browser</string> 
+  <string name="beautyphone">Beauty Phone</string>
   <string name="big_screen_alertdialog_title">"Appareil projecteur"</string>
   <string name="bigscrren_slide_exit">"Quitter le diaporama affiché sur la TV"</string>
   <string name="browse_category">"Parcourir les photos"</string>
@@ -100,6 +105,9 @@
   <string name="crossprocess">"Traitement croisé"</string>
   <string name="cut">"Rogner"</string>
   <string name="damaged_file">"Le fichier est endommagé"</string>
+  <string name="dcim_100media">Taobao TMall</string> 
+  <string name="dcim_opaipic">Opaipic</string> 
+  <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">"Mobile"</string>
   <string name="delete">"Supprimer"</string>
   <string name="delete_fail_too_many_items">Échec de la suppression, trop d\'éléments sélectionnés</string>
@@ -186,6 +194,7 @@
   <string name="how_many_videos">"%d Vidéos"</string>
   <string name="hue_polymorphism">"photoeditor_effect_hue"</string>
   <string name="image_quota_fulfiled">"Impossible de créer l\'image, le quota d\'images a atteint sa limite."</string>
+  <string name="immomo_camera">Immomo</string>
   <string name="Import">"Importer"</string>
   <string name="accept">Accepter</string>
   <string name="import_complete">"Importation terminée"</string>
@@ -226,6 +235,7 @@
   <string name="message_no_delete_access">"L\'accès est refusé. Impossible de supprimer le fichier ou le dossier: %s"</string>
   <string name="message_no_delete_access_with_count">Impossible de supprimer %d fichiers(s) ou dossier(s). Assurez-vous qu\'ils existent et que vous avez la permission.</string>
   <string name="miliao_folder_display_name">"MiTalk"</string>
+  <string name="miliao_saved">MiChat</string>
   <string name="miliao_painting_folder_display_name">"Dessins MiTalk"</string>
   <string name="miliao_saved_folder_display_name">"Enregistrements MiTalk"</string>
   <string name="mimetype">"Type MIME"</string>
@@ -236,9 +246,12 @@
   <string name="modify_disallow_hint">L\'ajout de nouvelles images à l\'album est refusé</string>
   <string name="more">"Plus"</string>
   <string name="move_to_cloud_album">"Déplacer vers MiCloud"</string>
+  <string name="mtgif">MTGIF</string> 
+  <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">"Appuyer sur un visage pour commencer"</string>
   <string name="must_pick_file">"Sélectionner une image"</string>
   <string name="negative">"Négatif"</string>
+  <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="no">"Non"</string>
   <string name="no_albums_alert">"Aucun album disponible."</string>
   <string name="no_connectivity">"Certains lieux n\'ont pas pu être identifiés en raison de problèmes réseau."</string>
@@ -257,10 +270,13 @@
   <string name="operation_delete_confirm_message_folder">"Les dossiers et fichiers seront supprimés en même temps.</string>
   <string name="operation_refresh">"Actualiser"</string>
   <string name="operation_rename">"Renommer"</string>
+  <string name="operation_set_as_screensaver">Définir comme écran de veille</string> 
+  <string name="operation_unset_as_screensaver">"Annuler l'écran de veille"</string>
   <string name="orientation">"Orientation"</string>
   <string name="other_category">"Autres paramètres"</string>
   <string name="path">"Chemin d\'accès"</string>
   <string name="people">"Contacts"</string>
+  <string name="photo_page_always_rotate">Auto-pivoter les images</string>
   <string name="photo_page_save_image">"Enregistrer"</string>
   <string name="photo_page_save_uri_image_fail">"Impossible d\'enregistrer la photo."</string>
   <string name="photo_page_save_uri_image_ok">"Enregistrer les photos dans le dossier de la caméra."</string>
@@ -268,8 +284,11 @@
   <string name="photoeditor_name">"Photo Studio"</string>
   <string name="photos">"Photo(s)"</string>
   <string name="pick_too_many_recipients">Trop de destinataires</string>
-  <string name="posterize">"Postérisassions"</string>
+  <string name="posterize">"Posterisation"</string>
+  <string name="ppmm_gallery">PPMM</string>
   <string name="projection">"Projection"</string>
+  <string name="qqbrowser_img">QQ Browser</string> 
+  <string name="qsbk_save">QSBK</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="redeye">"Yeux rouges"</string>
   <string name="redeye_polymorphism">"photoeditor_effect_redeye"</string>
@@ -277,6 +296,7 @@
   <string name="remove_hidden_album">"Ne plus masquer"</string>
   <string name="remove_recent_album">"Supprimer des albums favoris"</string>
   <string name="rename_failed">"Échec du renommage"</string>
+  <string name="renren_image">RenRen</string>
   <string name="request_qr_code">Demande de QR code, veuillez patienter...</string>
   <string name="request_qr_code_failed">La demande de QR code a échoué, appuyez pour réessayer</string>
   <string name="request_sms_url_failed">Échec de la requête URL pour le partage via SMS</string>
@@ -305,6 +325,7 @@
   <string name="select_album">"Sélectionner un album"</string>
   <string name="select_all">"Tout sélectionner"</string>
   <string name="select_image">"Sélectionner une photo"</string>
+  <string name="select_too_much_to_send_tips">Les images sélectionnées sont trop grosses pour être envoyées. La limite est de %d.</string>
   <string name="select_item">"Sélectionner un élément"</string>
   <string name="select_video">"Sélectionner une vidéo"</string>
   <string name="send">"Envoyer"</string>
@@ -345,6 +366,7 @@
   <string name="show_images_only">"Images uniquement"</string>
   <string name="show_on_map">"Afficher sur la carte"</string>
   <string name="show_videos_only">"Vidéos uniquement"</string>
+  <string name="sina_weibo_save">Weibo</string>
   <string name="size_above">"au-delà de %1$s"</string>
   <string name="size_below">"jusqu\'à %1$s"</string>
   <string name="size_between">"%1$s vers %2$s"</string>
@@ -374,6 +396,10 @@
   <string name="tab_wallpaper_text">"Accueil"</string>
   <string name="tags">"Tags"</string>
   <string name="temperature">"Chaud"</string>
+  <string name="tencent_mobile_qq_img_save">QQ2012</string> 
+  <string name="tencent_qq_hd_pic">QQ HD</string> 
+  <string name="tencent_qzonepic">Qzone</string> 
+  <string name="tieba">Tie Ba</string>
   <string name="time">"Heure"</string>
   <string name="times">"Heures"</string>
   <string name="tint">"Coloration"</string>
@@ -383,6 +409,7 @@
   <string name="try_to_send">Tentative d\'envoi</string>
   <string name="turn_left">"Faire pivoter à gauche"</string>
   <string name="turn_right">"Faire pivoter à droite"</string>
+  <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">"mm"</string>
   <string name="untagged">"Aucun tag"</string>
   <string name="video_err">"Impossible de lire la vidéo."</string>
@@ -390,6 +417,7 @@
   <string name="vignette_polymorphism">"photoeditor_effect_vignette"</string>
   <string name="wallpaper">"Fond d\'écran"</string>
   <string name="warn">"Attention"</string>
+  <string name="weikan_weikan">Weikan TV</string>
   <string name="white_balance">"Balance blancs"</string>
   <string name="widget_type">"Choix des images"</string>
   <string name="widget_type_album">"Choisir un album"</string>

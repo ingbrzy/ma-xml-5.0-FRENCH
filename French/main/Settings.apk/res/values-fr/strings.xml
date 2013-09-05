@@ -720,6 +720,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dirac_mode_earbuds">Écouteurs classiques</string>
   <string name="dirac_mode_earphones">Écouteurs intra-auriculaires</string>
   <string name="dirac_mode_off">Dirac désactivé</string>
+  <string name="dirac_mode_piston_100">Casque Piston Xiaomi</string>
   <string name="disableNetwork">"disableNetwork"</string>
   <string name="disable_overlays">"Désact. superpos. matérielle"</string>
   <string name="disable_overlays_summary">"Toujours utiliser le GPU pour la composition de l\'écran"</string>
@@ -1235,7 +1236,8 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="no_media_button_receiver">"Non"</string>
   <string name="no_nearby_wifi">"Aucun réseau Wi-Fi proche détecté"</string>
   <string name="no_running_services">"Pas de services en cours"</string>
-  <string name="no_services">"Inactifs"</string>
+  <string name="no_services">"Inactif"</string>
+  <string name="noise_suppression">Suppression du bruit</string>
   <string name="normal_date_format">"Format régional (%s)"</string>
   <string name="not_installed">Non installée</string>
   <string name="notification_pulse_title">"Voyant de notification"</string>
@@ -1365,6 +1367,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="perm_operating">"En cours..."</string>
   <string name="perm_optimize">"Optimiser"</string>
   <string name="perm_privacy_app_count">"%1$d autorisation(s)"</string>
+  <string name="perm_privacy_app_count_trust_summary">"Faire confiance à l'application"</string>
   <string name="perm_privacy_app_finish">"Terminer"</string>
   <string name="perm_privacy_app_installed">"Installation réussie !"</string>
   <string name="perm_privacy_app_launch">"Démarrer"</string>
@@ -1415,6 +1418,7 @@ Remarque: pour environnement Ubuntu 8.04\""</string>
   <string name="permission_manage_title">"%s détails de permission"</string>
   <string name="permissions_label">"Permissions"</string>
   <string name="personal_data_section_title">"Données personnelles"</string>
+  <string name="phone_call_noise_suppression">Suppression du bruit du téléphone</string>
   <string name="phone_info_label">"Informations sur le téléphone"</string>
   <string name="phone_language">"Langue"</string>
   <string name="pico_installed">"Installée"</string>
@@ -1894,7 +1898,8 @@ Le code PIN est peut-être incorrect.\""</string>
   <string name="sync_plug">"<font fgcolor="#ffffffff">Bienvenue sur Google Sync !</font>
 Une solution Google pour synchroniser vos données et vous permettre d\'accéder à vos contacts, vos rendez-vous et plus, où que vous soyez."</string>
   <string name="sync_settings">"Comptes &amp; synchronisation"</string>
-  <string name="sync_wifi_label">"Sync. Wi-Fi"</string>
+  <string name="sync_wifi_label">Paramètres Wi-Fi</string>
+  <string name="sync_wifi_only">Wi-Fi uniquement</string>
   <string name="system">"Système"</string>
   <string name="system_package">"Les mises à jour du système ne peuvent pas être installées sur des supports externes."</string>
   <string name="system_update_settings_list_item_title">"Mises à jour du système"</string>
@@ -2407,7 +2412,7 @@ Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi."
   <string name="wifi_setup_title_editing_network">"Se connecter au réseau Wi-Fi %s"</string>
   <string name="wifi_setup_wizard_title">"Sélectionner le Wi-Fi"</string>
   <string name="wifi_setup_wps">"Configuration auto (WPS)"</string>
-  <string name="wifi_share">Partager le réseau Wi-Fi public</string> 
+  <string name="wifi_share">Partager le Wi-Fi</string> 
   <string name="wifi_share_action_turn_off">Désactiver le partage Wi-Fi</string> 
   <string name="wifi_share_action_turn_on">Activer le partage Wi-Fi</string> 
   <string name="wifi_share_action_turn_on_summary">Veuillez vous connecter avec vos identifiants Xiaomi</string> 
@@ -2432,8 +2437,8 @@ vous pouvez utiliser les réseaux d'autres utilisateurs"</string>
   <string name="wifi_share_summary1">Les utilisateurs MIUI peuvent partager entre eux les réseaux Wi-Fi publics protégés par des mots de passe.</string> 
   <string name="wifi_share_summary2">Si un autre utilisateur MIUI partage un réseau, vous pouvez vous connecter directement à ce réseau sans utiliser de mot de passe</string> 
   <string name="wifi_share_summary3">Partager les réseaux Wi-Fi publics avec des amis et collègues</string> 
-  <string name="wifi_share_turn_off">Partage de Wi-Fi public désactivé</string> 
-  <string name="wifi_share_turn_on">Partage de Wi-Fi public activé</string> 
+  <string name="wifi_share_turn_off">Partage désactivé</string> 
+  <string name="wifi_share_turn_on">Partage activé</string> 
   <string name="wifi_share_upload">Partagé</string> 
   <string name="wifi_share_upload_finish">Partage réussi !</string> 
   <string name="wifi_share_uploading">Partage de réseau Wi-Fi public</string>

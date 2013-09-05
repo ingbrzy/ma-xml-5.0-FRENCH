@@ -81,10 +81,12 @@
   <string name="loading_desktop">Chargement du lanceur...</string>
   <string name="menu_add">Ajouter</string>
   <string name="menu_back_desktop">Retour à l\'accueil</string>
+  <string name="menu_customize">Personnaliser les Paramètres</string>
   <string name="menu_edit">Éditer</string>
   <string name="menu_exit_scene">Quitter le bureau Mi</string>
   <string name="menu_item_add_item">Ajouter à l\'écran d\'accueil</string>
   <string name="menu_launcher_setting">Paramètres du lanceur</string>
+  <string name="menu_picktheme">Sélectionner un thème</string>
   <string name="menu_reset_scene">Réinitialiser la disposition</string>
   <string name="menu_search">Rechercher</string>
   <string name="menu_settings">Paramètres</string>
@@ -124,6 +126,7 @@
   <string name="screen_button_disabled_message">Les boutons du bas de l\'écran ont été désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
   <string name="screen_button_enabled_message">Les boutons du bas de l\'écran sont activés</string>
   <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillée en mode paysage</string>
+  <string name="scroll_tip_format_when_announce_accessibility">Page %1$d, %2$d apps</string>
   <string name="select_frame">Cadre</string>
   <string name="select_photo">Photo</string>
   <string name="sort_by_abc">Trier par nom</string>

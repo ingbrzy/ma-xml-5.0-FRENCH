@@ -28,6 +28,7 @@
   <string name="attach_subject">Sujet</string>
   <string name="attach_take_photo">Prendre une photo</string>
   <string name="attach_video">Vidéos</string>
+  <string name="back_to_message_list">retour à la liste des messages</string>
   <string name="batch_delete_confirm_dialog_message">Supprimer les %1$s messages sélectionnés ?</string>
   <string name="batch_deleting_message_progress_message">Supprimer message(s) sélectionné(s)</string>
   <string name="batch_deleting_progress_message">Suppression de la sélection</string>
@@ -63,6 +64,7 @@
   <string name="confirm_no_block_positive">Ne pas bloquer et restaurer</string> 
   <string name="confirm_no_block_title">Ne pas bloquer le numéro et restaurer tous les messages ?</string>
   <string name="confirm_rate_limit">"Un grand nombre de messages multimédias sont en cours d\'envoi. Voulez-vous continuer ?"</string>
+  <string name="confirm_restore_all_title">Restaurer tous les messages de ce numéro ?</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_browse_web">Parcourir</string>
   <string name="context_menu_call">Appeler</string>
@@ -79,6 +81,7 @@
   <string name="converting_to_picture_message">Conversion en message multimédia...</string>
   <string name="converting_to_text_message">Conversion en SMS...</string>
   <string name="copy_message_text">Copier le texte</string>
+  <string name="copy_message_text_success">Message copié avec succès !</string>
   <string name="copy_to_sdcard">Enregistrer le fichier</string>
   <string name="copy_to_sdcard_fail">Impossible enreg. pièce jointe.</string>
   <string name="copy_to_sdcard_success">Pièce jointe enregistrée.</string>
@@ -316,7 +319,8 @@
   <string name="replace">Remplacer</string>
   <string name="replace_image">"Remplacer l\'image"</string>
   <string name="resent_message">Renvoyer</string>
-  <string name="resize_image_error_information">"L\'image redimensionnée est trop volumineuse pour être envoyée."</string>
+  <string name="resize_image_error_information">"L'image redimensionnée est trop volumineuse pour être envoyée."</string>
+  <string name="restore_all_button_msg">Restaurer tous les messages de ce numéro</string>
   <string name="restore_blocked_message">Restaurer les messages bloqués</string>
   <string name="save">Enregistrer</string>
   <string name="save_ringtone">Enregistrer comme sonnerie</string>
@@ -337,10 +341,12 @@
   <string name="select_link_title">Sélectionner une action</string>
   <string name="select_local_audio">Sélectionner un enregistrement audio local</string>
   <string name="select_local_video">Sélectionner une vidéo locale</string>
+  <string name="select_recipient">Sélectionner le destinataire</string>
   <string name="select_top_text">"Texte en haut de l\'écran"</string>
   <string name="send">Envoyer</string>
   <string name="send_signature_confirm_dialog_message">Vous n\'avez pas écrit de contenu, voulez-vous l\'envoyer ?</string>
   <string name="send_signature_confirm_dialog_title">Confirmer l\'envoi</string>
+  <string name="send_sms">Envoyer un message</string>
   <string name="send_to">"À : "</string>
   <string name="send_to_count">%1$s message(s) envoyé(s)</string>
   <string name="send_to_index_contact">Envoi de %1$s sur %2$s...</string>

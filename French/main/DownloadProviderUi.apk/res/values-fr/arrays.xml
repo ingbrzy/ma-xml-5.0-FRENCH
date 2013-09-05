@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_max_bytes_limit">
+        <item>1Go</item> 
+        <item>100Mo</item> 
+        <item>50Mo</item> 
+        <item>20Mo</item>
+        <item>10Mo</item>
+        <item>5Mo</item>
+        <item>2Mo</item>
+        <item>1Mo</item>
+        <item>500Ko</item>
+        <item>200Ko</item>
+        <item>100Ko</item>
+    </string-array>
+	<string-array name="prefValues_max_bytes_limit">
+        <item>1048576000</item>
+        <item>104857600</item>
+        <item>52428800</item>
+        <item>20971520</item>
+        <item>10485760</item>
+        <item>5242880</item>
+        <item>2097152</item>
+        <item>1048576</item>
+        <item>512000</item>
+        <item>204800</item>
+        <item>102400</item>
+        <item>0</item>
+    </string-array>
+ </resources>

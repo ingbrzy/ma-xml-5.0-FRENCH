@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="all_downloads">Tous les téléchargements</string> 
+  <string name="app_downloads">%s téléchargements</string>
   <string name="app_label">Téléchargements</string>
   <string name="button_sort_by_date">Trier par date</string>
   <string name="button_sort_by_size">Trier par taille</string>
@@ -61,6 +63,7 @@
   <string name="prefDefault_max_bytes_limit">1048576</string>
   <string name="pref_dialog_title_max_bytes_limit">Limite de taille de fichier</string>
   <string name="pref_download_settings_title">Avertissement de téléchargement de données</string>
+  <string name="pref_summary_any_bytes_popup">Toujours mettre en attente en utilisant le réseau Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">"Une demande de confirmation apparaît si la taille du téléchargement via le réseau de l\'opérateur dépasse la limite</string>
   <string name="pref_summary_max_bytes_limit_format">Message d\'alerte si la taille du fichier dépasse %s</string>
   <string name="pref_title_enable_max_bytes_popup">Téléchargement de données</string>

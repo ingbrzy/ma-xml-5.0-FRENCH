@@ -84,11 +84,16 @@
   <string name="qm_vip_list_group">"Liste d'exceptions"</string>
   <string name="qm_vip_sms_setting_button">Couper le son des messages de la liste blanche</string>
   <string name="quiet_mode">Ne pas déranger</string>
+  <string name="st_advanced_setting_group">Paramètres avancés</string>
   <string name="st_bl_block_setting_title">Me demander plus tard</string>
   <string name="st_bl_setting_group">Paramètres de la liste noire</string>
   <string name="st_block_all">Bloquer les appels et messages</string>
   <string name="st_block_mute">Bloquer les appels et couper le son des messages</string>
   <string name="st_block_private_call_button">Bloquer le numéro privé entrant</string>
+  <string name="st_block_setting_group">Paramètres de la liste de blocage</string> 
+  <string name="st_block_setting_title">Appels et messages</string>
+  <string name="st_block_unknown_call">Bloquer tous les appels inconnus</string> 
+  <string name="st_block_unknown_sms">Bloquer tous les messages inconnus</string>
   <string name="st_block_title">Bloquer et enregistrer</string>
   <string name="st_call_group">Appeler</string>
   <string name="st_common_setting_group">Aperçu rapide</string>
@@ -100,7 +105,9 @@
   <string name="st_mute_all">Couper le son des appels et des messages</string>
   <string name="st_mute_block">Couper le son des appels et bloquer les messages</string>
   <string name="st_mute_title">Mode silencieux</string>
+  <string name="st_other_setting_group">Autres paramètres</string>
   <string name="st_settings_name">Paramètres</string>
+  <string name="st_show_block_notification">Afficher les notifications bloquées</string>
   <string name="st_sms_group">Messages</string>
   <string name="tab_blacklist">Liste noire</string>
   <string name="tab_block_log">Pare-feu</string>
@@ -109,6 +116,7 @@
   <string name="tab_title">Anti-Spam</string>
   <string name="toast_keyword_blank">Le mot clé est vide</string>
   <string name="toast_keyword_exist">Le mot clé %s existe déjà</string>
+  <string name="toast_keyword_invalid">Mot clé invalide</string>
   <string name="twelve_hour_time_format">a h:mm</string>
   <string name="twenty_four_hour_time_format">HH:mm</string>
 </resources>

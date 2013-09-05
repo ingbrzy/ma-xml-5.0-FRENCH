@@ -5,6 +5,10 @@
   <string name="activating">"Activation..."</string>
   <string name="alarm_message_12_hour_formate">"h:mm aa"</string>
   <string name="alwaysUsePrompt">"Définir par défaut (ne plus demander)"</string>
+  <string name="android_lockscreen_glogin_instructions">Pour déverrouiller connectez vous avec votre compte</string>
+  <string name="app_no_notification">aucune notification</string> 
+  <string name="app_notificaiton_on_notificationBar">Barre de notifications</string> 
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">"Barre d'état et de notification"</string>
   <string name="arbor_day">"Journée de l\'arbre"</string>
   <string name="autumn_begins">"Début de l\'Automne"</string>
   <string name="autumn_equinox">"Equinoxe d\'Automne"</string>
