@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Import">Importer</string>
-  <string name="access_sd_fail">"Impossible d'accéder à la mémoire de stockage USB."</string>
+  <string name="access_sd_fail">"Impossible d\'accéder à la mémoire de stockage USB."</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Basculer entre la l\'appareil photo et la vidéo (actuellement sur %s)</string>
   <string name="accessibility_camera_auto_flashmode">Flash automatique</string>
   <string name="accessibility_camera_flash_closemode">Pas de Flash</string>
@@ -32,8 +32,8 @@
   <string name="can_not_play_video">Pour lire la vidéo, vous devez déverrouiller l\'écran</string>
   <string name="cancel">Annuler</string>
   <string name="cannot_connect_camera">"Impossible de se connecter à la caméra."</string>
-  <string name="cannot_connect_camera_once">"Impossible de se connecter à l'appareil photo, veuillez le redémarrer"</string>
-  <string name="cannot_connect_camera_twice">"Impossible de se connecter à l'appareil photo, veuillez redémarrer votre téléphone"</string>
+  <string name="cannot_connect_camera_once">"Impossible de se connecter à l\'appareil photo, veuillez le redémarrer"</string>
+  <string name="cannot_connect_camera_twice">"Impossible de se connecter à l\'appareil photo, veuillez redémarrer votre téléphone"</string>
   <string name="clear_effects">Effacer les effets</string>
   <string name="close">Fermer</string>
   <string name="cloud_album_details">Détails de l\'album cloud :</string>
@@ -119,7 +119,7 @@
   <string name="hand_night_exit_button_text">Quitter le mode nuit</string>
   <string name="hdr_exit_button_text">Quitter le mode HDR</string>
   <string name="height">Hauteur</string>
-  <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
+  <string name="image_file_name_format">"\'IMG\'_ddMMyyyy_HHmmss"</string>
   <string name="import_complete">Importation terminée</string>
   <string name="import_contact">Importer un contact</string>
   <string name="import_fail">Échec de l\'importation !</string>
@@ -143,11 +143,11 @@
   <string name="ok">OK</string>
   <string name="open">Ouvrir</string>
   <string name="orientation">Orientation</string>
-  <string name="pano_dialog_panorama_failed">"Impossible d'enregistrer le panorama"</string>
+  <string name="pano_dialog_panorama_failed">"Impossible d\'enregistrer le panorama"</string>
   <string name="pano_dialog_prepare_preview">Préparation vue panoramique...</string>
   <string name="pano_dialog_title">Panoramique</string>
   <string name="pano_dialog_waiting_previous">Attendre que le panorama précédent se termine</string>
-  <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
+  <string name="pano_file_name_format">"\'PANO\'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Appuyez sur le déclencheur pour commencer à prendre des photos panoramiques</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Restez stable lors du déplacement</string>
   <string name="pano_how_to_use_prompt_to_move">Lors de la prise, essayez de garder le mouvement du téléphone stable</string>
@@ -447,13 +447,13 @@
   <string name="toast_burst_snap_finished_start">Rafale fini</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Le mode rafale n\'est pas supporté lorsque la capture audio est activée.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Le mode rafale n\'est pas supporté lorsque le HDR est activé.</string>
-  <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Le mode rafale n'est pas supporté quand l'ISO n'est défini sur 'auto'."</string>
+  <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Le mode rafale n\'est pas supporté quand l\'ISO n\'est défini sur \'auto\'."</string>
   <string name="toast_start_audio_capture">Émettre un son d\'obturateur lors de la capture</string>
   <string name="undo">Annuler</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Caméra</string>
   <string name="video_err">"Impossible de lire le fichier vidéo."</string>
-  <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
+  <string name="video_file_name_format">"\'VID\'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Taille maximale atteinte.</string>
   <string name="video_snapshot_hint">Prendre une photo pendant l\'enregistrement vidéo en tapant sur l\'écran de prévisualisation.</string>
   <string name="videocamera_settings_label">Paramètres vidéo</string>

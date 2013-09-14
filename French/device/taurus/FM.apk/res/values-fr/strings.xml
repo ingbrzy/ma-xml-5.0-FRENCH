@@ -121,8 +121,9 @@
   <string name="toast_save_station">%sMHz a été sauvegardé</string>
   <string name="toast_sleep_mode">Arrêter FM dans %s</string>
   <string name="transmit_msg_string">Transmission à :</string>
-  <string name="turn_off_fm">Éteindre la FM</string> 
-  <string name="turn_off_speaker_phone">Désactiver le haut parleur</string> 
-  <string name="turn_on_fm">Allumer la FM</string> 
+  <string name="turn_off_fm">Éteindre la FM</string>
+  <string name="turn_off_speaker_phone">Désactiver le haut parleur</string>
+  <string name="turn_on_fm">Allumer la FM</string>
   <string name="turn_on_speaker_phone">Activer le haut parleur</string>
+  <string name="view_stations_list">Afficher la liste des stations</string>
 </resources>
