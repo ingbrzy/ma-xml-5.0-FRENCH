@@ -5,7 +5,7 @@
   <string name="basic">Panneau de base</string>
   <string name="clear">EFF.</string>
   <string name="clearDesc">effacer</string>
-  <string name="clear_history">"Effacer l\'historique"</string>
+  <string name="clear_history">Effacer l\'historique</string>
   <string name="cos">cos</string>
   <string name="cosDesc">cosinus</string>
   <string name="cos_mathematical_value">cos</string>
@@ -26,7 +26,7 @@
   <string name="dot">.</string>
   <string name="dotDesc">point</string>
   <string name="e">E</string>
-  <string name="eDesc">"nombre d\'Euler"</string>
+  <string name="eDesc">"nombre d'Euler"</string>
   <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
@@ -62,6 +62,8 @@
   <string name="sqrt">√</string>
   <string name="sqrtDesc">racine carrée</string>
   <string name="standard">standard</string>
+  <string name="switch_to_scientific_pad">Passer sur scientifique</string>
+  <string name="switch_to_standard_pad">Passer sur standard</string>
   <string name="tan">tan</string>
   <string name="tanDesc">tangente</string>
   <string name="tan_mathematical_value">tan</string>

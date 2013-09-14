@@ -3,7 +3,7 @@
   <string name="account">Compte</string>
   <string name="account_delete_dlg_instructions_fmt">Le compte \"%s\" va être supprimé de votre messagerie.</string>
   <string name="account_delete_dlg_title">Supprimer le compte</string>
-  <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d\'utilisateur pour le compte \"%s\"."</string>
+  <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dupliquer le compte</string>
   <string name="account_error">Échec de la récupération des informations du compte.</string>
   <string name="account_folder_list_summary_drafts">Brouillons</string>
@@ -12,7 +12,7 @@
   <string name="account_folder_list_summary_starred">Suivis</string>
   <string name="account_name_display_all">Tous les comptes</string>
   <string name="account_out_of_quota">Le compte a dépassé le quota d\'espace libre sur le disque.</string>
-  <string name="account_password_spaces_error">"Ce mot de passe débute ou se termine par un ou plusieurs espaces. De nombreux serveurs n\'acceptent pas les mots de passe contenant des espaces."</string>
+  <string name="account_password_spaces_error">"Ce mot de passe débute ou se termine par un ou plusieurs espaces. De nombreux serveurs n'acceptent pas les mots de passe contenant des espaces."</string>
   <string name="account_security_dialog_content_fmt">%s nécessite la mise à jour de vos paramètres de sécurité.</string>
   <string name="account_security_dialog_title">Mise à jour de sécurité</string>
   <string name="account_security_policy_explanation_fmt">Vous devez autoriser le serveur %s à contrôler à distance certaines fonctionnalités de sécurité de votre mobile Android.</string>
@@ -91,15 +91,15 @@
   <string name="account_setup_exchange_trust_certificates_label">Accepter tous les certificats SSL</string>
   <string name="account_setup_exchange_use_certificate">Utiliser un certificat client</string>
   <string name="account_setup_exchange_username_label">Domaine\\Nom d\'utilisateur</string>
-  <string name="account_setup_failed_access_denied">"Vous n\'êtes pas autorisé à synchroniser votre compte avec ce serveur. Veuillez contacter l\'administrateur du serveur pour en savoir plus."</string>
-  <string name="account_setup_failed_auth_required">"Les méthodes d\'authentification ne sont pas compatibles avec le serveur."</string>
+  <string name="account_setup_failed_access_denied">"Vous n'êtes pas autorisé à synchroniser votre compte avec ce serveur. Veuillez contacter l'administrateur du serveur pour en savoir plus."</string>
+  <string name="account_setup_failed_auth_required">"Les méthodes d'authentification ne sont pas compatibles avec le serveur."</string>
   <string name="account_setup_failed_certificate_inaccessible">Le certificat n\'est pas valide ou est inaccessible.</string>
   <string name="account_setup_failed_certificate_required">Certificat client requis. Voulez-vous vous connecter au serveur avec le certificat client ?</string>
   <string name="account_setup_failed_check_credentials_message">Erreur du serveur. Veuillez vérifier votre nom d\'utilisateur et votre mot de passe, puis réessayer.</string>
   <string name="account_setup_failed_dlg_auth_message">Nom d\'utilisateur ou mot de passe incorrect.</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">\"Nom d\'utilisateur ou mot de passe incorrect.
 (%s)\"</string>
-  <string name="account_setup_failed_dlg_certificate_message">"Impossible d\'établir une connexion sécurisée avec le serveur."</string>
+  <string name="account_setup_failed_dlg_certificate_message">"Impossible d'établir une connexion sécurisée avec le serveur."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">\"Impossible d\'établir une connexion sécurisée avec le serveur.
 (%s)\"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Modifier les infos</string>
@@ -107,9 +107,9 @@
   <string name="account_setup_failed_dlg_server_message_fmt">\"Impossible de se connecter au serveur.
 (%s)\"</string>
   <string name="account_setup_failed_dlg_title">"Impossible de terminer"</string>
-  <string name="account_setup_failed_ioerror">"Impossible d\'établir la connexion avec le serveur."</string>
-  <string name="account_setup_failed_protocol_unsupported">"L\'adresse de serveur saisie est incorrecte ou le serveur exige une version du protocole non compatible avec Mail."</string>
-  <string name="account_setup_failed_security">"Impossible d\'établir la connexion avec le serveur en raison d\'une erreur de sécurité."</string>
+  <string name="account_setup_failed_ioerror">"Impossible d'établir la connexion avec le serveur."</string>
+  <string name="account_setup_failed_protocol_unsupported">"L'adresse de serveur saisie est incorrecte ou le serveur exige une version du protocole non compatible avec Mail."</string>
+  <string name="account_setup_failed_security">"Impossible d'établir la connexion avec le serveur en raison d'une erreur de sécurité."</string>
   <string name="account_setup_failed_security_policies_unsupported">"Ce serveur nécessite des fonctionnalités de sécurité incompatibles avec votre appareil Android, dont : %s"</string>
   <string name="account_setup_failed_tls_required">Protocole TLS requis mais non pris en charge par le serveur.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Si messages suppr. de boîte de récep.</string>
@@ -174,7 +174,7 @@
   <string name="account_setup_security_policies_required_fmt">Vous devez autoriser le serveur %s à contrôler à distance certaines fonctionnalités de sécurité de votre mobile Android. Voulez-vous terminer la configuration de ce compte ?</string>
   <string name="account_setup_security_required_title">Administration de la sécurité à distance</string>
   <string name="account_setup_username_password_toast">Saisissez une adresse mail et un mot de passe corrects.</string>
-  <string name="account_setup_username_uneditable_error">Vous ne pouvez pas modifier le nom d\'utilisateur d\'un compte. Pour ajouter un compte associé à un autre nom d\'utilisateur, appuyez sur \"Ajouter un compte\".</string>
+  <string name="account_setup_username_uneditable_error">"Vous ne pouvez pas modifier le nom d'utilisateur d'un compte. Pour ajouter un compte associé à un autre nom d'utilisateur, appuyez sur \"Ajouter un compte\"."</string>
   <string name="account_shortcut_picker_name">Compte</string>
   <string name="account_shortcut_picker_title">Sélectionner compte</string>
   <string name="accounts_welcome">Vous pouvez configurer une messagerie pour la plupart des comptes en quelques étapes seulement.</string>
@@ -189,31 +189,30 @@
   <string name="alert_title_selected">Sélectionner tout</string>
   <string name="app_name">Mail</string>
   <string name="application_name">Instant Upload</string>
-  <string name="attachment_info_apk_install_disabled">"Les applications ne peuvent pas être installées directement depuis un mail. Enregistrez tout d\'abord cette application, puis installez-la à l\'aide de l\'application Téléchargements."</string>
+  <string name="attachment_info_apk_install_disabled">"Les applications ne peuvent pas être installées directement depuis un mail. Enregistrez tout d'abord cette application, puis installez-la à l'aide de l'application Téléchargements."</string>
   <string name="attachment_info_application_settings">Paramètres application</string>
   <string name="attachment_info_dialog_default_title">Informations sur la pièce jointe</string>
   <string name="attachment_info_dialog_wifi_title">Connexion Wi-Fi requise</string>
   <string name="attachment_info_malware">"Vous ne pouvez pas enregistrer ni ouvrir ce fichier, car ce type de pièce jointe est susceptible de contenir des logiciels malveillants."</string>
   <string name="attachment_info_no_intent">Aucune application installée n\'est en mesure d\'ouvrir cette pièce jointe. Essayez de télécharger une application appropriée depuis le Play Store.</string>
-  <string name="attachment_info_policy">"Impossible d\'enregistrer ou d\'ouvrir cette pièce jointe en raison des règles de sécurité de ce compte."</string>
+  <string name="attachment_info_policy">"Impossible d'enregistrer ou d'ouvrir cette pièce jointe en raison des règles de sécurité de ce compte."</string>
   <string name="attachment_info_sideload_disabled">Cette pièce jointe est une application. Vous devez sélectionner \"Sources inconnues\" dans Paramètres &gt; Applications avant de pouvoir l\'installer.</string>
-  <string name="attachment_info_unknown">"Impossible d\'ouvrir la pièce jointe."</string>
+  <string name="attachment_info_unknown">"Impossible d'ouvrir la pièce jointe."</string>
   <string name="attachment_info_wifi_only">Cette pièce jointe est trop volumineuse pour être téléchargée via un réseau pour mobile. Vous pourrez la télécharger lors de votre prochaine connexion à un réseau Wi-Fi.</string>
   <string name="attachment_info_wifi_settings">Paramètres Wi-Fi</string>
-  <string name="attachment_not_found">Impossible de télécharger la pièce jointe.</string>
+  <string name="attachment_not_found">"Impossible de télécharger la pièce jointe."</string>
   <string name="bcc">Cci :</string>
   <string name="body_hint">Composez un message</string>
   <string name="build_number">20080722-0001</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_action">Annuler</string>
   <string name="cannot_move_multiple_accounts_toast">"Impossible de déplacer le message car la sélection comprend plusieurs comptes."</string>
-  <string name="cannot_move_protocol_not_supported_toast">"Les messages ne peuvent pas être déplacés, car cette action n\'est pas compatible avec les comptes POP3."</string>
-  <string name="cannot_move_special_mailboxes_toast">"Impossible de déplacer les messages se trouvant dans les dossiers \"Brouillons\", \"Boîte d\'envoi\" et \"Messages envoyés\"."</string>
+  <string name="cannot_move_protocol_not_supported_toast">"Les messages ne peuvent pas être déplacés, car cette action n'est pas compatible avec les comptes POP3."</string>
+  <string name="cannot_move_special_mailboxes_toast">"Impossible de déplacer les messages se trouvant dans les dossiers \"Brouillons\", \"Boîte d'envoi\" et \"Messages envoyés\"."</string>
   <string name="category_general_preferences">Application</string>
   <string name="cc">Cc :</string>
   <string name="choose_attachment_dialog_title">Choisir une pièce jointe</string>
   <string name="choosertitle_sharevia">Partager via</string>
-  <string name="cleared_trusted_senders_message">"Effacer \"afficher les photos\", les photos dans les messages ne seront pas affiché automatiquement."</string>
   <string name="close_action">Fermer</string>
   <string name="completed_no_file">Fichier introuvable.</string>
   <string name="compose_action">Composer</string>
@@ -254,7 +253,7 @@
   <string name="dialog_sync_all_preparing">Préparation du transfert de %1$d photos et de %2$d vidéos...</string>
   <string name="dialog_sync_all_scanning">Recherche de fichiers...</string>
   <string name="dialog_sync_all_server_error">Un problème est survenu lors de la communication avec le serveur. Veuillez réessayer ultérieurement.</string>
-  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l\'application Mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, évènements d\'agenda, etc.)."</string>
+  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l'application Mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, évènements d'agenda, etc.)."</string>
   <string name="discard_action">Supprimer</string>
   <string name="done">OK</string>
   <string name="done_action">OK</string>
@@ -289,7 +288,7 @@
   <string name="general_preference_text_zoom_normal">Normale</string>
   <string name="general_preference_text_zoom_small">Petite</string>
   <string name="general_preference_text_zoom_tiny">Très petite</string>
-  <string name="general_preferences_clear_trusted_senders_summary">"Les images contenues dans les messages ne s\'afficheront pas automatiquement."</string>
+  <string name="general_preferences_clear_trusted_senders_summary">"Les images contenues dans les messages ne s'afficheront pas automatiquement."</string>
   <string name="general_preferences_clear_trusted_senders_title">Demander avant d\'afficher les images</string>
   <string name="header_label_general_preferences">Paramètres généraux</string>
   <string name="login_failed_ticker">Échec de la connexion au compte %s.</string>
@@ -308,6 +307,12 @@
   <string name="mailbox_name_display_sent">Éléments envoyés</string>
   <string name="mailbox_name_display_trash">Corbeille</string>
   <string name="mailbox_name_display_unread">Non lus</string>
+  <string name="mailbox_name_server_drafts">Brouillons</string>
+  <string name="mailbox_name_server_inbox">Boîte de réception</string>
+  <string name="mailbox_name_server_junk">Indésirable</string>
+  <string name="mailbox_name_server_outbox">Boîte d\'envoi</string>
+  <string name="mailbox_name_server_sent">Envoyé</string>
+  <string name="mailbox_name_server_trash">Corbeille</string>
   <string name="mailbox_preferences_header">Paramètres de synchronisation</string>
   <string name="mailbox_settings_action">Options de synchronisation</string>
   <string name="mailbox_settings_activity_title">Options de synchronisation</string>
@@ -315,9 +320,9 @@
   <string name="mailbox_settings_mailbox_check_frequency_label">Fréquence de consultation</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Jours à synchroniser</string>
   <string name="mailbox_shortcut_picker_title">Sélectionner dossier</string>
-  <string name="manager_activity_last_sync_format">\"Dernière synchronisation :
+  <string name="manager_activity_last_sync_format">"\"Dernière synchronisation :
 %1$s
-%2$s\"</string>
+%2$s\""</string>
   <string name="manager_do_not_upload">Ne pas transférer</string>
   <string name="manager_list_switcher_completed_format">Transferts terminés [%d]</string>
   <string name="manager_list_switcher_pending_format">Transferts en attente [%d]</string>
@@ -389,7 +394,7 @@ Cc : %4$s
   <string name="message_view_bcc_label">Cci :</string>
   <string name="message_view_cc_label">Cc :</string>
   <string name="message_view_date_label">Date :</string>
-  <string name="message_view_display_attachment_toast">"Impossible d\'afficher la pièce jointe."</string>
+  <string name="message_view_display_attachment_toast">"Impossible d'afficher la pièce jointe."</string>
   <string name="message_view_from_label">De :</string>
   <string name="message_view_invite_accept">" Oui"</string>
   <string name="message_view_invite_decline">" Non"</string>
@@ -409,7 +414,7 @@ Cc : %4$s
   <string name="message_view_show_invite_action">Inviter</string>
   <string name="message_view_show_message_action">Message</string>
   <string name="message_view_show_pictures_action">Afficher les images</string>
-  <string name="message_view_status_attachment_not_saved">"Impossible d\'enreg. pièce jointe."</string>
+  <string name="message_view_status_attachment_not_saved">"Impossible d'enreg. pièce jointe."</string>
   <string name="message_view_status_attachment_saved">PJ enregistrée sous %s.</string>
   <string name="message_view_subject_label">Objet :</string>
   <string name="message_view_to_label">À :</string>
@@ -417,11 +422,11 @@ Cc : %4$s
   <string name="more_than_999">&gt; 999</string>
   <string name="move_action">Déplacer</string>
   <string name="move_to_folder_dialog_title">Déplacer vers</string>
-  <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
+  <string name="multiple_new_message_notification_item">"<b>%1$s</b> %2$s"</string>
   <string name="next_action">Suivant</string>
   <string name="notification_multiple_new_messages_fmt">%1$d nouveaux messages</string>
   <string name="notification_to_account">à %1$s</string>
-  <string name="notify_activation_reminder">"Instant Upload n\'a pas encore été activé."</string>
+  <string name="notify_activation_reminder">"Instant Upload n'a pas encore été activé."</string>
   <string name="notify_paused">Transferts interrompus</string>
   <string name="notify_resolved">Transferts terminés</string>
   <string name="notify_uploads">Instant Upload</string>
@@ -498,7 +503,7 @@ Cc : %4$s
   <string name="preference_title_videos_upload_connectivity">Conditions de transfert</string>
   <string name="preference_title_videos_upload_connectivity_summary">Les paramètres de connectivité des photos sont actuellement utilisés</string>
   <string name="previous_action">Précédente</string>
-  <string name="provider_note_live">"Seuls certains comptes \"Plus\" disposent d\'un accès POP permettant à ce programme de se connecter. Si vous ne parvenez pas à vous connecter avec l\'adresse mail et le mot de passe corrects, vous ne possédez peut-être pas de compte payant \"Plus\". Pour accéder à ces comptes de messagerie, lancez le navigateur Web."</string>
+  <string name="provider_note_live">"Seuls certains comptes \"Plus\" disposent d'un accès POP permettant à ce programme de se connecter. Si vous ne parvenez pas à vous connecter avec l'adresse mail et le mot de passe corrects, vous ne possédez peut-être pas de compte payant \"Plus\". Pour accéder à ces comptes de messagerie, lancez le navigateur Web."</string>
   <string name="provider_note_t_online">Avant de configurer ce compte de messagerie, consultez le site Web de T-Online et créez un mot de passe d\'accès à la messagerie POP3.</string>
   <string name="quick_responses_empty_view">Aucune réponse rapide</string>
   <string name="read_action">Marquer comme lu</string>
@@ -568,8 +573,8 @@ Cc : %4$s
   <string name="waitinf_for_sync_message_2">Vos e-mails vont bientôt s\'afficher.</string>
   <string name="widget_all_mail">Boîte de réception combinée</string>
   <string name="widget_loading">Chargement...</string>
-  <string name="widget_no_accounts">"Vous n\'avez pas encore créé de compte de messagerie."</string>
-  <string name="widget_no_mailboxes">"Ce compte n\'est pas synchronisé. Réessayez plus tard."</string>
+  <string name="widget_no_accounts">"Vous n'avez pas encore créé de compte de messagerie."</string>
+  <string name="widget_no_mailboxes">"Ce compte n'est pas synchronisé. Réessayez plus tard."</string>
   <string name="widget_other_views">Appuyez pour changer.</string>
   <string name="widget_starred">Suivis</string>
   <string name="widget_touch_to_configure">Appuyez pour configurer.</string>
