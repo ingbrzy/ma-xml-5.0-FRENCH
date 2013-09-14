@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Supprimer les images sélectionnées ?</item>
+        <item quantity="one">Supprimer l'image sélectionnée ?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d éléments sélectionnés</item>
+        <item quantity="zero">0 élément sélectionné</item>
+        <item quantity="one">1 élément sélectionné</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d albums sélectionnés</item>
+        <item quantity="zero">0 album sélectionné</item>
+        <item quantity="one">1 album sélectionné</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d groupes sélectionnés</item>
+        <item quantity="zero">0 groupe sélectionné</item>
+        <item quantity="one">1 groupe sélectionné</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Rendre les albums disponibles hors-connexion.</item>
+        <item quantity="one">Rendre l'album disponible hors-connexion.</item>
+    </plurals>
+    <plurals name="number_of_items_in_slot">
+        <item quantity="other">%1$d images</item>
+        <item quantity="one">1 image</item>
+    </plurals>
+    <plurals name="number_of_folders_in_slot">
+        <item quantity="other">%1$d dossiers</item>
+        <item quantity="one">1 dossier</item>
+    </plurals>
+    <plurals name="albumset_count_string">
+        <item quantity="other">%1$d images</item>
+        <item quantity="one">1 image</item>
+    </plurals>
+</resources>
