@@ -5,7 +5,7 @@
   <string name="add_to_favorite">Ajouter aux favoris</string>
   <string name="add_to_playlist">Ajouter à la playlist</string>
   <string name="add_tracks">Ajouter des morceaux</string>
-  <string formatted="false" name="album_artist_format">%s , %s</string>
+  <string name="album_artist_format" formatted="false">%s , %s</string>
   <string name="album_display_settings">Afficher les pochettes d\'album</string>
   <string name="album_display_summary">Afficher la pochette de l\'album dans l\'interface du lecteur</string>
   <string name="album_download">Télécharger la pochette de l\'album</string>
@@ -21,7 +21,7 @@
   <string name="android_album_settings">Utiliser la pochette intégrée</string>
   <string name="android_album_summary">Afficher automatiquement la pochette de l\'album pourrait entraîner des erreurs</string>
   <string name="artist_albums">Tous les albums</string>
-  <string formatted="false" name="artist_details_format">%1$s, %2$s</string>
+  <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
   <string name="artist_edit">Artiste</string>
   <string name="artist_hot_audios">Populaire</string>
   <string name="artists_title">Artistes</string>
@@ -66,12 +66,13 @@
   <string name="download_all_track">Télécharger toutes les pistes</string>
   <string name="download_batch_start">Commencer tous les téléchargements</string>
   <string name="download_lyric_settings">Téléchargement de paroles auto</string>
-  <string name="download_lyric_summary">"Le téléchargement des paroles n\'utilise pas beaucoup de données, vous pouvez le désactiver afin de réduire la consommation de données"</string>
+  <string name="download_lyric_summary">"Le téléchargement des paroles n'utilise pas beaucoup de données, vous pouvez le désactiver afin de réduire la consommation de données"</string>
   <string name="download_processing">Téléchargement</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="empty_edit_hint">Information sur le morceau indisponible</string>
+  <string name="empty_track_list">Aucune liste de pistes</string>
   <string name="emptyplaylist">La playlist sélectionnée est vide.</string>
   <string name="enter_sleep_mode">Minuteur de mise en veille</string>
   <string name="equalizer">Égaliseur</string>
@@ -97,7 +98,7 @@
   <string name="filter_by_size_prefix">"Taille minimale : "</string>
   <string name="filter_by_size_summary">Filtrer les fichiers en fonction de leur taille</string>
   <string name="filter_notification">Le filtre a été activé, vous pouvez modifier ces paramètres dans les paramètres du filtre.</string>
-  <string formatted="false" name="folder_title_format">%s(%d)</string>
+  <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">Dossiers </string>
   <string name="frequentlyplayed_title">Joué fréquemment</string>
   <string name="hot_artists">Artistes populaires</string>
@@ -176,7 +177,6 @@
   <string name="playlist_deleted_message">Playlist supprimée.</string>
   <string name="playlist_favorite">Favoris</string>
   <string name="playlist_frequently_played">Joué fréquemment</string>
-  <string name="playlist_new">Créer une nouvelle liste de lecture</string>
   <string name="playlist_recently_added">Ajouté récemment</string>
   <string name="playlist_recently_played">Lu récemment</string>
   <string name="playlist_renamed_message">Playlist renommée.</string>
@@ -216,7 +216,7 @@
   <string name="sdcard_missing_message_nosdcard">Carte SD indisponible.</string>
   <string name="search_hint">Recherchez musique</string>
   <string name="search_settings_description">Artistes, albums et morceaux</string>
-  <string name="search_suggestion">"Suggestions de recherche : "</string>
+  <string name="search_suggestion">Suggestions de recherche : </string>
   <string name="search_title">Rechercher</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_folder">Choix des dossiers</string>
@@ -238,7 +238,7 @@
   <string name="start_to_download_album">Téléchargement de pochettes d\'album pour votre bibliothèque de musique</string>
   <string name="start_to_download_avatar">Téléchargement de l\'avatar de l\'artiste dans votre bibliothèque de musique</string>
   <string name="streamloadingtext">Connexion à %s...</string>
-  <string formatted="false" name="track_album_format">%s - %s</string>
+  <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_edit">Chanson</string>
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">Titres</string>

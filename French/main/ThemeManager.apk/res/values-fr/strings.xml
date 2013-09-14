@@ -7,7 +7,7 @@
   <string name="apply_font_btn_exclude">Appliquer sans la police d\'écriture</string>
   <string name="apply_font_btn_reboot">Appliquer et redémarrer</string>
   <string name="apply_font_tip">Le thème contient une police, un redémarrage est nécessaire pour l\'appliquer.</string>
-  <string name="apply_lockscreen_paper_tips">Le fond d\'écran de verrouillage est en cours d\'utilisation et ne peut pas être changé, le nouveau fond d\'écran de verrouillage ne sera pas visible.</string>
+  <string name="apply_lockscreen_paper_tips">"Le fond d'écran de verrouillage est en cours d'utilisation et ne peut pas être changé, le nouveau fond d'écran de verrouillage ne sera pas visible."</string>
   <string name="apply_theme_no_select_message">Veuillez sélectionner des composants.</string>
   <string name="backup_preference_title">Sauvegarder le thème</string>
   <string name="backup_theme_dialog_message">"Sauvegarder ce thème dans %1$s"</string>
@@ -23,6 +23,7 @@
   <string name="component_lockstyle_personal_title">Paramètres</string>
   <string name="component_select_title">%1$s composants sélectionnés</string>
   <string name="component_settings_title">Personnaliser le thème</string>
+  <string name="default_name">Par défaut</string>
   <string name="deleting">Suppression...</string>
   <string name="description_author">Auteur :</string>
   <string name="description_designer">Concepteur :</string>
@@ -38,10 +39,12 @@
   <string name="fail_to_add_account">Impossible d\'ajouter le compte</string>
   <string name="live_wallpaper">Fond d\'écran animé</string>
   <string name="loading">Chargement en cours...</string>
+  <string name="loading_resource_detail_fail">Impossible de charger la ressource !</string>
   <string name="loading_resource_detail_info">Chargement...</string>
   <string name="lockscreen_wallpaper">Écran de verrouillage</string>
   <string name="lockstyle_personal_settings">Personnalisation</string>
   <string name="long_ringtone_resource">Long</string>
+  <string name="maml_component_customization_title">Paramètres des composants</string>
   <string name="menu_refresh">Rafraîchir</string>
   <string name="mi_wallpaper">Fond d\'écran</string>
   <string name="mi_wallpaper_loading">Chargement du fond d\'écran...</string>
@@ -52,7 +55,7 @@
   <string name="resource_alarm_default">Alarme</string>
   <string name="resource_app_name">Navigateur de ressources</string>
   <string name="resource_apply">Appliquer</string>
-  <string name="resource_buy">"Acheter "</string>
+  <string name="resource_buy">Acheter </string>
   <string name="resource_can_not_selected">%1$s ne peut pas être sélectionné !</string>
   <string name="resource_comment_account_need_activitied">Votre compte n\'est pas activé, voulez-vous l\'activer maintenant ?</string>
   <string name="resource_comment_count">%1$s notes et %2$s commentaires (version %3$s)</string>
@@ -79,7 +82,7 @@
   <string name="resource_default_name">Ressource</string>
   <string name="resource_delete_all">Êtes-vous sûr de vouloir supprimer les %1$d ressources sélectionnées ?</string>
   <string name="resource_delete_confirm">Êtes-vous sûr de vouloir supprimer ces ressources ?</string>
-  <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string> 
+  <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string>
   <string name="resource_delta_update_successful">Patch de mise à jour réussi, sauvegarde de %1$s.</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_download">Télécharger</string>
@@ -112,8 +115,9 @@
   <string name="resource_title">Détail des ressources</string>
   <string name="resource_title_select_ringtone">Sélectionner la sonnerie</string>
   <string name="resource_update">MàJ</string>
+  <string name="resource_waiting_download">En attente de téléchargement...</string>
   <string name="restore_default_theme_alert">Vous êtes peut-être victime d\'une contrefaçon de thème, veuillez parcourir le market pour l\'acheter ou le re-télécharger.</string>
-  <string name="sdcard_status_changed_dialog_message">"L\'application va se fermer, veuillez la rouvrir pour actualiser les ressources."</string>
+  <string name="sdcard_status_changed_dialog_message">"L'application va se fermer, veuillez la rouvrir pour actualiser les ressources."</string>
   <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
   <string name="short_ringtone_resource">Court(&lt;5s)</string>
   <string name="theme_another_import_running">L\'importation est déjà en cours, veuillez patienter et réessayer</string>
@@ -160,6 +164,7 @@
   <string name="theme_import_item_delete_request_content">Le thème n\'a pas été mis à jour, vous pourrez l\'utiliser après l\'avoir mis à jour, ou le supprimer.</string>
   <string name="theme_import_item_delete_request_title">Le thème n\'est pas à jour</string>
   <string name="theme_import_item_importing">Mise à jour...</string>
+  <string name="theme_import_item_not_exist">L\'élément n\'existe pas</string>
   <string name="theme_import_item_not_upgraded">Non mis à jour</string>
   <string name="theme_import_item_reject_use">Le thème est en cours de mise à jour, veuillez patienter...</string>
   <string name="theme_import_item_waiting">En attente de</string>
@@ -177,7 +182,7 @@
   <string name="theme_sdcard_importing">Importation en cours</string>
   <string name="theme_select_others">Autres</string>
   <string name="theme_upgrade_request_cancel">Annuler</string>
-  <string name="theme_upgrade_request_content">"Vos thèmes locaux devraient être convertis pour en améliorer l\'efficacité. Ceci peut prendre quelques minutes et le téléphone pourrait sembler bloqué. Convertir les thèmes maintenant ?"</string>
+  <string name="theme_upgrade_request_content">Vos thèmes locaux devraient être convertis pour en améliorer l\'efficacité. Ceci peut prendre quelques minutes et le téléphone pourrait sembler bloqué. Convertir les thèmes maintenant ?</string>
   <string name="theme_upgrade_request_title">Le thème doit être mis à jour</string>
   <string name="theme_upgrade_request_yes">OK</string>
   <string name="third_party_pickers_activity_title">Définir %1$s</string>
@@ -189,7 +194,7 @@
   <string name="wallpaper_decoded_error">Impossible de décoder</string>
   <string name="wallpaper_loading_text">Chargement...</string>
   <string name="wallpaper_set_as_both">Définir pour les deux</string>
-  <string name="wallpaper_set_as_destop">"Définir comme fond d\'écran"</string>
+  <string name="wallpaper_set_as_destop">Définir comme fond d\'écran</string>
   <string name="wallpaper_set_as_lockscreen">Définir comme écran de verrouillage</string>
   <string name="wallpaper_settings">Paramètres du fond d\'écran</string>
 </resources>

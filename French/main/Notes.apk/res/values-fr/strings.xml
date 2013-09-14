@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="add_account_desc">Les notes peuvent être synchronisées avec votre compte Xiaomi. Souhaitez-vous vous connecter et synchroniser maintenant ?</string>
+  <string name="alert_action_edit_anyway">Continuer l\'édition</string>
   <string name="alert_edit_action_delete">Supprimer</string>
   <string name="alert_edit_action_update">Mise à jour</string>
   <string name="alert_message_delete_folders">Supprimer les %1$s dossiers sélectionnés ?</string>
@@ -21,7 +22,7 @@
   <string name="call_record_folder_name">Notes vocales</string>
   <string name="close">Fermer</string>
   <string name="default_folder_name">Notes</string>
-  <string name="dlg_desc_confirm_alarm_silent">L\'alarme et les notes ne sonneront pas en mode silencieux quand désactivé.</string> 
+  <string name="dlg_desc_confirm_alarm_silent">L\'alarme et les notes ne sonneront pas en mode silencieux quand désactivé.</string>
   <string name="dlg_title_confirm_alarm_silent">Voulez-vous réduire au silence les alarmes en mode silencieux ?</string>
   <string name="enable_sync">Synchroniser</string>
   <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Xiaomi %1$s, les synchroniser maintenant ?</string>
@@ -75,7 +76,7 @@
   <string name="pref_desc_alarm_when_silent">Les alarmes ne sonneront pas en mode silencieux</string>
   <string name="pref_desc_mode_grid">Grille</string>
   <string name="pref_desc_mode_list">Liste</string>
-  <string name="pref_title_alarm_when_silent">Alarme en mode silencieux</string> 
+  <string name="pref_title_alarm_when_silent">Alarme en mode silencieux</string>
   <string name="pref_title_common">Paramètres communs</string>
   <string name="pref_title_data_export">Exportation de données</string>
   <string name="pref_title_data_export_to_sdcard">Exporter les notes sur la carte SD</string>
@@ -91,10 +92,12 @@
   <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Export réussi</string>
   <string name="time_picker_dialog_title">Réglage du rappel</string>
+  <string name="toast_folder_privacy_mode">"Impossible de modifier le dossier en mode privé"</string>
   <string name="toast_message_add_image_fail">Impossible d\'insérer l\'image !</string>
+  <string name="toast_note_privacy_mode">"Impossible de modifier la note en mode privé"</string>
   <string name="toast_privacy_mode">Impossible d\'éditer une note en mode privé</string>
-  <string name="toast_reach_text_limit_attachment">Le contenu de la note est trop long pour ajouter de nouvelles pièces jointes</string> 
-  <string name="toast_reach_text_limit_truncate">"Le contenu de la note a été ciselée parce qu\'il était trop long"</string>
+  <string name="toast_reach_text_limit_attachment">Le contenu de la note est trop long pour ajouter de nouvelles pièces jointes</string>
+  <string name="toast_reach_text_limit_truncate">"Le contenu de la note a été ciselée parce qu'il était trop long"</string>
   <string name="widget_havenot_content">Aucune note associée, cliquez pour associer une note.</string>
   <string name="widget_under_visit_mode">Mode privé, impossible de voir le contenu de la note</string>
 </resources>
