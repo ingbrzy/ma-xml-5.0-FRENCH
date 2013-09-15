@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MIUIStats</string>
     <string name="main_title">"Données d'utilisation anonymes"</string>
@@ -16,5 +16,5 @@
     <string name="notification_ticker">Envoi de données anonymes demandé</string>
     <string name="notification_title">Statistiques MIUIAndroid</string>
     <string name="notification_desc">"Activer l'envoi d'informations anonymes"</string>
-	<string name="main_link">&lt;a href=http://stats.miuiandroid.com//>PLus d\'informations&lt;/a></string>
+	<string name="main_link">&lt;a href=http://stats.miuiandroid.com//>Plus d\'informations&lt;/a></string>
 </resources>
