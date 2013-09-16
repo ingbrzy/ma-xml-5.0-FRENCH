@@ -69,7 +69,7 @@
   <string name="resource_comment_invalid">Veuillez toucher les étoiles pour donner une note</string>
   <string name="resource_comment_name_default">Utilisateur %1$s</string>
   <string name="resource_comment_publish">Envoyer</string>
-  <string name="resource_comment_rate">Note:</string>
+  <string name="resource_comment_rate">Note :</string>
   <string name="resource_comment_sending">Soumission du commentaire...</string>
   <string name="resource_comment_title">Commentaires : %1$s</string>
   <string name="resource_comment_upload_data_invalid">Désolé, le commentaire soumis n\'est pas valide</string>
