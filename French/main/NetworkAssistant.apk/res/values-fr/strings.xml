@@ -143,9 +143,9 @@ Utilisé"</string>
   <string name="unknown">Inconnu</string>
   <string name="unknown_free_traffic_hint">"Si vous ne connaissez pas votre quota de données, merci de vous renseigner auprès de votre opérateur"</string>
   <string name="unknown_free_traffic_text">"Je ne connais pas mon quota de données"</string>
-  <string name="unknown_free_traffic_title">Quota de données inconnue</string>
+  <string name="unknown_free_traffic_title">Quota de données inconnu</string>
   <string name="unknown_location">Lieu inconnu</string>
-  <string name="unknown_traffic_hint">Quota de données inconnue, voulez-vous la renseigner ?</string>
+  <string name="unknown_traffic_hint">Quota de données inconnu, voulez-vous le renseigner ?</string>
   <string name="unknown_version">Version inconnue</string>
   <string name="update_fail">La mise à jour a échoué</string>
   <string name="update_no_network">La mise à jour a échoué, veuillez vérifier la connexion réseau.</string>
