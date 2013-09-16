@@ -617,7 +617,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="widget_type_photo">Sélectionner une image</string>
   <string name="widget_type_shuffle">Lecture aléatoire des images</string>
   <string name="width">Largeur</string>
-  <string name="wifi_disconnected_content">Le Wi-Fi est déconnecté, le transfert peu se faire via la connexion mobile, souhaitez-vous continuer ?</string>
+  <string name="wifi_disconnected_content">Le Wi-Fi est déconnecté, le transfert peut se faire via la connexion mobile, souhaitez-vous continuer ?</string>
   <string name="wifi_disconnected_title">Wi-Fi déconnecté</string>
   <string name="wifi_not_connected_cancel">Annuler</string>
   <string name="wifi_not_connected_continue">Continuer</string>
