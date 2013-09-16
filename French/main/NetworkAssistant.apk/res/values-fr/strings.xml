@@ -51,7 +51,7 @@
   <string name="dialog_button_adjust">Ajuster</string>
   <string name="disable_background_connect_warning">Lorsque la connexion de données en arrière-plan est limitée, certaines applications ou services peuvent ne pas s\'exécuter via le réseau mobile. Êtes-vous sûr de vouloir fermer ?</string>
   <string name="disable_background_mobile_connect">Désactiver les données en arrière-plan</string>
-  <string name="edit_frame_free_traffic_title">Modifier l\'allocation du trafic</string>
+  <string name="edit_frame_free_traffic_title">Modifier le quota du trafic</string>
   <string name="edit_frame_month_start_title">Date de début de facturation</string>
   <string name="edit_frame_warning_title">Seuil d\'avertissement</string>
   <string name="finish_traffic_settings_hint">Paramètres sauvegardés !</string>
@@ -64,7 +64,7 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="force_stop_dlg_text">Le fait de forcer l\'arrêt d\'une application peut entraîner des erreurs</string>
   <string name="force_stop_dlg_title">Forcer l\'arrêt</string>
   <string name="i_known_button">OK</string>
-  <string name="input_hint">Saisir votre allocation</string>
+  <string name="input_hint">Saisir votre quota</string>
   <string name="loading_app">Chargement...</string>
   <string name="manual_input_used_traffic_hint">Saisir le trafic utilisé</string>
   <string name="manual_input_used_traffic_title">Saisir manuellement le trafic utilisé</string>
@@ -141,11 +141,11 @@ Total"</string>
   <string name="traffic_used_status">"%s
 Utilisé"</string>
   <string name="unknown">Inconnu</string>
-  <string name="unknown_free_traffic_hint">"Si vous ne connaissez pas votre allocation de données, merci de vous renseigner auprès de votre opérateur"</string>
-  <string name="unknown_free_traffic_text">"Je ne connais pas mon allocation de données"</string>
-  <string name="unknown_free_traffic_title">Allocation de données inconnue</string>
+  <string name="unknown_free_traffic_hint">"Si vous ne connaissez pas votre quota de données, merci de vous renseigner auprès de votre opérateur"</string>
+  <string name="unknown_free_traffic_text">"Je ne connais pas mon quota de données"</string>
+  <string name="unknown_free_traffic_title">Quota de données inconnue</string>
   <string name="unknown_location">Lieu inconnu</string>
-  <string name="unknown_traffic_hint">Allocation de données inconnue, voulez-vous la renseigner ?</string>
+  <string name="unknown_traffic_hint">Quota de données inconnue, voulez-vous la renseigner ?</string>
   <string name="unknown_version">Version inconnue</string>
   <string name="update_fail">La mise à jour a échoué</string>
   <string name="update_no_network">La mise à jour a échoué, veuillez vérifier la connexion réseau.</string>

@@ -165,7 +165,7 @@
   <string name="download_pending">Début du téléchargement...</string>
   <string name="download_sdcard_busy_dlg_msg">La mémoire de stockage USB n\'est pas disponible. Pour autoriser les téléchargements, appuyez sur \"Désactiver la mémoire de stockage USB\" dans les notifications.</string>
   <string name="download_sdcard_busy_dlg_title">Mémoire USB non disponible</string>
-  <string name="download_video_alert_message">Si votre forfait a des frais de données, télécharger des vidéos peut consommer votre allocation, voulez-vous continuer ?</string>
+  <string name="download_video_alert_message">Si votre forfait a des frais de données, télécharger des vidéos peut consommer votre quota, voulez-vous continuer ?</string>
   <string name="download_video_alert_title">Avertissement de téléchargement !</string>
   <string name="download_video_menu_dialog_positive_txt">Installer</string>
   <string name="download_video_menu_dialog_summary">Vous devez installer MiuiVideo avant d\'utiliser cette fonction</string>
