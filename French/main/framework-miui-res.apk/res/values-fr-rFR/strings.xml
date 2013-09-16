@@ -5,7 +5,7 @@
   <string name="activating">Activation...</string>
   <string name="alarm_message_12_hour_formate">h:mm aa</string>
   <string name="alwaysUsePrompt">Définir par défaut (ne plus demander)</string>
-  <string name="android_lockscreen_glogin_instructions">Pour déverrouiller connectez vous avec votre compte</string>
+  <string name="android_lockscreen_glogin_instructions">Pour déverrouiller, connectez-vous avec votre compte</string>
   <string name="app_no_notification">aucune notification</string>
   <string name="app_notificaiton_on_notificationBar">Barre de notifications</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Barre d\'état et de notification</string>
@@ -398,7 +398,7 @@ Réessayer dans %d secondes.\"</string>
   <string name="perm_send_push_lab">Envoyer un message push</string>
   <string name="perm_tigger_toggle_dspt">Permettre aux applications d\'utiliser les boutons du widget de la barre d\'état</string>
   <string name="perm_tigger_toggle_lab">Utiliser les boutons du widget de la barre d\'état</string>
-  <string name="perm_use_find_device">Tracer le périphérique</string>
+  <string name="perm_use_find_device">Localiser l\'appareil</string>
   <string name="permdesc_accessNote">Autorise l\'application à lire et modifier vos notes stockées sur votre téléphone. Les applications malicieuses peuvent en profiter pour les envoyer à d\'autres personnes ou les supprimer.</string>
   <string name="permlab_accessNote">Notes d\'accès</string>
   <string name="pin_operation_failed">L\'opération PIN a échoué.</string>
