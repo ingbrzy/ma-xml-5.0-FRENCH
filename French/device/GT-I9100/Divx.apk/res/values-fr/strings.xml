@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Paramètres licence</string>
+  <string name="license_settings_title">Paramètres licence</string>
+  <string name="expiry_reminder">Rappel de la date d\'expiration</string>
+  <string name="roaming_network">Réseau d\'itinérance</string>
+  <string name="roaming_network_summary">Téléchargement auto</string>
+  <string name="roaming_option_auto_download">Téléchargement auto</string>
+  <string name="roaming_option_manual">Manuel</string>
+  <string name="roaming_option_always_reject">Toujours refuser</string>
+  <string name="roaming_network_dialog_title">Réseau d\'itinérance</string>
+  <string name="dialog_cancel_button">Annuler</string>
+  <string name="dialog_ok_button">OK</string>
+  <string name="dialog_deregistration_button">OK</string>
+  <string name="dialog_registration_button">OK</string>
+  <string name="dialog_cancel_registration_button">Annuler</string>
+  <string name="dialog_ok_registration_button">OK</string>
+  <string name="expiry_reminder_summary">Téléchargement auto</string>
+  <string name="divx_registration_summary">Processus d\'enregistrement DivX®</string>
+  <string name="clear_license">Supprimer les licences</string>
+  <string name="clear_license_summary">Supprimer toutes les licences DRM</string>
+  <string name="unable_to_remove_license">Impossible d\'effacer licences</string>
+  <string name="all_licenses_are_clearing">Suppression...</string>
+  <string name="all_licenses_are_removed">Supprimé</string>
+  <string name="clear_license_popup">\"Les contenus nécessitant des licences doivent être achetés de nouveau pour être utilisés.
+Supprimer toutes les licences ?\"</string>
+  <string name="divx_vod">DivX® VOD</string>
+  <string name="divx_registration">Enregistrer</string>
+  <string name="divx_deregistration">Annuler l\'enregistrement</string>
+  <string name="divx_registration_info">Vous devez enregistrer votre appareil pour pouvoir lire vos vidéos protégées DivX®.</string>
+  <string name="divx_registration_code">Code d\'enregistrement : %s</string>
+  <string name="divx_register_website">Enregistrez-vous sur : %s</string>
+  <string name="divx_deregistration_code">Code de désenregistrement : %s</string>
+  <string name="divx_deregister_website">Désenregistrez-vous sur : %s</string>
+  <string name="divx_deregistration_info">Continuer l’enregistrement ?</string>
+  <string name="dialog_deregister_confirmation_message">Votre appareil est déjà enregistré. Etes-vous sûr de vouloir vous désenregistrer ?</string>
+</resources>

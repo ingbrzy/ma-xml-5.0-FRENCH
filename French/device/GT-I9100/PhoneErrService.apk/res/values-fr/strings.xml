@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Erreur</string>
+    <string name="app_name">Erreur</string>
+    <string name="ok">OK</string>
+    <string name="sms_fdn_title">Erreur</string>
+    <string name="sms_fdn_body">Numéro FDN restreint</string>
+    <string name="sms_fdn_restricted">Numéro FDN restreint</string>
+    <string name="sim_not_inserted">Insérer carte SIM</string>
+    <string name="sdcard_copy_err">Echec de la copie</string>
+    <string name="data_copy_err">Erreur de copie des données</string>
+    <string name="sim_crash_title">Erreur carte SIM</string>
+    <string name="sim_crash_text">Vérifiez votre carte SIM ou contactez le service client</string>
+    <string name="unknown_err">Erreur inconnue</string>
+    <string name="sim_removed_text">Carte SIM retirée. Redémarrez le téléphone</string>
+    <string name="sim_removed_title">Carte SIM retirée</string>
+    <string name="sim_permernent_title">Echec carte SIM</string>
+    <string name="sim_permernent_blocked">Code PUK bloqué</string>
+    <string name="perso_blocked_title">"Une erreur s'est produite lors du déverrouillage du réseau"</string>
+    <string name="perso_blocked_text">Code de déverrouillage du réseau bloqué</string>
+    <string name="dialog_ok">OK</string>
+</resources>
