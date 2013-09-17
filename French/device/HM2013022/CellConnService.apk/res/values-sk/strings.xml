@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Služby siete</string>
+<string name="button_ok">Ok</string>
+<string name="button_cancel">Zrušiť</string>
+<string name="confirm_radio_title">SIM vypnutá</string>
+<string name="confirm_radio_msg">%1$s je vypnutá. Chcete zapnúť túto SIM kartu?</string>
+<string name="confirm_radio_flight_mode_on_and_msg">Režim lietadlo je aktivovaný</string>
+<string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s je zapnutá. Chcete deaktivovať režim lietadlo a aktivovať SIM kartu?</string>
+<string name="confirm_radio_flight_mode_on_sim_on_msg">Režim lietadlo je aktívny. Chcete deaktivovať režim lietadlo?</string>
+<string name="confirm_radio_msg_single">Režim lietadlo je zapnutý. Chcete ho deaktivovať?</string>
+<string name="confirm_pin_title">SIM zamknutá</string>
+<string name="confirm_pin_msg">Vybraná SIM karta je uzamknutá. Je nutné ju najskôr odomnkúť.</string>
+<string name="confirm_simmelock_title">SIM ME zamknutá</string>
+<string name="confirm_simmelock_msg">Vybraný SIM slot je uzamknutý. Je nutné ho najskôr odomnkúť.</string>
+<string name="confirm_fdn_title">FDN zapnuté</string>
+<string name="confirm_fdn_msg">Pevná predvoľba je aktivovaná.</string>
+<string name="confirm_roaming_title">Varovanie pri roamingu</string>
+<string name="confirm_roaming_msg">Táto SIM karta používa roaming. K dispozícii nie je žiadna lokálna SIM. Chcete pokračovať?</string>
+<string name="confirm_roaming_withPrefer_msg">Táto SIM karta používa roaming. Chcete pokračovať s lokálnou SIM?</string>
+<string name="confirm_roaming_lbutton">Pokračovať</string>
+<string name="confirm_roaming_rbutton">Zrušiť</string>
+<string name="confirm_roamingWithPrefer_lbutton">Lokálna SIM</string>
+<string name="confirm_roamingWithPrefer_rbutton">Roamingová SIM</string>
+<string name="confirm_radio_lbutton">Zapnúť</string>
+<string name="confirm_unlock_lbutton">Odomknúť</string>
+<string name="confirm_unlock_fail">Operácia zrušená</string>
+<string name="confirm_turnon_radio_fail">Operácia zrušená</string>
+<string name="confirm_permit_roaming_fail">Zrušili ste túto akciu pre roamingovú SIM</string>
+<string name="confirm_sim_locked_message">SIM karta je trvalo uzamknutá</string>
+<string name="confirm_slot_locked_message">Slot je trvalo uzamknutý</string>
+</resources>

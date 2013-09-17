@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>Len EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>Len WCDMA</item>
+        <item>Len GSM</item>
+        <item>Preferované GSM/WCDMA</item>
+    </string-array>
+    <string-array name="call_reject_dialog_array">
+        <item>Kontakty</item>
+        <item>Zoznam hovorov</item>
+    </string-array>
+    <string-array name="call_reject_mode_entries">
+        <item>Vypnuté</item>
+        <item>Všetky čísla</item>
+        <item>Zoznam blokovaných</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (auto)</item>
+        <item>Len TD-SCDMA</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto)</item>
+        <item>Len WCDMA</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (auto)</item>
+        <item>Len TD-SCDMA</item>
+        <item>Len GSM</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto)</item>
+        <item>Len WCDMA</item>
+        <item>Len GSM</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>Dual</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_mode_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>Dual</item>
+    </string-array>
+    <string-array name="absent_num">
+        <item>ABSENT NUMBER</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">CellConnectionService</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="confirm_radio_title">SIM éteinte</string>
+    <string name="confirm_radio_msg">%1$s est éteinte. Voulez vous allumer la SIM?</string>
+    <string name="confirm_radio_msg_single">Airplane mode est allumé, voulez vous l éteindre?</string>
+    <string name="confirm_pin_title">SIM verrouillée</string>
+    <string name="confirm_pin_msg">La SIM est maintenant vérrouillée.Merci de la dévérouiller.</string>
+    <string name="confrim_simmelock_title">SIM ME verrouillée</string>
+    <string name="confirm_simmelock_msg">La SIM séléctionnée est vérrouillée.Merci de la dévérouiller.</string>
+    <string name="confirm_fdn_title">FDN actif</string>
+    <string name="confirm_fdn_msg">Le numéro de composition fixe est activé.</string>
+    <string name="confirm_roaming_title">Alerte itinérance</string>
+    <string name="confirm_roaming_msg">La carte SIM que vous vous apprêtez à utiliser est désormais itinérante. Pas de carte SIM locale disponible. Voulez-vous continuer?</string>
+    <string name="confirm_roaming_withPrefer_msg">La carte SIM que vous vous apprêtez à utiliser est désormais itinérante. Voulez-vous continuer via la carte SIM locale?</string>
+    <string name="confirm_roaming_lbutton">Continuer</string>
+    <string name="confirm_roaming_rbutton">Annuler</string>
+    <string name="confirm_roamingWithPrefer_lbutton">Local SIM</string>
+    <string name="confirm_roamingWithPrefer_rbutton">Itinérante SIM</string>
+    <string name="confirm_radio_lbutton">Allumer</string>
+    <string name="confirm_unlock_lbutton">Dévérouiller</string>
+    <string name="confirm_disable_lbutton">Eteindre</string>
+    <string name="confirm_unlock_fail">Operation annuler</string>
+    <string name="confirm_turnon_radio_fail">Operation annuler</string>
+    <string name="confirm_permit_roaming_fail">Vous annulez cette action sur l itinérance</string>
+    <string name="confirm_sim_locked_message">La SIM a été verrouillé de façon permanente</string>
+    <string name="confirm_slot_locked_message">Le slot a été verrouillé de façon permanente</string>
+</resources>

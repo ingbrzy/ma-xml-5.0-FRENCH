@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sleep_duration_values">
+        <item>15 minút</item>
+        <item>30 minút</item>
+        <item>45 minút</item>
+        <item>1 hodina</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Premenovať</item>
+        <item>Vybrať automaticky</item>
+        <item>Odstrániť</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Získať parametre stanice</item>
+        <item>Get Station Parameters Repeat 20 times</item>
+        <item>Get Search station parameters</item>
+        <item>Get FM Band sweep parameters</item>
+        <item>Configure FM Search Parameters</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Set FM RSSI Delta</item>
+        <item>Set Signal Threshold</item>
+        <item>RF Statistics</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Select the option</item>
+        <item>Configure FM Search parameters</item>
+        <item>RF Statistics</item>
+    </string-array>
+</resources>
