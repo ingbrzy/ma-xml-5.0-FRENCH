@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">No data connection for %s minutes</item>
-        <item quantity="one">No data connection for %s minute</item>
-    </plurals>
-    <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">The phone will be in Emergency Callback mode for %s minutes. While in this mode no applications using a data connection can be used. Do you want to exit now?</item>
-        <item quantity="one">The phone will be in Emergency Callback mode for %s minute. While in this mode no apps using a data connection can be used. Do you want to exit now?</item>
-    </plurals>
-    <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">"The selected action isn't available while in the Emergency Callback mode. The phone will be in this mode for %s minutes. Do you want to exit now?"</item>
-        <item quantity="one">"The selected action isn't available while in the Emergency Callback mode. The phone will be in this mode for %s minute. Do you want to exit now?"</item>
-    </plurals>
+  <plurals name="phone_in_ecm_notification_time">
+    <item quantity="other">Aucune connexion de données pendant %s minutes</item>
+    <item quantity="one">Aucune connexion de données pendant %s minute</item>
+  </plurals>
+  <plurals name="alert_dialog_exit_ecm">
+    <item quantity="other">Le téléphone sera en mode appel d\'urgence pendant %s minutes. Dans ce mode, aucune application utilisant une connexion de données ne pourra être utilisée. Voulez-vous en sortir maintenant ?</item>
+    <item quantity="one">Le téléphone sera en mode appel d\'urgence pendant %s minute. Dans ce mode, aucune application utilisant une connexion de données ne pourra être utilisée. Voulez-vous en sortir maintenant ?</item>
+  </plurals>
+  <plurals name="alert_dialog_not_avaialble_in_ecm">
+    <item quantity="other">L\'action sélectionnée n\'est pas disponible en mode appel d\'urgence. Le téléphone sera dans ce mode pendant %s minutes. Voulez-vous en sortir maintenant ?</item>
+    <item quantity="one">L\'action sélectionnée n\'est pas disponible en mode appel d\'urgence. Le téléphone sera dans ce mode pendant %s minute. Voulez-vous en sortir maintenant ?</item>
+  </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">" %1$d items selected"</item>
-        <item quantity="zero">%1$d item selected</item>
-        <item quantity="one">%1$d item selected</item>
+        <item quantity="other">" %1$d contacts sélectionnés"</item>
+        <item quantity="zero">aucun contact sélectionné</item>
+        <item quantity="one">1 contact sélectionné</item>
     </plurals>
 </resources>
