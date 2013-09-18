@@ -121,7 +121,7 @@
   <string name="station_edit">Modifier</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="station_move">Déplacer</string>
-  <string name="station_name_already_used">Ce nom de station est déjà utilisé,  veuillez choisir un autre nom</string>
+  <string name="station_name_already_used">Ce nom de station est déjà utilisé, veuillez choisir un autre nom</string>
   <string name="stations_list">Liste des stations</string>
   <string name="stations_list_empty">La liste des stations est vide</string>
   <string name="status_recording">%s</string>
@@ -131,7 +131,7 @@
   <string name="test_run">Exécutez le Test</string>
   <string name="title_select_station">Sélectionnez la Station - %s</string>
   <string name="toast_added_to_presets">Ajouté aux présélections</string>
-  <string name="toast_channel_searched">%1$d stations ont été scanné.</string>
+  <string name="toast_channel_searched">%1$d stations ont été scannées.</string>
   <string name="toast_delete_station">%s MHz a été supprimée.</string>
   <string name="toast_edit_station">Les changements ont été enregistrés</string>
   <string name="toast_removed_from_presets">Retiré des présélections</string>
