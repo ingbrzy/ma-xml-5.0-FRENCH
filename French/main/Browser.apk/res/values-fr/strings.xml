@@ -20,7 +20,7 @@
   <string name="accessibility_button_smaller">Plus petit</string>
   <string name="accessibility_button_stop">Arrêter le chargement de la page</string>
   <string name="accessibility_button_tabs">Onglets</string>
-  <string name="accessibility_button_uaswitch">Changer d\'agent utilisateur</string>
+  <string name="accessibility_button_uaswitch">Changer l\'User agent</string>
   <string name="accessibility_button_voice">Démarrer la recherche vocale</string>
   <string name="accessibility_state_frozen">Page enregistrée</string>
   <string name="accessibility_state_incognito">Page de navigation privée</string>
@@ -575,7 +575,7 @@
   <string name="too_many_windows_dialog_title">Limite d\'onglets ouverts atteinte</string>
   <string name="ua_switcher_desktop">Voir version ordinateur</string>
   <string name="uploads_disabled">Les transferts de fichiers sont désactivés.</string>
-  <string name="url_copy_done">URL copié</string>
+  <string name="url_copy_done">URL copiée</string>
   <string name="url_hint">Rechercher ou entrer adresse</string>
   <string name="username">Nom</string>
   <string name="view_certificate">Afficher le certificat</string>

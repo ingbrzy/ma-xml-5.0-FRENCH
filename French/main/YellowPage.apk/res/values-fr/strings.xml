@@ -72,8 +72,8 @@
   <string name="recharge_select_money_title">Veuillez sélectionner une valeur de recharge</string>
   <string name="recharge_status_description">État :</string>
   <string name="recharge_title">Recharger</string>
-  <string name="recharge_user_confirm_summary">\"Vous serez facturé %1$s pour %2$s RMB
-Montant total: %3$s RMB\"</string>
+  <string name="recharge_user_confirm_summary">"Vous serez facturé %1$s pour %2$s RMB
+Montant total: %3$s RMB"</string>
   <string name="recharge_user_confirm_title">Confirmer</string>
   <string name="scan">Scanner</string>
   <string name="selected_category_format">%1$s(%2$d on marqué, cliquez pour approuver)</string>

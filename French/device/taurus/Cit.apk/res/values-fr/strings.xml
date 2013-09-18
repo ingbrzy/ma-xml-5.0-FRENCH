@@ -63,11 +63,11 @@
   <string name="cit_fm_open_2">FM - 107,9</string>
   <string name="cit_fm_open_bluetooth">Activation Bluetooth...</string>
   <string name="cit_fm_start_service">Activez la Radio</string>
-  <string name="cit_front_camera_check_summary">\"Test d\'étapes:
+  <string name="cit_front_camera_check_summary">"Test d\'étapes:
 1.Appuyez sur le bouton appareil photo pour ouvrir le système caméra/appareil photo
 2.Prenez une photo
 3.Appuyez sur OK, Le système enregistrera automatiquement l\'image
-4.Vous pouvez regarder la photo, lorsque vous êtes satisfait, vous pouvez la garder ou la supprimer\"</string>
+4.Vous pouvez regarder la photo, lorsque vous êtes satisfait, vous pouvez la garder ou la supprimer"</string>
   <string name="cit_front_camera_check_title">Tester l\'appareil photo (face avant)</string>
   <string name="cit_gps_check_summary">Ce test affichera les informations GPS</string>
   <string name="cit_gps_check_title">Test du GPS</string>

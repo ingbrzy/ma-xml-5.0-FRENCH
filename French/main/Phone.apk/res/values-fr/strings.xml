@@ -457,10 +457,10 @@
   <string name="fdn_miui">Numérotation fixe</string>
   <string name="fdn_summary_miui">Les options ci-dessus sont désactivées si le FDN est activé</string>
   <string name="fdn_unavailable">Service FDN indisponible</string>
-  <string name="fw_change_failed">\"Impossible de modifier le numéro de transfert.
-Veuillez contacter votre opérateur si le problème persiste.\"</string>
-  <string name="fw_get_in_vm_failed">\"Impossible de récupérer et d\'enregistrer les paramètres actuels du numéro de transfert.
-Voulez-vous tout de même changer de fournisseur ?\"</string>
+  <string name="fw_change_failed">"Impossible de modifier le numéro de transfert.
+Veuillez contacter votre opérateur si le problème persiste."</string>
+  <string name="fw_get_in_vm_failed">"Impossible de récupérer et d\'enregistrer les paramètres actuels du numéro de transfert.
+Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="general_news_settings">Actualités générales</string>
   <string name="get_pin2">Saisir le code PIN2</string>
   <string name="get_smsc_address_error_miui">Impossible d\'obtenir le numéro du centre SMS, veuillez recommencer plus tard.</string>

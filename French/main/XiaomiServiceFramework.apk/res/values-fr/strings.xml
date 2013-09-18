@@ -33,8 +33,8 @@
   <string name="bankcall_denom_number">%1$s RMB</string>
   <string name="bankcall_error_card">Veuillez entrer un numéro de compte bancaire valide</string>
   <string name="bankcall_error_card_info">Veuillez entrer des informations de compte bancaire valides</string>
-  <string name="bankcall_hint">\"Ce service est autorisé par Unionpay et 
-a plusieurs encodages pour assurer votre sécurité financière\"</string>
+  <string name="bankcall_hint">"Ce service est autorisé par Unionpay et 
+a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="bankcall_id_card">Carte d\'identité</string>
   <string name="bankcall_id_card_hint">"Carte d'identité correspondant au compte bancaire"</string>
   <string name="bankcall_merchant">Récepteur :</string>
@@ -120,8 +120,8 @@ a plusieurs encodages pour assurer votre sécurité financière\"</string>
   <string name="error_server_summary">Erreur du serveur, veuillez réessayer plus tard</string>
   <string name="error_server_title">Erreur de serveur</string>
   <string name="error_sim_not_ready">Carte SIM non prête</string>
-  <string name="error_too_frequent_visits_summary">\"Vous essayez de visiter trop souvent. 
-Veuillez réessayer après cinq minutes\"</string>
+  <string name="error_too_frequent_visits_summary">"Vous essayez de visiter trop souvent. 
+Veuillez réessayer après cinq minutes"</string>
   <string name="error_too_frequent_visits_title">Avertissement !</string>
   <string name="error_unknown">Erreur inconnue: %1$s</string>
   <string name="error_user_id_mismatch_summary">Veuillez vérifier les détails de votre compte et essayer à nouveau</string>
@@ -152,8 +152,8 @@ Veuillez réessayer après cinq minutes\"</string>
   <string name="giftcard_denom_frozen">MiCredit(s) gelés</string>
   <string name="giftcard_empty">Pas de carte-cadeau</string>
   <string name="giftcard_expire">%1$s-%2$s-%3$s expiré</string>
-  <string name="giftcard_hint">\"MiCredits en carte-cadeau dépensés en premier
-et ne peuvent être utilisés si expirés\"</string>
+  <string name="giftcard_hint">"MiCredits en carte-cadeau dépensés en premier
+et ne peuvent être utilisés si expirés"</string>
   <string name="giftcard_record">MiCredit reçus</string>
   <string name="giftcard_value">(%1$s MiCredit carte-cadeau)</string>
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
@@ -301,8 +301,8 @@ Vous pouvez faire autre chose...\""</string>
   <string name="progress_success_recharge_summary">Balance du compte : %1$s MiCredits</string>
   <string name="progress_success_recharge_title">Recharge de %1$s MiCredits effectuée</string>
   <string name="progress_voucher_creating">Mise à jour MiCredit...</string>
-  <string name="progress_warning_check">\"Pas encore mis à jour !  
-Nous vérifierons pour vous dans les deux jour ouvrables\"</string>
+  <string name="progress_warning_check">"Pas encore mis à jour !  
+Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt : 
 1. Contactez le service clientèle sur : %1$s 
 2. Fournir ce numéro de série : %2$s</string>

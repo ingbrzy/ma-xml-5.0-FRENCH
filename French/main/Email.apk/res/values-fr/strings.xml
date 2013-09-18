@@ -97,15 +97,15 @@
   <string name="account_setup_failed_certificate_required">Certificat client requis. Voulez-vous vous connecter au serveur avec le certificat client ?</string>
   <string name="account_setup_failed_check_credentials_message">Erreur du serveur. Veuillez vérifier votre nom d\'utilisateur et votre mot de passe, puis réessayer.</string>
   <string name="account_setup_failed_dlg_auth_message">Nom d\'utilisateur ou mot de passe incorrect.</string>
-  <string name="account_setup_failed_dlg_auth_message_fmt">\"Nom d\'utilisateur ou mot de passe incorrect.
-(%s)\"</string>
+  <string name="account_setup_failed_dlg_auth_message_fmt">"Nom d\'utilisateur ou mot de passe incorrect.
+(%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">"Impossible d'établir une connexion sécurisée avec le serveur."</string>
-  <string name="account_setup_failed_dlg_certificate_message_fmt">\"Impossible d\'établir une connexion sécurisée avec le serveur.
-(%s)\"</string>
+  <string name="account_setup_failed_dlg_certificate_message_fmt">"Impossible d\'établir une connexion sécurisée avec le serveur.
+(%s)"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Modifier les infos</string>
   <string name="account_setup_failed_dlg_server_message">"Impossible de se connecter au serveur."</string>
-  <string name="account_setup_failed_dlg_server_message_fmt">\"Impossible de se connecter au serveur.
-(%s)\"</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">"Impossible de se connecter au serveur.
+(%s)"</string>
   <string name="account_setup_failed_dlg_title">"Impossible de terminer"</string>
   <string name="account_setup_failed_ioerror">"Impossible d'établir la connexion avec le serveur."</string>
   <string name="account_setup_failed_protocol_unsupported">"L'adresse de serveur saisie est incorrecte ou le serveur exige une version du protocole non compatible avec Mail."</string>
@@ -351,7 +351,7 @@
   <string name="message_compose_error_invalid_email">Certaines adresses mail sont incorrectes.</string>
   <string name="message_compose_error_no_recipients">Vous devez ajouter au moins un destinataire.</string>
   <string name="message_compose_from_label">De :</string>
-  <string name="message_compose_fwd_header_fmt">\"
+  <string name="message_compose_fwd_header_fmt">"
 
 -------- Message original --------
 Objet : %1$s
@@ -359,15 +359,15 @@ De : %2$s
 À : %3$s
 Cc : %4$s
 
-\"</string>
+"</string>
   <string name="message_compose_include_quoted_text_checkbox_label">Inclure le texte</string>
   <string name="message_compose_insert_quick_response_list_title">Insérer une réponse rapide</string>
   <string name="message_compose_quoted_text_label">Inclure le texte des messages précédents</string>
-  <string name="message_compose_reply_header_fmt">\"
+  <string name="message_compose_reply_header_fmt">"
 
 %s a écrit :
 
-\"</string>
+"</string>
   <string name="message_compose_subject_hint">Objet</string>
   <string name="message_compose_to_hint">À</string>
   <string name="message_decode_error">Une erreur s\'est produite lors du décodage du message.</string>
@@ -531,8 +531,8 @@ Cc : %4$s
   <string name="settings_action">Paramètres</string>
   <string name="settings_activity_title">Paramètres</string>
   <string name="show_quick_text_list_dialog_action">Insérer la réponse rapide</string>
-  <string name="single_new_message_notification_big_text">\"%1$s
-%2$s\"</string>
+  <string name="single_new_message_notification_big_text">"%1$s
+%2$s"</string>
   <string name="status_loading_messages">Chargement des messages...</string>
   <string name="status_network_error">Problème de connexion.</string>
   <string name="subject_hint">Objet:</string>

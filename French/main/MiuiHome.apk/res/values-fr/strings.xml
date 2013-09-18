@@ -25,13 +25,13 @@
   <string name="default_name">Par défaut</string>
   <string name="default_shortcut_title_10086">google.fr</string>
   <string name="deleting">Suppression...</string>
-  <string name="description_author">Auteur:</string>
-  <string name="description_designer">Concepteur:</string>
-  <string name="description_download">Téléchargement:</string>
-  <string name="description_size">Taille:</string>
-  <string name="description_summary">Résumé:</string>
-  <string name="description_uploadtime">Mise à jour:</string>
-  <string name="description_version">Version:</string>
+  <string name="description_author">Auteur :</string>
+  <string name="description_designer">Concepteur :</string>
+  <string name="description_download">Téléchargement :</string>
+  <string name="description_size">Taille :</string>
+  <string name="description_summary">Résumé :</string>
+  <string name="description_uploadtime">Mise à jour :</string>
+  <string name="description_version">Version :</string>
   <string name="download_failed">Échec de l\'importation</string>
   <string name="download_preview_failed">Échec du chargement de l\'aperçu</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -152,7 +152,7 @@
   <string name="resource_default">Sonnerie par défaut</string>
   <string name="resource_default_name">Ressource</string>
   <string name="resource_delete_all">Supprimer les %1$d ressources sélectionnées ?</string>
-  <string name="resource_delete_confirm">Etes-vous sûr de vouloir supprimer ces ressources ?</string>
+  <string name="resource_delete_confirm">Êtes-vous sûr de vouloir supprimer ces ressources ?</string>
   <string name="resource_delta_update_failed">La mise à jour de Delta a échoué, la ressource complète sera téléchargée</string>
   <string name="resource_delta_update_successful">Mise à jour de Delta accomplie, enregistré à %1$s.</string>
   <string name="resource_detail">Détails</string>
@@ -160,13 +160,13 @@
   <string name="resource_downloaded_title">Ressources téléchargées</string>
   <string name="resource_downloading">Téléchargement en cours...</string>
   <string name="resource_get_auth_checking">Vérification de l\'autorisation...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur le matériel actuel avec votre compte qui autorise jusqu\'à 10 téléphones portables par ans. Veuillez utiliser un autre compte Xiaomi</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre compte Xiaomi</string>
   <string name="resource_get_auth_exceed_max_limit_title">La limite autorisée est dépassée</string>
   <string name="resource_get_auth_missing">Le thème ne provient pas du marché officiel, veuillez en télécharger un similaire sur le marché officiel.</string>
   <string name="resource_get_auth_retrieving">Récupération de l\'autorisation...</string>
   <string name="resource_import_successful">Importation réussie !</string>
   <string name="resource_importing">Importation en cours...</string>
-  <string name="resource_list_title">Dernièrement séléctionné</string>
+  <string name="resource_list_title">Dernier sélectionné</string>
   <string name="resource_local">%1$s local</string>
   <string name="resource_mute">Aucun</string>
   <string name="resource_no_result">Aucun résultat</string>
@@ -174,7 +174,7 @@
   <string name="resource_online">%1$s en ligne</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
-  <string name="resource_price_unit">MI Credits</string>
+  <string name="resource_price_unit">MiCredits</string>
   <string name="resource_ringtone_default">Sonneries</string>
   <string name="resource_see_more">Voir plus</string>
   <string name="resource_select">Sélectionner</string>
@@ -190,8 +190,8 @@
   <string name="screen_button_enabled_message">Les boutons du bas de l\'écran sont activés</string>
   <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillée en mode paysage</string>
   <string name="scroll_tip_format_when_announce_accessibility">Page %1$d, %2$d apps</string>
-  <string name="sdcard_status_changed_dialog_message">\"L\'application va se fermer. 
-Veuillez ré-ouvrir l\'application pour actualiser les ressources.\"</string>
+  <string name="sdcard_status_changed_dialog_message">"L'application va fermer.
+Veuillez la rouvrir pour actualiser les ressources."</string>
   <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
   <string name="select_frame">Cadre</string>
   <string name="select_photo">Photo</string>

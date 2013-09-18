@@ -20,13 +20,13 @@
   <string name="accessibility_enable">Activer l\'accessibilité</string>
   <string name="accessibility_feature_state_off">Désactivé</string>
   <string name="accessibility_feature_state_on">Activé</string>
-  <string name="accessibility_global_gesture_preference_description">\"Lorsque cette fonctionnalité est activée, vous pouvez rapidement activer les fonctionnalités d\'accessibilité en deux étapes :
+  <string name="accessibility_global_gesture_preference_description">"Lorsque cette fonctionnalité est activée, vous pouvez rapidement activer les fonctionnalités d\'accessibilité en deux étapes :
 
 Étape 1 : Appuyez de manière prolongée sur le bouton Marche/Arrêt jusqu\'à ce que le téléphone sonne ou vibre.
 
 Étape 2 : Appuyez de manière prolongée avec deux doigts jusqu\'à ce que vous entendiez la confirmation audio.
 
-Si l\'appareil est utilisé par plusieurs personnes, l’utilisation de ce raccourci sur l\'écran de verrouillage active l\'accessibilité de manière temporaire jusqu\'au déverrouillage de l\'appareil.\"</string>
+Si l\'appareil est utilisé par plusieurs personnes, l’utilisation de ce raccourci sur l\'écran de verrouillage active l\'accessibilité de manière temporaire jusqu\'au déverrouillage de l\'appareil."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Désactivé</string>
   <string name="accessibility_global_gesture_preference_summary_on">Activé</string>
   <string name="accessibility_global_gesture_preference_title">Raccourci d\'accessibilité</string>
@@ -36,15 +36,15 @@ Si l\'appareil est utilisé par plusieurs personnes, l’utilisation de ce racco
   <string name="accessibility_no_services_installed">Aucun service installé</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Marche/arrêt pour raccrocher</string>
   <string name="accessibility_power_button_ends_call_title">Touche Marche/Arrêt raccroche</string>
-  <string name="accessibility_screen_magnification_summary">\"Lorsque cette fonctionnalité est activée, vous pouvez effectuer des zooms avant et arrière en appuyant trois fois sur l\'écran.
+  <string name="accessibility_screen_magnification_summary">"Lorsque cette fonctionnalité est activée, vous pouvez effectuer des zooms avant et arrière en appuyant trois fois sur l\'écran.
 
 Lorsque vous effectuez un zoom avant, vous pouvez :
-\"<li><ul>\"Effectuer un panoramique : faites glisser deux doigts ou plus sur l\'écran.
-\"<li>Régler le niveau de zoom : pincez deux doigts ou plus, ou écartez-les.</li></ul></li>\"
+"<li><ul>"Effectuer un panoramique : faites glisser deux doigts ou plus sur l\'écran.
+"<li>Régler le niveau de zoom : pincez deux doigts ou plus, ou écartez-les.</li></ul></li>"
 
 Vous pouvez également agrandir le contenu se trouvant sous votre doigt en appuyant trois fois sur l\'écran et en prolongeant la troisième pression. Lorsque la loupe est activée, vous pouvez faire glisser votre doigt sur l\'écran pour en explorer les différentes parties. Relevez votre doigt pour revenir à l\'état précédent.
 
-Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le contenu partout, sauf sur le clavier et la barre de navigation.\"</string>
+Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le contenu partout, sauf sur le clavier et la barre de navigation."</string>
   <string name="accessibility_screen_magnification_title">Gestes d\'agrandissement</string>
   <string name="accessibility_script_injection_allowed">Autorisé</string>
   <string name="accessibility_script_injection_button_allow">Autoriser</string>
@@ -557,18 +557,18 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="crypt_keeper_button_text">Chiffrer le téléphone</string>
   <string name="crypt_keeper_confirm_title">Chiffrer ?</string>
   <string name="crypt_keeper_cooldown">Réessayez dans ^1 secondes.</string>
-  <string name="crypt_keeper_desc">\"\"Vous pouvez chiffrer vos comptes, vos paramètres, vos applications téléchargées, ainsi que leurs données, supports et autres fichiers. Une fois votre téléphone chiffré, vous devez saisir un code PIN ou un mot de passe numérique pour le déchiffrer à chaque fois que vous l\'allumez. Vous ne pouvez déchiffrer votre téléphone qu\'en rétablissant la configuration d\'usine, ce qui effacera l\'ensemble de vos données.
+  <string name="crypt_keeper_desc">"Vous pouvez chiffrer vos comptes, vos paramètres, vos applications téléchargées, ainsi que leurs données, supports et autres fichiers. Une fois votre téléphone chiffré, vous devez saisir un code PIN ou un mot de passe numérique pour le déchiffrer à chaque fois que vous l\'allumez. Vous ne pouvez déchiffrer votre téléphone qu\'en rétablissant la configuration d\'usine, ce qui effacera l\'ensemble de vos données.
 
-Le chiffrement peut prendre une heure, voire plus. La batterie doit être chargée lors du démarrage du processus, et le téléphone doit rester branché jusqu\'à la fin. Si vous interrompez le processus, vous perdrez certaines de vos données, voire la totalité.\"\"</string>
+Le chiffrement peut prendre une heure, voire plus. La batterie doit être chargée lors du démarrage du processus, et le téléphone doit rester branché jusqu\'à la fin. Si vous interrompez le processus, vous perdrez certaines de vos données, voire la totalité."</string>
   <string name="crypt_keeper_dialog_need_password_message">Vous devez définir un code PIN ou un mot de passe pour le verrouillage de l\'écran avant de lancer le chiffrement.</string>
   <string name="crypt_keeper_dialog_need_password_title">Aucun code PIN ni mot de passe saisi pour le verrouillage de l\'écran</string>
   <string name="crypt_keeper_encrypt_summary">Exiger un code PIN ou un mot de passe numérique pour déchiffrer le téléphone à chaque fois qu\'il est allumé</string>
   <string name="crypt_keeper_encrypt_title">Chiffrer le téléphone</string>
   <string name="crypt_keeper_encrypted_summary">Chiffré</string>
   <string name="crypt_keeper_enter_password">Saisissez votre mot de passe.</string>
-  <string name="crypt_keeper_failed_summary">\"\"Impossible de terminer le chiffrement, car celui-ci a été interrompu. Par conséquent, les données de votre téléphone ne sont plus accessibles.
+  <string name="crypt_keeper_failed_summary">"Impossible de terminer le chiffrement, car celui-ci a été interrompu. Par conséquent, les données de votre téléphone ne sont plus accessibles.
 
-Pour continuer d\'utiliser votre téléphone, vous devez rétablir la configuration d\'usine. Une fois cette opération terminée, vous pourrez restaurer toutes les données sauvegardées sur votre compte Google lors de la nouvelle configuration de votre téléphone.\"\"</string>
+Pour continuer d\'utiliser votre téléphone, vous devez rétablir la configuration d\'usine. Une fois cette opération terminée, vous pourrez restaurer toutes les données sauvegardées sur votre compte Google lors de la nouvelle configuration de votre téléphone."</string>
   <string name="crypt_keeper_failed_title">Échec du chiffrement</string>
   <string name="crypt_keeper_final_desc">"Le chiffrement est irréversible, et toute interruption du processus peut entraîner la perte de données. L'opération peut prendre une heure, voire plus, au cours de laquelle le téléphone sera redémarré à plusieurs reprises."</string>
   <string name="crypt_keeper_low_charge_text">Veuillez charger votre batterie, puis réessayer.</string>
@@ -587,19 +587,19 @@ Pour continuer d\'utiliser votre téléphone, vous devez rétablir la configurat
   <string name="data_usage_app_restrict_background">Limiter données en arrière-plan</string>
   <string name="data_usage_app_restrict_background_summary">Désactiver données arrière-plan sur réseaux mobiles. Utiliser autres réseaux si dispos.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Pour restreindre les données en arrière-plan, définissez un quota de données mobiles.</string>
-  <string name="data_usage_app_restrict_dialog">\"\"Cette fonctionnalité peut empêcher certaines applications de s\'exécuter lorsque celles-ci sont dépendantes des données en arrière-plan et que seuls des réseaux mobiles sont disponibles.
+  <string name="data_usage_app_restrict_dialog">"Cette fonctionnalité peut empêcher certaines applications de s\'exécuter lorsque celles-ci sont dépendantes des données en arrière-plan et que seuls des réseaux mobiles sont disponibles.
 
-Vous trouverez des options plus adaptées en matière de contrôle de la consommation des données dans les paramètres de l\'application.\"\"</string>
+Vous trouverez des options plus adaptées en matière de contrôle de la consommation des données dans les paramètres de l\'application."</string>
   <string name="data_usage_app_restrict_dialog_title">Limiter les données en arrière-plan ?</string>
   <string name="data_usage_app_restricted">limitée</string>
   <string name="data_usage_app_settings">Afficher paramètres application</string>
   <string name="data_usage_auto_sync_off_dialog">"Cela limite la consommation des données et l'utilisation de la batterie, mais vous devrez synchroniser manuellement chaque compte pour recueillir les informations récentes. Par ailleurs, vous ne recevrez pas de notifications en cas de mise à jour."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Désactiver synchro auto données ?</string>
-  <string name="data_usage_auto_sync_on_dialog">\"\"Les modifications que vous apportez à vos comptes sur le Web sont automatiquement copiées sur votre téléphone.
+  <string name="data_usage_auto_sync_on_dialog">"Les modifications que vous apportez à vos comptes sur le Web sont automatiquement copiées sur votre téléphone.
 
 Certains comptes permettent également de copier automatiquement sur le Web toutes les modifications que vous effectuez sur le téléphone. C\'est le cas des comptes Google.
 
-Pour sélectionner le type d\'informations à synchroniser au sein de chaque compte, accédez à Paramètres &gt; Comptes.\"\"</string>
+Pour sélectionner le type d\'informations à synchroniser au sein de chaque compte, accédez à Paramètres &gt; Comptes."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Activer synchro auto données ?</string>
   <string name="data_usage_change_cycle">Changer le cycle...</string>
   <string name="data_usage_cycle">Cycle de consommation</string>
@@ -639,9 +639,9 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="data_usage_pick_cycle_day">Jour du mois de réinitialisation du cycle utilisation données :</string>
   <string name="data_usage_received_sent">%1$s reçus, %2$s envoyés</string>
   <string name="data_usage_restrict_background">"Si vous limitez les données mobiles en arrière-plan, certains services et applications ne fonctionneront que si vous êtes connecté à un réseau Wi-Fi."</string>
-  <string name="data_usage_restrict_background_multiuser">\"Si vous limitez les données mobiles en arrière-plan, certaines applications et certains services ne fonctionneront pas correctement, sauf si vous êtes connecté à un réseau Wi-Fi.
+  <string name="data_usage_restrict_background_multiuser">"Si vous limitez les données mobiles en arrière-plan, certaines applications et certains services ne fonctionneront pas correctement, sauf si vous êtes connecté à un réseau Wi-Fi.
 
-Ce paramètre affecte tous les utilisateurs de ce téléphone.\"</string>
+Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="data_usage_restrict_background_title">Limiter les données en arrière-plan ?</string>
   <string name="data_usage_restrict_denied_dialog">"La limitation des données en arrière-plan n'est disponible que lorsque vous avez défini un plafond de données mobiles."</string>
   <string name="data_usage_summary_title">Consommation des données</string>
@@ -846,9 +846,9 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone.\"</string>
   <string name="enable_traces_summary_num">%1$d trace(s) activée(s) actuellement</string>
   <string name="enable_traces_title">Activer les traces</string>
   <string name="enable_wifi_display">Activer l\'affichage sans fil</string>
-  <string name="enforce_read_external_confirm_message">\"\"Lorsque la mémoire de stockage USB est protégée, les applications doivent demander l\'autorisation de lire les données de la mémoire de stockage externe.
+  <string name="enforce_read_external_confirm_message">"Lorsque la mémoire de stockage USB est protégée, les applications doivent demander l\'autorisation de lire les données de la mémoire de stockage externe.
 
-Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs développeurs les mettent à jour.\"\"</string>
+Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs développeurs les mettent à jour."</string>
   <string name="enforce_read_external_confirm_title">Protéger mémoire stockage USB ?</string>
   <string name="enforce_read_external_summary">Les applications doivent demander l\'autorisation pour lire la mémoire.</string>
   <string name="enforce_read_external_title">Protéger le stockage USB</string>
@@ -1169,22 +1169,22 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="manageapplications_settings_summary">Gérer et supprimer les applications installées</string>
   <string name="manageapplications_settings_title">Gérer les applications</string>
   <string name="manually_add_network">Ajoutez manuellement le réseau</string>
-  <string name="master_clear_accounts">\"\"
+  <string name="master_clear_accounts">"
 
 Vous êtes actuellement connecté aux comptes suivants :
-\"\"</string>
+"</string>
   <string name="master_clear_all">Êtes-vous sûr de vouloir effacer toutes les données et revenir aux réglages d\'usine ? Cette opération est irréversible</string>
   <string name="master_clear_button_text">Réinitialiser le téléphone</string>
   <string name="master_clear_confirm_title">Réinitialiser ?</string>
-  <string name="master_clear_desc">"\"\"Cette action effacera toutes les données du <b>stockage interne</b>\" de votre téléphone, y compris :
+  <string name="master_clear_desc">"Cette action effacera toutes les données du "<b>stockage interne</b>" de votre téléphone, y compris :
 
-\"<li>Votre compte Google</li>\"
-\"<li>"Les données et paramètres du système et de l'application"</li>\"
-\"<li>Les applications téléchargées</li>\"\""</string>
+"<li>Votre compte Google</li>"
+"<li>"Les données et paramètres du système et de l'application"</li>"
+"<li>Les applications téléchargées</li></string>
   <string name="master_clear_desc_also_erases_external"></string>
-  <string name="master_clear_desc_erase_external_storage">\"\"
+  <string name="master_clear_desc_erase_external_storage">"
 
-Pour supprimer la musique, les photos et les autres données utilisateur, vous devez effacer la \"<b>mémoire de stockage USB</b>.\"</string>
+Pour supprimer la musique, les photos et les autres données utilisateur, vous devez effacer la "<b>mémoire de stockage USB.</b></string>
   <string name="master_clear_erase_application_progress">Suppression des applications en cours...</string>
   <string name="master_clear_failed">"Les données n'ont pas été réinitialisées, car le service de nettoyage du système n'est pas disponible."</string>
   <string name="master_clear_final_button_text">Tout effacer</string>
@@ -1252,14 +1252,14 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="msd_install">Installer le pilote</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Suivant</string>
-  <string name="msd_install_retry_linux">\"\"Si votre ordinateur ne détecte pas votre appareil, essayez ce qui suit:
+  <string name="msd_install_retry_linux">"Si votre ordinateur ne détecte pas votre appareil, essayez ce qui suit:
 1) Utiliser l\'outil d\'installation, \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
 2) Créer le répertoire : mkdir /media/mtp
 3) Confirmer les permissions du groupe d\'utilisateur
 4) Reconnecter
 5) Accéder à l\'appareil monté: \"mtpfs /media/mtp\" via Nautilus; même répertoire local
 6) Désinstaller l\'appareil \"fusermount -u /media/mtp\"
-Remarque: pour environnement Ubuntu 8.04\"\"</string>
+Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="msd_install_retry_mac">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
   <string name="msd_install_retry_windows_vista">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
   <string name="msd_install_retry_windows_xp">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
@@ -1629,14 +1629,14 @@ Remarque: pour environnement Ubuntu 8.04\"\"</string>
   <string name="remove_from_frequently_fragment">Supprimer \"%s\" des paramètres communs ?</string>
   <string name="reset_app_preferences">Réinitialiser préf. des apps</string>
   <string name="reset_app_preferences_button">Réinitialiser apps</string>
-  <string name="reset_app_preferences_desc">\"\"Cette opération entraîne la réinitialisation de toutes les préférences pour : 
+  <string name="reset_app_preferences_desc">"Cette opération entraîne la réinitialisation de toutes les préférences pour : 
 
- \"<li>les applications désactivées ;</li>\"
- \"<li>les notifications des applications désactivées ;</li>\"
- \"<li>les applications utilisées par défaut pour certaines actions ;</li>\"
- \"<li>les restrictions relatives aux données en arrière-plan pour les applications.</li>\"
+ "<li>les applications désactivées ;</li>"
+ "<li>les notifications des applications désactivées ;</li>"
+ "<li>les applications utilisées par défaut pour certaines actions ;</li>"
+ "<li>les restrictions relatives aux données en arrière-plan pour les applications.</li>"
 
- Vous ne perdrez aucune des données relatives à ces applications.\"\"</string>
+ Vous ne perdrez aucune des données relatives à ces applications."</string>
   <string name="reset_app_preferences_title">Réinitialiser préférences ?</string>
   <string name="restore_default_apn">Restauration des paramètres APN par défaut en cours...</string>
   <string name="restore_default_apn_completed">La réinitialisation des paramètres APN par défaut est terminée.</string>
@@ -1651,9 +1651,9 @@ Remarque: pour environnement Ubuntu 8.04\"\"</string>
   <string name="roaming_reenable_title">Autoriser l\'itinérance des données ?</string>
   <string name="roaming_turn_it_on_button">Activer</string>
   <string name="roaming_warning">Lorsque vous activez l\'itinérance des données, des frais d\'itinérance importants peuvent s\'appliquer.</string>
-  <string name="roaming_warning_multiuser">\"Lorsque vous autorisez l\'itinérance des données, des frais d\'itinérance importants peuvent s\'appliquer !
+  <string name="roaming_warning_multiuser">"Lorsque vous autorisez l\'itinérance des données, des frais d\'itinérance importants peuvent s\'appliquer !
 
-Ce paramètre affecte tous les utilisateurs de ce téléphone.\"</string>
+Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Utilisateur retiré</string>
   <string name="running_process_item_user_label">Utilisateur : %1$s</string>
@@ -1841,8 +1841,8 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone.\"</string>
   <string name="silent_mode_title">Silencieux</string>
   <string name="sim_absent">Aucune SIM/RUIM</string>
   <string name="sim_bad_pin">Code PIN incorrect.</string>
-  <string name="sim_change_failed">\"\"Impossible de modifier le code PIN.
-Le code PIN est peut-être incorrect.\"\"</string>
+  <string name="sim_change_failed">"Impossible de modifier le code PIN.
+Le code PIN est peut-être incorrect."</string>
   <string name="sim_change_failed_enable_sim_lock">Impossible de modifier SIM/RUIM PIN. Veuillez activer le verrou SIM/RUIM.</string>
   <string name="sim_change_pin">Code PIN de la carte SIM</string>
   <string name="sim_change_succeeded">Le code PIN de la carte SIM a été modifié.</string>
@@ -1854,8 +1854,8 @@ Le code PIN est peut-être incorrect.\"\"</string>
   <string name="sim_enter_old">Ancien code PIN de la carte SIM</string>
   <string name="sim_enter_pin">Code PIN de la carte SIM</string>
   <string name="sim_lock_change_not_supported">Impossible de modifier le verrouillage SIM/RUIM. SIM/RUIM ne peut pas supporter cela.</string>
-  <string name="sim_lock_failed">\"\"Impossible de changer l\'état de verrouillage de la carte SIM.
-Le code PIN est peut-être incorrect.\"\"</string>
+  <string name="sim_lock_failed">"Impossible de changer l\'état de verrouillage de la carte SIM.
+Le code PIN est peut-être incorrect."</string>
   <string name="sim_lock_off">Demander le code PIN pour utiliser le téléphone</string>
   <string name="sim_lock_on">Demander le code PIN pour utiliser le téléphone</string>
   <string name="sim_lock_settings">Paramètres verrouillage SIM</string>
@@ -1957,8 +1957,8 @@ Le code PIN est peut-être incorrect.\"\"</string>
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Annuler la synchronisation</string>
   <string name="sync_menu_sync_now">Synchroniser maintenant</string>
-  <string name="sync_one_time_sync">\"Appuyer ici pour lancer la synchronisation maintenant
-%1$s\"</string>
+  <string name="sync_one_time_sync">"Appuyer ici pour lancer la synchronisation maintenant
+%1$s"</string>
   <string name="sync_plug"></string>
   <string name="sync_settings">Comptes &amp; synchronisation</string>
   <string name="sync_wifi_label">Paramètres Wi-Fi</string>
@@ -2122,14 +2122,14 @@ Faire confiance à cette application ?\"\""</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utiliser la langue du système</string>
   <string name="user_account_title">Compte pour contenu</string>
   <string name="user_add_user_menu">Ajouter utilisateur</string>
-  <string name="user_add_user_message_long">\"Vous pouvez partager cet appareil avec d\'autres personnes en créant des utilisateurs supplémentaires. Chaque utilisateur dispose de son propre espace, où il peut personnaliser ses propres applications, ses fonds d\'écran, et autres. Chacun peut également modifier les paramètres d\'une tablette, tels que le Wi-Fi, qui affectent tous les utilisateurs.
+  <string name="user_add_user_message_long">"Vous pouvez partager cet appareil avec d\'autres personnes en créant des utilisateurs supplémentaires. Chaque utilisateur dispose de son propre espace, où il peut personnaliser ses propres applications, ses fonds d\'écran, et autres. Chacun peut également modifier les paramètres d\'une tablette, tels que le Wi-Fi, qui affectent tous les utilisateurs.
 
 Lorsque vous créez un nouvel utilisateur, celui-ci doit suivre une procédure d\'installation.
 
-N\'importe quel utilisateur peut accepter des autorisations mises à jour pour les applications au nom de tous les autres.\"</string>
-  <string name="user_add_user_message_short">\"Lorsque vous créez un nouvel utilisateur, celui-ci doit suivre une procédure d\'installation.
+N\'importe quel utilisateur peut accepter des autorisations mises à jour pour les applications au nom de tous les autres."</string>
+  <string name="user_add_user_message_short">"Lorsque vous créez un nouvel utilisateur, celui-ci doit suivre une procédure d\'installation.
 
-N\'importe quel utilisateur peut accepter des autorisations mises à jour pour les applications au nom de tous les autres.\"</string>
+N\'importe quel utilisateur peut accepter des autorisations mises à jour pour les applications au nom de tous les autres."</string>
   <string name="user_add_user_title">Ajouter un utilisateur</string>
   <string name="user_adding_new_user">Ajout de l\'utilisateur...</string>
   <string name="user_cannot_manage_message">"Seul le propriétaire du téléphone peut gérer les utilisateurs."</string>
@@ -2453,9 +2453,9 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_setup_back">Retour</string>
   <string name="wifi_setup_cancel">Annuler</string>
   <string name="wifi_setup_connect">Se connecter</string>
-  <string name="wifi_setup_description_connected">\"Appuyez sur <b>Suivant</b>\" pour poursuivre la configuration.
+  <string name="wifi_setup_description_connected">Appuyez sur <b>Suivant</b>" pour poursuivre la configuration.
 
-Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.\"</string>
+Appuyez sur "<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">La connexion peut prendre quelques minutes...</string>
   <string name="wifi_setup_detail">Infos réseau</string>
   <string name="wifi_setup_eap_not_supported">"Vous ne pouvez pas configurer de connexion Wi-Fi EAP lors de l'installation. Une fois celle-ci effectuée, vous pourrez le faire dans Paramètres &gt; Sans fil et réseaux."</string>
@@ -2486,8 +2486,8 @@ Appuyez sur \"<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.\
   <string name="wifi_share_action_turn_on">Activer le partage Wi-Fi</string>
   <string name="wifi_share_action_turn_on_summary">Veuillez vous connecter avec vos identifiants Xiaomi</string>
   <string name="wifi_share_add">Partager mon réseau Wi-Fi public</string>
-  <string name="wifi_share_add_summary">\"Quand vous partagez vos réseaux Wi-Fi publics 
-vous pouvez utiliser les réseaux d\'autres utilisateurs\"</string>
+  <string name="wifi_share_add_summary">"Quand vous partagez vos réseaux Wi-Fi publics 
+vous pouvez utiliser les réseaux d\'autres utilisateurs"</string>
   <string name="wifi_share_connect">Connecter</string>
   <string name="wifi_share_connected_summary">"Vous êtes connecté à un réseau Wi-Fi public partagé par un autre utilisateur"</string>
   <string name="wifi_share_connected_title">Connecté au réseau via la connexion Wi-Fi partagée de MIUI</string>
@@ -2515,9 +2515,9 @@ vous pouvez utiliser les réseaux d\'autres utilisateurs\"</string>
   <string name="wifi_show_password">Afficher le mot de passe</string>
   <string name="wifi_signal">Intensité du signal</string>
   <string name="wifi_skip_anyway">Ignorer quand même</string>
-  <string name="wifi_skipped_message">\"AVERTISSEMENT : Des frais supplémentaires de connexion à Internet peuvent être appliqués par votre opérateur.
+  <string name="wifi_skipped_message">"AVERTISSEMENT : Des frais supplémentaires de connexion à Internet peuvent être appliqués par votre opérateur.
 
-La configuration du téléphone peut générer une forte activité sur le réseau.\"</string>
+La configuration du téléphone peut générer une forte activité sur le réseau."</string>
   <string name="wifi_speed">Vitesse de connexion</string>
   <string name="wifi_ssid">SSID du réseau</string>
   <string name="wifi_starting">Activation du Wi-Fi...</string>

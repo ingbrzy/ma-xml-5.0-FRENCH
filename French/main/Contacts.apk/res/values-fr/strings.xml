@@ -39,9 +39,9 @@
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Supprimer des contacts par lot</string>
-  <string name="batch_delete_msg">\"Êtes-vous sûr de vouloir supprimer les %d contacts sélectionnés ?
+  <string name="batch_delete_msg">"Êtes-vous sûr de vouloir supprimer les %d contacts sélectionnés ?
   
-Si vous utilisez le service de synchronisation de contact, les informations dans le nuage seront également supprimées.\"</string>
+Si vous utilisez le service de synchronisation de contact, les informations dans le nuage seront également supprimées."</string>
   <string name="bluetooth_connection_failed_toast">Connexion Bluetooth interrompue</string>
   <string name="blurbJoinContactDataWith">Sélectionnez le contact que vous souhaitez fusionner avec %s.</string>
   <string name="btn_delete_multi_contacts">Supprimer %d contacts</string>
@@ -50,7 +50,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="btn_split_contact">Séparer le contact</string>
   <string name="button_cancel_scan">Arrêter</string>
   <string name="button_scan">Re-scanner</string>
-  <string name="caching_vcard_message">\"L\'importateur met en cache la carte de visite. L\'importation va bientôt démarrer\".</string>
+  <string name="caching_vcard_message">L\'importateur met en cache la carte de visite. L\'importation va bientôt démarrer.</string>
   <string name="caching_vcard_title">Mise en cache d\'une carte de visite dans le stockage temporaire local</string>
   <string name="callAgain">Renouveler l\'appel</string>
   <string name="callBack">Rappeler</string>
@@ -563,56 +563,59 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="noContactHelpTextAccountsInfo">Synchroniser les contacts Google et Exchange.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données sauvegardées dans le compte Xiaomi et MiTalk</string>
   <string name="noContacts">Aucun contact</string>
-  <string name="noContactsHelpText">\"Vous n\'avez pas encore de contacts à afficher. 
+  <string name="noContactsHelpText">"Vous n\'avez pas encore de contacts à afficher. 
 
-Pour ajouter des contacts, appuyez sur\"</string>
+Pour ajouter des contacts, appuyez sur"</string>
   <string name="noContactsHelpTextForCreateShortcut">"Aucun contact à afficher"</string>
-  <string name="noContactsHelpTextWithSync">\"Vous n\'avez aucun contact à afficher (si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes).
+  <string name="noContactsHelpTextWithSync">"Vous n\'avez aucun contact à afficher (si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes).
 
-Pour ajouter des contacts, appuyez sur \"<font fgcolor="#ffffffff"><b>Menu</b></font>\" et sélectionnez :
+Pour ajouter des contacts, appuyez sur "<font fgcolor="#ffffffff"><b>Menu</font></b>", et sélectionnez :
  
-\"<li><font fgcolor="#ffffffff"><b>\"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts sur le téléphone ;
-\"</b></font></li>\" 
-\"<li><font fgcolor="#ffffffff"><b>\"Options d\'affichage pour modifier le paramètre de visibilité des contacts ;
-\"</b></font></li>\" 
-\"<li><font fgcolor="#ffffffff"><b>\"Nouveau contact pour créer un contact ;
-\"</b></font></li>\" 
-\"<li><font fgcolor="#ffffffff"><b>\"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
-\"</b></font></li>\"</string>
+"<li><font fgcolor="#ffffffff"><b>"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts sur le téléphone;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Options d\'affichage pour modifier le paramètre de visibilité des contacts;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nouveau contact pour créer un contact;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
+"</b></font></li>"
+"</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Aucun contact à afficher. (Si vous venez d'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes)"</string>
-  <string name="noContactsNoSimHelpText">\"Vous n\'avez pas encore de contact à afficher. 
+  <string name="noContactsNoSimHelpText">"Vous n\'avez pas encore de contact à afficher. 
 
-Pour ajouter des contacts, appuyez sur\"</string>
-  <string name="noContactsNoSimHelpTextWithSync">\"Vous n\'avez aucun contact à afficher (si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes).
+Pour ajouter des contacts, appuyez sur"</string>
+  <string name="noContactsNoSimHelpTextWithSync">"Vous n\'avez aucun contact à afficher (si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes).
 
-Pour ajouter des contacts, appuyez sur \"<font fgcolor="#ffffffff"><b>Menu</b></font>\" et sélectionnez :
+Pour ajouter des contacts, appuyez sur "<font fgcolor="#ffffffff"><b>Menu</b></font>" et sélectionnez :
  
-\"<li><font fgcolor="#ffffffff"><b>\"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts sur le téléphone ;
-\"</b></font></li>\" 
-\"<li><font fgcolor="#ffffffff"><b>\"Options d\'affichage pour modifier le paramètre de visibilité des contacts ;
-\"</b></font></li>\" 
-\"<li><font fgcolor="#ffffffff"><b>\"Nouveau contact pour créer un contact ;
-\"</b></font></li>\" 
-\"<li><font fgcolor="#ffffffff"><b>\"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
-\"</b></font></li></string>
+"<li><font fgcolor="#ffffffff"><b>"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts sur le téléphone;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Options d\'affichage pour modifier le paramètre de visibilité des contacts;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nouveau contact pour créer un contact;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
+"</b></font></li>"
+"</string>
   <string name="noContactsWithPhoneNumbers">Aucun contact avec numéro de téléphone</string>
-  <string name="noFavoritesHelpText">\"Vous ne disposez d\'aucun favori.
+  <string name="noFavoritesHelpText">"Vous ne disposez d\'aucun favori.
 
 Pour ajouter un contact à la liste de favoris :
 
-        \"<li>"Appuyez sur l\'onglet "<b>Contacts</b>\".
-\"</li>\" 
-\"<li>\"Appuyez sur le contact à ajouter à vos favoris.
-\"</li>\" 
-\"<li>\"Appuyez sur l\'étoile en regard du nom du contact.
-\"</li>\"</string>
+"<li>Appuyez sur l\'onglet<b>Contacts</b>".
+"</li>" 
+"<li>"Appuyez sur le contact à ajouter à vos favoris.
+"</li>" 
+"<li>"Appuyez sur l\'étoile en regard du nom du contact.
+"</li>"
+"</string>
   <string name="noGroups">Aucun groupe</string>
   <string name="noMatchingContacts">Pas de résultats</string>
   <string name="noRecentContacts">Aucun contact récent</string>
-  <string name="no_account_prompt">\"Tirez le meilleur parti de l\'application Contacts en utilisant un compte Google.
+  <string name="no_account_prompt">"Tirez le meilleur parti de l\'application Contacts en utilisant un compte Google.
 
 • Accédez-y depuis n\'importe quel navigateur Web.
-• Sauvegardez vos contacts en toute sécurité.\"</string>
+• Sauvegardez vos contacts en toute sécurité."</string>
   <string name="no_contact_details">Aucune information supplémentaire pour ce contact</string>
   <string name="no_contact_in_other_phone">Il n\'y a pas de contact dans votre téléphone</string>
   <string name="no_contacts_dialog_message">Il n\'y a personne dans vos contacts. Ils sont peut-être stocké dans la carte SIM, veuillez importer les informations de la carte SIM dans le téléphone.</string>
@@ -782,8 +785,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_downloaded_title">Ressources téléchargées</string>
   <string name="resource_downloading">Téléchargement...</string>
   <string name="resource_get_auth_checking">Vérification de l\'autorisation...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut pas fonctionner sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre appareil</string>
-  <string name="resource_get_auth_exceed_max_limit_title">Limite d\'autorisations dépassée</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre compte Xiaomi</string>
+  <string name="resource_get_auth_exceed_max_limit_title">La limite autorisée est dépassée</string>
   <string name="resource_get_auth_missing">Le thème ne provient pas du market officiel, veuillez en télécharger un similaire du market officiel</string>
   <string name="resource_get_auth_retrieving">Récupération de l\'autorisation...</string>
   <string name="resource_import_successful">Téléchargement réussi.</string>

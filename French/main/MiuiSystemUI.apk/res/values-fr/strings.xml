@@ -72,9 +72,9 @@
   <string name="compat_mode_help_header">Zoom de compatibilité</string>
   <string name="compat_mode_off">"Étirer pour remplir l\'écran"</string>
   <string name="compat_mode_on">"Zoomer pour remplir l\'écran"</string>
-  <string name="data_usage_disabled_dialog">\"Vous avez atteint le plafond de consommation de données spécifié.
+  <string name="data_usage_disabled_dialog">"Vous avez atteint le plafond de consommation de données spécifié.
 
-Si vous utilisez des données supplémentaires, celles-ci pourront être facturées par l\'opérateur.\"</string>
+Si vous utilisez des données supplémentaires, celles-ci pourront être facturées par l\'opérateur."</string>
   <string name="data_usage_disabled_dialog_3g_title">Données 2G-3G désactivées</string>
   <string name="data_usage_disabled_dialog_4g_title">Données 4G désactivées</string>
   <string name="data_usage_disabled_dialog_enable">Réactiver connexion données</string>

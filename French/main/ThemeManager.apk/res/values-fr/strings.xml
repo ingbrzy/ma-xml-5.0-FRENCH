@@ -89,8 +89,8 @@
   <string name="resource_downloaded_title">Ressources téléchargées</string>
   <string name="resource_downloading">Téléchargement</string>
   <string name="resource_get_auth_checking">Vérification de l\'autorisation...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut pas s\'exécuter sur ce périphérique. Vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre appareil</string>
-  <string name="resource_get_auth_exceed_max_limit_title">Vous avez atteint la limite autorisée !</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre compte Xiaomi</string>
+  <string name="resource_get_auth_exceed_max_limit_title">La limite autorisée est dépassée</string>
   <string name="resource_get_auth_missing">Le thème n\'a pas été téléchargé à partir de la boutique de thème, veuillez le télécharger à partir de la boutique de thème officielle.</string>
   <string name="resource_get_auth_retrieving">Récupération de l\'autorisation...</string>
   <string name="resource_import_successful">Téléchargement réussi.</string>
