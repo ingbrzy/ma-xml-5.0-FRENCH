@@ -8,8 +8,8 @@
   <string name="adjust_traffic_carrier_adjust">Obtenir depuis l\'opérateur</string>
   <string name="adjust_traffic_carrier_adjusting">Ajustement du trafic...</string>
   <string name="adjust_traffic_carrier_settings_title">Opérateur mobile</string>
-  <string name="adjust_traffic_carrier_summary_more_onemonth_before">"N\'a pas été mis à jour depuis plus d\'un mois"</string>
-  <string name="adjust_traffic_carrier_summary_more_oneweek_before">"N\'a pas été mis à jour depuis plus d\'une semaine"</string>
+  <string name="adjust_traffic_carrier_summary_more_onemonth_before">"N'a pas été mis à jour depuis plus d'un mois"</string>
+  <string name="adjust_traffic_carrier_summary_more_oneweek_before">"N'a pas été mis à jour depuis plus d'une semaine"</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">A été mis a jour il y a une semaine</string>
   <string name="adjust_traffic_carrier_summary_three_day_before">A été mis a jour il y a 3 jours</string>
   <string name="adjust_traffic_carrier_summary_today">Mis à jour à %1$02d:%2$02d aujourd\'hui</string>
@@ -27,7 +27,7 @@
   <string name="app_has_deleted">%s a été supprimé.</string>
   <string name="app_name">Moniteur</string>
   <string name="app_traffic_detail">Trafic (%s)</string>
-  <string name="apply_rules_failed">"Impossible d\'appliquer le pare-feu, veuillez réessayer. (%s)"</string>
+  <string name="apply_rules_failed">"Impossible d'appliquer le pare-feu, veuillez réessayer. (%s)"</string>
   <string name="apply_rules_failed_known">OK</string>
   <string name="batch_connect_control">Gérer les connexions des applications</string>
   <string name="cancel_txt">Annuler</string>
@@ -42,6 +42,15 @@
   <string name="close_txt">Fermer</string>
   <string name="control_app_internet">Contrôle réseau des apps</string>
   <string name="current_warning_value">Seuil d\'alerte: %s</string>
+  <string name="custom_adjust_command">Contenu de l\'expéditeur</string>
+  <string name="custom_adjust_command_hit">Contenu à envoyer</string>
+  <string name="custom_adjust_is_empty">%s est vide !</string>
+  <string name="custom_adjust_receiver">Numéro du destinataire</string>
+  <string name="custom_adjust_receiver_hint">Numéro de l\'opérateur utilisée pour envoyer les détails.</string>
+  <string name="custom_adjust_recevier_same_with_sender">De même avec le numéro de l\'expéditeur</string>
+  <string name="custom_adjust_sender">Numéro de l\'expéditeur</string>
+  <string name="custom_adjust_sender_hint">Numéro de l\'oprérateur utilisé pour recevoir les détails de la requête de l\'utilisateur</string>
+  <string name="custom_adjust_title">Ajuster les paramètres personnalisés</string>
   <string name="daily_limit_dialog_disconnect_hint">Déconnecter Internet lorsque le trafic dépasse la limite définie</string>
   <string name="daily_limit_dialog_hint">Limite journalière de trafic (vide ou 0 signifie aucune limite)</string>
   <string name="daily_limit_result">Être informé et déconnecter Internet lorsque le trafic journalier dépasse %d Mo</string>
@@ -54,9 +63,10 @@
   <string name="edit_frame_free_traffic_title">Modifier le quota du trafic</string>
   <string name="edit_frame_month_start_title">Date de début de facturation</string>
   <string name="edit_frame_warning_title">Seuil d\'avertissement</string>
+  <string name="empty"></string>
   <string name="finish_traffic_settings_hint">Paramètres sauvegardés !</string>
-  <string name="finish_traffic_settings_message">Le trafic utilisé est de %s. Est-ce correct ?
-Si ce n\'est pas le cas vous pouvez le réajuster.</string>
+  <string name="finish_traffic_settings_message">"Le trafic utilisé est de %s. Est-ce correct ?
+Si ce n'est pas le cas vous pouvez le réajuster."</string>
   <string name="finish_traffic_settings_title">Ajuster les données relatives au trafic</string>
   <string name="fire_rule_program_list">Liste des applications</string>
   <string name="fire_rule_title_bar">Pare-feu</string>
@@ -127,8 +137,10 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="sync_traffic_fail_title">Échec de la synchronisation</string>
   <string name="sync_traffic_ing">Synchronisation auprès de l\'opérateur, veuillez patienter...</string>
   <string name="sync_traffic_no_cmd_detail">"Soumettez votre Pays, ville, indicatif (+33) et opérateur sur le forum suivant: http://www.miui.com/forum-172-1.html. Merci."</string>
+  <string name="sync_traffic_no_cmd_detail_custom_config">"Vous pouvez: 1. Paramètrer &gt;&gt; Ajuster les données relatives au trafic &gt;&gt; Personaliser les ajustements des paramètres ou ajuster le trafic sur la page principale &gt;&gt; Ajuster les paramètres personnalisés; 2. Soumettre votre ville, la marque de votre appareil et l'opérateur sur ce forum: http://www.miui.com/forum-172-1.html"</string>
   <string name="sync_traffic_no_cmd_title">Aucun modèle de SMS</string>
-  <string name="sync_traffic_success">"Les données de l\'opérateur ont été synchronisées, le trafic a été ajusté avec succès"</string>
+  <string name="sync_traffic_success">"Les données de l'opérateur ont été synchronisées, le trafic a été ajusté avec succès"</string>
+  <string name="text_day"></string>
   <string name="text_done">OK</string>
   <string name="text_save">Enregistrer</string>
   <string name="traffic_none">Aucun</string>
@@ -136,10 +148,10 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="traffic_settings_error">Il y a une erreur dans vos paramètres de trafic mensuel. Selon vos paramètres et votre opérateur, votre trafic mensuel est de: %1$s et le trafic restant est de: %2$s.</string>
   <string name="traffic_suffix">Circulation</string>
   <string name="traffic_suffix_with_uint">Trafic (Mo)</string>
-  <string name="traffic_total">"%s
-Total"</string>
-  <string name="traffic_used_status">"%s
-Utilisé"</string>
+  <string name="traffic_total">\"%s
+Total\"</string>
+  <string name="traffic_used_status">\"%s
+Utilisé\"</string>
   <string name="unknown">Inconnu</string>
   <string name="unknown_free_traffic_hint">"Si vous ne connaissez pas votre quota de données, merci de vous renseigner auprès de votre opérateur"</string>
   <string name="unknown_free_traffic_text">"Je ne connais pas mon quota de données"</string>

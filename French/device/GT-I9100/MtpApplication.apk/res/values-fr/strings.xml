@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Application MTP</string>
+  <string name="error_title">Attention</string>
+  <string name="bluetooth_running">L\'activation du mode USB entraîne la désactivation du Bluetooth. Continuer ?</string>
+  <string name="alert_dialog_yes">Oui</string>
+  <string name="alert_dialog_no">Non</string>
+  <string name="animation_initializing">Initialisation en cours…</string>
+  <string name="animation_connected">Connecté</string>
+  <string name="animation_synchronizing">Synchronisation…</string>
+  <string name="animation_downloading">Téléchargement …</string>
+  <string name="animation_sending">Envoi…</string>
+  <string name="notification_mtp_connected">MTP connecté</string>
+  <string name="notification_usb_connected">USB branché</string>
+  <string name="notification_mtp_initialization">Initialisation MTP</string>
+  <string name="alert_dialog_ok">OK</string>
+  <string name="alert_dialog_cancel">Annuler</string>
+  <string name="non_idle_toast">Connexion PC uniquement disponible en veille. Fermez les applications en cours d\'exécution</string>
+  <string name="media_scanner_running">Analyseur de médias en cours d\'exécution…</string>
+  <string name="media_scanner_finished">Analyse des fichiers média terminée</string>
+  <string name="kies_software_check">Vérification de Samsung Kies (logiciel de connexion PC)…</string>
+  <string name="security_policy_restriction">La politique de sécurité limite l\'utilisation de la connexion PC</string>
+  <string name="resume_to_call">Récupérer</string>
+  <string name="store_add_popup">L\'application MTP va redémarrer pour préparer la carte SD. Continuer ?</string>
+</resources>

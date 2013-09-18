@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="unknown_error">Erreur inconnue</string>
+    <string name="processing">En cours ...</string>
+    <string name="license_not_found">Licence introuvable</string>
+    <string name="dev_cert_revoked">"Le certificat de l'appareil a été annulé. Contactez l'opérateur"</string>
+    <string name="server_internal_error">Problèmes au niveau du serveur. Essayez plus tard</string>
+    <string name="server_domain_required">Associer domaine pour lire le contenu</string>
+    <string name="server_not_a_member">"Le domaine n'est plus valide. Appuyez sur OK pour quitter"</string>
+    <string name="server_unknown_account_id">"ID de compte utilisé pour l'acquisition de licence non autorisé. Contactez le service client"</string>
+    <string name="server_device_limit_reached">Le nombre maximum de périphériques ajoutés a été atteint. Supprimez un périphérique pour en ajouter un nouveau</string>
+    <string name="server_protocol_version_mismatch">"Ancienne version de protocole utilisée. Contactez l'opérateur pour la mettre à jour"</string>
+    <string name="license_acquisition_fail">"Désolé, l'acquisition de la licence a échoué"</string>
+</resources>
