@@ -406,7 +406,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="hint_search_phone_numbers">%d numéros de téléphone de contact</string>
   <string name="ic_menu_back">Retour</string>
   <string name="ic_menu_done">OK</string>
-  <string name="imLabelsGroup">Chat</string>
+  <string name="imLabelsGroup">Messagerie instantanée</string>
   <string name="imei">Code IMEI</string>
   <string name="import_all_sim_entries_miui">Importer tous les contacts</string>
   <string name="import_all_vcard_string">Importer tous les fichiers de carte de visite</string>
@@ -478,7 +478,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="local_profile_title">Mon profil local</string>
   <string name="local_search_label">Tous les contacts</string>
   <string name="locale_change_in_progress">Liste de contacts mise à jour pour refléter le changement de langue.</string>
-  <string name="lunarBirthdayLabelsGroup">Anniversaire</string>
+  <string name="lunarBirthdayLabelsGroup">Anniversaire lunaire</string>
   <string name="make_primary">Se souvenir de ce choix</string>
   <string name="map_custom">Voir l\'adresse %s</string>
   <string name="map_home">Voir adresse du domicile</string>
