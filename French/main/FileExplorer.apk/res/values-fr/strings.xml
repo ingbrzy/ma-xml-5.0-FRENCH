@@ -133,7 +133,7 @@ Superflu"</string>
   <string name="instruction_pre">Démarrez le service pour activer le serveur FTP</string>
   <string name="item_name">Sans nom</string>
   <string name="kuaipan_label">MiDrive</string>
-  <string name="kuaipan_over_space">Votre MiDrive n\'a plus assez d'espace libre.</string>
+  <string name="kuaipan_over_space">Votre MiDrive n\'a perdu aucun espace.</string>
   <string name="kuaipan_prompt">Aide MiDrive</string>
   <string name="kuaipan_prompt_message">"Le serveur est actuellement indisponible, veuillez réessayer plus tard"</string>
   <string name="kuaipan_tech_support">Support technique de Xiaomi</string>
