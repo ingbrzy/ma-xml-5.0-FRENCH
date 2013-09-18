@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Radio</string>
   <string name="favorite_manager">Channel list</string>
@@ -33,7 +33,7 @@
   <string name="toast_channel_deleted1">Successfully removed from preset channels.</string>
   <string name="toast_channel_added">Successfully added to favorites.</string>
   <string name="toast_channel_added1">Successfully added to preset channels.</string>
-  <string name="toast_channel_searched">%1$d stations ont été scanné.</string>
+  <string name="toast_channel_searched">%1$d stations ont été scannées.</string>
   <string name="toast_cannot_search">Cannot search out available channel.</string>
   <string name="toast_invalid_frequency">Invalid frequency for current location. Valid frequency scope: 87.5-108.0</string>
   <string name="toast_invalid_input">The last invalid input, valid value is 0 or 5.</string>
