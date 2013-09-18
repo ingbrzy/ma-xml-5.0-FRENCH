@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account_bind_prompt">"Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter..."</string>
   <string name="add_task">Ajouter une tâche</string>
@@ -133,7 +133,7 @@ Superflu"</string>
   <string name="instruction_pre">Démarrez le service pour activer le serveur FTP</string>
   <string name="item_name">Sans nom</string>
   <string name="kuaipan_label">MiDrive</string>
-  <string name="kuaipan_over_space">Votre MiDrive n\'a plus assez d'espace libre.</string>
+  <string name="kuaipan_over_space">Votre MiDrive n\'a plus assez d\'espace libre.</string>
   <string name="kuaipan_prompt">Aide MiDrive</string>
   <string name="kuaipan_prompt_message">"Le serveur est actuellement indisponible, veuillez réessayer plus tard"</string>
   <string name="kuaipan_tech_support">Support technique de Xiaomi</string>
