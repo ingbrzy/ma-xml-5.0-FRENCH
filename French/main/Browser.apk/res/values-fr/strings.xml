@@ -199,7 +199,7 @@
   <string name="export_bookmark_sucess">L\'exportation des favoris vers la carte SD a été effectuée.</string>
   <string name="exported_bookmark_file_name">Mes favoris</string>
   <string name="file_dir">Dossier</string>
-  <string name="file_name">Nom du fichier</string>
+  <string name="file_name">Nom</string>
   <string name="file_picker">Choisir le chemin</string>
   <string name="file_picker_new_folder">Nouveau dossier</string>
   <string name="file_picker_sdcard_not_found">Aucune carte SD n\'est détectée, vérifiez si l\'appareil est n\'est pas connecté en USB ou en utilisation.</string>

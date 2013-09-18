@@ -187,7 +187,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="contactsGroupsLabel">Groupes</string>
   <string name="contactsJoinedMessage">Contacts rejoint</string>
   <string name="contactsList">Contacts</string>
-  <string name="contacts_unavailable_add_account">Connectez-vous à un compte</string>
+  <string name="contacts_unavailable_add_account">Vous connecter à un compte</string>
   <string name="contacts_unavailable_create_contact">Créer un nouveau contact</string>
   <string name="contacts_unavailable_import_contacts">Importer des contacts à partir d\'un fichier</string>
   <string name="copy_text">Copier dans le Presse-papiers</string>
@@ -412,7 +412,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="import_all_vcard_string">Importer tous les fichiers de carte de visite</string>
   <string name="import_contact_card_button">Importer</string>
   <string name="import_failure_no_vcard_file">Aucune carte de visite dans le stockage</string>
-  <string name="import_from_other_phone">Importer à partir d\'autre téléphone</string>
+  <string name="import_from_other_phone">Importer à partir d\'un autre téléphone</string>
   <string name="import_from_sdcard">Importer depuis la carte SD</string>
   <string name="import_from_sim">Importer depuis la carte SIM</string>
   <string name="import_multiple_vcard_string">Importer plusieurs fichiers de carte de visite</string>

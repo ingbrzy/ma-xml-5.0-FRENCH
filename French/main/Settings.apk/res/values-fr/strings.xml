@@ -2504,7 +2504,7 @@ vous pouvez utiliser les réseaux d\'autres utilisateurs"</string>
   <string name="wifi_share_qrcode_title">Partager le QR code via Wi-Fi</string>
   <string name="wifi_share_show_network">Afficher les réseaux</string>
   <string name="wifi_share_summary1">Les utilisateurs MIUI peuvent partager entre eux les réseaux Wi-Fi publics protégés par des mots de passe.</string>
-  <string name="wifi_share_summary2">Si un autre utilisateur MIUI partage un réseau, vous pouvez vous connecter directement à ce réseau sans utiliser de mot de passe</string>
+  <string name="wifi_share_summary2">Si un autre utilisateur MIUI partage un réseau, vous pouvez vous connecter directement à ce réseau sans utiliser de mot de passe.</string>
   <string name="wifi_share_summary3">Partager les réseaux Wi-Fi publics avec des amis et collègues</string>
   <string name="wifi_share_turn_off">Partage désactivé</string>
   <string name="wifi_share_turn_on">Partage activé</string>

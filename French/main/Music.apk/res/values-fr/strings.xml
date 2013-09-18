@@ -142,7 +142,7 @@
   <string name="mobile_connect_settings">Réseau mobile</string>
   <string name="modify_id3_for_list">La liste actuelle des informations des musiques ID3 sera modifiée</string>
   <string name="modify_id3_for_selected">Les informations des musiques ID3 seront modifiées</string>
-  <string name="modify_meta">Modifier Meta Info</string>
+  <string name="modify_meta">Modifier les métadonnées</string>
   <string name="modify_tracks_id3_background">Modifier les informations ID3 des morceaux sélectionnées en arrière-plan</string>
   <string name="more">Plus</string>
   <string name="music_browser_label">Musique</string>

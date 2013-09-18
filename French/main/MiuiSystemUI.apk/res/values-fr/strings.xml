@@ -179,7 +179,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screenshot_saving_ticker">Enregistrement de la capture d\'écran...</string>
   <string name="screenshot_saving_title">Enregistrement de la capture d\'écran...</string>
   <string name="settings_all_app_display_loading">Chargement, veuillez patienter...</string> 
-  <string name="settings_custom_notification">Notifications personnalisées</string>
+  <string name="settings_custom_notification">Notification personnalisée</string>
   <string name="settings_expandable_under_fullscreen">Extensible en plein écran</string>
   <string name="settings_expandable_under_fullscreen_summary">En glissant vers le bas à partir du haut de l\'écran</string>
   <string name="settings_expandable_under_keyguard">Extensible sous écran de verr.</string>
@@ -190,8 +190,8 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="settings_screenshot_notification_disabled">Aff. infos. de capture d\'écran</string>
   <string name="settings_show_flow_info">Afficher infos. du trafic</string>
   <string name="settings_show_network_speed">Afficher la vitesse du réseau</string>
-  <string name="settings_show_notificationBar_notification">Afficher les notifications de la barre de notification</string> 
-  <string name="settings_show_statusBar_notification">"Afficher les notifications de la barre d'état"</string> 
+  <string name="settings_show_notificationBar_notification">Afficher notifs de la barre de notification</string> 
+  <string name="settings_show_statusBar_notification">"Afficher notifs de la barre d'état"</string> 
   <string name="settings_status_bar">"Barre d'état"</string>
   <string name="settings_toggle">Raccourcis</string>
   <string name="settings_toggle_collapse_after_clicked">Réduire après un clic</string>
