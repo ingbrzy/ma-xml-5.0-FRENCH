@@ -145,9 +145,9 @@
   <string name="cit_sd_mp3_not_existed">"Le fichier music.mp3 ne doit pas se trouver à la racine de votre carte SD, ajoutez le fichier et recommencez le test de lecture."</string>
   <string name="cit_sd_plugged_in">Carte SD chargée, retirez la carte SD</string>
   <string name="cit_sd_plugged_out">Carte SD non montée, monter la carte SD</string>
-  <string name="cit_sd_plugin_check_summary">Ce test va détecter si la carte SD est montée, l\'écran affiche alors \"La carte SD a été montée\"</string>
+  <string name="cit_sd_plugin_check_summary">Ce test va détecter si la carte SD est montée, l\'écran affiche alors "La carte SD a été montée"</string>
   <string name="cit_sd_plugin_check_title">test du montage de la carte SD</string>
-  <string name="cit_sd_plugout_check_summary">Ce test va détecter si la carte SD est désinstallée, l\'écran affiche alors \"La carte SD a été désinstallée\"</string>
+  <string name="cit_sd_plugout_check_summary">Ce test va détecter si la carte SD est désinstallée, l\'écran affiche alors "La carte SD a été désinstallée"</string>
   <string name="cit_sd_plugout_check_title">test du montage de la carte SD</string>
   <string name="cit_sd_unmount">Démonter la carte SD</string>
   <string name="cit_sd_unmount_sucess">La carte SD a été montée avec succès</string>

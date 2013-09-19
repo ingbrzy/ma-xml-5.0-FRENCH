@@ -7,7 +7,7 @@
   <string name="accessibility_bluetooth_disconnected">Bluetooth déconnecté</string>
   <string name="accessibility_bluetooth_tether">Partage de connexion Bluetooth</string>
   <string name="accessibility_clear_all">Supprimer toutes les notifications</string>
-  <string name="accessibility_compatibility_zoom_button">Bouton \"Zoom de compatibilité\"</string>
+  <string name="accessibility_compatibility_zoom_button">Bouton "Zoom de compatibilité"</string>
   <string name="accessibility_compatibility_zoom_example">"Zoom de compatibilité avec la taille de l\'écran"</string>
   <string name="accessibility_data_connection_3.5g">3G+</string>
   <string name="accessibility_data_connection_3g">3G</string>
@@ -20,7 +20,7 @@
   <string name="accessibility_data_three_bars">Signal bon</string>
   <string name="accessibility_data_two_bars">Signal moyen</string>
   <string name="accessibility_home">Accueil</string>
-  <string name="accessibility_ime_switch_button">Bouton \"Changer le mode de saisie\"</string>
+  <string name="accessibility_ime_switch_button">Bouton "Changer le mode de saisie"</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">Aucun signal</string>
   <string name="accessibility_no_phone">Aucun signal</string>
@@ -32,7 +32,7 @@
   <string name="accessibility_phone_three_bars">Signal : bon</string>
   <string name="accessibility_phone_two_bars">Signal : moyen</string>
   <string name="accessibility_recent">Applications récentes</string>
-  <string name="accessibility_recents_item_dismissed">Application \"%s\" ignorée.</string>
+  <string name="accessibility_recents_item_dismissed">Application "%s" ignorée.</string>
   <string name="accessibility_remove_notification">Supprimer la notification</string>
   <string name="accessibility_ringer_silent">Sonnerie en mode silencieux</string>
   <string name="accessibility_ringer_vibrate">Sonnerie en mode vibreur</string>
@@ -104,7 +104,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="ext_media_safe_unmount_notification_title">La carte SD peut être retirée en toute sécurité</string>
   <string name="ext_media_unmountable_notification_message">Carte SD endommagée. Vous devriez peut-être la formater.</string>
   <string name="ext_media_unmountable_notification_title">Carte SD endommagée</string>
-  <string name="filter_item_description">\"Paramètres-Paramètres de la barre d\'état-Notifications personnalisées\" pour définir le type de notification des applications</string> 
+  <string name="filter_item_description">"Paramètres-Paramètres de la barre d\'état-Notifications personnalisées" pour définir le type de notification des applications</string> 
   <string name="filter_item_preview_image">Aperçu</string>
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Position définie par GPS</string>
@@ -295,7 +295,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="usb_storage_message">Vous êtes connecté à votre ordinateur par l\'USB. Appuyer sur le bouton ci-dessous si vous souhaitez copier des fichiers entre votre ordinateur et la mémoire de stockage USB de votre appareil Android.</string>
   <string name="usb_storage_notification_message">Sélectionnez cette option pour copier des fichiers vers/depuis votre ordinateur.</string>
   <string name="usb_storage_notification_title">Périphérique USB connecté</string>
-  <string name="usb_storage_stop_message">Avant de désactiver la mémoire de stockage USB, assurez-vous de bien avoir arrêté (\"Éjecté\") le périphérique USB visible de votre ordinateur.</string>
+  <string name="usb_storage_stop_message">Avant de désactiver la mémoire de stockage USB, assurez-vous de bien avoir arrêté ("Éjecté") le périphérique USB visible de votre ordinateur.</string>
   <string name="usb_storage_stop_notification_message">Sélectionnez cette option pour éjecter le périphérique USB.</string>
   <string name="usb_storage_stop_notification_title">Éjecter le périphérique USB</string>
   <string name="usb_storage_stop_title">Le périphérique de stockage USB est en cours d\'utilisation</string>

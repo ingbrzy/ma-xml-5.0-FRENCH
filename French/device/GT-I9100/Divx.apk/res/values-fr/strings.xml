@@ -22,8 +22,8 @@
   <string name="unable_to_remove_license">Impossible d\'effacer licences</string>
   <string name="all_licenses_are_clearing">Suppression...</string>
   <string name="all_licenses_are_removed">Supprimé</string>
-  <string name="clear_license_popup">\"Les contenus nécessitant des licences doivent être achetés de nouveau pour être utilisés.
-Supprimer toutes les licences ?\"</string>
+  <string name="clear_license_popup">"Les contenus nécessitant des licences doivent être achetés de nouveau pour être utilisés.
+Supprimer toutes les licences ?"</string>
   <string name="divx_vod">DivX® VOD</string>
   <string name="divx_registration">Enregistrer</string>
   <string name="divx_deregistration">Annuler l\'enregistrement</string>

@@ -14,14 +14,14 @@
   <string name="adding_fdn_contact">Ajout du numéro autorisé...</string>
   <string name="additional_cdma_call_settings">Autres paramètres d\'appel CDMA</string>
   <string name="additional_gsm_call_settings">Autres paramètres</string>
-  <string name="administrative_disable">Option \"Administration\" désactivée</string>
-  <string name="administrative_enable">Option \"Administration\" activée</string>
+  <string name="administrative_disable">Option "Administration" désactivée</string>
+  <string name="administrative_enable">Option "Administration" activée</string>
   <string name="advanced_settings">Paramètres facultatifs</string>
   <string name="advanced_settings_container">conteneur de paramètres avancés</string>
   <string name="advanced_settings_hide">▽ Appuyer ici pour tout masquer</string>
   <string name="advanced_settings_show">▷ Appuyer ici pour tout afficher</string>
-  <string name="advertisements_disable">Option \"Annonces\" désactivée</string>
-  <string name="advertisements_enable">Option \"Annonces\" activée</string>
+  <string name="advertisements_disable">Option "Annonces" désactivée</string>
+  <string name="advertisements_enable">Option "Annonces" activée</string>
   <string name="alert_dialog_close">Fermer le profil</string>
   <string name="alert_dialog_dismiss">Ignorer</string>
   <string name="alert_dialog_in_ecm_call">L\'action sélectionnée n\'est pas disponible pendant un appel d\'urgence.</string>
@@ -49,8 +49,8 @@
   <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Code régional requis pour les appels d\'urgence</string>
   <string name="areacode_required_miui">L\'indicatif régional est requis</string>
-  <string name="atr_disable">Option \"Infos trafic locales\" désactivée</string>
-  <string name="atr_enable">Option \"Infos trafic locales\" activée</string>
+  <string name="atr_disable">Option "Infos trafic locales" désactivée</string>
+  <string name="atr_enable">Option "Infos trafic locales" activée</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Écouteur du combiné</string>
   <string name="audio_mode_speaker">Haut-parleur</string>
@@ -225,8 +225,8 @@
   <string name="cdma_system_select_summary">Modifier le mode d\'itinérance CDMA</string>
   <string name="cdma_system_select_title">Sélection système</string>
   <string name="cdma_three_way_calls_miui">Conférence à trois</string>
-  <string name="cell_bc_sms_disable">Option \"Diffusion cellulaire par SMS\" désactivée</string>
-  <string name="cell_bc_sms_enable">Option \"Diffusion cellulaire par SMS\" activée</string>
+  <string name="cell_bc_sms_disable">Option "Diffusion cellulaire par SMS" désactivée</string>
+  <string name="cell_bc_sms_enable">Option "Diffusion cellulaire par SMS" activée</string>
   <string name="cell_broadcast_sms">Diffusion cellulaire par SMS</string>
   <string name="cfb_title_miui">Transférer si occupé</string>
   <string name="cfnrc_title_miui">Transférer si injoignable</string>
@@ -293,7 +293,7 @@
   <string name="current_areacode_sum_set_miui">Emplacement de l\'indicatif régional actuel: %s</string>
   <string name="cursorError">Erreur de curseur</string>
   <string name="custom_location_location_hint_miui">Nom</string>
-  <string name="custom_location_location_no_item_miui">"Cliquez sur \"Ajouter\" ci-dessous pour ajouter l'attribution personnalisée"</string>
+  <string name="custom_location_location_no_item_miui">"Cliquez sur "Ajouter" ci-dessous pour ajouter l'attribution personnalisée"</string>
   <string name="custom_location_number_hint_miui">Indicatif régional tel que 010, numéro de groupe tel que 68#####</string>
   <string name="cw_title_miui">Appel en attente</string>
   <string name="data_enable_summary">Activer l\'accès aux données sur le réseau mobile</string>
@@ -377,8 +377,8 @@
   <string name="edit_custom_location_title_miui">Personnaliser l\'attribution régionale, l\'attribution du numéro, les caractères génériques # sont pris en charge</string>
   <string name="edit_fdn_contact">Modifier le numéro autorisé</string>
   <string name="emergencyDialerIconLabel">Appels d\'urgence</string>
-  <string name="emergency_broadcast_disable">Option \"Diffusion des services d\'urgence\" désactivée</string>
-  <string name="emergency_broadcast_enable">Option \"Diffusion des services d\'urgence\" activée</string>
+  <string name="emergency_broadcast_disable">Option "Diffusion des services d\'urgence" désactivée</string>
+  <string name="emergency_broadcast_enable">Option "Diffusion des services d\'urgence" activée</string>
   <string name="emergency_call_area_code_edit_dialog_button_miui">Appeler</string>
   <string name="emergency_call_area_code_edit_dialog_hint_miui">par ex: 112</string>
   <string name="emergency_enable_radio_dialog_message">Activation du signal radio...</string>
@@ -428,8 +428,8 @@
   <string name="enter_pin2_text_miui">PIN2</string>
   <string name="enter_pin_text">Code PIN de la carte SIM :</string>
   <string name="entertainment_news_settings">Culture et loisirs</string>
-  <string name="eo_disable">Option \"Offres d\'emploi\" désactivée</string>
-  <string name="eo_enable">Option \"Offres d\'emploi\" activée</string>
+  <string name="eo_disable">Option "Offres d\'emploi" désactivée</string>
+  <string name="eo_enable">Option "Offres d\'emploi" activée</string>
   <string name="error_updating_title">Erreur des paramètres d\'appel</string>
   <string name="exception_error">Erreur de réseau ou de carte SIM.</string>
   <string name="exportAllcontatsFailed">Impossible d\'exporter tous les contacts de la carte SIM !</string>
@@ -504,8 +504,8 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="incall_screen_background_summary_miui">"Utiliser le fond d'écran de verrouillage si le correspondant n'a pas d'avatar"</string>
   <string name="incall_screen_background_title_miui">Écran de l\'interface d\'appel</string>
   <string name="incall_status_dialed_mmi">Lancement de la séquence IHM...</string>
-  <string name="international_disable">Option \"Actualités internationales\" désactivée</string>
-  <string name="international_enable">Option \"Actualités internationales\" activée</string>
+  <string name="international_disable">Option "Actualités internationales" désactivée</string>
+  <string name="international_enable">Option "Actualités internationales" activée</string>
   <string name="internet_phone">Appel par Internet</string>
   <string name="invalidPin">Saisissez un code PIN comprenant 4 à 8 chiffres.</string>
   <string name="invalidPin2">Saisissez un code PIN2 comprenant 4 à 8 chiffres.</string>
@@ -547,20 +547,20 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="label_sdp">Débloquer le PIN SIM SIM</string>
   <string name="label_spdp">Débloquer le PIN SIM du prestataire de services</string>
   <string name="label_subscription">pour l\'abonnement</string>
-  <string name="lafs_disable">Option \"Horaires des vols des aéroports à proximité\" désactivée</string>
-  <string name="lafs_enable">Option \"Horaires des vols des aéroports à proximité\" activée</string>
+  <string name="lafs_disable">Option "Horaires des vols des aéroports à proximité" désactivée</string>
+  <string name="lafs_enable">Option "Horaires des vols des aéroports à proximité" activée</string>
   <string name="list_language_dtitle">Langues</string>
   <string name="list_language_summary">Sélectionnez la langue des actualités</string>
   <string name="list_language_title">Langue</string>
   <string name="load_networks_progress">Recherche...</string>
-  <string name="local_disable">Option \"Actualités locales\" désactivée</string>
-  <string name="local_enable">Option \"Actualités locales\" activée</string>
-  <string name="local_weather_disable">Option \"Météo locale\" désactivée</string>
-  <string name="local_weather_enable">Option \"Météo locale\" activée</string>
-  <string name="lodgings_disable">Option \"Hébergements\" désactivée</string>
-  <string name="lodgings_enable">Option \"Hébergements\" activée</string>
-  <string name="maintenance_disable">Option \"Maintenance\" désactivée</string>
-  <string name="maintenance_enable">Option \"Maintenance\" activée</string>
+  <string name="local_disable">Option "Actualités locales" désactivée</string>
+  <string name="local_enable">Option "Actualités locales" activée</string>
+  <string name="local_weather_disable">Option "Météo locale" désactivée</string>
+  <string name="local_weather_enable">Option "Météo locale" activée</string>
+  <string name="lodgings_disable">Option "Hébergements" désactivée</string>
+  <string name="lodgings_enable">Option "Hébergements" activée</string>
+  <string name="maintenance_disable">Option "Maintenance" désactivée</string>
+  <string name="maintenance_enable">Option "Maintenance" activée</string>
   <string name="manageConferenceLabel">Gérer la conférence téléphonique</string>
   <string name="manage_fdn_list">Liste de numéros autorisés</string>
   <string name="manage_fdn_list_miui">Liste FDN</string>
@@ -575,8 +575,8 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="messageCFNRc">Numéro de renvoi si injoignable</string>
   <string name="messageCFNRy">Numéro de renvoi lorsque vous ne répondez pas</string>
   <string name="messageCFU">Toujours utiliser ce numéro</string>
-  <string name="mhh_disable">Option \"Médecine, services de santé et hôpitaux\" désactivée</string>
-  <string name="mhh_enable">Option \"Médecine, services de santé et hôpitaux\" activée</string>
+  <string name="mhh_disable">Option "Médecine, services de santé et hôpitaux" désactivée</string>
+  <string name="mhh_enable">Option "Médecine, services de santé et hôpitaux" activée</string>
   <string name="mismatchPin">Les codes PIN saisis ne correspondent pas. Veuillez réessayer.</string>
   <string name="mismatchPin2">Les codes PIN2 saisis ne correspondent pas. Veuillez réessayer.</string>
   <string name="mismatch_pin2_miui">Les codes PIN2 que vous avez saisis ne correspondent pas, veuillez réessayer</string>
@@ -594,16 +594,16 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="mobile_network_setting">Paramètres de réseau mobile</string>
   <string name="mobile_networks">Paramètres du réseau mobile</string>
   <string name="mobile_networks_miui">Paramètres de réseau mobile</string>
-  <string name="multi_category_disable">Option \"Multi-catégories\" désactivée</string>
-  <string name="multi_category_enable">Option \"Multi-catégories\" activée</string>
+  <string name="multi_category_disable">Option "Multi-catégories" désactivée</string>
+  <string name="multi_category_enable">Option "Multi-catégories" activée</string>
   <string name="name">Nom</string>
-  <string name="national_disable">Option \"Actualités nationales\" désactivée</string>
-  <string name="national_enable">Option \"Actualités nationales\" activée</string>
+  <string name="national_disable">Option "Actualités nationales" désactivée</string>
+  <string name="national_enable">Option "Actualités nationales" activée</string>
   <string name="network_manage_settings">Réglages des services réseau</string>
   <string name="network_message">Message réseau</string>
   <string name="network_query_error">Une erreur s\'est produite lors de la recherche de réseaux.</string>
   <string name="network_settings_sel_sub">Sélectionner Abonnement</string>
-  <string name="network_work_query_failed_message_miui">"La requête du réseau a échoué, appuyez sur \"annuler\" pour sélectionner automatiquement le réseau préféré ou appuyez sur \"ok\" pour réessayer"</string>
+  <string name="network_work_query_failed_message_miui">"La requête du réseau a échoué, appuyez sur "annuler" pour sélectionner automatiquement le réseau préféré ou appuyez sur "ok" pour réessayer"</string>
   <string name="networks">Opérateurs de réseau</string>
   <string name="networks_title_miui">Opérateurs réseau</string>
   <string name="newPin2Label">Nouveau code PIN2</string>
@@ -620,7 +620,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="no_vm_number">Numéro de messagerie vocale manquant</string>
   <string name="no_vm_number_msg">Aucun numéro de messagerie vocale n\'est enregistré sur la carte SIM.</string>
   <string name="no_voip">Appels Internet non pris en charge</string>
-  <string name="no_wifi_available">Les appels Internet nécessitent une connexion Wi-Fi pouvant être activée dans les paramètres \"Sans fil et réseaux\".</string>
+  <string name="no_wifi_available">Les appels Internet nécessitent une connexion Wi-Fi pouvant être activée dans les paramètres "Sans fil et réseaux".</string>
   <string name="no_wifi_available_title">Aucune connexion Wi-Fi</string>
   <string name="not_a_valid_port">Le numéro de port doit être compris entre 1000 et 65534.</string>
   <string name="not_allowed">Votre carte SIM ne permet pas de vous connecter à ce réseau.</string>
@@ -704,21 +704,21 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="ota_title_activate">Activer votre téléphone</string>
   <string name="ota_title_activate_success">Votre téléphone est activé</string>
   <string name="ota_title_problem_with_activation">Problème lors de l\'activation</string>
-  <string name="ota_touch_activate">"\"Vous devez passer un appel spécial pour activer le service de téléphonie. 
+  <string name="ota_touch_activate">"Vous devez passer un appel spécial pour activer le service de téléphonie. 
 
-Après avoir appuyé sur \"Activer\", écoutez les instructions qui vous permettront d'activer votre téléphone.\""</string>
+Après avoir appuyé sur "Activer", écoutez les instructions qui vous permettront d'activer votre téléphone."</string>
   <string name="ota_try_again">Réessayer</string>
-  <string name="ota_unsuccessful">"\"Votre téléphone n'a pas pu être activé. 
+  <string name="ota_unsuccessful">"Votre téléphone n'a pas pu être activé. 
 Il est possible que vous deviez vous déplacer vers une zone disposant d'une meilleure couverture (près d'une fenêtre ou à l'extérieur).
 
-Veuillez réessayer ou appeler le service client pour plus d'options.\""</string>
+Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="other_settings">Autres paramètres d\'appel</string>
   <string name="other_settings_miui">Autres paramètres d\'appel</string>
   <string name="password">Mot de passe</string>
   <string name="password_title">Mot de passe</string>
   <string name="pause_prompt_no">Non</string>
-  <string name="pause_prompt_str">"\"Envoi des tonalités
-\""</string>
+  <string name="pause_prompt_str">"Envoi des tonalités
+"</string>
   <string name="pause_prompt_yes">Oui</string>
   <string name="payphone">Cabine téléphonique</string>
   <string name="phoneAppLabel">Téléphone</string>
@@ -776,8 +776,8 @@ Veuillez réessayer ou appeler le service client pour plus d'options.\""</string
   <string name="preferred_network_mode_title">Mode réseau</string>
   <string name="preferred_network_mode_wcdma_only_summary">Mode réseau préféré : WCDMA uniquement</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Mode réseau préféré : WCDMA de préférence</string>
-  <string name="preferred_network_type_3g_only_warning_miui">"\"Vous avez choisi 3G seulement. Cela signifie qu'en l'absence de couverture 3G, vous n'aurez AUCUN réseau !
-Appuyez sur OK pour continuer.\""</string>
+  <string name="preferred_network_type_3g_only_warning_miui">"Vous avez choisi 3G seulement. Cela signifie qu'en l'absence de couverture 3G, vous n'aurez AUCUN réseau !
+Appuyez sur OK pour continuer."</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G privilégiée</string>
@@ -808,8 +808,8 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="rc_unlock_success">Déverrouillage de la RUIM d\'entreprise réussie.</string>
   <string name="readingSimContacts">Lecture des informations de carte SIM, veuillez patienter...</string>
   <string name="reading_settings">Lecture des paramètres...</string>
-  <string name="regional_disable">Option \"Actualités régionales\" désactivée</string>
-  <string name="regional_enable">Option \"Actualités régionales\" activée</string>
+  <string name="regional_disable">Option "Actualités régionales" désactivée</string>
+  <string name="regional_enable">Option "Actualités régionales" activée</string>
   <string name="register_automatically">Enregistrement automatique...</string>
   <string name="register_network_failed_message_miui">"Impossible de vous enregistrer sur le réseau sélectionné, voulez-vous vous connecter automatiquement sur le réseau préféré ?"</string>
   <string name="register_network_failed_title_miui">Service non disponible</string>
@@ -861,10 +861,10 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="respond_via_sms_setting_title">Réponses rapides</string>
   <string name="respond_via_sms_setting_title_2">Modifier les réponses rapides</string>
   <string name="response_error">Réponse inattendue du réseau</string>
-  <string name="restaurants_disable">Option \"Restaurants\" désactivée</string>
-  <string name="restaurants_enable">Option \"Restaurants\" activée</string>
-  <string name="retail_directory_disable">Option \"Annuaire des commerces\" désactivée</string>
-  <string name="retail_directory_enable">Option \"Annuaire des commerces\"</string>
+  <string name="restaurants_disable">Option "Restaurants" désactivée</string>
+  <string name="restaurants_enable">Option "Restaurants" activée</string>
+  <string name="retail_directory_disable">Option "Annuaire des commerces" désactivée</string>
+  <string name="retail_directory_enable">Option "Annuaire des commerces"</string>
   <string name="reverting_settings">Rétablissement des paramètres...</string>
   <string name="rhrpd_unlock_failed">La demande de déverrouillage de l\'UIM HRPD a échoué.</string>
   <string name="rhrpd_unlock_success">Le déverrouillage de la RUIM HRPD a réussi.</string>
@@ -969,8 +969,8 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="stk_cc_ss_to_dial_error">La requête SS a été modifiée en requête d\'appel.</string>
   <string name="stk_cc_ss_to_ss_error">La requête SS a été modifiée en une nouvelle requête SS.</string>
   <string name="stk_cc_ss_to_ussd_error">La requête SS a été modifiée en requête USSD.</string>
-  <string name="stock_quotes_disable">Option \"Cours de bourse\" désactivée</string>
-  <string name="stock_quotes_enable">Option \"Cours de bourse\" activée</string>
+  <string name="stock_quotes_disable">Option "Cours de bourse" désactivée</string>
+  <string name="stock_quotes_enable">Option "Cours de bourse" activée</string>
   <string name="sub1LineNumber">Numéro de l\'abonnement 1:</string>
   <string name="sub2LineNumber">Numéro de l\'abonnement 2:</string>
   <string name="sub_1">SUB 1</string>
@@ -980,7 +980,7 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="subone">Abonnement 1</string>
   <string name="subtwo">Abonnement 2</string>
   <string name="sum_carrier_select">Sélectionner un opérateur réseau</string>
-  <string name="sum_cdma_call_settings">Autres paramètres d\'appel \"CDMA uniquement\"</string>
+  <string name="sum_cdma_call_settings">Autres paramètres d\'appel "CDMA uniquement"</string>
   <string name="sum_cfb_disabled">Désactivé</string>
   <string name="sum_cfb_enabled">Transfert vers {0}</string>
   <string name="sum_cfnrc_disabled">Désactivé</string>
@@ -997,7 +997,7 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="sum_fdn">Gérer la liste de numéros autorisés</string>
   <string name="sum_fdn_change_pin">Modifier le code PIN pour l\'accès aux numéros autorisés</string>
   <string name="sum_fdn_manage_list">Gérer la liste des numéros de téléphone</string>
-  <string name="sum_gsm_call_settings">Autres paramètres d\'appel \"GSM uniquement\"</string>
+  <string name="sum_gsm_call_settings">Autres paramètres d\'appel "GSM uniquement"</string>
   <string name="sum_hide_caller_id">Numéro masqué pour les appels sortants</string>
   <string name="sum_loading_settings">Chargement des paramètres...</string>
   <string name="sum_search_networks">Chercher tous les réseaux disponibles</string>
@@ -1012,8 +1012,8 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="t9_indexing_method_title_miui">Paramètre de recherche T9</string>
   <string name="t9_indexing_method_zhuyin">Caractères chinois (ZhuYin)</string>
   <string name="t9_indexing_rebuilding_message">Reconstruction des index du T9...</string>
-  <string name="technology_news_disable">Option \"Technologies\" désactivée</string>
-  <string name="technology_news_enable">Option \"Nouvelles technologies\" activée</string>
+  <string name="technology_news_disable">Option "Technologies" désactivée</string>
+  <string name="technology_news_enable">Option "Nouvelles technologies" activée</string>
   <string name="telocation_setting_miui">Paramètres de localisation</string>
   <string name="telocation_setting_summary_countrycode_off">"Ne pas ajouter le code pays automatiquement"</string>
   <string name="telocation_setting_summary_countrycode_on">Ajouter le code pays automatiquement</string>
@@ -1022,19 +1022,19 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="telocation_show_settings_miui">Paramètres d\'affichage</string>
   <string name="third_party_account_summary">Ce compte est actuellement utilisé par l\'application %s.</string>
   <string name="throttle_current_usage">Données utilisées sur la période en cours</string>
-  <string name="throttle_data_rate_reduced_subtext">"\"%1$s maximum dépassé
-Taux de transfert des données réduit à %2$d Ko/s\""</string>
+  <string name="throttle_data_rate_reduced_subtext">"%1$s maximum dépassé
+Taux de transfert des données réduit à %2$d Ko/s"</string>
   <string name="throttle_data_usage">Consommation des données</string>
   <string name="throttle_data_usage_subtext">%1$s sur %3$s - (%2$d ٪) du maximum par période</string>
   <string name="throttle_help">En savoir plus</string>
   <string name="throttle_help_subtext">"Plus d'informations sur les règles de votre opérateur mobile concernant l'utilisation des données sur son réseau"</string>
   <string name="throttle_rate">Règles relatives au taux de transfert des données</string>
   <string name="throttle_rate_subtext">Taux de transfert des données réduit à %1$d Ko/s si le plafond d\'utilisation est dépassé</string>
-  <string name="throttle_status_subtext">"\"%1$s sur %3$s - (%2$d ٪) du maximum par période
-La prochaine période démarre dans %4$d jours (%5$s).\""</string>
+  <string name="throttle_status_subtext">"%1$s sur %3$s - (%2$d ٪) du maximum par période
+La prochaine période démarre dans %4$d jours (%5$s)."</string>
   <string name="throttle_time_frame">Période d\'utilisation des données</string>
-  <string name="throttle_time_frame_subtext">"\"%1$d ٪ du cycle écoulé
-La prochaine période démarre dans %2$d jours (%3$s)\""</string>
+  <string name="throttle_time_frame_subtext">"%1$d ٪ du cycle écoulé
+La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="title_data_settings">Paramètres des données</string>
   <string name="transport">Protocole</string>
   <string name="transport_title">Type de transport</string>
@@ -1064,8 +1064,8 @@ La prochaine période démarre dans %2$d jours (%3$s)\""</string>
   <string name="username_title">Nom d\'utilisateur</string>
   <string name="ussdRunning">Exécution du code USSD...</string>
   <string name="vibrate_on_ring_title">Mode Vibreur lorsque le tél. sonne</string>
-  <string name="vm_change_failed">"\"Impossible de modifier le numéro de la messagerie vocale.
-Veuillez contacter votre opérateur si le problème persiste.\""</string>
+  <string name="vm_change_failed">""Impossible de modifier le numéro de la messagerie vocale.
+Veuillez contacter votre opérateur si le problème persiste.""</string>
   <string name="vm_changed">Le numéro de messagerie vocale a été modifié.</string>
   <string name="voice_privacy">Confidentialité voix</string>
   <string name="voice_privacy_miui">Confidentialité vocale</string>
@@ -1092,8 +1092,8 @@ Veuillez contacter votre opérateur si le problème persiste.\""</string>
   <string name="voicemail_settings_number_hint_miui">Saisir le numéro de la messagerie vocale</string>
   <string name="voicemail_settings_number_label">N° messagerie vocale</string>
   <string name="voicemail_settings_number_title_miui">N° de messagerie vocale</string>
-  <string name="wait_prompt_str">"\"Envoyer les tonalités suivantes ?
-\""</string>
+  <string name="wait_prompt_str">"Envoyer les tonalités suivantes ?
+"</string>
   <string name="wild_prompt_str">Remplacer le caractère générique par</string>
   <string name="xdivert_active">Actif</string>
   <string name="xdivert_button">Réglage du X-Divert</string>

@@ -53,7 +53,7 @@ Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le conte
   <string name="accessibility_script_injection_security_warning_summary">Voulez-vous que les applications installent des scripts de Google pour rendre leur contenu Web plus accessible ?</string>
   <string name="accessibility_script_injection_title">Améliorer l\'accessibilité Web</string>
   <string name="accessibility_service_default_description">Aucune description fournie</string>
-  <string name="accessibility_service_disable_warning_summary">Si vous appuyez sur \"OK\", %1$s sera arrêté.</string>
+  <string name="accessibility_service_disable_warning_summary">Si vous appuyez sur "OK", %1$s sera arrêté.</string>
   <string name="accessibility_service_disable_warning_title">Arrêter %1$s ?</string>
   <string name="accessibility_service_no_apps_message">TalkBack fournit des informations audio aux personnes malvoyantes. Voulez-vous l\'installer gratuitement depuis le Play Store ?</string>
   <string name="accessibility_service_no_apps_title">Avez-vous besoin d\'un lecteur d\'écran ?</string>
@@ -104,9 +104,9 @@ Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le conte
   <string name="allow_mock_location_summary">Autoriser les positions fictives</string>
   <string name="always_allow_bind_appwidgets_text">"Vous avez choisi de permettre à cette application de créer des widgets et d'accéder à leurs données."</string>
   <string name="android_beam_disabled_summary">Indisponible, car la NFC est désactivée</string>
-  <string name="android_beam_explained">"\"\"\"Lorsque cette fonctionnalité est activée, vous pouvez partager le contenu d'une application avec un appareil compatible NFC en rapprochant les appareils. Vous pouvez, par exemple, partager des pages de navigateur, des vidéos YouTube, des contacts et plus encore.
+  <string name="android_beam_explained">"Lorsque cette fonctionnalité est activée, vous pouvez partager le contenu d'une application avec un appareil compatible NFC en rapprochant les appareils. Vous pouvez, par exemple, partager des pages de navigateur, des vidéos YouTube, des contacts et plus encore.
 
-Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'appuyer sur votre écran. L'application détermine le contenu à transférer.\"\"\""</string>
+Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'appuyer sur votre écran. L'application détermine le contenu à transférer."</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Désactivé</string>
   <string name="android_beam_on_summary">Prêt à partager le contenu de l\'application via NFC</string>
@@ -183,15 +183,15 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="auto_launch_label">Lancer par défaut</string>
   <string name="auto_launch_label_generic">Paramètres par défaut</string>
   <string name="auto_punctuate">Ponctuation automatique</string>
-  <string name="auto_punctuate_summary">Appuyez deux fois sur la touche Espace pour insérer \".\"</string>
+  <string name="auto_punctuate_summary">Appuyez deux fois sur la touche Espace pour insérer "."</string>
   <string name="auto_replace">Remplacement auto</string>
   <string name="auto_replace_summary">Corriger les mots mal saisis</string>
   <string name="auto_restore_summary">Lors de la réinstallation d\'une application restaurer les paramètres et les données sauvegardées</string>
   <string name="auto_restore_title">Restaurer automatiquement</string>
   <string name="auto_startup_application_manage">Démarrage</string>
   <string name="auto_startup_count">Démarrage automatique de %d applications</string>
-  <string name="auto_startup_dialog_msg">"\"\"MIUI autorisera l'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d'énergie et de données.
-  Autoriser le démarrage automatique ?\"\""</string>
+  <string name="auto_startup_dialog_msg">"MIUI autorisera l'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d'énergie et de données.
+  Autoriser le démarrage automatique ?"</string>
   <string name="automatic_brightness">Ajuster automatiquement la luminosité</string>
   <string name="available_size">%s disponible</string>
   <string name="awake">Durée de fonctionnement de l\'appareil</string>
@@ -317,8 +317,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans audio tel./multimédia)</string>
   <string name="bluetooth_connecting">Connexion...</string>
   <string name="bluetooth_connecting_error_message">"Impossible de se connecter à %1$s."</string>
-  <string name="bluetooth_connection_dialog_text">Voulez-vous vous connecter à \"%1$s\" ?</string>
-  <string name="bluetooth_connection_notif_message">Appuyez pour vous connecter à \"%1$s\".</string>
+  <string name="bluetooth_connection_dialog_text">Voulez-vous vous connecter à "%1$s" ?</string>
+  <string name="bluetooth_connection_notif_message">Appuyez pour vous connecter à "%1$s".</string>
   <string name="bluetooth_connection_permission_request">Demande de connexion Bluetooth</string>
   <string name="bluetooth_device">Appareil Bluetooth sans nom</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Autoriser les fichiers entrants</string>
@@ -348,7 +348,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_disconnect_title">Déconnecter ?</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion...</string>
-  <string name="bluetooth_display_passkey_pin_msg">Pour l\'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisissez &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, puis appuyez sur \"Retour\" ou sur \"Entrée\".</string>
+  <string name="bluetooth_display_passkey_pin_msg">Pour l\'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisissez &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, puis appuyez sur "Retour" ou sur "Entrée".</string>
   <string name="bluetooth_dock_settings">Paramètres de la station d\'accueil</string>
   <string name="bluetooth_dock_settings_a2dp">Pour la musique et le multimédia</string>
   <string name="bluetooth_dock_settings_headset">Comme téléphone à haut-parleur</string>
@@ -367,7 +367,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_enter_passkey_msg">"Pour l'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir la clé d'accès requise de l'appareil : "</string>
   <string name="bluetooth_enter_passkey_other_device">Vous devrez peut-être également saisir ce mot de passe sur l\'autre appareil.</string>
   <string name="bluetooth_enter_pin_msg">"Pour l'association à :{&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir le code PIN requis de l'appareil : "</string>
-  <string name="bluetooth_enter_pin_msg_hs">Entrez le PIN pour lier avec \"%1$s\". [Haute sécurité activé: Demande une clé de 16 caractère]</string>
+  <string name="bluetooth_enter_pin_msg_hs">Entrez le PIN pour lier avec "%1$s". [Haute sécurité activé: Demande une clé de 16 caractère]</string>
   <string name="bluetooth_enter_pin_other_device">Vous devrez peut-être également saisir ce code PIN sur l\'autre appareil.</string>
   <string name="bluetooth_error_title"></string>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s souhaiterait accéder à vos fichiers et dossiers. Donner l\'accès à %2$s ?</string>
@@ -617,9 +617,9 @@ Pour sélectionner le type d\'informations à synchroniser au sein de chaque com
   <string name="data_usage_enable_mobile">Données mobiles</string>
   <string name="data_usage_label_background">Arrière-plan</string>
   <string name="data_usage_label_foreground">Premier plan</string>
-  <string name="data_usage_limit_dialog_mobile">"\"\"\"Votre connexion Internet mobile sera désactivée une fois le seuil défini atteint.
+  <string name="data_usage_limit_dialog_mobile">"Votre connexion Internet mobile sera désactivée une fois le seuil défini atteint.
 
-La consommation des données étant mesurée par le téléphone, celle mesurée par votre opérateur peut différer. Nous vous recommandons donc de définir un seuil plus bas.\"\"\""</string>
+La consommation des données étant mesurée par le téléphone, celle mesurée par votre opérateur peut différer. Nous vous recommandons donc de définir un seuil plus bas."</string>
   <string name="data_usage_limit_dialog_title">Limitation de la consommation de données mobiles</string>
   <string name="data_usage_limit_editor_title">Définir un quota d\'utilisation des données</string>
   <string name="data_usage_list_mobile">Mobile</string>
@@ -887,7 +887,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="error_apn_empty">"L'APN est obligatoire."</string>
   <string name="error_mcc_not3">Le champ MCC doit contenir 3 chiffres.</string>
   <string name="error_mnc_not23">Le champ MNC doit contenir 2 ou 3 chiffres.</string>
-  <string name="error_name_empty">"Le champ \"Nom\" est obligatoire."</string>
+  <string name="error_name_empty">"Le champ "Nom" est obligatoire."</string>
   <string name="error_title"></string>
   <string name="external_code_size_label">Application sur USB</string>
   <string name="external_data_size_label">Données sur USB</string>
@@ -1253,12 +1253,12 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Suivant</string>
   <string name="msd_install_retry_linux">"Si votre ordinateur ne détecte pas votre appareil, essayez ce qui suit:
-1) Utiliser l\'outil d\'installation, \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
+1) Utiliser l\'outil d\'installation, "sudo aptitude install mtpfs libfuse-dev libmad0-dev"
 2) Créer le répertoire : mkdir /media/mtp
 3) Confirmer les permissions du groupe d\'utilisateur
 4) Reconnecter
-5) Accéder à l\'appareil monté: \"mtpfs /media/mtp\" via Nautilus; même répertoire local
-6) Désinstaller l\'appareil \"fusermount -u /media/mtp\"
+5) Accéder à l\'appareil monté: "mtpfs /media/mtp" via Nautilus; même répertoire local
+6) Désinstaller l\'appareil "fusermount -u /media/mtp"
 Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="msd_install_retry_mac">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
   <string name="msd_install_retry_windows_vista">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
@@ -1449,8 +1449,8 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="perm_su_disabled_in_stable">ROOT n\'est pas disponible dans la version stable de MIUI</string>
   <string name="perm_su_disabled_in_stable_desc">"Donner l'autorisation ROOT aux applications tierces peut provoquer des instabilités système, la perte de données personnelles et système, ou des dommages matériels. Veuillez passer à la version de développement de MIUI pour permettre la permission ROOT."</string>
   <string name="perm_su_disabled_in_stable_download">Télécharger MIUI</string>
-  <string name="perm_su_enable_content">"\"\"L'activer permettra aux applications de demander la permission ROOT.
-  Donner cette autorisation aux applications peut provoquer des instabilités système, la perte de données personnelles et système, ou des dommages matériels, veuillez être prudent. Souhaitez-vous l'activer ?\"\""</string>
+  <string name="perm_su_enable_content">"""L'activer permettra aux applications de demander la permission ROOT.
+  Donner cette autorisation aux applications peut provoquer des instabilités système, la perte de données personnelles et système, ou des dommages matériels, veuillez être prudent. Souhaitez-vous l'activer ?"""</string>
   <string name="perm_su_enable_dialog">%1$s cherche à obtenir la permission ROOT système qui est désactivée par défaut pour garantir la sécurité du système. Si vous en avez besoin allez dans les paramètres du gestionnaire d\'autorisation.</string>
   <string name="perm_su_enable_title">Autorisation ROOT</string>
   <string name="perm_su_switch">Autorisation ROOT</string>
@@ -1535,7 +1535,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="proxy_error">Avertissement</string>
   <string name="proxy_error_dismiss">OK</string>
   <string name="proxy_error_empty_host_set_port">Le champ Port doit rester vide si le champ Hôte n\'est pas renseigné.</string>
-  <string name="proxy_error_empty_port">Le champ \"Port\" est obligatoire.</string>
+  <string name="proxy_error_empty_port">Le champ "Port" est obligatoire.</string>
   <string name="proxy_error_invalid_exclusion_list">"Le format de la liste d'exclusion spécifiée n'est pas correct. Séparez les noms de domaine à exclure par une virgule."</string>
   <string name="proxy_error_invalid_host">"Le nom d'hôte saisi n'est pas valide."</string>
   <string name="proxy_error_invalid_port">"Le port indiqué n'est pas valide."</string>
@@ -1618,7 +1618,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="read_only">" (Lecture seule)"</string>
   <string name="really_remove_account_message">La suppression de ce compte entraînera la suppression de tous les messages, contacts et autres données du téléphone.</string>
   <string name="really_remove_account_title">Supprimer le compte ?</string>
-  <string name="recognizer_settings_summary">"Paramètres de \"%s\""</string>
+  <string name="recognizer_settings_summary">"Paramètres de "%s""</string>
   <string name="recognizer_settings_title">Recherche vocale</string>
   <string name="recognizer_title">Saisie vocale</string>
   <string name="recompute_size">Calcul de la taille...</string>
@@ -1626,7 +1626,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="remove_account_failed">Ce compte est requis par certaines applications. Vous ne pouvez le supprimer qu\'en rétablissant la configuration d\'usine du téléphone (ce qui supprime toutes vos données personnelles) dans Paramètres &gt; Sauvegarder et réinitialiser.</string>
   <string name="remove_account_label">Supprimer le compte</string>
   <string name="remove_device_admin">Désactiver</string>
-  <string name="remove_from_frequently_fragment">Supprimer \"%s\" des paramètres communs ?</string>
+  <string name="remove_from_frequently_fragment">Supprimer "%s" des paramètres communs ?</string>
   <string name="reset_app_preferences">Réinitialiser préf. des apps</string>
   <string name="reset_app_preferences_button">Réinitialiser apps</string>
   <string name="reset_app_preferences_desc">"Cette opération entraîne la réinitialisation de toutes les préférences pour : 
@@ -1813,7 +1813,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="settings_safetylegal_title">Informations de sécurité</string>
   <string name="settings_shortcut">Raccourci vers les paramètres</string>
   <string name="show_all_anrs">Afficher FC d\'apps en arrière-plan</string>
-  <string name="show_all_anrs_summary">Afficher \"L\'application ne répond plus\" pour les applications en arrière-plan</string>
+  <string name="show_all_anrs_summary">Afficher "L\'application ne répond plus" pour les applications en arrière-plan</string>
   <string name="show_background_processes">Voir processus en cache</string>
   <string name="show_cpu_usage">Afficher mém. CPU utilisée</string>
   <string name="show_cpu_usage_summary">Superposition écran indiquant la mémoire CPU utilisée</string>
@@ -1992,8 +1992,8 @@ Le code PIN est peut-être incorrect."</string>
   <string name="trackball_settings">Boule de commande</string>
   <string name="trackball_wake_title">Boule de commande éveillée</string>
   <string name="transition_animation_scale_title">Échelle animation transitions</string>
-  <string name="trust_switch_dialog_msg">"\"\"Miui ne vous demandera plus de confirmation pour les opérations liées à votre sécurité et confidentialité provenant de cette application.
-Faire confiance à cette application ?\"\""</string>
+  <string name="trust_switch_dialog_msg">"Miui ne vous demandera plus de confirmation pour les opérations liées à votre sécurité et confidentialité provenant de cette application.
+Faire confiance à cette application ?"</string>
   <string name="trusted_credentials">Certificats de confiance</string>
   <string name="trusted_credentials_disable_confirmation">Désactiver le certificat d\'autorité du système ?</string>
   <string name="trusted_credentials_disable_label">Désactiver</string>
@@ -2153,7 +2153,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="user_dict_settings_context_menu_delete_title">Supprimer</string>
   <string name="user_dict_settings_context_menu_edit_title">Modifier</string>
   <string name="user_dict_settings_edit_dialog_title">Modifier le mot</string>
-  <string name="user_dict_settings_empty_text">"Votre dictionnaire personnel ne contient aucun mot. Ajoutez un mot en appuyant sur le bouton \"+\"."</string>
+  <string name="user_dict_settings_empty_text">"Votre dictionnaire personnel ne contient aucun mot. Ajoutez un mot en appuyant sur le bouton "+"."</string>
   <string name="user_dict_settings_more_languages">Plus de langues...</string>
   <string name="user_dict_settings_summary"></string>
   <string name="user_dict_settings_titlebar">Dictionnaire personnel</string>
@@ -2574,7 +2574,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_wps_failed_tkip">La configuration de sécurité du routeur sans fil (TKIP) n\'est pas compatible.</string>
   <string name="wifi_wps_failed_wep">La configuration de sécurité du routeur sans fil (WEP) n\'est pas compatible.</string>
   <string name="wifi_wps_in_progress">La configuration WPS est déjà en cours et peut prendre jusqu\'à deux minutes.</string>
-  <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton \"Configuration Wi-Fi protégée\" de votre routeur. Celui-ci peut s\'appeler \"WPS\" ou contenir ce symbole : </string>
+  <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton "Configuration Wi-Fi protégée" de votre routeur. Celui-ci peut s\'appeler "WPS" ou contenir ce symbole : </string>
   <string name="wifi_wps_onstart_pin">Saisissez le code %1$s sur votre routeur Wi-Fi. La configuration peut prendre jusqu\'à deux minutes.</string>
   <string name="wifi_wps_overlap_error">Autre session protégée Wi-Fi détectée. Réessayez dans quelques minutes</string>
   <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS...</string>

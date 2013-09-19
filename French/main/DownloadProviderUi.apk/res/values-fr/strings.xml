@@ -9,7 +9,7 @@
   <string name="cancel_running_download">Annuler</string>
   <string name="confirm_delete_downloads_message">%d téléchargements vont être supprimés</string>
   <string name="confirm_delete_the_download_item_message">Veuillez confirmer la suppression du téléchargement</string>
-  <string name="confirm_disable_download_only_in_wifi_message">Désactiver \"Télécharger via Wi-Fi uniquement\" sera susceptible de générer des frais supplémentaires de données. Êtes-vous sûr de vouloir le désactiver ?</string>
+  <string name="confirm_disable_download_only_in_wifi_message">Désactiver "Télécharger via Wi-Fi uniquement" sera susceptible de générer des frais supplémentaires de données. Êtes-vous sûr de vouloir le désactiver ?</string>
   <string name="delete_download">Supprimer</string>
   <string name="delete_downloads_records">Supprimer les téléchargements</string>
   <string name="delete_the_downloaded_file">Supprimez les fichiers téléchargés.</string>
@@ -25,7 +25,7 @@
   <string name="dialog_queued_body">"Ce fichier est en attente de téléchargement, et n\'est donc pas encore disponible."</string>
   <string name="dialog_title_not_available">Téléchargement impossible</string>
   <string name="dialog_title_queued_body">Fichier en attente</string>
-  <string name="disable_download_only_in_wifi_title">Désactiver \"Télécharger via Wi-Fi uniquement\"</string>
+  <string name="disable_download_only_in_wifi_title">Désactiver "Télécharger via Wi-Fi uniquement"</string>
   <string name="download_complete">Téléchargé</string>
   <string name="download_error">Échec</string>
   <string name="download_error_insufficient_space">Espace insuffisant</string>

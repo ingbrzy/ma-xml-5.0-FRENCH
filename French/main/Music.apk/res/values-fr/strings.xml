@@ -10,7 +10,7 @@
   <string name="album_display_summary">Afficher la pochette de l\'album dans l\'interface du lecteur</string>
   <string name="album_download">Télécharger la pochette de l\'album</string>
   <string name="album_edit">Album</string>
-  <string name="album_picker_not_found">L\'application \"Galerie\" n\'a pas été trouvée sur le périphérique</string>
+  <string name="album_picker_not_found">L\'application "Galerie" n\'a pas été trouvée sur le périphérique</string>
   <string name="album_search_failed">Pochette introuvable !</string>
   <string name="album_search_local_descript">Local | %1$d x %2$d</string>
   <string name="album_search_online_descript">En ligne | %1$d x %2$d</string>
@@ -106,7 +106,7 @@
   <string name="id3_edit_failed">Impossible de modifier les informations ID3</string>
   <string name="id3_modify_confirm_check">Confirmer les modifications ID3 ?</string>
   <string name="id3_modify_confirm_text">Enregistrer</string>
-  <string name="impunity_declaration">La musique en ligne que vous êtes sur le point d\'utiliser provient du Service de Musique en Ligne Baidu. Cliquez sur \"Confirmer\" pour accepter ses conditions et l\'utiliser ou cliquez sur \"Annuler\" pour quitter.</string>
+  <string name="impunity_declaration">La musique en ligne que vous êtes sur le point d\'utiliser provient du Service de Musique en Ligne Baidu. Cliquez sur "Confirmer" pour accepter ses conditions et l\'utiliser ou cliquez sur "Annuler" pour quitter.</string>
   <string name="impunity_declaration_title">Déclaration</string>
   <string name="keep_quit_position_settings">Mémoriser la dernière position</string>
   <string name="keep_quit_position_summary">Restaurer la piste à la dernière position connue au redémarrage de l\'application</string>
@@ -202,7 +202,7 @@
   <string name="retry">Réessayer</string>
   <string name="ringtone_menu">Utiliser comme sonnerie</string>
   <string name="ringtone_not_support">Format de sonnerie non pris en charge</string>
-  <string name="ringtone_set">\"%s\" a été défini comme sonnerie.</string>
+  <string name="ringtone_set">"%s" a été défini comme sonnerie.</string>
   <string name="save">Enregistrer</string>
   <string name="scanning">Analyse de la carte SD...</string>
   <string name="scanning_nosdcard">Analyse du périphérique de stockage USB...</string>

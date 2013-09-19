@@ -159,7 +159,7 @@
   <string name="lable_sim_not_ready">SIM Toolkit nie je dostupný</string>
   <string name="lable_sms">SMS</string>
   <string name="lable_voice">VOICE</string>
-  <string name="manual_select_dialog_msg">En mode sélection manuelle, le téléphone ne sélectionnera pas d\'autres opérateurs pour vous. Il sera peut-être nécessaire de refaire une sélection manuelle ou de rétablir la sélection automatique si vous ne recevez plus le signal de l\'opérateur choisi. Nous recommandons l\'utilisation de la fonction \"Sélection automatique Confirmer la sélection manuelle du réseau?</string>
+  <string name="manual_select_dialog_msg">En mode sélection manuelle, le téléphone ne sélectionnera pas d\'autres opérateurs pour vous. Il sera peut-être nécessaire de refaire une sélection manuelle ou de rétablir la sélection automatique si vous ne recevez plus le signal de l\'opérateur choisi. Nous recommandons l\'utilisation de la fonction "Sélection automatique Confirmer la sélection manuelle du réseau?</string>
   <string name="manual_select_title">Sélection manuelle</string>
   <string name="meid">MEID</string>
   <string name="minutereminder_title">Rappel des minutes</string>
@@ -174,8 +174,8 @@
   <string name="mo_code_incoming_calls_barred">Appel entrant bloqué de l\'autre côté</string>
   <string name="mo_code_outgoing_calls_barred">Appel sortant bloqué</string>
   <string name="mo_code_some_cf_active">Transfert d\'appel conditionnel activé</string>
-  <string name="mo_code_unconditional_cf_active">\"Transfert d\'appel
-inconditionnel activé\"</string>
+  <string name="mo_code_unconditional_cf_active">"Transfert d\'appel
+inconditionnel activé"</string>
   <string name="modem_switching">La commutation SIM mettra environ 10 secondes. Veuillez patienter…</string>
   <string name="mt_code_additional_call_forwarded">Autre appel entrant transmis </string>
   <string name="mt_code_call_connected_ect">Transfert d\'appel actif</string>
@@ -202,12 +202,12 @@ inconditionnel activé\"</string>
   <string name="networksettings_tips_data_enabled">Activer le service de données? Des frais de trafic de données peuvent s\'appliquer!</string>
   <string name="new_password_label">Nouveau mot de passe (4 chiffres) </string>
   <string name="no_search_result">Aucun résultat de recherche</string>
-  <string name="no_service_msg">\"L\'opérateur sélectionné n\'émet actuellement pas de service.
-Nous recommandons l\'utilisation de la fonction \"Sélection automatique ou la sélection manuelle d\'un autre opérateur.\"</string>
-  <string name="no_service_msg_gemini">\"L\'opérateur sélectionné n\'émet actuellement pas de service pour la carte SIM \" %s\".
-Nous recommandons l\'utilisation de la fonction \"Sélection automatique ou la sélection manuelle d\'un autre opérateur.\"</string>
+  <string name="no_service_msg">"L\'opérateur sélectionné n\'émet actuellement pas de service.
+Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la sélection manuelle d\'un autre opérateur."</string>
+  <string name="no_service_msg_gemini">"L\'opérateur sélectionné n\'émet actuellement pas de service pour la carte SIM " %s".
+Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la sélection manuelle d\'un autre opérateur."</string>
   <string name="no_service_msg_title">Pas de service</string>
-  <string name="no_service_msg_title_gemini">Pas service pour \" %s\"</string>
+  <string name="no_service_msg_title_gemini">Pas service pour " %s"</string>
   <string name="no_sim_card_inserted">Pre spustenie SIM Toolkit vložte SIM kartu.</string>
   <string name="notification_dialing">Numérotation en cours…</string>
   <string name="notification_ongoing_call_format">Súčasný hovor (%s)</string>
@@ -228,9 +228,9 @@ Nous recommandons l\'utilisation de la fonction \"Sélection automatique ou la s
   <string name="onscreenHangupHolding">Terminer en attente</string>
   <string name="others">Autres réglages</string>
   <string name="password_changed">Mot de passe modifié avec succès </string>
-  <string name="pch_data_prefer_message">\"Le service données mobiles préféré est utilisé pour améliorer la transmission des données au prix d\'un taux de réception d\'appel diminué. Il est recommandé de ne pas utiliser ce service.
+  <string name="pch_data_prefer_message">"Le service données mobiles préféré est utilisé pour améliorer la transmission des données au prix d\'un taux de réception d\'appel diminué. Il est recommandé de ne pas utiliser ce service.
 
-Etes-vous sûr de vouloir autoriser le service données mobiles préféré?\"</string>
+Etes-vous sûr de vouloir autoriser le service données mobiles préféré?"</string>
   <string name="pch_data_prefer_summary">Autoriser la transmission des données mobiles à pleine vitesse</string>
   <string name="pch_data_prefer_title">Service données mobiles préféré</string>
   <string name="pin2_name">PIN2</string>
@@ -319,7 +319,7 @@ Etes-vous sûr de vouloir autoriser le service données mobiles préféré?\"</s
   <string name="voice_call_reject_mode_title">Automaticky odmietnuť hlasový hovor</string>
   <string name="voice_call_settings">Réglages appel vocal</string>
   <string name="voice_command_notification_message">Le contrôle vocale est activé pour le téléphone</string>
-  <string name="voice_command_notification_ticker" formatted="false">Vous pouvez dire \"%s\" ou \"%s\" pour accepter ou ignorer un appel entrant</string>
+  <string name="voice_command_notification_ticker" formatted="false">Vous pouvez dire "%s" ou "%s" pour accepter ou ignorer un appel entrant</string>
   <string name="voice_command_notification_title">Contrôle vocal</string>
   <string name="voice_mail">Messagerie vocale</string>
   <string name="voice_mail_dialog_text">Vous avez un nouveau message vocal%s, souhaitez-vous l\'obtenir?</string>

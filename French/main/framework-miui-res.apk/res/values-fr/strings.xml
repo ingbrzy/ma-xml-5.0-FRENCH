@@ -287,7 +287,7 @@
   <string name="first_back_long_press_message">"Souhaitez-vous activer la fonction d'appui-long sur la touche retour pour tuer le processus en cours et ses services de base ? Activer via Paramètres &gt; Système &gt; Touches"</string>
   <string name="fm_record_smaple_prefix_miui">Enregistrement FM</string>
   <string name="fools_day">Poisson d\'avril</string>
-  <string name="force_exit_message">\"Fermé avec succès \"%1$s\"</string>
+  <string name="force_exit_message">"Fermé avec succès "%1$s"</string>
   <string name="forget_password_string">Mot de passe oublié ?</string>
   <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="global_action_privacy_mode_dialog_message">En mode privé les appels, notes, photos et SMS sont cachés et le lanceur ne pourra pas passer en mode édition. Vous pouvez définir le mot de passe pour protéger le mode privé dans les paramètres de contrôle d’accès</string>
@@ -325,7 +325,7 @@
   <string name="lockscreen_emergency_call">Appel d\'urgence</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Vous avez mal entré votre mot de passe %d fois. Après %d tentatives infructueuses de plus il vous sera demandé de déverrouiller votre téléphone avec vos détails de compte. 
   
-Réessayer dans %d secondes.\"</string>
+Réessayer dans %d secondes."</string>
   <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
   <string name="lockscreen_pattern_instructions">Dessinez un schéma pour déverrouiller le téléphone</string>
   <string name="lockscreen_pattern_wrong">Schéma incorrect, veuillez réessayer</string>

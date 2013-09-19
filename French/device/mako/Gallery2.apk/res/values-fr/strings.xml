@@ -7,7 +7,7 @@
   <string name="accessibility_camera_picker">Interrupteur des caméras avant et arrière</string>
   <string name="accessibility_decrement">Diminuer %1$s</string>
   <string name="accessibility_increment">Augmenter %1$s</string>
-  <string name="accessibility_menu_button">Bouton \"Menu\"</string>
+  <string name="accessibility_menu_button">Bouton "Menu"</string>
   <string name="accessibility_mode_picker">Sélecteur du mode Photo, Vidéo ou Panoramique</string>
   <string name="accessibility_review_cancel">Examen – Annuler</string>
   <string name="accessibility_review_ok">Examen – OK</string>
@@ -39,8 +39,8 @@
   <string name="aspectNone_effect">Aucun</string>
   <string name="auto">Automatique</string>
   <string name="autofix">Correction auto</string>
-  <string name="bg_replacement_message">\"Posez votre appareil.
-Sortez du cadre quelques instants.\"</string>
+  <string name="bg_replacement_message">"Posez votre appareil.
+Sortez du cadre quelques instants."</string>
   <string name="borders">Contours</string>
   <string name="bwfilter">Filtre N&amp;B</string>
   <string name="caching_label">Mise en cache…</string>
@@ -299,9 +299,9 @@ Sortez du cadre quelques instants.\"</string>
   <string name="redeye">Yeux rouges</string>
   <string name="redeye_tooltip">Appuyer sur yeux rouges pour les effacer</string>
   <string name="remember_location_no">Non, merci</string>
-  <string name="remember_location_prompt">\"Ajoutez des tags à vos photos et à vos vidéos pour identifier l\'endroit de la prise de vue.
+  <string name="remember_location_prompt">"Ajoutez des tags à vos photos et à vos vidéos pour identifier l\'endroit de la prise de vue.
 
-D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux images enregistrées.\"</string>
+D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux images enregistrées."</string>
   <string name="remember_location_title">Se souvenir du lieu des photos ?</string>
   <string name="remember_location_yes">Oui</string>
   <string name="reset">Réinitialiser</string>

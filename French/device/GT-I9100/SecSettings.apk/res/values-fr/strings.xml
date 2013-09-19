@@ -357,7 +357,7 @@ Le cryptage prend au moins une heure. Vous devez commencer avec une batterie cha
     <string name="bluetooth_enter_passkey_other_device">"Vous aurez peut-être besoin d'entrer ce mot de passe sur un autre périphérique"</string>
     <string name="bluetooth_confirm_passkey_msg">"Confirmer le mot de passe %2$s pour l'appairer à %1$s"</string>
     <string name="bluetooth_incoming_pairing_msg">De&lt;br><b>%1$s</b>&lt;br>&lt;br>Associer avec cet appareil ?</string>
-    <string name="bluetooth_display_passkey_pin_msg">"Pour l'association à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisissez &lt;br>&lt;b>%2$s&lt;/b>, puis appuyez sur \"Retour\" ou sur \"Entrée\"."</string>
+    <string name="bluetooth_display_passkey_pin_msg">"Pour l'association à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisissez &lt;br>&lt;b>%2$s&lt;/b>, puis appuyez sur "Retour" ou sur "Entrée"."</string>
     <string name="bluetooth_pairing_accept">Appairer</string>
     <string name="bluetooth_pairing_decline">Annuler</string>
     <string name="bluetooth_error_title" />
@@ -3139,7 +3139,7 @@ Vous pouvez télécharger PC Kies sur http://www.samsung.com/kies et l'installer
     <string name="privacy_alert_virgin_msg1">If you use a 3rd party app, it may directly collect your personal information or require Virgin Mobile to disclose your personal information, including location information (where applicable), to the app provider or some other 3rd party</string>
     <string name="privacy_alert_virgin_msg2">"Virgin Mobile's Privacy Policy and Terms of Use do not apply to apps on your handset that are solely provided by 3rd parties. The 3rd party’s policies apply to your use of this app"</string>
     <string name="privacy_alert_virgin_msg3">"Check the app's terms of use and/or the app provider's policies for more information about how the app will collect, access, use and disclose your information. Privacy Policies, Terms of Use and other consumer notices MAY BE available on the provider's website. Be sure you are comfortable with the policies before you use an app"</string>
-    <string name="privacy_alert_virgin_msg4">"Separately, if you have questions about Virgin Mobile's Privacy Policy, please visit virginmobileusa.com and click on the \"Privacy Policy\" link"</string>
+    <string name="privacy_alert_virgin_msg4">"Separately, if you have questions about Virgin Mobile's Privacy Policy, please visit virginmobileusa.com and click on the "Privacy Policy" link"</string>
     <string name="auto_detail_title">Réglage automatique de la luminosité</string>
     <string name="auto_detail_text">Vous pouvez régler le niveau standard de luminosité automatique en utilisant les touches de volume</string>
     <string name="brightness_level">Niveau de luminosité</string>

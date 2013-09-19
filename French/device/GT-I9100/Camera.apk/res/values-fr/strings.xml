@@ -24,8 +24,8 @@
   <string name="settings">Paramètres</string>
   <string name="low_batt_msg">Batterie faible</string>
   <string name="close">Fermer</string>
-  <string name="cannot_start_camera_msg">\"Appareil photo non disponible
-pendant appel\"</string>
+  <string name="cannot_start_camera_msg">"Appareil photo non disponible
+pendant appel"</string>
   <string name="cannot_start_camcorder_msg">Impossible d\'enregistrer des vidéos pendant un appel</string>
   <string name="image_stitching_fail">Échec</string>
   <string name="MaxRecordingSizeMMS">295K</string>
@@ -181,8 +181,8 @@ pendant appel\"</string>
   <string name="help_text_panorama_device">Appuyez sur la touche de l\'appareil photo et déplacez lentement l\'appareil dans une direction</string>
   <string name="message_DefaultLayout">Les raccourcis seront réinitialisés</string>
   <string name="message_EULA_GPS">L\'activation du balisage GPS va joindre, intégrer et stocker des données de localisation géographique dans chaque photo. Soyez prudent lorsque vous envoyez, partagez, distribuez, transmettez ou copiez des photos, car elles peuvent contenir le lieu où elles ont été prises</string>
-  <string name="message_Auto_ShareShot">\"La fonction Partage automatique photo vous permet de vous connecter aisément aux périphériques de votre choix et de partager ainsi des photos.
-Activez cette fonction, puis rapprochez les périphériques (en général dos contre dos) pour les connecter\"</string>
+  <string name="message_Auto_ShareShot">"La fonction Partage automatique photo vous permet de vous connecter aisément aux périphériques de votre choix et de partager ainsi des photos.
+Activez cette fonction, puis rapprochez les périphériques (en général dos contre dos) pour les connecter"</string>
   <string name="GPS_msg">Désactiver GPS</string>
   <string name="message_enable_GPS">Activez le GPS dans Paramètres pour utiliser les satellites GPS</string>
   <string name="cancel">Annuler</string>
@@ -280,7 +280,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
   <string name="on_device_help_camcorder">Passer en mode Caméscope</string>
   <string name="on_device_help_self">Passer en mode Autoportrait</string>
   <string name="on_device_help_editable">Maintenez votre doigt appuyé sur le raccourci à déplacer. Puis faites-le glisser vers l\'emplacement souhaité</string>
-  <string name="on_device_help_voicecommand">Vous pouvez prendre des photos avec des commandes vocales telles que \"Capture, \"Shooter, \"Sourire\" et \"Cheese\"</string>
+  <string name="on_device_help_voicecommand">Vous pouvez prendre des photos avec des commandes vocales telles que "Capture, "Shooter, "Sourire" et "Cheese"</string>
   <string name="Title_VideoSpeed">Vitesse</string>
   <string name="SPEED_OFF">Normal</string>
   <string name="SPEED_2X_FASTER">2x plus rapide</string>

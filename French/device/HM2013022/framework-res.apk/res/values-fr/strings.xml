@@ -178,7 +178,7 @@
   <string name="httpErrorFile">Impossible d\'accéder au fichier</string>
   <string name="httpErrorFileNotFound">Fichier demandé introuvable</string>
   <string name="httpErrorTooManyRequests">Demandes en cours de traitement trop nombreuses. Réessayez plus tard</string>
-  <string name="notification_title">Erreur de connexion au compte \"<xliff:g id="ACCOUNT">%1$s</xliff:g>\"</string>
+  <string name="notification_title">Erreur de connexion au compte "<xliff:g id="ACCOUNT">%1$s</xliff:g>"</string>
   <string name="contentServiceSync">Synchro.</string>
   <string name="contentServiceSyncNotificationTitle">Synchro.</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Trop de contenus supprimés (<xliff:g id="CONTENT_TYPE">%s</xliff:g>).</string>
@@ -437,7 +437,7 @@
   <string name="permlab_receiveBootCompleted">Démarrer automatiquement au démarrage</string>
   <string name="permdesc_receiveBootCompleted">Permet à l\'application de se lancer une fois le démarrage du système terminé. Elle peut rallonger le temps de démarrage de la tablette et ralentir son fonctionnement global en raison de son exécution continue.</string>
   <string name="permlab_broadcastSticky">envoyer une diffusion de rappel</string>
-  <string name="permdesc_broadcastSticky">Permet à l\'application d\'envoyer des intentions de diffusion \"persistantes\", qui perdurent une fois la diffusion terminée. Une utilisation excessive peut ralentir la tablette ou la rendre instable en l\'obligeant à utiliser trop de mémoire.</string>
+  <string name="permdesc_broadcastSticky">Permet à l\'application d\'envoyer des intentions de diffusion "persistantes", qui perdurent une fois la diffusion terminée. Une utilisation excessive peut ralentir la tablette ou la rendre instable en l\'obligeant à utiliser trop de mémoire.</string>
   <string name="permlab_readContacts">Lire les données de contact</string>
   <string name="permdesc_readContacts">Permet à l\'application de lire les données relatives aux contacts stockés sur votre tablette, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d\'autres moyens. Cette autorisation permet aux applications d\'enregistrer ces données. Les applications malveillantes peuvent les partager à votre insu.</string>
   <string name="permlab_writeContacts">Accéder en écriture aux données de contact</string>
@@ -708,15 +708,15 @@
   <string name="keyguard_password_enter_puk_code">Saisissez la clé PUK et le nouveau code PIN.</string>
   <string name="keyguard_password_enter_puk_prompt">Code PUK</string>
   <string name="keyguard_password_enter_pin_prompt">Nouveau code PIN</string>
-  <string name="keyguard_password_entry_touch_hint"><font size="17">\"Appuyez pour saisir mot passe\"</font></string>
+  <string name="keyguard_password_entry_touch_hint"><font size="17">"Appuyez pour saisir mot passe"</font></string>
   <string name="keyguard_password_enter_password_code">Entrer le mot de passe de déverrouillage</string>
   <string name="keyguard_password_enter_pin_password_code">Saisissez le code PIN pour déverrouiller le clavier.</string>
   <string name="keyguard_password_wrong_pin_code">Code PIN incorrect</string>
-  <string name="keyguard_label_text">Pour débloquer le clavier, appuyez sur \"Menu\" puis sur 0.</string>
+  <string name="keyguard_label_text">Pour débloquer le clavier, appuyez sur "Menu" puis sur 0.</string>
   <string name="emergency_call_dialog_number_for_display">Numéro d\'urgence</string>
   <string name="lockscreen_carrier_default">Aucun service</string>
   <string name="lockscreen_screen_locked">Ecran verrouillé</string>
-  <string name="lockscreen_instructions_when_pattern_enabled">Appuyez sur \"Menu\" pour débloquer le téléphone ou appeler un numéro d\'urgence</string>
+  <string name="lockscreen_instructions_when_pattern_enabled">Appuyez sur "Menu" pour débloquer le téléphone ou appeler un numéro d\'urgence</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Appuyez sur Menu pour déverrouiller</string>
   <string name="lockscreen_pattern_instructions">Dessinez un motif pour déverrouiller le téléphone</string>
   <string name="lockscreen_emergency_call">Appel d\'urgence</string>
@@ -734,7 +734,7 @@
   <string name="lockscreen_missing_sim_instructions">Insérez une carte SIM.</string>
   <string name="lockscreen_missing_sim_instructions_long">Carte SIM absente ou illisible. Insérez une carte SIM.</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Carte SIM inutilisable.</string>
-  <string name="lockscreen_permanent_disabled_sim_instructions">Votre carte SIM a été définitivement désactivée.\"\n\" Veuillez contacter votre opérateur de téléphonie mobile pour en obtenir une autre.</string>
+  <string name="lockscreen_permanent_disabled_sim_instructions">Votre carte SIM a été définitivement désactivée."\n" Veuillez contacter votre opérateur de téléphonie mobile pour en obtenir une autre.</string>
   <string name="lockscreen_transport_prev_description">Bouton du titre précédent</string>
   <string name="lockscreen_transport_next_description">Bouton du titre suivant</string>
   <string name="lockscreen_transport_pause_description">Bouton de pause</string>
@@ -761,7 +761,7 @@
   <string name="lockscreen_glogin_password_hint">Mot de passe</string>
   <string name="lockscreen_glogin_submit_button">Connexion</string>
   <string name="lockscreen_glogin_invalid_input">Nom d\'utilisateur ou mot de passe non valide</string>
-  <string name="lockscreen_glogin_account_recovery_hint">Vous avez oublié votre nom d\'utilisateur ou votre mot de passe ?\"\n\"Accédez à la page \"<b>"google.com/accounts/recovery"</b>\".</string>
+  <string name="lockscreen_glogin_account_recovery_hint">Vous avez oublié votre nom d\'utilisateur ou votre mot de passe ?"\n"Accédez à la page "<b>"google.com/accounts/recovery"</b>".</string>
   <string name="lockscreen_glogin_checking_password">Vérification en cours…</string>
   <string name="lockscreen_unlock_label">Débloquer</string>
   <string name="lockscreen_sound_on_label">Son activé</string>
@@ -803,9 +803,9 @@
   <string name="factorytest_not_system">L\'action FACTORY_TEST est prise en charge uniquement pour les ensembles installés dans /system/app</string>
   <string name="factorytest_no_action">Aucun ensemble n\'a été trouvé, qui fournisse l\'action FACTORY_TEST</string>
   <string name="factorytest_reboot">Redémarrage</string>
-  <string name="js_dialog_title">La page \"<xliff:g id="TITLE">%s</xliff:g>\" indique :</string>
+  <string name="js_dialog_title">La page "<xliff:g id="TITLE">%s</xliff:g>" indique :</string>
   <string name="js_dialog_title_default">JavaScript</string>
-  <string name="js_dialog_before_unload">Voulez-vous quitter cette page ?\"\n\n\"<xliff:g id="MESSAGE">%s</xliff:g>\"\n\n\"Appuyez sur \"OK\" pour continuer ou \"Annuler\" pour rester sur la page actuelle.</string>
+  <string name="js_dialog_before_unload">Voulez-vous quitter cette page ?"\n\n"<xliff:g id="MESSAGE">%s</xliff:g>"\n\n"Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</string>
   <string name="save_password_label">Confirmer</string>
   <string name="double_tap_toast">Conseil : Appuyez deux fois pour faire un zoom avant ou arrière.</string>
   <string name="autofill_this_form">Rempl. auto</string>
@@ -862,8 +862,8 @@
   <string name="searchview_description_clear">Requête d\'effacement</string>
   <string name="searchview_description_submit">Requête d\'envoi</string>
   <string name="searchview_description_voice">Recherche vocale</string>
-  <string name="enable_explore_by_touch_warning_title">Activer \"Explorer au toucher\" ?</string>
-  <string name="enable_explore_by_touch_warning_message"><xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> souhaite activer la fonctionnalité \"Explorer au toucher\". Lorsque celle-ci est activée, vous pouvez entendre ou voir les descriptions des éléments que vous sélectionnez, ou bien interagir avec le téléphone en effectuant certains gestes.</string>
+  <string name="enable_explore_by_touch_warning_title">Activer "Explorer au toucher" ?</string>
+  <string name="enable_explore_by_touch_warning_message"><xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> souhaite activer la fonctionnalité "Explorer au toucher". Lorsque celle-ci est activée, vous pouvez entendre ou voir les descriptions des éléments que vous sélectionnez, ou bien interagir avec le téléphone en effectuant certains gestes.</string>
   <string name="oneMonthDurationPast">Il y a 1 mois</string>
   <string name="beforeOneMonthDurationPast">Antérieur au mois précédent</string>
   <string name="last_month">Mois précédent</string>
@@ -909,17 +909,17 @@
   <string name="chooseUsbActivity">Sélectionnez une application pour le périphérique de stockage USB</string>
   <string name="noApplications">Application introuvable pour exécuter cette action</string>
   <string name="aerr_title"></string>
-  <string name="aerr_application">L\'application \"<xliff:g id="APPLICATION">%1$s</xliff:g>\" s\'est arrêtée.</string>
+  <string name="aerr_application">L\'application "<xliff:g id="APPLICATION">%1$s</xliff:g>" s\'est arrêtée.</string>
   <string name="aerr_process">Malheureusement, le processus <xliff:g id="PROCESS">%1$s</xliff:g> s\'est arrêté.</string>
   <string name="anr_title"></string>
-  <string name="anr_activity_application">L\'application <xliff:g id="APPLICATION">%2$s</xliff:g> ne répond pas.\"\n\n\"Voulez-vous quitter ?</string>
-  <string name="anr_activity_process">L\'activité <xliff:g id="ACTIVITY">%1$s</xliff:g> ne répond pas.\"\n\n\"Voulez-vous quitter ?</string>
+  <string name="anr_activity_application">L\'application <xliff:g id="APPLICATION">%2$s</xliff:g> ne répond pas."\n\n"Voulez-vous quitter ?</string>
+  <string name="anr_activity_process">L\'activité <xliff:g id="ACTIVITY">%1$s</xliff:g> ne répond pas."\n\n"Voulez-vous quitter ?</string>
   <string name="anr_application_process">L\'application <xliff:g id="APPLICATION">%1$s</xliff:g> ne répond pas. Voulez-vous quitter ?</string>
-  <string name="anr_process">Le processus <xliff:g id="PROCESS">%1$s</xliff:g> ne répond pas.\"\n\n\"Voulez-vous quitter ?</string>
+  <string name="anr_process">Le processus <xliff:g id="PROCESS">%1$s</xliff:g> ne répond pas."\n\n"Voulez-vous quitter ?</string>
   <string name="force_close">OK</string>
   <string name="report">Rapport</string>
   <string name="wait">Attendre</string>
-  <string name="webpage_unresponsive">La page ne répond pas.\"\n\" \"\n\"Voulez-vous la fermer ?</string>
+  <string name="webpage_unresponsive">La page ne répond pas."\n" "\n"Voulez-vous la fermer ?</string>
   <string name="launch_warning_title">Application redirigée</string>
   <string name="launch_warning_replace"><xliff:g id="APP_NAME">%1$s</xliff:g> est maintenant lancée.</string>
   <string name="launch_warning_original">Application lancée initialement : <xliff:g id="APP_NAME">%1$s</xliff:g>.</string>
@@ -984,8 +984,8 @@
   <string name="sms_control_yes">OK</string>
   <string name="sms_control_no">Annuler</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;<xliff:g id="APP_NAME">%1$s</xliff:g>&lt;/b&gt; souhaite envoyer un message à &lt;b&gt;<xliff:g id="DEST_ADDRESS">%2$s</xliff:g>&lt;/b&gt;.</string>
-  <string name="sms_short_code_details">Ceci \"<font fgcolor="#ffffb060">\"peut entraîner des frais\"</font>\" sur votre compte mobile.</string>
-  <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">\"Ceci entraînera des frais sur votre compte mobile.\"</font></string>
+  <string name="sms_short_code_details">Ceci "<font fgcolor="#ffffb060">"peut entraîner des frais"</font>" sur votre compte mobile.</string>
+  <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">"Ceci entraînera des frais sur votre compte mobile."</font></string>
   <string name="sms_short_code_confirm_allow">Envoyer</string>
   <string name="sms_short_code_confirm_deny">Annuler</string>
   <string name="sms_short_code_remember_choice">Mémoriser mon choix</string>
@@ -1002,7 +1002,7 @@
   <string name="date_picker_dialog_title">Définir la date</string>
   <string name="date_time_set">Appliquer</string>
   <string name="date_time_done">Effectué</string>
-  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">\"NOUVEAU\"</font>\" :\"</string>
+  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">"NOUVEAU"</font>" :"</string>
   <string name="perms_description_app">Fourni par <xliff:g id="APP_NAME">%1$s</xliff:g></string>
   <string name="no_permissions">Aucune autorisation requise</string>
   <string name="perm_costs_money">cela peut engendrer des frais</string>
@@ -1016,7 +1016,7 @@
   <string name="usb_storage_stop_notification_title">Désactiver le mode lecteur de disque</string>
   <string name="usb_storage_stop_notification_message">Appuyez ici pour désactiver la mémoire USB.</string>
   <string name="usb_storage_stop_title">Mode lecteur de disque en cours d\'utilisation</string>
-  <string name="usb_storage_stop_message">Avant de désactiver la mémoire de stockage USB, veuillez désinstaller (\"éjecter\") de votre ordinateur la carte SD de votre appareil Android.</string>
+  <string name="usb_storage_stop_message">Avant de désactiver la mémoire de stockage USB, veuillez désinstaller ("éjecter") de votre ordinateur la carte SD de votre appareil Android.</string>
   <string name="usb_storage_stop_button_mount">Désactiver le mode lecteur de disque</string>
   <string name="usb_storage_stop_error_message">Un problème est survenu lors de la déconnection de la mémoire. Assurez-vous que l\'hôte USB a bien été déconnecté, puis réessayez.</string>
   <string name="dlg_confirm_kill_storage_users_title">Activer le mode lecteur de disque</string>
@@ -1070,15 +1070,15 @@
   <string name="ime_action_done">OK</string>
   <string name="ime_action_previous">Préc.</string>
   <string name="ime_action_default">Exécuter</string>
-  <string name="dial_number_using">Composer le numéro\"\n\"en utilisant <xliff:g id="NUMBER">%s</xliff:g></string>
-  <string name="create_contact_using">Ajouter un contact\"\n\"en utilisant <xliff:g id="NUMBER">%s</xliff:g></string>
+  <string name="dial_number_using">Composer le numéro"\n"en utilisant <xliff:g id="NUMBER">%s</xliff:g></string>
+  <string name="create_contact_using">Ajouter un contact"\n"en utilisant <xliff:g id="NUMBER">%s</xliff:g></string>
   <string name="grant_credentials_permission_message_header">Les applications suivantes demandent l\'autorisation d\'accéder à votre compte</string>
   <string name="grant_credentials_permission_message_footer">Voulez-vous autoriser cette demande ?</string>
   <string name="grant_permissions_header_text">Demande d\'accès</string>
   <string name="allow">Autoriser</string>
   <string name="deny">Refuser</string>
   <string name="permission_request_notification_title">Autorisation demandée</string>
-  <string name="permission_request_notification_with_subtitle">Autorisation demandée\"\n\"pour le compte \"<xliff:g id="ACCOUNT">%s</xliff:g>\"</string>
+  <string name="permission_request_notification_with_subtitle">Autorisation demandée"\n"pour le compte "<xliff:g id="ACCOUNT">%s</xliff:g>"</string>
   <string name="input_method_binding_label">Mode de saisie</string>
   <string name="sync_binding_label">Synchro.</string>
   <string name="accessibility_binding_label">Accessibilité</string>
@@ -1264,7 +1264,7 @@
   <string name="kg_login_password_hint">Mot de passe</string>
   <string name="kg_login_submit_button">Connexion</string>
   <string name="kg_login_invalid_input">Nom d\'utilisateur ou mot de passe non valide.</string>
-  <string name="kg_login_account_recovery_hint">Vous avez oublié votre nom d\'utilisateur ou votre mot de passe ?\"\n\"Rendez-vous sur la page \"<b>"google.com/accounts/recovery"</b>\".</string>
+  <string name="kg_login_account_recovery_hint">Vous avez oublié votre nom d\'utilisateur ou votre mot de passe ?"\n"Rendez-vous sur la page "<b>"google.com/accounts/recovery"</b>".</string>
   <string name="kg_login_checking_password">Vérification du compte en cours…</string>
   <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">Vous avez saisi un code PIN incorrect à <xliff:g id="NUMBER_0">%d</xliff:g> reprises. "\n\n"Veuillez réessayer dans <xliff:g id="NUMBER_1">%d</xliff:g> secondes.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">Vous avez saisi un mot de passe incorrect à <xliff:g id="NUMBER_0">%d</xliff:g> reprises. "\n\n"Veuillez réessayer dans <xliff:g id="NUMBER_1">%d</xliff:g> secondes.</string>
@@ -1274,7 +1274,7 @@
   <string name="kg_failed_attempts_almost_at_login" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à <xliff:g id="NUMBER_0">%d</xliff:g> reprises. Si vous échouez encore <xliff:g id="NUMBER_1">%d</xliff:g> fois, vous devrez déverrouiller votre téléphone à l\'aide d\'un compte de messagerie électronique."\n\n" Veuillez réessayer dans <xliff:g id="NUMBER_2">%d</xliff:g> secondes.</string>
   <string name="kg_text_message_separator">" — "</string>
   <string name="kg_reordering_delete_drop_target_text">Supprimer</string>
-  <string name="safe_media_volume_warning">Augmenter le volume au-dessus du niveau de sécurité ?\"\n\"L\'écoute à un volume élevé pendant des périodes prolongées peut endommager votre audition.</string>
+  <string name="safe_media_volume_warning">Augmenter le volume au-dessus du niveau de sécurité ?"\n"L\'écoute à un volume élevé pendant des périodes prolongées peut endommager votre audition.</string>
   <string name="continue_to_enable_accessibility">Pour activer l\'accessibilité, appuyez de manière prolongée avec deux doigts.</string>
   <string name="accessibility_enabled">L\'accessibilité a bien été activée.</string>
   <string name="enable_accessibility_canceled">Accessibilité annulée.</string>

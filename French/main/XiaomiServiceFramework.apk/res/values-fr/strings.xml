@@ -186,8 +186,8 @@ et ne peuvent être utilisés si expirés"</string>
   <string name="micloud_active_email_sent_1">Nous avons envoyé un lien d\'activation à votre adresse mail : </string>
   <string name="micloud_active_email_visit">Visitez %s</string>
   <string name="micloud_activing_account">Activation de votre compte</string>
-  <string name="micloud_activing_account_delayed">"\"Il faut probablement 30 secondes pour terminer l'activation. 
-Vous pouvez faire autre chose...\""</string>
+  <string name="micloud_activing_account_delayed">"Il faut probablement 30 secondes pour terminer l'activation. 
+Vous pouvez faire autre chose..."</string>
   <string name="micloud_activing_account_failed">Échec de l\'activation du compte</string>
   <string name="micloud_click_email">Cliquez sur le lien dans mail pour activer votre compte Xiaomi</string>
   <string name="micloud_click_email_to_valid">Cliquez sur le lien d\'activation dans le message envoyé à votre boîte de réception</string>

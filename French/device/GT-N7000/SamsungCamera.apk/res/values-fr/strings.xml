@@ -284,7 +284,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="on_device_help_camcorder">Passer en mode Caméscope</string>
     <string name="on_device_help_self">Passer en mode Autoportrait</string>
     <string name="on_device_help_editable">"Maintenez votre doigt appuyé sur le raccourci à déplacer. Puis faites-le glisser vers l'emplacement souhaité"</string>
-    <string name="on_device_help_voicecommand">Vous pouvez prendre des photos avec des commandes vocales telles que \"Capture, \"Shooter, \"Sourire\" et \"Cheese\"</string>
+    <string name="on_device_help_voicecommand">Vous pouvez prendre des photos avec des commandes vocales telles que "Capture, "Shooter, "Sourire" et "Cheese"</string>
     <string name="Title_VideoSpeed">Vitesse</string>
     <string name="SPEED_OFF">Normal</string>
     <string name="SPEED_2X_FASTER">2x plus rapide</string>

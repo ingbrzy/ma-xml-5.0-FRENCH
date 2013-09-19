@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account">Compte</string>
-  <string name="account_delete_dlg_instructions_fmt">Le compte \"%s\" va être supprimé de votre messagerie.</string>
+  <string name="account_delete_dlg_instructions_fmt">Le compte "%s" va être supprimé de votre messagerie.</string>
   <string name="account_delete_dlg_title">Supprimer le compte</string>
-  <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
+  <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte "%s"."</string>
   <string name="account_duplicate_dlg_title">Dupliquer le compte</string>
   <string name="account_error">Échec de la récupération des informations du compte.</string>
   <string name="account_folder_list_summary_drafts">Brouillons</string>
@@ -174,7 +174,7 @@
   <string name="account_setup_security_policies_required_fmt">Vous devez autoriser le serveur %s à contrôler à distance certaines fonctionnalités de sécurité de votre mobile Android. Voulez-vous terminer la configuration de ce compte ?</string>
   <string name="account_setup_security_required_title">Administration de la sécurité à distance</string>
   <string name="account_setup_username_password_toast">Saisissez une adresse mail et un mot de passe corrects.</string>
-  <string name="account_setup_username_uneditable_error">"Vous ne pouvez pas modifier le nom d'utilisateur d'un compte. Pour ajouter un compte associé à un autre nom d'utilisateur, appuyez sur \"Ajouter un compte\"."</string>
+  <string name="account_setup_username_uneditable_error">"Vous ne pouvez pas modifier le nom d'utilisateur d'un compte. Pour ajouter un compte associé à un autre nom d'utilisateur, appuyez sur "Ajouter un compte"."</string>
   <string name="account_shortcut_picker_name">Compte</string>
   <string name="account_shortcut_picker_title">Sélectionner compte</string>
   <string name="accounts_welcome">Vous pouvez configurer une messagerie pour la plupart des comptes en quelques étapes seulement.</string>
@@ -196,7 +196,7 @@
   <string name="attachment_info_malware">"Vous ne pouvez pas enregistrer ni ouvrir ce fichier, car ce type de pièce jointe est susceptible de contenir des logiciels malveillants."</string>
   <string name="attachment_info_no_intent">Aucune application installée n\'est en mesure d\'ouvrir cette pièce jointe. Essayez de télécharger une application appropriée depuis le Play Store.</string>
   <string name="attachment_info_policy">"Impossible d'enregistrer ou d'ouvrir cette pièce jointe en raison des règles de sécurité de ce compte."</string>
-  <string name="attachment_info_sideload_disabled">Cette pièce jointe est une application. Vous devez sélectionner \"Sources inconnues\" dans Paramètres &gt; Applications avant de pouvoir l\'installer.</string>
+  <string name="attachment_info_sideload_disabled">Cette pièce jointe est une application. Vous devez sélectionner "Sources inconnues" dans Paramètres &gt; Applications avant de pouvoir l\'installer.</string>
   <string name="attachment_info_unknown">"Impossible d'ouvrir la pièce jointe."</string>
   <string name="attachment_info_wifi_only">Cette pièce jointe est trop volumineuse pour être téléchargée via un réseau pour mobile. Vous pourrez la télécharger lors de votre prochaine connexion à un réseau Wi-Fi.</string>
   <string name="attachment_info_wifi_settings">Paramètres Wi-Fi</string>
@@ -208,7 +208,7 @@
   <string name="cancel_action">Annuler</string>
   <string name="cannot_move_multiple_accounts_toast">"Impossible de déplacer le message car la sélection comprend plusieurs comptes."</string>
   <string name="cannot_move_protocol_not_supported_toast">"Les messages ne peuvent pas être déplacés, car cette action n'est pas compatible avec les comptes POP3."</string>
-  <string name="cannot_move_special_mailboxes_toast">"Impossible de déplacer les messages se trouvant dans les dossiers \"Brouillons\", \"Boîte d'envoi\" et \"Messages envoyés\"."</string>
+  <string name="cannot_move_special_mailboxes_toast">"Impossible de déplacer les messages se trouvant dans les dossiers "Brouillons", "Boîte d'envoi" et "Messages envoyés"."</string>
   <string name="category_general_preferences">Application</string>
   <string name="cc">Cc :</string>
   <string name="choose_attachment_dialog_title">Choisir une pièce jointe</string>
@@ -243,11 +243,11 @@
   <string name="default_signature">Envoyé depuis mon Mi Phone</string>
   <string name="delete_action">Supprimer</string>
   <string name="delete_quick_response_action">Supprimer</string>
-  <string name="destination_format">%1$s \"%2$s\</string>
+  <string name="destination_format">%1$s "%2$s\</string>
   <string name="device_admin_description">Active les stratégies de sécurité spécifiées par le serveur.</string>
   <string name="device_admin_label">Mail</string>
   <string name="dialog_first_wifi">Les fichiers volumineux ne seront transférés qu\'au moyen d\'une connexion Wi-Fi.</string>
-  <string name="dialog_sync_all_canceled">Opération \"Tout synchroniser\" annulée.</string>
+  <string name="dialog_sync_all_canceled">Opération "Tout synchroniser" annulée.</string>
   <string name="dialog_sync_all_error_title">Tout synchroniser</string>
   <string name="dialog_sync_all_found_none">Aucune autre photo ou vidéo à transférer.</string>
   <string name="dialog_sync_all_preparing">Préparation du transfert de %1$d photos et de %2$d vidéos...</string>
@@ -280,7 +280,7 @@
   <string name="general_preference_auto_advance_older">Message précédent</string>
   <string name="general_preference_auto_advance_summary">Sélectionner écran à afficher après la suppression d\'un message</string>
   <string name="general_preference_reply_all_label">Répondre à tous</string>
-  <string name="general_preference_reply_all_summary">Utiliser \"Répondre à tous\" par défaut pour répondre aux messages</string>
+  <string name="general_preference_reply_all_summary">Utiliser "Répondre à tous" par défaut pour répondre aux messages</string>
   <string name="general_preference_text_zoom_dialog_title">Taille du texte des messages</string>
   <string name="general_preference_text_zoom_huge">Très grande</string>
   <string name="general_preference_text_zoom_label">Taille du texte des messages</string>
@@ -320,9 +320,9 @@
   <string name="mailbox_settings_mailbox_check_frequency_label">Fréquence de consultation</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Jours à synchroniser</string>
   <string name="mailbox_shortcut_picker_title">Sélectionner dossier</string>
-  <string name="manager_activity_last_sync_format">"\"Dernière synchronisation :
+  <string name="manager_activity_last_sync_format">""Dernière synchronisation :
 %1$s
-%2$s\""</string>
+%2$s""</string>
   <string name="manager_do_not_upload">Ne pas transférer</string>
   <string name="manager_list_switcher_completed_format">Transferts terminés [%d]</string>
   <string name="manager_list_switcher_pending_format">Transferts en attente [%d]</string>
@@ -401,11 +401,11 @@ Cc : %4$s
   <string name="message_view_invite_maybe">" Peut-être"</string>
   <string name="message_view_invite_text">Allez-vous participer ?</string>
   <string name="message_view_invite_title">Invitation de Google Agenda</string>
-  <string name="message_view_invite_toast_maybe">"Vous avez répondu \"Peut-être\" à cette invitation."</string>
+  <string name="message_view_invite_toast_maybe">"Vous avez répondu "Peut-être" à cette invitation."</string>
   <string name="message_view_invite_toast_no">"Vous avez refusé cette invitation."</string>
   <string name="message_view_invite_toast_yes">"Vous avez accepté cette invitation."</string>
   <string name="message_view_invite_view">Afficher dans l\'agenda</string>
-  <string name="message_view_load_attachment_failed_toast">"Impossible de charger la pièce jointe \"%s\"."</string>
+  <string name="message_view_load_attachment_failed_toast">"Impossible de charger la pièce jointe "%s"."</string>
   <string name="message_view_message_details_dialog_title">Détails du message</string>
   <string name="message_view_move_to_newer">Suivant</string>
   <string name="message_view_move_to_older">Précédents</string>
@@ -435,7 +435,7 @@ Cc : %4$s
   <string name="password_expire_warning_content_title">Expiration mot de passe de verrouillage</string>
   <string name="password_expire_warning_dialog_content_fmt">Vous devrez bientôt modifier le code PIN ou le mot de passe de verrouillage de votre écran, faute de quoi les données du compte %s seront effacées. Le modifier maintenant ?</string>
   <string name="password_expire_warning_dialog_title">Expiration mot de passe de verrouillage</string>
-  <string name="password_expire_warning_ticker_fmt">\"%s\" exige que le code PIN ou mot de passe d\'écran de verrouillage soit modifié.</string>
+  <string name="password_expire_warning_ticker_fmt">"%s" exige que le code PIN ou mot de passe d\'écran de verrouillage soit modifié.</string>
   <string name="password_expired_content_title">Mot de passe verrou. expiré</string>
   <string name="password_expired_dialog_content_fmt">Les données du compte %s sont en cours d\'effacement de votre appareil. Vous pouvez les restaurer en modifiant le code PIN ou le mot de passe de verrouillage de votre écran. Le modifier maintenant ?</string>
   <string name="password_expired_dialog_title">Le mot de passe de verrouillage de votre écran a expiré.</string>
@@ -503,7 +503,7 @@ Cc : %4$s
   <string name="preference_title_videos_upload_connectivity">Conditions de transfert</string>
   <string name="preference_title_videos_upload_connectivity_summary">Les paramètres de connectivité des photos sont actuellement utilisés</string>
   <string name="previous_action">Précédente</string>
-  <string name="provider_note_live">"Seuls certains comptes \"Plus\" disposent d'un accès POP permettant à ce programme de se connecter. Si vous ne parvenez pas à vous connecter avec l'adresse mail et le mot de passe corrects, vous ne possédez peut-être pas de compte payant \"Plus\". Pour accéder à ces comptes de messagerie, lancez le navigateur Web."</string>
+  <string name="provider_note_live">"Seuls certains comptes "Plus" disposent d'un accès POP permettant à ce programme de se connecter. Si vous ne parvenez pas à vous connecter avec l'adresse mail et le mot de passe corrects, vous ne possédez peut-être pas de compte payant "Plus". Pour accéder à ces comptes de messagerie, lancez le navigateur Web."</string>
   <string name="provider_note_t_online">Avant de configurer ce compte de messagerie, consultez le site Web de T-Online et créez un mot de passe d\'accès à la messagerie POP3.</string>
   <string name="quick_responses_empty_view">Aucune réponse rapide</string>
   <string name="read_action">Marquer comme lu</string>
@@ -525,7 +525,7 @@ Cc : %4$s
   <string name="search_slow_warning_message">Cette opération peut prendre du temps avec certains serveurs.</string>
   <string name="search_slow_warning_title">En attente des résultats...</string>
   <string name="security_notification_content_title">Mise à jour de sécurité requise</string>
-  <string name="security_notification_ticker_fmt">Le compte \"%s\" nécessite une mise à jour de ses paramètres de sécurité.</string>
+  <string name="security_notification_ticker_fmt">Le compte "%s" nécessite une mise à jour de ses paramètres de sécurité.</string>
   <string name="send_action">Envoyer</string>
   <string name="set_star_action">Activer le suivi</string>
   <string name="settings_action">Paramètres</string>
@@ -559,7 +559,7 @@ Cc : %4$s
   <string name="toast_file_error">Fichier non disponible.</string>
   <string name="toast_intent_error">Échec de l\'initialisation du transfert.</string>
   <string name="toast_mailbox_not_found">"Le dossier est introuvable. Il a peut-être été supprimé."</string>
-  <string name="trusted_senders_cleared">Option \"Afficher les images\" désactivée.</string>
+  <string name="trusted_senders_cleared">Option "Afficher les images" désactivée.</string>
   <string name="unread_action">Marquer non lu</string>
   <string name="upload">Transférer</string>
   <string name="upload_state_completed">Terminé</string>

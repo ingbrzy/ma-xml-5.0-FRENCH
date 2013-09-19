@@ -191,7 +191,7 @@
   <string name="notification_down_success">L\'image a été téléchargée avec succès. Elle est dans «Téléchargement»</string>
   <string name="notification_up_failed">Échec de l\'envoi</string>
   <string name="notification_up_start">Il vous est possible de voir l\'état d\'avancement dans la section d\'upload</string>
-  <string name="notification_up_success">L\'image a été téléchargé avec succès. Elle est dans \"Camera\"</string>
+  <string name="notification_up_success">L\'image a été téléchargé avec succès. Elle est dans "Camera"</string>
   <string name="notification_updown_percentage">0%</string>
   <string name="offsetsize">0B</string>
   <string name="ok">OK</string>

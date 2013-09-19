@@ -62,8 +62,8 @@
   <string name="setting_2hour">Après 2 heures</string>
   <string name="save">Enreg.</string>
   <string name="toast_channel_empty">Aucune station</string>
-  <string name="toast_earphone_not_connected">\"L\'écouteur n\'est pas connecté.
-Connectez-le car il fait office d\'antenne radio\"</string>
+  <string name="toast_earphone_not_connected">"L\'écouteur n\'est pas connecté.
+Connectez-le car il fait office d\'antenne radio"</string>
   <string name="dialog_autoscan">Balayage auto</string>
   <string name="toast_initial_access">Lancement de la recherche auto…</string>
   <string name="scan_result">Résultat de la recherche</string>
@@ -159,8 +159,8 @@ Connectez-le car il fait office d\'antenne radio\"</string>
   <string name="recorded_files">Fichiers enregistrés</string>
   <string name="no_recorded_files_guide">Après avoir enregistré la radio, les fichiers enregistrés s\'affichent</string>
   <string name="no_recorded_files_msg">Aucun fichier enregistré</string>
-  <string name="no_recorded_files">\"Aucun fichier enregistré.
-Après l\'enregistrement de la radio, les fichiers enregistrés sont affichés\"</string>
+  <string name="no_recorded_files">"Aucun fichier enregistré.
+Après l\'enregistrement de la radio, les fichiers enregistrés sont affichés"</string>
   <string name="dialog_processing">En cours…</string>
   <string name="toast_up_to_n_characters">Jusqu\' à %d caractères disponibles</string>
   <string name="toast_invalid_character">Caractère non valide</string>

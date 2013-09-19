@@ -103,7 +103,7 @@
   <string name="discard_message">Ignorer</string>
   <string name="discard_message_reason">Votre message va être supprimé, car aucun destinataire valide n\'a été spécifié.</string>
   <string name="discard_slideshow">Supprimer le diaporama</string>
-  <string name="dl_failure_notification">Impossible de télécharger le message \"%1$s\" de %2$s.</string>
+  <string name="dl_failure_notification">Impossible de télécharger le message "%1$s" de %2$s.</string>
   <string name="done">OK</string>
   <string name="download">Télécharger</string>
   <string name="download_later">Impossible de télécharger pour le moment. Veuillez réessayer ultérieurement.</string>
@@ -420,7 +420,7 @@
   <string name="type_to_compose_text_enter_to_send">Saisissez un message</string>
   <string name="type_to_compose_text_or_leave_blank">Saisissez un message ou laissez le champ vide</string>
   <string name="type_video">vidéo</string>
-  <string name="undelivered_msg_dialog_body">"\"Impossible d'envoyer ce message. %s tentatives\""</string>
+  <string name="undelivered_msg_dialog_body">"Impossible d'envoyer ce message. %s tentatives"</string>
   <string name="undelivered_msg_dialog_title">Message non transmis</string>
   <string name="undelivered_sms_dialog_body">Impossible d\'envoyer ce message.</string>
   <string name="unknown_num">Numéro inconnu</string>

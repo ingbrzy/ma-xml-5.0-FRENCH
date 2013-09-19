@@ -43,7 +43,7 @@
   <string name="app_update_install">Nouvelle version téléchargée et prête pour l\'installation</string>
   <string name="application_name">Navigateur</string>
   <string name="autofill_profile_editor_address_line_1">Ligne d\'adresse 1 :</string>
-  <string name="autofill_profile_editor_address_line_1_hint">Adresse postale, boîte postale, \"Aux soins de\"</string>
+  <string name="autofill_profile_editor_address_line_1_hint">Adresse postale, boîte postale, "Aux soins de"</string>
   <string name="autofill_profile_editor_address_line_2">Ligne d\'adresse 2 :</string>
   <string name="autofill_profile_editor_address_line_2_hint">Résidence, bâtiment, appartement, étage, etc.</string>
   <string name="autofill_profile_editor_city">Ville :</string>
@@ -91,12 +91,12 @@
   <string name="bookmarks_root_folder">Dossier racine</string>
   <string name="bookmarks_search">Navigateur</string>
   <string name="browserFrameFileErrorLabel">Problème de fichier</string>
-  <string name="browserFrameFormResubmitMessage">"La page que vous tentez d'afficher contient des données qui ont déjà été envoyées (\"POSTDATA\"). Si vous les renvoyez, toute action effectuée par le formulaire sur la page exécutée (telle que les recherches ou les achats en ligne) sera répétée."</string>
+  <string name="browserFrameFormResubmitMessage">"La page que vous tentez d'afficher contient des données qui ont déjà été envoyées ("POSTDATA"). Si vous les renvoyez, toute action effectuée par le formulaire sur la page exécutée (telle que les recherches ou les achats en ligne) sera répétée."</string>
   <string name="browserFrameNetworkErrorLabel">Problème de connexion</string>
   <string name="browser_bookmarks_page_bookmarks_text">Favoris</string>
   <string name="browser_history">Dernières pages consultées</string>
   <string name="cancel">Annuler</string>
-  <string name="cannot_download">Vous ne pouvez télécharger que des URL de type \"http\" et \"https\".</string>
+  <string name="cannot_download">Vous ne pouvez télécharger que des URL de type "http" et "https".</string>
   <string name="choose_upload">Choisir le fichier à importer</string>
   <string name="choosertitle_sharevia">Partager via</string>
   <string name="clear">Effacer</string>
@@ -143,7 +143,7 @@
   <string name="defaultBookmarksUpButton">Favoris</string>
   <string name="delete">Supprimer</string>
   <string name="delete_bookmark">Supprimer le favori</string>
-  <string name="delete_bookmark_warning" formatted="false">Supprimer le favori \"%s\" ?</string>
+  <string name="delete_bookmark_warning" formatted="false">Supprimer le favori "%s" ?</string>
   <string name="delete_folder">Supprimer le dossier</string>
   <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
   <string name="disable_autofill">Désactiver la saisie automatique</string>
@@ -163,7 +163,7 @@
   <string name="download_no_sdcard_dlg_msg" formatted="false">Une mémoire de stockage USB est requise pour télécharger %s.</string>
   <string name="download_no_sdcard_dlg_title">Mémoire USB non disponible</string>
   <string name="download_pending">Début du téléchargement...</string>
-  <string name="download_sdcard_busy_dlg_msg">La mémoire de stockage USB n\'est pas disponible. Pour autoriser les téléchargements, appuyez sur \"Désactiver la mémoire de stockage USB\" dans les notifications.</string>
+  <string name="download_sdcard_busy_dlg_msg">La mémoire de stockage USB n\'est pas disponible. Pour autoriser les téléchargements, appuyez sur "Désactiver la mémoire de stockage USB" dans les notifications.</string>
   <string name="download_sdcard_busy_dlg_title">Mémoire USB non disponible</string>
   <string name="download_video_alert_message">Si votre forfait a des frais de données, télécharger des vidéos peut consommer votre quota, voulez-vous continuer ?</string>
   <string name="download_video_alert_title">Avertissement de téléchargement !</string>
@@ -540,7 +540,7 @@
   <string name="share_page">Partager la page</string>
   <string name="shortcut_bookmark">Favori</string>
   <string name="shortcut_bookmark_title">Sélectionner un favori</string>
-  <string name="sign_in_to" formatted="false">Connectez-vous à %s1 \"%s2\"</string>
+  <string name="sign_in_to" formatted="false">Connectez-vous à %s1 "%s2"</string>
   <string name="snapshot_failed">"Échec enregistrement pour lecture hors connexion."</string>
   <string name="snapshot_go_live">Version en ligne</string>
   <string name="ssl_continue">Continuer</string>

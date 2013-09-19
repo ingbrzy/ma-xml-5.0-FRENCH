@@ -39,7 +39,7 @@ Pour effacer votre historique de navigation, utilisez les paramètres du navigat
   <string name="search_sources_summary">"Sélection des sources à explorer sur le téléphone lors d\'une recherche"</string>
   <string name="search_widget">Rechercher</string>
   <string name="system_search_category_title">Téléphone</string>
-  <string name="voice_search_hint_quotation_end">\"</string>
-  <string name="voice_search_hint_quotation_start">\"</string>
+  <string name="voice_search_hint_quotation_end">"</string>
+  <string name="voice_search_hint_quotation_start">"</string>
   <string name="voice_search_hint_title">Essayez de dire :</string>
 </resources>
