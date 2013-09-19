@@ -1111,7 +1111,7 @@ avec %s"</string>
   <string name="create_contact_using">"Créer le contact
 avec %s"</string>
   <string name="grant_credentials_permission_message_header">Les applications suivantes demandent l\'autorisation d\'accéder à votre compte</string>
-  <string name="grant_credentials_permission_message_footer">Souhaitez-vous autoriser cette demande?</string>
+  <string name="grant_credentials_permission_message_footer">Souhaitez-vous autoriser cette demande ?</string>
   <string name="grant_permissions_header_text">Demande d\'accès</string>
   <string name="allow">Autoriser</string>
   <string name="deny">Refuser</string>

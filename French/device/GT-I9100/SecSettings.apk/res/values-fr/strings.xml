@@ -3378,7 +3378,7 @@ Failure de se connecter est probable"</string>
     <string name="lockfinger_set_finger_unlock_title">"Set de déverrouillage d'empreintes digitales"</string>
     <string name="lockfinger_toggle_unlock_finger_summary">"Vous devez utiliser les empreintes digitales pour déverrouiller l'écran"</string>
     <string name="lockfinger_toggle_unlock_finger_title">Empreinte requise</string>
-    <string name="lockfinger_too_many_bad_swipes_header">Trop de frottis négatifs!</string>
+    <string name="lockfinger_too_many_bad_swipes_header">Trop d\'erreurs de glissement de doigt !</string>
     <string name="lockfinger_tsm_library_not_available_toast">"TSM n'a pas pu charger la bibliothèque … ne peut pas continuer!"</string>
     <string name="lockfinger_ui_timeout_header">UI délai</string>
     <string name="lockfinger_unlock_disable_lock_finger_summary">Retirer déverrouiller doigt</string>

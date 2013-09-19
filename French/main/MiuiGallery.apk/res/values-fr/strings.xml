@@ -37,7 +37,7 @@
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Avis d\'information</string>
   <string name="alert_message_initial_cloud">Le système va automatiquement télécharger les anciennes et nouvelles photos ainsi que les captures d\'écran seulement lorsqu\'il y a une connexion Wi-Fi.</string>
-  <string name="alert_message_open_sync">Sync est requis, souhaitez-vous ouvrir Sync maintenant?</string>
+  <string name="alert_message_open_sync">Sync est requis, souhaitez-vous ouvrir Sync maintenant ?</string>
   <string name="already_apply_album">Ouvrir %1$s ?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Fond d\'écran Android</string>
@@ -139,8 +139,8 @@
   <string name="delete">Supprimer</string>
   <string name="delete_fail_too_many_items">Échec de la suppression, trop d\'éléments sélectionnés</string>
   <string name="delete_file">Êtes-vous sur de vouloir supprimer %1$d fichier(s) sélectionné(s) ?</string>
-  <string name="delete_files_and_folders">Êtes-vous sur de vouloir supprimer %1$d fichier(s) et %2$d dossier(s) sélectionnés?</string>
-  <string name="delete_folder">Êtes-vous sur de vouloir supprimer %1$d dossier(s) sélectionné(s)?</string>
+  <string name="delete_files_and_folders">Êtes-vous sur de vouloir supprimer %1$d fichier(s) et %2$d dossier(s) sélectionnés ?</string>
+  <string name="delete_folder">Êtes-vous sur de vouloir supprimer %1$d dossier(s) sélectionné(s) ?</string>
   <string name="deleting_files">Suppression des fichiers...</string>
   <string name="demo_video_folder_display_name">Vidéo de démo</string>
   <string name="deny">Rejeter</string>

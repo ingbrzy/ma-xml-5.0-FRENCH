@@ -107,11 +107,11 @@
   <string name="station_edit">Modifier</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="station_move">Déplacer</string>
-  <string name="station_name_already_used">Ce nom de station est déjà utilisé,  veuillez choisir un autre nom</string>
+  <string name="station_name_already_used">Ce nom de station est déjà utilisé, veuillez choisir un autre nom</string>
   <string name="stations_list">Liste des stations</string>
   <string name="stations_list_empty">La liste des stations est vide</string>
   <string name="status_recording">%s</string>
-  <string name="status_recording_time">(Enregistrement: %s)</string>
+  <string name="status_recording_time">(Enregistrement : %s)</string>
   <string name="test_menu">Sélectionnez un Test</string>
   <string name="test_prompt">Choisir un Test</string>
   <string name="test_run">Exécutez le Test</string>

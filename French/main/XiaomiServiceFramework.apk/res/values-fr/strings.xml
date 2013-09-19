@@ -205,7 +205,7 @@ Vous pouvez faire autre chose..."</string>
   <string name="micloud_intro_02_part_02">Les services cloud vous permettent de synchroniser vos contacts, messages, photos et autres données sur divers appareils mobiles.</string>
   <string name="micloud_intro_03_part_01">Ne perd jamais vos données et vous assure que vos contenus soient protégés</string>
   <string name="micloud_intro_03_part_02">Gère vos données et localise, verrouille ou efface le contenu de l\'appareil sur i.xiaomi.com.</string>
-  <string name="micloud_is_what">Qu\'est-ce que MiCloud?</string>
+  <string name="micloud_is_what">Qu\'est-ce que MiCloud ?</string>
   <string name="micloud_more">En apprendre plus</string>
   <string name="micloud_password_confirm_hint">Confirmer mot passe</string>
   <string name="micloud_password_error_inconsistent">Les mots de passe ne correspondent pas</string>

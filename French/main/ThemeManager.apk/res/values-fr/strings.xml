@@ -51,7 +51,7 @@
   <string name="mi_wallpaper_title">Fond d\'écran</string>
   <string name="online_no_network">Impossible de se connecter au réseau</string>
   <string name="online_search_hint">Recherche de ressources en ligne</string>
-  <string name="processing">Traitement ...</string>
+  <string name="processing">Traitement...</string>
   <string name="resource_alarm_default">Alarme</string>
   <string name="resource_app_name">Navigateur de ressources</string>
   <string name="resource_apply">Appliquer</string>

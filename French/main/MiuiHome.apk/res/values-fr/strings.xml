@@ -96,7 +96,7 @@
   <string name="loading">Chargement...</string>
   <string name="loading_desktop">Chargement du lanceur...</string>
   <string name="loading_resource_detail_fail">Échec du chargement des ressources !</string>
-  <string name="loading_resource_detail_info">Chargement ...</string>
+  <string name="loading_resource_detail_info">Chargement...</string>
   <string name="maml_component_customization_title">Paramètres des composants</string>
   <string name="menu_add">Ajouter</string>
   <string name="menu_back_desktop">Retour à l\'accueil</string>

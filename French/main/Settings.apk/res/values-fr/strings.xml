@@ -497,7 +497,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="camera_key_action_title">Bouton Mi</string>
   <string name="camera_key_action_toggle_title">Gâchette</string>
   <string name="cancel">Annuler</string>
-  <string name="cancel_alert">Annuler l\'alerte?</string>
+  <string name="cancel_alert">Annuler l\'alerte ?</string>
   <string name="cant_sync_dialog_message">La synchronisation de cet élément est actuellement désactivée. Pour modifier ce paramètre, activez temporairement les données en arrière-plan et la synchronisation automatique.</string>
   <string name="cant_sync_dialog_title">"Impossible de procéder à la synchronisation manuelle."</string>
   <string name="carrier_enabled">Activer/Désactiver l\'APN</string>

@@ -76,7 +76,7 @@
   <string name="status_bar_anti_disturb">Téléphone en silencieux, ajustez le volume pour reprendre.</string>
   <string name="status_bar_back">Cliquez pour revenir au dictaphone</string>
   <string name="status_bar_recording">Enregistrement...</string>
-  <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause. "</string>
+  <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause."</string>
   <string name="stop_recording">"Arrêter l'enregistrement"</string>
   <string name="storage_is_full">Il n\'y a plus d\'espace libre</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>

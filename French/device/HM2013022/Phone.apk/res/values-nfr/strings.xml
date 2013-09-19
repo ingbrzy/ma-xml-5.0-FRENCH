@@ -18,11 +18,11 @@
   <string name="callDurationFormat">%1$s mins %2$s secs</string>
   <string name="callFailed_cdma_notEmergency">Services d\'urgence uniquement</string>
   <string name="callFailed_cdma_reorder">CDMA : retrier</string>
-  <string name="callFailed_dsac_vt_bear_not_authorized">Configuration de l\'appel vidéo impossible. Le service visiophone n\'est pas activé sur cette carte SIM, appeler via appel vocal?</string>
-  <string name="callFailed_dsac_vt_bearer_not_avail">Configuration de l\'appel vidéo impossible. Passer en appel vocal?</string>
-  <string name="callFailed_dsac_vt_incompatible_destination">Configuration de l\'appel vidéo impossible. La téléphonie vidéo n\'est pas prise en charge par le téléphone de votre interlocuteur. Passer en appel vocal?</string>
-  <string name="callFailed_dsac_vt_out_of_3G_yourphone">Votre téléphone est hors de la zone de couverture du service 3G, passer en appel vocal?</string>
-  <string name="callFailed_dsac_vt_resource_unavailable">Configuration de l\'appel vidéo impossible. Le téléphone que vous appelez est en-dehors du réseau 3G. Passer en appel vocal?</string>
+  <string name="callFailed_dsac_vt_bear_not_authorized">Configuration de l\'appel vidéo impossible. Le service visiophone n\'est pas activé sur cette carte SIM, appeler via appel vocal ?</string>
+  <string name="callFailed_dsac_vt_bearer_not_avail">Configuration de l\'appel vidéo impossible. Passer en appel vocal ?</string>
+  <string name="callFailed_dsac_vt_incompatible_destination">Configuration de l\'appel vidéo impossible. La téléphonie vidéo n\'est pas prise en charge par le téléphone de votre interlocuteur. Passer en appel vocal ?</string>
+  <string name="callFailed_dsac_vt_out_of_3G_yourphone">Votre téléphone est hors de la zone de couverture du service 3G, passer en appel vocal ?</string>
+  <string name="callFailed_dsac_vt_resource_unavailable">Configuration de l\'appel vidéo impossible. Le téléphone que vous appelez est en-dehors du réseau 3G. Passer en appel vocal ?</string>
   <string name="callFailed_simError_slotNumber">Aucune carte SIM ou erreur SIM dans la fente %d</string>
   <string name="call_additional_sum">Réglages numéro de téléphone et appel en attente</string>
   <string name="call_barring_sum">Réglages d\'interdiction d\'appel vocal</string>
@@ -63,7 +63,7 @@
   <string name="cell_broadcast">Diffusion cellulaire</string>
   <string name="cell_broadcast_settings">Réglages diffusion cellulaire</string>
   <string name="change_password">Changer de mot de passe de limitation </string>
-  <string name="confirm_3g_switch">Confirmer l\'application du service 3G à cette SIM? Ceci règlera aussi la SIM par défaut pour les appels vidéo sur cette carte SIM.</string>
+  <string name="confirm_3g_switch">Confirmer l\'application du service 3G à cette SIM ? Ceci règlera aussi la SIM par défaut pour les appels vidéo sur cette carte SIM.</string>
   <string name="confirm_3g_switch_to_off">Etes-vous sûr de vouloir désactiver le service 3G ? Cela désactivera également automatiquement le service d\'appel vidéo.</string>
   <string name="confirm_device_info_full">La carte SD est pleine, l\'enregistrement a été sauvegardé.</string>
   <string name="confirm_password_label">Confirmer le nouveau mot de passe </string>
@@ -106,7 +106,7 @@
   <string name="fdn_phone_book_busy">Le répertoire téléphonique est occupé pour l\'instant, veuillez essayer plus tard. </string>
   <string name="gemini_3g_disable_warning_case0">Vous devez activer l\'itinérance des données pour cette carte SIM, ce qui peut ajouter des frais considérables d\'itinérance ! Voulez-vous vraiment activer l\'itinérance des données et sélectionner cette carte SIM ?</string>
   <string name="gemini_3g_disable_warning_case1">Le service 3G n’est pas disponible avec la carte SIM sélectionnée. Les données peuvent se charger plus lentement. Vous pouvez changer les réglages du service 3G dans Réglages &gt; Sans fil &amp; réseaux &gt; Réseaux portables.</string>
-  <string name="gemini_3g_disable_warning_case2">Vous devez tout d’abord autoriser l’itinérance des données sur cette carte SIM, ce qui peut entraîner des frais d’itinérance non négligeables! De plus, le service 3G n’est pas disponible avec cette carte SIM. Le chargement des données peut être ralenti. Vous pouvez modifier le réglage sous Réglages &gt; Sans-fil &amp; réseaux &gt; Réseaux mobiles. Confirmer l’itinérance des données et la sélection de cette carte SIM?</string>
+  <string name="gemini_3g_disable_warning_case2">Vous devez tout d’abord autoriser l’itinérance des données sur cette carte SIM, ce qui peut entraîner des frais d’itinérance non négligeables! De plus, le service 3G n’est pas disponible avec cette carte SIM. Le chargement des données peut être ralenti. Vous pouvez modifier le réglage sous Réglages &gt; Sans-fil &amp; réseaux &gt; Réseaux mobiles. Confirmer l’itinérance des données et la sélection de cette carte SIM ?</string>
   <string name="gemini_3g_indic">3G</string>
   <string name="gemini_data_connection">Connexion des données</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Préférences réseau GSM/UMTS</string>
@@ -115,14 +115,14 @@
   <string name="imei">Code IMEI</string>
   <string name="incall_toast_hold">Figer</string>
   <string name="incall_toast_unhold">Reprendre</string>
-  <string name="international_dialing_add_country_code" formatted="false">"L'appareil a détecté un numéro d'appel vers %s . Souhaitez-vous ajouter l'indicatif du pays (+%s)?"</string>
-  <string name="international_dialing_add_country_code_and_area_code">"L'appareil a détecté un numéro d'appel depuis %1$s, %2$s. Souhaitez-vous ajouter l'indicatif du pays et le préfixe de la région  (+%3$s)?"</string>
+  <string name="international_dialing_add_country_code" formatted="false">"L'appareil a détecté un numéro d'appel vers %s. Souhaitez-vous ajouter l'indicatif du pays (+%s)?"</string>
+  <string name="international_dialing_add_country_code_and_area_code">"L'appareil a détecté un numéro d'appel depuis %1$s, %2$s. Souhaitez-vous ajouter l'indicatif du pays et le préfixe de la région (+%3$s) ?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Souhaitez-vous ajouter l\'indicatif pays et le préfixe région ?</string>
   <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"L'appareil a détecté un numéro d'appel vers %s. Si la ville que vous appelez n'est pas%s, veuillez saisir le préfixe de la région."</string>
-  <string name="international_dialing_add_country_code_input_area_code">"L'appareil a détecté un numéro d'appel vers%s.  Veuillez saisir le préfixe de la région."</string>
+  <string name="international_dialing_add_country_code_input_area_code">"L'appareil a détecté un numéro d'appel vers%s. Veuillez saisir le préfixe de la région."</string>
   <string name="international_dialing_area_code">préfixe région</string>
   <string name="international_dialing_call_button">Appeler</string>
-  <string name="international_dialing_change_country_prefix">"L'appareil a détecté que vous appelez depuis %s. Modifiez l'indicatif international en  '+'?"</string>
+  <string name="international_dialing_change_country_prefix">"L'appareil a détecté que vous appelez depuis %s. Modifiez l'indicatif international en  '+' ?"</string>
   <string name="international_dialing_click_below_button">Cliquez sur le bouton ci-dessous pour modifier l\'indicatif du pays.</string>
   <string name="international_dialing_confirm_area_code">Si la ville de destination n\'est pas %s, veuillez saisir le préfixe de la région de la ville de destination ci-dessous.</string>
   <string name="international_dialing_dial_with_country_code">Composer avec indicatif pays</string>
@@ -159,7 +159,7 @@
   <string name="lable_sim_not_ready">SIM Toolkit nie je dostupný</string>
   <string name="lable_sms">SMS</string>
   <string name="lable_voice">VOICE</string>
-  <string name="manual_select_dialog_msg">En mode sélection manuelle, le téléphone ne sélectionnera pas d\'autres opérateurs pour vous. Il sera peut-être nécessaire de refaire une sélection manuelle ou de rétablir la sélection automatique si vous ne recevez plus le signal de l\'opérateur choisi. Nous recommandons l\'utilisation de la fonction "Sélection automatique Confirmer la sélection manuelle du réseau?</string>
+  <string name="manual_select_dialog_msg">En mode sélection manuelle, le téléphone ne sélectionnera pas d\'autres opérateurs pour vous. Il sera peut-être nécessaire de refaire une sélection manuelle ou de rétablir la sélection automatique si vous ne recevez plus le signal de l\'opérateur choisi. Nous recommandons l\'utilisation de la fonction "Sélection automatique Confirmer la sélection manuelle du réseau ?</string>
   <string name="manual_select_title">Sélection manuelle</string>
   <string name="meid">MEID</string>
   <string name="minutereminder_title">Rappel des minutes</string>
@@ -198,8 +198,8 @@ inconditionnel activé"</string>
   <string name="network_forbidden">Désactiver</string>
   <string name="network_id">ID du réseau</string>
   <string name="network_setting_all_forbidden_dialog">Žiadne dostupné siete. Skúste prepnúť na 3G siete, alebo zadajte sieť manuálne.</string>
-  <string name="networksettings_tips_data_disabled">Désactiver le service de données? D\'autres services seront affectés, par ex. l\'envoi et la réception de MMS ou d\'emails.</string>
-  <string name="networksettings_tips_data_enabled">Activer le service de données? Des frais de trafic de données peuvent s\'appliquer!</string>
+  <string name="networksettings_tips_data_disabled">Désactiver le service de données ? D\'autres services seront affectés, par ex. l\'envoi et la réception de MMS ou d\'emails.</string>
+  <string name="networksettings_tips_data_enabled">Activer le service de données ? Des frais de trafic de données peuvent s\'appliquer!</string>
   <string name="new_password_label">Nouveau mot de passe (4 chiffres) </string>
   <string name="no_search_result">Aucun résultat de recherche</string>
   <string name="no_service_msg">"L\'opérateur sélectionné n\'émet actuellement pas de service.
@@ -230,7 +230,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="password_changed">Mot de passe modifié avec succès </string>
   <string name="pch_data_prefer_message">"Le service données mobiles préféré est utilisé pour améliorer la transmission des données au prix d\'un taux de réception d\'appel diminué. Il est recommandé de ne pas utiliser ce service.
 
-Etes-vous sûr de vouloir autoriser le service données mobiles préféré?"</string>
+Etes-vous sûr de vouloir autoriser le service données mobiles préféré ?"</string>
   <string name="pch_data_prefer_summary">Autoriser la transmission des données mobiles à pleine vitesse</string>
   <string name="pch_data_prefer_title">Service données mobiles préféré</string>
   <string name="pin2_name">PIN2</string>
@@ -302,7 +302,7 @@ Etes-vous sûr de vouloir autoriser le service données mobiles préféré?"</st
   <string name="sum_video_call">Réglages pour appel vidéo</string>
   <string name="sum_voice_call">Réglages pour appel vocal</string>
   <string name="sum_voice_mail">Service et numéro de messagerie vocale</string>
-  <string name="turn_on_3g_service_message">Service 3G désactivé, souhaitez-vous l\'activer?</string>
+  <string name="turn_on_3g_service_message">Service 3G désactivé, souhaitez-vous l\'activer ?</string>
   <string name="umts_preferred_network_mode_dialogtitle">Mode réseau</string>
   <string name="unblock_pin2">Sblocca PIN2</string>
   <string name="verifyNewPin">Saisissez une nouvelle fois le nouveau code PIN de la carte SIM pour le confirmer</string>
@@ -322,7 +322,7 @@ Etes-vous sûr de vouloir autoriser le service données mobiles préféré?"</st
   <string name="voice_command_notification_ticker" formatted="false">Vous pouvez dire "%s" ou "%s" pour accepter ou ignorer un appel entrant</string>
   <string name="voice_command_notification_title">Contrôle vocal</string>
   <string name="voice_mail">Messagerie vocale</string>
-  <string name="voice_mail_dialog_text">Vous avez un nouveau message vocal%s, souhaitez-vous l\'obtenir?</string>
+  <string name="voice_mail_dialog_text">Vous avez un nouveau message vocal%s, souhaitez-vous l\'obtenir ?</string>
   <string name="vt_addtional_call_description">Réglages numéro de téléphone et appel en attente</string>
   <string name="vt_ask_show_local">Afficher la vidéo locale à l\'autre poste ?</string>
   <string name="vt_ask_show_local_no">Ne pas afficher</string>
@@ -399,6 +399,6 @@ Etes-vous sûr de vouloir autoriser le service données mobiles préféré?"</st
   <string name="vt_vocie_answer">Réponse vocale</string>
   <string name="vt_voice_connecting">Connexion appel vocal</string>
   <string name="vt_wait_voice">Appel vocal en attente de connexion</string>
-  <string name="which_call_to_activate">Quel appel activer?</string>
+  <string name="which_call_to_activate">Quel appel activer ?</string>
   <string name="wrong_password">Erreur de mot de passe </string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Dashboard_App">Applications</string>
-  <string name="Dashboard_HIPS_Disable_Content">Désactiver ceci diminue votre sécurité, cela provoquera l\'arrêt du suivi de vos application et de la protection de votre confidentialité par MIUI. Êtes-vous sûr de vouloir le désactiver?</string>
+  <string name="Dashboard_HIPS_Disable_Content">Désactiver ceci diminue votre sécurité, cela provoquera l\'arrêt du suivi de vos application et de la protection de votre confidentialité par MIUI. Êtes-vous sûr de vouloir le désactiver ?</string>
   <string name="Dashboard_HIPS_Disable_Title">LBE Guard</string>
   <string name="Dashboard_Log">Journal</string>
   <string name="Dashboard_Log_Clear_Content">L\ensemble du journal sera effacé. Êtes-vous sûr de vouloir continuer ?</string>
