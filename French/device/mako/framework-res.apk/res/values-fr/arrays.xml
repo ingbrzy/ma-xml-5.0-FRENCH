@@ -37,6 +37,9 @@
         <item>Autre</item>
         <item>Personnalisée</item>
     </string-array>
+    <string-array name="config_usbHostBlacklist">
+        <item>/dev/bus/usb/001</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>Domicile</item>
         <item>Bureau</item>

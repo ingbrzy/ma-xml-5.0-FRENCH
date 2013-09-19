@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices_lte_gsm">
+        <item>LTE/WCDMA</item>
+        <item>LTE/GSM/WCDMA</item>
+        <item>Préférer GSM/WCDMA</item>
+    </string-array>
+    <string-array name="flip_action_setting_entries">
+        <item>Aucune action</item>
+        <item>Éteint la sonnerie</item>
+        <item>"Refuse l'appel"</item>
+    </string-array>
+    <string-array name="flip_action_summary_entries">
+        <item>ne produit aucune action</item>
+        <item>éteint la sonnerie</item>
+        <item>"refuse l'appel"</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Valeur par défaut</item>
+        <item>Masquer le numéro</item>
+        <item>Afficher le numéro</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Général</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo uniquement</item>
+        <item>CDMA sans EvDo</item>
+        <item>CDMA/EvDo automatique</item>
+        <item>GSM/WCDMA automatique</item>
+        <item>WCDMA uniquement</item>
+        <item>GSM uniquement</item>
+        <item>GSM/WCDMA de préférence</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Anglais</item>
+        <item>Français</item>
+        <item>Espagnol</item>
+        <item>Japonais</item>
+        <item>Coréen</item>
+        <item>Chinois</item>
+        <item>Hébreu</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Réseaux domestiques uniquement</item>
+        <item>Automatique</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Mode TTY désactivé</item>
+        <item>TTY complet</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normales</item>
+        <item>Longues</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Toujours</item>
+        <item>Uniquement en mode silencieux</item>
+        <item>Jamais</item>
+    </string-array>
+</resources>

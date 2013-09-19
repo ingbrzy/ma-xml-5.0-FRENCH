@@ -1,26 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d secondes</item>
+        <item quantity="one">1 seconde</item>
+    </plurals>
     <plurals name="delete_selection">
-        <item quantity="other">Supprimer les éléments sélectionnés ?</item>
-        <item quantity="one">Supprimer l'élément sélectionné</item>
+        <item quantity="other">Suppr. éléments sélectionnés ?</item>
+        <item quantity="one">Supprimer élément sélectionné ?</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d éléments sélectionnés</item>
-        <item quantity="zero">%1$d élément sélectionné</item>
-        <item quantity="one">%1$d élément sélectionné</item>
+        <item quantity="other">%1$d sélectionnés</item>
+        <item quantity="zero">%1$d sélectionné</item>
+        <item quantity="one">%1$d sélectionné</item>
     </plurals>
     <plurals name="number_of_albums_selected">
-        <item quantity="other">%1$d albums sélectionnés</item>
-        <item quantity="zero">%1$d album sélectionné</item>
-        <item quantity="one">%1$d album sélectionné</item>
+        <item quantity="other">%1$d sélectionnés</item>
+        <item quantity="zero">%1$d sélectionné</item>
+        <item quantity="one">%1$d sélectionné</item>
     </plurals>
     <plurals name="number_of_groups_selected">
-        <item quantity="other">%1$d groupes sélectionnés</item>
-        <item quantity="zero">%1$d groupe sélectionné</item>
-        <item quantity="one">%1$d groupe sélectionné</item>
+        <item quantity="other">%1$d sélectionnés</item>
+        <item quantity="zero">%1$d sélectionné</item>
+        <item quantity="one">%1$d sélectionné</item>
     </plurals>
     <plurals name="make_albums_available_offline">
-        <item quantity="other">Rendre les albums disponibles hors-connexion.</item>
-        <item quantity="one">Rendre l'album disponible hors-connexion.</item>
+        <item quantity="other">"Activation consultation d'albums hors connexion."</item>
+        <item quantity="one">"Activation de consultation d'album hors connexion."</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d éléments analysés</item>
+        <item quantity="zero">%1$d éléments analysés</item>
+        <item quantity="one">%1$d élément analysé</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d photos</item>
+        <item quantity="one">%1$d photo</item>
     </plurals>
 </resources>
