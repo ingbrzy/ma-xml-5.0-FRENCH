@@ -103,9 +103,9 @@
   <string name="HIPS_Perm_Location_Desc">Localiser votre téléphone par le biais du réseau ou du GPS</string>
   <string name="HIPS_Perm_Location_Hint">%1$s applications ont la permission de localiser votre téléphone</string>
   <string name="HIPS_Perm_Location_Monitor">Suivre votre position</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Source: Réseau cellulaire</string>
-  <string name="HIPS_Perm_Location_Source_GPS">Source: GPS</string>
-  <string name="HIPS_Perm_Location_Source_Network">Source: Réseau</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">Source : Réseau cellulaire</string>
+  <string name="HIPS_Perm_Location_Source_GPS">Source : GPS</string>
+  <string name="HIPS_Perm_Location_Source_Network">Source : Réseau</string>
   <string name="HIPS_Perm_MobileNetwork">Réseau mobile</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Accéder à Internet via le réseau mobile</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s applications ont la permission d\'accéder à Internet</string>
@@ -177,7 +177,7 @@
   <string name="Privacy_App_Trust_Summary_Off">MIUI ne surveillera pas cette application</string>
   <string name="Privacy_App_Trust_Summary_On">MIUI aura confiance en cette application</string>
   <string name="Privacy_App_Uninstall">Désinstaller</string>
-  <string name="Privacy_Perm_Count">Autorisé: %1$d Refusé: %2$d</string>
+  <string name="Privacy_Perm_Count">Autorisé : %1$d Refusé : %2$d</string>
   <string name="Su_Enable_Dialog">%1$s tente d\'obtenir la permission ROOT qui est désactivée par défaut pour assurer la sécurité du système. Si vous avez besoin de l\'activer, veuillez aller dans les paramètres puis dans la gestion des permissions.</string>
   <string name="Su_Unavailable">La Permission ROOT est désactivée dans la version stable de MIUI. Veuillez installer une version BETA de MIUI pour activer la permission ROOT.</string>
   <string name="SysOpt_Boost_AutoStart">Permission de démarrage automatique</string>

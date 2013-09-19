@@ -28,7 +28,7 @@
   <string name="express_inquiry_indication">Numéro de suivi</string>
   <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
   <string name="express_inquiry_no_result">Aucun résultat.</string>
-  <string name="express_inquiry_serial_number_prefix">"Numéro de série: "</string>
+  <string name="express_inquiry_serial_number_prefix">"Numéro de série : "</string>
   <string name="login_before_recharging">Vous devez vous connecter avant de pouvoir recharger.</string>
   <string name="login_ok">Se connecter</string>
   <string name="mark_number_custom_dialog_maintitle">Accepter ou corriger la marque</string>
@@ -52,8 +52,8 @@
   <string name="phone_info_divider">" ｜ "</string>
   <string name="provider_tag">Source de données</string>
   <string name="recharge_actual_price">Prix：</string>
-  <string name="recharge_charge_range">Prix: ¥%1$s-%2$s</string>
-  <string name="recharge_charge_value">Prix: ¥%s</string>
+  <string name="recharge_charge_range">Prix : ¥%1$s-%2$s</string>
+  <string name="recharge_charge_value">Prix : ¥%s</string>
   <string name="recharge_history">Historique des recharges</string>
   <string name="recharge_input_phone_title">Entrez un numéro de téléphone (China mobile, China Unicom ou China Telecom)</string>
   <string name="recharge_order_actual_price">¥%s</string>
@@ -73,7 +73,7 @@
   <string name="recharge_status_description">État :</string>
   <string name="recharge_title">Recharger</string>
   <string name="recharge_user_confirm_summary">"Vous serez facturé %1$s pour %2$s RMB
-Montant total: %3$s RMB"</string>
+Montant total : %3$s RMB"</string>
   <string name="recharge_user_confirm_title">Confirmer</string>
   <string name="scan">Scanner</string>
   <string name="selected_category_format">%1$s(%2$d on marqué, cliquez pour approuver)</string>

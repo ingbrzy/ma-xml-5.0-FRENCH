@@ -359,7 +359,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="exporting_vcard_finished_title">%s exporté</string>
   <string name="external_profile_title">Mon profil %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">"Impossible d'initialiser les contacts : %s"</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"Impossible d'ouvrir "%s": %s
+  <string name="fail_reason_could_not_open_file" formatted="false">"Impossible d'ouvrir "%s" : %s
 (Raison : %2$s)"</string>
   <string name="fail_reason_error_occurred_during_export">Une erreur s\'est produite pendant l\'exportation : "%s".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Impossible de collecter des métadonnées contenues dans le ou les fichiers vCard."</string>

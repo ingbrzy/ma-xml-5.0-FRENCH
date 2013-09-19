@@ -63,7 +63,7 @@
   <string name="resource_comment_edit_comment">Ajouter un commentaire</string>
   <string name="resource_comment_edit_comment_waiting">Vérifier si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Ecrire un commentaire</string>
-  <string name="resource_comment_edit_title">Commentaire: %1$s</string>
+  <string name="resource_comment_edit_title">Commentaire : %1$s</string>
   <string name="resource_comment_entry_tips">%1$s commentaires, cliquer pour lire</string>
   <string name="resource_comment_expand_full_text">Développer intégralement le texte</string>
   <string name="resource_comment_invalid">Veuillez toucher les étoiles pour donner une note</string>

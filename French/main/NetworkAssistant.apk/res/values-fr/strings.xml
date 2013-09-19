@@ -13,14 +13,14 @@
   <string name="adjust_traffic_carrier_summary_oneweek_before">A été mis a jour il y a une semaine</string>
   <string name="adjust_traffic_carrier_summary_three_day_before">A été mis a jour il y a 3 jours</string>
   <string name="adjust_traffic_carrier_summary_today">Mis à jour à %1$02d:%2$02d aujourd\'hui</string>
-  <string name="adjust_traffic_carrier_summary_yesterday">Mis à jour hier à: %1$02d:%2$02d</string>
+  <string name="adjust_traffic_carrier_summary_yesterday">Mis à jour hier à : %1$02d:%2$02d</string>
   <string name="adjust_traffic_manual_adjust">Saisir manuellement</string>
   <string name="adjust_traffic_relate_settings">Autres paramètres du trafic</string>
   <string name="adjust_traffic_sms_template_update">Mise à jour du modèle de SMS</string>
   <string name="adjust_traffic_title">Ajuster les données relatives au trafic</string>
   <string name="adjust_traffic_update">Mise à jour</string>
   <string name="app_detail_internet_background">Activer en tâche de fond</string>
-  <string name="app_detail_internet_background_traffic">"Premier plan: %1$s, Tâche de fond: %2$s"</string>
+  <string name="app_detail_internet_background_traffic">"Premier plan : %1$s, Tâche de fond : %2$s"</string>
   <string name="app_detail_internet_control_category">Contrôle réseau</string>
   <string name="app_detail_title">Détails de l\'application</string>
   <string name="app_detail_version">Version: %s</string>
@@ -41,7 +41,7 @@
   <string name="carrier_settings_button">Paramètres du fournisseur de services</string>
   <string name="close_txt">Fermer</string>
   <string name="control_app_internet">Contrôle réseau des apps</string>
-  <string name="current_warning_value">Seuil d\'alerte: %s</string>
+  <string name="current_warning_value">Seuil d\'alerte : %s</string>
   <string name="custom_adjust_command">Contenu de l\'expéditeur</string>
   <string name="custom_adjust_command_hit">Contenu à envoyer</string>
   <string name="custom_adjust_is_empty">%s est vide !</string>
@@ -136,8 +136,8 @@ Si ce n'est pas le cas vous pouvez le réajuster."</string>
   <string name="sync_traffic_fail_message">La synchronisation avec l\'opérateur de téléphonie mobile a échoué, le serveur est occupé. Veuillez réessayer plus tard ou appeler le service client au %s pour obtenir de l\'aide</string>
   <string name="sync_traffic_fail_title">Échec de la synchronisation</string>
   <string name="sync_traffic_ing">Synchronisation auprès de l\'opérateur, veuillez patienter...</string>
-  <string name="sync_traffic_no_cmd_detail">"Soumettez votre Pays, ville, indicatif (+33) et opérateur sur le forum suivant: http://www.miui.com/forum-172-1.html. Merci."</string>
-  <string name="sync_traffic_no_cmd_detail_custom_config">"Vous pouvez: 1. Paramètrer &gt;&gt; Ajuster les données relatives au trafic &gt;&gt; Personaliser les ajustements des paramètres ou ajuster le trafic sur la page principale &gt;&gt; Ajuster les paramètres personnalisés; 2. Soumettre votre ville, la marque de votre appareil et l'opérateur sur ce forum: http://www.miui.com/forum-172-1.html"</string>
+  <string name="sync_traffic_no_cmd_detail">"Soumettez votre Pays, ville, indicatif (+33) et opérateur sur le forum suivant : http://www.miui.com/forum-172-1.html. Merci."</string>
+  <string name="sync_traffic_no_cmd_detail_custom_config">"Vous pouvez : 1. Paramètrer &gt;&gt; Ajuster les données relatives au trafic &gt;&gt; Personaliser les ajustements des paramètres ou ajuster le trafic sur la page principale &gt;&gt; Ajuster les paramètres personnalisés; 2. Soumettre votre ville, la marque de votre appareil et l'opérateur sur ce forum : http://www.miui.com/forum-172-1.html"</string>
   <string name="sync_traffic_no_cmd_title">Aucun modèle de SMS</string>
   <string name="sync_traffic_success">"Les données de l'opérateur ont été synchronisées, le trafic a été ajusté avec succès"</string>
   <string name="text_day"></string>
@@ -145,7 +145,7 @@ Si ce n'est pas le cas vous pouvez le réajuster."</string>
   <string name="text_save">Enregistrer</string>
   <string name="traffic_none">Aucun</string>
   <string name="traffic_remain">Restant</string>
-  <string name="traffic_settings_error">Il y a une erreur dans vos paramètres de trafic mensuel. Selon vos paramètres et votre opérateur, votre trafic mensuel est de: %1$s et le trafic restant est de: %2$s.</string>
+  <string name="traffic_settings_error">Il y a une erreur dans vos paramètres de trafic mensuel. Selon vos paramètres et votre opérateur, votre trafic mensuel est de : %1$s et le trafic restant est de : %2$s.</string>
   <string name="traffic_suffix">Circulation</string>
   <string name="traffic_suffix_with_uint">Trafic (Mo)</string>
   <string name="traffic_total">"%s
@@ -164,12 +164,12 @@ Utilisé"</string>
   <string name="update_success">Mis à jour avec succès</string>
   <string name="updating">Mise à jour...</string>
   <string name="used_flux">Utilisation du trafic</string>
-  <string name="version_label">"Version: "</string>
+  <string name="version_label">"Version : "</string>
   <string name="warning_settings_toast">"%1$d%% %2$dMo"</string>
   <string name="warning_title">Attention</string>
   <string name="widget_color_exceed_warn">\#F9882C</string>
   <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
   <string name="widget_color_used_all">\#C00203</string>
-  <string name="wifi_traffic">Wi-Fi: %s</string>
+  <string name="wifi_traffic">Wi-Fi : %s</string>
   <string name="wifi_type">Wi-Fi</string>
 </resources>

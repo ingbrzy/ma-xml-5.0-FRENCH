@@ -101,7 +101,7 @@
   <string name="auto_retry_mode_title_miui">Réponse automatique</string>
   <string name="autoip_miui">Numérotation automatique de l\'IP</string>
   <string name="autoip_sum_miui">Ajouter un préfixe IP à un numéro étranger. Entrez le code ci-dessous de la zone actuelle.</string>
-  <string name="back_miui">Arrière</string>
+  <string name="back_miui">Retour</string>
   <string name="badPin">L\'ancien code PIN saisi est incorrect. Veuillez réessayer.</string>
   <string name="badPin2">L\'ancien code PIN2 saisi est incorrect. Veuillez réessayer.</string>
   <string name="badPuk2">La clé PUK2 saisie est incorrecte. Veuillez réessayer.</string>
@@ -289,8 +289,8 @@
   <string name="crystaltalk_summary_miui">Optimisation de la configuration d\'appels audio</string>
   <string name="crystaltalk_title_miui">Paramètre du Multiplexage audio à compression quasi-instantanée</string>
   <string name="current_areacode_miui">Code de zone actuel</string>
-  <string name="current_areacode_sum_miui">Indicatif régional de l\'emplacement actuel, ou indicatif régional d\'itinérance si vous êtes en itinérance. Par exemple: 010</string>
-  <string name="current_areacode_sum_set_miui">Emplacement de l\'indicatif régional actuel: %s</string>
+  <string name="current_areacode_sum_miui">Indicatif régional de l\'emplacement actuel, ou indicatif régional d\'itinérance si vous êtes en itinérance. Par exemple : 010</string>
+  <string name="current_areacode_sum_set_miui">Emplacement de l\'indicatif régional actuel : %s</string>
   <string name="cursorError">Erreur de curseur</string>
   <string name="custom_location_location_hint_miui">Nom</string>
   <string name="custom_location_location_no_item_miui">"Cliquez sur "Ajouter" ci-dessous pour ajouter l'attribution personnalisée"</string>
@@ -299,9 +299,9 @@
   <string name="data_enable_summary">Activer l\'accès aux données sur le réseau mobile</string>
   <string name="data_enabled">Activer les données</string>
   <string name="deact_all_sub_not_supported">La désactivation des deux abonnements n\'est pas pris en charge.</string>
-  <string name="default_contacts_countrycode_hint_miui">Par exemple: 86</string>
+  <string name="default_contacts_countrycode_hint_miui">Par exemple : 86</string>
   <string name="default_contacts_countrycode_miui">Code pays des contacts par défaut</string>
-  <string name="default_contacts_countrycode_sum_miui">Définir le code de pays par défaut de vos contacts: %s</string>
+  <string name="default_contacts_countrycode_sum_miui">Définir le code de pays par défaut de vos contacts : %s</string>
   <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Non défini&gt;</string>
   <string name="default_transport">UDP</string>
@@ -380,7 +380,7 @@
   <string name="emergency_broadcast_disable">Option "Diffusion des services d\'urgence" désactivée</string>
   <string name="emergency_broadcast_enable">Option "Diffusion des services d\'urgence" activée</string>
   <string name="emergency_call_area_code_edit_dialog_button_miui">Appeler</string>
-  <string name="emergency_call_area_code_edit_dialog_hint_miui">par ex: 112</string>
+  <string name="emergency_call_area_code_edit_dialog_hint_miui">par ex : 112</string>
   <string name="emergency_enable_radio_dialog_message">Activation du signal radio...</string>
   <string name="emergency_enable_radio_dialog_retry">Hors zone de couverture. Nouvelle tentative...</string>
   <string name="emergency_enable_radio_dialog_title">Appel d\'urgence</string>
@@ -518,7 +518,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="invalid_puk_miui">Code PUK invalide, saisissez un code comportant 8 chiffres.</string>
   <string name="ip_prefix_miui">Préfixe IP</string>
   <string name="ip_prefix_required_miui">Le préfixe IP est requis</string>
-  <string name="ip_prefix_sum_miui">"Préfixe IP de l'opérateur: %s"</string>
+  <string name="ip_prefix_sum_miui">"Préfixe IP de l'opérateur : %s"</string>
   <string name="jituan_number_format_error_message_miui">%s supporte seulement les chiffres et les dièses</string>
   <string name="labelCDMAMore">Paramètres d\'appel CDMA</string>
   <string name="labelCF">Transfert d\'appel</string>
@@ -734,7 +734,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="pin2_changed">Modification du code PIN2 réussie.</string>
   <string name="pin2_changed_miui">Code PIN2 modifié</string>
   <string name="pin2_invalid">Le numéro autorisé n\'a pas été mis à jour, car vous avez saisi un code PIN incorrect.</string>
-  <string name="pin2_invalid_or_name_is_too_long">Le FDN n\'a pas été mis à jour: vous avez entré un code PIN2 incorrect ou le nom est trop long.</string>
+  <string name="pin2_invalid_or_name_is_too_long">Le FDN n\'a pas été mis à jour : vous avez entré un code PIN2 incorrect ou le nom est trop long.</string>
   <string name="pin2_lock_warning_miui">"Veuillez noter que les fonctionnalités associées au PIN2 seront verrouillées en cas de nouvel échec !"</string>
   <string name="pin2_locked_message_miui">PIN2 incorrect, les fonctionnalités associées au PIN2 sont verrouillées. Veuillez réinitialiser le code PIN2 avec le code PUK2.</string>
   <string name="pin2_or_fdn_invalid">Le numéro autorisé n\'a pas été mis à jour. Soit le code PIN2 est incorrect, soit le numéro de téléphone a été rejeté.</string>

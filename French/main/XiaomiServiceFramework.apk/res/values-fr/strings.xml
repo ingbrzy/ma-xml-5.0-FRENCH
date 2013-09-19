@@ -4,7 +4,7 @@
   <string name="access_token_expired_warning">Votre compte Weibo a expiré, veuillez le rattacher</string>
   <string name="access_token_invalid_warning">Votre compte Weibo est invalide, veuillez le rattacher</string>
   <string name="account">Compte</string>
-  <string name="account_detail">Compte Xiaomi: %1$s</string>
+  <string name="account_detail">Compte Xiaomi : %1$s</string>
   <string name="account_dspt">"Les comptes Xiaomi permettent de synchroniser et sauvegarder vos messages, contacts, photos, etc."</string>
   <string name="account_hint_text">Mail/Numéro de téléphone</string>
   <string name="account_name">Compte : %1$s</string>
@@ -51,7 +51,7 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="bind_weibo_description">Trouver les contacts téléphoniques, amis et d\'autres informations directement à partir de votre compte</string>
   <string name="binded">Associé</string>
   <string name="btn_activate">Activer</string>
-  <string name="btn_back">Arrière</string>
+  <string name="btn_back">Retour</string>
   <string name="btn_call">Appelez le support technique</string>
   <string name="btn_count_down_auto">%1$s secondes</string>
   <string name="btn_count_down_wait">%1$s secondes d\'attente</string>
@@ -123,7 +123,7 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="error_too_frequent_visits_summary">"Vous essayez de visiter trop souvent. 
 Veuillez réessayer après cinq minutes"</string>
   <string name="error_too_frequent_visits_title">Avertissement !</string>
-  <string name="error_unknown">Erreur inconnue: %1$s</string>
+  <string name="error_unknown">Erreur inconnue : %1$s</string>
   <string name="error_user_id_mismatch_summary">Veuillez vérifier les détails de votre compte et essayer à nouveau</string>
   <string name="error_user_id_mismatch_title">Erreur d\'authentification !</string>
   <string name="error_verify_summary">L\'Application n\'a pas l\'autorisation de solliciter le service</string>
@@ -173,7 +173,7 @@ et ne peuvent être utilisés si expirés"</string>
   <string name="mibi_license_message_span">Contrat d\'utilisation de MiCredit</string>
   <string name="mibi_license_title">Contrat d\'utilisation de MiCredit</string>
   <string name="micloud_account">Compte Xiaomi</string>
-  <string name="micloud_account_label">Compte: %1$s</string>
+  <string name="micloud_account_label">Compte : %1$s</string>
   <string name="micloud_account_name">Compte Xiaomi</string>
   <string name="micloud_account_not_actived">Compte non activé</string>
   <string name="micloud_activate_account_fail_notify_title">Échec de l\'activation de votre compte Xiaomi</string>

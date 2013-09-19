@@ -37,7 +37,7 @@
   <string name="common_settings">Paramètres généraux</string>
   <string name="confirm_abort">Confirmer</string>
   <string name="control_set_alarm">Régler l\'alarme</string>
-  <string name="control_set_alarm_with_existing">Alarme définie: %s</string>
+  <string name="control_set_alarm_with_existing">Alarme définie : %s</string>
   <string name="day">1 jour</string>
   <string name="day_concat">", "</string>
   <string name="days">%s jours</string>

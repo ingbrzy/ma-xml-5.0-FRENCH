@@ -367,7 +367,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_enter_passkey_msg">"Pour l'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir la clé d'accès requise de l'appareil : "</string>
   <string name="bluetooth_enter_passkey_other_device">Vous devrez peut-être également saisir ce mot de passe sur l\'autre appareil.</string>
   <string name="bluetooth_enter_pin_msg">"Pour l'association à :{&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir le code PIN requis de l'appareil : "</string>
-  <string name="bluetooth_enter_pin_msg_hs">Entrez le PIN pour lier avec "%1$s". [Haute sécurité activé: Demande une clé de 16 caractère]</string>
+  <string name="bluetooth_enter_pin_msg_hs">Entrez le PIN pour lier avec "%1$s". [Haute sécurité activé : Demande une clé de 16 caractère]</string>
   <string name="bluetooth_enter_pin_other_device">Vous devrez peut-être également saisir ce code PIN sur l\'autre appareil.</string>
   <string name="bluetooth_error_title"></string>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s souhaiterait accéder à vos fichiers et dossiers. Donner l\'accès à %2$s ?</string>
@@ -1257,7 +1257,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
 2) Créer le répertoire : mkdir /media/mtp
 3) Confirmer les permissions du groupe d\'utilisateur
 4) Reconnecter
-5) Accéder à l\'appareil monté: "mtpfs /media/mtp" via Nautilus; même répertoire local
+5) Accéder à l\'appareil monté : "mtpfs /media/mtp" via Nautilus; même répertoire local
 6) Désinstaller l\'appareil "fusermount -u /media/mtp"
 Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="msd_install_retry_mac">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
@@ -1329,8 +1329,8 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="perm_header_disabled">Moniteur de permission désactivé</string>
   <string name="perm_hide_system_app">Masquer les applications du système</string>
   <string name="perm_hips">Gérer les autorisations d\'application</string>
-  <string name="perm_hips_action_accept_count">Autorisé: %1$d</string>
-  <string name="perm_hips_action_reject_count">Refusé: %1$d</string>
+  <string name="perm_hips_action_accept_count">Autorisé : %1$d</string>
+  <string name="perm_hips_action_reject_count">Refusé : %1$d</string>
   <string name="perm_hips_adjust_ringer_volume">ajuster le volume de la sonnerie</string>
   <string name="perm_hips_adjust_volume_incall">régler le volume d\'appel</string>
   <string name="perm_hips_allow_all">Autoriser tous</string>
@@ -1359,8 +1359,8 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="perm_hips_location_cellinfo">obtenir votre localisation cellulaire</string>
   <string name="perm_hips_location_monitor">suivre votre position</string>
   <string name="perm_hips_location_source_cellular">Source : Réseau cellulaire</string>
-  <string name="perm_hips_location_source_gps">Source: GPS</string>
-  <string name="perm_hips_location_source_network">Source: Réseau</string>
+  <string name="perm_hips_location_source_gps">Source : GPS</string>
+  <string name="perm_hips_location_source_network">Source : Réseau</string>
   <string name="perm_hips_mobile_network">Réseau mobile</string>
   <string name="perm_hips_mobile_network_desc">Réseau mobile</string>
   <string name="perm_hips_mobile_network_hint">%1$s apps sont autorisées à accéder à Internet via le réseau mobile</string>
@@ -1436,7 +1436,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="perm_privacy_app_trust_summary_off">MIUI surveille cette application</string>
   <string name="perm_privacy_app_trust_summary_on">MIUI fait confiance à cette application</string>
   <string name="perm_privacy_app_uninstall">Désinstaller</string>
-  <string name="perm_privacy_count">Autorisé: %1$d Refusé: %2$d</string>
+  <string name="perm_privacy_count">Autorisé : %1$d Refusé : %2$d</string>
   <string name="perm_service_disabled">Service désactivé</string>
   <string name="perm_service_enabled">Le service est actif</string>
   <string name="perm_shortcut">Menu contextuel</string>
@@ -2250,7 +2250,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="vpn_connect">Se connecter</string>
   <string name="vpn_connect_to">Se connecter à %s</string>
   <string name="vpn_create">Ajouter un profil VPN</string>
-  <string name="vpn_dns_servers">Serveurs DNS (ex : 8.8.8.8)</string>
+  <string name="vpn_dns_servers">Serveurs DNS</string>
   <string name="vpn_dns_servers_hint">ex: 8.8.8.8</string>
   <string name="vpn_edit">Modifier le profil VPN</string>
   <string name="vpn_ipsec_ca_cert">Certificat d\'autorité IPSec</string>
@@ -2273,7 +2273,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="vpn_no_server_cert">(certificat reçu du serveur)</string>
   <string name="vpn_not_used">(non utilisé)</string>
   <string name="vpn_password">Mot de passe</string>
-  <string name="vpn_routes">Itinéraires transfert (ex : 10.0.0.0/8)</string>
+  <string name="vpn_routes">Itinéraires transfert</string>
   <string name="vpn_routes_hint">ex: 10.0.0.0/8</string>
   <string name="vpn_safe">Sécurité des connexions VPN</string>
   <string name="vpn_save">Enregistrer</string>
