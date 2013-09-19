@@ -149,9 +149,13 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="composer_has_no_exportable_contact">Il n\'y a aucun contact exportable. Si vous avez réellement des contacts sur votre téléphone, ils peuvent être interdits d\'exportation par certains fournisseurs de données.</string>
   <string name="composer_not_initialized">"Le compositeur de carte de visite n'est pas correctement initialisé"</string>
   <string name="config_export_dir">/mnt/sdcard</string>
+  <string name="config_export_extensions_to_consider"></string>
   <string name="config_export_file_extension">vcf</string>
+  <string name="config_export_file_prefix"></string>
+  <string name="config_export_file_suffix"></string>
   <string name="config_export_vcard_type">default</string>
   <string name="config_import_vcard_type">default</string>
+  <string name="config_prohibited_phone_number_regexp"></string>
   <string name="confirm_delete_contact_all_call_logs">"Êtes-vous sûr de vouloir supprimer %s du journal d'appel ?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Êtes-vous sûr de vouloir supprimer le contact du journal d'appel ?"</string>
   <string name="confirm_delete_sim_entry_miui">Confirmer la suppression des %d contacts sélectionnés de la carte SIM ?</string>
@@ -202,14 +206,14 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="date_year_toggle">Donner l\'année</string>
   <string name="default_ringtone">Sonnerie par défaut</string>
   <string name="deleteConfirmation">Ce contact sera supprimé.</string>
-  <string name="deleteConfirmationDetail">Voulez-vous vraiment supprimer \"%s\" ?</string>
+  <string name="deleteConfirmationDetail">Voulez-vous vraiment supprimer "%s" ?</string>
   <string name="deleteConfirmation_title">Supprimer</string>
   <string name="delete_call_log_title">Sélectionnez le journal d\'appel à supprimer ?</string>
   <string name="delete_contact_calllog_title">"Êtes-vous sûr de vouloir supprimer le journal d'appel du contact ?"</string>
   <string name="delete_dial_input">supprimer</string>
   <string name="delete_duplicate">Fusionner</string>
   <string name="delete_duplicate_message">"Fusion..."</string>
-  <string name="delete_group_dialog_message">Êtes-vous sûr de vouloir supprimer le groupe \"%1$s\" ? (Les contacts ne seront pas effacés)</string>
+  <string name="delete_group_dialog_message">Êtes-vous sûr de vouloir supprimer le groupe "%1$s" ? (Les contacts ne seront pas effacés)</string>
   <string name="delete_group_dialog_title">Supprimer le groupe</string>
   <string name="delete_selected_sim_entry_miui">Supprimer les contacts sélectionnés ?</string>
   <string name="delete_sim_entries_finish">Suppression des contacts SIM réussie</string>
@@ -316,7 +320,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="display_options_view_names_as">Afficher les contacts par</string>
   <string name="display_sim_contacts">Afficher les contacts SIM</string>
   <string name="display_ungrouped">Tous les autres contacts</string>
-  <string name="display_warn_remove_ungrouped">Si vous retirez \"%s\" de la synchronisation, les contacts non groupés le seront également.</string>
+  <string name="display_warn_remove_ungrouped">Si vous retirez "%s" de la synchronisation, les contacts non groupés le seront également.</string>
   <string name="dlg_add_blacklist">Ajouter le numéro sélectionné à la liste noire ?</string>
   <string name="dlg_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
   <string name="download_failed">Échec du téléchargement !</string>
@@ -348,16 +352,16 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="export_vcard_description">Exporter la carte de visite sur la carte SD</string>
   <string name="exporting_contact_failed_message">"Échec de l'exportation des données des contacts. (Raison : %s)"</string>
   <string name="exporting_contact_failed_title">"Échec de l'exportation des données des contacts"</string>
-  <string name="exporting_contact_list_message">Exportation des données des contacts vers \"%s\"</string>
+  <string name="exporting_contact_list_message">Exportation des données des contacts vers "%s"</string>
   <string name="exporting_contact_list_progress" formatted="false">%s sur %s contacts</string>
   <string name="exporting_contact_list_title">Exportation des contacts</string>
   <string name="exporting_vcard_canceled_title">Exportation de %s annulée</string>
   <string name="exporting_vcard_finished_title">%s exporté</string>
   <string name="external_profile_title">Mon profil %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">"Impossible d'initialiser les contacts : %s"</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"\"Impossible d'ouvrir \"%s\": %s
-(Raison : %2$s)\""</string>
-  <string name="fail_reason_error_occurred_during_export">Une erreur s\'est produite pendant l\'exportation : \"%s\".</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"""Impossible d'ouvrir "%s": %s
+(Raison : %2$s)"""</string>
+  <string name="fail_reason_error_occurred_during_export">Une erreur s\'est produite pendant l\'exportation : "%s".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Impossible de collecter des métadonnées contenues dans le ou les fichiers vCard."</string>
   <string name="fail_reason_failed_to_read_files">"Impossible d'importer un ou plusieurs fichiers (%s)."</string>
   <string name="fail_reason_io_error">Erreur E/S</string>
@@ -398,6 +402,9 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="group_sms_progress_msg">Préparation de groupe SMS...</string>
   <string name="groupsLabel">Groupes</string>
   <string name="groups_list_empty">Aucun groupe</string>
+  <string name="help_url_people_add"></string>
+  <string name="help_url_people_edit"></string>
+  <string name="help_url_people_main"></string>
   <string name="hint_distance">garder la distance</string>
   <string name="hint_findContacts">Rechercher</string>
   <string name="hint_more_contact">utiliser la fusion de contact lorsqu\'il y a des contacts en double</string>
@@ -539,7 +546,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="missing_name">Nom inconnu</string>
   <string name="move_and_resize">Déplacer et redimensionner</string>
   <string name="multipleContactDeleteConfirmation">La suppression de ce contact entraînera la suppression des informations de plusieurs comptes</string>
-  <string name="multipleContactDeleteConfirmationDetail">Supprimer \"%s\" entraînera la suppression des informations de comptes multiples.</string>
+  <string name="multipleContactDeleteConfirmationDetail">Supprimer "%s" entraînera la suppression des informations de comptes multiples.</string>
   <string name="my_phone_not_provider_bluetooth">Le téléphone ne supporte pas le Bluetooth</string>
   <string name="my_phone_provider_bluetooth">Le téléphone ne supporte pas le Bluetooth</string>
   <string name="nameLabelsGroup">Nom</string>
@@ -569,7 +576,7 @@ Pour ajouter des contacts, appuyez sur"</string>
   <string name="noContactsHelpTextForCreateShortcut">"Aucun contact à afficher"</string>
   <string name="noContactsHelpTextWithSync">"Vous n\'avez aucun contact à afficher (si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes).
 
-Pour ajouter des contacts, appuyez sur "<font fgcolor="#ffffffff"><b>Menu</font></b>", et sélectionnez :
+Pour ajouter des contacts, appuyez sur Menu, et sélectionnez :
  
 "<li><font fgcolor="#ffffffff"><b>"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts sur le téléphone;
 "</b></font></li>" 
@@ -742,7 +749,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="quickcontact_missing_app">Application introuvable</string>
   <string name="quit_dialog_confirm_title">Êtes-vous sûr de vouloir quitter la fusion des contacts ?</string>
   <string name="readOnlyContactDeleteConfirmation">Ce contact contient les informations de plusieurs comptes. Les informations de comptes en lecture seule seront masquées dans les listes des contacts et non supprimées</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contient des informations provenant de plusieurs comptes. Les informations de comptes de lecture seule seront masquées dans votre liste de contacts mais ne seront pas supprimées.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">"%s" contient des informations provenant de plusieurs comptes. Les informations de comptes de lecture seule seront masquées dans votre liste de contacts mais ne seront pas supprimées.</string>
   <string name="readOnlyContactWarning">"Il est impossible de supprimer des contacts sur les comptes en lecture seule. Vous pouvez cependant les masquer dans vos contacts"</string>
   <string name="readingSimContacts">Lecture des informations de la carte SIM, veuillez patienter...</string>
   <string name="reading_vcard_canceled_title">Lecture des données vCard annulée</string>
