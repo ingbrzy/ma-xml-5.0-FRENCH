@@ -23,4 +23,17 @@
         <item quantity="other">"Activation consultation d'albums hors connexion."</item>
         <item quantity="one">"Activation de consultation d'album hors connexion."</item>
     </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d éléments analysés</item>
+        <item quantity="zero">%1$d éléments analysés</item>
+        <item quantity="one">%1$d élément analysé</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d secondes</item>
+        <item quantity="one">1 seconde</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d photos</item>
+        <item quantity="one">%1$d photo</item>
+    </plurals>
 </resources>
