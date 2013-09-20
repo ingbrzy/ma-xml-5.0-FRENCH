@@ -2,7 +2,7 @@
 <resources>
     <plurals name="delete_selection">
         <item quantity="other">Supprimer les images sélectionnées ?</item>
-        <item quantity="one">Supprimer l'image sélectionnée ?</item>
+        <item quantity="one">Supprimer l\'image sélectionnée ?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d éléments sélectionnés</item>
@@ -21,7 +21,7 @@
     </plurals>
     <plurals name="make_albums_available_offline">
         <item quantity="other">Rendre les albums disponibles hors-connexion.</item>
-        <item quantity="one">Rendre l'album disponible hors-connexion.</item>
+        <item quantity="one">Rendre l\'album disponible hors-connexion.</item>
     </plurals>
     <plurals name="number_of_items_in_slot">
         <item quantity="other">%1$d images</item>
