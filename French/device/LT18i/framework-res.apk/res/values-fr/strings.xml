@@ -1027,7 +1027,7 @@ Voulez-vous la fermer ?"</string>
   <string name="usb_storage_stop_title">Mode lecteur de disque en cours d\'utilisation</string>
   <string name="usb_storage_stop_message">Avant de désactiver la mémoire de stockage USB, veuillez désinstaller ("éjecter") de votre ordinateur la carte SD de votre appareil Android.</string>
   <string name="usb_storage_stop_button_mount">Désactiver le mode lecteur de disque</string>
-  <string name="usb_storage_stop_error_message">Un problème est survenu lors de la déconnection de la mémoire. Assurez-vous que l\'hôte USB a bien été déconnecté, puis réessayez.</string>
+  <string name="usb_storage_stop_error_message">Un problème est survenu lors de la déconnexion de la mémoire. Assurez-vous que l\'hôte USB a bien été déconnecté, puis réessayez.</string>
   <string name="dlg_confirm_kill_storage_users_title">Activer le mode lecteur de disque</string>
   <string name="dlg_confirm_kill_storage_users_text">Si vous connectez la mémoire interne de votre appareil, certaines applications en cours d\'utilisation vont être fermées et risquent de rester indisponibles jusqu\'à ce que la mémoire soit déconnectée.</string>
   <string name="dlg_error_title">Échec du fonctionnement de la mémoire de stockage USB.</string>

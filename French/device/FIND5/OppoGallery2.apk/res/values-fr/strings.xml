@@ -184,7 +184,7 @@
   <string name="no_thumbnail">Cette photo a été endommagée</string>
   <string name="no_video_to_share">Aucune vidéo à partager.</string>
   <string name="not_enough_space">Mémoire insuffisante</string>
-  <string name="not_selectable_in_effect">Non sélectionnable lorsque un effet est activé.</string>
+  <string name="not_selectable_in_effect">Non sélectionnable lorsqu'un effet est activé.</string>
   <string name="not_selectable_in_scene_mode">Non sélectionnable en mode scène</string>
   <string name="notfication_down_failed">Téléchargement échoué</string>
   <string name="notification_down_start">Il vous est possible de voir l\'état d\'avancement dans la section de téléchargement</string>
