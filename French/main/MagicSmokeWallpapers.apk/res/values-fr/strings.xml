@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">"Fonds d'écran fumée magique"</string>
+    <string name="wallpaper_magicsmoke">Fumée magique</string>
+    <string name="author">Google</string>
+    <string name="ok">OK</string>
+    <string name="taptochange">Appuyer pour modifier la sélection</string>
+</resources>
