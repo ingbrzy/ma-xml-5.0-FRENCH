@@ -321,9 +321,8 @@
         <item>Cyan</item>
         <item>Blanche</item>
         <item>Violette</item>
-    </string-array>
-    </string-array>  
-	<string-array name="led_color_values">
+     </string-array>  
+     <string-array name="led_color_values">
         <item>blue</item>
         <item>red</item>
         <item>yellow</item>
