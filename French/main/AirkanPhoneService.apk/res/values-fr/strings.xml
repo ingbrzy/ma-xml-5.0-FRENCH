@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rcs_app_name">Service de contrôle à distance</string>
+    <string name="rcs_phoneact_name">Gestionnaire de contrôle à distance du téléphone </string>
+    <string name="rcs_service_start">Service de contrôle à distance du téléphone démarré.</string>
+    <string name="app_name">Airkan Phone</string>
+    <string name="phoneact_name">Gestionnaire du téléphone Airkan</string>
+    <string name="mdnssdact_name">"Gestionnaire du service d'écoute mDNSSD"</string>
+    <string name="service_start">Service Airkan démarré.</string>
+    <string name="listenservice_start">"Service d'écoute mDNSSD démarré."</string>
+</resources>
