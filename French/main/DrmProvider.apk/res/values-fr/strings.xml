@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Stockage du contenu protégé par GDN</string>
+    <string name="permlab_accessDrm">Accéder au contenu GDN.</string>
+    <string name="permdesc_accessDrm">"Autorise l'application à accéder à du contenu protégé par GDN."</string>
+    <string name="permlab_installDrm">Installer le contenu GDN</string>
+    <string name="permdesc_installDrm">"Autorise l'application à installer du contenu protégé par GDN."</string>
+</resources>

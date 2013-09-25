@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Programme d'installation du certificat"</string>
+    <string name="pick_file_title">Sélectionnez un certificat</string>
+    <string name="pkcs12_password_dialog_title">Extraire le certificat</string>
+    <string name="extracting_pkcs12">Extraction en cours...</string>
+    <string name="pkcs12_file_password_dialog_title">Extraire de %s</string>
+    <string name="name_credential_dialog_title">Attribuer un nom au certificat</string>
+    <string name="credential_name">Nom du certificat :</string>
+    <string name="credential_password">Saisir le mot de passe pour extraire les certificats</string>
+    <string name="credential_info">Le package contient :</string>
+    <string name="p12_description">Certificats dans le keystore PKCS12</string>
+    <string name="one_userkey">une clé utilisateur</string>
+    <string name="one_usercrt">un certificat utilisateur</string>
+    <string name="one_cacrt">"un certificat de l'autorité de certification"</string>
+    <string name="n_cacrts">"%d certificats de l'autorité de certification"</string>
+    <string name="password_error">Veuillez saisir le mot de passe approprié.</string>
+    <string name="password_empty_error">Veuillez saisir le mot de passe.</string>
+    <string name="name_empty_error">Veuillez saisir un nom.</string>
+    <string name="name_char_error">Veuillez saisir un nom ne contenant que des lettres et des chiffres.</string>
+    <string name="storage_error">"Impossible d\'enregistrer le certificat. Veuillez appuyer sur \"OK\" pour réessayer."</string>
+    <string name="unable_to_save_cert">"Impossible d\'enregistrer le certificat. Le stockage des identifiants n\'est pas activé, ou il n\'est pas initialisé correctement."</string>
+    <string name="cert_not_saved">"Le certificat n\'est pas installé."</string>
+    <string name="no_cert_to_saved">Aucun certificat à installer.</string>
+    <string name="invalid_cert">Le certificat est incorrect.</string>
+    <string name="cert_is_added">%s est installé.</string>
+    <string name="cert_too_large_error">"Impossible de procéder à l'installation, car le certificat est trop volumineux."</string>
+    <string name="cert_missing_error">"Impossible de procéder à l'installation, car le fichier de certificat est introuvable."</string>
+    <string name="cert_read_error">"Impossible de procéder à l'installation, car le fichier de certificat ne peut être lu."</string>
+    <string name="no_cert_file_found">Fichier de certificat introuvable</string>
+    <string name="sdcard_not_present">Carte SD manquante.</string>
+    <string name="only_primary_user_allowed">Seul le propriétaire de cet appareil peut installer des certificats.</string>
+    <string name="credential_usage_label">Utilisation du certificat :</string>
+</resources>
