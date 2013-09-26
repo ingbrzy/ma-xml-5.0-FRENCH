@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tags</string>
+    <string name="title_scanned_tag">Nouveau tag ajouté</string>
+    <string name="title_existing_tag">Tag</string>
+    <string name="tag_unknown">Type de tag inconnu</string>
+    <string name="tag_empty">Tag vide</string>
+    <string name="button_done">OK</string>
+    <string name="action_text">Envoyer un SMS à %s</string>
+    <string name="action_call">Appeler %s</string>
+    <string name="empty_tag_prompt">Ce tag est vide.</string>
+    <string name="import_vcard">Importer ^1</string>
+    <string name="mime_display_name">Données du tag NFC</string>
+    <string name="vcard_title">Coordonnées de ^1</string>
+</resources>
