@@ -323,7 +323,7 @@
   <string name="pref_autofill_profile_editor">Texte de saisie automatique</string>
   <string name="pref_autofill_profile_editor_summary">Définir le texte à saisir automatiquement dans les formulaires Web</string>
   <string name="pref_autologin_progress" formatted="false">Connexion à Google Sites avec le compte %s</string>
-  <string name="pref_autologin_progress_in_background">Connexion aux sites Google utilisant %s en arrière-plan</string
+  <string name="pref_autologin_progress_in_background">Connexion aux sites Google utilisant %s en arrière-plan</string>
   <string name="pref_autologin_title">Connexion automatique à Google</string>
   <string name="pref_clear_cache_for_exit">Effacer le cache en quittant</string>
   <string name="pref_clear_history_for_exit">Effacer l\'historique en quittant</string>
