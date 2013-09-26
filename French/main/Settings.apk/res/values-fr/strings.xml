@@ -2294,10 +2294,13 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wfd_disconnect_diag_msg">Si votre session Wi-Fi est interrompue, votre connexion avec %1$s se terminera.</string>
   <string name="wfd_disconnect_diag_title">Déconnecter la session Wi-Fi ?</string>
   <string name="wfd_disconnect_multiple_diag_message">Si vous interrompez la session Wi-Fi Display, votre connexion avec les autres appareils %1$s et %2$s se terminera.</string>
+  <string name="wfd_enable_wifi_diag_title">"Vous pouvez utiliser Wi-Fi Display uniquement quand le Wi-Fi is actif. L'activer maintenant ?"</string>
+  <string name="wfd_enabler_title">Activer Wi-Fi Display</string>
   <string name="wfd_menu_search">Rechercher des périphériques</string>
   <string name="wfd_menu_searching">Recherche...</string>
   <string name="wfd_menu_teardown">Déconnecter</string>
-  <string name="wfd_settings_title">AllShare Cast</string>
+  <string name="wfd_settings_description">Connectez-vous à un écran via Wi-Fi</string>
+  <string name="wfd_settings_title">Wi-Fi Display</string>
   <string name="wfd_wps_keypad">Appuyer sur le bouton</string>
   <string name="wfd_wps_pbc">Entrer le code PIN</string>
   <string name="widget_picker_title">Choisir un widget</string>

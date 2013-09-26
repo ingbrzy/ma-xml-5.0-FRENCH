@@ -182,6 +182,7 @@
   <string name="cit_tool_log_kmsg">Dernier journal du noyau</string>
   <string name="cit_tool_log_logcat">Journal ADB</string>
   <string name="cit_tool_log_modem">Journal du modem</string>
+  <string name="cit_tool_log_no_sdcard">"L'opération a échoué, veuillez insérer la carte SD"</string>
   <string name="cit_tool_log_ril">Journal du RIL</string>
   <string name="cit_tool_log_toast">Fichier journal enregistré dans %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">La génération du rapport de bug peut prendre jusqu\'à 10 secondes</string>

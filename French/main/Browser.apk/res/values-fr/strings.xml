@@ -323,6 +323,7 @@
   <string name="pref_autofill_profile_editor">Texte de saisie automatique</string>
   <string name="pref_autofill_profile_editor_summary">Définir le texte à saisir automatiquement dans les formulaires Web</string>
   <string name="pref_autologin_progress" formatted="false">Connexion à Google Sites avec le compte %s</string>
+  <string name="pref_autologin_progress_in_background">Connexion aux sites Google utilisant %s en arrière-plan</string
   <string name="pref_autologin_title">Connexion automatique à Google</string>
   <string name="pref_clear_cache_for_exit">Effacer le cache en quittant</string>
   <string name="pref_clear_history_for_exit">Effacer l\'historique en quittant</string>
@@ -477,6 +478,7 @@
   <string name="progress_dialog_setting_wallpaper">Définition du fond d\'écran...</string>
   <string name="quicklinks_management">Liens rapides</string>
   <string name="readmode_already_add_to_bookshelf">Ajouté à l\'étagère</string>
+  <string name="readmode_battery">Batterie </string>
   <string name="readmode_login">Connexion au compte</string>
   <string name="readmode_login_message">Les chapitres suivants requièrent de vous connecter avant de pouvoir les lire</string>
   <string name="readmode_page_load_error">Échec du chargement de la page, veuillez appuyer sur Rafraîchir pour réessayer</string>

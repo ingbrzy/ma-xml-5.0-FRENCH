@@ -14,6 +14,7 @@
   <string name="add_to_cloud_file_exist_message">La photo existe déjà dans l\'album sélectionné.</string>
   <string name="add_to_cloud_file_not_exist_message">Le fichier n\'existe pas.</string>
   <string name="add_to_cloud_folder">Ajouter au dossier MiCloud</string>
+  <string name="add_to_cloud_local_space_full_message">"Le stockage est plein ou n'est pas encore prêt."</string>
   <string name="add_to_cloud_space_full_message">L\'album MiCloud est plein.</string>
   <string name="add_to_cloud_successfully_message">Ajouté à l\'album MiCloud.</string>
   <string name="add_to_cloud_type_not_support_message">Type de fichier non pris en charge.</string>
@@ -203,6 +204,7 @@
   <string name="frame_white">Blanc</string>
   <string name="gallery_cloud_provider_name">Galerie MiCloud</string>
   <string name="gallery_setting">Paramètres de la Galerie</string>
+  <string name="get_album_info_in_process">"Demande d'informations de l'album partagé, veuillez patienter..."</string>
   <string name="global_setting">Paramètres</string>
   <string name="grain">Grain</string>
   <string name="grayscale">N&amp;B</string>

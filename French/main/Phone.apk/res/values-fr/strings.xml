@@ -296,6 +296,7 @@
   <string name="custom_location_location_no_item_miui">"Cliquez sur "Ajouter" ci-dessous pour ajouter l'attribution personnalisée"</string>
   <string name="custom_location_number_hint_miui">Indicatif régional tel que 010, numéro de groupe tel que 68#####</string>
   <string name="cw_title_miui">Appel en attente</string>
+  <string name="data_connected_change">"Impossible de changer de réseau pendant que le service de données est en cours d'utilisation. Arrêtez le service de données et sélectionner un autre réseau disponible ?"</string>
   <string name="data_enable_summary">Activer l\'accès aux données sur le réseau mobile</string>
   <string name="data_enabled">Activer les données</string>
   <string name="deact_all_sub_not_supported">La désactivation des deux abonnements n\'est pas pris en charge.</string>
@@ -372,6 +373,7 @@
   <string name="dtmf_tones_summary_miui">Définir la longueur des tonalités DTMF</string>
   <string name="dtmf_tones_title">Tonalités DTMF</string>
   <string name="dtmf_tones_title_miui">Tonalités DTMF</string>
+  <string name="duringcall">"Opération non permise pendant l'appel"</string>
   <string name="ecm_exit_dialog">Fermer le mode Rappel d\'urgence</string>
   <string name="editContact">Modifier</string>
   <string name="edit_custom_location_title_miui">Personnaliser l\'attribution régionale, l\'attribution du numéro, les caractères génériques # sont pris en charge</string>
@@ -504,6 +506,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="incall_screen_background_summary_miui">"Utiliser le fond d'écran de verrouillage si le correspondant n'a pas d'avatar"</string>
   <string name="incall_screen_background_title_miui">Écran de l\'interface d\'appel</string>
   <string name="incall_status_dialed_mmi">Lancement de la séquence IHM...</string>
+  <string name="information">Information</string>
   <string name="international_disable">Option "Actualités internationales" désactivée</string>
   <string name="international_enable">Option "Actualités internationales" activée</string>
   <string name="internet_phone">Appel par Internet</string>
