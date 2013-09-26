@@ -1,0 +1,120 @@
+{
+    "quicklinks":[
+        {
+            "title":"Google",
+            "url":"https://www.google.fr/",
+            "thumbnail":"thumb_google.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Picasa",
+            "url":"http://picasaweb.google.com/",
+            "thumbnail":"thumb_picasa.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Yahoo!",
+            "url":"http://fr.yahoo.com/",
+            "thumbnail":"thumb_yahoo.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"MSN",
+            "url":"http://www.msn.com/",
+            "thumbnail":"thumb_msn.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Twitter",
+            "url":"https://twitter.com/",
+            "thumbnail":"thumb_twitter.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Facebook",
+            "url":"https://www.facebook.com/",
+            "thumbnail":"thumb_facebook.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Wikipedia",
+            "url":"https://fr.wikipedia.org/",
+            "thumbnail":"thumb_wikipedia.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"eBay",
+            "url":"http://www.ebay.fr/",
+            "thumbnail":"thumb_ebay.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+
+        {
+            "title":"CNN",
+            "url":"http://www.cnn.com/",
+            "thumbnail":"thumb_cnn.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"MIUI BBS",
+            "url":"http://en.miui.com",
+            "thumbnail":"thumb_miui.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"ESPN",
+            "url":"http://espn.com/",
+            "thumbnail":"thumb_espn.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Amazon",
+            "url":"http://www.amazon.fr/",
+            "thumbnail":"thumb_amazon.png",
+            "logobg":"bg01.9.png",
+            "favicon":"",
+            "nightModeMask": "night.9.png",
+            "hidden":"true"
+        },
+
+        {
+            "title":"Weather Channel",
+            "url":"http://fr.weather.com/",
+            "thumbnail":"thumb_weatherchannel.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"BBC",
+            "url":"http://www.bbc.co.uk/",
+            "thumbnail":"thumb_bbc.png",
+            "logobg":"bg01.9.png",
+            "favicon":"",
+            "nightModeMask": "night.9.png",
+            "hidden":"true"
+        }
+    ]
+}
