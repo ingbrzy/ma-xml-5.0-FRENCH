@@ -1051,8 +1051,8 @@
     <string name="searchview_description_clear">"Requête d'effacement"</string>
     <string name="searchview_description_submit">"Requête d'envoi"</string>
     <string name="searchview_description_voice">Rech. vocale</string>
-    <string name="enable_explore_by_touch_warning_title">Activer \"Explorer au toucher\" ?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s souhaite activer la fonctionnalité \"Explorer au toucher\". Lorsque celle-ci est activée, vous pouvez entendre ou voir les descriptions des éléments que vous sélectionnez, ou bien interagir avec le téléphone en effectuant certains gestes.</string>
+    <string name="enable_explore_by_touch_warning_title">Activer "Explorer au toucher" ?</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s souhaite activer la fonctionnalité "Explorer au toucher". Lorsque celle-ci est activée, vous pouvez entendre ou voir les descriptions des éléments que vous sélectionnez, ou bien interagir avec le téléphone en effectuant certains gestes.</string>
     <string name="oneMonthDurationPast">Il y a 1 mois</string>
     <string name="beforeOneMonthDurationPast">Antérieur au mois précédent</string>
     <string name="last_month">Mois précédent</string>
@@ -1221,8 +1221,8 @@ Voulez-vous la fermer ?"</string>
     <string name="usb_storage_stop_notification_title">Désactiver le stockage USB</string>
     <string name="usb_storage_stop_notification_message">Appuyez pour déconnecter le stockage USB</string>
     <string name="usb_storage_stop_title">"Stockage USB en cours d'utilisation"</string>
-    <string name="usb_storage_stop_message">"Avant de désactiver la mémoire de stockage USB, veuillez désinstaller (\"éjecter\") de votre ordinateur la mémoire de stockage USB de l'appareil Android."</string>
-    <string name="usb_storage_stop_message_sd">Avant de désactiver la mémoire de stockage USB, veuillez désinstaller (\"éjecter\") de votre ordinateur la carte SD de votre appareil Android.</string>
+    <string name="usb_storage_stop_message">"Avant de désactiver la mémoire de stockage USB, veuillez désinstaller ("éjecter") de votre ordinateur la mémoire de stockage USB de l'appareil Android."</string>
+    <string name="usb_storage_stop_message_sd">Avant de désactiver la mémoire de stockage USB, veuillez désinstaller ("éjecter") de votre ordinateur la carte SD de votre appareil Android.</string>
     <string name="usb_storage_stop_button_mount">Désactiver le stockage USB</string>
     <string name="usb_storage_stop_error_message">"Impossible de déconnecter le stockage USB. Démontez l'hôte USB, puis réessayez"</string>
     <string name="dlg_confirm_kill_storage_users_title">Connecter le stockage au PC</string>

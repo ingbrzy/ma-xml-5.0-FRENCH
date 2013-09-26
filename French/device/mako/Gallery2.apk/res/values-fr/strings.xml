@@ -257,7 +257,7 @@
     <string name="trimming">Découpe en cours</string>
     <string name="muting">Coupure du son</string>
     <string name="please_wait">Veuillez patienter.</string>
-    <string name="save_into">"Enregistrement de la vidéo dans l'album \"%1$s\" en cours…"</string>
+    <string name="save_into">"Enregistrement de la vidéo dans l'album "%1$s" en cours…"</string>
     <string name="trim_too_short">Découpe impossible : la vidéo cible est trop courte.</string>
     <string name="pano_progress_text">Rendu de la vue panoramique en cours…</string>
     <string name="save">Enregistrer</string>
@@ -390,7 +390,7 @@ Sortez du cadre quelques instants."</string>
     <string name="effect_silly_faces">DRÔLES DE TÊTES</string>
     <string name="effect_background">ARRIÈRE-PLAN</string>
     <string name="accessibility_shutter_button">"Bouton de l'obturateur"</string>
-    <string name="accessibility_menu_button">Bouton \"Menu\"</string>
+    <string name="accessibility_menu_button">Bouton "Menu"</string>
     <string name="accessibility_review_thumbnail">Photo la plus récente</string>
     <string name="accessibility_camera_picker">Interrupteur des caméras avant et arrière</string>
     <string name="accessibility_mode_picker">Sélecteur du mode Photo, Vidéo ou Panoramique</string>

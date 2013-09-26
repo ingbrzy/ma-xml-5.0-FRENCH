@@ -233,7 +233,7 @@ d MMMM"</string>
     <string name="httpErrorFile">"Impossible d'accéder au fichier."</string>
     <string name="httpErrorFileNotFound">Impossible de trouver le fichier demandé.</string>
     <string name="httpErrorTooManyRequests">Trop de requêtes sont en cours de traitement. Veuillez réessayer ultérieurement.</string>
-    <string name="notification_title">Erreur de connexion au compte \"%1$s\"</string>
+    <string name="notification_title">Erreur de connexion au compte "%1$s"</string>
     <string name="contentServiceSync">Synchroniser</string>
     <string name="contentServiceSyncNotificationTitle">Synchronisation</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Trop de contenus supprimés (%s).</string>
@@ -510,7 +510,7 @@ d MMMM"</string>
     <string name="permlab_receiveBootCompleted">"s'exécuter au démarrage"</string>
     <string name="permdesc_receiveBootCompleted">"Permet à l'application de se lancer une fois le démarrage du système terminé. Elle peut rallonger le temps de démarrage du téléphone et ralentir son fonctionnement global en raison de son exécution continue."</string>
     <string name="permlab_broadcastSticky">"Envoi d'une diffusion persistante"</string>
-    <string name="permdesc_broadcastSticky">"Permet à l'application d'envoyer des intentions de diffusion \"persistantes\", qui perdurent une fois la diffusion terminée. Une utilisation excessive peut ralentir le téléphone ou le rendre instable en l'obligeant à utiliser trop de mémoire."</string>
+    <string name="permdesc_broadcastSticky">"Permet à l'application d'envoyer des intentions de diffusion "persistantes", qui perdurent une fois la diffusion terminée. Une utilisation excessive peut ralentir le téléphone ou le rendre instable en l'obligeant à utiliser trop de mémoire."</string>
     <string name="permlab_readContacts">voir les contacts</string>
     <string name="permdesc_readContacts">"Permet à l'application de lire les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d'autres moyens. Cette autorisation permet aux applications d'enregistrer ces données. Les applications malveillantes peuvent les partager à votre insu."</string>
     <string name="permlab_writeContacts">modifier les contacts</string>
@@ -790,12 +790,12 @@ d MMMM"</string>
     <string name="keyguard_password_enter_password_code">Saisissez le mot de passe pour déverrouiller le clavier.</string>
     <string name="keyguard_password_enter_pin_password_code">Saisissez le code PIN pour déverrouiller le clavier.</string>
     <string name="keyguard_password_wrong_pin_code">Le code PIN est erroné.</string>
-    <string name="keyguard_label_text">Pour déverrouiller le clavier, appuyez sur \"Menu\" puis sur 0.</string>
+    <string name="keyguard_label_text">Pour déverrouiller le clavier, appuyez sur "Menu" puis sur 0.</string>
     <string name="emergency_call_dialog_number_for_display">"Numéro d'urgence"</string>
     <string name="lockscreen_carrier_default">Aucun service</string>
     <string name="lockscreen_screen_locked">Écran verrouillé</string>
-    <string name="lockscreen_instructions_when_pattern_enabled">"Appuyez sur \"Menu\" pour déverrouiller le téléphone ou appeler un numéro d'urgence"</string>
-    <string name="lockscreen_instructions_when_pattern_disabled">Appuyez sur \"Menu\" pour déverrouiller le téléphone.</string>
+    <string name="lockscreen_instructions_when_pattern_enabled">"Appuyez sur "Menu" pour déverrouiller le téléphone ou appeler un numéro d'urgence"</string>
+    <string name="lockscreen_instructions_when_pattern_disabled">Appuyez sur "Menu" pour déverrouiller le téléphone.</string>
     <string name="lockscreen_pattern_instructions">Dessinez un schéma pour déverrouiller le téléphone</string>
     <string name="lockscreen_emergency_call">"Appel d'urgence"</string>
     <string name="lockscreen_return_to_call">"Retour à l'appel"</string>
@@ -892,7 +892,7 @@ Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_not_system">"L'action FACTORY_TEST est uniquement prise en charge pour les paquets de données installés dans in/system/app."</string>
     <string name="factorytest_no_action">"Impossible de trouver un paquet proposant l'action FACTORY_TEST."</string>
     <string name="factorytest_reboot">Redémarrer</string>
-    <string name="js_dialog_title">La page \"%s\" indique :</string>
+    <string name="js_dialog_title">La page "%s" indique :</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload_title">Quitter la page</string>
     <string name="js_dialog_before_unload_positive_button">Quitter cette page</string>
@@ -956,8 +956,8 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="searchview_description_clear">Effacer la requête</string>
     <string name="searchview_description_submit">Envoyer la requête</string>
     <string name="searchview_description_voice">Recherche vocale</string>
-    <string name="enable_explore_by_touch_warning_title">Activer \"Explorer au toucher\" ?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s souhaite activer la fonctionnalité \"Explorer au toucher\". Lorsque celle-ci est activée, vous pouvez entendre ou voir les descriptions des éléments que vous sélectionnez, ou bien interagir avec le téléphone en effectuant certains gestes.</string>
+    <string name="enable_explore_by_touch_warning_title">Activer "Explorer au toucher" ?</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s souhaite activer la fonctionnalité "Explorer au toucher". Lorsque celle-ci est activée, vous pouvez entendre ou voir les descriptions des éléments que vous sélectionnez, ou bien interagir avec le téléphone en effectuant certains gestes.</string>
     <string name="oneMonthDurationPast">Il y a 1 mois</string>
     <string name="beforeOneMonthDurationPast">"Il y a plus d'un mois"</string>
     <string name="last_month">Le mois dernier</string>
@@ -1005,7 +1005,7 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="chooseUsbActivity">Sélectionnez une application pour le périphérique de stockage USB</string>
     <string name="noApplications">Aucune application ne peut effectuer cette action.</string>
     <string name="aerr_title" />
-    <string name="aerr_application">"L'application \"%1$s\" s'est arrêtée."</string>
+    <string name="aerr_application">"L'application "%1$s" s'est arrêtée."</string>
     <string name="aerr_process">"Le processus %1$s s'est interrompu."</string>
     <string name="anr_title" />
     <string name="anr_activity_application">"L'application %2$s ne répond pas.
@@ -1120,7 +1120,7 @@ Voulez-vous la fermer ?"</string>
     <string name="usb_storage_stop_notification_title">Désactiver la mémoire de stockage USB</string>
     <string name="usb_storage_stop_notification_message">Appuyez ici pour désactiver la mémoire de stockage USB.</string>
     <string name="usb_storage_stop_title">Mémoire de stockage USB activée</string>
-    <string name="usb_storage_stop_message">"Avant de désactiver la mémoire de stockage USB, veuillez désinstaller (\"éjecter\") de votre ordinateur la mémoire de stockage USB de l'appareil Android."</string>
+    <string name="usb_storage_stop_message">"Avant de désactiver la mémoire de stockage USB, veuillez désinstaller ("éjecter") de votre ordinateur la mémoire de stockage USB de l'appareil Android."</string>
     <string name="usb_storage_stop_button_mount">Désactiver la mémoire de stockage USB</string>
     <string name="usb_storage_stop_error_message">"Un problème est survenu lors de la désactivation de la mémoire de stockage USB. Assurez-vous que l'hôte USB a bien été désinstallé, puis réessayez."</string>
     <string name="dlg_confirm_kill_storage_users_title">Activer la mémoire de stockage USB</string>
@@ -1185,7 +1185,7 @@ en utilisant %s"</string>
     <string name="deny">Refuser</string>
     <string name="permission_request_notification_title">Autorisation demandée</string>
     <string name="permission_request_notification_with_subtitle">"Autorisation demandée
-pour le compte \"%s\""</string>
+pour le compte "%s""</string>
     <string name="input_method_binding_label">Mode de saisie</string>
     <string name="sync_binding_label">Synchronisation</string>
     <string name="accessibility_binding_label">Accessibilité</string>

@@ -1067,8 +1067,8 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="username_title">Nom d\'utilisateur</string>
   <string name="ussdRunning">Exécution du code USSD...</string>
   <string name="vibrate_on_ring_title">Mode Vibreur lorsque le tél. sonne</string>
-  <string name="vm_change_failed">""Impossible de modifier le numéro de la messagerie vocale.
-Veuillez contacter votre opérateur si le problème persiste.""</string>
+  <string name="vm_change_failed">"Impossible de modifier le numéro de la messagerie vocale.
+Veuillez contacter votre opérateur si le problème persiste."</string>
   <string name="vm_changed">Le numéro de messagerie vocale a été modifié.</string>
   <string name="voice_privacy">Confidentialité voix</string>
   <string name="voice_privacy_miui">Confidentialité vocale</string>

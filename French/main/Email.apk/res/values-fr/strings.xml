@@ -208,7 +208,7 @@
   <string name="cancel_action">Annuler</string>
   <string name="cannot_move_multiple_accounts_toast">"Impossible de déplacer le message car la sélection comprend plusieurs comptes."</string>
   <string name="cannot_move_protocol_not_supported_toast">"Les messages ne peuvent pas être déplacés, car cette action n'est pas compatible avec les comptes POP3."</string>
-  <string name="cannot_move_special_mailboxes_toast">"Impossible de déplacer les messages se trouvant dans les dossiers "Brouillons", "Boîte d\'envoi" et "Messages envoyés"."</string>
+  <string name="cannot_move_special_mailboxes_toast">"Impossible de déplacer les messages se trouvant dans les dossiers "Brouillons", "Boîte d'envoi" et "Messages envoyés"."</string>
   <string name="category_general_preferences">Application</string>
   <string name="cc">Cc :</string>
   <string name="choose_attachment_dialog_title">Choisir une pièce jointe</string>
@@ -320,9 +320,9 @@
   <string name="mailbox_settings_mailbox_check_frequency_label">Fréquence de consultation</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Jours à synchroniser</string>
   <string name="mailbox_shortcut_picker_title">Sélectionner dossier</string>
-  <string name="manager_activity_last_sync_format">""Dernière synchronisation :
+  <string name="manager_activity_last_sync_format">"Dernière synchronisation :
 %1$s
-%2$s""</string>
+%2$s"</string>
   <string name="manager_do_not_upload">Ne pas transférer</string>
   <string name="manager_list_switcher_completed_format">Transferts terminés [%d]</string>
   <string name="manager_list_switcher_pending_format">Transferts en attente [%d]</string>
@@ -371,6 +371,7 @@ Cc : %4$s
   <string name="message_compose_subject_hint">Objet</string>
   <string name="message_compose_to_hint">À</string>
   <string name="message_decode_error">Une erreur s\'est produite lors du décodage du message.</string>
+  <string name="message_delete_dialog_title"></string>
   <string name="message_discarded_toast">Message supprimé.</string>
   <string name="message_is_empty_description">Aucun objet</string>
   <string name="message_list_load_more_messages_action">Charger plus de messages</string>
@@ -564,6 +565,7 @@ Cc : %4$s
   <string name="upload">Transférer</string>
   <string name="upload_state_completed">Terminé</string>
   <string name="upload_state_failed">Échec.</string>
+  <string name="upload_state_queued"></string>
   <string name="upload_state_uploading">Transfert...</string>
   <string name="upload_state_waiting_retry">En attente d\'une nouvelle tentative</string>
   <string name="upload_state_waiting_wifi">En attente d\'une connexion Wi-Fi</string>
