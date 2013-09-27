@@ -19,7 +19,7 @@
   <string name="accounts">Comptes et synchro</string>
   <string name="acct_not_synced">"Ce compte n\'est pas synchronisé. Il est possible que vos agendas ne soient pas à jour."</string>
   <string name="acessibility_cal_notification">"Notification de l\'agenda"</string>
-  <string name="acessibility_selected_marker_description">Évènement sélectionné</string>
+  <string name="acessibility_selected_marker_description">Événement sélectionné</string>
   <string name="acessibility_snooze_notification">"Notification de répétition d\'alarme"</string>
   <string name="add_account">Ajouter un compte</string>
   <string name="agenda_today">"AUJOURD\'HUI, %1$s"</string>
@@ -44,7 +44,7 @@
 
 • Accédez-y depuis n\'importe quel navigateur Web. 
 • Sauvegardez vos évènements en toute sécurité."</string>
-  <string name="creating_event">Évènement créé.</string>
+  <string name="creating_event">Événement créé.</string>
   <string name="creating_event_with_guest">Les invitations vont être envoyées.</string>
   <string name="custom">Personnalisé (non paramétrable depuis le téléphone)</string>
   <string name="daily">Quotidien</string>
@@ -59,7 +59,7 @@
   <string name="discard_label">Annuler</string>
   <string name="dismiss_all_label">Tout supprimer</string>
   <string name="do_not_check">Ne PAS cocher -&gt;</string>
-  <string name="does_not_repeat">Évènement ponctuel</string>
+  <string name="does_not_repeat">Événement ponctuel</string>
   <string name="done">OK</string>
   <string name="edit_event_all_day_label">Journée entière</string>
   <string name="edit_event_calendar_label">Agenda</string>
@@ -71,7 +71,7 @@
   <string name="email_guests_label">Envoyer un mail aux invités</string>
   <string name="email_picker_label">Envoyer un mail via</string>
   <string name="email_subject_prefix">"Re: "</string>
-  <string name="empty_event">Évènement vide non créé.</string>
+  <string name="empty_event">Événement vide non créé.</string>
   <string name="event_create">Nouvel évènement</string>
   <string name="event_delete">"Supprimer l\'évènement"</string>
   <string name="event_edit">"Modifier l\'évènement"</string>
@@ -154,7 +154,7 @@
   <string name="response_no">Non</string>
   <string name="response_yes">Oui</string>
   <string name="save_label">OK</string>
-  <string name="saving_event">Évènement enregistré.</string>
+  <string name="saving_event">Événement enregistré.</string>
   <string name="saving_event_with_guest">Les mises à jour vont être envoyées.</string>
   <string name="search">Rechercher</string>
   <string name="search_history_cleared">Historique des recherches effacé.</string>
@@ -170,7 +170,7 @@
   <string name="snooze_label">Répéter</string>
   <string name="synced">synchronisé</string>
   <string name="tardis">TARDIS</string>
-  <string name="template_announce_item_index">Évènement %1$s sur %2$s</string>
+  <string name="template_announce_item_index">Événement %1$s sur %2$s</string>
   <string name="timezone_label">Fuseau horaire</string>
   <string name="today">"Aujourd\'hui"</string>
   <string name="today_at_time_fmt">"Aujourd\'hui à %s"</string>

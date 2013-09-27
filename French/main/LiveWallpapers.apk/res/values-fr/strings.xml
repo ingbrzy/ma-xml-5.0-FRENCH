@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="wallpapers">Fonds d\'écran animés Android</string>
+    <string name="wallpaper_walkaround">À travers l\'objectif</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Aperçu de se qui se cache derrière votre téléphone via l\'objectif de l\'appareil photo</string>
+    <string name="wallpaper_grass">Herbe</string>
+    <string name="wallpaper_grass_author">Google</string>
+    <string name="wallpaper_grass_desc">Brins d\'herbe ondoyant sur fond de ciel bleu ou nocturne</string>
+    <string name="wallpaper_galaxy">Galaxie</string>
+    <string name="wallpaper_galaxy_author">Google</string>
+    <string name="wallpaper_galaxy_desc">Galaxie avec étoiles tourbillonnantes</string>
+    <string name="wallpaper_fall">Eau</string>
+    <string name="wallpaper_fall_author">Google</string>
+    <string name="wallpaper_fall_desc">Feuilles d\'automne tombant &lt;br&gt; sur l\'onde de l\'étang :&lt;br&gt; arrière-plan Zen</string>
+    <string name="wallpaper_clock">Horloge polaire</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Date et heure sous forme d\'arcs de cercle : mois, jour, heure, minutes, secondes.</string>
+    <string name="wallpaper_nexus">Nexus</string>
+    <string name="wallpaper_nexus_author">Google</string>
+    <string name="wallpaper_nexus_desc">Un aperçu du système nerveux</string>
+    <string name="clock_settings">Paramètres de l\'horloge polaire</string>
+    <string name="show_seconds">Afficher les secondes</string>
+    <string name="variable_line_width">Largeurs de cercle variables</string>
+    <string name="palette">Palette de couleurs</string>
+    <string name="palette_gray">Métal</string>
+    <string name="palette_violet">Minuit</string>
+    <string name="palette_matrix">Écran vert</string>
+    <string name="palette_white_c">Ours polaire (dynamique)</string>
+    <string name="palette_black_c">Trou noir (dynamique)</string>
+    <string name="palette_halloween">Tarte à la citrouille</string>
+    <string name="palette_zenburn">Salade de fruits martienne</string>
+    <string name="palette_oceanic">Laser bleu</string>
+</resources>

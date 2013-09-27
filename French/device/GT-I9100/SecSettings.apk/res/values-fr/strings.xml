@@ -2748,7 +2748,7 @@ L'utilisation des données est mesurée par votre téléphone mais votre opérat
     <string name="led_indicator_charging">Chargement</string>
     <string name="led_indicator_charging_summary">"Le témoin lumineux rouge s'allume lorsque votre appareil est en charge et que l'écran est éteint"</string>
     <string name="led_indicator_notification">Notification</string>
-    <string name="led_indicator_missed_event">Evénement manqué</string>
+    <string name="led_indicator_missed_event">Événement manqué</string>
     <string name="led_indicator_missed_event_summary">"Le témoin lumineux s'allume en cas d'appels manqués, de messages ou d'événements d'application. Le témoin lumineux ne s'allume que si l'écran est éteint"</string>
     <string name="led_indicator_notifications">Notifications</string>
     <string name="led_indicator_notifications_summary">"Le témoin lumineux s'allume en cas d'appels manqués, de messages ou d'événements d'application. Le témoin lumineux ne s'allume que si l'écran est éteint"</string>
