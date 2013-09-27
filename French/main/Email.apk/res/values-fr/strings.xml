@@ -424,6 +424,7 @@ Cc : %4$s
   <string name="move_action">Déplacer</string>
   <string name="move_to_folder_dialog_title">Déplacer vers</string>
   <string name="multiple_new_message_notification_item">"<b>%1$s</b> %2$s"</string>
+  <string name="newer_action">Plus récent</string>
   <string name="next_action">Suivant</string>
   <string name="notification_multiple_new_messages_fmt">%1$d nouveaux messages</string>
   <string name="notification_to_account">à %1$s</string>
@@ -433,6 +434,7 @@ Cc : %4$s
   <string name="notify_uploads">Instant Upload</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
+  <string name="older_action">Plus ancien</string>
   <string name="password_expire_warning_content_title">Expiration mot de passe de verrouillage</string>
   <string name="password_expire_warning_dialog_content_fmt">Vous devrez bientôt modifier le code PIN ou le mot de passe de verrouillage de votre écran, faute de quoi les données du compte %s seront effacées. Le modifier maintenant ?</string>
   <string name="password_expire_warning_dialog_title">Expiration mot de passe de verrouillage</string>

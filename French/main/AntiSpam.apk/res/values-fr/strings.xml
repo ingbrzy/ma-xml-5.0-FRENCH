@@ -52,7 +52,7 @@
   <string name="menu_clear_current_sms">Retirer tous les messages envoyés par ce numéro</string>
   <string name="menu_edit">Éditer</string>
   <string name="menu_mark">Marquer</string>
-  <string name="menu_no_block">Ne pas bloquer</string>
+  <string name="menu_no_block">"Ne pas bloquer"</string>
   <string name="menu_remove">Retirer</string>
   <string name="menu_restore">Restaurer vers l\'application de messagerie</string>
   <string name="menu_sms">Envoyer un message</string>
@@ -112,6 +112,7 @@
   <string name="st_sms_group">Messages</string>
   <string name="tab_blacklist">Liste noire</string>
   <string name="tab_block_log">Pare-feu</string>
+  <string name="tab_block_log_unKnowNumber">Numéro inconnu</string>
   <string name="tab_call">Appels</string>
   <string name="tab_sms">Messages</string>
   <string name="tab_title">Anti-Spam</string>
