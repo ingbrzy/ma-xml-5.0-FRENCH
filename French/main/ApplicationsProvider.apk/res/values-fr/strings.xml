@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Recherche fourn. app.</string>
+    <string name="search_label">Apps</string>
+    <string name="application_desc">Application</string>
+    <string name="settings_description">Noms des applications installées</string>
+</resources>
