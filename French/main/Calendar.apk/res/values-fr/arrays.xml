@@ -291,17 +291,17 @@
         <item>Non</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Uniquement cet évènement</item>
-        <item>Cet évènement et les suivants</item>
-        <item>Tous les évènements</item>
+        <item>Uniquement cet événement</item>
+        <item>Cet événement et les suivants</item>
+        <item>Tous les événements</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Cet évènement et les suivants</item>
-        <item>Tous les évènements</item>
+        <item>Cet événement et les suivants</item>
+        <item>Tous les événements</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Uniquement cette instance</item>
-        <item>Tous les évènements de la série</item>
+        <item>Tous les événements de la série</item>
     </string-array>
     <string-array name="buttons_list">
         <item>Jour</item>

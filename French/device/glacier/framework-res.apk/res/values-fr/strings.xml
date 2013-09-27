@@ -401,7 +401,7 @@
   <string name="permlab_manageAppTokens">gérer les jetons d\'application</string>
   <string name="permdesc_manageAppTokens">Permet à l\'application de créer et de gérer ses propres jetons en ignorant leur ordre de plan normal. Les applications standards ne doivent jamais avoir recours à cette fonctionnalité.</string>
   <string name="permlab_injectEvents">Utilisation des touches ou contrôle des commandes</string>
-  <string name="permdesc_injectEvents">Permet à l\'application de fournir ses propres évènements d\'entrée (pression de touche, etc.) à d\'autres applications. Des applications malveillantes peuvent exploiter cette fonctionnalité pour prendre le contrôle du téléphone.</string>
+  <string name="permdesc_injectEvents">Permet à l\'application de fournir ses propres événements d\'entrée (pression de touche, etc.) à d\'autres applications. Des applications malveillantes peuvent exploiter cette fonctionnalité pour prendre le contrôle du téléphone.</string>
   <string name="permlab_readInputState">Enregistrer le texte saisi et les actions effectuées</string>
   <string name="permdesc_readInputState">Permet à l\'application d\'identifier les touches sur lesquelles vous appuyez, même lorsque vous utilisez une autre application (lors de la saisie d\'un mot de passe, par exemple). Les applications standards ne devraient jamais avoir recours à cette fonctionnalité.</string>
   <string name="permlab_bindInputMethod">Association à un mode de saisie</string>
@@ -480,10 +480,10 @@
   <string name="permdesc_readSocialStream">Permet à l\'application d\'accéder à vos mises à jour sur les réseaux sociaux, ainsi qu\'à celles de vos amis, et de les synchroniser. Soyez prudent lorsque vous partagez des informations. Cette autorisation permet à l\'application de lire les communications entre vous et vos amis sur les réseaux sociaux, indépendamment de leur caractère confidentiel. Remarque : il est possible que cette autorisation ne soit pas appliquée sur tous les réseaux sociaux.</string>
   <string name="permlab_writeSocialStream">écrire sur votre flux social</string>
   <string name="permdesc_writeSocialStream">Permet à l\'application d\'afficher les mises à jour de vos amis sur les réseaux sociaux. Soyez prudent lorsque vous partagez des informations. Cette autorisation permet à l\'application de générer des messages qui peuvent sembler provenir d\'un ami. Remarque : il est possible que cette autorisation ne soit pas appliquée sur tous les réseaux sociaux.</string>
-  <string name="permlab_readCalendar">consulter les évènements d\'agenda ainsi que les informations confidentielles</string>
-  <string name="permdesc_readCalendar">Permet à l\'application de lire tous les évènements d\'agenda stockés sur votre téléphone, y compris ceux de vos amis ou de vos collègues. Cette autorisation peut lui permettre de partager ou d\'enregistrer vos données d\'agenda, indépendamment de leur caractère confidentiel ou sensible.</string>
-  <string name="permlab_writeCalendar">ajouter ou modifier des évènements d\'agenda et envoyer des e-mails aux invités à l\'insu des propriétaires</string>
-  <string name="permdesc_writeCalendar">Permet à l\'application d\'ajouter, de supprimer et d\'apporter des modifications aux évènements modifiables sur votre téléphone, y compris ceux de vos amis ou de vos collègues. Cette autorisation peut lui permettre d\'envoyer des messages qui semblent provenir de propriétaires de l\'agenda ou de modifier les évènements à l\'insu des propriétaires.</string>
+  <string name="permlab_readCalendar">consulter les événements d\'agenda ainsi que les informations confidentielles</string>
+  <string name="permdesc_readCalendar">Permet à l\'application de lire tous les événements d\'agenda stockés sur votre téléphone, y compris ceux de vos amis ou de vos collègues. Cette autorisation peut lui permettre de partager ou d\'enregistrer vos données d\'agenda, indépendamment de leur caractère confidentiel ou sensible.</string>
+  <string name="permlab_writeCalendar">ajouter ou modifier des événements d\'agenda et envoyer des e-mails aux invités à l\'insu des propriétaires</string>
+  <string name="permdesc_writeCalendar">Permet à l\'application d\'ajouter, de supprimer et d\'apporter des modifications aux événements modifiables sur votre téléphone, y compris ceux de vos amis ou de vos collègues. Cette autorisation peut lui permettre d\'envoyer des messages qui semblent provenir de propriétaires de l\'agenda ou de modifier les événements à l\'insu des propriétaires.</string>
   <string name="permlab_accessMockLocation">Création de sources de localisation fictives à des fins de test</string>
   <string name="permdesc_accessMockLocation">Permet de créer des sources de localisation fictives à des fins de tests ou pour installer un nouveau fournisseur de position. L\'application peut ainsi modifier la position et/ou l\'état renvoyé par d\'autres sources de localisation telles que le GPS ou les fournisseurs de position.</string>
   <string name="permlab_accessLocationExtraCommands">Accès aux commandes de fournisseur de position géographique supplémentaires</string>
@@ -609,7 +609,7 @@
   <string name="permlab_writeSyncSettings">activer/désactiver la synchronisation</string>
   <string name="permdesc_writeSyncSettings">Permet à une application de modifier les paramètres de synchronisation d\'un compte. Cette autorisation peut, par exemple, être utilisée pour activer la synchronisation de l\'application Contacts avec un compte.</string>
   <string name="permlab_readSyncStats">Lecture des statistiques de synchronisation</string>
-  <string name="permdesc_readSyncStats">Permet à une application d\'accéder aux statistiques de synchronisation d\'un compte, y compris l\'historique des évènements de synchronisation et le volume de données synchronisées.</string>
+  <string name="permdesc_readSyncStats">Permet à une application d\'accéder aux statistiques de synchronisation d\'un compte, y compris l\'historique des événements de synchronisation et le volume de données synchronisées.</string>
   <string name="permlab_subscribedFeedsRead">lire les flux auxquels vous êtes abonné</string>
   <string name="permdesc_subscribedFeedsRead">Permet à l\'application d\'obtenir des informations sur les flux en cours de synchronisation.</string>
   <string name="permlab_subscribedFeedsWrite">écrire les flux auxquels vous êtes abonné</string>

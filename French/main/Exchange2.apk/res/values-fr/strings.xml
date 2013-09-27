@@ -14,8 +14,8 @@
     <string name="meeting_allday_recurring">Quand : %s (toute la journée, récurrent)</string>
     <string name="notification_exchange_calendar_added">Agenda Exchange ajouté</string>
     <string name="app_name">Services Exchange</string>
-    <string name="exception_cancel">Cet évènement a été annulé pour : %s</string>
-    <string name="exception_updated">Les détails de cet évènement ont été modifiés pour : %s</string>
+    <string name="exception_cancel">Cet événement a été annulé pour : %s</string>
+    <string name="exception_updated">Les détails de cet événement ont été modifiés pour : %s</string>
     <string name="policy_dont_allow_storage_cards">ne pas autoriser les cartes de stockage</string>
     <string name="policy_dont_allow_unsigned_apps">ne pas autoriser les applications non signées</string>
     <string name="policy_dont_allow_unsigned_installers">ne pas autoriser prog. d\'install. non signés</string>
@@ -46,6 +46,6 @@
     <string name="account_setup_options_mail_window_1month">Un mois</string>
     <string name="account_setup_options_mail_window_all">Tous</string>
     <string name="policy_enable_password_recovery">autoriser un mot de passe de récupération</string>
-    <string name="policy_max_calendar_age">autoriser évènements d\'agenda selon date</string>
+    <string name="policy_max_calendar_age">autoriser événements d\'agenda selon date</string>
     <string name="policy_max_email_age">autoriser les e-mails selon leur date</string>
 </resources>

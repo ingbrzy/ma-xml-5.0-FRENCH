@@ -253,7 +253,7 @@
   <string name="dialog_sync_all_preparing">Préparation du transfert de %1$d photos et de %2$d vidéos...</string>
   <string name="dialog_sync_all_scanning">Recherche de fichiers...</string>
   <string name="dialog_sync_all_server_error">Un problème est survenu lors de la communication avec le serveur. Veuillez réessayer ultérieurement.</string>
-  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l'application Mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, évènements d'agenda, etc.)."</string>
+  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l'application Mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, événements d'agenda, etc.)."</string>
   <string name="discard_action">Supprimer</string>
   <string name="done">OK</string>
   <string name="done_action">OK</string>

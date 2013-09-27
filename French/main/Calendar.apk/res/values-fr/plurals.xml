@@ -24,11 +24,11 @@
         <item quantity="one">1.0</item>
     </plurals>
     <plurals name="Nevents">
-        <item quantity="other">%d évènements</item>
-        <item quantity="one">1 évènement</item>
+        <item quantity="other">%d événements</item>
+        <item quantity="one">1 événement</item>
     </plurals>
     <plurals name="N_remaining_events">
-        <item quantity="other">+%d évènements</item>
-        <item quantity="one">+1 évènement</item>
+        <item quantity="other">+%d événements</item>
+        <item quantity="one">+1 événement</item>
     </plurals>
 </resources>
