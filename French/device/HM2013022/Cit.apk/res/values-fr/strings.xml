@@ -244,7 +244,7 @@
   <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
   <string name="cit_tool_wifi_rxn_test">Rx:N</string>
   <string name="cit_tool_wifi_rxn_test_channel">Canal :</string>
-  <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string
+  <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
   <string name="cit_tool_wifi_tx_bg">Transmission : B/G</string>
   <string name="cit_tool_wifi_tx_bg_chan">Canal :</string>
   <string name="cit_tool_wifi_tx_bg_txpr">Puissance de Transmission :</string>
