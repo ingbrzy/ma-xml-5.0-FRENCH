@@ -226,10 +226,6 @@
   <string name="cit_tool_wifi_rx_165">Rx:165</string>
   <string name="cit_tool_wifi_rx_36">Rx:36</string>
   <string name="cit_tool_wifi_rx_7">Rx:7</string>
-  <string name="cit_tool_wifi_rx_ap_name">MT</string>
-  <string name="cit_tool_wifi_rx_ap_not_null">"Le nom du point d'accès ne doit pas etre vide (bss/adhoc)"</string>
-  <string name="cit_tool_wifi_rx_ap_type_error">"Erreur de type de point d'accès, veuillez modifier （bss/adhoc)</string>
-  <string name="cit_tool_wifi_rx_ap_type">bss</string
   <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
   <string name="cit_tool_wifi_rx_ap_name">Nom du point d\'accès</string>
   <string name="cit_tool_wifi_rx_ap_not_null">Le nom du point d\'accès ne peut pas être vide</string>
