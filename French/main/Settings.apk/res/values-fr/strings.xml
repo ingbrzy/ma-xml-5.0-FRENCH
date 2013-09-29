@@ -2293,7 +2293,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wfd_available_devices">Périph disponibles</string>
   <string name="wfd_disconnect_diag_msg">Si votre session Wi-Fi est interrompue, votre connexion avec %1$s se terminera.</string>
   <string name="wfd_disconnect_diag_title">Déconnecter la session Wi-Fi ?</string>
-  <string name="wfd_disconnect_multiple_diag_message">Si vous interrompez la session d'affichage sans fil, votre connexion avec les autres appareils %1$s et %2$s se terminera.</string>
+  <string name="wfd_disconnect_multiple_diag_message">Si vous interrompez la session d\'affichage sans fil, votre connexion avec les autres appareils %1$s et %2$s se terminera.</string>
   <string name="wfd_enable_wifi_diag_title">"Vous pouvez utiliser l'affichage sans fil uniquement quand se dernier est actif. L'activer maintenant ?"</string>
   <string name="wfd_enabler_title">"Activer l'affichage sans fil"</string>
   <string name="wfd_menu_search">Rechercher des périphériques</string>
