@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Services d'affichage sans fil"</string>
+    <string name="miracast_hdmi_title">HDMI</string>
+    <string name="miracast_hdmi_unavailable">"Indisponible car l'affichage sans fil est actif"</string>
+    <string name="miracast_hdcp_title">"HDCP Échec de l'authentification avec %1$s"</string>
+    <string name="miracast_hdcp_failure_text">Le contenu premium ne peut pas être affiché</string>
+    <string name="miracast_connection_status_discovery">"Recherche de "</string>
+    <string name="miracast_connection_status_progress">"Connexion à "</string>
+    <string name="miracast_connection_status_connected">"Streaming en cours sur "</string>
+    <string name="miracast_connection_status_warning_conn_failed">"Impossible de trouver "</string>
+    <string name="miracast_connection_status_warning_conn_lost">"Connexion rompue avec "</string>
+    <string name="miracast_connection_status_warning_auth_failed">"Problème d'authentification avec "</string>
+    <string name="miracast_access_settings_title">"Accéder aux paramètres d'affichage sans fil"</string>
+</resources>
