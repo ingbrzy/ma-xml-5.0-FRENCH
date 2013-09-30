@@ -307,12 +307,6 @@
   <string name="mailbox_name_display_sent">Éléments envoyés</string>
   <string name="mailbox_name_display_trash">Corbeille</string>
   <string name="mailbox_name_display_unread">Non lus</string>
-  <string name="mailbox_name_server_drafts">Brouillons</string>
-  <string name="mailbox_name_server_inbox">Boîte de réception</string>
-  <string name="mailbox_name_server_junk">Indésirable</string>
-  <string name="mailbox_name_server_outbox">Boîte d\'envoi</string>
-  <string name="mailbox_name_server_sent">Envoyé</string>
-  <string name="mailbox_name_server_trash">Corbeille</string>
   <string name="mailbox_preferences_header">Paramètres de synchronisation</string>
   <string name="mailbox_settings_action">Options de synchronisation</string>
   <string name="mailbox_settings_activity_title">Options de synchronisation</string>
