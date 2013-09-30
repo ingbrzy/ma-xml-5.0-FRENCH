@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MIPop</string>
+    <string name="full_screen">Bas</string>
+    <string name="mipop_title">MIPop</string>
+    <string name="mipop_switch_title">MIPop</string>
+    <string name="mipop_switch_summary">MIPop activé，la barre de navigation pourra être remplacée</string>
+    <string name="mipop_fullscreen_title">Cacher la barre de navigation</string>
+    <string name="mipop_fullscreen_summary">"Une zone d'écran plus large sera disponible"</string>
+    <string name="widgetName">MIPop</string>
+    <string name="widgetText">MIPop</string>
+</resources>
