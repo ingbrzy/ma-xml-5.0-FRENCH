@@ -3364,22 +3364,22 @@ Les miniatures des vidéos seront supprimées lorsque vous aurez désactivé la 
     <string name="customizedkey_assign_summary2">Appuyez sur la touche ci-dessous à affecter</string>
     <string name="customizedkey_assign_btn_text">Attribuer</string>
     <string name="lockfinger_change_finger_unlock_title">"Changer de déverrouillage d'empreintes digitales"</string>
-    <string name="lockfinger_dbadmin_failure_default_toast">"Échec de l'opération de la Base Administration:%d"</string>
+    <string name="lockfinger_dbadmin_failure_default_toast">"Échec de l'opération de la Base Administration :%d"</string>
     <string name="lockfinger_dbadmin_title">Vrai Administration Suite</string>
     <string name="lockfinger_enrollment_canceled_toast">inscription annulée</string>
-    <string name="lockfinger_enrollment_database_full">Inscrivez-Pas réussie. Base de données est pleine</string>
+    <string name="lockfinger_enrollment_database_full">Inscrivez-Pas réussie. Base de données pleine</string>
     <string name="lockfinger_enrollment_failure_default_toast">"Échec de l'enregistrement des empreintes à %d reprises"</string>
-    <string name="lockfinger_enrollment_succeeded_toast">"L'inscription réussie"</string>
+    <string name="lockfinger_enrollment_succeeded_toast">"Inscription réussie"</string>
     <string name="lockfinger_enrollment_timeout_toast">"Expiration du délai d'inscription"</string>
     <string name="lockfinger_enrollment_unknown_error_toast">"Erreur inconnue.
-Failure de se connecter est probable"</string>
+Erreur de connexion probable"</string>
     <string name="lockfinger_finger_settings_title">"Empreintes digitales déverrouillage de l'écran"</string>
     <string name="lockfinger_lockout_countdown_footer">Réessayez dans %d secondes</string>
     <string name="lockfinger_set_finger_unlock_title">"Set de déverrouillage d'empreintes digitales"</string>
     <string name="lockfinger_toggle_unlock_finger_summary">"Vous devez utiliser les empreintes digitales pour déverrouiller l'écran"</string>
     <string name="lockfinger_toggle_unlock_finger_title">Empreinte requise</string>
     <string name="lockfinger_too_many_bad_swipes_header">Trop d\'erreurs de glissement de doigt !</string>
-    <string name="lockfinger_tsm_library_not_available_toast">"TSM n'a pas pu charger la bibliothèque … ne peut pas continuer!"</string>
+    <string name="lockfinger_tsm_library_not_available_toast">"TSM n'a pas pu charger la bibliothèque... ne peut pas continuer !"</string>
     <string name="lockfinger_ui_timeout_header">UI délai</string>
     <string name="lockfinger_unlock_disable_lock_finger_summary">Retirer déverrouiller doigt</string>
     <string name="lockfinger_unlock_set_unlock_finger_summary">"Faites glisser votre doigt pour déverrouiller l'écran"</string>
@@ -3394,7 +3394,7 @@ Failure de se connecter est probable"</string>
     <string name="lockfinger_unlock_fingerprint_shortcut_summary">"Vous pouvez utiliser le déverrouillage par empreinte digitale lorsque vous avez enregistré vos empreintes. Pour utiliser les raccourcis d'empreinte, affectez des applications à chaque empreinte"</string>
     <string name="second_lock_text_finger">"Si le déverrouillage à l'aide de votre doigt n'est pas disponible, vous pouvez saisir un code PIN de secours pour déverrouiller"</string>
     <string name="favorite_notification_title">Notif.</string>
-    <string name="download">Downloading…</string>
+    <string name="download">Téléchargement...</string>
     <string name="download_cancel">Téléchargement annulé</string>
     <string name="download_success">"Informations relatives au pays d'itinérance mises à jour"</string>
     <string name="download_fail">Le téléchargement a échoué</string>
