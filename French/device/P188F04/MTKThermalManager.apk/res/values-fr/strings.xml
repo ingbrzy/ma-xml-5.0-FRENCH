@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestionnaire thermique MTK</string>
+    <string name="coolers">Refroidisseurs</string>
+    <string name="thermal_sensors">Capteurs thermiques</string>
+    <string name="thermal_protection">Protection thermique</string>
+    <string name="thermal_policy_file_colon">"Fichier de politique thermique : "</string>
+    <string name="apply_new_thermal_policy">Appliquer la nouvelle politique thermique</string>
+    <string name="tz_device_info">Informations sur le périphérique TZ</string>
+    <string name="thermal_logger">Enregistreur de valeurs thermiques</string>
+    <string name="alert_dialog_two_buttons_title">Alerte !</string>
+    <string name="alert_dialog_two_buttons_message">"L'appareil doit refroidir rapidement !"</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="alert_dialog_cancel">Annuler</string>
+</resources>

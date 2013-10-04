@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Autres paramètres</string>
+    <string name="system">Système</string>
+    <string name="engineercode_settings">EngineerCode</string>
+    <string name="engineermode_settings">EngineerMode</string>
+    <string name="schedulepoweronoff_settings">Schedule power on off</string>
+    <string name="sound">Son</string>
+    <string name="camera_sound_switch">Son Caméra switch</string>
+    <string name="camera_sound">Son Appareil-photo</string>
+    <string name="record_sound">Son Enregistrement vidéo</string>
+    <string name="focus_sound">Son Focus</string>
+    <string name="srs">Son SRS</string>
+    <string name="operation">Opération</string>
+    <string name="mipop">MIPop</string>
+    <string name="flash_recovery">Flash Recovery</string>
+    <string name="toolbox">ToolBox</string>
+    <string name="recovery_instruction">"Renommez l'image de restauration en recovery.img et mettez-la sur la carte SD externe, ensuite vous pouvez flasher l'image en cliquant dessus"</string>
+</resources>
