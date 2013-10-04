@@ -72,11 +72,11 @@
         <item quantity="one">Réseau Wi-Fi disponible</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Réseaux Wi-Fi ouverts disponibles</item>
-        <item quantity="one">Réseau Wi-Fi ouvert disponible</item>
+        <item quantity="other">Ouvrir les réseaux Wi-Fi disponibles</item>
+        <item quantity="one">Ouvrir le réseau Wi-Fi disponible</item>
     </plurals>
     <plurals name="matches_found">
-        <item quantity="other">%d sur %%d</item>
+        <item quantity="other">%1$d sur %2$d</item>
         <item quantity="one">1 correspondance</item>
     </plurals>
 </resources>

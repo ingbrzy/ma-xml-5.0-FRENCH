@@ -76,7 +76,7 @@
         <item quantity="one">Réseau Wi-Fi ouvert disponible</item>
     </plurals>
     <plurals name="matches_found">
-        <item quantity="other">%d sur %%d</item>
+        <item quantity="other">%1$d sur %2$d</item>
         <item quantity="one">1 correspondance</item>
     </plurals>
 </resources>

@@ -23,13 +23,13 @@
     </string-array>
     <string-array name="phoneTypes">
         <item>Domicile</item>
-        <item>Mobile</item>
+        <item>Portable</item>
         <item>Bureau</item>
         <item>Télécopie bureau</item>
         <item>Télécopie domicile</item>
         <item>"Récepteur d'appel"</item>
         <item>Autre</item>
-        <item>Personnalisé</item>
+        <item>Personnalisée</item>
     </string-array>
     <string-array name="postalAddressTypes">
         <item>Domicile</item>
@@ -43,4 +43,5 @@
         <item>Autre</item>
         <item>Personnalisé</item>
     </string-array>
+    <array name="carrier_properties" />
 </resources>
