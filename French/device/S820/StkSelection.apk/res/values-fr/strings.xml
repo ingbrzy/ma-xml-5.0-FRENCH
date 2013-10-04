@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boîte à outils SIM</string>
+    <string name="activity_not_found">"L'application n'est pas installée sur votre téléphone."</string>
+    <string name="simlock_toolkit">Boîte à outils SIM</string>
+    <string name="no_sim_card_inserted">Veuillez insérer une carte SIM pour pouvoir lancer la boîte à outils SIM</string>
+    <string name="airplane_mode_on">Impossible de lancer la boîte à outils SIM quand le mode avion est activé.</string>
+</resources>

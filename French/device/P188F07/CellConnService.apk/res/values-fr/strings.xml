@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ServiceConnexionCellulaire</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="confirm_radio_title">SIM désactivée</string>
+    <string name="confirm_radio_msg">"%1$s est désactivée. Voulez vous l'activer ?"</string>
+    <string name="confirm_radio_msg_single">Mode Avion activé, voulez vous le désactiver ?</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">Mode Avion est activé. Voulez-vous le désactiver ?</string>
+    <string name="confirm_pin_title">SIM verrouillée</string>
+    <string name="confirm_pin_msg">La SIM selectionée est maintenant verrouillée. Merci de la déverrouiller.</string>
+    <string name="confrim_simmelock_title">SIM ME verrouillée</string>
+    <string name="confirm_simmelock_msg">La SIM sélectionnée est verrouillée. Merci de la déverrouiller.</string>
+    <string name="confirm_fdn_title">FDN actif</string>
+    <string name="confirm_fdn_msg">Le numéro de composition fixe est activé.</string>
+    <string name="confirm_roaming_title">Alerte itinérance</string>
+    <string name="confirm_roaming_msg">La carte SIM que vous vous apprêtez à utiliser est désormais itinérante. Pas de carte SIM locale disponible. Voulez-vous continuer?</string>
+    <string name="confirm_roaming_withPrefer_msg">La carte SIM que vous vous apprêtez à utiliser est désormais itinérante. Voulez-vous continuer via la carte SIM locale?</string>
+    <string name="confirm_roaming_lbutton">Continuer</string>
+    <string name="confirm_roaming_rbutton">Annuler</string>
+    <string name="confirm_roamingWithPrefer_lbutton">SIM Locale</string>
+    <string name="confirm_roamingWithPrefer_rbutton">SIM Itinérante</string>
+    <string name="confirm_radio_lbutton">Allumer</string>
+    <string name="confirm_unlock_lbutton">Déverrouiller</string>
+    <string name="confirm_disable_lbutton">Eteindre</string>
+    <string name="confirm_unlock_fail">Operation annulée</string>
+    <string name="confirm_turnon_radio_fail">Operation annulée</string>
+    <string name="confirm_permit_roaming_fail">"Vous avez annuler cette action sur la SIM d'itinérance"</string>
+    <string name="confirm_sim_locked_message">La SIM a été verrouillée de façon permanente</string>
+    <string name="confirm_slot_locked_message">Le slot a été verrouillée de façon permanente</string>
+</resources>
