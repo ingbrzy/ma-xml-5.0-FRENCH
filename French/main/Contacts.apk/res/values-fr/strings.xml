@@ -258,7 +258,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="description_size">Taille :</string>
   <string name="description_star">favori</string>
   <string name="description_summary">Résumé :</string>
-  <string name="description_uploadtime">Mise à jour :</string>
+  <string name="description_uploadtime">Mis à jour :</string>
   <string name="description_version">Version :</string>
   <string name="description_view_contact">Voir contact %1$s</string>
   <string name="description_view_contact_detail">Voir le contact</string>

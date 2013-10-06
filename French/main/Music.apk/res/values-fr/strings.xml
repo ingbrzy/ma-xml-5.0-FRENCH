@@ -90,8 +90,8 @@
   <string name="filter_by_duration_prefix">"Durée minimale : "</string>
   <string name="filter_by_duration_summary">Filtrer les fichiers en fonction de leur durée</string>
   <string name="filter_by_folder">Filtrer par dossier</string>
-  <string name="filter_by_folder_summary_off">Désactivé, cliquer pour activer le filtrage par dossier</string>
-  <string name="filter_by_folder_summary_on">Activé, cliquer pour modifier les dossiers filtrés</string>
+  <string name="filter_by_folder_summary_off">Désactivé, appuyez pour activer le filtrage par dossier</string>
+  <string name="filter_by_folder_summary_on">Activé, appuyez pour modifier les dossiers filtrés</string>
   <string name="filter_by_size">Filtrer par taille</string>
   <string name="filter_by_size_max">2 Mo</string>
   <string name="filter_by_size_min">0 Ko</string>
@@ -106,7 +106,7 @@
   <string name="id3_edit_failed">Impossible de modifier les informations ID3</string>
   <string name="id3_modify_confirm_check">Confirmer les modifications ID3 ?</string>
   <string name="id3_modify_confirm_text">Enregistrer</string>
-  <string name="impunity_declaration">La musique en ligne que vous êtes sur le point d\'utiliser provient du Service de Musique en Ligne Baidu. Cliquez sur "Confirmer" pour accepter ses conditions et l\'utiliser ou cliquez sur "Annuler" pour quitter.</string>
+  <string name="impunity_declaration">La musique en ligne que vous êtes sur le point d\'utiliser provient du Service de Musique en Ligne Baidu. Appuyez sur "Confirmer" pour accepter ses conditions et l\'utiliser ou appuyez sur "Annuler" pour quitter.</string>
   <string name="impunity_declaration_title">Déclaration</string>
   <string name="keep_quit_position_settings">Mémoriser la dernière position</string>
   <string name="keep_quit_position_summary">Restaurer la piste à la dernière position connue au redémarrage de l\'application</string>

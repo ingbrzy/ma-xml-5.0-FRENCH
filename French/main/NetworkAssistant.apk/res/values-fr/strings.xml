@@ -10,8 +10,8 @@
   <string name="adjust_traffic_carrier_settings_title">Opérateur mobile</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">"N'a pas été mis à jour depuis plus d'un mois"</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">"N'a pas été mis à jour depuis plus d'une semaine"</string>
-  <string name="adjust_traffic_carrier_summary_oneweek_before">A été mis a jour il y a une semaine</string>
-  <string name="adjust_traffic_carrier_summary_three_day_before">A été mis a jour il y a 3 jours</string>
+  <string name="adjust_traffic_carrier_summary_oneweek_before">A été mis à jour il y a une semaine</string>
+  <string name="adjust_traffic_carrier_summary_three_day_before">A été mis à jour il y a 3 jours</string>
   <string name="adjust_traffic_carrier_summary_today">Mis à jour à %1$02d:%2$02d aujourd\'hui</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Mis à jour hier à : %1$02d:%2$02d</string>
   <string name="adjust_traffic_manual_adjust">Saisir manuellement</string>

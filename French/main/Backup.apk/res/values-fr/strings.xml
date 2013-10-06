@@ -75,7 +75,7 @@
   <string name="disable_encrypt_title">Cryptage désactivé</string>
   <string name="enable_encrypt">Activer maintenant</string>
   <string name="enable_encrypt_fail">L\'activation du cryptage a échoué</string>
-  <string name="enable_encrypt_indicator">La sauvegarde n\'est pas chiffrée, cliquez pour activer le chiffrement.</string>
+  <string name="enable_encrypt_indicator">La sauvegarde n\'est pas chiffrée, appuyez pour activer le chiffrement.</string>
   <string name="enable_encrypt_ok">OK</string>
   <string name="enable_encrypt_summery1">"Le système va crypter votre sauvegarde locale sur votre compte Xiaomi, vous devez vous connecter à votre compte Xiaomi lors de la suppression de données ou lors de l\'utilisation d\'autres appareils pour restaurer la sauvegarde."</string>
   <string name="enable_encrypt_summery2">"La nouvelle sauvegarde sera automatiquement chiffrée. Vous devez vous connecter à votre compte Xiaomi lors de la suppression de données ou lors de l\'utilisation d\'autres appareils pour restaurer la sauvegarde."</string>

@@ -219,7 +219,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_recent_inspect_item_title">"Informations sur l\'application"</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
   <string name="status_bar_recent_remove_item_title">Supprimer de la liste</string>
-  <string name="status_bar_recording_back">Cliquer pour retourner au dictaphone</string>
+  <string name="status_bar_recording_back">Appuyez pour retourner au dictaphone</string>
   <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause. "</string>
   <string name="status_bar_settings_airplane">Mode Avion</string>
   <string name="status_bar_settings_auto_brightness_label">Auto</string>
@@ -302,5 +302,5 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="usb_storage_title">Périphérique USB connecté</string>
   <string name="user_guide_for_notification">Lors de la réception d\'une notification, vous pouvez faire glisser la barre d\'état vers le bas pour voir le détail</string>
   <string name="user_guide_for_toggle">La liste d\'activation peut défiler horizontalement</string>
-  <string name="user_guide_for_toggle_list">Cliquer ici pour modifier les paramètres d\'activation/désactivation</string>
+  <string name="user_guide_for_toggle_list">Appuyez ici pour modifier les paramètres d\'activation/désactivation</string>
 </resources>

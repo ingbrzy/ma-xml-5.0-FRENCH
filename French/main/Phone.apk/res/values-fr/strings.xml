@@ -141,8 +141,8 @@
   <string name="call_lost">L\'appel a été perdu.</string>
   <string name="call_number">À :</string>
   <string name="call_record_button_label">Enregistrement %s</string>
-  <string name="call_record_notification_message_low_space_miui">L\'enregistrement s\'est arrêté en raison de mémoire faible, cliquez pour voir %s.</string>
-  <string name="call_record_notification_message_miui">Cliquez pour voir %s.</string>
+  <string name="call_record_notification_message_low_space_miui">L\'enregistrement s\'est arrêté en raison de mémoire faible, appuyez pour voir %s.</string>
+  <string name="call_record_notification_message_miui">Appuyez pour voir %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Enregistrement arrêté parce que la carte SD est démontée.</string>
   <string name="call_record_notification_message_start_failed">L\'appareil d\'enregistrement est utilisé par une autre application.</string>
   <string name="call_record_notification_title_error_miui">Échec de l\'enregistrement des appels</string>

@@ -76,7 +76,7 @@
 Montant total : %3$s RMB"</string>
   <string name="recharge_user_confirm_title">Confirmer</string>
   <string name="scan">Scanner</string>
-  <string name="selected_category_format">%1$s(%2$d on marqué, cliquez pour approuver)</string>
+  <string name="selected_category_format">%1$s(%2$d on marqué, appuyez pour approuver)</string>
   <string name="service_unavailiable">Votre réseau actuel n\'est pas bon, veuillez réessayer plus tard</string>
   <string name="smart_antispam">Identifier les numéros inconnus automatiquement</string>
   <string name="sms_disabled_in_privacy_mode">"Impossible d'envoyer un message en mode privé."</string>
@@ -92,7 +92,7 @@ Montant total : %3$s RMB"</string>
   <string name="turn_on_smart_antispam_title">Identifier les numéros inconnus</string>
   <string name="unable_send_sms">Impossible d\'envoyer le SMS.</string>
   <string name="user_notice_identify_summary_format">L\'identification des numéros inconnus est un service en ligne, veuillez lire %1$s et %2$s avant de l\'utiliser.</string>
-  <string name="user_notice_yp_detail_summary_format">L\'information partielle sur cette page jaune doit être mise à jour en ligne, veuillez lire %1$s et %2$s, cliquer sur "Accepter" signifie que vous acceptez le contenu ci dessus et respectez l\'accord, cliquez sur "Annuler" pour voir les informations en cache uniquement.</string>
+  <string name="user_notice_yp_detail_summary_format">L\'information partielle sur cette page jaune doit être mise à jour en ligne, veuillez lire %1$s et %2$s, appuyez sur "Accepter" pour valider ou sur "Annuler" pour voir les informations (en cache uniquement).</string>
   <string name="voicemail">Messagerie vocale</string>
   <string name="yellow_page_call_log_title">Journal d\'appel</string>
   <string name="yellow_page_detail_title">À propos</string>

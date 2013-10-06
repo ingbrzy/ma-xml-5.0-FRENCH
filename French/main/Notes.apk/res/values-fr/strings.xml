@@ -98,6 +98,6 @@
   <string name="toast_privacy_mode">Impossible d\'éditer une note en mode privé</string>
   <string name="toast_reach_text_limit_attachment">Le contenu de la note est trop long pour ajouter de nouvelles pièces jointes</string>
   <string name="toast_reach_text_limit_truncate">"Le contenu de la note a été ciselée parce qu'il était trop long"</string>
-  <string name="widget_havenot_content">Aucune note associée, cliquez pour associer une note.</string>
+  <string name="widget_havenot_content">Aucune note associée, appuyez pour associer une note.</string>
   <string name="widget_under_visit_mode">Mode privé, impossible de voir le contenu de la note</string>
 </resources>

@@ -7,7 +7,7 @@
   <string name="description">Description (obligatoire)</string>
   <string name="discard_draft_dialog_button_cancel">Annuler</string>
   <string name="discard_draft_dialog_button_discard">OK</string>
-  <string name="discard_draft_dialog_content">Le rapport a été modifié, cliquez sur le bouton OK pour supprimer le brouillon.</string>
+  <string name="discard_draft_dialog_content">Le rapport a été modifié, appuyez sur le bouton OK pour supprimer le brouillon.</string>
   <string name="discard_draft_dialog_title">Supprimer le brouillon</string>
   <string name="err_type">Type de retour</string>
   <string name="err_type_call">Problèmes d\'appel</string>
@@ -42,6 +42,6 @@
   <string name="user_feedback">Commentaires des utilisateurs</string>
   <string name="wlan_unavailable_dialog_button_ok">OK</string>
   <string name="wlan_unavailable_dialog_button_sent">Envoyer maintenant</string>
-  <string name="wlan_unavailable_dialog_content">%s est nécessaire pour les données 2G/3G, cliquez sur OK pour envoyer en utilisant une connexion Wi-Fi uniquement</string>
+  <string name="wlan_unavailable_dialog_content">%s est nécessaire pour les données 2G/3G, appuyez sur OK pour envoyer en utilisant une connexion Wi-Fi uniquement</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi non disponible</string>
 </resources>
