@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="hello">Hello World, Wt_version_queryActivity!</string>
   <string name="app_name">Wt_version_query</string>
   <string name="soft_version">Version interne</string>
-  <string name="miui_version">version MIUI</string>
+  <string name="miui_version">Version MIUI</string>
   <string name="hard_version">Version matérielle</string>
   <string name="build_date">Date de génération</string>
   <string name="version_Info">Info. version</string>
