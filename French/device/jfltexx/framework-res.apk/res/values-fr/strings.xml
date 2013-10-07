@@ -557,7 +557,7 @@
     <string name="lockscreen_smartcard_locked">"La carte à puce a été verrouillée. Contactez l'administrateur de l'appareil"</string>
     <string name="lockscreen_smartcard_expired">"Le code PIN de la carte à puce a expiré. Contactez l'administrateur de l'appareil"</string>
     <string name="lockscreen_smartcard_connectionerror">Connexion à la carte à puce impossible. Vérifiez les paramètres de votre connexion Bluetooth</string>
-    <string name="lockscreen_smartcard_internalerror">"Echec de la connexion à la carte à puce. Contactez l'administrateur de l'appareil"</string>
+    <string name="lockscreen_smartcard_internalerror">"Échec de la connexion à la carte à puce. Contactez l'administrateur de l'appareil"</string>
     <string name="lockscreen_smartcard_wrong_card">Mauvaise carte à puce. Réessayez avec la carte à puce enregistrée</string>
     <string name="keyguard_password_enter_hint_cac_password_code">Code PIN de la carte à puce</string>
     <string name="permlab_mdmELMLog">"Mangement dispositif API statistiques d'utilisation"</string>

@@ -382,14 +382,14 @@ Etes-vous sûr de vouloir autoriser le service données mobiles préféré ?"</s
   <string name="vt_pic_replace_local_freezeme">Me geler</string>
   <string name="vt_pic_replace_local_mypic">Mon image</string>
   <string name="vt_pic_saved_to_sd">Instantané sauvegardé sur carte SD</string>
-  <string name="vt_pic_saved_to_sd_fail">Echec de capture de l\'instantané</string>
+  <string name="vt_pic_saved_to_sd_fail">Échec de capture de l\'instantané</string>
   <string name="vt_recorder_only_peer_video">Vidéo homologue uniquement</string>
   <string name="vt_recorder_only_voice">Voix uniquement</string>
   <string name="vt_recorder_start">Lancer enregistrement</string>
   <string name="vt_recorder_voice_and_peer_video">Voix et vidéo homologue</string>
   <string name="vt_recording_error">Erreur d\'enregistrement.</string>
   <string name="vt_recording_saved">Enregistrement sauvegardé.</string>
-  <string name="vt_recording_saved_fail">Echec de sauvegarde de l\'enregistrement.</string>
+  <string name="vt_recording_saved_fail">Échec de sauvegarde de l\'enregistrement.</string>
   <string name="vt_recording_saved_sd_full">La carte SD est pleine, l\'enregistrement a été sauvegardé.</string>
   <string name="vt_sd_not_enough">Carte SD bientôt à court d\'espace mémoire</string>
   <string name="vt_sd_null">Carte SD indisponible</string>

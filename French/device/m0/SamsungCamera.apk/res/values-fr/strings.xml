@@ -14,9 +14,9 @@
     <string name="panorama_processing_msg">Veuillez patienter pendant la création du panorama</string>
     <string name="battery_overheat">"Quittez l'appareil photo. La température de la batterie est trop élevée"</string>
     <string name="savingImage">Enregistrement...</string>
-    <string name="open_hw_failed_msg">Echec appareil photo</string>
-    <string name="capture_failed_msg">Echec de capture</string>
-    <string name="recording_failed_msg">Echec enregistrement</string>
+    <string name="open_hw_failed_msg">Échec appareil photo</string>
+    <string name="capture_failed_msg">Échec de capture</string>
+    <string name="recording_failed_msg">Échec enregistrement</string>
     <string name="buffer_overflow_error_msg">Enregistrement impossible. Type de résolution non pris en charge par la carte mémoire</string>
     <string name="media_server_died_msg">"Une erreur serveur est survenue. Redémarrez l'appareil photo"</string>
     <string name="unknown_error_callback_msg">Une erreur inconnue est survenue</string>
@@ -26,7 +26,7 @@
     <string name="cannot_start_camera_msg">"Appareil photo non disponible
 pendant appel"</string>
     <string name="cannot_start_camcorder_msg">"Impossible d'enregistrer des vidéos pendant un appel"</string>
-    <string name="image_stitching_fail">Echec</string>
+    <string name="image_stitching_fail">Échec</string>
     <string name="MaxRecordingSizeMMS">295K</string>
     <string name="CS_PROGRESS_NUMBER">0/9</string>
     <string name="SM_SINGLE">Cliché unique</string>

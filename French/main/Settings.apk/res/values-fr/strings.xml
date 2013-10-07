@@ -2323,7 +2323,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_context_menu_connect">Se connecter au réseau Wi-Fi</string>
   <string name="wifi_context_menu_forget">Retirer le réseau</string>
   <string name="wifi_disabled_generic">Désactivé</string>
-  <string name="wifi_disabled_help">Réseau évité en raison d\'une mauvaise connexion. Désactivez ce paramètre en sélectionnant Paramètres &gt; Ecran Wi-Fi &gt; Eléments du menu Avancé</string>
+  <string name="wifi_disabled_help">Réseau évité en raison d\'une mauvaise connexion. Désactivez ce paramètre en sélectionnant Paramètres &gt; Écran Wi-Fi &gt; Eléments du menu Avancé</string>
   <string name="wifi_disabled_network_failure">Mauvaise connexion Internet évitée</string>
   <string name="wifi_disabled_password_failure">Problème d\'authentification.</string>
   <string name="wifi_display_available_devices">Appareils disponibles</string>

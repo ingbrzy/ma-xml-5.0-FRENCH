@@ -34,7 +34,7 @@
   <string name="always_enable_mms_summary_miui">Toujours recevoir les MMS même lorsque les données sont désactivées</string>
   <string name="answer_and_hangup_miui">Raccrocher et répondre</string>
   <string name="answer_features_setting_category_miui">Paramètres de réponse</string>
-  <string name="answer_miui">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Ecran général.</string>
+  <string name="answer_miui">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Écran général.</string>
   <string name="answer_state_setting_summary">Paramètres de la coupure de sonnerie, du capteur de proximité, etc.</string>
   <string name="answer_state_setting_title">Paramètres d\'état d\'appel entrant</string>
   <string name="answer_state_setting_title_miui">Paramètres d\'état d\'appel entrant</string>
@@ -979,7 +979,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="sub_1">SUB 1</string>
   <string name="sub_2">SUB 2</string>
   <string name="sub_one">Gérer le 1er abonnement</string>
-  <string name="sub_two">Gérer le 2ème abonnement</string>
+  <string name="sub_two">Gérer le 2e abonnement</string>
   <string name="subone">Abonnement 1</string>
   <string name="subtwo">Abonnement 2</string>
   <string name="sum_carrier_select">Sélectionner un opérateur réseau</string>

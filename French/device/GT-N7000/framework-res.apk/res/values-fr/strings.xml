@@ -249,9 +249,9 @@
   <string name="httpError">Une erreur réseau s\'est produite</string>
   <string name="httpErrorLookup">URL introuvable</string>
   <string name="httpErrorUnsupportedAuthScheme">Le schéma d\'authentification du site n\'est pas pris en charge</string>
-  <string name="httpErrorAuth">Echec de l\'authentification</string>
-  <string name="httpErrorProxyAuth">Echec de l\'authentification via le serveur proxy</string>
-  <string name="httpErrorConnect">Echec de connexion au serveur</string>
+  <string name="httpErrorAuth">Échec de l\'authentification</string>
+  <string name="httpErrorProxyAuth">Échec de l\'authentification via le serveur proxy</string>
+  <string name="httpErrorConnect">Échec de connexion au serveur</string>
   <string name="httpErrorIO">Erreur serveur. Réessayez plus tard</string>
   <string name="httpErrorTimeout">La connexion au serveur a expiré.</string>
   <string name="httpErrorRedirectLoop">La page contient trop de redirections serveur</string>
@@ -796,7 +796,7 @@
   <string name="granularity_label_line">Ligne</string>
   <string name="hour_ampm" formatted="false">%-l%P</string>
   <string name="hour_cap_ampm" formatted="false">%-l%p</string>
-  <string name="factorytest_failed">Echec du test usine</string>
+  <string name="factorytest_failed">Échec du test usine</string>
   <string name="factorytest_not_system">L\'action FACTORY_TEST est prise en charge uniquement pour les ensembles installés dans /system/app</string>
   <string name="factorytest_no_action">Aucun ensemble n\'a été trouvé, qui fournisse l\'action FACTORY_TEST</string>
   <string name="factorytest_reboot">Redémarrage</string>
@@ -1101,7 +1101,7 @@ pour le compte %s"</string>
   <string name="action_mode_done">OK</string>
   <string name="progress_unmounting">Démontage du stockage USB…</string>
   <string name="progress_erasing">Formatage du stockage USB…</string>
-  <string name="format_error">Echec du formatage de la carte SD</string>
+  <string name="format_error">Échec du formatage de la carte SD</string>
   <string name="media_bad_removal">Carte SD retirée sans avoir été démontée</string>
   <string name="media_checking">Vérification du stockage USB…</string>
   <string name="media_removed">La carte SD a été retirée.</string>

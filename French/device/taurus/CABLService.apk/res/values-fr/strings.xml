@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">"Paramètres de rétro-éclairage adaptatif de l'ecran"</string>
-    <string name="cabl_settings_title">"Paramètres de rétro-éclairage adaptatif de l'ecran"</string>
+    <string name="app_name">"Paramètres de rétro-éclairage adaptatif de l'écran"</string>
+    <string name="cabl_settings_title">"Paramètres de rétro-éclairage adaptatif de l'écran"</string>
     <string name="cabl_enable_title">Activer</string>
     <string name="cabl_enable_summary_on">Le rétro-éclairage se réajustera</string>
     <string name="cabl_enable_summary_off">Le rétro-éclairage ne se réajustera plus</string>

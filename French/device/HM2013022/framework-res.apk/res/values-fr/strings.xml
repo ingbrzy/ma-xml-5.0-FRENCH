@@ -799,7 +799,7 @@
   <string name="granularity_label_line">Ligne</string>
   <string name="hour_ampm" formatted="false"><xliff:g id="HOUR">%-l</xliff:g> <xliff:g id="AMPM">%P</xliff:g></string>
   <string name="hour_cap_ampm" formatted="false"><xliff:g id="HOUR">%-l</xliff:g> <xliff:g id="AMPM">%p</xliff:g></string>
-  <string name="factorytest_failed">Echec du test usine</string>
+  <string name="factorytest_failed">Échec du test usine</string>
   <string name="factorytest_not_system">L\'action FACTORY_TEST est prise en charge uniquement pour les ensembles installés dans /system/app</string>
   <string name="factorytest_no_action">Aucun ensemble n\'a été trouvé, qui fournisse l\'action FACTORY_TEST</string>
   <string name="factorytest_reboot">Redémarrage</string>

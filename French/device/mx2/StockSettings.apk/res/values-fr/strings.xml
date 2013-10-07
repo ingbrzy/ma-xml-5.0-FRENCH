@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="stock_settings">Autres paramètres</string>
-    <string name="home_key_screen_on">"Double appui sur ACCUEIL allume l'ecran"</string>
+    <string name="home_key_screen_on">"Double appui sur ACCUEIL allume l'écran"</string>
     <string name="cpufreq_title">Fréquence CPU</string>
 </resources>

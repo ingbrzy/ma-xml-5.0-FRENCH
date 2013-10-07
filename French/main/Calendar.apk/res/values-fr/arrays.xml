@@ -279,9 +279,9 @@
     </string-array>
     <string-array name="ordinal_labels">
         <item>1er</item>
-        <item>2ème</item>
-        <item>3ème</item>
-        <item>4ème</item>
+        <item>2e</item>
+        <item>3e</item>
+        <item>4e</item>
         <item>Dernier</item>
     </string-array>
     <string-array name="response_labels1">

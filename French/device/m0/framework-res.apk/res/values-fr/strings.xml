@@ -296,9 +296,9 @@
     <string name="httpError">"Une erreur réseau s'est produite"</string>
     <string name="httpErrorLookup">URL introuvable</string>
     <string name="httpErrorUnsupportedAuthScheme">"Le schéma d'authentification du site n'est pas pris en charge"</string>
-    <string name="httpErrorAuth">"Echec de l'authentification"</string>
-    <string name="httpErrorProxyAuth">"Echec de l'authentification via le serveur proxy"</string>
-    <string name="httpErrorConnect">Echec de connexion au serveur</string>
+    <string name="httpErrorAuth">"Échec de l'authentification"</string>
+    <string name="httpErrorProxyAuth">"Échec de l'authentification via le serveur proxy"</string>
+    <string name="httpErrorConnect">Échec de connexion au serveur</string>
     <string name="httpErrorIO">Erreur serveur. Réessayez plus tard</string>
     <string name="httpErrorTimeout">La connexion au serveur a expiré.</string>
     <string name="httpErrorRedirectLoop">La page contient trop de redirections serveur</string>
@@ -978,7 +978,7 @@
     <string name="granularity_label_line">Ligne</string>
     <string name="hour_ampm" formatted="false">%-l%P</string>
     <string name="hour_cap_ampm" formatted="false">%-l%p</string>
-    <string name="factorytest_failed">Echec du test usine</string>
+    <string name="factorytest_failed">Échec du test usine</string>
     <string name="factorytest_not_system">"L'action FACTORY_TEST est prise en charge uniquement pour les ensembles installés dans /system/app"</string>
     <string name="factorytest_no_action">"Aucun ensemble n'a été trouvé, qui fournisse l'action FACTORY_TEST"</string>
     <string name="factorytest_reboot">Redémarrage</string>
@@ -1235,7 +1235,7 @@ Voulez-vous la fermer ?"</string>
     <string name="usb_accessory_notification_title">Connecté à un accessoire USB</string>
     <string name="usb_notification_message">"Appuyez pour accéder à d'autres options USB"</string>
     <string name="hdmi_suspend">"HDMI non disponible lorsque l'application est en cours d'exécution. L'application sera affichée uniquement sur le téléphone"</string>
-    <string name="tv_out_suspend">"La sortie TV n'est pas prise en charge pendant l'exécution de l'application. Ecran téléphone seulement"</string>
+    <string name="tv_out_suspend">"La sortie TV n'est pas prise en charge pendant l'exécution de l'application. Écran téléphone seulement"</string>
     <string name="hdmi_connect">Câble HDMI connecté</string>
     <string name="hdmi_disconnect">Câble HDMI déconnecté</string>
     <string name="hdmi_wfd_terminate">HDMI connecté. Connexion AllShare Cast terminée</string>
@@ -1352,7 +1352,7 @@ pour le compte %s"</string>
     <string name="progress_unmounting_sd">Démontage de la carte SD…</string>
     <string name="progress_erasing">Formatage du stockage USB…</string>
     <string name="progress_erasing_sd">Formatage de la carte SD…</string>
-    <string name="format_error">Echec du formatage de la carte SD</string>
+    <string name="format_error">Échec du formatage de la carte SD</string>
     <string name="format_error_sd">"Impossible d'effacer la carte SD."</string>
     <string name="media_bad_removal">Carte SD retirée sans avoir été démontée</string>
     <string name="media_checking">Vérification du stockage USB…</string>
@@ -1518,7 +1518,7 @@ pour le compte %s"</string>
     <string name="lockscreen_clock_dualclock_popup_title">Double horloge</string>
     <string name="lockscreen_clock_dualclock_popup_message">"Sélectionnez votre ville domicile pour afficher une double horloge sur l'écran de verrouillage. Accéder aux paramètres ?"</string>
     <string name="lockscreen_ticker_no_data_to_display">Aucune donnée à afficher</string>
-    <string name="lockscreen_ticker_connection_failed">Echec de la connexion</string>
+    <string name="lockscreen_ticker_connection_failed">Échec de la connexion</string>
     <string name="lockscreen_ticker_country_failed">"Yahoo! News ne parvient pas à déterminer votre pays. Sélectionnez votre fournisseur d'informations préféré dans les paramètres de l'écran de verrouillage"</string>
     <string name="lockscreen_ticker_stock_no_time">"Yahoo! Finance n'a pas trouvé votre liste d'actions. Ajoutez une action à Mes actions"</string>
     <string name="lockscreen_ticker_newtork_unavailable">"Erreur de connexion réseau. Pour afficher les informations ou le service d'actions, activez les données mobiles ou Wi-Fi dans les paramètres"</string>
@@ -1608,7 +1608,7 @@ pour le compte %s"</string>
     <string name="lockscreen_pin_unblocked">Code PIN débloqué</string>
     <string name="lockscreen_voiceunlock_guide_text">"Enoncez votre commande de réveil pour déverrouiller l'écran"</string>
     <string name="lockscreen_voiceunlock_failed_to_recognise_voice_text">"La voix n'a pas été reconnue"</string>
-    <string name="lockscreen_voiceunlock_verification_failed_text">Echec de reconnaissance vocale. Utilisez une autre méthode de déverrouillage</string>
+    <string name="lockscreen_voiceunlock_verification_failed_text">Échec de reconnaissance vocale. Utilisez une autre méthode de déverrouillage</string>
     <string name="lockscreen_voiceunlock_verification_completed_text">Voix reconnue</string>
     <string name="lockscreen_voiceunlock_recognising_text">Reconnaissance…</string>
     <string name="lockscreen_voiceunlock_dialog_title_text">Déverrouillage voix</string>

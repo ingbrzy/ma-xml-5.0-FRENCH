@@ -48,11 +48,11 @@ Réessayez"</string>
     <string name="on">Activé</string>
     <string name="off">Désactivée</string>
     <string name="CP_MESSAGE">Message CP</string>
-    <string name="CHECK_CPDATA">"Echec de l'analyse"</string>
+    <string name="CHECK_CPDATA">"Échec de l'analyse"</string>
     <string name="MESSAGE_ERROR">Impossible de lire le message</string>
     <string name="NODATA">Vide</string>
     <string name="INSTALL_SUCCESS">Installation terminée</string>
-    <string name="INSTALL_FAIL">"Echec de l'installation"</string>
+    <string name="INSTALL_FAIL">"Échec de l'installation"</string>
     <string name="INSTALL_NOT_SUPPORT">Type non pris en charge</string>
     <string name="NEXT">Suivant</string>
     <string name="INSTALL_NEW_ACCOUNT">"L'installation n'est pas terminée. Appuyez sur Suivant pour procéder à l'installation"</string>

@@ -22,7 +22,7 @@
     <string name="install_text">Installer</string>
     <string name="application_label">"Application: "</string>
     <string name="result_success">Réussie</string>
-    <string name="result_failed">Echec</string>
+    <string name="result_failed">Échec</string>
     <string name="unknown">Inconnu</string>
     <string name="mms_app_name">MMS</string>
     <string name="browser_app_name">Navigateur</string>
