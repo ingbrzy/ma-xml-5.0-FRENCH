@@ -1992,7 +1992,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="trackball_settings">Boule de commande</string>
   <string name="trackball_wake_title">Boule de commande éveillée</string>
   <string name="transition_animation_scale_title">Échelle animation transitions</string>
-  <string name="trust_switch_dialog_msg">"Miui ne vous demandera plus de confirmation pour les opérations liées à votre sécurité et confidentialité provenant de cette application.
+  <string name="trust_switch_dialog_msg">"MIUI ne vous demandera plus de confirmation pour les opérations liées à votre sécurité et confidentialité provenant de cette application.
 Faire confiance à cette application ?"</string>
   <string name="trusted_credentials">Certificats de confiance</string>
   <string name="trusted_credentials_disable_confirmation">Désactiver le certificat d\'autorité du système ?</string>
@@ -2503,8 +2503,8 @@ vous pouvez utiliser les réseaux d\'autres utilisateurs"</string>
   <string name="wifi_share_notification_summary">MIUI vous a connecté à un réseau Wi-Fi public protégé par un mot de passe</string>
   <string name="wifi_share_other_network">Autres réseaux Wi-Fi</string>
   <string name="wifi_share_qrcode_finish">terminer</string>
-  <string name="wifi_share_qrcode_summary">Utiliser la caméra MIUI pour scanner un QR code</string>
-  <string name="wifi_share_qrcode_title">Partager le QR code via Wi-Fi</string>
+  <string name="wifi_share_qrcode_summary">Utiliser la caméra MIUI pour scanner un code QR</string>
+  <string name="wifi_share_qrcode_title">Partager le code QR via Wi-Fi</string>
   <string name="wifi_share_show_network">Afficher les réseaux</string>
   <string name="wifi_share_summary1">Les utilisateurs MIUI peuvent partager entre eux les réseaux Wi-Fi publics protégés par des mots de passe.</string>
   <string name="wifi_share_summary2">Si un autre utilisateur MIUI partage un réseau, vous pouvez vous connecter directement à ce réseau sans utiliser de mot de passe.</string>

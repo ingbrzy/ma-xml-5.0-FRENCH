@@ -222,7 +222,7 @@ Vous pouvez faire autre chose..."</string>
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">La recharge par SMS a échoué</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">La méthode de recharge par SMS coute plus cher, donc &lt;font color=red&gt;2 RMB = 1 MiCredit&lt;/font&gt;</string>
+  <string name="msg_picker_hint_1_2">La méthode de recharge par SMS coûte plus cher, donc &lt;font color=red&gt;2 RMB = 1 MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Pour chaque recharge par SMS les opérateurs chargent 0.1 RMB de frais de service</string>
   <string name="msg_picker_hint_3_1">3.</string>

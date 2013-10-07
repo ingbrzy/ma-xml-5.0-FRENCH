@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_airplane_mode">Mode Avion</string>
   <string name="accessibility_back">Retour</string>
-  <string name="accessibility_battery_level">Batterie à %d pourcent</string>
+  <string name="accessibility_battery_level">Batterie à %d pour cent</string>
   <string name="accessibility_bluetooth_connected">Bluetooth connecté</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth déconnecté</string>
   <string name="accessibility_bluetooth_tether">Partage de connexion Bluetooth</string>

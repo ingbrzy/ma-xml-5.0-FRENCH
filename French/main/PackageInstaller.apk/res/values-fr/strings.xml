@@ -63,7 +63,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="safe_relative">Autorisations de sécurité</string>
   <string name="security_settings_desc">Autoriser cette application à :</string>
   <string name="settings">Paramètres</string>
-  <string name="trust_switch_dialog_msg">"Miui ne vous demandera plus de confirmation pour les opérations liées à votre sécurité et confidentialité provenant de cette application.
+  <string name="trust_switch_dialog_msg">"MIUI ne vous demandera plus de confirmation pour les opérations liées à votre sécurité et confidentialité provenant de cette application.
   Faire confiance à cette application ?"</string>
   <string name="uninstall_activity_text">%1$s fait partie de l\'application suivante : </string>
   <string name="uninstall_application_text">Voulez-vous désinstaller cette application ?</string>

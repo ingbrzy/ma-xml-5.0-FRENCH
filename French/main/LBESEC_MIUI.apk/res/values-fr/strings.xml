@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Dashboard_App">Applications</string>
   <string name="Dashboard_HIPS_Disable_Content">Désactiver ceci diminue votre sécurité, cela provoquera l\'arrêt du suivi de vos application et de la protection de votre confidentialité par MIUI. Êtes-vous sûr de vouloir le désactiver ?</string>
@@ -137,7 +137,7 @@
   <string name="HIPS_Perm_SMS_Desc">Accéder à votre boîte de réception SMS</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s applications ont la permission d\'accéder à votre boîte de réception SMS</string>
   <string name="HIPS_Perm_SendSMS">Envoyer un SMS</string>
-  <string name="HIPS_Perm_SendSMS_Content">Contenu:</string>
+  <string name="HIPS_Perm_SendSMS_Content">Contenu :</string>
   <string name="HIPS_Perm_SendSMS_Data">envoyer un SMS à %1$s:%2$d</string>
   <string name="HIPS_Perm_SendSMS_Desc">Envoyer un SMS directement</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s applications ont la permission d\'envoyer des SMS</string>
@@ -172,7 +172,7 @@
   <string name="Privacy_App_Log">Journal</string>
   <string name="Privacy_App_Manage">Détails</string>
   <string name="Privacy_App_Trust">J\'ai confiance en cette application</string>
-  <string name="Privacy_App_TrustDialog_Content">Miui ne vous demandera aucune confirmation concernant la sécurité et la confidentialité pour toutes les opérations de cette application.</string>
+  <string name="Privacy_App_TrustDialog_Content">MIUI ne vous demandera aucune confirmation concernant la sécurité et la confidentialité pour toutes les opérations de cette application.</string>
   <string name="Privacy_App_TrustDialog_Title">Faire confiance à cette application</string>
   <string name="Privacy_App_Trust_Summary_Off">MIUI ne surveillera pas cette application</string>
   <string name="Privacy_App_Trust_Summary_On">MIUI aura confiance en cette application</string>

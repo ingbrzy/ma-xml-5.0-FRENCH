@@ -340,8 +340,8 @@
   <string name="remove_recent_album">Supprimer des albums favoris</string>
   <string name="rename_failed">Échec du renommage</string>
   <string name="renren_image">RenRen</string>
-  <string name="request_qr_code">Demande de QR code, veuillez patienter...</string>
-  <string name="request_qr_code_failed">La demande de QR code a échoué, appuyez pour réessayer</string>
+  <string name="request_qr_code">Demande de code QR, veuillez patienter...</string>
+  <string name="request_qr_code_failed">La demande de code QR a échoué, appuyez pour réessayer</string>
   <string name="request_sms_url_failed">Échec de la requête URL pour le partage via SMS</string>
   <string name="request_sms_url_msg">Requête URL pour le partage via SMS, veuillez patienter...</string>
   <string name="request_sms_url_title">Indice</string>
@@ -355,11 +355,11 @@
   <string name="save_photo">Enregistrer la photo retouchée ?</string>
   <string name="saving_failure">Impossible d\'enregistrer la photo</string>
   <string name="saving_image">Enregistrement de l\'image...</string>
-  <string name="scan_barcode">Scanner le QR code</string>
-  <string name="scan_barcode_guide">Pour obtenir l\'album du QR code touchez l\'icône de partage sur le coin supérieur droit.</string>
-  <string name="scan_barcode_to_join">Scannez le QR code pour rejoindre un album.</string>
-  <string name="scan_qr_code">Autoriser les autres scans QR code à voir cet album partagé</string>
-  <string name="scan_qr_code_buttom_text">Scannez le QR code pour voir cet album.</string>
+  <string name="scan_barcode">Scanner le code QR</string>
+  <string name="scan_barcode_guide">Pour obtenir l\'album du code QR touchez l\'icône de partage sur le coin supérieur droit.</string>
+  <string name="scan_barcode_to_join">Scannez le code QR pour rejoindre un album.</string>
+  <string name="scan_qr_code">Autoriser les autres scans code QR à voir cet album partagé</string>
+  <string name="scan_qr_code_buttom_text">Scannez le code QR pour voir cet album.</string>
   <string name="scan_qr_code_failure">Impossible de scanner le code QR.</string>
   <string name="scan_qr_code_top_text">Les membres peuvent afficher et ajouter des photos.</string>
   <string name="screensaver_activate_mode">Diaporama d\'écran de veille</string>
@@ -399,7 +399,7 @@
   <string name="shadow">Ombres</string>
   <string name="share_album">Partager l\'album</string>
   <string name="share_album_owner">Propriétaire</string>
-  <string name="share_album_qr_code">QR code</string>
+  <string name="share_album_qr_code">Code QR</string>
   <string name="share_album_share_to">Partager à</string>
   <string name="share_album_space_full">Cet album partagé est plein. Veuillez supprimer certaines images non désirées.</string>
   <string name="share_by_email_start">Tentative de partage de %1$s en arrière-plan</string>
