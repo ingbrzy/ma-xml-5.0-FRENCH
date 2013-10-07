@@ -543,7 +543,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="wifi_unspecified">(non spécifié)</string>
   <string name="wifi_remembered">Enregistré.</string>
   <string name="wifi_disabled_generic">Désactivé</string>
-  <string name="wifi_failed_to_obtain_IP">Échec d'obtention d'adresse IP</string>
+  <string name="wifi_failed_to_obtain_IP">"Échec d'obtention d'adresse IP"</string>
   <string name="wifi_disabled_network_failure">Mauvaise connexion Internet évitée</string>
   <string name="wifi_disabled_help">"Réseau évité en raison d'une mauvaise connexion. Désactivez ce paramètre en sélectionnant Paramètres &gt; Écran Wi-Fi &gt; Eléments du menu Avancé"</string>
   <string name="wifi_disabled_password_failure">"Problème d'authentification."</string>
