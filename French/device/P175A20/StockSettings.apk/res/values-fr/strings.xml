@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Autres paramètres</string>
+    <string name="engineercode_settings">EngineerCode</string>
+    <string name="engineermode_settings">EngineerMode</string>
+    <string name="schedulepoweronoff_settings">Planification de mise en marche/arrêt</string>
+</resources>
