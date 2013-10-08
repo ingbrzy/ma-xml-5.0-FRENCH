@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="batteryWarning_label">Alertes batterie</string>
+  <string name="title_charger_over_voltage">Surtension du chargeur</string>
+  <string name="title_battery_under_temperature">Sous tension du chargeur</string>
+  <string name="title_battery_over_temperature">Surchauffe de la batterie</string>
+  <string name="title_over_current_protection">Protection contre les surintensités</string>
+  <string name="title_battery_over_voltage">Surtension de la batterie</string>
+  <string name="title_safety_timer_timeout">Durée de charge trop longue</string>
+  <string name="msg_charger_over_voltage">La tension du chargeur est trop élevée, veuillez le débrancher!</string>
+  <string name="msg_battery_over_temperature">Votre batterie surchauffe, veuillez la retirer!</string>
+  <string name="msg_battery_under_temperature">Votre batterie est en dessous de la temp. min., veuillez retirer le chargeur !</string>
+  <string name="msg_over_current_protection">"Votre batterie n'est plus protégée contre les surtentions, veuillez la retirer!"</string>
+  <string name="msg_battery_over_voltage">Surtension de la batterie, veuillez la retirer!</string>
+  <string name="msg_safety_timer_timeout">La durée de charge est trop longue, veuillez débrancher le chargeur!</string>
+  <string name="btn_ok_msg">Répéter</string>
+  <string name="btn_cancel_msg">Désactiver</string>
+</resources>

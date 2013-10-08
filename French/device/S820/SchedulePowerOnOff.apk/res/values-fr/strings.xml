@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="schedule_power_on_off_settings_title">Planification de mise en marche/arrêt</string>
+  <string name="schedule_power_on_off_time">Heure</string>
+  <string name="schedule_power_on_off_repeat">Répéter</string>
+  <string name="schedule_power_on_off_set">Planifier la mise en marche/arrêt</string>
+  <string name="schedule_power_on_set">Planifier la mise en marche</string>
+  <string name="schedule_power_off_set">"Planifier l'arrêt"</string>
+  <string name="enable_schpwr">Activer</string>
+  <string name="disable_schpwr">Désactiver</string>
+  <string name="day">1 jour</string>
+  <string name="days">%s jours</string>
+  <string name="hour">1 heure</string>
+  <string name="hours">%s heures</string>
+  <string name="minute">1 minute</string>
+  <string name="minutes">%s minutes</string>
+  <string name="every_day">Tous les jours</string>
+  <string name="never">Jamais</string>
+  <string name="day_concat">", "</string>
+  <string name="done">OK</string>
+  <string name="revert">Annuler</string>
+  <string name="schpwr_shutdown_message">"Votre téléphone va s'éteindre dans %s secondes"</string>
+  <string name="schpwr_shutdown_message_second">"Votre téléphone va s'éteindre dans%s seconde"</string>
+</resources>
