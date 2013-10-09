@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account_abnormal_state">Erreur d\'informations du compte, veuillez réessayer.</string>
   <string name="all_resources">Tout</string>
@@ -115,7 +115,7 @@
   <string name="resource_title">Détail des ressources</string>
   <string name="resource_title_select_ringtone">Sélectionner la sonnerie</string>
   <string name="resource_update">MàJ</string>
-  <string name="resource_waiting_download">En attente de téléchargement...</string>
+  <string name="resource_waiting_download">En attente...</string>
   <string name="restore_default_theme_alert">Vous êtes peut-être victime d\'une contrefaçon de thème, veuillez parcourir le market pour l\'acheter ou le re-télécharger.</string>
   <string name="sdcard_status_changed_dialog_message">"L'application va se fermer, veuillez la rouvrir pour actualiser les ressources."</string>
   <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
