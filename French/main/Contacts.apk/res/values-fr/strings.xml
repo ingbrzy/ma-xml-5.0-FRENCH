@@ -349,7 +349,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
   <string name="export_to_sim_title">Export vers la carte SIM...</string>
-  <string name="export_vcard_description">Exporter la carte de visite sur la carte SD</string>
+  <string name="export_vcard_description">Exporter au format vCard (carte de visite) vers la carte SD</string>
   <string name="exporting_contact_failed_message">"Échec de l'exportation des données des contacts. (Raison : %s)"</string>
   <string name="exporting_contact_failed_title">"Échec de l'exportation des données des contacts"</string>
   <string name="exporting_contact_list_message">Exportation des données des contacts vers "%s"</string>

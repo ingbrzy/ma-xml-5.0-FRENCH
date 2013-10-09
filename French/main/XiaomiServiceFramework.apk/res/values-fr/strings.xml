@@ -23,7 +23,7 @@
   <string name="bankcall_bank_account">Carte bancaire :</string>
   <string name="bankcall_call_hint">"Vous allez recevoir une demande de règlement d'Union (020-96585). Veuillez suivre les instructions pour compléter la transaction."</string>
   <string name="bankcall_card">Carte bancaire</string>
-  <string name="bankcall_card_hint">Veuillez entrer votre numéro de compte bancaire</string>
+  <string name="bankcall_card_hint">Entrez votre numéro de carte</string>
   <string name="bankcall_card_type">%1$s-%2$s</string>
   <string name="bankcall_card_type_tailnum">%1$s-%2$s (Carte # %3$s)</string>
   <string name="bankcall_city">Ville</string>
@@ -151,19 +151,19 @@ Veuillez réessayer après cinq minutes"</string>
   <string name="giftcard_denom_available">MiCredit(s) disponibles</string>
   <string name="giftcard_denom_frozen">MiCredit(s) gelés</string>
   <string name="giftcard_empty">Pas de carte-cadeau</string>
-  <string name="giftcard_expire">%1$s-%2$s-%3$s expiré</string>
+  <string name="giftcard_expire">Expire le %3$s-%2$s-%1$s </string>
   <string name="giftcard_hint">"MiCredits en carte-cadeau dépensés en premier
 et ne peuvent être utilisés si expirés"</string>
   <string name="giftcard_record">MiCredit reçus</string>
-  <string name="giftcard_value">(%1$s MiCredit carte-cadeau)</string>
+  <string name="giftcard_value">" (%1$s MiCredit carte-cadeau)"</string>
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Saisissez le mot de passe</string>
   <string name="int_phone_user_notice">Lors de l\'enregistrement d\'un numéro hors de Chine veuillez entrer votre code de pays, par exemple +33xxxxxxxxx</string>
   <string name="internet_comm">Services de messagerie</string>
   <string name="internet_message">Messagerie MiCloud</string>
-  <string name="label_order_name">Nom du produit : </string>
-  <string name="label_order_price">Quantité : </string>
+  <string name="label_order_name">"Nom du produit : "</string>
+  <string name="label_order_price">"Quantité : "</string>
   <string name="login">Se connecter</string>
   <string name="login_failed">Échec de la connexion</string>
   <string name="login_instead_reg">Connexion avec ce numéro de téléphone</string>

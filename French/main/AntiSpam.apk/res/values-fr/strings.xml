@@ -90,12 +90,12 @@
   <string name="st_bl_setting_group">Paramètres de la liste noire</string>
   <string name="st_block_all">Bloquer les appels et messages</string>
   <string name="st_block_mute">Bloquer les appels et couper le son des messages</string>
-  <string name="st_block_private_call_button">Bloquer le numéro privé entrant</string>
+  <string name="st_block_private_call_button">Bloquer les numéros privés entrants</string>
   <string name="st_block_setting_group">Paramètres de la liste de blocage</string>
   <string name="st_block_setting_title">Appels et messages</string>
   <string name="st_block_title">Bloquer et enregistrer</string>
-  <string name="st_block_unknown_call">Bloquer tous les appels inconnus</string>
-  <string name="st_block_unknown_sms">Bloquer tous les messages inconnus</string>
+  <string name="st_block_unknown_call">Bloquer les appels inconnus</string>
+  <string name="st_block_unknown_sms">Bloquer les messages inconnus</string>
   <string name="st_call_group">Appeler</string>
   <string name="st_common_setting_group">Aperçu rapide</string>
   <string name="st_filter_keywords_setting_summary1">Les messages des numéros inconnus contenant les mots suivants seront bloqués.</string>

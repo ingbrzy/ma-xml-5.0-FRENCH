@@ -86,8 +86,8 @@
   <string name="auto_ip_support_local_numbers">Support des numéros locaux</string>
   <string name="auto_record_call_summary_miui">Les Appels automatiques enregistrées sont stockées dans  MIUI\\sound_recorder\\call_rec sur la Carte SD</string>
   <string name="auto_record_call_title_miui">Enregistrer automatiquement</string>
-  <string name="auto_record_scenario_enteries_always_miui">Enregistrement automatique pour tous les numéros</string>
-  <string name="auto_record_scenario_enteries_whitelist_miui">Enregistrement automatique des numéros choisis</string>
+  <string name="auto_record_scenario_enteries_always_miui">Enregistrement auto. pour tous les numéros</string>
+  <string name="auto_record_scenario_enteries_whitelist_miui">Enregistrement auto. des numéros choisis</string>
   <string name="auto_record_scenario_title_miui">Mode d\'enregistrement automatique</string>
   <string name="auto_record_whitelist_miui">Configuration des numéros choisis</string>
   <string name="auto_record_whitelist_no_item_miui">Cliquez sur le bouton du bas pour ajouter des numéros d\'enregistrement automatique</string>

@@ -466,7 +466,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="breathing_light_color_summary">Couleur de la LED lors d\'une nouvelle notification</string>
   <string name="breathing_light_color_title">" : couleur de la LED"</string>
   <string name="breathing_light_freq_summary">Pause de la LED entre les flashs</string>
-  <string name="breathing_light_freq_title"> : fréq. de clignotement</string>
+  <string name="breathing_light_freq_title">" : fréq. de clignotement"</string>
   <string name="brightness">Luminosité</string>
   <string name="brightness_auto_adjust_off">La luminosité peut être ajustée à votre convenance en déplaçant le curseur. La luminosité de l\'écran restera inchangée dans n\'importe quel environnement.</string>
   <string name="brightness_auto_adjust_on">La luminosité automatique peut être réglée en déplaçant le curseur. La luminosité de l\'écran varie selon votre réglage et les environs.</string>
@@ -706,8 +706,8 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="device_admin_title">Gestion de l\'appareil</string>
   <string name="device_admin_warning">L\'activation de cet administrateur permettra à l\'application %1$s d\'effectuer les opérations suivantes :</string>
   <string name="device_cpu">CPU</string>
-  <string name="device_cpu2_info">Double cœur </string>
-  <string name="device_cpu4_info">Quadruple cœur </string>
+  <string name="device_cpu2_info">"Double cœur "</string>
+  <string name="device_cpu4_info">"Quadruple cœur "</string>
   <string name="device_edit_title">Changer le nom du périphérique</string>
   <string name="device_info_default">Inconnu</string>
   <string name="device_info_label">Informations sur l\'appareil</string>
@@ -1814,7 +1814,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="settings_safetylegal_title">Informations de sécurité</string>
   <string name="settings_shortcut">Raccourci vers les paramètres</string>
   <string name="show_all_anrs">Afficher FC d\'apps en arrière-plan</string>
-  <string name="show_all_anrs_summary">Afficher "L\'application ne répond plus" pour les applications en arrière-plan</string>
+  <string name="show_all_anrs_summary">Afficher \"L\'application ne répond plus\" pour les applications en arrière-plan</string>
   <string name="show_background_processes">Voir processus en cache</string>
   <string name="show_cpu_usage">Afficher mém. CPU utilisée</string>
   <string name="show_cpu_usage_summary">Superposition écran indiquant la mémoire CPU utilisée</string>
@@ -2054,7 +2054,7 @@ Faire confiance à cette application ?"</string>
   <string name="unlock_disable_lock_pin_summary">Supprimer le code PIN de déverrouillage</string>
   <string name="unlock_disable_lock_title">Désactiver le verrouillage de l\'écran</string>
   <string name="unlock_set_enter_system">Accès direct au système</string>
-  <string name="unlock_set_enter_system_summary">"Ne pas utiliser l'écran de verrouillage. Vous accéderez directement au système en allumant l\écran"</string>
+  <string name="unlock_set_enter_system_summary">"Ne pas utiliser l'écran de verrouillage. Vous accéderez directement au système en allumant l\'écran"</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Sécurité faible, expérimental</string>
   <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
   <string name="unlock_set_unlock_disabled_summary">Désactivé par l\'administrateur, les règles de chiffrement ou le stockage des identifiants</string>
@@ -2252,7 +2252,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="vpn_connect_to">Se connecter à %s</string>
   <string name="vpn_create">Ajouter un profil VPN</string>
   <string name="vpn_dns_servers">Serveurs DNS</string>
-  <string name="vpn_dns_servers_hint">ex: 8.8.8.8</string>
+  <string name="vpn_dns_servers_hint">ex : 8.8.8.8</string>
   <string name="vpn_edit">Modifier le profil VPN</string>
   <string name="vpn_ipsec_ca_cert">Certificat d\'autorité IPSec</string>
   <string name="vpn_ipsec_identifier">Identifiant IPSec</string>
@@ -2275,7 +2275,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="vpn_not_used">(non utilisé)</string>
   <string name="vpn_password">Mot de passe</string>
   <string name="vpn_routes">Itinéraires transfert</string>
-  <string name="vpn_routes_hint">ex: 10.0.0.0/8</string>
+  <string name="vpn_routes_hint">ex : 10.0.0.0/8</string>
   <string name="vpn_safe">Sécurité des connexions VPN</string>
   <string name="vpn_save">Enregistrer</string>
   <string name="vpn_save_login">Enregistrer les informations de compte</string>

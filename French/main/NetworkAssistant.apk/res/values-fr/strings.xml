@@ -137,7 +137,7 @@ Si ce n'est pas le cas vous pouvez le réajuster."</string>
   <string name="sync_traffic_fail_title">Échec de la synchronisation</string>
   <string name="sync_traffic_ing">Synchronisation auprès de l\'opérateur, veuillez patienter...</string>
   <string name="sync_traffic_no_cmd_detail">"Soumettez votre Pays, ville, indicatif (+33) et opérateur sur le forum suivant : http://www.miui.com/forum-172-1.html. Merci."</string>
-  <string name="sync_traffic_no_cmd_detail_custom_config">"Vous pouvez : 1. Paramètrer &gt;&gt; Ajuster les données relatives au trafic &gt;&gt; Personaliser les ajustements des paramètres ou ajuster le trafic sur la page principale &gt;&gt; Ajuster les paramètres personnalisés; 2. Soumettre votre ville, la marque de votre appareil et l'opérateur sur ce forum : http://www.miui.com/forum-172-1.html"</string>
+  <string name="sync_traffic_no_cmd_detail_custom_config">"Vous pouvez : 1. Paramètrer &gt;&gt; Ajuster les données relatives au trafic &gt;&gt; Personnaliser les ajustements des paramètres ou ajuster le trafic sur la page principale &gt;&gt; Ajuster les paramètres personnalisés; 2. Soumettre votre ville, la marque de votre appareil et l'opérateur sur ce forum : http://www.miui.com/forum-172-1.html"</string>
   <string name="sync_traffic_no_cmd_title">Aucun modèle de SMS</string>
   <string name="sync_traffic_success">"Les données de l'opérateur ont été synchronisées, le trafic a été ajusté avec succès"</string>
   <string name="text_day"></string>

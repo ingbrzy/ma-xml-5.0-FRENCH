@@ -194,7 +194,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="settings_show_statusBar_notification">"Afficher notifs de la barre d'état"</string> 
   <string name="settings_status_bar">"Barre d'état"</string>
   <string name="settings_toggle">Raccourcis</string>
-  <string name="settings_toggle_collapse_after_clicked">Réduire après un clic</string>
+  <string name="settings_toggle_collapse_after_clicked">Réduire après un appui</string>
   <string name="settings_toggle_layout_style">Style des commutateurs</string>
   <string name="settings_toggle_layout_style_applying">Modification du style des commutateurs...</string>
   <string name="settings_toggle_layout_style_compact">Compact</string>

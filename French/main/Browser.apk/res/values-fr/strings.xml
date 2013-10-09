@@ -444,7 +444,7 @@
   <string name="pref_privacy_enable_geolocation">Activer la localisation</string>
   <string name="pref_privacy_enable_geolocation_summary">Autoriser les sites à demander l\'accès à vos données de localisation</string>
   <string name="pref_privacy_formdata_title">Données de formulaire</string>
-  <string name="pref_privacy_location_title">Location</string>
+  <string name="pref_privacy_location_title">Localisation</string>
   <string name="pref_privacy_security_title">Confidentialité et sécurité</string>
   <string name="pref_reading_mode_enabled_title">Mode de lecture</string>
   <string name="pref_reading_mode_enabled_title_summary">JavaScript doit être activé</string>
