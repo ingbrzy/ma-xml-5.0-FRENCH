@@ -111,7 +111,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="android_beam_off_summary">Désactivé</string>
   <string name="android_beam_on_summary">Prêt à partager le contenu de l\'application via NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_witch_label">Activé Android Beam</string>
+  <string name="android_beam_tips">Assurez-vous que les deux appareils se touchent, puis sélectionnez le contenu que vous souhaitez transférer.</string>
+  <string name="android_beam_witch_label">Activer Android Beam</string>
   <string name="animator_duration_scale_title">Échelle durée animations</string>
   <string name="antispam_quiet_mode_title">Ne pas déranger</string>
   <string name="apn_apn">APN</string>
