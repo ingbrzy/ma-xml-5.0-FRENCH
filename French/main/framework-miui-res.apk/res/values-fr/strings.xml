@@ -289,7 +289,6 @@
   <string name="fools_day">Poisson d\'avril</string>
   <string name="force_exit_message">L\'application "%1$s" a été fermée</string>
   <string name="forget_password_string">MDP oublié ?</string>
-  <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="global_action_privacy_mode_dialog_message">En mode privé les appels, notes, photos et SMS sont cachés et le lanceur ne pourra pas passer en mode édition. Vous pouvez définir le mot de passe pour protéger le mode privé dans les paramètres de contrôle d’accès</string>
   <string name="global_action_toggle_privacy_mode">Mode privé</string>
   <string name="grain_buds">Bourgeons de céréales</string>
