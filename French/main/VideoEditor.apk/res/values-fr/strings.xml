@@ -144,9 +144,4 @@
     <string name="edit">Modifier</string>
     <string name="remove">Supprimer</string>
     <string name="untitled">Sans nom</string>
-    <string name="hours_and_minutes">%d h %d min</string>
-    <string name="hour_and_minutes">1 h %d min</string>
-    <string name="minutes">%d min</string>
-    <string name="minute_and_seconds">1 min %d s</string>
-    <string name="seconds">%d s</string>
 </resources>
