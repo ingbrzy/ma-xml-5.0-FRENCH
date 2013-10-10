@@ -8,12 +8,10 @@
   <string name="resolution_list_title">Résolution souhaitée</string>
   <string name="resolution_list_summary">Sélectionnez la résolution</string>
   <string name="resolution_dialog_title">Choisissez la résolution</string>
-  <string name="resolution_list_options_default_values">0</string>
   <string name="wfd_bitrate_settings">Paramètres de bitrate</string>
   <string name="bitrate_list_title">Bitrate désiré</string>
   <string name="bitrate_list_summary">Sélectionnez le bitrate</string>
   <string name="bitrate_dialog_title">Choisir le bitrate</string>
-  <string name="bitrate_list_options_default_values">12</string>
   <string name="btn_source">Source</string>
   <string name="btn_sink">Baisser</string>
   <string name="btn_find">Rechercher</string>
