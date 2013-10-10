@@ -1682,7 +1682,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="screen_key_long_press_action">Action de l\'appui long</string>
   <string name="screen_key_long_press_timeout">Délai de l\'appui long</string>
   <string name="screen_never_timeout_title">Toujours allumé</string>
-  <string name="screen_on_proximity_sensor_summary">Désactive les fonctions d\'appel si l\'appareil est dans la poche (via le détecteur de proximité).</string>
+  <string name="screen_on_proximity_sensor_summary">Désactive les fonctions d\'appel si l\'appareil est dans la poche (via le capteur de proximité).</string>
   <string name="screen_on_proximity_sensor_title">Éviter les erreurs de manipulation</string>
   <string name="screen_saturation">Saturation des couleurs</string>
   <string name="screen_saturation_adjust">Saturation</string>

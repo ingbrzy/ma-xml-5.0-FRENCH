@@ -413,9 +413,9 @@ Réessayer dans %d secondes."</string>
   <string name="safetylegal_activity_unreachable">Votre téléphone n\'est pas connecté à un service de données. Pour afficher ces informations maintenant, allez à %s de n\'importe quel ordinateur connecté à Internet.</string>
   <string name="screen_button_notification_text">"Appuyez sur les touches Accueil + Marche/Arrêt pour activer"</string>
   <string name="screen_button_notification_title">Les boutons de l\'écran sont désactivés</string>
-  <string name="screen_on_proximity_sensor_hint">"Astuce : Appuyez longuement sur le bouton Marche/Arrêt pour quitter le mode mauvaise utilisation. Voir Paramètres &gt; Paramètres d'affichage pour désactiver"</string>
-  <string name="screen_on_proximity_sensor_summary">"Mode mauvaise utilisation activé. Les fonctions de téléphonie sont actuellement désactivées !"</string>
-  <string name="screen_on_proximity_sensor_title">Empêcher toute erreur de manipulation du téléphone</string>
+  <string name="screen_on_proximity_sensor_hint">"Astuce : Appuyez longuement sur le bouton Marche/Arrêt pour quitter le mode \"mauvaise utilisation\". Voir Paramètres &gt; Affichage pour désactiver"</string>
+  <string name="screen_on_proximity_sensor_summary">"Pour empêcher toute erreur de manipulation, le téléphone est désactivé !"</string>
+  <string name="screen_on_proximity_sensor_title">"Capteur de proximité obstrué !</string>
   <string name="sd_not_available">Carte SD non montée ou indisponible</string>
   <string name="sd_not_available_low_internal_storage">Carte SD non montée ou indisponible, espace disque faible sur le stockage interne</string>
   <string name="sd_not_available_saved_to_internal_storage">Enregistré dans la mémoire interne</string>
