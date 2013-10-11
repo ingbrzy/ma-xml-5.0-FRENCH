@@ -216,7 +216,7 @@
   <string name="general_set_default_browser_dialog_close_txt">Fermer</string>
   <string name="general_set_default_browser_dialog_ok_txt">OK</string>
   <string name="general_set_default_browser_dialog_summary">Utilisez les applications intégrées à MIUI pour de meilleures performances</string>
-  <string name="general_set_default_browser_title">Définir comme navigateur par défaut/string>
+  <string name="general_set_default_browser_title">Définir comme navigateur par défaut</string>
   <string name="geolocation_permissions_prompt_dont_share">Refuser</string>
   <string name="geolocation_permissions_prompt_message" formatted="false">%s souhaite connaître votre position géographique.</string>
   <string name="geolocation_permissions_prompt_remember">Mémoriser les préférences</string>
