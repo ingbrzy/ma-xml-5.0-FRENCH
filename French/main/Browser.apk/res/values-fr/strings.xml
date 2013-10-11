@@ -90,6 +90,9 @@
   <string name="bookmarks_management">Favoris</string>
   <string name="bookmarks_root_folder">Dossier racine</string>
   <string name="bookmarks_search">Navigateur</string>
+  <string name="bottom_bar_tabs_long_click_down_tip_txt">Glisser vers le bas pour fermer</string>
+  <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Dernier onglet</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Glisser vers le haut pour fermer</string>
   <string name="browserFrameFileErrorLabel">Problème de fichier</string>
   <string name="browserFrameFormResubmitMessage">"La page que vous tentez d'afficher contient des données qui ont déjà été envoyées ("POSTDATA"). Si vous les renvoyez, toute action effectuée par le formulaire sur la page exécutée (telle que les recherches ou les achats en ligne) sera répétée."</string>
   <string name="browserFrameNetworkErrorLabel">Problème de connexion</string>
@@ -102,6 +105,7 @@
   <string name="clear">Effacer</string>
   <string name="clear_history">Effacer l\'historique</string>
   <string name="clear_history_group">Effacer l\'historique de %s</string>
+  <string name="clear_search_history">Effacer l\'historique</string>
   <string name="clip_dialog_title">Ouvrir le lien copié ?</string>
   <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous les onglets ?</string>
   <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
@@ -209,6 +213,10 @@
   <string name="folder_name">Nom du dossier</string>
   <string name="folder_name_too_long">Le nom de dossier est trop long</string>
   <string name="forward">Suivant</string>
+  <string name="general_set_default_browser_dialog_close_txt">Fermer</string>
+  <string name="general_set_default_browser_dialog_ok_txt">OK</string>
+  <string name="general_set_default_browser_dialog_summary">Utilisez les applications intégrées à MIUI pour de meilleures performances</string>
+  <string name="general_set_default_browser_title">Définir comme navigateur par défaut/string>
   <string name="geolocation_permissions_prompt_dont_share">Refuser</string>
   <string name="geolocation_permissions_prompt_message" formatted="false">%s souhaite connaître votre position géographique.</string>
   <string name="geolocation_permissions_prompt_remember">Mémoriser les préférences</string>

@@ -48,6 +48,8 @@
   <string formatted="false" name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>
   <string name="pause">Pause</string> 
   <string name="play_record">Lecture</string>
+  <string name="preference_enable_earpiece_summary">Utiliser le récepteur pour la lecture externe</string>
+  <string name="preference_enable_earpiece_title">Utiliser le récepteur pour la lecture audio</string>  
   <string name="preference_led_indicator">Enregistrement sous écran de verr.</string>
   <string name="preference_led_indicator_prompt">Lors d\'un enregistrement sous écran de verrouillage l\'indiquer via la LED et la barre d\'état</string>
   <string name="preference_record_scenes_dialog_title">"Sélectionner une scène d'enregistrement"</string>

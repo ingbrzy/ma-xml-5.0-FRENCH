@@ -52,12 +52,15 @@
   <string name="create_equalzier_create_text_prompt">Nom de l\'effet de l\'égaliseur</string>
   <string name="create_playlist_create_text_prompt">Nom de la liste de lecture</string>
   <string name="custom">Personnalisé</string>
-  <string name="default_interval">30</string>
   <string name="delete_file_from_sdcard">Supprimer tous les fichiers de la carte SD</string>
   <string name="delete_item">Supprimer</string>
   <string name="delete_playlist_menu">Supprimer</string>
   <string name="delete_song_desc">Cela supprimera définitivement %s de votre carte SD.</string>
   <string name="deselect_all">Rejeter tout</string>
+  <string name="dirac_mode_earbuds">Écouteurs Xiaomi</string>
+  <string name="dirac_mode_in_ear">Écouteurs intra-auriculaires Xiaomi</string>
+  <string name="dirac_mode_off">Dirac désactivé</string>
+  <string name="dirac_mode_piston_100">Écouteurs Piston Xiaomi</string>
   <string name="download">Télécharger</string>
   <string name="download_album_settings">Téléchargement de pochette auto</string>
   <string name="download_album_summary">Peut coûter plus cher via le réseau mobile, privilégiez une connexion Wi-Fi</string>
@@ -75,6 +78,26 @@
   <string name="empty_track_list">Aucune liste de pistes</string>
   <string name="emptyplaylist">La playlist sélectionnée est vide.</string>
   <string name="enter_sleep_mode">Minuteur de mise en veille</string>
+  <string name="eq_auto">Personnalisé</string>
+  <string name="eq_blues">Blues</string>
+  <string name="eq_classical">Classique</string>
+  <string name="eq_country">Country</string>
+  <string name="eq_dance">Dance</string>
+  <string name="eq_delete">Supprimer</string>
+  <string name="eq_delete_success">Effectué.</string>
+  <string name="eq_electronic">Electronique</string>
+  <string name="eq_flat">Flat</string>
+  <string name="eq_hiphop">Hip Hop</string>
+  <string name="eq_jazz">Jazz</string>
+  <string name="eq_metal">Métal</string>
+  <string name="eq_pop">Pop</string>
+  <string name="eq_preset_create">Créer</string>
+  <string name="eq_preset_format">Préréglage utilisateur %d</string>
+  <string name="eq_preset_hint">Veuillez entrer le nom du préréglage</string>
+  <string name="eq_preset_rename">Renommer</string>
+  <string name="eq_preset_select">Choisir un préréglage</string>
+  <string name="eq_rb">R &amp; B</string>
+  <string name="eq_rock">Rock</string>
   <string name="equalizer">Égaliseur</string>
   <string name="equalizer_delete">Supprimer</string>
   <string name="equalizer_delete_success">Profil égaliseur supprimé avec succès</string>
@@ -101,6 +124,7 @@
   <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">Dossiers </string>
   <string name="frequentlyplayed_title">Joué fréquemment</string>
+  <string name="headphone_settings">Paramètres de type de casque</string>
   <string name="hot_artists">Artistes populaires</string>
   <string name="id3_edit">Modifier les informations ID3</string>
   <string name="id3_edit_failed">Impossible de modifier les informations ID3</string>
@@ -136,9 +160,11 @@
   <string name="lyric_download">Télécharger les paroles</string>
   <string name="lyric_open_other_connect">Télécharger les paroles à l\'aide de la connexion Internet mobile</string>
   <string name="lyric_picker_not_found">Le gestionnaire de fichier est introuvable sur le périphérique</string>
-  <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Musique</string>
-  <string name="min_interval">1</string>
+  <string name="mi_effect">MI Effets</string>
+  <!-- si vous trouvez mieux que "améliorateur" pour Enchancer... -->
+  <string name="mi_effect_summary">"Toujours utiliser l'amélirorateur MiSound quand utilisation d'enceintes"</string>
+  <string name="mi_effect_title">"Utiliser l'amélirorateur MiSound"</string>
   <string name="mobile_connect_settings">Réseau mobile</string>
   <string name="modify_id3_for_list">La liste actuelle des informations des musiques ID3 sera modifiée</string>
   <string name="modify_id3_for_selected">Les informations des musiques ID3 seront modifiées</string>
@@ -148,6 +174,7 @@
   <string name="music_browser_label">Musique</string>
   <string name="music_filter">Filtrer les fichiers</string>
   <string name="music_filter_helper">Afin de cacher les fichiers non liés à la musique, un filtre a été appliqué pour ignorer les fichiers de moins de 800K. Pour régler ce seuil allez dans paramètres &gt; filtrer les fichiers</string>
+  <string name="music_not_loaded">Aucun fichier audio trouvé !</string>
   <string name="music_open_other_connect">Télécharger de la musique avec la connexion de données mobiles</string>
   <string name="music_picker_title">Sélectionner un titre</string>
   <string name="music_settings">Paramètres</string>

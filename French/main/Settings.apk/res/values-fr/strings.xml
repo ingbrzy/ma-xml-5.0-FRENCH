@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_settings">À propos du téléphone</string>
   <string name="about_settings_summary">Informations légales, état et version du logiciel</string>
@@ -463,6 +463,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_visibility">Identifiable</string>
   <string name="bluetooth_visibility_timeout">Durée de visibilité</string>
   <string name="bluetooth_visibility_timeout_summary">Définir la durée de visibilité du périphérique</string>
+  <string name="breathing_light_color_menu_title">Couleur de la LED</string>
   <string name="breathing_light_color_summary">Couleur de la LED lors d\'une nouvelle notification</string>
   <string name="breathing_light_color_title">" : couleur de la LED"</string>
   <string name="breathing_light_freq_summary">Pause de la LED entre les flashs</string>
@@ -1009,12 +1010,8 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="input_method">Mode de saisie</string>
   <string name="input_method_selector">Sélection du mode de saisie</string>
   <string name="input_method_selector_always_hide_title">Toujours masquer</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Toujours afficher</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Automatique</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Paramètres</string>
   <string name="input_method_settings_button">Paramètres</string>
   <string name="input_methods_and_subtype_enabler_title">Sélectionner modes de saisie actifs</string>

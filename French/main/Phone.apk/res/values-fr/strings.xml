@@ -91,7 +91,6 @@
   <string name="auto_record_scenario_title_miui">Mode d\'enregistrement automatique</string>
   <string name="auto_record_whitelist_miui">Configuration des numéros choisis</string>
   <string name="auto_record_whitelist_no_item_miui">Cliquez sur le bouton du bas pour ajouter des numéros d\'enregistrement automatique</string>
-  <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d numéros</string>
   <string name="auto_redial_pref_summary_miui">Recomposer automatiquement si la ligne est occupée</string>
   <string name="auto_redial_pref_title_miui">Recomposition automatique</string>

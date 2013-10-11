@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Autres paramètres</string>
+    <string name="htc_internet_pt_title">Internet via USB</string>
+    <string name="htc_internet_pt_summary">Connectez-vous à Internet via un PC. Veuillez brancher le câble USB.</string>
+    <string name="PSFail">"Impossible de se connecter à l'ordinateur"</string>
+    <string name="PSPass">Internet via USB connecté</string>
+    <string name="PSMsg">"Si vous ne parvenez pas à vous connecter à internet via USB, assurez-vous que le pare-feu de votre ordinateur permette ce type de connexion. Internet via USB prend en charge uniquement les connexions TCP si votre PC se connecte à Internet via PPP (par exemple dial up, xDSL, ou VPN)."</string>
+    <string name="PSTitle">Internet via USB</string>
+    <string name="PSButton">OK</string>
+    <string name="do_not_show_psmsg">Ne pas afficher la prochaine fois</string>
+    <string name="htc_gestures_title">Gestes Htc</string>
+    <string name="htc_gestures_summary">Activer les gestes à 3 doigts et ignorer ceux avec plus de doigts</string>
+    <string name="htc_fastboot_title">Démarrage rapide</string>
+    <string name="htc_fastboot_summary">Non recommandé avec certaines applications du Play store</string>
+</resources>

@@ -55,6 +55,9 @@
   <string name="file_not_found_error_message">Les fichiers demandés sont introuvables sur le serveur</string>
   <string name="finish">Terminer</string>
   <string name="finish_download">Téléchargement terminé</string>
+  <string name="fourgrid_hint_text">Merci d'utiliser la version développeur de MIUI. Vous pouvez nous dire ce que vous en pensez afin de nous aider à faire une meilleure rom MIUI !</string>
+  <string name="fourgrid_no_notificaiont">"Ne pas afficher dans la barre d'état"</string>
+  <string name="fourgrid_notificaiont">"Afficher dans la barre d'état"</string>
   <string name="get_update_error">Impossible d\'obtenir des informations sur la mise à jour</string>
   <string name="install_email">Installez un logiciel de courrier électronique</string>
   <string name="install_file_explorer">Installer un explorateur de fichiers</string>

@@ -255,10 +255,6 @@
   <string name="phrase_list_title" formatted="false">Phrases (%1$d)</string>
   <string name="pick_too_many_recipients">Trop de destinataires</string>
   <string name="play">Lire</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
-  <string name="prefDefault_vibrateWhen">never</string>
-  <string name="prefDefault_vibrate_false">never</string>
-  <string name="prefDefault_vibrate_true">always</string>
   <string name="pref_advanced_settings_title">Paramètres avancés</string>
   <string name="pref_edit_smsc_address">Numéro du centre SMS</string>
   <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>

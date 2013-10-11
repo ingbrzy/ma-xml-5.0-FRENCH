@@ -61,6 +61,7 @@
   <string name="menu_add_list">Ajouter liste</string>
   <string name="menu_delete">Supprimer</string>
   <string name="menu_edit">Modifier</string>
+  <string name="menu_exit">Quitter</string>
   <string name="menu_new_station">Ajouter une nouvelle Station</string>
   <string name="menu_play">Lire</string>
   <string name="menu_record_list">Liste des enregistrements</string>
@@ -69,6 +70,8 @@
   <string name="menu_rename_list">Renommer la liste</string>
   <string name="menu_reorder_list">Réorganiser la liste</string>
   <string name="menu_save_station">Sauvegarder la station</string>
+  <string name="menu_save_station_list">Sauvegarder la station vers la liste</string>
+  <string name="menu_save_station_presets">Ajouter aux pré-sélections de stations</string>
   <string name="menu_scan_for_preset">Recherche pour pré-sélections</string>
   <string name="menu_scan_start">Analyser</string>
   <string name="menu_scan_stop">Arrêtez de chercher</string>
@@ -118,6 +121,7 @@
   <string name="spaceIsLow_content">Votre carte SD manque d\'espace. Adapter le choix de qualité ou supprimer certaines images ou autres fichiers.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
   <string name="stat_notif_tx_frequency">Émission FM à : %1$s</string>
+  <string name="station_check_favorite">Ajouter aux favoris</string>
   <string name="station_edit">Modifier</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="station_move">Déplacer</string>
@@ -130,6 +134,7 @@
   <string name="test_prompt">Choisir un Test</string>
   <string name="test_run">Exécutez le Test</string>
   <string name="title_select_station">Sélectionnez la Station - %s</string>
+  <string name="toast_added_to_list">Ajouté à la liste de stations</string>
   <string name="toast_added_to_presets">Ajouté aux présélections</string>
   <string name="toast_channel_searched">%1$d stations ont été scannées.</string>
   <string name="toast_delete_station">%s MHz a été supprimée.</string>
