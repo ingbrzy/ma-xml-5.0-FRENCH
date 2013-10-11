@@ -5,7 +5,7 @@
   <string name="active_xiaomi_account_msg">"Veuillez aller sur le forum MIUI pour activer le compte Xiaomi : "</string>
   <string name="active_xiaomi_account_title">Activer le compte Xiaomi</string>
   <string name="app_name">Mise à jour</string>
-  <string name="apply_buddy_update_info_message">Cliquez sur confirmer pour commencer le processus de mise à jour</string>
+  <string name="apply_buddy_update_info_message">Appuyez sur confirmer pour commencer le processus de mise à jour</string>
   <string name="apply_existing_update_md5error_title">La signature MD5 ne correspond pas</string>
   <string name="apply_later_button_text">Annuler</string>
   <string name="apply_now_button_text">Confirmer</string>

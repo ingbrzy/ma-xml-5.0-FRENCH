@@ -30,7 +30,7 @@
   <string name="album_share_subtitle_denying">Refus de l\'invitation de %1$s...</string>
   <string name="album_share_subtitle_invited">Partagé par %1$s, accepter ou ignorer ?</string>
   <string name="album_share_subtitle_normal">Partagé par %1$s</string>
-  <string name="album_share_subtitle_not_ready">Informations de l\'album non prêtes. Cliquez pour télécharger.</string>
+  <string name="album_share_subtitle_not_ready">Informations de l\'album non prêtes. Appuyez pour télécharger.</string>
   <string name="album_share_subtitle_quitting">Fermeture de l\'invitation de %1$s...</string>
   <string name="album_share_subtitle_requesting">Téléchargement les informations de l\'album...</string>
   <string name="album_share_title_new_album">Nouvel album partagé</string>

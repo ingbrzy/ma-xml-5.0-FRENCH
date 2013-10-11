@@ -162,7 +162,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="notifications_off_title">Notifications désactivées</string>
   <string name="recent_apps_key">Touche des applications récentes</string>
   <string name="recent_apps_key_show">Afficher la touche des applications récentes</string>
-  <string name="return_to_incall_screen">Cliquez pour revenir à l\'appel</string>
+  <string name="return_to_incall_screen">Appuyez pour revenir à l\'appel</string>
   <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
   <string name="screen_button_disabled_message">Les touches du bas de l\'écran sont désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
   <string name="screen_button_enabled_message">Les touches du bas de l\'écran sont activées</string>
@@ -220,7 +220,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
   <string name="status_bar_recent_remove_item_title">Supprimer de la liste</string>
   <string name="status_bar_recording_back">Appuyez pour retourner au dictaphone</string>
-  <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause. "</string>
+  <string name="status_bar_recording_pause">"L\'enregistrement a été mis en pause."</string>
   <string name="status_bar_settings_airplane">Mode Avion</string>
   <string name="status_bar_settings_auto_brightness_label">Auto</string>
   <string name="status_bar_settings_auto_rotation">"Rotation automatique de l\'écran"</string>

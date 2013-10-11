@@ -141,7 +141,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="clearFrequentsProgress_title">Suppression des contacts fréquents</string>
   <string name="clear_default">Effacer par défaut</string>
   <string name="clear_digits">effacer le numéro de téléphone</string>
-  <string name="click_close">Cliquez pour fermer</string>
+  <string name="click_close">Appuyez pour fermer</string>
   <string name="close_dial_pad">fermer le pavé de numérotation</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_title">Anti-Spam Cloud</string>

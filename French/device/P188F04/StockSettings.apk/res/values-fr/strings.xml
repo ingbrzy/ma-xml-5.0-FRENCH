@@ -15,5 +15,5 @@
     <string name="mipop">MIPop</string>
     <string name="flash_recovery">Flash Recovery</string>
     <string name="toolbox">ToolBox</string>
-    <string name="recovery_instruction">"Renommez l'image de restauration en recovery.img et mettez-la sur la carte SD externe, ensuite vous pouvez flasher l'image en cliquant dessus"</string>
+    <string name="recovery_instruction">"Renommez l'image de restauration en recovery.img et mettez-la sur la carte SD externe, ensuite vous pouvez flasher l'image en appuyant dessus"</string>
 </resources>

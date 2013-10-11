@@ -1763,7 +1763,7 @@ pour le compte %s"</string>
     <string name="launchBrowserDefault">Lancer le navigateur ?</string>
     <string name="SetupCallDefault">Appeler ?</string>
     <string name="notification_display_mode_title">HDMI connecté</string>
-    <string name="notification_display_mode_content">"Cliquez sur le bouton droit de changer le mode d'affichage"</string>
+    <string name="notification_display_mode_content">"Appuyez sur le bouton droit de changer le mode d'affichage"</string>
     <string name="clipboard_copied_to_clipboard">Copié dans le Presse-papiers</string>
     <string name="clipboard_no_valid_data">pas de données valides</string>
     <string name="clipboard_option_title">Optionvs Presse-papiers</string>

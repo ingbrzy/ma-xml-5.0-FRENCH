@@ -48,7 +48,7 @@
   <string name="cit_charger_waiting_out">Débrancher le chargeur</string>
   <string name="cit_display_check_summary">Le test affichera une image, ajoutez un fichier .bmp à la racine de la carte SD</string>
   <string name="cit_display_check_title">Test de l\'écran</string>
-  <string name="cit_display_continue">Cliquez sur l\'écran pour commencer le test</string>
+  <string name="cit_display_continue">Appuyez sur l\'écran pour commencer le test</string>
   <string name="cit_exit_test_summary">Fermer les tests fera perdre toutes les données, êtes-vous sûr de vouloir continuer ?</string>
   <string name="cit_exit_test_title">Arrêter le test</string>
   <string name="cit_fail">Échoué</string>
@@ -117,7 +117,7 @@
   <string name="cit_light_sensor_check_title">Test du capteur de lumière</string>
   <string name="cit_magnetic_sensor_check_summary">Ci-dessous les valeurs d\'orientation X, Y et Z du capteur magnétique</string>
   <string name="cit_magnetic_sensor_check_title">Test du capteur magnétique</string>
-  <string name="cit_main_camera_check_summary">Test de la liste de contrôle: \n\n 1. Cliquez sur le bouton de l\'appareil photo pour ouvrir l\'appareil photo\n 2. Vérifier que le flash est activé\n 3. Cliquez sur la liste des photos\n 4. Cliquez sur le bouton OK, cela va automatiquement enregistrer l\'image\n 5. Vérifier que la photo s\'affiche correctement, et supprimez-la</string>
+  <string name="cit_main_camera_check_summary">Test de la liste de contrôle: \n\n 1. Appuyez sur le bouton de l\'appareil photo pour ouvrir l\'appareil photo\n 2. Vérifier que le flash est activé\n 3. Appuyez sur la liste des photos\n 4. Appuyez sur le bouton OK, cela va automatiquement enregistrer l\'image\n 5. Vérifier que la photo s\'affiche correctement, et supprimez-la</string>
   <string name="cit_main_camera_check_title">Test de la caméra (face arrière)</string>
   <string name="cit_name">Détection du matériel</string>
   <string name="cit_not_available">La version utilisateur ne permet pas ce test, seul le test d\'usine est disponible</string>

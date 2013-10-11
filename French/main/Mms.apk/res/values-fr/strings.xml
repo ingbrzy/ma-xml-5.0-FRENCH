@@ -148,8 +148,8 @@
   <string name="group_message">Message groupé</string>
   <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
   <string name="group_resend_message">Renvoyer (%d)</string>
-  <string name="guild_add_attachments">Cliquez ici pour ajouter des pièces jointes ou des émoticônes au message</string>
-  <string name="guild_add_recipients">Cliquez ici pour ajouter des destinataires du carnet d\'adresse</string>
+  <string name="guild_add_attachments">Appuyez ici pour ajouter des pièces jointes ou des émoticônes au message</string>
+  <string name="guild_add_recipients">Appuyez ici pour ajouter des destinataires du carnet d\'adresse</string>
   <string name="has_invalid_recipient">Destinataire(s) non valide(s) : &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Adresse d\'expéditeur masquée</string>
   <string name="hint_search_sms">%d SMS</string>

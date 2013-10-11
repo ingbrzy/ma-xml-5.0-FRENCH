@@ -169,7 +169,7 @@ et ne peuvent être utilisés si expirés"</string>
   <string name="login_instead_reg">Connexion avec ce numéro de téléphone</string>
   <string name="login_notice">Connexion...</string>
   <string name="memu_refresh">Rafraîchir</string>
-  <string name="mibi_license_message">Service MiCredit de Xiaomi. En cliquant sur OK, vous acceptez être en accord avec le %1$s.</string>
+  <string name="mibi_license_message">Service MiCredit de Xiaomi. En appuyant sur OK, vous acceptez être en accord avec le %1$s.</string>
   <string name="mibi_license_message_span">Contrat d\'utilisation de MiCredit</string>
   <string name="mibi_license_title">Contrat d\'utilisation de MiCredit</string>
   <string name="micloud_account">Compte Xiaomi</string>
@@ -189,8 +189,8 @@ et ne peuvent être utilisés si expirés"</string>
   <string name="micloud_activing_account_delayed">"Il faut probablement 30 secondes pour terminer l'activation. 
 Vous pouvez faire autre chose..."</string>
   <string name="micloud_activing_account_failed">Échec de l\'activation du compte</string>
-  <string name="micloud_click_email">Cliquez sur le lien dans mail pour activer votre compte Xiaomi</string>
-  <string name="micloud_click_email_to_valid">Cliquez sur le lien d\'activation dans le message envoyé à votre boîte de réception</string>
+  <string name="micloud_click_email">Suivez le lien dans mail pour activer votre compte Xiaomi</string>
+  <string name="micloud_click_email_to_valid">Suivez le lien d\'activation dans le message envoyé à votre boîte de réception</string>
   <string name="micloud_delete_account">Supprimer le compte</string>
   <string name="micloud_dspt">Les services de synchronisation incluent la messagerie MiCloud, la synchronisation mobile, la localisation de l\'appareil et d\'autres fonctionnalités. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
   <string name="micloud_email">Adresse mail</string>

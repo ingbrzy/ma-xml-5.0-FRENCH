@@ -56,7 +56,7 @@
   <string name="cloud_item_info_summary">" (Local %1$s | Cloud %2$s)"</string>
   <string name="cloud_last_backup">Dernière sauvegarde : </string>
   <string name="cloud_no_backup">Aucune sauvegarde dans le cloud</string>
-  <string name="cloud_restore_guide">Cliquez sur Démarrer la restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
+  <string name="cloud_restore_guide">Appuyez sur Démarrer la restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
   <string name="cloud_restore_title">Restaurer des données sauvegardées</string>
   <string name="cloud_restore_window_title">Cloud Recovery</string>
   <string name="cloud_search">Recherche Cloud...</string>
@@ -161,12 +161,12 @@
   <string name="task_canceled">Annulé</string>
   <string name="task_canceled_all_local">Annuler la tâche</string>
   <string name="task_canceled_local">La tâche %s a été annulée</string>
-  <string name="task_cloud_backup_cancel_dialog">La sauvegarde n\'est pas encore terminée\nCliquez sur OK pour annuler cette tâche</string>
+  <string name="task_cloud_backup_cancel_dialog">La sauvegarde n\'est pas encore terminée\nAppuyez sur OK pour annuler cette tâche</string>
   <string name="task_failed">Échoué</string>
   <string name="task_failed_all_local">Tâche échouée</string>
   <string name="task_failed_local">La tâche %s n\'a pas réussi à s\'achever</string>
   <string name="task_finished">Terminé</string>
-  <string name="task_local_backup_cancel_dialog">La sauvegarde n\'est pas encore terminée\nCliquez sur OK pour annuler cette tâche</string>
+  <string name="task_local_backup_cancel_dialog">La sauvegarde n\'est pas encore terminée\nAppuyez sur OK pour annuler cette tâche</string>
   <string name="task_pending">En attente</string>
   <string name="task_post_running">Post-traitement</string>
   <string name="task_pre_running">Préparation</string>

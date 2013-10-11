@@ -16,7 +16,7 @@
   <string name="continue_to_send">Poursuivre l\'envoi</string>
   <string name="device_default_name">Téléphone Xiaomi</string>
   <string name="device_name">Nom de l\'appareil</string>
-  <string name="device_name_tip">Cliquez sur À propos du téléphone, puis éditez le nom de l\'appareil.</string>
+  <string name="device_name_tip">Appuyez sur À propos du téléphone, puis éditez le nom de l\'appareil.</string>
   <string name="editmode_menu_delete">Supprimer</string>
   <string name="editmode_menu_share">Partager</string>
   <string name="error_bad_file">Fichier corrompu</string>

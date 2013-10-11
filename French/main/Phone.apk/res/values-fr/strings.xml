@@ -90,7 +90,7 @@
   <string name="auto_record_scenario_enteries_whitelist_miui">Enregistrement auto. des numéros choisis</string>
   <string name="auto_record_scenario_title_miui">Mode d\'enregistrement automatique</string>
   <string name="auto_record_whitelist_miui">Configuration des numéros choisis</string>
-  <string name="auto_record_whitelist_no_item_miui">Cliquez sur le bouton du bas pour ajouter des numéros d\'enregistrement automatique</string>
+  <string name="auto_record_whitelist_no_item_miui">Appuyez sur le bouton du bas pour ajouter des numéros d\'enregistrement automatique</string>
   <string name="auto_record_whitelist_summary_miui">%d numéros</string>
   <string name="auto_redial_pref_summary_miui">Recomposer automatiquement si la ligne est occupée</string>
   <string name="auto_redial_pref_title_miui">Recomposition automatique</string>
@@ -292,7 +292,7 @@
   <string name="current_areacode_sum_set_miui">Emplacement de l\'indicatif régional actuel : %s</string>
   <string name="cursorError">Erreur de curseur</string>
   <string name="custom_location_location_hint_miui">Nom</string>
-  <string name="custom_location_location_no_item_miui">"Cliquez sur "Ajouter" ci-dessous pour ajouter l'attribution personnalisée"</string>
+  <string name="custom_location_location_no_item_miui">"Appuyez sur "Ajouter" ci-dessous pour ajouter l'attribution personnalisée"</string>
   <string name="custom_location_number_hint_miui">Indicatif régional tel que 010, numéro de groupe tel que 68#####</string>
   <string name="cw_title_miui">Appel en attente</string>
   <string name="data_connected_change">"Impossible de changer de réseau pendant que le service de données est en cours d'utilisation. Arrêtez le service de données et sélectionner un autre réseau disponible ?"</string>

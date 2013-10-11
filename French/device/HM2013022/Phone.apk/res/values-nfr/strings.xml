@@ -123,7 +123,7 @@
   <string name="international_dialing_area_code">préfixe région</string>
   <string name="international_dialing_call_button">Appeler</string>
   <string name="international_dialing_change_country_prefix">"L'appareil a détecté que vous appelez depuis %s. Modifiez l'indicatif international en  '+' ?"</string>
-  <string name="international_dialing_click_below_button">Cliquez sur le bouton ci-dessous pour modifier l\'indicatif du pays.</string>
+  <string name="international_dialing_click_below_button">Appuyez sur le bouton ci-dessous pour modifier l\'indicatif du pays.</string>
   <string name="international_dialing_confirm_area_code">Si la ville de destination n\'est pas %s, veuillez saisir le préfixe de la région de la ville de destination ci-dessous.</string>
   <string name="international_dialing_dial_with_country_code">Composer avec indicatif pays</string>
   <string name="international_dialing_dialed_number">Numéro composé :</string>
