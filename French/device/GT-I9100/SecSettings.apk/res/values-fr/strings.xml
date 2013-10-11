@@ -1830,7 +1830,7 @@ Appuyez sur "<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.</
   <string name="immediately_destroy_activities_summary">"Arrêter chaque activité dès que l'utilisateur la quitte"</string>
   <string name="app_process_limit_title">Limite processus arrière-plan</string>
   <string name="show_all_anrs">Afficher FC d\'apps en arrière-plan</string>
-  <string name="show_all_anrs_summary">"Afficher "L'application ne répond plus" pour les applications en arrière-plan"</string>
+  <string name="show_all_anrs_summary">"Afficher "L\'application ne répond plus" pour les applications en arrière-plan"</string>
   <string name="data_usage_summary_title">Consommation des données</string>
   <string name="data_usage_cycle">"Cycle de consommation"</string>
   <string name="data_usage_menu_roaming">Autoriser itinérance</string>
