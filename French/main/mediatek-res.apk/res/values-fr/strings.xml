@@ -24,25 +24,11 @@
   <string name="invalidPuk">Entrer 8 chiffres.</string>
   <string name="sim_permanently_locked">Saisie du code PUK incorrect plus de 10 fois, la carte SIM est définitivement verrouillée.</string>
   <string name="pin_length_indicate">(4-8 chiffres)</string>
-  <string name="puk_length_indicate">(8 chiffres)<</string>
+  <string name="puk_length_indicate">(8 chiffres)</string>
   <string name="one_retry_left">1 tentative restante</string>
   <string name="retries_left">Restes :%d</string>
   <string name="invalid_imei">IMEI invalide</string>
   <string name="same_imei">Même IMEI</string>
-  <string name="oper_long_46000">CMCC</string>
-  <string name="oper_long_46001">CU</string>
-  <string name="oper_long_46601">Far EasTone</string>
-  <string name="oper_long_46692">Chunghwa Telecom</string>
-  <string name="oper_long_46697">Taiwan Mobile</string>
-  <string name="oper_long_99998">Android1</string>
-  <string name="oper_long_99999">Android</string>
-  <string name="oper_short_46000">CMCC</string>
-  <string name="oper_short_46001">CU-GSM</string>
-  <string name="oper_short_46601">FET</string>
-  <string name="oper_short_46692">Chunghwa</string>
-  <string name="oper_short_46697">TWN</string>
-  <string name="oper_short_99997">AD1</string>
-  <string name="oper_short_99999">AD</string>
   <string name="unable_launch_the_ap">Impossible de lancer l\'application</string>
   <string name="keyguard_password_enter_sim1_pin_code">Entrez le code PIN SIM 1</string>
   <string name="RestrictedChangedTitle_SIM1">SIM1 Accès restreint changé</string>
@@ -91,7 +77,6 @@
   <string name="VideoView_error_text_cannot_connect_to_server">Impossible de se connecter au serveur.</string>
   <string name="VideoView_error_text_type_not_supported">Type de fichier multimédia non pris en charge.</string>
   <string name="VideoView_error_text_drm_not_supported">Cette vidéo ne peuvent pas être lu car elle est protégée par DRM.</string>
-  <string name="config_mm_package_name">com.aspire.mm</string>
   <string name="wday_year_month_day" formatted="false">%s, %s %s %s</string>
   <string name="wday_year_day_month" formatted="false">%s, %s %s %s</string>
   <string name="wday_month_day_year" formatted="false">%s, %s %s, %s</string>
@@ -99,8 +84,6 @@
   <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>
   <string name="recip_unsupport_selection">Sorry, you can not move the caret to the start when there are recipients in RecipientsView.</string>
   <string name="drm_protectioninfo_title">Info protection DRM</string>
-  <string name="oper_long_46003">China Telecom</string>
-  <string name="oper_short_46003">China Telecom</string>
   <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
   <string name="invalid_card">Carte invalide</string>
   <string name="RejectCauseTitle">Cause de rejet du réseau</string>
@@ -165,10 +148,6 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="lockscreen_password_too_many_failed_attempts_dialog_message" formatted="false">"Vous avez entré un mot de passe incorrect %d fois. 
 
 Veuillez réessayer dans %d secondes."</string>
-  <string name="wap_browser_pakcage">com.myriad.android.kunbrowser</string>
-  <string name="wap_browser_component">com.myriad.android.kunbrowser.BrowserActivity</string>
-  <string name="wap_browser_keyword">s.139.com</string>
-  <string name="wap_browser_url_flag">search_url</string>
   <string name="criticallowtitle">Pas d\'espace</string>
   <string name="criticallowmessage">Mémoire du téléphone pleine, supprimez les fichiers inutiles, sinon les applications pourront se fermer de façon inattendue</string>
   <string name="nq_sms_filter_title">Filtre SMS</string>
@@ -217,7 +196,6 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="wap_push_setting_noti_text">Veuillez appuyer pour sélectionner</string>
   <string name="url_dialog_choice_title">Messages</string>
   <string name="url_dialog_choice_message">Ceci va ouvrir le navigateur, continuer ?</string>
-  <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
   <string name="deleteApp">Désinstaller des applications</string>
   <string name="deleteMail">Sauvegarde des mails et libérer l\'espace</string>
   <string name="storage_withsd">Le téléphone n\'a pas assez d\'espace de stockage. Veuillez en libérer ou changez le disque d\'écriture par défaut dans les paramètres.</string>
@@ -233,7 +211,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="wt_default_wallpaper_name">Image</string>
   <string name="cu_3gnet_name">沃3G连接互联网</string>
   <string name="cu_3gwap_name">沃3G手机上网</string>
-  <string name="keyguard_accessibility_alarm_unlock">\"Arrêter l\'alarme\"</string>
+  <string name="keyguard_accessibility_alarm_unlock">Arrêter l\'alarme</string>
   <string name="alarm_alert_dismiss_text">Rejeter</string>
   <string name="description_direction_right">Glisser vers la droite pour rejeter</string>
   <string name="alarm_alert_snooze_text">Répéter</string>
