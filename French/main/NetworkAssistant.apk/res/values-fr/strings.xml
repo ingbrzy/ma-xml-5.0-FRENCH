@@ -23,7 +23,7 @@
   <string name="app_detail_internet_background_traffic">"Premier plan : %1$s, Tâche de fond : %2$s"</string>
   <string name="app_detail_internet_control_category">Contrôle réseau</string>
   <string name="app_detail_title">Détails de l\'application</string>
-  <string name="app_detail_version">Version: %s</string>
+  <string name="app_detail_version">Version : %s</string>
   <string name="app_has_deleted">%s a été supprimé.</string>
   <string name="app_name">Moniteur</string>
   <string name="app_traffic_detail">Trafic (%s)</string>

@@ -74,7 +74,7 @@
   <string name="cannot_remove_creator">Impossible de supprimer le propriétaire</string>
   <string name="cannot_send_message">"Impossible d'envoyer le message"</string>
   <string name="cannot_send_message_reason">Votre message n\'a pas de destinataire valide</string>
-  <string name="cant_delete_cloud_album">Impossible de supprimer: %s est un album système ou est partagée par d\'autres personnes.</string>
+  <string name="cant_delete_cloud_album">Impossible de supprimer : %s est un album système ou est partagée par d\'autres personnes.</string>
   <string name="cant_delete_system_album">%s est un album système et ne peut être supprimé !</string>
   <string name="cleaning_cache">Nettoyage du cache...</string>
   <string name="clear_thumbnail_cache">Effacer le cache des miniatures</string>
@@ -262,7 +262,7 @@
   <string name="menu_item_sort_visit_asc">Par ordre ascendant de visualisation</string>
   <string name="menu_item_sort_visit_desc">Par ordre descendant de visualisation</string>
   <string name="menu_view_contact">Voir le contact</string>
-  <string name="message_no_delete_access">L\'accès est refusé. Impossible de supprimer le fichier ou le dossier: %s</string>
+  <string name="message_no_delete_access">L\'accès est refusé. Impossible de supprimer le fichier ou le dossier : %s</string>
   <string name="message_no_delete_access_with_count">Impossible de supprimer %d fichiers(s) ou dossier(s). Assurez-vous qu\'ils existent et que vous avez la permission.</string>
   <string name="messagelist_sender_self">Moi</string>
   <string name="miliao_folder_display_name">MiTalk</string>

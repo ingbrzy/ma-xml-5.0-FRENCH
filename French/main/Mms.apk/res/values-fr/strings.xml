@@ -73,7 +73,7 @@
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_browse_web">Parcourir</string>
   <string name="context_menu_call">Appeler</string>
-  <string name="context_menu_contact">Contact: %1$s</string>
+  <string name="context_menu_contact">Contact : %1$s</string>
   <string name="context_menu_copy">Copier</string>
   <string name="context_menu_copy_notice">Sélection copiée dans le presse papier</string>
   <string name="context_menu_new_contact">Nouveau contact</string>
@@ -140,7 +140,7 @@
   <string name="file_share_message_description">Je voudrais partager des fichiers avec vous</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">"TR : "</string>
-  <string name="found_old_messages">%1$s messages ont été trouvés sur l\'ancien compte. Voulez-vous les télécharger sur votre compte actuel: %2$s ?</string>
+  <string name="found_old_messages">%1$s messages ont été trouvés sur l\'ancien compte. Voulez-vous les télécharger sur votre compte actuel : %2$s ?</string>
   <string name="found_old_messages_title">Envoi de messages</string>
   <string name="found_wild_messages">%s messages provenant d\'autres cartes SIM ont été trouvés sur MiCloud, souhaitez-vous les télécharger ?</string>
   <string name="found_wild_messages_title">Récupérer messages</string>
@@ -218,7 +218,7 @@
   <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_btn_enable">Activer</string>
   <string name="mx_count_dspt">Depuis l\'activation, MIUI a envoyé %1$d message(s) cloud pour vous (%2$s)</string>
-  <string name="mx_current_status">Statut: En ligne</string>
+  <string name="mx_current_status">Statut : En ligne</string>
   <string name="mx_dspt">Envoyer des messages via Internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
   <string name="mx_enable">Activer la messagerie cloud</string>
   <string name="mx_enable_int_popup_msg">Cloud Messaging vous permet d\'envoyer des messages entre utilisateurs MIUI. Pour l\'activer un SMS international va être envoyé. Le tarif de votre opérateur sera appliqué.</string>

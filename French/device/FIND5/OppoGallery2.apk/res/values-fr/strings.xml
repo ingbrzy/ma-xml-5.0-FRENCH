@@ -68,7 +68,7 @@
   <string name="deleted">Supprimée</string>
   <string name="deleting">Suppression</string>
   <string name="description">Description</string>
-  <string name="deselect_all">Désélect. tout</string>
+  <string name="deselect_all">Tout désélect.</string>
   <string name="details">Détails</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
@@ -486,7 +486,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="saving_failure">"Impossible d'enregistrer la photo"</string>
   <string name="saving_image">Enregistrement de l\'image…</string>
   <string name="select_album">Sélectionner un album</string>
-  <string name="select_all">Sélectionner tout</string>
+  <string name="select_all">Tout sélectionner</string>
   <string name="select_group">Sélectionner groupe</string>
   <string name="select_image">Sélectionner une image</string>
   <string name="select_item">Sélection multiple</string>

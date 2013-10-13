@@ -247,11 +247,11 @@ Vous pouvez faire autre chose..."</string>
   <string name="other_settings">Autres paramètres</string>
   <string name="password">Mot de passe</string>
   <string name="password_error">Veuillez entrer votre mot de passe</string>
-  <string name="password_hint">Veuillez entrer votre mot de passe Xiaomi:</string>
+  <string name="password_hint">Veuillez entrer votre mot de passe Xiaomi :</string>
   <string name="pay_record">Historique des paiements</string>
   <string name="pay_record_empty">Aucun historique de paiement</string>
   <string name="paytool_alipay">Alipay</string>
-  <string name="paytool_edit_hint">Montant de la recharge (RMB):</string>
+  <string name="paytool_edit_hint">Montant de la recharge (RMB) :</string>
   <string name="paytool_edit_limit">Inférieure à %1$s</string>
   <string name="paytool_error_denomination">Veuillez entrer le bon montant de la recharge</string>
   <string name="paytool_error_install">L\'installation du plugin de sécurité mobile %1$s a échoué</string>

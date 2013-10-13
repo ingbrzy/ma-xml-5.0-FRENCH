@@ -2104,7 +2104,6 @@ Réessayez dans %3$d secondes"</string>
     <string name="keyguard_location_lock_toast_exit_auto_unlock_zone">"Vous avez quitté une zone de déverrouillage automatique. Le verrouillage de l'écran est désormais activé"</string>
     <string name="keyguard_location_lock_toast_wifi_diable">La zone de déverrouillage automatique a été désactivée. Le Wi-Fi est éteint.</string>
     <string name="keyguard_edit_widget_toast_diable">Modification impossible en mode Sécurité</string>
-    <string name="stms_version">GT-I9500_EUR_20130305_0103</string>
     <string name="keyguard_recovery_instructions">Entrez le mot de passe de récupération pour déverrouiller</string>
     <string name="keyguard_fmm_phone_locked_title">Téléphone verrouillé</string>
     <string name="keyguard_fmm_owner_phone">propriétaire</string>

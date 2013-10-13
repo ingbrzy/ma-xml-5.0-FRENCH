@@ -70,7 +70,7 @@
   <string name="edit_label">Modifier</string>
   <string name="email_guests_label">Envoyer un mail aux invités</string>
   <string name="email_picker_label">Envoyer un mail via</string>
-  <string name="email_subject_prefix">"Re: "</string>
+  <string name="email_subject_prefix">"Re : "</string>
   <string name="empty_event">Événement vide non créé.</string>
   <string name="event_create">Nouvel événement</string>
   <string name="event_delete">"Supprimer l\'événement"</string>

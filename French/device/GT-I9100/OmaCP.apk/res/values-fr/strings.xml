@@ -56,7 +56,7 @@ Réessayez"</string>
     <string name="INSTALL_NOT_SUPPORT">Type non pris en charge</string>
     <string name="NEXT">Suivant</string>
     <string name="INSTALL_NEW_ACCOUNT">"L'installation n'est pas terminée. Appuyez sur Suivant pour procéder à l'installation"</string>
-    <string name="SELECT_ALL">Sélectionner tout</string>
+    <string name="SELECT_ALL">Tout sélectionner</string>
     <string name="INSTALLED">Installé</string>
     <string name="DSCANCEL">Paramètres non enregistrés. Vous ne pourrez pas synchroniser vos contacts et événements du calendrier</string>
     <string name="DEFAULTCANCEL">Paramètres non enregistrés</string>

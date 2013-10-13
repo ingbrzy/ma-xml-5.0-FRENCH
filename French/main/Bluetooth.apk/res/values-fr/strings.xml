@@ -50,7 +50,7 @@
   <string name="download_succ_ok">Ouvrir</string>
   <string name="download_success">Réception de %1$s terminée</string>
   <string name="download_title">Transfert de fichier</string>
-  <string name="empty_file_notification_sent">Bluetooth: Fichier rejeté %1$s</string>
+  <string name="empty_file_notification_sent">Bluetooth : Fichier rejeté %1$s</string>
   <string name="enabling_progress_content">Activation Bluetooth...</string>
   <string name="enabling_progress_title">Veuillez patienter...</string>
   <string name="ftp_acceptance_dialog_header">Accès aux dossiers du téléphone</string>

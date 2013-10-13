@@ -423,7 +423,7 @@
   <string name="enable_telocation_title_miui">Utiliser ma localisation</string>
   <string name="enforce_proximity_summary_miui">Empêche les erreurs de manipulation lorsque le téléphone est inactif</string>
   <string name="enforce_proximity_title_miui">Forcer le capteur de proximité</string>
-  <string name="enterName">Entrer le nom:</string>
+  <string name="enterName">Entrer le nom :</string>
   <string name="enterNumber">Entrer le numéro de téléphone :</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin2_text_miui">PIN2</string>

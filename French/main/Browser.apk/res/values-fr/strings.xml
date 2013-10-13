@@ -50,7 +50,7 @@
   <string name="autofill_profile_editor_company_name">Nom de la société :</string>
   <string name="autofill_profile_editor_country">Pays :</string>
   <string name="autofill_profile_editor_delete_profile">Supprimer</string>
-  <string name="autofill_profile_editor_email_address">Mail:</string>
+  <string name="autofill_profile_editor_email_address">Mail :</string>
   <string name="autofill_profile_editor_heading">Indiquez le texte à saisir automatiquement dans les formulaires Web</string>
   <string name="autofill_profile_editor_name">Nom et prénom :</string>
   <string name="autofill_profile_editor_phone_number">Téléphone :</string>
@@ -230,7 +230,7 @@
   <string name="geolocation_settings_page_summary_not_allowed">"Ce site n'a actuellement pas accès à vos données de localisation."</string>
   <string name="geolocation_settings_page_title">Supprimer l\'accès</string>
   <string name="go_home">Page d\'accueil</string>
-  <string name="google_bookmarks">"Google:"</string>
+  <string name="google_bookmarks">"Google :"</string>
   <string name="goto_dot">OK</string>
   <string name="have_sent_bookmark_to_home_screen">Favori ajouté a la page d\'accueil</string>
   <string name="history">Historique</string>

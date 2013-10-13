@@ -532,7 +532,7 @@ Cc : %4$s
 %2$s"</string>
   <string name="status_loading_messages">Chargement des messages...</string>
   <string name="status_network_error">Problème de connexion.</string>
-  <string name="subject_hint">Objet:</string>
+  <string name="subject_hint">Objet :</string>
   <string name="summary_menu_show_finished">Afficher les transferts terminés</string>
   <string name="summary_menu_show_pending">Afficher les transferts en attente</string>
   <string name="summary_subtitle_counts_format">%1$d photos et %2$d vidéos</string>

@@ -341,5 +341,4 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="PANORAMA_HELPTEXT">"Appuyez d'abord sur le bouton de l'appareil photo, puis déplacez lentement l'appareil dans une direction"</string>
     <string name="SHORTCUT_CHANGE_HELPTEXT">"Pour sélectionner les raccourcis que vous souhaitez utiliser, maintenez votre doigt appuyé sur une icône, puis faites-la glisser à l'emplacement de votre choix"</string>
     <string name="SHORTCUT_RESET_HELPTEXT">Les paramètres par défaut des raccourcis seront rétablis</string>
-    <string name="stms_version">GT-N7000_EUR_20121120_0228</string>
 </resources>

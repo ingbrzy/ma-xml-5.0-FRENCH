@@ -1273,8 +1273,8 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="nearby_wifi">Connexions Wi-Fi proches</string>
   <string name="network_detail">Détails du réseau %s</string>
   <string name="network_settings_title">Réseaux mobiles</string>
-  <string name="network_state_label">État du réseau:</string>
-  <string name="networkid_label">ID réseau:</string>
+  <string name="network_state_label">État du réseau :</string>
+  <string name="networkid_label">ID réseau :</string>
   <string name="networks">Sélection de l\'opérateur</string>
   <string name="new_backup_pw_prompt">Saisissez votre nouveau mot de passe pour les sauvegardes complètes.</string>
   <string name="next_button_label">Suivant</string>
@@ -1400,7 +1400,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="perm_hips_security_prompt_title">%1$s tente de %2$s</string>
   <string name="perm_hips_send_sms_content">Contenu :</string>
   <string name="perm_hips_send_sms_data">envoyer des SMS à %1$s:%2$d</string>
-  <string name="perm_hips_send_sms_port">Dest Port:</string>
+  <string name="perm_hips_send_sms_port">Dest. Port:</string>
   <string name="perm_hips_send_sms_recipient">Destinataire :</string>
   <string name="perm_hips_send_sms_smsc">Centre SMS :</string>
   <string name="perm_hips_send_sms_smsc_default">Centre SMS par défaut</string>
@@ -1652,7 +1652,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="roaming_warning_multiuser">"Lorsque vous autorisez l\'itinérance des données, des frais d\'itinérance importants peuvent s\'appliquer !
 
 Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
-  <string name="rssi_label">RSSI:</string>
+  <string name="rssi_label">RSSI :</string>
   <string name="running_process_item_removed_user_label">Utilisateur retiré</string>
   <string name="running_process_item_user_label">Utilisateur : %1$s</string>
   <string name="running_processes_item_description_p_p">%1$d processus et %2$d services</string>
@@ -1666,7 +1666,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="runningservicedetails_stop_dlg_title">Arrêter le service système ?</string>
   <string name="runningservices_settings_summary">Afficher et contrôler les services en cours d\'exécution</string>
   <string name="runningservices_settings_title">Services en cours d\'exécution</string>
-  <string name="scan_list_label">Résultats de l\'analyse:</string>
+  <string name="scan_list_label">Résultats de l\'analyse :</string>
   <string name="screen">Écran</string>
   <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
   <string name="screen_button_key">Écran de touches virtuelles</string>
@@ -1894,7 +1894,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="spellchecker_quick_settings">Paramètres</string>
   <string name="spellchecker_security_warning">Ce correcteur orthographique peut recueillir l\'ensemble du texte saisi, y compris des données personnelles comme des mots de passe et des numéros de carte de paiement. Il provient de l\'application %1$s. Utiliser ce correcteur orthographique ?</string>
   <string name="spellcheckers_settings_title">Correcteur orthographique</string>
-  <string name="ssid_label">SSID:</string>
+  <string name="ssid_label">SSID :</string>
   <string name="status_awake_time">Temps en activité</string>
   <string name="status_bar_settings">Barre d\'état</string>
   <string name="status_bt_address">Adresse Bluetooth</string>
@@ -1939,7 +1939,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
   <string name="summary_font_size">%1$s</string>
-  <string name="supplicant_state_label">État suppliant:</string>
+  <string name="supplicant_state_label">État suppliant :</string>
   <string name="sync_active">Synchronisation activée</string>
   <string name="sync_automatically">Synchro auto des données des apps</string>
   <string name="sync_calendar">Agenda</string>

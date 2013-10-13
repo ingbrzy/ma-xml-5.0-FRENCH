@@ -56,7 +56,7 @@
   <string name="delete_item">Supprimer</string>
   <string name="delete_playlist_menu">Supprimer</string>
   <string name="delete_song_desc">Cela supprimera définitivement %s de votre carte SD.</string>
-  <string name="deselect_all">Rejeter tout</string>
+  <string name="deselect_all">Tout désélectionner</string>
   <string name="dirac_mode_earbuds">Écouteurs Xiaomi</string>
   <string name="dirac_mode_in_ear">Écouteurs intra-auriculaires Xiaomi</string>
   <string name="dirac_mode_off">Dirac désactivé</string>
@@ -161,10 +161,10 @@
   <string name="lyric_open_other_connect">Télécharger les paroles à l\'aide de la connexion Internet mobile</string>
   <string name="lyric_picker_not_found">Le gestionnaire de fichier est introuvable sur le périphérique</string>
   <string name="mediaplaybacklabel">Musique</string>
-  <string name="mi_effect">MI Effets</string>
+  <string name="mi_effect">MiEffets</string>
   <!-- si vous trouvez mieux que "améliorateur" pour Enchancer... -->
-  <string name="mi_effect_summary">"Toujours utiliser l'amélirorateur MiSound quand utilisation d'enceintes"</string>
-  <string name="mi_effect_title">"Utiliser l'amélirorateur MiSound"</string>
+  <string name="mi_effect_summary">"Toujours utiliser l'améliorateur MiSound quand utilisation d'enceintes"</string>
+  <string name="mi_effect_title">"Utiliser l'améliorateur MiSound"</string>
   <string name="mobile_connect_settings">Réseau mobile</string>
   <string name="modify_id3_for_list">La liste actuelle des informations des musiques ID3 sera modifiée</string>
   <string name="modify_id3_for_selected">Les informations des musiques ID3 seront modifiées</string>
@@ -173,7 +173,7 @@
   <string name="more">Plus</string>
   <string name="music_browser_label">Musique</string>
   <string name="music_filter">Filtrer les fichiers</string>
-  <string name="music_filter_helper">Afin de cacher les fichiers non liés à la musique, un filtre a été appliqué pour ignorer les fichiers de moins de 800K. Pour régler ce seuil allez dans paramètres &gt; filtrer les fichiers</string>
+  <string name="music_filter_helper">Afin de cacher les fichiers non liés à la musique, un filtre a été appliqué pour ignorer les fichiers de moins de 800K. Pour régler ce seuil allez dans Paramètres &gt; filtrer les fichiers</string>
   <string name="music_not_loaded">Aucun fichier audio trouvé !</string>
   <string name="music_open_other_connect">Télécharger de la musique avec la connexion de données mobiles</string>
   <string name="music_picker_title">Sélectionner un titre</string>
