@@ -2,7 +2,7 @@
 <resources>
     <string name="ok">OK</string>
     <string name="unknown_error">Erreur inconnue</string>
-    <string name="processing">En cours...</string>
+    <string name="processing">En cours…</string>
     <string name="license_not_found">Licence introuvable</string>
     <string name="dev_cert_revoked">"Le certificat de l'appareil a été annulé. Contactez l'opérateur"</string>
     <string name="server_internal_error">Problèmes au niveau du serveur. Essayez plus tard</string>

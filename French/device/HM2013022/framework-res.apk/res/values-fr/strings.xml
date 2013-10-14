@@ -1228,8 +1228,8 @@
   <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
   <string name="media_route_chooser_grouping_done">Effectué</string>
   <string name="media_route_button_content_description">Sortie multimédia</string>
-  <string name="media_route_status_scanning">Analyse en cours...</string>
-  <string name="media_route_status_connecting">Connexion en cours...</string>
+  <string name="media_route_status_scanning">Analyse en cours…</string>
+  <string name="media_route_status_connecting">Connexion en cours…</string>
   <string name="media_route_status_available">Disponible</string>
   <string name="media_route_status_not_available">Indisponible</string>
   <string name="display_manager_built_in_display_name">Écran intégré</string>

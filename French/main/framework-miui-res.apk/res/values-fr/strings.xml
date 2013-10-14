@@ -2,7 +2,7 @@
 <resources>
   <string name="activate">Activer</string>
   <string name="activate_fail_notification_title">Veuillez réactiver le service Xiaomi Sync</string>
-  <string name="activating">Activation...</string>
+  <string name="activating">Activation…</string>
   <string name="alarm_message_12_hour_formate">h:mm aa</string>
   <string name="alwaysUsePrompt">Définir par défaut (ne plus demander)</string>
   <string name="android_lockscreen_glogin_instructions">Pour déverrouiller, connectez-vous avec votre compte</string>
@@ -274,11 +274,11 @@
   <string name="experimental_validate">Valider</string>
   <string name="experimental_validate_fail">La validation a échoué, veuillez réessayer</string>
   <string name="experimental_validate_password">Mot de passe</string>
-  <string name="experimental_validate_progress">Validation...</string>
+  <string name="experimental_validate_progress">Validation…</string>
   <string name="experimental_validate_thanks">Merci !</string>
   <string name="experimental_validate_username">ID Xiaomi</string>
   <string name="experimental_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
-  <string name="find_device_check_sim">Vérification de la carte SIM...</string>
+  <string name="find_device_check_sim">Vérification de la carte SIM…</string>
   <string name="find_device_sim_change_instructions">"Votre appareil a été verrouillé. Veuillez insérer la carte SIM ou entrer votre mot de passe Xiaomi"</string>
   <string name="find_device_sim_change_instructions_no_network">"Votre appareil a été verrouillé, veuillez insérer la carte SIM d'origine"</string>
   <string name="find_device_turn_off_flight_mode">Désactiver le Mode Avion</string>
@@ -406,7 +406,7 @@ Réessayer dans %d secondes."</string>
   <string name="puk_operation_failed">L\'opération PUK a échoué.</string>
   <string name="reboot_confirm">Le téléphone va redémarrer</string>
   <string name="reboot_confirm_title">Êtes-vous sûr de vouloir redémarrer votre téléphone ?</string>
-  <string name="reboot_progress">Redémarrage...</string>
+  <string name="reboot_progress">Redémarrage…</string>
   <string name="return_to_me_message">Veuillez le remettre au propriétaire.</string>
   <string name="reverse_all">Effacer tout</string>
   <string name="safetylegal_activity_unreachable">Votre téléphone n\'est pas connecté à un service de données. Pour afficher ces informations maintenant, allez à %s de n\'importe quel ordinateur connecté à Internet.</string>

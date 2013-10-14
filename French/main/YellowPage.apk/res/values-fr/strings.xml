@@ -81,7 +81,7 @@ Montant total : %3$s RMB"</string>
   <string name="smart_antispam">Identifier les numéros inconnus automatiquement</string>
   <string name="sms_disabled_in_privacy_mode">"Impossible d'envoyer un message en mode privé."</string>
   <string name="sms_send_failed">Échec de l\'envoi du SMS !</string>
-  <string name="sms_sending">Envoi en cours...</string>
+  <string name="sms_sending">Envoi en cours…</string>
   <string name="title_about_yellow_page">À propos</string>
   <string name="toast_finish_delete_call_log">Le journal d\'appel a été effacé</string>
   <string name="toast_text_copied">Texte copié</string>

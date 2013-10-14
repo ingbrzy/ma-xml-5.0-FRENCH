@@ -126,8 +126,8 @@
   <string name="launch_market">Lancer le PlayStore</string>
   <string name="launch_qq">Lancer QQ</string>
   <string name="launch_wechat">Lancer WeChat</string>
-  <string name="loading">Chargement...</string>
-  <string name="loading_video">Chargement de la vidéo...</string>
+  <string name="loading">Chargement…</string>
+  <string name="loading_video">Chargement de la vidéo…</string>
   <string name="location">Lieu</string>
   <string name="locations">Lieux</string>
   <string name="maker">Fabricant</string>
@@ -143,14 +143,14 @@
   <string name="open">Ouvrir</string>
   <string name="orientation">Orientation</string>
   <string name="pano_dialog_panorama_failed">"Impossible d'enregistrer le panorama"</string>
-  <string name="pano_dialog_prepare_preview">Préparation vue panoramique...</string>
+  <string name="pano_dialog_prepare_preview">Préparation vue panoramique…</string>
   <string name="pano_dialog_title">Panoramique</string>
   <string name="pano_dialog_waiting_previous">Attendre que le panorama précédent se termine</string>
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Appuyez sur le déclencheur pour commencer à prendre des photos panoramiques</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Restez stable lors du déplacement</string>
   <string name="pano_how_to_use_prompt_to_move">Lors de la prise, essayez de garder le mouvement du téléphone stable</string>
-  <string name="pano_review_saving_indication_str">Enregistrement...</string>
+  <string name="pano_review_saving_indication_str">Enregistrement…</string>
   <string name="pano_too_fast_prompt">Trop rapide</string>
   <string name="path">Chemin d\'accès</string>
   <string name="people">Contacts</string>
@@ -378,7 +378,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_4">0.12 seconde (4 fois)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_50">50x</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalle de temps</string>
-  <string name="preparing_sd">Préparation du stockage...</string>
+  <string name="preparing_sd">Préparation du stockage…</string>
   <string name="qq_details">Détails QQ :</string>
   <string name="qr_code_details">"Détails QR code : "</string>
   <string name="record_back_pressed_hint">Appuyez à nouveau pour arrêter l\'enregistrement</string>
@@ -443,7 +443,7 @@
   <string name="video_snapshot_hint">Prendre une photo pendant l\'enregistrement vidéo en tapant sur l\'écran de prévisualisation.</string>
   <string name="videocamera_settings_label">Paramètres vidéo</string>
   <string name="visit_cloud_album">Visiter l\'album cloud</string>
-  <string name="wait">Veuillez patienter...</string>
+  <string name="wait">Veuillez patienter…</string>
   <string name="web_url_apk_warning">Le QR code sélectionné contient une application qui peut contenir un risque, veuillez plutôt rechercher via le PlayStore</string>
   <string name="web_url_warning">Le site QR code Internet peut entraîner un risque, le navigateur MIUI va scanner le QR code en toute sécurité pour vous.</string>
   <string name="website_details">"Détails du site web : "</string>
@@ -453,7 +453,7 @@
   <string name="width">Largeur</string>
   <string name="wifi_connect_fail">Délai de connexion dépassé ou échec du réseau Wi-Fi</string>
   <string name="wifi_connect_success">Connecté avec succès au réseau Wi-Fi</string>
-  <string name="wifi_connecting">Connexion Wi-Fi...</string>
+  <string name="wifi_connecting">Connexion Wi-Fi…</string>
   <string name="wifi_details">Détails du réseau Wi-Fi :</string>
   <string name="wifi_open_fail">Impossible d\'ouvrir le réseau Wi-Fi</string>
   <string name="wifi_pwd">Mot de passe :</string>

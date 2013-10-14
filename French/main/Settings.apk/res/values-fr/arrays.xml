@@ -74,13 +74,13 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scan...</item>
-        <item>Connexion...</item>
-        <item>Authentification...</item>
-        <item>Obtention de l\'adresse IP...</item>
+        <item>Scan…</item>
+        <item>Connexion…</item>
+        <item>Authentification…</item>
+        <item>Obtention de l\'adresse IP…</item>
         <item>Connecté</item>
         <item>Suspendu</item>
-        <item>Déconnexion...</item>
+        <item>Déconnexion…</item>
         <item>Déconnecté</item>
         <item>Échec</item>
         <item>Bloqué</item>
@@ -88,13 +88,13 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scan...</item>
-        <item>Connexion à %1$s...</item>
-        <item>Authentification avec %1$s...</item>
-        <item>Obtention de l\'adresse IP de %1$s...</item>
+        <item>Scan…</item>
+        <item>Connexion à %1$s…</item>
+        <item>Authentification avec %1$s…</item>
+        <item>Obtention de l\'adresse IP de %1$s…</item>
         <item>Connecté à %1$s</item>
         <item>Suspendu</item>
-        <item>Déconnexion de %1$s...</item>
+        <item>Déconnexion de %1$s…</item>
         <item>Déconnecté</item>
         <item>Échec</item>
         <item>Bloqué</item>
@@ -275,8 +275,8 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Déconnecté</item>
-        <item>Initialisation...</item>
-        <item>Connexion...</item>
+        <item>Initialisation…</item>
+        <item>Connexion…</item>
         <item>Connecté</item>
         <item>Délai écoulé</item>
         <item>Échec</item>
@@ -350,11 +350,11 @@
         <item>Toujours</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Appareil connecté, création de la session...</item>
+        <item>Appareil connecté, création de la session…</item>
         <item>Session créée</item>
-        <item>Session en cours de fermeture...</item>
+        <item>Session en cours de fermeture…</item>
         <item>Session échouée</item>
-        <item>Délai de l\'ouverture de session écoulé, nouvelle tentative...</item>
+        <item>Délai de l\'ouverture de session écoulé, nouvelle tentative…</item>
         <item>Appareil connecté</item>
     </string-array>
     <string-array name="power_mode_entries">

@@ -3,7 +3,7 @@
     <string name="app_name">"Programme d'installation du certificat"</string>
     <string name="pick_file_title">Sélectionnez un certificat</string>
     <string name="pkcs12_password_dialog_title">Extraire le certificat</string>
-    <string name="extracting_pkcs12">Extraction en cours...</string>
+    <string name="extracting_pkcs12">Extraction en cours…</string>
     <string name="pkcs12_file_password_dialog_title">Extraire de %s</string>
     <string name="name_credential_dialog_title">Attribuer un nom au certificat</string>
     <string name="credential_name">Nom du certificat :</string>

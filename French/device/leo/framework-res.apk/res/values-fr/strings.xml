@@ -170,7 +170,7 @@
   <string name="terabyteShort">To</string>
   <string name="petabyteShort">Po</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
-  <string name="ellipsis">...</string>
+  <string name="ellipsis">…</string>
   <string name="ellipsis_two_dots">‥</string>
   <string name="mmiError">Problème de connexion ou code IHM non valide.</string>
   <string name="mmiFdnError">Opération réservée aux numéros autorisés</string>
@@ -276,7 +276,7 @@
   <string name="silent_mode_silent">Sonnerie désactivée</string>
   <string name="silent_mode_vibrate">Sonnerie en mode vibreur</string>
   <string name="silent_mode_ring">Sonnerie activée</string>
-  <string name="shutdown_progress">Arrêt en cours...</string>
+  <string name="shutdown_progress">Arrêt en cours…</string>
   <string name="shutdown_confirm">Votre téléphone va s\'éteindre.</string>
   <string name="shutdown_confirm_question">Voulez-vous éteindre l\'appareil ?</string>
   <string name="reboot_safemode_title">Redémarrer en mode sans échec</string>
@@ -764,7 +764,7 @@
   <string name="lockscreen_sim_puk_locked_message">La carte SIM est verrouillée par clé PUK.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Veuillez consulter le guide utilisateur ou contacter le service client.</string>
   <string name="lockscreen_sim_locked_message">La carte SIM est verrouillée.</string>
-  <string name="lockscreen_sim_unlock_progress_dialog_message">Déblocage de la carte SIM...</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">Déblocage de la carte SIM…</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">Vous avez reproduit un schéma de déverrouillage incorrect à %d reprises.
 
 Veuillez réessayer dans %d secondes.</string>
@@ -790,7 +790,7 @@ Réessayer dans %d secondes."</string>
   <string name="lockscreen_glogin_invalid_input">Nom d\'utilisateur ou mot de passe incorrect.</string>
   <string name="lockscreen_glogin_account_recovery_hint">Vous avez oublié votre nom d\'utilisateur ou votre mot de passe ?
 Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
-  <string name="lockscreen_glogin_checking_password">Vérification en cours...</string>
+  <string name="lockscreen_glogin_checking_password">Vérification en cours…</string>
   <string name="lockscreen_unlock_label">Déverrouiller</string>
   <string name="lockscreen_sound_on_label">Son activé</string>
   <string name="lockscreen_sound_off_label">Son désactivé</string>
@@ -900,7 +900,7 @@ Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</
   <string name="Midnight">Minuit</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-  <string name="replace">Remplacer...</string>
+  <string name="replace">Remplacer…</string>
   <string name="delete">Supprimer</string>
   <string name="textSelectionCABTitle">Sélection de texte</string>
   <string name="addToDictionary">ajouter au dictionnaire</string>
@@ -909,7 +909,7 @@ Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</
   <string name="editTextMenuTitle">Actions sur le texte</string>
   <string name="low_internal_storage_view_title">Espace de stockage bientôt saturé</string>
   <string name="low_internal_storage_view_text">Il est possible que certaines fonctionnalités du système ne soient pas opérationnelles.</string>
-  <string name="loading">Chargement...</string>
+  <string name="loading">Chargement…</string>
   <string name="capital_on">OUI</string>
   <string name="capital_off">NON</string>
   <string name="whichApplication">Continuer avec</string>
@@ -946,9 +946,9 @@ Voulez-vous la fermer ?</string>
   <string name="screen_compat_mode_hint">Réactivez ce mode en accédant à Paramètres système &gt; Applications &gt; Téléchargements</string>
   <string name="smv_application">L\'application %1$s (du processus %2$s) a enfreint ses propres règles du mode strict.</string>
   <string name="smv_process">Le processus %1$s a enfreint ses propres règles du mode strict.</string>
-  <string name="android_upgrading_title">Mise à jour d\'Android...</string>
-  <string name="android_upgrading_apk">Optimisation de l\'application %1$d sur %2$d...</string>
-  <string name="android_upgrading_starting_apps">Lancement des applications...</string>
+  <string name="android_upgrading_title">Mise à jour d\'Android…</string>
+  <string name="android_upgrading_apk">Optimisation de l\'application %1$d sur %2$d…</string>
+  <string name="android_upgrading_starting_apps">Lancement des applications…</string>
   <string name="android_upgrading_complete">Finalisation de la mise à jour.</string>
   <string name="heavy_weight_notification">%1$s en cours d\'exécution</string>
   <string name="heavy_weight_notification_detail">Appuyez ici pour changer d\'application.</string>
@@ -1118,11 +1118,11 @@ pour le compte "%s"</string>
   <string name="no_matches">Aucune correspondance</string>
   <string name="find_on_page">Rechercher sur la page</string>
   <string name="action_mode_done">OK</string>
-  <string name="progress_unmounting">Désinstallation de la mémoire de stockage USB en cours...</string>
-  <string name="progress_erasing">Effacement de la mémoire de stockage USB en cours...</string>
+  <string name="progress_unmounting">Désinstallation de la mémoire de stockage USB en cours…</string>
+  <string name="progress_erasing">Effacement de la mémoire de stockage USB en cours…</string>
   <string name="format_error">Impossible d\'effacer la mémoire de stockage USB.</string>
   <string name="media_bad_removal">La carte SD a été retirée sans avoir été désinstallée.</string>
-  <string name="media_checking">Vérification de la mémoire de stockage USB...</string>
+  <string name="media_checking">Vérification de la mémoire de stockage USB…</string>
   <string name="media_removed">La carte SD a été retirée.</string>
   <string name="media_shared">La mémoire de stockage USB est en cours d\'utilisation par l\'ordinateur.</string>
   <string name="media_unknown_state">État du support externe inconnu</string>
@@ -1221,7 +1221,7 @@ pour le compte "%s"</string>
   <string name="share_action_provider_share_with">Partager avec</string>
   <string name="status_bar_device_locked">Appareil verrouillé</string>
   <string name="list_delimeter">", "</string>
-  <string name="sending">Envoi en cours...</string>
+  <string name="sending">Envoi en cours…</string>
   <string name="launchBrowserDefault">Lancer le navigateur ?</string>
   <string name="SetupCallDefault">Prendre l\'appel ?</string>
   <string name="activity_resolver_use_always">Toujours</string>

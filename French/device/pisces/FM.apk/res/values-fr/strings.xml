@@ -139,7 +139,7 @@
   <string name="toast_channel_searched">%1$d stations ont été scannées.</string>
   <string name="toast_delete_station">%s MHz a été supprimée.</string>
   <string name="toast_edit_station">Les changements ont été enregistrés</string>
-  <string name="toast_fm_seeking">"Recherche d'une station, veuillez patienter..."</string>
+  <string name="toast_fm_seeking">"Recherche d'une station, veuillez patienter…"</string>
   <string name="toast_fm_starting">Démarrage de la radio en cours, veuillez patienter..</string>
   <string name="toast_fm_stoping">Arrêt de la radio en cours, veuillez patienter..</string>
   <string name="toast_removed_from_presets">Retiré des présélections</string>

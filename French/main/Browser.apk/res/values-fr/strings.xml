@@ -127,7 +127,7 @@
   <string name="contextmenu_add_contact">Ajouter un contact</string>
   <string name="contextmenu_copy">Copier</string>
   <string name="contextmenu_copylink">Copier l\'URL du lien</string>
-  <string name="contextmenu_dial_dot">Composer...</string>
+  <string name="contextmenu_dial_dot">Composer…</string>
   <string name="contextmenu_download_image">Enregistrer l\'image</string>
   <string name="contextmenu_download_image_as">Sauvegarder l\'image sous</string>
   <string name="contextmenu_map">Plan</string>
@@ -166,14 +166,14 @@
   <string name="download_failed">Le téléchargement a échoué</string>
   <string name="download_no_sdcard_dlg_msg" formatted="false">Une mémoire de stockage USB est requise pour télécharger %s.</string>
   <string name="download_no_sdcard_dlg_title">Mémoire USB non disponible</string>
-  <string name="download_pending">Début du téléchargement...</string>
+  <string name="download_pending">Début du téléchargement…</string>
   <string name="download_sdcard_busy_dlg_msg">La mémoire de stockage USB n\'est pas disponible. Pour autoriser les téléchargements, appuyez sur "Désactiver la mémoire de stockage USB" dans les notifications.</string>
   <string name="download_sdcard_busy_dlg_title">Mémoire USB non disponible</string>
   <string name="download_video_alert_message">Si votre forfait a des frais de données, télécharger des vidéos peut consommer votre quota, voulez-vous continuer ?</string>
   <string name="download_video_alert_title">Avertissement de téléchargement !</string>
   <string name="download_video_menu_dialog_positive_txt">Installer</string>
   <string name="download_video_menu_dialog_summary">Vous devez installer MiuiVideo avant d\'utiliser cette fonction</string>
-  <string name="download_video_menu_dialog_title">Installation...</string>
+  <string name="download_video_menu_dialog_title">Installation…</string>
   <string name="download_video_menu_video_version_low">Vous devez mettre à jour MiuiVideo.</string>
   <string name="download_video_no_title_default_name">Vidéo sans nom</string>
   <string name="download_video_please_download_market">Vous devez installer MiApps pour utiliser cette fonction</string>
@@ -257,7 +257,7 @@
   <string name="import_bookmarks_wizard_done">OK</string>
   <string name="import_bookmarks_wizard_next">Suivant</string>
   <string name="import_bookmarks_wizard_previous">Précédent</string>
-  <string name="importing_favorite_files">Importation des données...</string>
+  <string name="importing_favorite_files">Importation des données…</string>
   <string name="in_incognito">La navigation privée est activée, aucun historique ne sera sauvegardé.</string>
   <string name="instant_search_label">Google avec Recherche instantanée (Google Labs)</string>
   <string name="is_first_history_item">Est le premier élément de l\'historique</string>
@@ -270,7 +270,7 @@
   <string name="loadSuspended">"Impossible de charger cette page dans le navigateur, car il n'y a pas de connexion Internet."</string>
   <string name="loadSuspendedTitle">Aucune connexion</string>
   <string name="loading_rest_candidates">Chargement des candidats de repos</string>
-  <string name="loading_video">Chargement de la vidéo...</string>
+  <string name="loading_video">Chargement de la vidéo…</string>
   <string name="local_bookmarks">Favoris locaux</string>
   <string name="location">Adresse</string>
   <string name="max_tabs_warning">Plus aucun onglet n\'est disponible.</string>
@@ -406,7 +406,7 @@
   <string name="pref_general_title">Général</string>
   <string name="pref_gesture_title">Opérations gestuelles</string>
   <string name="pref_image_display_control">Contrôle de l\'affichage d\'image</string>
-  <string name="pref_images_preload_dialogtitle">Préchargement d\'images...</string>
+  <string name="pref_images_preload_dialogtitle">Préchargement d\'images…</string>
   <string name="pref_images_preload_summary">" Autoriser le navigateur à précharger les images lorsque le serveur le supporte"</string>
   <string name="pref_images_preload_title">Préchargement d\'image</string>
   <string name="pref_images_preload_value_always_summary">Toujours autoriser le navigateur à précharger les images lorsque le serveur le supporte</string>
@@ -475,7 +475,7 @@
   <string name="pref_ua_title">Gestion de l\'User agent</string>
   <string name="pref_use_instant_search">Recherche instantanée Google</string>
   <string name="pref_use_instant_search_summary">Affichez plus de résultats lors de la saisie avec la recherche instantanée Google. Peut utiliser plus de données.</string>
-  <string name="pref_video_preload_dialogtitle">Préchargement de la vidéo...</string>
+  <string name="pref_video_preload_dialogtitle">Préchargement de la vidéo…</string>
   <string name="pref_video_preload_summary">Autoriser le navigateur de précharger la vidéo lorsque le serveur le supporte</string>
   <string name="pref_video_preload_title">Préchargement de la vidéo</string>
   <string name="pref_video_preload_value_never_summary">Ne jamais autoriser le navigateur à précharger des vidéos</string>
@@ -483,14 +483,14 @@
   <string name="pref_volume_key_operation">Action des touches de volume</string>
   <string name="pref_zoom_on_double_tap">Appuyer deux fois pour zoomer</string>
   <string name="preview">Aperçu</string>
-  <string name="progress_dialog_setting_wallpaper">Définition du fond d\'écran...</string>
+  <string name="progress_dialog_setting_wallpaper">Définition du fond d\'écran…</string>
   <string name="quicklinks_management">Liens rapides</string>
   <string name="readmode_already_add_to_bookshelf">Ajouté à l\'étagère</string>
   <string name="readmode_battery">Batterie </string>
   <string name="readmode_login">Connexion au compte</string>
   <string name="readmode_login_message">Les chapitres suivants requièrent de vous connecter avant de pouvoir les lire</string>
   <string name="readmode_page_load_error">Échec du chargement de la page, veuillez appuyer sur Rafraîchir pour réessayer</string>
-  <string name="readmode_page_loading">Chargement, veuillez patienter...</string>
+  <string name="readmode_page_loading">Chargement, veuillez patienter…</string>
   <string name="readmode_pay">S\'abonner au chapitre</string>
   <string name="readmode_pay_message">Les chapitres suivants nécessitent un abonnement avant de pouvoir les lire</string>
   <string name="readmode_reach_last_page">La dernière page a été atteinte</string>
@@ -519,7 +519,7 @@
   <string name="save_file_already_exist_alert_message">Le fichier existe déjà, voulez-vous le remplacer ?</string>
   <string name="save_file_already_exist_alert_title">Le fichier existe !</string>
   <string name="save_to_bookmarks">Ajouter aux favoris</string>
-  <string name="saving_snapshot">Enregistrement en cours...</string>
+  <string name="saving_snapshot">Enregistrement en cours…</string>
   <string name="search">Rechercher</string>
   <string name="search_139">Search 139</string>
   <string name="search_baidu">Baidu</string>
@@ -565,7 +565,7 @@
   <string name="ssl_warnings_header">Le certificat de sécurité pour ce site présente des problèmes.</string>
   <string name="stop">Interrompre</string>
   <string name="stop_loading">Interrompre</string>
-  <string name="stopping">Arrêt...</string>
+  <string name="stopping">Arrêt…</string>
   <string name="storage_internal">Mémoire interne</string>
   <string name="storage_sd_card">Carte SD</string>
   <string name="storage_usb">Stockage USB</string>
@@ -578,7 +578,7 @@
   <string name="tab_quicklinks">Liens rapides</string>
   <string name="tab_snapshots">Pages enregistrées</string>
   <string name="tab_yellowpage">Pages jaunes</string>
-  <string name="title_bar_loading">Chargement...</string>
+  <string name="title_bar_loading">Chargement…</string>
   <string name="too_many_subwindows_dialog_message">Seule une fenêtre pop-up peut être ouverte à la fois.</string>
   <string name="too_many_subwindows_dialog_title">Fenêtre contextuelle déjà ouverte</string>
   <string name="too_many_windows_dialog_message">"Impossible d'ouvrir un nouvel onglet tant que vous n'en avez pas fermé un autre."</string>

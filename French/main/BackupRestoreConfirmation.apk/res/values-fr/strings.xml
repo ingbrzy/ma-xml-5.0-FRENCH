@@ -18,9 +18,9 @@ Si vous n\'avez pas demandé vous-même la restauration, n\'autorisez pas sa pou
     <string name="backup_enc_password_text">Veuillez saisir un mot de passe à utiliser pour chiffrer les données de sauvegarde complète. Si ce champ n\'est pas renseigné, votre mot de passe de sauvegarde actuel sera utilisé :</string>
     <string name="backup_enc_password_optional">Si vous souhaitez chiffrer l\'ensemble des données de sauvegarde, veuillez saisir un mot de passe ci-dessous :</string>
     <string name="restore_enc_password_text">Si les données de restauration sont chiffrées, veuillez saisir le mot de passe ci-dessous :</string>
-    <string name="toast_backup_started">Démarrage de la sauvegarde...</string>
+    <string name="toast_backup_started">Démarrage de la sauvegarde…</string>
     <string name="toast_backup_ended">Sauvegarde terminée.</string>
-    <string name="toast_restore_started">Démarrage de la restauration...</string>
+    <string name="toast_restore_started">Démarrage de la restauration…</string>
     <string name="toast_restore_ended">Opération terminée.</string>
     <string name="toast_timeout">L\'opération a expiré.</string>
 </resources>

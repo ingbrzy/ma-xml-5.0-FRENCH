@@ -19,7 +19,7 @@
   <string name="read_write_all_voicemail_label">Accéder à tous les messages vocaux</string>
   <string name="send_sms">Envoyer le message</string>
   <string name="sharedUserLabel">Applications de base Android</string>
-  <string name="upgrade_msg">Mise à jour de la base de données des contacts en cours...</string>
+  <string name="upgrade_msg">Mise à jour de la base de données des contacts en cours…</string>
   <string name="upgrade_out_of_memory_notification_text">Appuyez pour terminer la mise à jour.</string>
   <string name="upgrade_out_of_memory_notification_ticker">La mise à jour des contacts requiert plus de mémoire.</string>
   <string name="upgrade_out_of_memory_notification_title">Mise à jour du stockage des contacts</string>

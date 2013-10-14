@@ -13,7 +13,7 @@
   <string name="auto_backup_date">Jours de sauvegarde</string>
   <string name="auto_backup_only_wifi">Sauvegarder automatiquement seulement en Wi-Fi</string>
   <string name="auto_backup_open">Activer la sauvegarde auto</string>
-  <string name="auto_backup_progress">Exécution d\'une sauvegarde automatique, veuillez patienter...</string>
+  <string name="auto_backup_progress">Exécution d\'une sauvegarde automatique, veuillez patienter…</string>
   <string name="auto_backup_select_user_apps">Sélectionner les applications</string>
   <string name="auto_backup_selected_user_apps">Applications sélectionnées</string>
   <string name="auto_backup_setting">Sauvegarde automatique</string>
@@ -33,7 +33,7 @@
   <string name="backup_items_app_tailer">" fichiers de données d\'application. "</string>
   <string name="backup_items_sysdata_tailer">" fichiers de données système. "</string>
   <string name="backup_new">Nouveau :</string>
-  <string name="backup_progress">Sauvegarde...</string>
+  <string name="backup_progress">Sauvegarde…</string>
   <string name="backup_recently">" (Dernier)"</string>
   <string name="backup_report">Rapport de sauvegarde</string>
   <string name="backup_update">Mise à jour</string>
@@ -59,9 +59,9 @@
   <string name="cloud_restore_guide">Appuyez sur Démarrer la restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
   <string name="cloud_restore_title">Restaurer des données sauvegardées</string>
   <string name="cloud_restore_window_title">Cloud Recovery</string>
-  <string name="cloud_search">Recherche Cloud...</string>
-  <string name="compute_backup_info">Récupération des informations de sauvegarde...</string>
-  <string name="compute_delete_contact_info">Recherche des contacts...</string>
+  <string name="cloud_search">Recherche Cloud…</string>
+  <string name="compute_backup_info">Récupération des informations de sauvegarde…</string>
+  <string name="compute_delete_contact_info">Recherche des contacts…</string>
   <string name="contact_title">Contacts</string>
   <string name="current_account">Connecté en tant que : %s</string>
   <string name="current_sim">Carte SIM actuelle</string>
@@ -69,7 +69,7 @@
   <string name="data_no_enough_space_message">La restauration a peut-être échoué, veuillez libérer un peu d\'espace de stockage interne et essayer à nouveau</string>
   <string name="date_format">dd/MM/yyyy HH:mm:ss</string>
   <string name="delete">Supprimer</string>
-  <string name="delete_backup_process">Suppression de sauvegarde(s)...</string>
+  <string name="delete_backup_process">Suppression de sauvegarde(s)…</string>
   <string name="delete_failed_backup_confirm">La sauvegarde contient une erreur, vous ne pouvez pas restaurer cette sauvegarde</string>
   <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
   <string name="disable_encrypt_title">Cryptage désactivé</string>
@@ -114,9 +114,9 @@
   <string name="nothing_searched">Aucun résultat trouvé</string>
   <string name="progress_backup_hint">Sauvegarde :\u0020</string>
   <string name="progress_restore_hint">Restauration :\u0020</string>
-  <string name="prompt_reading">Lecture...</string>
-  <string name="prompt_sending">Téléchargement...</string>
-  <string name="prompt_writing">Enregistrement...</string>
+  <string name="prompt_reading">Lecture…</string>
+  <string name="prompt_sending">Téléchargement…</string>
+  <string name="prompt_writing">Enregistrement…</string>
   <string name="read_encrypt_fail">Le chiffrement de lecture a échoué</string>
   <string name="refresh">Rafraîchir</string>
   <string name="restore">Restaurer</string>
@@ -128,7 +128,7 @@
   <string name="restore_failed">La restauration a échoué !</string>
   <string name="restore_finished">Restauration terminée</string>
   <string name="restore_launcher_layout_hit">(Remarque : Restaure la disposition du lanceur)</string>
-  <string name="restore_progress">Restauration...</string>
+  <string name="restore_progress">Restauration…</string>
   <string name="restore_report">Rapport de restauration</string>
   <string name="restore_telephony_hit">(Remarque : le processus de récupération va redémarrer l\'application du téléphone)</string>
   <string name="retry">Réessayer</string>
@@ -156,7 +156,7 @@
   <string name="succeed">Réussi</string>
   <string name="system_backup">Sauvegardes</string>
   <string name="system_backup_info">Paramètres système, agencement du bureau, etc.</string>
-  <string name="task_backup_cancel_progress">Annulation de la sauvegarde...</string>
+  <string name="task_backup_cancel_progress">Annulation de la sauvegarde…</string>
   <string name="task_backup_finished_local">Sauvegarde terminée</string>
   <string name="task_canceled">Annulé</string>
   <string name="task_canceled_all_local">Annuler la tâche</string>
@@ -172,7 +172,7 @@
   <string name="task_pre_running">Préparation</string>
   <string name="task_progress">Progression</string>
   <string name="task_restore_cancel_dialog">La restauration n\'est pas terminée\nl\'annulation de la restauration peut provoquer une corruption des données</string>
-  <string name="task_restore_cancel_progress">Annulation en cours...</string>
+  <string name="task_restore_cancel_progress">Annulation en cours…</string>
   <string name="task_restore_finished_local">Restauration terminée</string>
   <string name="task_restore_none">La restauration n\'est pas nécessaire</string>
   <string name="task_running_backup_dialog">Sauvegarde en cours en arrière-plan, appuyez sur OK pour l\'afficher.</string>

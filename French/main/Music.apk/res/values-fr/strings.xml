@@ -29,7 +29,7 @@
   <string name="auto_correct_id3_summary">L\'algorithme d\'empreinte digitale audio corrigera les données ID3 lors de la lecture</string>
   <string name="batch_correct_id3_completed">Rectification de l\'ID3 terminée !</string>
   <string name="billboard">Billboard</string>
-  <string name="buffering">Chargement...</string>
+  <string name="buffering">Chargement…</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_sleep_mode">Mode veille désactivé</string>
   <string name="cancle_warining">Le mode veille s\'est arrêté</string>
@@ -137,7 +137,7 @@
   <string name="listen_to_music_online_settings">Écouter de la musique en ligne</string>
   <string name="listen_to_online_summary">Écouter de la musique via le réseau mobile ou Wi-Fi</string>
   <string name="load_album_artist_failed">Le chargement de la liste d\'albums et d\'artistes a échoué. Veuillez réessayer.</string>
-  <string name="load_album_artist_in_process">Chargement de la liste d\'albums et d\'artistes...</string>
+  <string name="load_album_artist_in_process">Chargement de la liste d\'albums et d\'artistes…</string>
   <string name="load_album_failed">Le chargement de la liste d\'albums a échoué, veuillez réessayer</string>
   <string name="load_album_in_process">Chargement de la liste d\'albums</string>
   <string name="load_artist_failed">Le chargement de la liste d\'artistes a échoué, veuillez réessayer</string>
@@ -148,11 +148,11 @@
   <string name="load_bill_in_process">Chargement de la liste Billboard</string>
   <string name="load_channel_failed">Impossible de charger la liste de chaines, veuillez réessayer</string>
   <string name="load_channel_in_process">Chargement de la liste de chaines</string>
-  <string name="loading">Chargement...</string>
+  <string name="loading">Chargement…</string>
   <string name="lrc_progress_modify">Ajuster la vitesse de défilement des paroles</string>
   <string name="lrc_progress_modify_helper">Ajuster la vitesse de défilement des paroles en les faisant glisser vers le haut ou vers le bas</string>
   <string name="lrc_search_failed">Paroles introuvables !</string>
-  <string name="lrc_searching">Recherche de paroles...</string>
+  <string name="lrc_searching">Recherche de paroles…</string>
   <string name="lrc_select">Sélectionner les paroles</string>
   <string name="lyric_and_album">Paroles et albums</string>
   <string name="lyric_display_settings">Afficher les paroles</string>
@@ -162,7 +162,7 @@
   <string name="lyric_picker_not_found">Le gestionnaire de fichier est introuvable sur le périphérique</string>
   <string name="mediaplaybacklabel">Musique</string>
   <string name="mi_effect">MiEffets</string>
-  <!-- si vous trouvez mieux que "améliorateur" pour Enchancer... -->
+  <!-- si vous trouvez mieux que "améliorateur" pour Enchancer… -->
   <string name="mi_effect_summary">"Toujours utiliser l'améliorateur MiSound quand utilisation d'enceintes"</string>
   <string name="mi_effect_title">"Utiliser l'améliorateur MiSound"</string>
   <string name="mobile_connect_settings">Réseau mobile</string>
@@ -218,9 +218,9 @@
   <string name="recentlyplayed_title">Lu récemment</string>
   <string name="recommend">Recommandé</string>
   <string name="refresh_finish">Actualisé avec succès</string>
-  <string name="refresh_in_processing">Actualisation...</string>
+  <string name="refresh_in_processing">Actualisation…</string>
   <string name="refresh_media_db">Rafraîchir</string>
-  <string name="refresh_start">Actualisation en cours, veuillez patienter...</string>
+  <string name="refresh_start">Actualisation en cours, veuillez patienter…</string>
   <string name="remove_from_favorite">Supprimer des favoris</string>
   <string name="remove_item">Supprimer</string>
   <string name="rename_album_menu">Renommer l\'album</string>
@@ -231,8 +231,8 @@
   <string name="ringtone_not_support">Format de sonnerie non pris en charge</string>
   <string name="ringtone_set">"%s" a été défini comme sonnerie.</string>
   <string name="save">Enregistrer</string>
-  <string name="scanning">Analyse de la carte SD...</string>
-  <string name="scanning_nosdcard">Analyse du périphérique de stockage USB...</string>
+  <string name="scanning">Analyse de la carte SD…</string>
+  <string name="scanning_nosdcard">Analyse du périphérique de stockage USB…</string>
   <string name="screen_bright_wake">Laisser l\'écran allumé</string>
   <string name="screen_bright_wake_summary">Le rétro-éclairage reste actif lorsque ce paramètre est activé.</string>
   <string name="sdcard_busy_message">Désolé, votre carte SD est occupée.</string>
@@ -264,7 +264,7 @@
   <string name="sort_by_track">Pistes</string>
   <string name="start_to_download_album">Téléchargement de pochettes d\'album pour votre bibliothèque de musique</string>
   <string name="start_to_download_avatar">Téléchargement de l\'avatar de l\'artiste dans votre bibliothèque de musique</string>
-  <string name="streamloadingtext">Connexion à %s...</string>
+  <string name="streamloadingtext">Connexion à %s…</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_edit">Chanson</string>
   <string name="track_num_format">(%s)</string>

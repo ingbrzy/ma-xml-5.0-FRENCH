@@ -17,18 +17,18 @@
   <string name="apply_upload_info_message">Appuyez sur "Mettre à jour" pour redémarrer automatiquement le téléphone pour appliquer la mise à jour.</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
   <string name="applying_rom_message">Application de la mise à jour</string>
-  <string name="applying_update">Application de la mise à jour...%s</string>
+  <string name="applying_update">Application de la mise à jour…%s</string>
   <string name="best_update">2. Meilleure mise à jour</string>
   <string name="boot_recovery">Redémarrer dans le Recovery</string>
   <string name="cancel_download_buton_text">Annuler</string>
   <string name="check_update">Rechercher des mises à jour</string>
   <string name="check_update_policy">Vérifier les mises à jour</string>
   <string name="check_update_when_wifi_available">Uniquement en connexion Wi-Fi</string>
-  <string name="checking_for_updates">Vérification des mises à jour...</string>
+  <string name="checking_for_updates">Vérification des mises à jour…</string>
   <string name="choose_recommend">Veuillez choisir ou non de recommander</string>
   <string name="comment_invalid">Toucher les étoiles pour donner une évaluation</string> 
   <string name="comment_publish">Soumettre</string> 
-  <string name="comment_sending">Envoi du commentaire...</string> 
+  <string name="comment_sending">Envoi du commentaire…</string> 
   <string name="comment_upload_failed">"Échec de l'envoi du commentaire"</string> 
   <string name="comment_upload_hint">Merci pour vos commentaires</string> 
   <string name="comment_upload_not_logined">"Connectez vous avant d'envoyer des commentaires"</string> 
@@ -44,7 +44,7 @@
   <string name="download_current_rom">Télécharger la dernière version complète de la ROM</string>
   <string name="download_ota_rom">Télécharger la mise à jour OTA (%s)</string>
   <string name="download_whole_rom">Télécharger la ROM complète (%s)</string>
-  <string name="downloading_description">Téléchargement...</string>
+  <string name="downloading_description">Téléchargement…</string>
   <string name="edit_comment">Ajouter un commentaire</string> 
   <string name="edit_comment_title">Éditer un commentaire</string> 
   <string name="edit_text_default">Écrire un commentaire</string>
@@ -122,7 +122,7 @@
   <string name="sign_in_info_rank_more">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
   <string name="sina_share_fail">Envoi échoué !</string> 
-  <string name="sina_share_pendding">Envoi...</string> 
+  <string name="sina_share_pendding">Envoi…</string> 
   <string name="sina_share_success">Envoi réussi !</string> 
   <string name="sina_token_expired_warning">Le compte Weibo a expiré, veuillez vous reconnecter</string> 
   <string name="sina_token_invalid_warning">Le compte Weibo est invalide, veuillez vous reconnecter</string>
@@ -130,7 +130,7 @@
   <string name="start_update">Mettre à jour</string>
   <string name="submit">Envoyer</string>
   <string name="submit_fail">Échec d\'envoi</string>
-  <string name="submit_progress">Envoi en cours...</string>
+  <string name="submit_progress">Envoi en cours…</string>
   <string name="submit_success">Envoi réussi, Merci !</string>
   <string name="system_backup_apply_helper">"L\'appareil redémarrera automatiquement pour appliquer la mise à jour. "</string>
   <string name="system_backup_ask">Demander la prochaine fois</string>
@@ -157,7 +157,7 @@
   <string name="upgrade_close">Fermer</string>
   <string name="upgrade_kernel">Le noyau actuel nécessite une mise à jour</string>
   <string name="upgrade_kernel_msg">"La version du noyau actuel ne correspond pas à la ROM MIUI. Vous avez besoin de mettre à jour le noyau manuellement. Veuillez-vous référer au tutoriel de mise à niveau : "</string>
-  <string name="verify_and_apply_dialog_message">Vérification de la signature MD5...</string>
+  <string name="verify_and_apply_dialog_message">Vérification de la signature MD5…</string>
   <string name="verify_and_apply_dialog_title">Vérifier l\'intégrité des fichiers</string>
   <string name="view_install_log">Afficher le journal d\'erreur</string>
   <string name="view_upgrade_tutorial">Visionner le tutoriel</string>

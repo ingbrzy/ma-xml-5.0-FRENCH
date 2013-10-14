@@ -5,9 +5,9 @@
   <string name="camera_disabled">L\'appareil photo a été désactivé en raison des règles de sécurité.</string>
   <string name="camera_label">Appareil photo</string>
   <string name="video_camera_label">Caméra</string>
-  <string name="wait">Veuillez patienter...</string>
+  <string name="wait">Veuillez patienter…</string>
   <string name="no_storage">Veuillez insérer une carte SD avant d\'utiliser l\'appareil photo.</string>
-  <string name="preparing_sd">Préparation de la carte SD...</string>
+  <string name="preparing_sd">Préparation de la carte SD…</string>
   <string name="access_sd_fail">Impossible d\'accéder à la carte SD.</string>
   <string name="review_cancel">ANNULER</string>
   <string name="review_ok">OK</string>
@@ -60,7 +60,7 @@
   <string name="spaceIsLow_content">Votre carte SD est pleine. Modifiez le paramètre de qualité ou supprimez des images ou des fichiers.</string>
   <string name="video_reach_size_limit">Taille maximale atteinte.</string>
   <string name="pano_too_fast_prompt">Trop rapide</string>
-  <string name="pano_dialog_prepare_preview">Préparation vue panoramique...</string>
+  <string name="pano_dialog_prepare_preview">Préparation vue panoramique…</string>
   <string name="pano_dialog_panorama_failed">Impossible d\'enregistrer le panoramique.</string>
   <string name="pano_dialog_title">Panoramique</string>
   <string name="pano_capture_indication">Capture vue panoramique…</string>
@@ -253,9 +253,9 @@ D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux image
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="movie_view_label">Lecteur Google Vidéos</string>
-  <string name="loading_video">Chargement de la vidéo...</string>
-  <string name="loading_image">Chargement de l\'image...</string>
-  <string name="loading_account">Chargement infos compte...</string>
+  <string name="loading_video">Chargement de la vidéo…</string>
+  <string name="loading_image">Chargement de l\'image…</string>
+  <string name="loading_account">Chargement infos compte…</string>
   <string name="resume_playing_title">Reprendre la vidéo</string>
   <string name="resume_playing_message">Reprendre la lecture à partir de %s ?</string>
   <string name="resume_playing_resume">Reprendre la lecture</string>

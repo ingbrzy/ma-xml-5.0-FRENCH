@@ -65,13 +65,13 @@
   <string name="missed_call">%d Appel manqué</string>
   <string name="missed_calls">%d Appels manqués</string>
   <string name="no_favorite_contacts">Pas de contacts préférés</string>
-  <string name="media_controller_buffering">Mise en mémoire tampon %d%%...</string>
-  <string name="contact_widget_loading">Chargement...</string>
+  <string name="media_controller_buffering">Mise en mémoire tampon %d%%…</string>
+  <string name="contact_widget_loading">Chargement…</string>
   <string name="volume_fm">Volume de la radio</string>
   <string name="volume_matv">Volume de la TV mobile</string>
   <string name="media_controller_live">Direct</string>
   <string name="media_controller_playing">Lecture</string>
-  <string name="media_controller_connecting">Connexion...</string>
+  <string name="media_controller_connecting">Connexion…</string>
   <string name="media_controller_weak_signal">signal faible</string>
   <string name="VideoView_error_text_bad_file">Fichier incorrect, cette vidéo ne peuvent pas être lu.</string>
   <string name="VideoView_error_text_cannot_connect_to_server">Impossible de se connecter au serveur.</string>
@@ -131,7 +131,7 @@
   <string name="keyguard_internal_call">Appel interne</string>
   <string name="keyguard_not_set">Non défini</string>
   <string name="network_searching">Recherche d\'un nouveau réseau</string>
-  <string name="searching_simcard">Détection...</string>
+  <string name="searching_simcard">Détection…</string>
   <string name="keyguard_close">Fermer</string>
   <string name="more_siminfo_for_button">Plus d\'informations</string>
   <string name="more_info_title">Débloquer la carte SIM marquée</string>

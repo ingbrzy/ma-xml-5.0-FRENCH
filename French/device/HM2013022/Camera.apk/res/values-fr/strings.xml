@@ -125,8 +125,8 @@
   <string name="launch_market">Lancer le PlayStore</string>
   <string name="launch_qq">Lancer QQ</string>
   <string name="launch_wechat">Lancer WeChat</string>
-  <string name="loading">Chargement...</string>
-  <string name="loading_video">Chargement de la vidéo...</string>
+  <string name="loading">Chargement…</string>
+  <string name="loading_video">Chargement de la vidéo…</string>
   <string name="location">Lieu</string>
   <string name="locations">Lieux</string>
   <string name="maker">Fabricant</string>
@@ -142,14 +142,14 @@
   <string name="open">Ouvrir</string>
   <string name="orientation">Orientation</string>
   <string name="pano_dialog_panorama_failed">"Impossible d'enregistrer le panorama"</string>
-  <string name="pano_dialog_prepare_preview">Préparation vue panoramique...</string>
+  <string name="pano_dialog_prepare_preview">Préparation vue panoramique…</string>
   <string name="pano_dialog_title">Panoramique</string>
   <string name="pano_dialog_waiting_previous">Attendre que le panorama précédent se termine</string>
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Appuyez sur le déclencheur pour commencer à prendre des photos panoramiques</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Restez stable lors du déplacement</string>
   <string name="pano_how_to_use_prompt_to_move">Lors de la prise, essayez de garder le mouvement du téléphone stable</string>
-  <string name="pano_review_saving_indication_str">Enregistrement...</string>
+  <string name="pano_review_saving_indication_str">Enregistrement…</string>
   <string name="pano_too_fast_prompt">Trop rapide</string>
   <string name="path">Chemin d\'accès</string>
   <string name="people">Contacts</string>
@@ -382,7 +382,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 secondes (90 fois)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 secondes (900 fois)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Laps de temps</string>
-  <string name="preparing_sd">Préparation du stockage...</string>
+  <string name="preparing_sd">Préparation du stockage…</string>
   <string name="qq_details">Détails QQ :</string>
   <string name="qr_code_details">"Détails QR code : "</string>
   <string name="record_back_pressed_hint">Appuyez à nouveau pour arrêter l\'enregistrement</string>
@@ -458,7 +458,7 @@
   <string name="width">Largeur</string>
   <string name="wifi_connect_fail">Délai de connexion dépassé ou échec du réseau Wi-Fi</string>
   <string name="wifi_connect_success">Connecté avec succès au réseau Wi-Fi</string>
-  <string name="wifi_connecting">Connexion Wi-Fi...</string>
+  <string name="wifi_connecting">Connexion Wi-Fi…</string>
   <string name="wifi_details">Détails du réseau Wi-Fi :</string>
   <string name="wifi_open_fail">Impossible d\'ouvrir le réseau Wi-Fi</string>
   <string name="wifi_pwd">Mot de passe :</string>

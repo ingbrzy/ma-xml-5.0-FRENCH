@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="account_bind_prompt">"Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter..."</string>
+  <string name="account_bind_prompt">"Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter…"</string>
   <string name="add_task">Ajouter une tâche</string>
   <string name="adding_upload_tasks">Ajout de tâches à partager.</string>
   <string name="already_signin_description">Vous êtes déjà connecté</string>
@@ -42,7 +42,7 @@
   <string name="clean_title">Supprimer les fichiers de plus de 30 jours dans la corbeille</string>
   <string name="clean_trash_box">Vider la corbeille</string>
   <string name="cleaned">Nettoyage terminé</string>
-  <string name="cleaning">Nettoyage...</string>
+  <string name="cleaning">Nettoyage…</string>
   <string name="cleanup_complete">Nettoyage réussi</string>
   <string name="cleanup_stopped">Nettoyage interrompu</string>
   <string name="close">Fermer</string>
@@ -54,9 +54,9 @@
   <string name="copy_failed">Échec de la copie</string>
   <string name="count_down_time">Commencer après %d secondes</string>
   <string name="create_kuaipan_shortcut_pref">Créer un raccourci sur le bureau</string>
-  <string name="create_new_folder_desctiption">Création d\'un nouveau dossier...</string>
+  <string name="create_new_folder_desctiption">Création d\'un nouveau dossier…</string>
   <string name="create_new_folder_failed">Impossible de créer le dossier %1$s</string>
-  <string name="create_share_link_description">Création d\'un lien de partage...</string>
+  <string name="create_share_link_description">Création d\'un lien de partage…</string>
   <string name="cution">Conseils</string>
   <string name="data_capacity">Espace : %1$s</string>
   <string name="data_size_label">Données</string>
@@ -84,7 +84,7 @@
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Échec du téléchargement !</string>
   <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de MiDrive. Appuyez sur le lien ci-dessous pour plus de détails :</string>
-  <string name="downloading">Téléchargement...</string>
+  <string name="downloading">Téléchargement…</string>
   <string name="empty_dir_cleanup_indication">%s dossiers vides</string>
   <string name="empty_dir_title">Dossiers vides</string>
   <string name="enable_sd_card">Aucune carte SD disponible, veuillez en connecter une</string>
@@ -104,7 +104,7 @@
   <string name="file_info_location">Chemin d\'accès : </string>
   <string name="file_info_modified">Mis à jour : </string>
   <string name="file_info_size">Taille : </string>
-  <string name="file_loading">Chargement...</string>
+  <string name="file_loading">Chargement…</string>
   <string name="file_too_large">"Le fichier est trop volumineux et ne peut être envoyé"</string>
   <string name="finished">Terminé</string>
   <string name="folder_exist">Le fichier existe déjà</string>
@@ -128,7 +128,7 @@ Superflu"</string>
   <string name="header_text_cleaned">Superflu supprimé</string>
   <string name="header_text_cleaning">Nettoyage, superflu restant</string>
   <string name="header_text_scanned">Fichiers superflus à supprimer</string>
-  <string name="header_text_scanning">Scan des fichiers superflus...</string>
+  <string name="header_text_scanning">Scan des fichiers superflus…</string>
   <string name="instruction">Entrez l\'adresse suivante dans votre client FTP :</string>
   <string name="instruction_pre">Démarrez le service pour activer le serveur FTP</string>
   <string name="item_name">Sans nom</string>
@@ -138,7 +138,7 @@ Superflu"</string>
   <string name="kuaipan_prompt_message">"Le serveur est actuellement indisponible, veuillez réessayer plus tard"</string>
   <string name="kuaipan_tech_support">Support technique de Xiaomi</string>
   <string name="load_err">Échec du chargement</string>
-  <string name="loading">Chargement en cours...</string>
+  <string name="loading">Chargement en cours…</string>
   <string name="local_cache_size">Taille du cache local : %s</string>
   <string name="login_reg_content">MiDrive vous permet de stocker des fichiers et de les synchroniser entre plusieurs périphériques.</string>
   <string name="login_reg_content0">MiDrive est votre lecteur cloud</string>
@@ -178,30 +178,30 @@ Superflu"</string>
 1. Le télécharger (mettre à jour le fichier local) 
 2. L\'envoyer (mettre à jour le fichier distant)"</string>
   <string name="open_changed_file_title">Fichier modifié</string>
-  <string name="operating">En cours...</string>
+  <string name="operating">En cours…</string>
   <string name="operation_cancel">Annuler</string>
   <string name="operation_compress">Compresser</string>
-  <string name="operation_compressing">Compression...</string>
+  <string name="operation_compressing">Compression…</string>
   <string name="operation_copy">Copier</string>
-  <string name="operation_copying">Copie...</string>
+  <string name="operation_copying">Copie…</string>
   <string name="operation_copying_detail">Copie de fichiers (%1$d/%2$d)</string>
   <string name="operation_create_folder">Nouveau dossier</string>
   <string name="operation_create_folder_message">Entrez le nom du dossier</string>
-  <string name="operation_decompressing">Décompression...</string>
+  <string name="operation_decompressing">Décompression…</string>
   <string name="operation_delete">Supprimer</string>
   <string name="operation_delete_confirm_message">Confirmer la suppression ?</string>
   <string name="operation_delete_confirm_message_folder">"Supprimer un dossier supprimera tous les fichiers qu\'il contient. "</string>
-  <string name="operation_deleting">Suppression en cours...</string>
+  <string name="operation_deleting">Suppression en cours…</string>
   <string name="operation_deleting_detail">Suppression de fichiers (%1$d/%2$d)</string>
   <string name="operation_download_link">Générer le lien de téléchargement</string>
   <string name="operation_favorite">Ajouter aux favoris</string>
   <string name="operation_hide_sys">Masquer les fichiers cachés</string>
   <string name="operation_info">Détails</string>
   <string name="operation_move">Déplacer</string>
-  <string name="operation_moving">Déplacement...</string>
+  <string name="operation_moving">Déplacement…</string>
   <string name="operation_moving_detail">Déplacement de fichiers (%1$d/%2$d)</string>
   <string name="operation_paste">Coller</string>
-  <string name="operation_pasting">Copie...</string>
+  <string name="operation_pasting">Copie…</string>
   <string name="operation_pause">Pause</string>
   <string name="operation_pause_all">Tout mettre en pause</string>
   <string name="operation_refresh">Rafraîchir</string>
@@ -215,14 +215,14 @@ Superflu"</string>
   <string name="pan_settting">Paramètres MiDrive</string>
   <string name="paused">En pause</string>
   <string name="pull_to_signin">Glissez vers le bas pour vous connecter et obtenir de l\'espace gratuit</string>
-  <string name="query_bind_state">Interrogation de l\'état de liaison, veuillez patienter...</string>
+  <string name="query_bind_state">Interrogation de l\'état de liaison, veuillez patienter…</string>
   <string name="release_to_signin">Libérez pour vos connecter</string>
-  <string name="rename_description">Changement de nom, veuillez patienter...</string>
+  <string name="rename_description">Changement de nom, veuillez patienter…</string>
   <string name="rename_failed">Le changement de nom de %1$s a échoué</string>
   <string name="restart_cleaning">Redémarrer</string>
   <string name="scanned">Scan achevé</string>
-  <string name="scanning" formatted="false">Scan de %d apps... (sur %d apps)</string>
-  <string name="scanning_on_going">Scan en cours...</string>
+  <string name="scanning" formatted="false">Scan de %d apps… (sur %d apps)</string>
+  <string name="scanning_on_going">Scan en cours…</string>
   <string name="sd_card_available">Disponible : %1$s</string>
   <string name="sd_card_size">Total : %1$s</string>
   <string name="sd_full">La carte SD est pleine</string>
@@ -236,7 +236,7 @@ Superflu"</string>
   <string name="server_control_settings">Paramètres</string>
   <string name="share_link_failed">Impossible de créer le lien partagé, veuillez réessayer à nouveau !</string>
   <string name="show_message">Le fichier ne peut pas être ouvert tant que le téléchargement n\'est pas terminé</string>
-  <string name="sign_description">Connexion...</string> 
+  <string name="sign_description">Connexion…</string> 
   <string name="signin_error">Réseau actuellement indisponible, veuillez réessayer</string> 
   <string name="signin_success">"Connexion réussie ! 
 Obtenez de l\'espace gratuit %1$s"</string>
@@ -269,20 +269,20 @@ Obtenez de l\'espace gratuit %1$s"</string>
   <string name="trash_box_link">Visitez pan.xiaomi.com pour vider la corbeille</string>
   <string name="trash_box_message1">Vous pouvez supprimer des fichiers non importants pour libérer de l\'espace</string>
   <string name="trash_box_message2">Vous pouvez supprimer des fichiers ou vider la corbeille pour libérer de l\'espace</string>
-  <string name="ui_bar_txt_download_progress">Téléchargement...</string>
-  <string name="ui_bar_txt_upload_progress">Téléchargement...</string>
+  <string name="ui_bar_txt_download_progress">Téléchargement…</string>
+  <string name="ui_bar_txt_upload_progress">Téléchargement…</string>
   <string name="ui_filechange_btn_download">Télécharger les fichiers</string>
   <string name="ui_filechange_btn_upload">Envoyer des fichiers</string>
   <string name="ui_main_menu_option_sign_in">Se connecter</string>
   <string name="ui_main_menu_option_task_manage">Gestion de transfert</string>
-  <string name="ui_main_progress_txt_open_file">Téléchargement...</string>
+  <string name="ui_main_progress_txt_open_file">Téléchargement…</string>
   <string name="ui_main_toast_favorite_removed">Les favoris on été supprimés</string>
   <string name="ui_main_toast_operation_failed">Échec de la suppression de %1$s des favoris.</string>
   <string name="uninstall_app_data">Supprimer l\'application et ses données</string>
   <string name="unmount_inform_text">Le stockage USB va être démonté.</string>
   <string name="upload_failed">Échec du téléchargement !</string>
   <string name="upload_file_toolarge_message">Les fichiers %1$d allant au-delà de 300 Mo ne peuvent pas être partagés. Veuillez vérifier la gestion de transfert pour plus de détails.</string>
-  <string name="uploading">Envoi...</string>
+  <string name="uploading">Envoi…</string>
   <string name="used">Utilisé</string>
   <string name="user_guide">Guide de l\'utilisateur</string>
   <string name="user_guide_download_other_version">"Télécharger MiDrive pour PC ou Mac"</string>
@@ -296,7 +296,7 @@ Obtenez de l\'espace gratuit %1$s"</string>
   <string name="wait_net">En attente de réseau</string>
   <string name="wait_sdcard">En attente du montage de la carte SD</string>
   <string name="wait_wifi">En attente d\'une connexion Wi-Fi</string>
-  <string name="waiting">En attente...</string>
+  <string name="waiting">En attente…</string>
   <string name="waiting_for_cleaning">En attente de nettoyage</string>
   <string name="waiting_for_scanning">En attente de scan</string>
   <string name="wangpan_root_path">Mon disque</string>

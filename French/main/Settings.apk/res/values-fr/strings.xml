@@ -78,7 +78,7 @@ Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le conte
   <string name="accessibility_toggle_speak_password_preference_title">Énoncer les mots de passe</string>
   <string name="account_settings">Comptes</string>
   <string name="account_sync_settings_title">Synchronisation</string>
-  <string name="activating">Activation...</string>
+  <string name="activating">Activation…</string>
   <string name="active_device_admin_msg">Administrateur de l\'appareil</string>
   <string name="active_input_method_subtypes">Modes de saisie actifs</string>
   <string name="activity_not_found">L\'application n\'est pas installée sur votre téléphone.</string>
@@ -213,7 +213,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="backup_pw_set_button_text">Définir le mot de passe de sauvegarde</string>
   <string name="backup_section_title">Sauvegarde et restauration</string>
   <string name="band_mode_failed">Échec</string>
-  <string name="band_mode_loading">Chargement de la liste de bandes...</string>
+  <string name="band_mode_loading">Chargement de la liste de bandes…</string>
   <string name="band_mode_set">Définir</string>
   <string name="band_mode_succeeded">OK</string>
   <string name="band_mode_title">Définir la bande GSM/UMTS</string>
@@ -311,12 +311,12 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_ask_lasting_discovery">Une application nécessite que d\'autres appareils Bluetooth puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth.</string>
   <string name="bluetooth_auto_connect">Connexion automatique</string>
   <string name="bluetooth_confirm_passkey_msg">Pour associer votre appareil à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Assurez-vous que le mot de passe &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; s\'affiche.</string>
-  <string name="bluetooth_connect_specific_profiles_title">Se connecter à...</string>
+  <string name="bluetooth_connect_specific_profiles_title">Se connecter à…</string>
   <string name="bluetooth_connected">Connecté</string>
   <string name="bluetooth_connected_no_a2dp">Connecté (sans audio contenu multimédia)</string>
   <string name="bluetooth_connected_no_headset">Connecté (sans audio pour appels tél.)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans audio tel./multimédia)</string>
-  <string name="bluetooth_connecting">Connexion...</string>
+  <string name="bluetooth_connecting">Connexion…</string>
   <string name="bluetooth_connecting_error_message">"Impossible de se connecter à %1$s."</string>
   <string name="bluetooth_connection_dialog_text">Voulez-vous vous connecter à "%1$s" ?</string>
   <string name="bluetooth_connection_notif_message">Appuyez pour vous connecter à "%1$s".</string>
@@ -329,7 +329,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_device_advanced_rename_device">Renommer</string>
   <string name="bluetooth_device_advanced_title">Appareil Bluetooth associé</string>
   <string name="bluetooth_device_context_connect">Se connecter</string>
-  <string name="bluetooth_device_context_connect_advanced">Options...</string>
+  <string name="bluetooth_device_context_connect_advanced">Options…</string>
   <string name="bluetooth_device_context_disconnect">Déconnecter</string>
   <string name="bluetooth_device_context_disconnect_unpair">Déconnecter et dissocier</string>
   <string name="bluetooth_device_context_pair_connect">Associer et connecter</string>
@@ -348,7 +348,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_disconnect_pan_user_profile">L\'accès à Internet via %1$s va être interrompu.</string>
   <string name="bluetooth_disconnect_title">Déconnecter ?</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
-  <string name="bluetooth_disconnecting">Déconnexion...</string>
+  <string name="bluetooth_disconnecting">Déconnexion…</string>
   <string name="bluetooth_display_passkey_pin_msg">Pour l\'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisissez &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, puis appuyez sur "Retour" ou sur "Entrée".</string>
   <string name="bluetooth_dock_settings">Paramètres de la station d\'accueil</string>
   <string name="bluetooth_dock_settings_a2dp">Pour la musique et le multimédia</string>
@@ -389,7 +389,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_mas_remember_choice">"Ne plus me demander"</string>
   <string name="bluetooth_mas_request">Requête d\'accès de message</string>
   <string name="bluetooth_menu_advanced">Paramètres avancés</string>
-  <string name="bluetooth_name_not_set">Aucun nom n\'a été défini. Utilisation du nom du compte...</string>
+  <string name="bluetooth_name_not_set">Aucun nom n\'a été défini. Utilisation du nom du compte…</string>
   <string name="bluetooth_no_devices_found">Aucun appareil Bluetooth détecté.</string>
   <string name="bluetooth_not_discoverable">Rendre le périphérique identifiable</string>
   <string name="bluetooth_not_visible_to_other_devices">Non identifiable par d\'autres appareils Bluetooth</string>
@@ -401,7 +401,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_opp_profile_summary_connected">Connexion au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Connexion au serveur de transfert de fichiers non établie</string>
   <string name="bluetooth_opp_profile_summary_use_for">Utiliser pour le transfert de fichiers</string>
-  <string name="bluetooth_pairing">Association...</string>
+  <string name="bluetooth_pairing">Association…</string>
   <string name="bluetooth_pairing_accept">Se connecter</string>
   <string name="bluetooth_pairing_decline">Annuler</string>
   <string name="bluetooth_pairing_device_down_error_message">"Impossible d'établir la communication avec %1$s."</string>
@@ -444,7 +444,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_sap_request">Requête SAP</string>
   <string name="bluetooth_scan_for_devices">Recherche d\'appareils</string>
   <string name="bluetooth_search_for_devices">Rechercher appareils</string>
-  <string name="bluetooth_searching_for_devices">Recherche...</string>
+  <string name="bluetooth_searching_for_devices">Recherche…</string>
   <string name="bluetooth_settings">Bluetooth</string>
   <string name="bluetooth_settings_summary">Gérer les connexions, configurer le nom et l\'identification de l\'appareil</string>
   <string name="bluetooth_settings_title">Bluetooth</string>
@@ -456,8 +456,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_tethering_errored_subtext">Pas de partage de connexion.</string>
   <string name="bluetooth_tethering_off_subtext">"Connexion Internet du téléphone non partagée"</string>
   <string name="bluetooth_tethering_overflow_error">"Partage connexion impossible au-delà de %1$d appareils."</string>
-  <string name="bluetooth_turning_off">Désactivation du Bluetooth...</string>
-  <string name="bluetooth_turning_on">Activation du Bluetooth...</string>
+  <string name="bluetooth_turning_off">Désactivation du Bluetooth…</string>
+  <string name="bluetooth_turning_on">Activation du Bluetooth…</string>
   <string name="bluetooth_unknown"></string>
   <string name="bluetooth_untether_blank">Le partage connexion avec %1$s va être annulé.</string>
   <string name="bluetooth_visibility">Identifiable</string>
@@ -523,7 +523,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="clear_user_data_text">Effacer les données</string>
   <string name="common_settings">Paramètres rapides</string>
   <string name="complete_settings">Paramètres complets</string>
-  <string name="computing_size">Traitement...</string>
+  <string name="computing_size">Traitement…</string>
   <string name="config_list_label">Réseaux configurés</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
   <string name="config_mtp_function_name">mtp</string>
@@ -603,7 +603,7 @@ Certains comptes permettent également de copier automatiquement sur le Web tout
 
 Pour sélectionner le type d\'informations à synchroniser au sein de chaque compte, accédez à Paramètres &gt; Comptes."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Activer synchro auto données ?</string>
-  <string name="data_usage_change_cycle">Changer le cycle...</string>
+  <string name="data_usage_change_cycle">Changer le cycle…</string>
   <string name="data_usage_cycle">Cycle de consommation</string>
   <string name="data_usage_cycle_editor_positive">Définir</string>
   <string name="data_usage_cycle_editor_subtitle">Jour du mois :</string>
@@ -1183,7 +1183,7 @@ Vous êtes actuellement connecté aux comptes suivants :
   <string name="master_clear_desc_erase_external_storage">"
 
 Pour supprimer la musique, les photos et les autres données utilisateur, vous devez effacer la "<b>mémoire de stockage USB.</b></string>
-  <string name="master_clear_erase_application_progress">Suppression des applications en cours...</string>
+  <string name="master_clear_erase_application_progress">Suppression des applications en cours…</string>
   <string name="master_clear_failed">"Les données n'ont pas été réinitialisées, car le service de nettoyage du système n'est pas disponible."</string>
   <string name="master_clear_final_button_text">Tout effacer</string>
   <string name="master_clear_final_desc">"Effacer toutes vos informations personnelles et les applications téléchargées ? Cette action est irréversible."</string>
@@ -1315,7 +1315,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="perm_app_name">Permissions</string>
   <string name="perm_auto_start">Gérer le démarrage automatique des applications</string>
   <string name="perm_auto_start_desc">Activer ou désactiver la fonction de démarrage automatique des applications</string>
-  <string name="perm_canceling">Annulation...</string>
+  <string name="perm_canceling">Annulation…</string>
   <string name="perm_check">Vérifier</string>
   <string name="perm_clean">Nettoyer</string>
   <string name="perm_configuration">Paramètres</string>
@@ -1412,13 +1412,13 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="perm_hips_wifi_network_desc">Réseau Wi-Fi</string>
   <string name="perm_hips_wifi_network_hint">%1$s apps sont autorisées à accéder à Internet via le réseau mobile</string>
   <string name="perm_invalid_input">Entrée invalide</string>
-  <string name="perm_loading">Chargement...</string>
+  <string name="perm_loading">Chargement…</string>
   <string name="perm_log">Journal</string>
   <string name="perm_log_clear_content">L\'ensemble du journal sera effacé. Continuer ?</string>
   <string name="perm_log_clear_title">Effacer le journal</string>
   <string name="perm_monitored_app">Applications surveillées (%1$d)</string>
   <string name="perm_notice">Alerte de sécurité</string>
-  <string name="perm_operating">En cours...</string>
+  <string name="perm_operating">En cours…</string>
   <string name="perm_optimize">Optimiser</string>
   <string name="perm_privacy_app_count">%1$d autorisation(s)</string>
   <string name="perm_privacy_app_count_trust_summary">Faire confiance à l\'application</string>
@@ -1582,7 +1582,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="radioInfo_service_out">Hors-service</string>
   <string name="radioInfo_unknown">inconnu</string>
   <string name="radio_controls_summary">Configurer le Wi-Fi, le mode Bluetooth, le mode Avion, les réseaux mobiles et le VPN</string>
-  <string name="radio_controls_title">Plus...</string>
+  <string name="radio_controls_title">Plus…</string>
   <string name="radio_info_band_mode_label">Choisir une bande radio</string>
   <string name="radio_info_call_redirect_label">Redirection des appels :</string>
   <string name="radio_info_call_status_label">État de l\'appel : </string>
@@ -1619,7 +1619,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="recognizer_settings_summary">"Paramètres de "%s""</string>
   <string name="recognizer_settings_title">Recherche vocale</string>
   <string name="recognizer_title">Saisie vocale</string>
-  <string name="recompute_size">Calcul de la taille...</string>
+  <string name="recompute_size">Calcul de la taille…</string>
   <string name="regulatory_information">Infos réglementaires</string>
   <string name="remove_account_failed">Ce compte est requis par certaines applications. Vous ne pouvez le supprimer qu\'en rétablissant la configuration d\'usine du téléphone (ce qui supprime toutes vos données personnelles) dans Paramètres &gt; Sauvegarder et réinitialiser.</string>
   <string name="remove_account_label">Supprimer le compte</string>
@@ -1636,7 +1636,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
 
  Vous ne perdrez aucune des données relatives à ces applications."</string>
   <string name="reset_app_preferences_title">Réinitialiser préférences ?</string>
-  <string name="restore_default_apn">Restauration des paramètres APN par défaut en cours...</string>
+  <string name="restore_default_apn">Restauration des paramètres APN par défaut en cours…</string>
   <string name="restore_default_apn_completed">La réinitialisation des paramètres APN par défaut est terminée.</string>
   <string name="retry">Réessayer</string>
   <string name="ring_volume_title">Volume de la sonnerie</string>
@@ -1802,10 +1802,10 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="settings_button">Paramètres</string>
   <string name="settings_label">Paramètres</string>
   <string name="settings_label_launcher">Paramètres</string>
-  <string name="settings_license_activity_loading">Chargement...</string>
+  <string name="settings_license_activity_loading">Chargement…</string>
   <string name="settings_license_activity_title">Licences open source</string>
   <string name="settings_license_activity_unavailable">Un problème est survenu lors du chargement des licences.</string>
-  <string name="settings_safetylegal_activity_loading">Chargement...</string>
+  <string name="settings_safetylegal_activity_loading">Chargement…</string>
   <string name="settings_safetylegal_activity_title">Informations de sécurité</string>
   <string name="settings_safetylegal_activity_unreachable">"Vous n'avez pas de connexion Internet. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet."</string>
   <string name="settings_safetylegal_title">Informations de sécurité</string>
@@ -1950,7 +1950,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sync_error">Erreur de synchronisation</string>
   <string name="sync_failed">Échec de la synchronisation</string>
   <string name="sync_gmail">Gmail</string>
-  <string name="sync_in_progress">Synchronisation en cours...</string>
+  <string name="sync_in_progress">Synchronisation en cours…</string>
   <string name="sync_is_failing">La synchronisation rencontre des problèmes et sera bientôt rétablie.</string>
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Annuler la synchronisation</string>
@@ -2129,7 +2129,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
 
 N\'importe quel utilisateur peut accepter des autorisations mises à jour pour les applications au nom de tous les autres."</string>
   <string name="user_add_user_title">Ajouter un utilisateur</string>
-  <string name="user_adding_new_user">Ajout de l\'utilisateur...</string>
+  <string name="user_adding_new_user">Ajout de l\'utilisateur…</string>
   <string name="user_cannot_manage_message">"Seul le propriétaire du téléphone peut gérer les utilisateurs."</string>
   <string name="user_confirm_remove_message">"L'espace et les données de cet utilisateur vont être supprimés de ce téléphone. Cette action est irréversible."</string>
   <string name="user_confirm_remove_self_message">"Votre espace et vos données vont être supprimés de ce téléphone. Cette action est irréversible."</string>
@@ -2152,7 +2152,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="user_dict_settings_context_menu_edit_title">Modifier</string>
   <string name="user_dict_settings_edit_dialog_title">Modifier le mot</string>
   <string name="user_dict_settings_empty_text">"Votre dictionnaire personnel ne contient aucun mot. Ajoutez un mot en appuyant sur le bouton "+"."</string>
-  <string name="user_dict_settings_more_languages">Plus de langues...</string>
+  <string name="user_dict_settings_more_languages">Plus de langues…</string>
   <string name="user_dict_settings_summary"></string>
   <string name="user_dict_settings_titlebar">Dictionnaire personnel</string>
   <string name="user_dict_single_settings_title">Dictionnaire personnel</string>
@@ -2200,17 +2200,17 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="virus_scan_app_no_risk">Aucun risque détecté</string>
   <string name="virus_scan_app_passed">Le scan s\'est terminé avec succès</string>
   <string name="virus_scan_app_risk">Menace trouvée !</string>
-  <string name="virus_scan_app_safe_scanning">Analyse en cours...</string>
+  <string name="virus_scan_app_safe_scanning">Analyse en cours…</string>
   <string name="virus_scan_app_scan_finish">Analyse terminée !</string>
-  <string name="virus_scan_app_scanning">Analyse de l\'application en cours...</string>
+  <string name="virus_scan_app_scanning">Analyse de l\'application en cours…</string>
   <string name="virus_scan_app_stop_scan">Arrêter l\'analyse</string>
   <string name="virus_scan_app_uninstall">Désinstallation du lot (%d)</string>
-  <string name="virus_scan_app_waiting">En attente...</string>
+  <string name="virus_scan_app_waiting">En attente…</string>
   <string name="virus_scanner_auto_update">Mise à jour automatique</string>
   <string name="virus_scanner_date_formater">dd MMM yyyy</string>
   <string name="virus_scanner_lib_already_latest">La base de données antivirus est à jour</string>
   <string name="virus_scanner_lib_update_failed">Échec de la mise à jour de la base de données antivirus !</string>
-  <string name="virus_scanner_lib_updating">Mise à jour de la base de données en cours...</string>
+  <string name="virus_scanner_lib_updating">Mise à jour de la base de données en cours…</string>
   <string name="virus_scanner_manual_update">Mettre à jour manuellement</string>
   <string name="virus_scanner_provider">Sécurité assurée par %s</string>
   <string name="virus_scanner_scan">Analyser maintenant</string>
@@ -2295,7 +2295,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wfd_enable_wifi_diag_title">"Vous pouvez utiliser l'affichage sans fil uniquement quand se dernier est actif. L'activer maintenant ?"</string>
   <string name="wfd_enabler_title">"Activer l'affichage sans fil"</string>
   <string name="wfd_menu_search">Rechercher des périphériques</string>
-  <string name="wfd_menu_searching">Recherche...</string>
+  <string name="wfd_menu_searching">Recherche…</string>
   <string name="wfd_menu_teardown">Déconnecter</string>
   <string name="wfd_settings_description">Connectez-vous à un écran via Wi-Fi</string>
   <string name="wfd_settings_title">Affichage sans fil</string>
@@ -2356,7 +2356,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_eap_method">Méthode EAP</string>
   <string name="wifi_eap_user_cert">Certificat utilisateur</string>
   <string name="wifi_empty_list_wifi_off">Activez le Wi-Fi pour voir les réseaux disponibles.</string>
-  <string name="wifi_empty_list_wifi_on">Recherche de réseaux Wi-Fi en cours...</string>
+  <string name="wifi_empty_list_wifi_on">Recherche de réseaux Wi-Fi en cours…</string>
   <string name="wifi_enable">Activer le Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Ne pas utiliser les réseaux Wi-Fi avec des connexions Internet de qualité médiocre</string>
   <string name="wifi_error">Erreur</string>
@@ -2394,7 +2394,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_notify_open_networks">Notification de réseau</string>
   <string name="wifi_notify_open_networks_summary">Me notifier lorsqu\'un réseau ouvert est disponible</string>
   <string name="wifi_on_time">Wi-Fi/temps</string>
-  <string name="wifi_other_network">Autre réseau...</string>
+  <string name="wifi_other_network">Autre réseau…</string>
   <string name="wifi_p2p_cancel_connect_message">Voulez-vous annuler l\'invitation à se connecter avec %1$s ?</string>
   <string name="wifi_p2p_cancel_connect_title">Annuler l\'invitation ?</string>
   <string name="wifi_p2p_delete_group_message">Voulez-vous vraiment supprimer ce groupe ?</string>
@@ -2409,7 +2409,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_p2p_menu_remove_group">Supprimer groupe</string>
   <string name="wifi_p2p_menu_rename">Renommer l\'appareil</string>
   <string name="wifi_p2p_menu_search">Rechercher des appareils</string>
-  <string name="wifi_p2p_menu_searching">Recherche en cours...</string>
+  <string name="wifi_p2p_menu_searching">Recherche en cours…</string>
   <string name="wifi_p2p_peer_devices">Appareils associés</string>
   <string name="wifi_p2p_persist_network">Mémoriser cette connexion</string>
   <string name="wifi_p2p_remembered_groups">Groupes mémorisés</string>
@@ -2457,7 +2457,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_setup_description_connected">Appuyez sur <b>Suivant</b>" pour poursuivre la configuration.
 
 Appuyez sur "<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.</string>
-  <string name="wifi_setup_description_connecting">La connexion peut prendre quelques minutes...</string>
+  <string name="wifi_setup_description_connecting">La connexion peut prendre quelques minutes…</string>
   <string name="wifi_setup_detail">Infos réseau</string>
   <string name="wifi_setup_eap_not_supported">"Vous ne pouvez pas configurer de connexion Wi-Fi EAP lors de l'installation. Une fois celle-ci effectuée, vous pourrez le faire dans Paramètres &gt; Sans fil et réseaux."</string>
   <string name="wifi_setup_forget">Supprimer</string>
@@ -2466,19 +2466,19 @@ Appuyez sur "<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.</
   <string name="wifi_setup_refresh_list">Actualiser la liste</string>
   <string name="wifi_setup_save">Enregistrer</string>
   <string name="wifi_setup_skip">Ignorer</string>
-  <string name="wifi_setup_status_connecting">Connexion en cours...</string>
+  <string name="wifi_setup_status_connecting">Connexion en cours…</string>
   <string name="wifi_setup_status_eap_not_supported">"L'EAP n'est pas compatible."</string>
   <string name="wifi_setup_status_edit_network">Saisissez la configuration réseau.</string>
   <string name="wifi_setup_status_existing_network">Se connecter à un réseau existant</string>
   <string name="wifi_setup_status_new_network">Se connecter à un nouveau réseau</string>
   <string name="wifi_setup_status_proceed_to_next">Passer à l\'étape suivante</string>
-  <string name="wifi_setup_status_scanning">Recherche de réseaux...</string>
+  <string name="wifi_setup_status_scanning">Recherche de réseaux…</string>
   <string name="wifi_setup_status_select_network">Appuyez sur un réseau pour vous y connecter</string>
   <string name="wifi_setup_status_unsecured_network">Connexion à un réseau non sécurisé</string>
   <string name="wifi_setup_title">Configuration Wi-Fi</string>
   <string name="wifi_setup_title_add_network">Ajouter un réseau</string>
   <string name="wifi_setup_title_connected_network">Connecté au réseau Wi-Fi %s</string>
-  <string name="wifi_setup_title_connecting_network">Connexion au réseau Wi-Fi %s...</string>
+  <string name="wifi_setup_title_connecting_network">Connexion au réseau Wi-Fi %s…</string>
   <string name="wifi_setup_title_editing_network">Se connecter au réseau Wi-Fi %s</string>
   <string name="wifi_setup_wizard_title">Sélectionner le Wi-Fi</string>
   <string name="wifi_setup_wps">Configuration auto (WPS)</string>
@@ -2521,7 +2521,7 @@ vous pouvez utiliser les réseaux d\'autres utilisateurs"</string>
 La configuration du téléphone peut générer une forte activité sur le réseau."</string>
   <string name="wifi_speed">Vitesse de connexion</string>
   <string name="wifi_ssid">SSID du réseau</string>
-  <string name="wifi_starting">Activation du Wi-Fi...</string>
+  <string name="wifi_starting">Activation du Wi-Fi…</string>
   <string name="wifi_state_disabled">Désactivé</string>
   <string name="wifi_state_disabling">Désactivation</string>
   <string name="wifi_state_enabled">Activé</string>
@@ -2530,7 +2530,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_state_unknown">Inconnu</string>
   <string name="wifi_status">État</string>
   <string name="wifi_status_test">État des connexions Wi-Fi</string>
-  <string name="wifi_stopping">Désactivation du Wi-Fi...</string>
+  <string name="wifi_stopping">Désactivation du Wi-Fi…</string>
   <string name="wifi_suspend_optimizations">Optimisation Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimiser la consommation de la batterie lorsque le Wi-Fi est activé</string>
   <string name="wifi_tether_checkbox_text">Point d\'accès Wi-Fi</string>
@@ -2567,7 +2567,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_wapi_user_cert">Certificat utilisateur</string>
   <string name="wifi_wps_available_first_item">WPS disponible</string>
   <string name="wifi_wps_available_second_item">" (WPS disponible)"</string>
-  <string name="wifi_wps_complete">Configuration WPS réussie. Connexion au réseau en cours...</string>
+  <string name="wifi_wps_complete">Configuration WPS réussie. Connexion au réseau en cours…</string>
   <string name="wifi_wps_connected">Connecté au réseau Wi-Fi %s</string>
   <string name="wifi_wps_failed_auth">Échec de l\'authentification. Veuillez réessayer.</string>
   <string name="wifi_wps_failed_generic">Échec de la configuration WPS. Veuillez réessayer dans quelques minutes.</string>
@@ -2578,7 +2578,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton "Configuration Wi-Fi protégée" de votre routeur. Celui-ci peut s\'appeler "WPS" ou contenir ce symbole : </string>
   <string name="wifi_wps_onstart_pin">Saisissez le code %1$s sur votre routeur Wi-Fi. La configuration peut prendre jusqu\'à deux minutes.</string>
   <string name="wifi_wps_overlap_error">Autre session protégée Wi-Fi détectée. Réessayez dans quelques minutes</string>
-  <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS...</string>
+  <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS…</string>
   <string name="wifi_wps_setup_title">Configuration Wi-Fi protégée</string>
   <string name="wimax_settings">Paramètres 4G</string>
   <string name="wimax_settings_summary">Configurer et gérer le réseau et le modem 4G</string>

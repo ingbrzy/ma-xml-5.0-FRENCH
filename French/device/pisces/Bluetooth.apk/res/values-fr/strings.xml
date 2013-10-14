@@ -38,14 +38,14 @@
   <string name="download_line2">Fichier : %1$s</string>
   <string name="download_line3">Taille du fichier : %1$s</string>
   <string name="download_line4"></string>
-  <string name="download_line5">Réception de fichier en cours...</string>
+  <string name="download_line5">Réception de fichier en cours…</string>
   <string name="download_ok">Masquer</string>
   <string name="download_succ_line5">Fichier reçu</string>
   <string name="download_succ_ok">Ouvrir</string>
   <string name="download_success">Réception de %1$s terminée</string>
   <string name="download_title">Transfert de fichier</string>
-  <string name="enabling_progress_content">Activation Bluetooth...</string>
-  <string name="enabling_progress_title">Veuillez patienter...</string>
+  <string name="enabling_progress_content">Activation Bluetooth…</string>
+  <string name="enabling_progress_title">Veuillez patienter…</string>
   <string name="ErrorTooManyRequests">Trop de requêtes sont en cours de traitement. Veuillez réessayer ultérieurement.</string>
   <string name="hello">Bonjour à tous, TestActivity</string>
   <string name="inbound_history_title">Transferts entrants</string>
@@ -151,7 +151,7 @@
   <string name="upload_fail_ok">Réessayer</string>
   <string name="upload_line1">À : "%1$s"</string>
   <string name="upload_line3">Type de fichier : %1$s (%2$s)</string>
-  <string name="upload_line5">Envoi de fichier en cours...</string>
+  <string name="upload_line5">Envoi de fichier en cours…</string>
   <string name="upload_succ_line5">Fichier envoyé</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">Envoi de %1$s terminé</string>

@@ -69,7 +69,7 @@
   <string name="notealert_enter">Jeter un coup d\'œil</string>
   <string name="notealert_ok">Réussi</string>
   <string name="notelist_menu_new">Ajouter une note</string>
-  <string name="notelist_string_info">...</string>
+  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_action_mute">Mettre en silence</string>
   <string name="notify_alarm_action_view">Voir</string>
   <string name="notify_alarm_title">Rappel d\'alarme</string>
@@ -85,7 +85,7 @@
   <string name="preferences_title">Paramètres</string>
   <string name="search">Notes</string>
   <string name="search_hint">Rechercher des notes</string>
-  <string name="search_label">Recherche de notes...</string>
+  <string name="search_label">Recherche de notes…</string>
   <string name="search_setting_description">Rechercher du texte dans les notes</string>
   <string name="select_account_prompt">Activer la synchronisation de notes</string>
   <string name="snippet_image_stub">[Image]</string>

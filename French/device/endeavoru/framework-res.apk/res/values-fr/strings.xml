@@ -274,7 +274,7 @@
     <string name="silent_mode_silent">Sonnerie éteinte</string>
     <string name="silent_mode_vibrate">Sonnerie vibreur</string>
     <string name="silent_mode_ring">Sonnerie allumée</string>
-    <string name="shutdown_progress">Arrêt en cours...</string>
+    <string name="shutdown_progress">Arrêt en cours…</string>
     <string name="shutdown_confirm">"Votre téléphone va s'éteindre."</string>
     <string name="shutdown_confirm_question">"Voulez-vous éteindre l'appareil ?"</string>
     <string name="reboot_safemode_title">Redémarrer en mode sans échec</string>
@@ -764,7 +764,7 @@
     <string name="lockscreen_sim_puk_locked_message">La carte SIM est verrouillée par clé PUK.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Veuillez consulter le guide utilisateur ou contacter le service client.</string>
     <string name="lockscreen_sim_locked_message">La carte SIM est verrouillé</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Déblocage de la carte SIM...</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Déblocage de la carte SIM…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Vous avez dessiné un schéma de déverrouillage incorrect à %d reprises.
 
 Veuillez réessayer dans %d secondes."</string>
@@ -925,7 +925,7 @@ Appuyez sur \"OK\" pour continuer ou \"Annuler\" pour rester sur la page actuell
     <string name="Midnight">Minuit</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-    <string name="replace">Remplacer...</string>
+    <string name="replace">Remplacer…</string>
     <string name="delete">Supprimer</string>
     <string name="textSelectionCABTitle">Sélection de texte</string>
     <string name="addToDictionary">ajouter au dictionnaire</string>

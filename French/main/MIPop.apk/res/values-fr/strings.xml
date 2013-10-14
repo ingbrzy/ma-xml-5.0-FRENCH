@@ -18,7 +18,7 @@
     <string name="Share">Partager</string>
     <string name="SaveTO">Sauvegarde vers</string>
     <string name="SaveFail">Sauvegarde echouée !</string>
-    <string name="runningFaceDetection">Veuillez patienter...</string>
+    <string name="runningFaceDetection">Veuillez patienter…</string>
     <string name="power_off">Éteindre</string>
     <string name="reboot">Redémarrer</string>
     <string name="lock_screen">Écran de vérouillage</string>

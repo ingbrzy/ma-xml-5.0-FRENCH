@@ -108,7 +108,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="filter_item_preview_image">Aperçu</string>
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Position définie par GPS</string>
-  <string name="gps_notification_searching_text">Recherche de GPS...</string>
+  <string name="gps_notification_searching_text">Recherche de GPS…</string>
   <string name="headset_custom">Personnaliser</string> 
   <string name="headset_info">Personnaliser les fonctions des boutons</string> 
   <string name="headset_settings">Casque connecté</string>
@@ -138,7 +138,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="notification_icon_filter_mode_white_list">Liste blanche</string>
   <string name="notification_icon_filter_other_list">Liste des applications</string>
   <string name="notification_icon_filter_settings">Notifications</string>
-  <string name="notification_icon_filter_settings_loading">Chargement, veuillez patienter...</string>
+  <string name="notification_icon_filter_settings_loading">Chargement, veuillez patienter…</string>
   <string name="notification_icon_filter_show">Afficher les notifications de la barre d\'état</string>
   <string name="notification_icon_filter_summary">Désactiver cette option affichera les notifications de toutes les applications dans le coin supérieur gauche de la barre d\'état.</string>
   <string name="notification_icon_filter_title">Masquer les notifications</string>
@@ -175,10 +175,10 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screenshot_failed_title">"Impossible de réaliser une capture d\'écran"</string>
   <string name="screenshot_saved_text">"Appuyez pour l\'afficher"</string>
   <string name="screenshot_saved_title">"Capture d\'écran réussie"</string>
-  <string name="screenshot_saving_text">"Enregistrement de la capture d\'écran en cours..."</string>
-  <string name="screenshot_saving_ticker">Enregistrement de la capture d\'écran...</string>
-  <string name="screenshot_saving_title">Enregistrement de la capture d\'écran...</string>
-  <string name="settings_all_app_display_loading">Chargement, veuillez patienter...</string> 
+  <string name="screenshot_saving_text">"Enregistrement de la capture d\'écran en cours…"</string>
+  <string name="screenshot_saving_ticker">Enregistrement de la capture d\'écran…</string>
+  <string name="screenshot_saving_title">Enregistrement de la capture d\'écran…</string>
+  <string name="settings_all_app_display_loading">Chargement, veuillez patienter…</string> 
   <string name="settings_custom_notification">Notification personnalisée</string>
   <string name="settings_expandable_under_fullscreen">Extensible en plein écran</string>
   <string name="settings_expandable_under_fullscreen_summary">En glissant vers le bas à partir du haut de l\'écran</string>
@@ -196,7 +196,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="settings_toggle">Raccourcis</string>
   <string name="settings_toggle_collapse_after_clicked">Réduire après un appui</string>
   <string name="settings_toggle_layout_style">Style des commutateurs</string>
-  <string name="settings_toggle_layout_style_applying">Modification du style des commutateurs...</string>
+  <string name="settings_toggle_layout_style_applying">Modification du style des commutateurs…</string>
   <string name="settings_toggle_layout_style_compact">Compact</string>
   <string name="settings_toggle_layout_style_single_page">Page</string>
   <string name="settings_toggle_position">"Position des commutateurs"</string>

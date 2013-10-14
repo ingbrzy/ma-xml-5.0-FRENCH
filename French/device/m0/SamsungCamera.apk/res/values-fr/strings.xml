@@ -2,7 +2,7 @@
 <resources>
     <string name="camera_label">Caméra</string>
     <string name="camcorder_label">Caméscope</string>
-    <string name="wait">Veuillez patienter...</string>
+    <string name="wait">Veuillez patienter…</string>
     <string name="warning_msg">Avertissement</string>
     <string name="insert_mmc_msg">"Insérez une carte mémoire pour utiliser l'appareil photo"</string>
     <string name="not_enough_space">Mémoire insuffisante</string>
@@ -10,10 +10,10 @@
     <string name="change_to_phone_memory">Mémoire insuffisante. La mémoire du téléphone a été définie comme emplacement de stockage par défaut</string>
     <string name="change_to_device_memory">Espace insuffisant sur la carte SD. Le périphérique de stockage a été défini comme système de stockage par défaut</string>
     <string name="video_reach_size_limit">"Taille maximum d'enregistrement atteinte"</string>
-    <string name="processing_msg">En cours...</string>
+    <string name="processing_msg">En cours…</string>
     <string name="panorama_processing_msg">Veuillez patienter pendant la création du panorama</string>
     <string name="battery_overheat">"Quittez l'appareil photo. La température de la batterie est trop élevée"</string>
-    <string name="savingImage">Enregistrement...</string>
+    <string name="savingImage">Enregistrement…</string>
     <string name="open_hw_failed_msg">Échec appareil photo</string>
     <string name="capture_failed_msg">Échec de capture</string>
     <string name="recording_failed_msg">Échec enregistrement</string>
@@ -105,7 +105,7 @@ pendant appel"</string>
     <string name="RM_EMAIL">Limite pour e-mail</string>
     <string name="RM_SLOW">Mouvement lent</string>
     <string name="RM_FAST">Mouvement rapide</string>
-    <string name="CS_PROGRESS_TEXT">"Création de l'image. Veuillez patienter..."</string>
+    <string name="CS_PROGRESS_TEXT">"Création de l'image. Veuillez patienter…"</string>
     <string name="SCN_NONE">Aucun(e)</string>
     <string name="SCN_PORTRAIT">Portrait</string>
     <string name="SCN_LANDSCAPE">Paysage</string>
@@ -191,7 +191,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="Title_ChangeMemoryInUseDailog">Utiliser la carte mémoire comme emplacement de stockage par défaut ?</string>
     <string name="Title_InsertMemoryCardDailog">"Insérez une carte mémoire pour utiliser l'appareil photo"</string>
     <string name="OnScreen_HelpTextTouchAF">"Appuyez sur l'écran pour sélectionner une zone"</string>
-    <string name="media_scanner_running">"Analyseur de médias en cours d'exécution..."</string>
+    <string name="media_scanner_running">"Analyseur de médias en cours d'exécution…"</string>
     <string name="close_camera_when_mmc_inserted">"Carte SD insérée. %s est fermé pendant l'analyse des fichiers média de la carte SD"</string>
     <string name="close_camera_when_media_mounted">"L'appareil photo a été fermé pour l'analyse des fichiers média"</string>
     <string name="close_camera_for_unmounted_memory">"Désactivez le stockage USB avant d'utiliser l'appareil photo"</string>
@@ -199,7 +199,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="crop_save_text">Enreg.</string>
     <string name="crop_discard_text">Ignorer</string>
     <string name="crop_gallery_text">Galerie</string>
-    <string name="wallpaper">"Configuration du fond d'écran. Veuillez patienter..."</string>
+    <string name="wallpaper">"Configuration du fond d'écran. Veuillez patienter…"</string>
     <string name="crop_label">"Rogner l'image"</string>
     <string name="low_database_storage_view_text">"L'espace de stockage de la base de données est presque saturé"</string>
     <string name="camera_security_enter">"La politique de sécurité limite l'utilisation de l'appareil photo"</string>

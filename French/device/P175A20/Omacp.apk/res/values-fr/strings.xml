@@ -38,7 +38,7 @@
     <string name="imps_app_name">Service Messagerie instantanée et Présence</string>
     <string name="installation_report">"Rapport d'installation"</string>
     <string name="yes">OK</string>
-    <string name="installing_progress_message">Installation......</string>
+    <string name="installing_progress_message">Installation…</string>
     <string name="install_timeout_error_msg">"Erreur d'installation."</string>
     <string name="re_install_notify_message">"Les réglages actuels de l'application seront remplacés, continuer?"</string>
     <string name="re_install_notify_title">Confirmation</string>

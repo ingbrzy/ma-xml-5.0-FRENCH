@@ -8,8 +8,8 @@
     <string name="outbound_me_profile_text">Appuyez pour communiquer vos coordonnées à cette personne.</string>
     <string name="accessibility_nfc_enabled">NFC activée</string>
     <string name="touch">Appuyer pour partager</string>
-    <string name="beam_progress">Partage entrant...</string>
-    <string name="beam_outgoing">Partage en cours...</string>
+    <string name="beam_progress">Partage entrant…</string>
+    <string name="beam_outgoing">Partage en cours…</string>
     <string name="beam_complete">Partage terminé.</string>
     <string name="beam_failed">Échec du partage.</string>
     <string name="beam_canceled">Partage annulé.</string>
@@ -17,12 +17,12 @@
     <string name="beam_touch_to_view">Appuyer pour afficher</string>
     <string name="beam_handover_not_supported">"Le récepteur n'est pas compatible avec le transfert de fichiers volumineux via le partage."</string>
     <string name="beam_try_again">Mettre de nouveau les appareils côte à côte</string>
-    <string name="connecting_headset">Connexion en cours...</string>
+    <string name="connecting_headset">Connexion en cours…</string>
     <string name="connected_headset">Connecté</string>
     <string name="connect_headset_failed">"Impossible d’établir la connexion."</string>
-    <string name="disconnecting_headset">Déconnexion en cours...</string>
+    <string name="disconnecting_headset">Déconnexion en cours…</string>
     <string name="disconnected_headset">Déconnecté</string>
-    <string name="pairing_headset">Association en cours...</string>
+    <string name="pairing_headset">Association en cours…</string>
     <string name="pairing_headset_failed">"Impossible d'effectuer l'association."</string>
     <string name="failed_to_enable_bt">"Impossible d'activer le Bluetooth."</string>
     <string name="confirm_pairing">"Voulez-vous vraiment associer l'appareil Bluetooth %1$s ?"</string>

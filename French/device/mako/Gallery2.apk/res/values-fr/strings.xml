@@ -100,9 +100,9 @@
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="movie_view_label">Lecteur Google Vidéos</string>
-    <string name="loading_video">Chargement de la vidéo...</string>
-    <string name="loading_image">"Chargement de l'image..."</string>
-    <string name="loading_account">Chargement infos compte...</string>
+    <string name="loading_video">Chargement de la vidéo…</string>
+    <string name="loading_image">"Chargement de l'image…"</string>
+    <string name="loading_account">Chargement infos compte…</string>
     <string name="resume_playing_title">Reprendre la vidéo</string>
     <string name="resume_playing_message">Reprendre la lecture à partir de %s ?</string>
     <string name="resume_playing_resume">Reprendre la lecture</string>
@@ -261,10 +261,10 @@
     <string name="trim_too_short">Découpe impossible : la vidéo cible est trop courte.</string>
     <string name="pano_progress_text">Rendu de la vue panoramique en cours…</string>
     <string name="save">Enregistrer</string>
-    <string name="ingest_scanning">Analyse du contenu en cours...</string>
-    <string name="ingest_sorting">Tri en cours...</string>
+    <string name="ingest_scanning">Analyse du contenu en cours…</string>
+    <string name="ingest_sorting">Tri en cours…</string>
     <string name="ingest_scanning_done">Analyse terminée.</string>
-    <string name="ingest_importing">Importation en cours...</string>
+    <string name="ingest_importing">Importation en cours…</string>
     <string name="ingest_empty_device">"Aucun contenu n'est disponible pour une importation sur cet appareil."</string>
     <string name="ingest_no_device">"Aucun appareil MTP n'est connecté."</string>
     <string name="camera_error_title">"Erreur de l'appareil photo."</string>
@@ -272,9 +272,9 @@
     <string name="camera_disabled">"L'appareil photo a été désactivé en raison des règles de sécurité."</string>
     <string name="camera_label">Appareil photo</string>
     <string name="video_camera_label">Caméra</string>
-    <string name="wait">Veuillez patienter...</string>
+    <string name="wait">Veuillez patienter…</string>
     <string name="no_storage">"Veuillez installer une mémoire de stockage USB avant d'utiliser l'appareil photo."</string>
-    <string name="preparing_sd">Préparation mémoire de stockage USB...</string>
+    <string name="preparing_sd">Préparation mémoire de stockage USB…</string>
     <string name="access_sd_fail">"Impossible d'accéder à la mémoire de stockage USB."</string>
     <string name="review_cancel">ANNULER</string>
     <string name="review_ok">OK</string>
@@ -361,7 +361,7 @@
     <string name="spaceIsLow_content">"La mémoire de stockage USB est pleine. Définissez la qualité sur une valeur plus basse ou supprimez des images ou d'autres types de fichiers."</string>
     <string name="video_reach_size_limit">Taille maximale atteinte.</string>
     <string name="pano_too_fast_prompt">Trop rapide</string>
-    <string name="pano_dialog_prepare_preview">Préparation vue panoramique...</string>
+    <string name="pano_dialog_prepare_preview">Préparation vue panoramique…</string>
     <string name="pano_dialog_panorama_failed">"Impossible d'enregistrer le panoramique."</string>
     <string name="pano_dialog_title">Panoramique</string>
     <string name="pano_capture_indication">Capture vue panoramique…</string>

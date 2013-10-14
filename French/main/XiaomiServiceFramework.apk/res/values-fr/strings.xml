@@ -13,7 +13,7 @@
   <string name="activate_phone_send_sms_failed_notif">Échec de l\'envoi du SMS d\'activation</string>
   <string name="activate_phone_server_error">Erreur de serveur,impossible d\'ouvrir le service de synchronisation</string>
   <string name="activate_phone_server_error_notif">Erreur de serveur</string>
-  <string name="activating">Activation...</string>
+  <string name="activating">Activation…</string>
   <string name="add_weibo_account">Ajouter un compte</string>
   <string name="alert_title_remove_account">Supprimer le compte</string>
   <string name="app_name">Xiaomi Services Framework</string>
@@ -71,7 +71,7 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="btn_voucher">Carte MiCredit (%1$s)</string>
   <string name="btn_wait_call">En attente</string>
   <string name="btn_wait_call_count">En attente (%1$s)</string>
-  <string name="btn_wait_confirm">En attente...</string>
+  <string name="btn_wait_confirm">En attente…</string>
   <string name="btn_wait_confirm_count">En attente (%1$s)</string>
   <string name="button_cancel">Annuler</string>
   <string name="button_pay">Payer</string>
@@ -79,7 +79,7 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="button_retry">Réessayer</string>
   <string name="check_phone_error_title">Impossible d\'activer le service de synchronisation</string>
   <string name="check_phone_io_error">Erreur réseau</string>
-  <string name="checking_account">Vérification du compte...</string>
+  <string name="checking_account">Vérification du compte…</string>
   <string name="cloud_messaging">Messagerie MiCloud</string>
   <string name="cmcc_data_sync_notice">Utilisez votre compte Xiaomi pour synchroniser vos messages, contacts et autres données. En attendant, profitez des services cloud Xiaomi.</string>
   <string name="cmcc_micloud_dspt">Les services cloud incluent la synchronisation mobile, la localisation de l’appareil et d\'autres services. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
@@ -134,8 +134,8 @@ Veuillez réessayer après cinq minutes"</string>
   <string name="find_device_check_phone_error_title">Impossible d\'activer la localisation de l\'appareil</string>
   <string name="find_device_disabled_notice">"Vous pouvez la rouvrir via Paramètres - Synchronisation de comptes - Compte Xiaomi"</string>
   <string name="find_device_disabled_title">Localisation de l\'appareil désactivée</string>
-  <string name="find_device_disabling">Désactivation...</string>
-  <string name="find_device_enabling">Activation...</string>
+  <string name="find_device_disabling">Désactivation…</string>
+  <string name="find_device_enabling">Activation…</string>
   <string name="find_device_error_network">Réseau indisponible</string>
   <string name="find_device_error_server">Erreur de serveur</string>
   <string name="find_device_notice_p1">Si vous avez perdu votre téléphone, rendez-vous sur</string>
@@ -167,7 +167,7 @@ et ne peuvent être utilisés si expirés"</string>
   <string name="login">Se connecter</string>
   <string name="login_failed">Échec de la connexion</string>
   <string name="login_instead_reg">Connexion avec ce numéro de téléphone</string>
-  <string name="login_notice">Connexion...</string>
+  <string name="login_notice">Connexion…</string>
   <string name="memu_refresh">Rafraîchir</string>
   <string name="mibi_license_message">Service MiCredit de Xiaomi. En appuyant sur OK, vous acceptez être en accord avec le %1$s.</string>
   <string name="mibi_license_message_span">Contrat d\'utilisation de MiCredit</string>
@@ -181,13 +181,13 @@ et ne peuvent être utilisés si expirés"</string>
   <string name="micloud_activate_back_btn">Annuler</string>
   <string name="micloud_activate_retry_btn">Retenter l\'activation</string>
   <string name="micloud_activating_account_notify_info">Vous activez votre compte Xiaomi</string>
-  <string name="micloud_activating_account_notify_title">Activation de votre compte Xiaomi...</string>
+  <string name="micloud_activating_account_notify_title">Activation de votre compte Xiaomi…</string>
   <string name="micloud_active_alert_title">Activer votre compte</string>
   <string name="micloud_active_email_sent_1">Nous avons envoyé un lien d\'activation à votre adresse mail : </string>
   <string name="micloud_active_email_visit">Visitez %s</string>
   <string name="micloud_activing_account">Activation de votre compte</string>
   <string name="micloud_activing_account_delayed">"Il faut probablement 30 secondes pour terminer l'activation. 
-Vous pouvez faire autre chose..."</string>
+Vous pouvez faire autre chose…"</string>
   <string name="micloud_activing_account_failed">Échec de l\'activation du compte</string>
   <string name="micloud_click_email">Suivez le lien dans mail pour activer votre compte Xiaomi</string>
   <string name="micloud_click_email_to_valid">Suivez le lien d\'activation dans le message envoyé à votre boîte de réception</string>
@@ -238,7 +238,7 @@ Vous pouvez faire autre chose..."</string>
   <string name="msg_telecom_picker_hint_1_2">automatiquement contacter votre fournisseur de service.</string>
   <string name="msg_telecom_picker_hint_2_1">Votre fournisseur de réseau a été contacté !</string>
   <string name="msg_telecom_picker_hint_2_2">Vous recevrez un texte de confirmation sous peu.</string>
-  <string name="msg_telecom_sending">Mise en contact avec votre fournisseur de réseau...</string>
+  <string name="msg_telecom_sending">Mise en contact avec votre fournisseur de réseau…</string>
   <string name="my_mili_record">Mes MiCredits</string>
   <string name="my_xiaomi_account">Mon compte Xiaomi actuel</string>
   <string name="next">Suivant</string>
@@ -279,19 +279,19 @@ Vous pouvez faire autre chose..."</string>
   <string name="prepaid_picker_title_selected">Montant de la recharge</string>
   <string name="prev">Précédent</string>
   <string name="process_result">Résultat :</string>
-  <string name="progress_bankcall_card_creating">Génération de la commande...</string>
-  <string name="progress_bankcall_card_querying">Obtention du type de compte bancaire, veuillez patienter...</string>
-  <string name="progress_connecting">Connexion...</string>
-  <string name="progress_creating">Récupération des informations de la commande...</string>
-  <string name="progress_downloading">Chargement...</string>
+  <string name="progress_bankcall_card_creating">Génération de la commande…</string>
+  <string name="progress_bankcall_card_querying">Obtention du type de compte bancaire, veuillez patienter…</string>
+  <string name="progress_connecting">Connexion…</string>
+  <string name="progress_creating">Récupération des informations de la commande…</string>
+  <string name="progress_downloading">Chargement…</string>
   <string name="progress_error_pay_title">Le paiement a échoué</string>
   <string name="progress_error_recharge_title">La recharge a échoué</string>
-  <string name="progress_loading">Traitement en cours, veuillez patienter...</string>
-  <string name="progress_msg_creating">Génération de la commande par recharge SMS...</string>
-  <string name="progress_paytool_creating">Génération de la commande de %1$s...</string>
-  <string name="progress_paytool_installing">Installation du plugin de sécurité mobile %1$s...</string>
-  <string name="progress_prepaid_creating">Génération de la commande de la recharge...</string>
-  <string name="progress_querying">Traitement de la demande de paiement...</string>
+  <string name="progress_loading">Traitement en cours, veuillez patienter…</string>
+  <string name="progress_msg_creating">Génération de la commande par recharge SMS…</string>
+  <string name="progress_paytool_creating">Génération de la commande de %1$s…</string>
+  <string name="progress_paytool_installing">Installation du plugin de sécurité mobile %1$s…</string>
+  <string name="progress_prepaid_creating">Génération de la commande de la recharge…</string>
+  <string name="progress_querying">Traitement de la demande de paiement…</string>
   <string name="progress_submit_hint">Recharge effective dans 3 minutes environ</string>
   <string name="progress_submit_pay_summary">Résumé de paiement : %1$s RMB</string>
   <string name="progress_submit_recharge_summary">Recharge de : %1$s RMB</string>
@@ -300,7 +300,7 @@ Vous pouvez faire autre chose..."</string>
   <string name="progress_success_pay_title">Paiement de %1$s MiCredit effectué</string>
   <string name="progress_success_recharge_summary">Balance du compte : %1$s MiCredits</string>
   <string name="progress_success_recharge_title">Recharge de %1$s MiCredits effectuée</string>
-  <string name="progress_voucher_creating">Mise à jour MiCredit...</string>
+  <string name="progress_voucher_creating">Mise à jour MiCredit…</string>
   <string name="progress_warning_check">"Pas encore mis à jour !  
 Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt : 
@@ -338,12 +338,12 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="reg_success_summary">Votre numéro de téléphone %1$s est déjà désigné pour MiLock où vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe.</string>
   <string name="reg_type_email">S\'inscrire par Mail</string>
   <string name="reg_type_phone">S\'inscrire par téléphone (recommandé)</string>
-  <string name="reging">Inscription, veuillez patienter...</string>
+  <string name="reging">Inscription, veuillez patienter…</string>
   <string name="relogin">Se connecter</string>
   <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appel et des notes déjà synchronisés sur votre appareil ?</string>
   <string name="remove_confirm">Supprimer</string>
   <string name="remove_unactivated_account_notice">Le compte Xiaomi n\'est pas activé, désirez-vous le retirer maintenant ?</string>
-  <string name="removing_account">Suppression du compte...</string>
+  <string name="removing_account">Suppression du compte…</string>
   <string name="send_int_sms_for_sync_notice">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
   <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
   <string name="send_sms_for_sync_title">Service de synchronisation non activé</string>

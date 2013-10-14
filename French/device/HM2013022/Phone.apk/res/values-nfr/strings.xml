@@ -29,7 +29,7 @@
   <string name="call_reject_list_add">Ajouter</string>
   <string name="call_reject_list_delete">Supprimer</string>
   <string name="call_reject_no_name">Aucun nom</string>
-  <string name="call_reject_please_wait">Veuillez attendre...</string>
+  <string name="call_reject_please_wait">Veuillez attendre…</string>
   <string name="call_reject_sum">Gérer le mode de rejet auto. et sa liste</string>
   <string name="call_reject_title">Rejet des appels</string>
   <string name="call_ring_stepup_summary">Intensifier la sonnerie des appels entrants</string>
@@ -285,7 +285,7 @@ Etes-vous sûr de vouloir autoriser le service données mobiles préféré ?"</s
   <string name="simlock_retriesleft">"Reste : "</string>
   <string name="simlock_returntocall">Retour à l\'appel</string>
   <string name="simlock_secondsim">pour la seconde SIM</string>
-  <string name="simlock_unlocking">Déverrouillage...</string>
+  <string name="simlock_unlocking">Déverrouillage…</string>
   <string name="simlock_unlockmardedcard">Déverrouiller</string>
   <string name="simlock_wrongcode">Code erroné.</string>
   <string name="sip_call_options_title_single_sim">Options d\'appel Internet</string>

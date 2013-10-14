@@ -6,7 +6,7 @@
   <string name="adjust_traffic_auto_adjust_open_hint">L\'ajustement automatique est activé, le trafic de données sera mis à jour automatiquement</string>
   <string name="adjust_traffic_auto_adjust_title">Ajustement automatique du trafic</string>
   <string name="adjust_traffic_carrier_adjust">Obtenir depuis l\'opérateur</string>
-  <string name="adjust_traffic_carrier_adjusting">Ajustement du trafic...</string>
+  <string name="adjust_traffic_carrier_adjusting">Ajustement du trafic…</string>
   <string name="adjust_traffic_carrier_settings_title">Opérateur mobile</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">"N'a pas été mis à jour depuis plus d'un mois"</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">"N'a pas été mis à jour depuis plus d'une semaine"</string>
@@ -75,7 +75,7 @@ Si ce n'est pas le cas vous pouvez le réajuster."</string>
   <string name="force_stop_dlg_title">Forcer l\'arrêt</string>
   <string name="i_known_button">OK</string>
   <string name="input_hint">Saisir votre quota</string>
-  <string name="loading_app">Chargement...</string>
+  <string name="loading_app">Chargement…</string>
   <string name="manual_input_used_traffic_hint">Saisir le trafic utilisé</string>
   <string name="manual_input_used_traffic_title">Saisir manuellement le trafic utilisé</string>
   <string name="menu_display_system_app">Voir les applications système</string>
@@ -135,7 +135,7 @@ Si ce n'est pas le cas vous pouvez le réajuster."</string>
   <string name="sync_fail_notify_title">Échec de la synchronisation</string>
   <string name="sync_traffic_fail_message">La synchronisation avec l\'opérateur de téléphonie mobile a échoué, le serveur est occupé. Veuillez réessayer plus tard ou appeler le service client au %s pour obtenir de l\'aide</string>
   <string name="sync_traffic_fail_title">Échec de la synchronisation</string>
-  <string name="sync_traffic_ing">Synchronisation auprès de l\'opérateur, veuillez patienter...</string>
+  <string name="sync_traffic_ing">Synchronisation auprès de l\'opérateur, veuillez patienter…</string>
   <string name="sync_traffic_no_cmd_detail">"Soumettez votre Pays, ville, indicatif (+33) et opérateur sur le forum suivant : http://www.miui.com/forum-172-1.html. Merci."</string>
   <string name="sync_traffic_no_cmd_detail_custom_config">"Vous pouvez : 1. Paramètrer &gt;&gt; Ajuster les données relatives au trafic &gt;&gt; Personnaliser les ajustements des paramètres ou ajuster le trafic sur la page principale &gt;&gt; Ajuster les paramètres personnalisés; 2. Soumettre votre ville, la marque de votre appareil et l'opérateur sur ce forum : http://www.miui.com/forum-172-1.html"</string>
   <string name="sync_traffic_no_cmd_title">Aucun modèle de SMS</string>
@@ -162,7 +162,7 @@ Utilisé"</string>
   <string name="update_fail">La mise à jour a échoué</string>
   <string name="update_no_network">La mise à jour a échoué, veuillez vérifier la connexion réseau.</string>
   <string name="update_success">Mis à jour avec succès</string>
-  <string name="updating">Mise à jour...</string>
+  <string name="updating">Mise à jour…</string>
   <string name="used_flux">Utilisation du trafic</string>
   <string name="version_label">"Version : "</string>
   <string name="warning_settings_toast">"%1$d%% %2$dMo"</string>

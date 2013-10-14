@@ -17,7 +17,7 @@
   <string name="account_security_dialog_title">Mise à jour de sécurité</string>
   <string name="account_security_policy_explanation_fmt">Vous devez autoriser le serveur %s à contrôler à distance certaines fonctionnalités de sécurité de votre mobile Android.</string>
   <string name="account_security_title">Sécurité de l\'appareil</string>
-  <string name="account_security_waiting_policy_key_message">%s a besoin des informations des paramètres de sécurité depuis un serveur, veuillez patienter...</string>
+  <string name="account_security_waiting_policy_key_message">%s a besoin des informations des paramètres de sécurité depuis un serveur, veuillez patienter…</string>
   <string name="account_settings_action">Paramètres du compte</string>
   <string name="account_settings_background_attachments_label">Télécharger les pièces jointes</string>
   <string name="account_settings_background_attachments_summary">Téléchargement auto des pièces jointes des messages récents via Wi-Fi</string>
@@ -76,9 +76,9 @@
   <string name="account_setup_basics_manual_setup_action">Configuration manuelle</string>
   <string name="account_setup_basics_password_label">Mot de passe</string>
   <string name="account_setup_basics_title">Configurer un compte</string>
-  <string name="account_setup_check_settings_check_incoming_msg">Vérification des paramètres de serveur entrant...</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">Vérification des paramètres de serveur sortant...</string>
-  <string name="account_setup_check_settings_retr_info_msg">Récupération des informations sur le compte...</string>
+  <string name="account_setup_check_settings_check_incoming_msg">Vérification des paramètres de serveur entrant…</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">Vérification des paramètres de serveur sortant…</string>
+  <string name="account_setup_check_settings_retr_info_msg">Récupération des informations sur le compte…</string>
   <string name="account_setup_exchange_certificate_title">Certificat client</string>
   <string name="account_setup_exchange_device_id_label">Numéro d\'appareil mobile :</string>
   <string name="account_setup_exchange_headline">Paramètres du serveur</string>
@@ -220,14 +220,14 @@
   <string name="contextmenu_add_contact">Ajouter le contact</string>
   <string name="contextmenu_copy">Copier</string>
   <string name="contextmenu_copylink">Copier l\'URL</string>
-  <string name="contextmenu_dial_dot">Appeler...</string>
+  <string name="contextmenu_dial_dot">Appeler…</string>
   <string name="contextmenu_feedback">Envoyez votre avis</string>
   <string name="contextmenu_help">Aide</string>
   <string name="contextmenu_map">Carte</string>
   <string name="contextmenu_openlink">Ouvrir dans le navigateur</string>
   <string name="contextmenu_send_mail">Envoyer un mail</string>
   <string name="contextmenu_sharelink">Partager le lien</string>
-  <string name="contextmenu_sms_dot">SMS...</string>
+  <string name="contextmenu_sms_dot">SMS…</string>
   <string name="copy_email">Copier l\'adresse mail </string>
   <string name="copy_number">Copier le numéro de téléphone</string>
   <string name="create_action">Créer</string>
@@ -250,8 +250,8 @@
   <string name="dialog_sync_all_canceled">Opération "Tout synchroniser" annulée.</string>
   <string name="dialog_sync_all_error_title">Tout synchroniser</string>
   <string name="dialog_sync_all_found_none">Aucune autre photo ou vidéo à transférer.</string>
-  <string name="dialog_sync_all_preparing">Préparation du transfert de %1$d photos et de %2$d vidéos...</string>
-  <string name="dialog_sync_all_scanning">Recherche de fichiers...</string>
+  <string name="dialog_sync_all_preparing">Préparation du transfert de %1$d photos et de %2$d vidéos…</string>
+  <string name="dialog_sync_all_scanning">Recherche de fichiers…</string>
   <string name="dialog_sync_all_server_error">Un problème est survenu lors de la communication avec le serveur. Veuillez réessayer ultérieurement.</string>
   <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l'application Mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, événements d'agenda, etc.)."</string>
   <string name="discard_action">Supprimer</string>
@@ -272,7 +272,7 @@
   <string name="forward_action">Transférer</string>
   <string name="forward_download_failed_ticker">"Impossible de transférer une ou plusieurs pièces jointes."</string>
   <string name="forward_download_failed_title">Pièce jointe non transférée</string>
-  <string name="gal_searching_fmt">Recherche en cours dans %s...</string>
+  <string name="gal_searching_fmt">Recherche en cours dans %s…</string>
   <string name="general_preference_auto_advance_dialog_title">Afficher</string>
   <string name="general_preference_auto_advance_label">Avancer automatiquement</string>
   <string name="general_preference_auto_advance_message_list">Liste des messages</string>
@@ -404,7 +404,7 @@ Cc : %4$s
   <string name="message_view_message_details_dialog_title">Détails du message</string>
   <string name="message_view_move_to_newer">Suivant</string>
   <string name="message_view_move_to_older">Précédents</string>
-  <string name="message_view_parse_message_toast">Ouverture du message...</string>
+  <string name="message_view_parse_message_toast">Ouverture du message…</string>
   <string name="message_view_show_details">Afficher détails</string>
   <string name="message_view_show_invite_action">Inviter</string>
   <string name="message_view_show_message_action">Message</string>
@@ -413,7 +413,7 @@ Cc : %4$s
   <string name="message_view_status_attachment_saved">PJ enregistrée sous %s.</string>
   <string name="message_view_subject_label">Objet :</string>
   <string name="message_view_to_label">À :</string>
-  <string name="more_string">%1$s autres...</string>
+  <string name="more_string">%1$s autres…</string>
   <string name="more_than_999">&gt; 999</string>
   <string name="move_action">Déplacer</string>
   <string name="move_to_folder_dialog_title">Déplacer vers</string>
@@ -446,7 +446,7 @@ Cc : %4$s
   <string name="pause_state_need_wifi">interrompu : en attente de connexion Wi-Fi</string>
   <string name="pause_state_retrying">en attente d\'une nouvelle tentative</string>
   <string name="pause_state_roaming">interrompu : itinérance</string>
-  <string name="pause_state_running">transfert...</string>
+  <string name="pause_state_running">transfert…</string>
   <string name="permission_access_provider_desc">Permettre à cette application d\'accéder à votre base de données de messagerie, y compris aux messages reçus et envoyés, aux noms d\'utilisateur et aux mots de passe.</string>
   <string name="permission_access_provider_label">Accéder aux données du fournisseur de messagerie</string>
   <string name="permission_read_attachment_desc">Permettre à cette application de lire les pièces jointes aux e-mails.</string>
@@ -520,7 +520,7 @@ Cc : %4$s
   <string name="search_hint">Rechercher mail</string>
   <string name="search_mailbox_hint">Rechercher dans %1$s</string>
   <string name="search_slow_warning_message">Cette opération peut prendre du temps avec certains serveurs.</string>
-  <string name="search_slow_warning_title">En attente des résultats...</string>
+  <string name="search_slow_warning_title">En attente des résultats…</string>
   <string name="security_notification_content_title">Mise à jour de sécurité requise</string>
   <string name="security_notification_ticker_fmt">Le compte "%s" nécessite une mise à jour de ses paramètres de sécurité.</string>
   <string name="send_action">Envoyer</string>
@@ -530,7 +530,7 @@ Cc : %4$s
   <string name="show_quick_text_list_dialog_action">Insérer la réponse rapide</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-  <string name="status_loading_messages">Chargement des messages...</string>
+  <string name="status_loading_messages">Chargement des messages…</string>
   <string name="status_network_error">Problème de connexion.</string>
   <string name="subject_hint">Objet :</string>
   <string name="summary_menu_show_finished">Afficher les transferts terminés</string>
@@ -548,7 +548,7 @@ Cc : %4$s
   <string name="summary_subtitle_uploading_format">%1$d%% • %2$d photos • %3$d vidéos</string>
   <string name="summary_title_finished">Terminé</string>
   <string name="summary_title_paused">Interrompu</string>
-  <string name="summary_title_uploading">Transfert...</string>
+  <string name="summary_title_uploading">Transfert…</string>
   <string name="system_account_create_failed">"Impossible de créer le compte. Veuillez réessayer."</string>
   <string name="to">À :</string>
   <string name="toast_account_not_found">"Le compte est introuvable. Il a peut-être été supprimé."</string>
@@ -562,15 +562,15 @@ Cc : %4$s
   <string name="upload_state_completed">Terminé</string>
   <string name="upload_state_failed">Échec.</string>
   <string name="upload_state_queued"></string>
-  <string name="upload_state_uploading">Transfert...</string>
+  <string name="upload_state_uploading">Transfert…</string>
   <string name="upload_state_waiting_retry">En attente d\'une nouvelle tentative</string>
   <string name="upload_state_waiting_wifi">En attente d\'une connexion Wi-Fi</string>
   <string name="uploading_for">pour %s</string>
-  <string name="uploading_to">Transfert vers <b>%s</b>...</string>
-  <string name="waitinf_for_sync_message_1">En cours de synchronisation...</string>
+  <string name="uploading_to">Transfert vers <b>%s</b>…</string>
+  <string name="waitinf_for_sync_message_1">En cours de synchronisation…</string>
   <string name="waitinf_for_sync_message_2">Vos e-mails vont bientôt s\'afficher.</string>
   <string name="widget_all_mail">Boîte de réception combinée</string>
-  <string name="widget_loading">Chargement...</string>
+  <string name="widget_loading">Chargement…</string>
   <string name="widget_no_accounts">"Vous n'avez pas encore créé de compte de messagerie."</string>
   <string name="widget_no_mailboxes">"Ce compte n'est pas synchronisé. Réessayez plus tard."</string>
   <string name="widget_other_views">Appuyez pour changer.</string>

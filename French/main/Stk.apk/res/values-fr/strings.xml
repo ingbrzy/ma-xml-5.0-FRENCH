@@ -12,7 +12,7 @@
     <string name="button_no">Non</string>
     <string name="alphabet">Alphabets</string>
     <string name="digits">Chiffres (0-9, *, #, +)</string>
-    <string name="default_call_setup_msg">Appel en cours...</string>
+    <string name="default_call_setup_msg">Appel en cours…</string>
     <string name="stk_app_state">État de l\'application</string>
     <string name="enable_app">Activé</string>
     <string name="disable_app">Désactivé</string>

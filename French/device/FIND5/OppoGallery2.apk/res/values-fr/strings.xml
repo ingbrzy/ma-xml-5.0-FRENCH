@@ -150,7 +150,7 @@
   <string name="loading">Chargement…</string>
   <string name="loading_account">Chargement du compte…</string>
   <string name="loading_failure">"Impossible de charger la photo."</string>
-  <string name="loading_image">Chargement de l\'image...</string>
+  <string name="loading_image">Chargement de l\'image…</string>
   <string name="loading_video">Chargement de la vidéo…</string>
   <string name="local_albums">Images locales</string>
   <string name="location">Emplacement</string>
@@ -200,7 +200,7 @@
 Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."</string>
   <string name="oppo_cloud_gallery_wizzard_login_text">Se connecter à NearMe</string>
   <string name="oppo_cloud_gallery_wizzard_title">Albums Cloud</string>
-  <string name="oppo_cloud_loading_dialog_message">Chargement, veuillez patienter...</string>
+  <string name="oppo_cloud_loading_dialog_message">Chargement, veuillez patienter…</string>
   <string name="oppo_cloud_nopicture1">Aucune photo</string>
   <string name="oppo_cloud_nopicture2">Vous pouvez uploader une ou plusieurs photos</string>
   <string name="oppo_pano_generated">Panorama généré.</string>
@@ -208,11 +208,11 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="orientation">Orientation</string>
   <string name="pano_capture_indication">Capture vue panoramique…</string>
   <string name="pano_dialog_panorama_failed">"Impossible d'enregistrer le panorama"</string>
-  <string name="pano_dialog_prepare_preview">Préparation vue panoramique...</string>
+  <string name="pano_dialog_prepare_preview">Préparation vue panoramique…</string>
   <string name="pano_dialog_title">Panoramique</string>
   <string name="pano_dialog_waiting_previous">Attendre que le panorama précédent se termine</string>
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
-  <string name="pano_review_saving_indication_str">Enregistrement...</string>
+  <string name="pano_review_saving_indication_str">Enregistrement…</string>
   <string name="pano_too_fast_prompt">Trop rapide</string>
   <string name="path">Chemin d\'accès</string>
   <string name="pause_all_tasks">Suspendre toutes les tâches</string>
@@ -458,7 +458,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="pref_video_time_lapse_frame_interval_entry_3000">3s</string>
   <string name="pref_video_time_lapse_frame_interval_entry_5000">5s</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalle de temps</string>
-  <string name="preparing_sd">Préparation du stockage...</string>
+  <string name="preparing_sd">Préparation du stockage…</string>
   <string name="process_caching_requests">Demandes de mise en cache en cours de traitement</string>
   <string name="redeye">Yeux rouges</string>
   <string name="redeye_tooltip">Touchez pour supprimer les yeux rouges</string>
@@ -562,7 +562,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="video_reach_size_limit">Taille maximale atteinte.</string>
   <string name="video_snapshot_hint">Prendre une photo pendant l\'enregistrement vidéo en tapant sur l\'écran de prévisualisation.</string>
   <string name="vignette">Vignetage</string>
-  <string name="wait">Veuillez patienter...</string>
+  <string name="wait">Veuillez patienter…</string>
   <string name="wallpaper">Définition du fond d\'écran…</string>
   <string name="white_balance">Balance des blancs</string>
   <string name="wide_wallpaper">Écran large</string>

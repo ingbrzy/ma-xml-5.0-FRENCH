@@ -36,14 +36,14 @@
   <string name="download_paused">Téléchargement mis en pause</string>
   <string name="download_pending">En attente de téléchargement</string>
   <string name="download_queued">"Ajouté à la file d\'attente"</string>
-  <string name="download_running">En cours...</string>
+  <string name="download_running">En cours…</string>
   <string name="download_share_dialog">Partager via</string>
   <string name="download_success">Terminé</string>
   <string name="download_title">Téléchargements</string>
   <string name="download_title_sorted_by_date">Téléchargements : triés par date</string>
   <string name="download_title_sorted_by_size">Téléchargements : triés par taille</string>
   <string name="download_when_network_connected">Le téléchargement utilise le réseau mobile</string>
-  <string name="downloads_operating">En cours...</string>
+  <string name="downloads_operating">En cours…</string>
   <string name="editmode_menu_delete">Supprimer</string>
   <string name="editmode_menu_share">Partager</string>
   <string name="keep_queued_download">Conserver</string>

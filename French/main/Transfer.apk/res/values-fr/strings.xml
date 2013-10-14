@@ -75,7 +75,7 @@
   <string name="scan_2d_code">Scanner un code 2D</string>
   <string name="scan_tip">Assurez-vous que le receveur a activé la connexion et peut recevoir des fichiers</string>
   <string name="scan_title">Veuillez cibler le code 2D</string>
-  <string name="scanning">Scan...</string>
+  <string name="scanning">Scan…</string>
   <string name="sdcard_unavailable">Carte SD indisponible</string>
   <string name="send">Envoyer</string>
   <string name="send_2d_code">Envoyer un code 2D</string>

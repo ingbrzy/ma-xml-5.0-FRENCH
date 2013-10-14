@@ -31,10 +31,10 @@
   <string name="cit_bluetooth_address_open_error">Impossible d\'obtenir les informations d\'adresse Bluetooth</string>
   <string name="cit_bluetooth_not_support">Le téléphone ne supporte pas de périphérique Bluetooth</string>
   <string name="cit_bluetooth_scan_retry">Rescanner</string>
-  <string name="cit_bluetooth_scanning">Recherche de périphériques Bluetooth...</string>
+  <string name="cit_bluetooth_scanning">Recherche de périphériques Bluetooth…</string>
   <string name="cit_bluetooth_scanning_bluetooth_done">Scan terminé</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Erreur lors de l\'ouverture des périphériques Bluetooth</string>
-  <string name="cit_bluetooth_scanning_opening_bluetooth">Ouverture des périphériques Bluetooth...</string>
+  <string name="cit_bluetooth_scanning_opening_bluetooth">Ouverture des périphériques Bluetooth…</string>
   <string name="cit_button_light_off">Stopper l\'éclairage du bouton</string>
   <string name="cit_button_light_on">Démarrer l\'éclairage du bouton</string>
   <string name="cit_calibration_fail">Calibrage échoué</string>
@@ -61,7 +61,7 @@
   <string name="cit_fm_not_supported">Radio FM non pris en charge par votre appareil</string>
   <string name="cit_fm_open_1">FM - 88,5</string>
   <string name="cit_fm_open_2">FM - 107,9</string>
-  <string name="cit_fm_open_bluetooth">Activation Bluetooth...</string>
+  <string name="cit_fm_open_bluetooth">Activation Bluetooth…</string>
   <string name="cit_fm_start_service">Activez la Radio</string>
   <string name="cit_front_camera_check_summary">"Test d\'étapes:
 1.Appuyez sur le bouton appareil photo pour ouvrir le système caméra/appareil photo
@@ -128,7 +128,7 @@
   <string name="cit_pass">Passer</string>
   <string name="cit_play_sd_mp3_summary">Ce test lancera musique.mp3 situé dans le dossier racine de la carte SD</string>
   <string name="cit_play_sd_mp3_title">Teste de lecture MP3</string>
-  <string name="cit_playing_sd_mp3">musique.mp3 est en cours de lecture...</string>
+  <string name="cit_playing_sd_mp3">musique.mp3 est en cours de lecture…</string>
   <string name="cit_pointer_location_title">Test de l\'écran tactile</string>
   <string name="cit_power_check_summary">Ce test affiche la quantité de batterie disponible</string>
   <string name="cit_power_check_title">Test de la batterie</string>
@@ -178,7 +178,7 @@
   <string name="cit_tool_log_bugreport">Signaler un Bug</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
   <string name="cit_tool_log_file_not_exist">%s n\'existe pas</string>
-  <string name="cit_tool_log_generate_bugreport">Génération de rapport de bug...</string>
+  <string name="cit_tool_log_generate_bugreport">Génération de rapport de bug…</string>
   <string name="cit_tool_log_kmsg">Dernier journal du noyau</string>
   <string name="cit_tool_log_logcat">Journal ADB</string>
   <string name="cit_tool_log_modem">Journal du modem</string>
@@ -251,7 +251,7 @@
   <string name="cit_wifi_ap_scan_check_summary">Le test affichera une liste de tous les points d\'accès Wi-Fi disponibles</string>
   <string name="cit_wifi_ap_scan_check_title">Test de recherche des points d\'accès Wi-Fi</string>
   <string name="cit_wifi_ap_scan_retry">Rescanner</string>
-  <string name="cit_wifi_ap_scanning">Recherche des points d\'accès...</string>
+  <string name="cit_wifi_ap_scanning">Recherche des points d\'accès…</string>
   <string name="cit_wifi_fail_to_scan">Impossible de trouver les réseaux Wi-Fi</string>
   <string name="cit_wifi_state_refresh">Réactualiser</string>
 </resources>

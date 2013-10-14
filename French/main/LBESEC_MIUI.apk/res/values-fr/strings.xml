@@ -29,7 +29,7 @@
   <string name="Dashboard_Perm_SU_Switch">Permission ROOT</string>
   <string name="Dashboard_Su_Enable_Content">Activer ceci permettra aux applications de demander la permission ROOT. Des applications ayant ces permissions pourraient causer l\'instabilité du système, voire la perte de vos données ou des dégâts matériels. En êtes-vous sûr ?</string>
   <string name="Dashboard_Su_Enable_Title">Permission ROOT</string>
-  <string name="Generic_Canceling">Annulation en cours...</string>
+  <string name="Generic_Canceling">Annulation en cours…</string>
   <string name="Generic_Check">Vérifier</string>
   <string name="Generic_Clean">Nettoyer</string>
   <string name="Generic_Configuration">Paramètres</string>
@@ -39,9 +39,9 @@
   <string name="Generic_Good">Correct</string>
   <string name="Generic_HideSystemApp">Masquer le système d\'applications</string>
   <string name="Generic_InvalidInput">Entrée non valide</string>
-  <string name="Generic_Loading">Chargement...</string>
+  <string name="Generic_Loading">Chargement…</string>
   <string name="Generic_MonitoredApp">Applications surveillées (%1$d)</string>
-  <string name="Generic_Operating">En cours...</string>
+  <string name="Generic_Operating">En cours…</string>
   <string name="Generic_Optimize">Optimiser</string>
   <string name="Generic_Service_Disabled">Le service est désactivé</string>
   <string name="Generic_Service_Enabled">Le service est activé</string>

@@ -48,7 +48,7 @@
   <string name="wfd_search_btn">Rechercher des périphériques</string>
   <string name="wfd_framework_busy">"Le framework de l'affichage sans fil est occupé"</string>
   <string name="wfd_connecting">Connexion</string>
-  <string name="wfd_connection_lost">Alerte ! Connexion interrompue...</string>
+  <string name="wfd_connection_lost">Alerte ! Connexion interrompue…</string>
   <string name="wfd_running">"Affichage sans fil en cours d'exécution"</string>
   <string name="wfd_force_exit">"Souhaitez-vous quitter l'application ? La session existante sera interrompue."</string>
   <string name="wfd_prepare">"Préparer l'environnement de l'affichage sans fil"</string>

@@ -20,7 +20,7 @@
   <string name="clear_license">Supprimer les licences</string>
   <string name="clear_license_summary">Supprimer toutes les licences DRM</string>
   <string name="unable_to_remove_license">Impossible d\'effacer licences</string>
-  <string name="all_licenses_are_clearing">Suppression...</string>
+  <string name="all_licenses_are_clearing">Suppression…</string>
   <string name="all_licenses_are_removed">Supprimé</string>
   <string name="clear_license_popup">"Les contenus nécessitant des licences doivent être achetés de nouveau pour être utilisés.
 Supprimer toutes les licences ?"</string>

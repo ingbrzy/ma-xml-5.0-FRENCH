@@ -49,11 +49,11 @@
   <string name="contact_phone">téléphone</string>
   <string name="selected">sélectionné</string>
   <string name="delete_please_wait">Suppression, veuillez patienter !</string>
-  <string name="loading_please_wait">"Veuillez patienter pendant l'actualisation..."</string>
+  <string name="loading_please_wait">"Veuillez patienter pendant l'actualisation…"</string>
   <string name="edit_folder_name">Modifier le nom du dossier</string>
   <string name="file_no_exist_and_update">Fichier supprimé, rechargement.</string>
   <string name="no_item_selected">Aucun élément sélectionné</string>
-  <string name="updating">Actualisation...</string>
+  <string name="updating">Actualisation…</string>
   <string name="create_folder_fail">échec de la création du dossier</string>
   <string name="import_data">Importer</string>
   <string name="replace_data">Remplacer</string>

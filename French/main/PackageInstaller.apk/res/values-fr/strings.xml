@@ -37,7 +37,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="install_failed_older_sdk">Le package est uniquement compatible avec les dernières versions d\'Android.</string>
   <string name="install_failed_verify_failed">Impossible d\'installer le package, car il ne répond pas aux critères de validation.</string>
   <string name="install_failed_verify_timeout">Expiration du délai lors de la tentative de validation de ce package. Veuillez le réinstaller ultérieurement.</string>
-  <string name="installing">Installation...</string>
+  <string name="installing">Installation…</string>
   <string name="launch">Ouvrir</string>
   <string name="lift_ban">Lever l\'interdiction</string>
   <string name="low_risk_perms">Autorisations à faible risque</string>
@@ -76,7 +76,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="uninstall_failed_retained_app_msg">Une application personnalisée par votre opérateur ne peut être désinstallée.</string>
   <string name="uninstall_update_text">Voulez-vous rétablir la configuration d\'usine de cette application ?</string>
   <string name="uninstall_update_title">Désinstaller la mise à jour</string>
-  <string name="uninstalling">Désinstallation...</string>
+  <string name="uninstalling">Désinstallation…</string>
   <string name="unknown">Inconnu</string>
   <string name="unknown_apps_dlg_text">"Pour plus de sécurité, votre téléphone bloque l\'installation d\'applications de sources inconnues."</string>
   <string name="unknown_apps_dlg_title">Installation bloquée</string>

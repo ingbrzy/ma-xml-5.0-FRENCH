@@ -19,7 +19,7 @@
   <string name="add_video">Ajouter une vidéo</string>
   <string name="adding_attachments">Veuillez patienter pendant que les éléments sont ajoutés au diaporama</string>
   <string name="adding_attachments_title">Ajout de pièces jointes</string>
-  <string name="adding_recipients">Ajout de destinataires...</string>
+  <string name="adding_recipients">Ajout de destinataires…</string>
   <string name="app_label">Messages</string>
   <string name="attach_image">Images</string>
   <string name="attach_record_sound">Enregistrer un son</string>
@@ -30,7 +30,7 @@
   <string name="attach_take_photo">Prendre une photo</string>
   <string name="attach_video">Vidéos</string>
   <string name="back_to_message_list">retour à la liste des messages</string>
-  <string name="batch_adding_progress_message">Ajout en cours...</string>
+  <string name="batch_adding_progress_message">Ajout en cours…</string>
   <string name="batch_delete_confirm_dialog_message">Supprimer les %1$s messages sélectionnés ?</string>
   <string name="batch_deleting_message_progress_message">Supprimer message(s) sélectionné(s)</string>
   <string name="batch_deleting_progress_message">Suppression de la sélection</string>
@@ -50,7 +50,7 @@
   <string name="chenghu_disable_mms">Impossible d\'utiliser un pseudonyme dans les MMS</string>
   <string name="class_0_message_activity">Message de catégorie 0</string>
   <string name="close">Fermer</string>
-  <string name="compressing">Image trop grande. Compression en cours...</string>
+  <string name="compressing">Image trop grande. Compression en cours…</string>
   <string name="confirm">Confirmer</string>
   <string name="confirm_add_blacklist_dialog_dspt">Ajouter le numéro à la liste noire ?</string>
   <string name="confirm_delete_SIM_message">Ce message va être supprimé de la carte SIM.</string>
@@ -83,14 +83,14 @@
   <string name="context_menu_view_mms">Voir le MMS</string>
   <string name="conversation">Messages</string>
   <string name="conversation_style">bulle</string>
-  <string name="converting_to_picture_message">Conversion en message multimédia...</string>
-  <string name="converting_to_text_message">Conversion en SMS...</string>
+  <string name="converting_to_picture_message">Conversion en message multimédia…</string>
+  <string name="converting_to_text_message">Conversion en SMS…</string>
   <string name="copy_message_text">Copier le texte</string>
   <string name="copy_message_text_success">Message copié avec succès !</string>
   <string name="copy_to_sdcard">Enregistrer le fichier</string>
   <string name="copy_to_sdcard_fail">Impossible enreg. pièce jointe.</string>
   <string name="copy_to_sdcard_success">Pièce jointe enregistrée.</string>
-  <string name="database_corruption">Base de données corrompue, reconstruction...</string>
+  <string name="database_corruption">Base de données corrompue, reconstruction…</string>
   <string name="delete">Supprimer</string>
   <string name="delete_bookmark">Supprimer des favoris</string>
   <string name="delete_message">Supprimer</string>
@@ -107,7 +107,7 @@
   <string name="done">OK</string>
   <string name="download">Télécharger</string>
   <string name="download_later">Impossible de télécharger pour le moment. Veuillez réessayer ultérieurement.</string>
-  <string name="downloading">Téléchargement...</string>
+  <string name="downloading">Téléchargement…</string>
   <string name="duration_not_a_number">La durée doit être indiquée par un chiffre.</string>
   <string name="duration_sec">Durée (%s s)</string>
   <string name="duration_selector_title">"Durée de la diapositive "</string>
@@ -135,7 +135,7 @@
   <string name="fdn_check_failure">Vous pouvez envoyer des messages uniquement vers vos numéros autorisés.</string>
   <string name="festival">Recommandé</string>
   <string name="festival_sms_category_count_format">(%s)</string>
-  <string name="festival_sms_loading">Chargement...</string>
+  <string name="festival_sms_loading">Chargement…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_share_message_description">Je voudrais partager des fichiers avec vous</string>
   <string name="flatshow_page_no">%1$d</string>
@@ -161,9 +161,9 @@
   <string name="invalid_recipient_message">Veuillez corriger le nom du ou des destinataires, sinon ils ne recevront pas le message.</string>
   <string name="kilobyte">Ko</string>
   <string name="layout_selector_title">"Mise en page du diaporama "</string>
-  <string name="loading_all_messages">Chargement de tous les messages...</string>
-  <string name="loading_conversations">Chargement des conversations...</string>
-  <string name="loading_mms">Chargement MMS...</string>
+  <string name="loading_all_messages">Chargement de tous les messages…</string>
+  <string name="loading_conversations">Chargement des conversations…</string>
+  <string name="loading_mms">Chargement MMS…</string>
   <string name="me">Moi</string>
   <string name="menu_compose_new">Nouveau message</string>
   <string name="menu_delete_messages">Supprimer les messages</string>
@@ -230,7 +230,7 @@
   <string name="mx_reactivate">Réactiver la messagerie cloud</string>
   <string name="mx_recommend_msg">Activer la messagerie cloud pour envoyer des messages gratuits</string>
   <string name="mx_warning_notice">Un SMS sera envoyé pour activer la messagerie cloud. Il est possible que certains opérateurs le facturent</string>
-  <string name="need_download">En cours de synchronisation...</string>
+  <string name="need_download">En cours de synchronisation…</string>
   <string name="new_message">Nouveau message</string>
   <string name="new_message_arrived">Nouveau message</string>
   <string name="new_phrase">Nouveau message rapide</string>
@@ -296,7 +296,7 @@
   <string name="pref_title_system_mms_priority">Priorité de réception des MMS</string>
   <string name="pref_title_wake_up_screen">Allumer l\'écran</string>
   <string name="preferences_title">Paramètres</string>
-  <string name="prepare_send">Préparation de l\'envoi...</string>
+  <string name="prepare_send">Préparation de l\'envoi…</string>
   <string name="preview">Aperçu</string>
   <string name="preview_slideshow">Aperçu</string>
   <string name="priority_high">Élevée</string>
@@ -308,7 +308,7 @@
   <string name="private_new_notification">Notification de nouveau message privé</string>
   <string name="private_protect">Protéger les messages privés</string>
   <string name="private_settings">Paramètre privé</string>
-  <string name="processing">En cours...</string>
+  <string name="processing">En cours…</string>
   <string name="prvate_contact">Contact privé</string>
   <string name="rate_limit_surpassed">Confirmer</string>
   <string name="received_label">"Date de réception : "</string>
@@ -316,7 +316,7 @@
   <string name="recipient_label">"Destinataire : "</string>
   <string name="refresh">Rafraîchir</string>
   <string name="refresh_failed">La mise à jour a échouée</string>
-  <string name="refreshing">Actualisation...</string>
+  <string name="refreshing">Actualisation…</string>
   <string name="remove">Supprimer</string>
   <string name="remove_music">Supprimer la musique</string>
   <string name="remove_picture">Supprimer l\'image</string>
@@ -356,7 +356,7 @@
   <string name="send_sms">Envoyer un message</string>
   <string name="send_to">À : </string>
   <string name="send_to_count">%1$s message(s) envoyé(s)</string>
-  <string name="send_to_index_contact">Envoi de %1$s sur %2$s...</string>
+  <string name="send_to_index_contact">Envoi de %1$s sur %2$s…</string>
   <string name="sent_label">"Date d'envoi : "</string>
   <string name="service_message_not_found">Le message a expiré ou n\'est plus disponible.</string>
   <string name="service_network_problem">Impossible de procéder à l\'envoi en raison d\'un problème réseau.</string>
@@ -398,7 +398,7 @@
   <string name="text_message">Message SMS</string>
   <string name="timed_message_expired_title">%d message(s) programmé(s) non envoyé(s)</string>
   <string name="timed_message_expired_title_2">Envoyer maintenant ?</string>
-  <string name="timed_message_in_total">... (%d au total)</string>
+  <string name="timed_message_in_total">… (%d au total)</string>
   <string name="timed_message_to">À</string>
   <string name="title_date_type">Horodatage</string>
   <string name="title_timed_message_dialog">Définir l\'heure d\'envoi de ce message</string>

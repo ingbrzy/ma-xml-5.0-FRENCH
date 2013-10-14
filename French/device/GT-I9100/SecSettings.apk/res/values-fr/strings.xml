@@ -97,7 +97,7 @@ Vous risquez cependant de recevoir de nombreuses données Push lors de la réact
   <string name="bluetooth_device_name">Nom de l\'appareil</string>
   <string name="bluetooth_device_details">"Paramètres de l'appareil"</string>
   <string name="bluetooth_profile_details">Paramètres du profil</string>
-  <string name="bluetooth_name_not_set">Aucun nom n\'a été défini. Utilisation du nom du compte...</string>
+  <string name="bluetooth_name_not_set">Aucun nom n\'a été défini. Utilisation du nom du compte…</string>
   <string name="bluetooth_scan_for_devices">Recherche d\'appareils</string>
   <string name="bluetooth_rename_device">Renommer le téléphone</string>
   <string name="bluetooth_rename_button">Renommer</string>
@@ -110,10 +110,10 @@ Vous risquez cependant de recevoir de nombreuses données Push lors de la réact
   <string name="bluetooth_connected_no_a2dp">Connecté (sans audio contenu multimédia)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans audio tel./multimédia)</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
-  <string name="bluetooth_disconnecting">Déconnexion...</string>
-  <string name="bluetooth_connecting">Connexion...</string>
+  <string name="bluetooth_disconnecting">Déconnexion…</string>
+  <string name="bluetooth_connecting">Connexion…</string>
   <string name="bluetooth_unknown"></string>
-  <string name="bluetooth_pairing">Association...</string>
+  <string name="bluetooth_pairing">Association…</string>
   <string name="bluetooth_device">Appareil Bluetooth sans nom</string>
   <string name="progress_scanning">Recherche en cours</string>
   <string name="progress_tap_to_pair">Appuyez pour apparier</string>
@@ -129,8 +129,8 @@ Vous risquez cependant de recevoir de nombreuses données Push lors de la réact
   <string name="bluetooth_ask_lasting_discovery">"Une application nécessite que d'autres appareils Bluetooth puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth."</string>
   <string name="bluetooth_ask_enablement_and_discovery">"Une application requiert l'activation du Bluetooth et nécessite que d'autres appareils puissent détecter votre téléphone pendant %1$d secondes."</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">"Une application requiert l'activation du Bluetooth et nécessite que d'autres appareils puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth."</string>
-  <string name="bluetooth_turning_on">Activation du Bluetooth...</string>
-  <string name="bluetooth_turning_off">Désactivation du Bluetooth...</string>
+  <string name="bluetooth_turning_on">Activation du Bluetooth…</string>
+  <string name="bluetooth_turning_off">Désactivation du Bluetooth…</string>
   <string name="bluetooth_auto_connect">Connexion automatique</string>
   <string name="bluetooth_connection_permission_request">Demande de connexion Bluetooth</string>
   <string name="bluetooth_connection_notif_message">Appuyez pour vous connecter à "%1$s".</string>
@@ -177,7 +177,7 @@ Vous risquez cependant de recevoir de nombreuses données Push lors de la réact
   <string name="proxy_error_invalid_port">Le port indiqué n\'est pas valide.</string>
   <string name="proxy_warning_limited_support">"Le proxy HTTP est utilisé par le navigateur, mais ne peut pas l'être par les autres applications."</string>
   <string name="band_mode_title">Définir la bande GSM/UMTS</string>
-  <string name="band_mode_loading">Chargement de la liste de bandes...</string>
+  <string name="band_mode_loading">Chargement de la liste de bandes…</string>
   <string name="band_mode_set">Définir</string>
   <string name="band_mode_failed">Échec</string>
   <string name="band_mode_succeeded">OK</string>
@@ -213,7 +213,7 @@ Vous risquez cependant de recevoir de nombreuses données Push lors de la réact
   <string name="settings_label_launcher">Paramètres</string>
   <string name="settings_shortcut">Raccourci vers les paramètres</string>
   <string name="airplane_mode">Mode Avion</string>
-  <string name="radio_controls_title">Plus...</string>
+  <string name="radio_controls_title">Plus…</string>
   <string name="wireless_networks_settings_title">Sans fil et réseaux</string>
   <string name="radio_controls_summary">Configurer le Wi-Fi, le mode Bluetooth, le mode Avion, les réseaux mobiles et le VPN</string>
   <string name="roaming">Itinérance des données</string>
@@ -373,7 +373,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="bluetooth_button_retry">Réessayer</string>
   <string name="bluetooth_preference_scan_title">Rechercher des appareils</string>
   <string name="bluetooth_search_for_devices">Rechercher appareils</string>
-  <string name="bluetooth_searching_for_devices">Recherche...</string>
+  <string name="bluetooth_searching_for_devices">Recherche…</string>
   <string name="bluetooth_preference_device_settings">"Paramètres de l'appareil"</string>
   <string name="bluetooth_preference_paired_devices">Périphériques associés</string>
   <string name="bluetooth_preference_found_devices">Appareils</string>
@@ -382,11 +382,11 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="bluetooth_device_context_pair_connect">Associer et connecter</string>
   <string name="bluetooth_device_context_unpair">Dissocier</string>
   <string name="bluetooth_device_context_disconnect_unpair">Déconnecter et dissocier</string>
-  <string name="bluetooth_device_context_connect_advanced">Options...</string>
+  <string name="bluetooth_device_context_connect_advanced">Options…</string>
   <string name="bluetooth_menu_advanced">Paramètres avancés</string>
   <string name="bluetooth_advanced_titlebar">Paramètres Bluetooth avancés</string>
   <string name="bluetooth_empty_list_bluetooth_off">Activez le Bluetooth pour voir les appareils.</string>
-  <string name="bluetooth_connect_specific_profiles_title">Se connecter à...</string>
+  <string name="bluetooth_connect_specific_profiles_title">Se connecter à…</string>
   <string name="bluetooth_profile_a2dp">Paramètres audio du support</string>
   <string name="bluetooth_profile_headset">Paramètres audio du téléphone</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
@@ -459,8 +459,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="wifi_settings_title">Wi-Fi</string>
   <string name="wifi_settings_summary">"Configurer et gérer les points d'accès sans fil"</string>
   <string name="wifi_setup_wizard_title">Sélectionner le Wi-Fi</string>
-  <string name="wifi_starting">Activation du Wi-Fi...</string>
-  <string name="wifi_stopping">Désactivation du Wi-Fi...</string>
+  <string name="wifi_starting">Activation du Wi-Fi…</string>
+  <string name="wifi_stopping">Désactivation du Wi-Fi…</string>
   <string name="wifi_error">Erreur</string>
   <string name="wifi_in_airplane_mode">En mode Avion</string>
   <string name="wifi_fail_to_scan">Impossible de rechercher des réseaux.</string>
@@ -490,8 +490,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="wifi_menu_forget">Retirer le réseau</string>
   <string name="wifi_menu_modify">Modifier le réseau</string>
   <string name="wifi_empty_list_wifi_off">Activez le Wi-Fi pour voir les réseaux disponibles.</string>
-  <string name="wifi_empty_list_wifi_on">Recherche de réseaux Wi-Fi en cours...</string>
-  <string name="wifi_other_network">Autre réseau...</string>
+  <string name="wifi_empty_list_wifi_on">Recherche de réseaux Wi-Fi en cours…</string>
+  <string name="wifi_other_network">Autre réseau…</string>
   <string name="wifi_more">Plus</string>
   <string name="wifi_setup_wps">Configuration auto (WPS)</string>
   <string name="wifi_show_advanced">Afficher les options avancées</string>
@@ -509,10 +509,10 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="cancel_addnetwork">Annuler</string>
   <string name="error_saving">"Impossible d'enregistrer le réseau"</string>
   <string name="wifi_wps_setup_title">Configuration Wi-Fi protégée</string>
-  <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS...</string>
+  <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS…</string>
   <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton "Configuration Wi-Fi protégée" de votre routeur. Celui-ci peut s\'appeler "WPS" ou contenir ce symbole : </string>
   <string name="wifi_wps_onstart_pin">"Saisissez le code %1$s sur votre routeur Wi-Fi. La configuration peut prendre jusqu'à deux minutes."</string>
-  <string name="wifi_wps_complete">Configuration WPS réussie. Connexion au réseau en cours...</string>
+  <string name="wifi_wps_complete">Configuration WPS réussie. Connexion au réseau en cours…</string>
   <string name="wifi_wps_connected">Connecté au réseau Wi-Fi %s</string>
   <string name="wifi_wps_in_progress">"La configuration WPS est déjà en cours et peut prendre jusqu'à deux minutes."</string>
   <string name="wifi_wps_failed_generic">Échec de la configuration WPS. Veuillez réessayer dans quelques minutes.</string>
@@ -751,7 +751,7 @@ Wi-Fi et le point d\'accès mobile ne peuvent fonctionner simultanément"</strin
   <string name="wifi_p2p_menu_create_group">Créer un nouveau groupe</string>
   <string name="wifi_p2p_menu_remove_group">Supprimer groupe</string>
   <string name="wifi_p2p_menu_advanced">Paramètres avancés</string>
-  <string name="wifi_p2p_menu_searching">Recherche en cours...</string>
+  <string name="wifi_p2p_menu_searching">Recherche en cours…</string>
   <string name="wifi_p2p_menu_rename">Renommer l\'appareil</string>
   <string name="wifi_p2p_peer_devices">Appareils associés</string>
   <string name="wifi_p2p_available_devices">Périph disponibles</string>
@@ -1073,7 +1073,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="error_apn_empty">"L'APN est obligatoire."</string>
   <string name="error_mcc_not3">Le champ MCC doit contenir 3 chiffres.</string>
   <string name="error_mnc_not23">Le champ MNC doit contenir 2 ou 3 chiffres.</string>
-  <string name="restore_default_apn">Restauration des paramètres APN par défaut en cours...</string>
+  <string name="restore_default_apn">Restauration des paramètres APN par défaut en cours…</string>
   <string name="menu_restore">Rétablir param. par défaut</string>
   <string name="restore_default_apn_completed">La réinitialisation des paramètres APN par défaut est terminée.</string>
   <string name="master_clear_title">Restaurer valeurs d\'usine</string>
@@ -1182,11 +1182,11 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="terms_title">"Conditions d'utilisation"</string>
   <string name="settings_license_activity_title">Licences open source</string>
   <string name="settings_license_activity_unavailable">"Un problème est survenu lors du chargement des licences."</string>
-  <string name="settings_license_activity_loading">Chargement...</string>
+  <string name="settings_license_activity_loading">Chargement…</string>
   <string name="settings_safetylegal_title">Informations de sécurité</string>
   <string name="settings_safetylegal_activity_title">Informations de sécurité</string>
   <string name="settings_safetylegal_activity_unreachable">"Vous n'avez pas de connexion Internet. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet."</string>
-  <string name="settings_safetylegal_activity_loading">Chargement...</string>
+  <string name="settings_safetylegal_activity_loading">Chargement…</string>
   <string name="lockpassword_choose_your_password_header">Choisir votre mot de passe</string>
   <string name="lockpassword_choose_your_pattern_header">"Choisissez votre schéma"</string>
   <string name="lockpassword_choose_your_pin_header">Choisir votre code PIN</string>
@@ -1295,7 +1295,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="no_applications">Aucune application</string>
   <string name="internal_storage">"Stockage interne"</string>
   <string name="sd_card_storage">Mémoire USB</string>
-  <string name="recompute_size">Calcul de la taille...</string>
+  <string name="recompute_size">Calcul de la taille…</string>
   <string name="clear_data_dlg_title">Supprimer les données de l\'application ?</string>
   <string name="clear_data_dlg_text">Toutes les données de cette application vont être définitivement supprimées, y compris tous les fichiers, les paramètres, les comptes, les bases de données, etc.</string>
   <string name="dlg_ok">OK</string>
@@ -1313,7 +1313,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="join_many_items_last">%1$s et %2$s</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
-  <string name="computing_size">Traitement...</string>
+  <string name="computing_size">Traitement…</string>
   <string name="invalid_size_value">"Impossible de calculer la taille du package."</string>
   <string name="empty_list_msg">Aucune application tierce n\'est installée.</string>
   <string name="version_text">version %1$s</string>
@@ -1417,7 +1417,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="user_dict_settings_context_menu_delete_title">Supprimer</string>
   <string name="user_dict_settings_empty_text">Votre dictionnaire personnel ne contient aucun mot. Ajoutez un mot en appuyant sur le bouton "+".</string>
   <string name="user_dict_settings_all_languages">Pour toutes les langues</string>
-  <string name="user_dict_settings_more_languages">Plus de langues...</string>
+  <string name="user_dict_settings_more_languages">Plus de langues…</string>
   <string name="testing">Test</string>
   <string name="testing_phone_info">Informations sur le téléphone</string>
   <string name="testing_battery_info">Informations sur la batterie</string>
@@ -1702,7 +1702,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="sound_category_system_title">Système</string>
   <string name="wifi_setup_title">Configuration Wi-Fi</string>
   <string name="wifi_setup_title_editing_network">Se connecter au réseau Wi-Fi %s</string>
-  <string name="wifi_setup_title_connecting_network">Connexion au réseau Wi-Fi %s...</string>
+  <string name="wifi_setup_title_connecting_network">Connexion au réseau Wi-Fi %s…</string>
   <string name="wifi_setup_title_connected_network">Connecté au réseau Wi-Fi %s</string>
   <string name="wifi_setup_title_add_network">Ajouter un réseau</string>
   <string name="wifi_setup_not_connected">Non connecté</string>
@@ -1716,17 +1716,17 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="wifi_setup_forget">Supprimer</string>
   <string name="wifi_setup_save">Enregistrer</string>
   <string name="wifi_setup_cancel">Annuler</string>
-  <string name="wifi_setup_status_scanning">Recherche de réseaux...</string>
+  <string name="wifi_setup_status_scanning">Recherche de réseaux…</string>
   <string name="wifi_setup_status_select_network">Appuyez sur un réseau pour vous y connecter</string>
   <string name="wifi_setup_status_existing_network">Se connecter à un réseau existant</string>
   <string name="wifi_setup_status_unsecured_network">Connexion à un réseau non sécurisé</string>
   <string name="wifi_setup_status_edit_network">Saisissez la configuration réseau.</string>
   <string name="wifi_setup_status_new_network">Se connecter à un nouveau réseau</string>
-  <string name="wifi_setup_status_connecting">Connexion en cours...</string>
+  <string name="wifi_setup_status_connecting">Connexion en cours…</string>
   <string name="wifi_setup_status_proceed_to_next">"Passer à l'étape suivante"</string>
   <string name="wifi_setup_status_eap_not_supported">L\'EAP n\'est pas compatible.</string>
   <string name="wifi_setup_eap_not_supported">"Vous ne pouvez pas configurer de connexion Wi-Fi EAP lors de l'installation. Une fois celle-ci effectuée, vous pourrez le faire dans Paramètres &gt; Sans fil et réseaux."</string>
-  <string name="wifi_setup_description_connecting">La connexion peut prendre quelques minutes...</string>
+  <string name="wifi_setup_description_connecting">La connexion peut prendre quelques minutes…</string>
   <string name="wifi_setup_description_connected">Appuyez sur <b>Suivant</b>" pour poursuivre la configuration.
 
 Appuyez sur "<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.</string>
@@ -1751,7 +1751,7 @@ Appuyez sur "<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.</
   <string name="sync_disabled">Synchronisation désactivée</string>
   <string name="sync_error">Erreur de synchronisation</string>
   <string name="last_synced">Dernière synchronisation : %1$s</string>
-  <string name="sync_in_progress">Synchronisation en cours...</string>
+  <string name="sync_in_progress">Synchronisation en cours…</string>
   <string name="settings_backup">Sauvegarder les paramètres</string>
   <string name="settings_backup_summary">Sauvegarder mes paramètres</string>
   <string name="sync_menu_sync_now">Synchroniser maintenant</string>
@@ -1840,7 +1840,7 @@ Appuyez sur "<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.</
   <string name="data_usage_menu_show_ethernet">Afficher l\'utilisation Ethernet</string>
   <string name="data_usage_menu_metered">"Points d'accès mobiles"</string>
   <string name="data_usage_menu_auto_sync">Synchronisation automatique des données</string>
-  <string name="data_usage_change_cycle">Changer le cycle...</string>
+  <string name="data_usage_change_cycle">Changer le cycle…</string>
   <string name="data_usage_pick_cycle_day">Jour du mois de réinitialisation du cycle utilisation données :</string>
   <string name="data_usage_empty">"Aucune donnée utilisée par les applications pendant cette période."</string>
   <string name="data_usage_label_foreground">Premier plan</string>
@@ -3398,7 +3398,7 @@ Erreur de connexion probable"</string>
   <string name="lockfinger_toggle_unlock_finger_summary">"Vous devez utiliser les empreintes digitales pour déverrouiller l'écran"</string>
   <string name="lockfinger_toggle_unlock_finger_title">Empreinte requise</string>
   <string name="lockfinger_too_many_bad_swipes_header">Trop d\'erreurs de glissement de doigt !</string>
-  <string name="lockfinger_tsm_library_not_available_toast">"TSM n'a pas pu charger la bibliothèque... ne peut pas continuer !"</string>
+  <string name="lockfinger_tsm_library_not_available_toast">"TSM n'a pas pu charger la bibliothèque… ne peut pas continuer !"</string>
   <string name="lockfinger_ui_timeout_header">UI délai</string>
   <string name="lockfinger_unlock_disable_lock_finger_summary">Retirer déverrouiller doigt</string>
   <string name="lockfinger_unlock_set_unlock_finger_summary">"Faites glisser votre doigt pour déverrouiller l'écran"</string>
@@ -3413,7 +3413,7 @@ Erreur de connexion probable"</string>
   <string name="lockfinger_unlock_fingerprint_shortcut_summary">"Vous pouvez utiliser le déverrouillage par empreinte digitale lorsque vous avez enregistré vos empreintes. Pour utiliser les raccourcis d'empreinte, affectez des applications à chaque empreinte"</string>
   <string name="second_lock_text_finger">"Si le déverrouillage à l'aide de votre doigt n'est pas disponible, vous pouvez saisir un code PIN de secours pour déverrouiller"</string>
   <string name="favorite_notification_title">Notif.</string>
-  <string name="download">Téléchargement...</string>
+  <string name="download">Téléchargement…</string>
   <string name="download_cancel">Téléchargement annulé</string>
   <string name="download_success">"Informations relatives au pays d'itinérance mises à jour"</string>
   <string name="download_fail">Le téléchargement a échoué</string>
