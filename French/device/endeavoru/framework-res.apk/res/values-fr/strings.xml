@@ -1261,10 +1261,10 @@ pour le compte \"%s\""</string>
     <string name="default_audio_route_category_name">Système</string>
     <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
     <string name="media_route_chooser_grouping_done">OK</string>
-    <string name="permlab_fm_receiver">control FM receiver</string>
-    <string name="permdesc_fm_receiver">Allows the application to control the FM receiver.</string>
-    <string name="permlab_fm_transmitter">control FM transmitter</string>
-    <string name="permdesc_fm_transmitter">Allows the application to control the FM transmitter.</string>
+    <string name="permlab_fm_radio_receiver">contrôle du récepteur FM</string>
+    <string name="permdesc_fm_radio_receiver">"Permettre à l'application de contrôler le récepteur FM"</string>
+    <string name="permlab_fm_radio_transmitter">contrôle du transmetteur FM</string>
+    <string name="permdesc_fm_radio_transmitter">"Permettre à l'application de contrôler le transmetteur FM"</string>
     <string name="permlab_bluetooth_printer">accéder aux imprimantes Bluetooth</string>
     <string name="permdesc_bluetooth_printer">"Permet à une application d'accéder aux fonctions des imprimantes Bluetooth."</string>
     <string name="permlab_accessTun">"accès complet à l'appareil Tun"</string>
