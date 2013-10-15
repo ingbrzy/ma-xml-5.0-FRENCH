@@ -86,7 +86,6 @@
   <string name="gigabyteShort">Go</string>
   <string name="terabyteShort">To</string>
   <string name="petabyteShort">Po</string>
-  <string name="fileSizeSuffix"><xliff:g id="NUMBER">%1$s</xliff:g> <xliff:g id="UNIT">%2$s</xliff:g></string>
   <string name="ellipsis">…</string>
   <string name="ellipsis_two_dots">‥</string>
   <string name="mmiError">Problème de connexion ou code MMI non valide</string>
