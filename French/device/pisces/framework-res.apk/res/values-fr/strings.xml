@@ -194,10 +194,12 @@
     <string name="silent_mode_vibrate">Sonnerie en mode vibreur</string>
     <string name="silent_mode_ring">Sonnerie activée</string>
     <string name="shutdown_progress">Arrêt en cours...</string>
+    <string name="reboot_progress">Redémarrage…</string>
     <string name="shutdown_confirm">"Votre téléphone va s'éteindre."</string>
     <string name="shutdown_confirm_question">"Voulez-vous éteindre l'appareil ?"</string>
     <string name="reboot_safemode_title">Redémarrer en mode sans échec</string>
     <string name="reboot_safemode_confirm">Voulez-vous redémarrer en mode sans échec ? Cette opération aura pour effet de désactiver toutes les applications tierces que vous avez installées. Elles seront réactivées au prochain redémarrage.</string>
+    <string name="reboot_confirm">Votre téléphone va redémarrer.</string>
     <string name="recent_tasks_title">Récentes</string>
     <string name="no_recent_tasks">Aucune application récente</string>
     <string name="global_actions">Options du téléphone</string>
@@ -213,6 +215,7 @@
     <string name="global_actions_airplane_mode_on_status">Le mode Avion est activé.</string>
     <string name="global_actions_airplane_mode_off_status">Le mode Avion est désactivé.</string>
     <string name="safeMode">Mode sécurisé</string>
+    <string name="factoryMode">Mode usine</string>
     <string name="android_system_label">Système Android</string>
     <string name="permgrouplab_costMoney">Services payants</string>
     <string name="permgroupdesc_costMoney">Effectuer des opérations payantes</string>
@@ -530,6 +533,8 @@
     <string name="permdesc_wakeLock">"Permet à l'application d'empêcher le téléphone de passer en mode veille."</string>
     <string name="permlab_devicePower">Éteindre ou allumer le téléphone</string>
     <string name="permdesc_devicePower">"Permet à l'application d'éteindre et d'allumer le téléphone."</string>
+    <string name="permlab_nvidiaCPUPower">Ajuster le CPU Nvidia Tegra</string>
+    <string name="permdesc_nvidiaCPUPower">"Permet de régler les paramètres du CPU NVIDIA Tegra via l'application. Cela peut consommer de l'énergie supplémentaire."</string>
     <string name="permlab_factoryTest">"Exécution en mode Test d'usine"</string>
     <string name="permdesc_factoryTest">"Permet d'exécuter une application en mode test fabricant de faible niveau en autorisant ainsi l'accès au téléphone. Cette fonctionnalité est uniquement disponible lorsque le téléphone est en mode test fabricant."</string>
     <string name="permlab_setWallpaper">"configurer le fond d'écran"</string>
@@ -1000,6 +1005,7 @@ Voulez-vous la fermer ?"</string>
     <string name="wifi_p2p_enter_pin_message">Saisissez le code PIN requis :</string>
     <string name="wifi_p2p_show_pin_message">Code PIN :</string>
     <string name="wifi_p2p_frequency_conflict_message">"Le téléphone sera déconnecté du réseau Wi-Fi tant qu'il sera connecté à l'appareil %1$s."</string>
+    <string name="p2p_wifi_frequency_conflict_message">La connexion Wi-Fi directe va être interompue. Voulez-vous continuer ?</string>
     <string name="select_character">Insérer un caractère</string>
     <string name="sms_control_title">Envoi de messages SMS</string>
     <string name="sms_control_message">"&lt;b>%1$s&lt;/b> envoie un grand nombre de SMS. Autorisez-vous cette application à poursuivre l'envoi des messages ?"</string>
@@ -1135,8 +1141,10 @@ pour le compte \"%s\""</string>
     <string name="no_matches">Aucune correspondance</string>
     <string name="find_on_page">Rechercher sur la page</string>
     <string name="action_mode_done">OK</string>
-    <string name="progress_unmounting">Désinstallation de la mémoire de stockage USB en cours…</string>
+    <string name="progress_unmounting">Démontage du stockage USB…</string>
+    <string name="progress_unmounting_internal">Démontage du stockage interne…</string>
     <string name="progress_erasing">Effacement de la mémoire de stockage USB en cours…</string>
+    <string name="progress_erasing_internal">Effacement du stockage interne…</string>
     <string name="format_error">"Impossible d'effacer la mémoire de stockage USB."</string>
     <string name="media_bad_removal">La carte SD a été retirée sans avoir été désinstallée.</string>
     <string name="media_checking">Vérification de la mémoire de stockage USB...</string>
