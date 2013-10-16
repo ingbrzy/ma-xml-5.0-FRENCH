@@ -45,8 +45,6 @@
   <string name="sim_close">Carte SIM verrouillée</string>
   <string name="lockscreen_sim_puk_locked_message_short">PUK-verrouillé</string>
   <string name="lockscreen_sim_locked_message_short">Carte SIM verrouillée</string>
-  <string name="permlab_receiveDmRegisterSms">receive DM Register SMS</string>
-  <string name="permdesc_receiveDmRegisterSms">Allows application to receive and process DM Register SMS messages. Any Application except DM APP should not use this</string>
   <string name="lockscreen_password_error">Erreur de mot de passe, veuillez essayer de nouveau</string>
   <string name="lockscreen_pinword_error">Erreur de code PIN, veuillez essayer de nouveau</string>
   <string name="music_no_artist">Nom de l\'artiste inconnu</string>
@@ -81,8 +79,6 @@
   <string name="wday_year_day_month" formatted="false">%s, %s %s %s</string>
   <string name="wday_month_day_year" formatted="false">%s, %s %s, %s</string>
   <string name="wday_month_year_day" formatted="false">%s, %s %s %s</string>
-  <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>
-  <string name="recip_unsupport_selection">Sorry, you can not move the caret to the start when there are recipients in RecipientsView.</string>
   <string name="drm_protectioninfo_title">Info protection DRM</string>
   <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
   <string name="invalid_card">Carte invalide</string>
@@ -209,8 +205,6 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="tethered_notification_message_for_hotspot">%1$d connecté(s), %2$d bloqué(s)</string>
   <string name="default_wallpaper_name">Par défaut</string>
   <string name="wt_default_wallpaper_name">Image</string>
-  <string name="cu_3gnet_name">沃3G连接互联网</string>
-  <string name="cu_3gwap_name">沃3G手机上网</string>
   <string name="keyguard_accessibility_alarm_unlock">Arrêter l\'alarme</string>
   <string name="alarm_alert_dismiss_text">Rejeter</string>
   <string name="description_direction_right">Glisser vers la droite pour rejeter</string>
@@ -238,4 +232,16 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="voiceui_or">ou</string>
   <string name="dialog_color_picker">Sélecteur de couleurs</string>
   <string name="press_color_to_apply">Appuyez sur la couleur pour appliquer</string>
+  
+  <!-- à traduire :
+  
+  <string name="permlab_receiveDmRegisterSms">receive DM Register SMS</string>
+  <string name="permdesc_receiveDmRegisterSms">Allows application to receive and process DM Register SMS messages. Any Application except DM APP should not use this</string>
+  <string name="cu_3gnet_name">沃3G连接互联网</string>
+  <string name="cu_3gwap_name">沃3G手机上网</string>
+  <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>
+  <string name="recip_unsupport_selection">Sorry, you can not move the caret to the start when there are recipients in RecipientsView.</string>
+  
+  -->  
+  
 </resources>
