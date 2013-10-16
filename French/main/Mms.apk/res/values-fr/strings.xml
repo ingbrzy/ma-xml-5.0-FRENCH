@@ -38,6 +38,7 @@
   <string name="bookmark">Favoris</string>
   <string name="bookmark_confirm_delete_message">Les éléments sélectionnés seront supprimés des favoris</string>
   <string name="bookmark_empty">Aucun favori</string>
+  <string name="phrase_list_title">Réponses rapides</string>
   <string name="bookmark_list_title">Favoris</string>
   <string name="cannot_add_picture_and_video">Impossible d\'ajouter une vidéo et une image sur une même diapositive.</string>
   <string name="cannot_add_slide_anymore">Impossible d\'ajouter d\'autres diapositives.</string>
@@ -275,6 +276,7 @@
   <string name="pref_summary_notification_body_enabled">Prévisualiser les messages sur l\'écran de verrouillage et la barre d\'état</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Prévisualisation des messages désactivée quand le contrôle d\'accès est activé</string>
   <string name="pref_summary_on_system_mms_priority">L\'application recevra les MMS en premier</string>
+  <string name="pref_summary_off_system_mms_priority">Utiliser des applications tierces pour envoyer et recevoir des MMS</string>
   <string name="pref_summary_show_recent_contacts">Afficher la liste des derniers contacts utilisés lors de la composition d\'un message</string>
   <string name="pref_summary_wake_up_screen">Allumer l\'écran lorsque vous recevez de nouveaux messages</string>
   <string name="pref_system_title">Système</string>
@@ -349,6 +351,7 @@
   <string name="select_local_audio">Sélectionner un enregistrement audio local</string>
   <string name="select_local_video">Sélectionner une vidéo locale</string>
   <string name="select_recipient">Sélectionner le destinataire</string>
+  <string name="add_attachment">Ajouter des pièces jointes</string>
   <string name="select_top_text">Texte en haut de l\'écran</string>
   <string name="send">Envoyer</string>
   <string name="send_signature_confirm_dialog_message">Vous n\'avez pas écrit de contenu, voulez-vous l\'envoyer ?</string>

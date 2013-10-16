@@ -203,7 +203,6 @@
   <string name="attachment_not_found">"Impossible de télécharger la pièce jointe."</string>
   <string name="bcc">Cci :</string>
   <string name="body_hint">Composez un message</string>
-  <string name="build_number">20080722-0001</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_action">Annuler</string>
   <string name="cannot_move_multiple_accounts_toast">"Impossible de déplacer le message car la sélection comprend plusieurs comptes."</string>

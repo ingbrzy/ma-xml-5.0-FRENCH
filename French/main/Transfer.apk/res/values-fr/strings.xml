@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_receive">Réception de fichier(s)</string>
   <string name="about_to_send">Envoi de fichier(s)</string>
@@ -12,6 +12,7 @@
   <string name="canceling">Annulation</string>
   <string name="choose_title">Choisir un fichier</string>
   <string name="connect_confirm">%1$s requiert une connexion</string>
+  <string name="trasfer_list">Liste de transfert</string>
   <string name="connecting">Connexion</string>
   <string name="continue_to_send">Poursuivre l\'envoi</string>
   <string name="device_default_name">Téléphone Xiaomi</string>

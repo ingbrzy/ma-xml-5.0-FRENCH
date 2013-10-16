@@ -32,8 +32,6 @@
   <string name="batch_connect_control">Gérer les connexions des applications</string>
   <string name="cancel_txt">Annuler</string>
   <string name="cannot_find_sms_cmd">"Impossible de trouver la commande SMS"</string>
-  <string name="carrier_cmcc">%1$s, %2$s, %3$s, %4$s</string>
-  <string name="carrier_none_cmcc">%1$s, %2$s, %3$s</string>
   <string name="carrier_query_number_brand">Marque de service</string>
   <string name="carrier_query_number_carrier">Opérateur</string>
   <string name="carrier_query_number_location">Attribution</string>
@@ -167,9 +165,6 @@ Utilisé"</string>
   <string name="version_label">"Version : "</string>
   <string name="warning_settings_toast">"%1$d%% %2$dMo"</string>
   <string name="warning_title">Attention</string>
-  <string name="widget_color_exceed_warn">\#F9882C</string>
-  <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
-  <string name="widget_color_used_all">\#C00203</string>
   <string name="wifi_traffic">Wi-Fi : %s</string>
   <string name="wifi_type">Wi-Fi</string>
 </resources>

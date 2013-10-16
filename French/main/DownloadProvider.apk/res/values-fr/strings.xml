@@ -32,7 +32,6 @@ Vous pourrez modifier ce choix dans les réglages de l\'application.</string>
     <string name="button_queue_for_wifi">File d\'attente</string>
     <string name="button_cancel_download">Annuler</string>
     <string name="button_start_now">Commencer</string>
-    <string name="download_percent">%d%%</string>
     <string name="dialog_insufficient_space_on_external">Manque d\'espace libre sur la mémoire externe</string>
     <string name="dialog_insufficient_space_on_cache">Manque d\'espace libre sur la mémoire interne</string>
     <string name="auto_restart_under_wifi">Le téléchargement sera automatiquement démarré dès la connexion à un réseau Wi-Fi.</string>
