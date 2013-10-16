@@ -34,10 +34,6 @@
   <string name="call_reject_title">Rejet des appels</string>
   <string name="call_ring_stepup_summary">Intensifier la sonnerie des appels entrants</string>
   <string name="call_ring_stepup_title">Intensifier sonnerie</string>
-  <!-- similaire à dialog_message_motion  ?? -->
-  <string name="call_silent_summary">Turn silent when incoming call</string>
-  <string name="call_silent_title">Turn silent</string>
-  <!-- -->
   <string name="caller_manage_manage_done_text">Retour à l\'appel</string>
   <string name="cannot_answered_Video_Call">L\'appel vidéo ne peut pas être répondu car il y a déjà un appel vocal actif</string>
   <string name="cannot_answered_Voice_Call">L\'appel vocal ne peut pas être répondu car il y a déjà un appel vidéo actif</string>
@@ -89,9 +85,6 @@
   <string name="dualtalk_tip_accept_disconnect_voice">Accepter cet appel mettra fin à/aux appel(s) vocal/aux.</string>
   <string name="enable_3G_service">Activer 3G</string>
   <string name="enable_sip_dialog_message">"Appel par Internet (SIP) inactif, voulez-vous l'activer ?</string>
-  <!-- hein ? -->
-  <string name="end_call_because_can_not_hold">"End current call, because it can't be hold."</string>
-  <!-- -->
   <string name="enter_callbarring_password">Entrez mot de passe d\'interdiction d\'appel (4 chiffres)</string>
   <string name="enter_ip_prefix_number">Saisissez un préfixe IP</string>
   <string name="error_sdcard_access">Impossible d\'accéder à la carte SD</string>
@@ -110,7 +103,7 @@
   <string name="fdn_phone_book_busy">Le répertoire téléphonique est occupé pour l\'instant, veuillez essayer plus tard.</string>
   <string name="gemini_3g_disable_warning_case0">Vous devez activer l\'itinérance des données pour cette carte SIM, ce qui peut ajouter des frais considérables d\'itinérance ! Voulez-vous vraiment activer l\'itinérance des données et sélectionner cette carte SIM ?</string>
   <string name="gemini_3g_disable_warning_case1">Le service 3G n’est pas disponible avec la carte SIM sélectionnée. Les données peuvent se charger plus lentement. Vous pouvez changer les réglages du service 3G dans Réglages &gt; Sans fil &amp; réseaux &gt; Réseaux portables.</string>
-  <string name="gemini_3g_disable_warning_case2">Vous devez tout d’abord autoriser l’itinérance des données sur cette carte SIM, ce qui peut entraîner des frais d’itinérance non négligeables! De plus, le service 3G n’est pas disponible avec cette carte SIM. Le chargement des données peut être ralenti. Vous pouvez modifier le réglage sous Réglages &gt; Sans-fil &amp; réseaux &gt; Réseaux mobiles. Confirmer l’itinérance des données et la sélection de cette carte SIM ?</string>
+  <string name="gemini_3g_disable_warning_case2">Vous devez tout d’abord autoriser l’itinérance des données sur cette carte SIM, ce qui peut entraîner des frais d’itinérance non négligeables ! De plus, le service 3G n’est pas disponible avec cette carte SIM. Le chargement des données peut être ralenti. Vous pouvez modifier le réglage sous Réglages &gt; Sans-fil &amp; réseaux &gt; Réseaux mobiles. Confirmer l’itinérance des données et la sélection de cette carte SIM ?</string>
   <string name="gemini_3g_indic">3G</string>
   <string name="gemini_data_connection">Connexion des données</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Préférences réseau GSM/UMTS</string>
@@ -203,7 +196,7 @@ inconditionnel activé"</string>
   <string name="network_id">ID du réseau</string>
   <string name="network_setting_all_forbidden_dialog">Aucun réseau disponible. Veuillez activer la 3G ou sélectionner un réseau interdit manuellement.</string>
   <string name="networksettings_tips_data_disabled">Désactiver le service de données ? D\'autres services seront affectés, par ex. l\'envoi et la réception de MMS ou d\'emails.</string>
-  <string name="networksettings_tips_data_enabled">Activer le service de données ? Des frais de trafic de données peuvent s\'appliquer!</string>
+  <string name="networksettings_tips_data_enabled">Activer le service de données ? Des frais de trafic de données peuvent s\'appliquer !</string>
   <string name="new_password_label">Nouveau mot de passe (4 chiffres) </string>
   <string name="no_search_result">Aucun résultat de recherche</string>
   <string name="no_service_msg">"L\'opérateur sélectionné n\'émet actuellement pas de service.
@@ -400,4 +393,10 @@ Etes-vous sûr de vouloir autoriser le service données mobiles préféré ?"</s
   <string name="vt_wait_voice">Appel vocal en attente de connexion</string>
   <string name="which_call_to_activate">Quel appel activer ?</string>
   <string name="wrong_password">Erreur de mot de passe</string>
+  
+  <!-- à traduire : 
+  <string name="call_silent_summary">Turn silent when incoming call</string>
+  <string name="call_silent_title">Turn silent</string>
+  <string name="end_call_because_can_not_hold">"End current call, because it can't be hold."</string>
+  -->
 </resources>

@@ -57,5 +57,5 @@
   <string name="vp_VideoView_error_title">Erreur de lecture vidéo !</string>
   <string name="menu_item_enable_audio_enhance">"Activer l'améliorateur de son"</string>
   <string name="menu_item_disable_audio_enhance">"Désactiver l'améliorateur de son"</string>
-  <string name="toast_message_set_misound">Veuillez configurer MiSound...</string>
+  <string name="toast_message_set_misound">Veuillez configurer MiSound…</string>
 </resources>

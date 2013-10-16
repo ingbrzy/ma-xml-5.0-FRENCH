@@ -7,7 +7,7 @@
   <string name="bl_no_block_sms">Tous les messages bloqués seront enregistrés ici</string>
   <string name="dlg_add_blacklist">Ajouter le numéro à la liste noire ?</string>
   <string name="dlg_add_keyword">Ajouter des mots clés</string>
-  <string name="dlg_add_manual_hint">Insérez le numéro de téléphone</string>
+  <string name="dlg_add_manual_hint">Entrez le numéro de téléphone</string>
   <string name="dlg_add_manual_ok">Ajouter</string>
   <string name="dlg_bl_add_manual">Ajouter manuellement un numéro à la liste noire</string>
   <string name="dlg_clear_all_call">Supprimer tous les appels bloqués ?</string>

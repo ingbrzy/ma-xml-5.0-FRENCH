@@ -80,7 +80,6 @@
   <string name="wday_month_day_year" formatted="false">%s, %s %s, %s</string>
   <string name="wday_month_year_day" formatted="false">%s, %s %s %s</string>
   <string name="drm_protectioninfo_title">Info protection DRM</string>
-  <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
   <string name="invalid_card">Carte invalide</string>
   <string name="RejectCauseTitle">Cause de rejet du réseau</string>
   <string name="MMRejectCause2">Carte SIM non configurée - MM #2</string>
@@ -234,7 +233,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="press_color_to_apply">Appuyez sur la couleur pour appliquer</string>
   
   <!-- à traduire :
-  
+  <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
   <string name="permlab_receiveDmRegisterSms">receive DM Register SMS</string>
   <string name="permdesc_receiveDmRegisterSms">Allows application to receive and process DM Register SMS messages. Any Application except DM APP should not use this</string>
   <string name="cu_3gnet_name">沃3G连接互联网</string>

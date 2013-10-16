@@ -1112,9 +1112,9 @@
     <string name="keyguard_password_enter_password_code">Entrer le mot de passe de déverrouillage</string>
     <string name="keyguard_password_enter_pin_password_code">Entrez le code PIN pour déverrouiller</string>
     <string name="keyguard_password_wrong_pin_code">Code PIN incorrect</string>
-    <string name="keyguard_password_wrong_puk_code">Code PUK incorrect!</string>
-    <string name="keyguard_password_pin_failed">PIN opération a échoué!</string>
-    <string name="keyguard_password_puk_failed">PUK opération a échoué!</string>
+    <string name="keyguard_password_wrong_puk_code">Code PUK incorrect !</string>
+    <string name="keyguard_password_pin_failed">PIN opération a échoué !</string>
+    <string name="keyguard_password_puk_failed">PUK opération a échoué !</string>
     <string name="keyguard_pin_accepted">Code accepté</string>
     <string name="keyguard_label_text">Pour déverrouiller, appuyez sur Menu, puis sur 0</string>
     <string name="emergency_call_dialog_number_for_display">"Numéro d'urgence"</string>

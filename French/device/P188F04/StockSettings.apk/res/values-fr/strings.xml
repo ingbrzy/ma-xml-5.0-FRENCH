@@ -12,7 +12,7 @@
     <string name="focus_sound">Son Focus</string>
     <string name="srs">Son SRS</string>
     <string name="operation">Opération</string>
-    <string name="mipop">MIPop</string>
+    <string name="mipop">MiPop</string>
     <string name="flash_recovery">Flash Recovery</string>
     <string name="toolbox">ToolBox</string>
     <string name="recovery_instruction">"Renommez l'image de restauration en recovery.img et mettez-la sur la carte SD externe, ensuite vous pouvez flasher l'image en appuyant dessus"</string>

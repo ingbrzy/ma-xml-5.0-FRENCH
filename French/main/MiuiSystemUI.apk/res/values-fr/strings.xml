@@ -166,6 +166,8 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
   <string name="screen_button_disabled_message">Les touches du bas de l\'écran sont désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
   <string name="screen_button_enabled_message">Les touches du bas de l\'écran sont activées</string>
+  <string name="settings_statusbar_style">Paramètres de la barre d\'état</string>
+  <string name="center_clock_title">Horloge centrée</string>
   <string name="screen_key_back">Touche retour</string>
   <string name="screen_key_home">Touche Accueil</string>
   <string name="screen_key_menu">Touche Menu</string>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="navibar">afficher</string>
-    <string name="app_name">Mi-POP</string>
+    <string name="app_name">MiPop</string>
     <string name="full_screen">Navbar</string>
-    <string name="mipop_title">Mi-POP</string>
-    <string name="mipop_switch_title">Mi-POP</string>
-    <string name="mipop_switch_summary">Mi-POP activé，la barre de navigation pourra être remplacée</string>
+    <string name="mipop_title">MiPop</string>
+    <string name="mipop_switch_title">MiPop</string>
+    <string name="mipop_switch_summary">MiPop activé，la barre de navigation pourra être remplacée</string>
     <string name="mipop_fullscreen_title">Cacher la barre de navigation</string>
     <string name="mipop_fullscreen_summary">"Une zone d'affichage plus grande sera disponible"</string>
-    <string name="widgetName">Mi-pop</string>
-    <string name="widgetText">Mi-pop</string>
+    <string name="widgetName">MiPop</string>
+    <string name="widgetText">MiPop</string>
     <string name="fullscreenmode">Mode plein écran</string>
-    <string name="fullscreenmodeon">Cacher Mi-POP et la barre de navigation</string>
-    <string name="fullscreenmodeoff">Réafficher Mi-POP et la barre de navigation</string>
+    <string name="fullscreenmodeon">Cacher MiPop et la barre de navigation</string>
+    <string name="fullscreenmodeoff">Réafficher MiPop et la barre de navigation</string>
     <string name="Save">Enregistrer</string>
     <string name="Discard">Annuler</string>
     <string name="Share">Partager</string>
@@ -21,7 +21,7 @@
     <string name="runningFaceDetection">Veuillez patienter…</string>
     <string name="power_off">Éteindre</string>
     <string name="reboot">Redémarrer</string>
-    <string name="lock_screen">Écran de vérouillage</string>
+    <string name="lock_screen">Écran de verrouillage</string>
     <string name="screenshots">"Captures d'écran"</string>
     <string name="volume">Volume</string>
     <string name="mute">Muet</string>
