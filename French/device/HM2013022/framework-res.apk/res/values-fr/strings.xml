@@ -86,7 +86,7 @@
   <string name="gigabyteShort">Go</string>
   <string name="terabyteShort">To</string>
   <string name="petabyteShort">Po</string>
-  <string name="fileSizeSuffix"><xliff:g id="NUMBER">%1$s</xliff:g> <xliff:g id="UNIT">%2$s</xliff:g></string>
+  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="ellipsis">…</string>
   <string name="ellipsis_two_dots">‥</string>
   <string name="mmiError">Problème de connexion ou code MMI non valide</string>
@@ -157,11 +157,11 @@
   <string name="roamingText11">Bannière itinérance activée</string>
   <string name="roamingText12">Bannière itinérance désactivée</string>
   <string name="roamingTextSearching">Recherche de services…</string>
-  <string name="cfTemplateNotForwarded"><xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g> : non transféré</string>
-  <string name="cfTemplateForwarded"><xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g> : <xliff:g id="DIALING_NUMBER">{1}</xliff:g></string>
-  <string name="cfTemplateForwardedTime"><xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g> : <xliff:g id="DIALING_NUMBER">{1}</xliff:g> au bout de <xliff:g id="TIME_DELAY">{2}</xliff:g> secondes</string>
-  <string name="cfTemplateRegistered"><xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g> : non transféré</string>
-  <string name="cfTemplateRegisteredTime"><xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g> : non transféré</string>
+  <string name="cfTemplateNotForwarded">{0} : non transféré</string>
+  <string name="cfTemplateForwarded">{0} : {1}</string>
+  <string name="cfTemplateForwardedTime">{0} : {1} au bout de {2} secondes</string>
+  <string name="cfTemplateRegistered">{0} : non transféré</string>
+  <string name="cfTemplateRegisteredTime">{0} : non transféré</string>
   <string name="fcComplete">Code de fonction complet</string>
   <string name="fcError">Impossible de se connecter au réseau ou code de fonction non valide</string>
   <string name="httpErrorOk">OK</string>
@@ -178,10 +178,10 @@
   <string name="httpErrorFile">Impossible d\'accéder au fichier</string>
   <string name="httpErrorFileNotFound">Fichier demandé introuvable</string>
   <string name="httpErrorTooManyRequests">Demandes en cours de traitement trop nombreuses. Réessayez plus tard</string>
-  <string name="notification_title">Erreur de connexion au compte "<xliff:g id="ACCOUNT">%1$s</xliff:g>"</string>
+  <string name="notification_title">Erreur de connexion au compte "%1$s"</string>
   <string name="contentServiceSync">Synchro.</string>
   <string name="contentServiceSyncNotificationTitle">Synchro.</string>
-  <string name="contentServiceTooManyDeletesNotificationDesc">Trop de contenus supprimés (<xliff:g id="CONTENT_TYPE">%s</xliff:g>).</string>
+  <string name="contentServiceTooManyDeletesNotificationDesc">Trop de contenus supprimés (%s).</string>
   <string name="low_memory">La mémoire de la tablette est pleine. Supprimez des fichiers pour libérer de l\'espace.</string>
   <string name="me">Moi</string>
   <string name="power_dialog">Options de la tablette</string>
@@ -725,9 +725,9 @@
   <string name="lockscreen_pattern_wrong">Désolé. Réessayez</string>
   <string name="lockscreen_password_wrong">Désolé. Réessayez</string>
   <string name="faceunlock_multiple_failures">Nombre maximal autorisé de tentatives Face Unlock atteint.</string>
-  <string name="lockscreen_plugged_in">En charge (<xliff:g id="NUMBER">%d</xliff:g><xliff:g id="PERCENT">%%</xliff:g>)</string>
+  <string name="lockscreen_plugged_in">En charge (%d%%)</string>
   <string name="lockscreen_charged">Chargé</string>
-  <string name="lockscreen_battery_short"><xliff:g id="NUMBER">%d</xliff:g> <xliff:g id="PERCENT">%%</xliff:g></string>
+  <string name="lockscreen_battery_short">%d %%</string>
   <string name="lockscreen_low_battery">Branchez le chargeur</string>
   <string name="lockscreen_missing_sim_message_short">Aucune carte SIM</string>
   <string name="lockscreen_missing_sim_message">Aucune carte SIM n\'est insérée dans la tablette.</string>
@@ -746,13 +746,13 @@
   <string name="lockscreen_sim_puk_locked_instructions">Consultez le mode d\'emploi ou contactez le service client</string>
   <string name="lockscreen_sim_locked_message">La carte SIM est verrouillé</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Déverrouillage de la carte SIM…</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à <xliff:g id="NUMBER_0">%d</xliff:g> reprises."\n\n"Veuillez réessayer dans <xliff:g id="NUMBER_1">%d</xliff:g> secondes.</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">Vous avez saisi un mot de passe incorrect <xliff:g id="NUMBER_0">%d</xliff:g> fois. "\n\n"Veuillez réessayer dans <xliff:g id="NUMBER_1">%d</xliff:g> secondes.</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">Vous avez saisi un code PIN incorrect <xliff:g id="NUMBER_0">%d</xliff:g> fois. "\n\n"Veuillez réessayer dans <xliff:g id="NUMBER_1">%d</xliff:g> secondes.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à <xliff:g id="NUMBER_0">%d</xliff:g> reprises. Au bout de <xliff:g id="NUMBER_1">%d</xliff:g> échecs supplémentaires, vous devrez déverrouiller votre téléphone à l\'aide de votre identifiant Google."\n\n"Veuillez réessayer dans <xliff:g id="NUMBER_2">%d</xliff:g> secondes.</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à <xliff:g id="NUMBER_0">%d</xliff:g> reprises. Si vous échouez encore <xliff:g id="NUMBER_1">%d</xliff:g> fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à <xliff:g id="NUMBER">%d</xliff:g> reprises. Sa configuration d\'usine va être rétablie.</string>
-  <string name="lockscreen_too_many_failed_attempts_countdown">Réessayez dans <xliff:g id="NUMBER">%d</xliff:g> secondes.</string>
+  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à %d reprises."\n\n"Veuillez réessayer dans %d secondes.</string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">Vous avez saisi un mot de passe incorrect %d fois. "\n\n"Veuillez réessayer dans %d secondes.</string>
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">Vous avez saisi un code PIN incorrect %d fois. "\n\n"Veuillez réessayer dans %d secondes.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à %d reprises. Au bout de %d échecs supplémentaires, vous devrez déverrouiller votre téléphone à l\'aide de votre identifiant Google."\n\n"Veuillez réessayer dans %d secondes.</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie.</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">Réessayez dans %d secondes.</string>
   <string name="lockscreen_forgot_pattern_button_text">Motif oublié ?</string>
   <string name="lockscreen_glogin_forgot_pattern">Déverrouillage du compte</string>
   <string name="lockscreen_glogin_too_many_attempts">Nombre de tentatives de modèle dépassé !</string>
@@ -774,14 +774,14 @@
   <string name="keyguard_accessibility_widget_empty_slot">Vide</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Zone de déverrouillage développée.</string>
   <string name="keyguard_accessibility_unlock_area_collapsed">Zone de déverrouillage réduite.</string>
-  <string name="keyguard_accessibility_widget">Widget <xliff:g id="WIDGET_INDEX">%1$s</xliff:g></string>
+  <string name="keyguard_accessibility_widget">Widget %1$s</string>
   <string name="keyguard_accessibility_user_selector">Sélecteur d\'utilisateur</string>
   <string name="keyguard_accessibility_status">État</string>
   <string name="keyguard_accessibility_camera">Caméra</string>
   <string name="keygaurd_accessibility_media_controls">Commandes multimédias</string>
   <string name="keyguard_accessibility_widget_reorder_start">Début de la réorganisation des widgets</string>
   <string name="keyguard_accessibility_widget_reorder_end">Réorganisation des widgets terminée.</string>
-  <string name="keyguard_accessibility_widget_deleted">Le widget <xliff:g id="WIDGET_INDEX">%1$s</xliff:g> a été supprimé.</string>
+  <string name="keyguard_accessibility_widget_deleted">Le widget %1$s a été supprimé.</string>
   <string name="keyguard_accessibility_expand_lock_area">Développer la zone de déverrouillage</string>
   <string name="keyguard_accessibility_slide_unlock">Déverrouillage en faisant glisser votre doigt sur l\'écran</string>
   <string name="keyguard_accessibility_pattern_unlock">Déverrouillage par schéma</string>
@@ -797,15 +797,15 @@
   <string name="granularity_label_word">Mot</string>
   <string name="granularity_label_link">Lien</string>
   <string name="granularity_label_line">Ligne</string>
-  <string name="hour_ampm" formatted="false"><xliff:g id="HOUR">%-l</xliff:g> <xliff:g id="AMPM">%P</xliff:g></string>
-  <string name="hour_cap_ampm" formatted="false"><xliff:g id="HOUR">%-l</xliff:g> <xliff:g id="AMPM">%p</xliff:g></string>
+  <string name="hour_ampm" formatted="false">%-l %P</string>
+  <string name="hour_cap_ampm" formatted="false">%-l %p</string>
   <string name="factorytest_failed">Échec du test usine</string>
   <string name="factorytest_not_system">L\'action FACTORY_TEST est prise en charge uniquement pour les ensembles installés dans /system/app</string>
   <string name="factorytest_no_action">Aucun ensemble n\'a été trouvé, qui fournisse l\'action FACTORY_TEST</string>
   <string name="factorytest_reboot">Redémarrage</string>
-  <string name="js_dialog_title">La page "<xliff:g id="TITLE">%s</xliff:g>" indique :</string>
+  <string name="js_dialog_title">La page "%s" indique :</string>
   <string name="js_dialog_title_default">JavaScript</string>
-  <string name="js_dialog_before_unload">Voulez-vous quitter cette page ?"\n\n"<xliff:g id="MESSAGE">%s</xliff:g>"\n\n"Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</string>
+  <string name="js_dialog_before_unload">Voulez-vous quitter cette page ?"\n\n"%s"\n\n"Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</string>
   <string name="save_password_label">Confirmer</string>
   <string name="double_tap_toast">Conseil : Appuyez deux fois pour faire un zoom avant ou arrière.</string>
   <string name="autofill_this_form">Rempl. auto</string>
@@ -863,14 +863,14 @@
   <string name="searchview_description_submit">Requête d\'envoi</string>
   <string name="searchview_description_voice">Recherche vocale</string>
   <string name="enable_explore_by_touch_warning_title">Activer "Explorer au toucher" ?</string>
-  <string name="enable_explore_by_touch_warning_message"><xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> souhaite activer la fonctionnalité "Explorer au toucher". Lorsque celle-ci est activée, vous pouvez entendre ou voir les descriptions des éléments que vous sélectionnez, ou bien interagir avec le téléphone en effectuant certains gestes.</string>
+  <string name="enable_explore_by_touch_warning_message">%1$s souhaite activer la fonctionnalité "Explorer au toucher". Lorsque celle-ci est activée, vous pouvez entendre ou voir les descriptions des éléments que vous sélectionnez, ou bien interagir avec le téléphone en effectuant certains gestes.</string>
   <string name="oneMonthDurationPast">Il y a 1 mois</string>
   <string name="beforeOneMonthDurationPast">Antérieur au mois précédent</string>
   <string name="last_month">Mois précédent</string>
   <string name="older">Préc.</string>
-  <string name="preposition_for_date">le <xliff:g id="DATE">%s</xliff:g></string>
-  <string name="preposition_for_time">à <xliff:g id="TIME">%s</xliff:g></string>
-  <string name="preposition_for_year">en <xliff:g id="YEAR">%s</xliff:g></string>
+  <string name="preposition_for_date">le %s</string>
+  <string name="preposition_for_time">à %s</string>
+  <string name="preposition_for_year">en %s</string>
   <string name="day">Jour</string>
   <string name="days">Jours</string>
   <string name="hour">Heure</string>
@@ -883,13 +883,13 @@
   <string name="weeks">Semaines</string>
   <string name="year">Année</string>
   <string name="years">Années</string>
-  <string name="relative_time"><xliff:g id="DATE">%1$s</xliff:g>, <xliff:g id="TIME">%2$s</xliff:g></string>
+  <string name="relative_time">%1$s, %2$s</string>
   <string name="noon">Midi</string>
   <string name="Noon">Midi</string>
   <string name="midnight">Minuit</string>
   <string name="Midnight">Minuit</string>
-  <string name="elapsed_time_short_format_mm_ss"><xliff:g id="MINUTES">%1$02d</xliff:g>:<xliff:g id="SECONDS">%2$02d</xliff:g></string>
-  <string name="elapsed_time_short_format_h_mm_ss"><xliff:g id="HOURS">%1$d</xliff:g>:<xliff:g id="MINUTES">%2$02d</xliff:g>:<xliff:g id="SECONDS">%3$02d</xliff:g></string>
+  <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
+  <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="replace">Remplacer…</string>
   <string name="delete">Supprimer</string>
   <string name="textSelectionCABTitle">Sélection texte</string>
@@ -909,36 +909,36 @@
   <string name="chooseUsbActivity">Sélectionnez une application pour le périphérique de stockage USB</string>
   <string name="noApplications">Application introuvable pour exécuter cette action</string>
   <string name="aerr_title"></string>
-  <string name="aerr_application">L\'application "<xliff:g id="APPLICATION">%1$s</xliff:g>" s\'est arrêtée.</string>
-  <string name="aerr_process">Malheureusement, le processus <xliff:g id="PROCESS">%1$s</xliff:g> s\'est arrêté.</string>
+  <string name="aerr_application">L\'application "%1$s" s\'est arrêtée.</string>
+  <string name="aerr_process">Malheureusement, le processus %1$s s\'est arrêté.</string>
   <string name="anr_title"></string>
-  <string name="anr_activity_application">L\'application <xliff:g id="APPLICATION">%2$s</xliff:g> ne répond pas."\n\n"Voulez-vous quitter ?</string>
-  <string name="anr_activity_process">L\'activité <xliff:g id="ACTIVITY">%1$s</xliff:g> ne répond pas."\n\n"Voulez-vous quitter ?</string>
-  <string name="anr_application_process">L\'application <xliff:g id="APPLICATION">%1$s</xliff:g> ne répond pas. Voulez-vous quitter ?</string>
-  <string name="anr_process">Le processus <xliff:g id="PROCESS">%1$s</xliff:g> ne répond pas."\n\n"Voulez-vous quitter ?</string>
+  <string name="anr_activity_application">L\'application %2$s ne répond pas."\n\n"Voulez-vous quitter ?</string>
+  <string name="anr_activity_process">L\'activité %1$s ne répond pas."\n\n"Voulez-vous quitter ?</string>
+  <string name="anr_application_process">L\'application %1$s ne répond pas. Voulez-vous quitter ?</string>
+  <string name="anr_process">Le processus %1$s ne répond pas."\n\n"Voulez-vous quitter ?</string>
   <string name="force_close">OK</string>
   <string name="report">Rapport</string>
   <string name="wait">Attendre</string>
   <string name="webpage_unresponsive">La page ne répond pas."\n" "\n"Voulez-vous la fermer ?</string>
   <string name="launch_warning_title">Application redirigée</string>
-  <string name="launch_warning_replace"><xliff:g id="APP_NAME">%1$s</xliff:g> est maintenant lancée.</string>
-  <string name="launch_warning_original">Application lancée initialement : <xliff:g id="APP_NAME">%1$s</xliff:g>.</string>
+  <string name="launch_warning_replace">%1$s est maintenant lancée.</string>
+  <string name="launch_warning_original">Application lancée initialement : %1$s.</string>
   <string name="screen_compat_mode_scale">Échelle</string>
   <string name="screen_compat_mode_show">Toujours afficher</string>
   <string name="screen_compat_mode_hint">Réactivez ce mode en accédant à Paramètres système &gt; Applications &gt; Téléchargements</string>
-  <string name="smv_application">L\'application <xliff:g id="APPLICATION">%1$s</xliff:g> (du processus <xliff:g id="PROCESS">%2$s</xliff:g>) a enfreint ses propres règles du mode strict.</string>
-  <string name="smv_process">Le processus <xliff:g id="PROCESS">%1$s</xliff:g> a enfreint ses propres règles du mode strict.</string>
+  <string name="smv_application">L\'application %1$s (du processus %2$s) a enfreint ses propres règles du mode strict.</string>
+  <string name="smv_process">Le processus %1$s a enfreint ses propres règles du mode strict.</string>
   <string name="android_upgrading_title">Mise à jour d\'Android…</string>
-  <string name="android_upgrading_apk">Optimisation de l\'application <xliff:g id="NUMBER_0">%1$d</xliff:g> sur <xliff:g id="NUMBER_1">%2$d</xliff:g>…</string>
+  <string name="android_upgrading_apk">Optimisation de l\'application %1$d sur %2$d…</string>
   <string name="android_upgrading_starting_apps">Lancement des applications…</string>
   <string name="android_upgrading_complete">Initialisation terminée</string>
-  <string name="heavy_weight_notification"><xliff:g id="APP">%1$s</xliff:g> en cours d\'exécution</string>
+  <string name="heavy_weight_notification">%1$s en cours d\'exécution</string>
   <string name="heavy_weight_notification_detail">Appuyez pour basculer sur l\'application</string>
   <string name="heavy_weight_switcher_title">Changer d\'application ?</string>
   <string name="heavy_weight_switcher_text">Impossible de lancer une nouvelle application lorsqu\'une autre application est déjà en cours d\'exécution</string>
-  <string name="old_app_action">Revenir à <xliff:g id="OLD_APP">%1$s</xliff:g></string>
+  <string name="old_app_action">Revenir à %1$s</string>
   <string name="old_app_description">Impossible de démarrer la nouvelle application</string>
-  <string name="new_app_action">Démarrer <xliff:g id="OLD_APP">%1$s</xliff:g></string>
+  <string name="new_app_action">Démarrer %1$s</string>
   <string name="new_app_description">Quitter l\'application sans enregistrer</string>
   <string name="sendText">Sélectionner une action pour le texte</string>
   <string name="volume_ringtone">Volume de sonnerie</string>
@@ -956,7 +956,7 @@
   <string name="volume_icon_description_media">Volume multimédia</string>
   <string name="volume_icon_description_notification">Volume de notification</string>
   <string name="ringtone_default">Sonnerie par défaut</string>
-  <string name="ringtone_default_with_actual">Sonnerie par défaut (<xliff:g id="ACTUAL_RINGTONE">%1$s</xliff:g>)</string>
+  <string name="ringtone_default_with_actual">Sonnerie par défaut (%1$s)</string>
   <string name="ringtone_silent">Aucune</string>
   <string name="ringtone_picker_title">Sonneries</string>
   <string name="ringtone_unknown">Sonnerie inconnue</string>
@@ -977,13 +977,13 @@
   <string name="wifi_p2p_to_message">À :</string>
   <string name="wifi_p2p_enter_pin_message">Saisissez le code PIN requis :</string>
   <string name="wifi_p2p_show_pin_message">Code PIN :</string>
-  <string name="wifi_p2p_frequency_conflict_message">Le téléphone sera déconnecté du réseau Wi-Fi tant qu\'il sera connecté à l\'appareil <xliff:g id="DEVICE_NAME">%1$s</xliff:g>.</string>
+  <string name="wifi_p2p_frequency_conflict_message">Le téléphone sera déconnecté du réseau Wi-Fi tant qu\'il sera connecté à l\'appareil %1$s.</string>
   <string name="select_character">Insérer caractère</string>
   <string name="sms_control_title">Envoi SMS…</string>
-  <string name="sms_control_message">&lt;b&gt;<xliff:g id="APP_NAME">%1$s</xliff:g>&lt;/b&gt; envoie un grand nombre de SMS. Autorisez-vous cette application à poursuivre l\'envoi des messages ?</string>
+  <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; envoie un grand nombre de SMS. Autorisez-vous cette application à poursuivre l\'envoi des messages ?</string>
   <string name="sms_control_yes">OK</string>
   <string name="sms_control_no">Annuler</string>
-  <string name="sms_short_code_confirm_message">&lt;b&gt;<xliff:g id="APP_NAME">%1$s</xliff:g>&lt;/b&gt; souhaite envoyer un message à &lt;b&gt;<xliff:g id="DEST_ADDRESS">%2$s</xliff:g>&lt;/b&gt;.</string>
+  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; souhaite envoyer un message à &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_details">Ceci "<font fgcolor="#ffffb060">"peut entraîner des frais"</font>" sur votre compte mobile.</string>
   <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">"Ceci entraînera des frais sur votre compte mobile."</font></string>
   <string name="sms_short_code_confirm_allow">Envoyer</string>
@@ -1003,7 +1003,7 @@
   <string name="date_time_set">Appliquer</string>
   <string name="date_time_done">Effectué</string>
   <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">"NOUVEAU"</font>" :"</string>
-  <string name="perms_description_app">Fourni par <xliff:g id="APP_NAME">%1$s</xliff:g></string>
+  <string name="perms_description_app">Fourni par %1$s</string>
   <string name="no_permissions">Aucune autorisation requise</string>
   <string name="perm_costs_money">cela peut engendrer des frais</string>
   <string name="usb_storage_activity_title">Disque USB</string>
@@ -1070,24 +1070,24 @@
   <string name="ime_action_done">OK</string>
   <string name="ime_action_previous">Préc.</string>
   <string name="ime_action_default">Exécuter</string>
-  <string name="dial_number_using">Composer le numéro"\n"en utilisant <xliff:g id="NUMBER">%s</xliff:g></string>
-  <string name="create_contact_using">Ajouter un contact"\n"en utilisant <xliff:g id="NUMBER">%s</xliff:g></string>
+  <string name="dial_number_using">Composer le numéro"\n"en utilisant %s</string>
+  <string name="create_contact_using">Ajouter un contact"\n"en utilisant %s</string>
   <string name="grant_credentials_permission_message_header">Les applications suivantes demandent l\'autorisation d\'accéder à votre compte</string>
   <string name="grant_credentials_permission_message_footer">Voulez-vous autoriser cette demande ?</string>
   <string name="grant_permissions_header_text">Demande d\'accès</string>
   <string name="allow">Autoriser</string>
   <string name="deny">Refuser</string>
   <string name="permission_request_notification_title">Autorisation demandée</string>
-  <string name="permission_request_notification_with_subtitle">Autorisation demandée"\n"pour le compte "<xliff:g id="ACCOUNT">%s</xliff:g>"</string>
+  <string name="permission_request_notification_with_subtitle">Autorisation demandée"\n"pour le compte "%s"</string>
   <string name="input_method_binding_label">Mode de saisie</string>
   <string name="sync_binding_label">Synchro.</string>
   <string name="accessibility_binding_label">Accessibilité</string>
   <string name="wallpaper_binding_label">Fond d\'écran</string>
   <string name="chooser_wallpaper">Modifier fond d\'écran</string>
   <string name="vpn_title">VPN activé</string>
-  <string name="vpn_title_long">VPN activé par <xliff:g id="APP">%s</xliff:g></string>
+  <string name="vpn_title_long">VPN activé par %s</string>
   <string name="vpn_text">Appuyez pour gérer le réseau</string>
-  <string name="vpn_text_long">Connecté à <xliff:g id="SESSION">%s</xliff:g>. Appuyez ici pour gérer le réseau.</string>
+  <string name="vpn_text_long">Connecté à %s. Appuyez ici pour gérer le réseau.</string>
   <string name="vpn_lockdown_connecting">VPN permanent en cours de connexion…</string>
   <string name="vpn_lockdown_connected">VPN permanent connecté</string>
   <string name="vpn_lockdown_error">Erreur du VPN permanent</string>
@@ -1123,13 +1123,13 @@
   <string name="websearch">Recherche Web</string>
   <string name="find_next">Rechercher suivant</string>
   <string name="find_previous">Rechercher précédent</string>
-  <string name="gpsNotifTicker">Demande de position de la part de <xliff:g id="NAME">%s</xliff:g></string>
+  <string name="gpsNotifTicker">Demande de position de la part de %s</string>
   <string name="gpsNotifTitle">Demande de localisation</string>
-  <string name="gpsNotifMessage">Demande de <xliff:g id="NAME">%1$s</xliff:g> (<xliff:g id="SERVICE">%2$s</xliff:g>)</string>
+  <string name="gpsNotifMessage">Demande de %1$s (%2$s)</string>
   <string name="gpsVerifYes">Oui</string>
   <string name="gpsVerifNo">Non</string>
   <string name="sync_too_many_deletes">Limite de suppression dépassée</string>
-  <string name="sync_too_many_deletes_desc"><xliff:g id="NUMBER_OF_DELETED_ITEMS">%1$d</xliff:g> éléments vont être supprimés lors de la synchronisation <xliff:g id="TYPE_OF_SYNC">%2$s</xliff:g> pour le compte <xliff:g id="ACCOUNT_NAME">%3$s</xliff:g>. Que voulez-vous faire ?</string>
+  <string name="sync_too_many_deletes_desc">%1$d éléments vont être supprimés lors de la synchronisation %2$s pour le compte %3$s. Que voulez-vous faire ?</string>
   <string name="sync_really_delete">Supprimer les éléments</string>
   <string name="sync_undo_deletes">Annuler les suppressions</string>
   <string name="sync_do_nothing">Ne rien faire pour le moment</string>
@@ -1138,7 +1138,7 @@
   <string name="add_account_button_label">Ajouter compte</string>
   <string name="number_picker_increment_button">Repousser</string>
   <string name="number_picker_decrement_button">Avancer</string>
-  <string name="number_picker_increment_scroll_mode"><xliff:g id="VALUE">%s</xliff:g> appuyez de manière prolongée.</string>
+  <string name="number_picker_increment_scroll_mode">%s appuyez de manière prolongée.</string>
   <string name="number_picker_increment_scroll_action">Faites glisser vers le haut pour augmenter et vers le bas pour diminuer.</string>
   <string name="time_picker_increment_minute_button">Repousser la minute</string>
   <string name="time_picker_decrement_minute_button">Avancer la minute</string>
@@ -1161,12 +1161,12 @@
   <string name="keyboardview_keycode_enter">Entrer</string>
   <string name="activitychooserview_choose_application">Sélectionner une application</string>
   <string name="shareactionprovider_share_with">Partager avec</string>
-  <string name="shareactionprovider_share_with_application">Partager avec <xliff:g id="APPLICATION_NAME">%s</xliff:g></string>
+  <string name="shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="content_description_sliding_handle">Poignée coulissante. Appuyez de manière prolongée.</string>
-  <string name="description_direction_up">Faites glisser vers le haut pour <xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>.</string>
-  <string name="description_direction_down">Faites glisser vers le bas pour <xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>.</string>
-  <string name="description_direction_left">Faites glisser vers la gauche pour <xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>.</string>
-  <string name="description_direction_right">Faites glisser vers la droite pour <xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>.</string>
+  <string name="description_direction_up">Faites glisser vers le haut pour %s.</string>
+  <string name="description_direction_down">Faites glisser vers le bas pour %s.</string>
+  <string name="description_direction_left">Faites glisser vers la gauche pour %s.</string>
+  <string name="description_direction_right">Faites glisser vers la droite pour %s.</string>
   <string name="description_target_unlock">Déverr.</string>
   <string name="description_target_camera">Appareil photo</string>
   <string name="description_target_silent">Mode silencieux</string>
@@ -1193,7 +1193,7 @@
   <string name="data_usage_4g_limit_snoozed_title">Limite d\'utilisation des données 4G dépassée</string>
   <string name="data_usage_mobile_limit_snoozed_title">Limite d\'utilisation des données mobiles atteinte</string>
   <string name="data_usage_wifi_limit_snoozed_title">Limite des données Wi-Fi dépassée</string>
-  <string name="data_usage_limit_snoozed_body"><xliff:g id="SIZE">%s</xliff:g> au-delà de la limite spécifiée.</string>
+  <string name="data_usage_limit_snoozed_body">%s au-delà de la limite spécifiée.</string>
   <string name="data_usage_restricted_title">Données d\'arrière-plan restreintes</string>
   <string name="data_usage_restricted_body">Appuyez pour suppr. restriction.</string>
   <string name="ssl_certificate">Certificat de sécurité</string>
@@ -1234,8 +1234,8 @@
   <string name="media_route_status_not_available">Indisponible</string>
   <string name="display_manager_built_in_display_name">Écran intégré</string>
   <string name="display_manager_hdmi_display_name">Écran HDMI</string>
-  <string name="display_manager_overlay_display_name">Superposition n° <xliff:g id="ID">%1$d</xliff:g></string>
-  <string name="display_manager_overlay_display_title"><xliff:g id="NAME">%1$s</xliff:g> : <xliff:g id="WIDTH">%2$d</xliff:g> x <xliff:g id="HEIGHT">%3$d</xliff:g>, <xliff:g id="DPI">%4$d</xliff:g> dpi</string>
+  <string name="display_manager_overlay_display_name">Superposition n° %1$d</string>
+  <string name="display_manager_overlay_display_title">%1$s : %2$d x %3$d, %4$d dpi</string>
   <string name="wifi_display_notification_title">L\'affichage sans fil est connecté.</string>
   <string name="wifi_display_notification_message">Cet écran s\'affiche sur un autre appareil.</string>
   <string name="wifi_display_notification_disconnect">Déconnecter</string>
@@ -1244,7 +1244,7 @@
   <string name="kg_wrong_pattern">Schéma incorrect.</string>
   <string name="kg_wrong_password">Mot de passe incorrect.</string>
   <string name="kg_wrong_pin">Code PIN incorrect.</string>
-  <string name="kg_too_many_failed_attempts_countdown">Réessayez dans <xliff:g id="NUMBER">%d</xliff:g> secondes.</string>
+  <string name="kg_too_many_failed_attempts_countdown">Réessayez dans %d secondes.</string>
   <string name="kg_pattern_instructions">Dessinez votre schéma.</string>
   <string name="kg_sim_pin_instructions">Saisissez le code PIN de la carte SIM.</string>
   <string name="kg_pin_instructions">Saisissez le code PIN.</string>
@@ -1266,19 +1266,19 @@
   <string name="kg_login_invalid_input">Nom d\'utilisateur ou mot de passe non valide.</string>
   <string name="kg_login_account_recovery_hint">Vous avez oublié votre nom d\'utilisateur ou votre mot de passe ?"\n"Rendez-vous sur la page "<b>"google.com/accounts/recovery"</b>".</string>
   <string name="kg_login_checking_password">Vérification du compte en cours…</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">Vous avez saisi un code PIN incorrect à <xliff:g id="NUMBER_0">%d</xliff:g> reprises. "\n\n"Veuillez réessayer dans <xliff:g id="NUMBER_1">%d</xliff:g> secondes.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">Vous avez saisi un mot de passe incorrect à <xliff:g id="NUMBER_0">%d</xliff:g> reprises. "\n\n"Veuillez réessayer dans <xliff:g id="NUMBER_1">%d</xliff:g> secondes.</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à <xliff:g id="NUMBER_0">%d</xliff:g> reprises."\n\n"Veuillez réessayer dans <xliff:g id="NUMBER_1">%d</xliff:g> secondes.</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à <xliff:g id="NUMBER_0">%d</xliff:g> reprises. Si vous échouez encore <xliff:g id="NUMBER_1">%d</xliff:g> fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
-  <string name="kg_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à <xliff:g id="NUMBER">%d</xliff:g> reprises. Sa configuration d\'usine va être rétablie.</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à <xliff:g id="NUMBER_0">%d</xliff:g> reprises. Si vous échouez encore <xliff:g id="NUMBER_1">%d</xliff:g> fois, vous devrez déverrouiller votre téléphone à l\'aide d\'un compte de messagerie électronique."\n\n" Veuillez réessayer dans <xliff:g id="NUMBER_2">%d</xliff:g> secondes.</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">Vous avez saisi un code PIN incorrect à %d reprises. "\n\n"Veuillez réessayer dans %d secondes.</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">Vous avez saisi un mot de passe incorrect à %d reprises. "\n\n"Veuillez réessayer dans %d secondes.</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à %d reprises."\n\n"Veuillez réessayer dans %d secondes.</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
+  <string name="kg_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie.</string>
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à %d reprises. Si vous échouez encore %d fois, vous devrez déverrouiller votre téléphone à l\'aide d\'un compte de messagerie électronique."\n\n" Veuillez réessayer dans %d secondes.</string>
   <string name="kg_text_message_separator">" — "</string>
   <string name="kg_reordering_delete_drop_target_text">Supprimer</string>
   <string name="safe_media_volume_warning">Augmenter le volume au-dessus du niveau de sécurité ?"\n"L\'écoute à un volume élevé pendant des périodes prolongées peut endommager votre audition.</string>
   <string name="continue_to_enable_accessibility">Pour activer l\'accessibilité, appuyez de manière prolongée avec deux doigts.</string>
   <string name="accessibility_enabled">L\'accessibilité a bien été activée.</string>
   <string name="enable_accessibility_canceled">Accessibilité annulée.</string>
-  <string name="user_switched">Utilisateur actuel : <xliff:g id="NAME">%1$s</xliff:g></string>
+  <string name="user_switched">Utilisateur actuel : %1$s</string>
   <string name="owner_name">Propriétaire</string>
   <string name="storage_phone">Stockage du téléphone</string>
   <string name="storage_external_usb">Stockage USB externe</string>

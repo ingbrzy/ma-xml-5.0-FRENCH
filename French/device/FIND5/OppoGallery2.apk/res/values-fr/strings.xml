@@ -178,7 +178,7 @@
   <string name="no_location">Pas d\'emplacement</string>
   <string name="no_picture_to_share">Aucune photo à partager.</string>
   <string name="no_storage">Veuillez installer une carte SD avant d\'utiliser l\'appareil photo.</string>
-  <string name="no_storage_message">Aucun stockage externe disponible</string>
+  <string name="no_storage_message">Aucun stockage externe disponible.</string>
   <string name="no_storage_title">Pas de stockage</string>
   <string name="no_such_item">"Impossible de trouver l'élément."</string>
   <string name="no_thumbnail">Cette photo a été endommagée</string>
@@ -350,8 +350,8 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
   <string name="pref_camera_recordlocation_entry_on">Activé</string>
   <string name="pref_camera_recordlocation_title">Enregistrer la position</string>
-  <string name="pref_camera_redeyereduction_entry_disable">Désactivé</string>
-  <string name="pref_camera_redeyereduction_entry_enable">Activé</string>
+  <string name="pref_camera_redeyereduction_entry_disable">Désactiver</string>
+  <string name="pref_camera_redeyereduction_entry_enable">Activer</string>
   <string name="pref_camera_redeyereduction_title">Réduction des yeux rouges</string>
   <string name="pref_camera_saturation_entry_level0">Niveau 0</string>
   <string name="pref_camera_saturation_entry_level1">Niveau 1</string>
