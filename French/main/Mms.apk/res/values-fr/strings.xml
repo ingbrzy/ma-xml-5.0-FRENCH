@@ -38,7 +38,6 @@
   <string name="bookmark">Favoris</string>
   <string name="bookmark_confirm_delete_message">Les éléments sélectionnés seront supprimés des favoris</string>
   <string name="bookmark_empty">Aucun favori</string>
-  <string name="phrase_list_title">Réponses rapides</string>
   <string name="bookmark_list_title">Favoris</string>
   <string name="cannot_add_picture_and_video">Impossible d\'ajouter une vidéo et une image sur une même diapositive.</string>
   <string name="cannot_add_slide_anymore">Impossible d\'ajouter d\'autres diapositives.</string>
