@@ -103,12 +103,12 @@
   <string name="fdn_phone_book_busy">Le répertoire téléphonique est occupé pour l\'instant, veuillez essayer plus tard.</string>
   <string name="gemini_3g_disable_warning_case0">Vous devez activer l\'itinérance des données pour cette carte SIM, ce qui peut ajouter des frais considérables d\'itinérance ! Voulez-vous vraiment activer l\'itinérance des données et sélectionner cette carte SIM ?</string>
   <string name="gemini_3g_disable_warning_case1">Le service 3G n’est pas disponible avec la carte SIM sélectionnée. Les données peuvent se charger plus lentement. Vous pouvez changer les réglages du service 3G dans Réglages &gt; Sans fil &amp; réseaux &gt; Réseaux portables.</string>
-  <string name="gemini_3g_disable_warning_case2">Vous devez tout d’abord autoriser l’itinérance des données sur cette carte SIM, ce qui peut entraîner des frais d’itinérance non négligeables ! De plus, le service 3G n’est pas disponible avec cette carte SIM. Le chargement des données peut être ralenti. Vous pouvez modifier le réglage sous Réglages &gt; Sans-fil &amp; réseaux &gt; Réseaux mobiles. Confirmer l’itinérance des données et la sélection de cette carte SIM ?</string>
+  <string name="gemini_3g_disable_warning_case2">Vous devez tout d’abord autoriser l\'itinérance des données sur cette carte SIM, ce qui peut entraîner des frais d\'itinérance non négligeables ! De plus, le service 3G n\'est pas disponible avec cette carte SIM. Le chargement des données peut être ralenti. Vous pouvez modifier le réglage sous Réglages &gt; Sans-fil &amp; réseaux &gt; Réseaux mobiles. Confirmer l\'itinérance des données et la sélection de cette carte SIM ?</string>
   <string name="gemini_3g_indic">3G</string>
   <string name="gemini_data_connection">Connexion des données</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Préférences réseau GSM/UMTS</string>
   <string name="gsm_umts_network_preferences_title">Préférences réseau GSM/UMTS</string>
-  <string name="gsm_umts_network_preferneces_summary">Pas encore implémenté</string>
+  <string name="gsm_umts_network_preferneces_summary">Pas encore implanté</string>
   <string name="imei">Code IMEI</string>
   <string name="incall_toast_hold">En attente</string>
   <string name="incall_toast_unhold">Reprise</string>
