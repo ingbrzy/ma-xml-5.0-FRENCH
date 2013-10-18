@@ -4,12 +4,24 @@
     <string name="unknown_error">Erreur inconnue</string>
     <string name="processing">En cours…</string>
     <string name="license_not_found">Licence introuvable</string>
+    <string name="license_expired">Licence expirée</string>
+    <string name="domain_not_found">Domaine introuvable</string>
     <string name="dev_cert_revoked">"Le certificat de l'appareil a été annulé. Contactez l'opérateur"</string>
+    <string name="server_invalid_message">Le serveur a obtenu un message invalide</string>
     <string name="server_internal_error">Problèmes au niveau du serveur. Essayez plus tard</string>
+    <string name="server_service_specific">"Une erreur serveur s'est produite"</string>
     <string name="server_domain_required">Associer domaine pour lire le contenu</string>
     <string name="server_not_a_member">"Le domaine n'est plus valide. Appuyez sur OK pour quitter"</string>
     <string name="server_unknown_account_id">"ID de compte utilisé pour l'acquisition de licence non autorisé. Contactez le service client"</string>
     <string name="server_device_limit_reached">Le nombre maximum de périphériques ajoutés a été atteint. Supprimez un périphérique pour en ajouter un nouveau</string>
     <string name="server_protocol_version_mismatch">"Ancienne version de protocole utilisée. Contactez l'opérateur pour la mettre à jour"</string>
+    <string name="server_protocol_redirect">Protocole serveur redirigé</string>
+    <string name="license_acquisition_success">License acquise avec succès. Appuyez sur OK pour démarrer le téléchargement</string>
     <string name="license_acquisition_fail">"Désolé, l'acquisition de la licence a échoué"</string>
+    <string name="join_domain_success">Domaine ajouté. Maintenant essayez de lire un média</string>
+    <string name="join_domain_fail">"Impossible d'ajouter le périphérique au domaine"</string>
+    <string name="leave_domain_success">Périphérique supprimé du domaine</string>
+    <string name="leave_domain_fail">Impossible de supprimer le périphérique du domaine</string>
+    <string name="metering_success">Données envoyées</string>
+    <string name="metering_fail">"Impossible d'envoyer les données"</string>
 </resources>

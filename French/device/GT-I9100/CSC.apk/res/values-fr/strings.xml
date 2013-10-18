@@ -3,5 +3,6 @@
   <string name="simServiceTitle">Services SIM</string>
   <string name="app_name">CSC</string>
   <string name="start_service">Démarrer le service</string>
+  <string name="stop_service">Stopper le service</string>
   <string name="e_manual_bookmark_name">Mode d\'emploi</string>
 </resources>

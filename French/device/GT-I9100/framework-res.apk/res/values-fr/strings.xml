@@ -183,6 +183,12 @@
   <string name="mmiError">Problème de connexion ou code MMI non valide</string>
   <string name="unsupportedMmiCode">Code non pris en charge</string>
   <string name="mmiFdnError">Appels limités à la numérotation fixe</string>
+  <string name="stkCcUssdToDial">Demande USSD est modifié pour DIAL demande.</string>
+  <string name="stkCcUssdToSs">Demande USSD est modifié à la demande de SS.</string>
+  <string name="stkCcUssdToUssd">Demande USSD est modifié à la demande USSD nouvelle.</string>
+  <string name="stkCcSsToDial">Demande SS est modifié pour DIAL demande.</string>
+  <string name="stkCcSsToUssd">Demande SS est modifié à la demande USSD.</string>
+  <string name="stkCcSsToSs">Demande SS est modifié pour SS nouvelle demande.</string>
   <string name="serviceEnabled">Service activé</string>
   <string name="serviceEnabledFor">Service activé pour :</string>
   <string name="serviceDisabled">Le service a été désactivé</string>
@@ -197,7 +203,9 @@
   <string name="invalidPuk">Entrez un code PUK composé d\'au moins 8 chiffres</string>
   <string name="needPuk">Carte SIM verrouillée par un code PUK. Entrez le code PUK pour la déverrouiller</string>
   <string name="needPuk2">Saisir le code PUK2 pour débloquer la carte SIM</string>
+  <string name="inactivedPin">PIN inactif.</string>
   <string name="pinpuk_attempts">Essais restants :</string>
+  <string name="enablePin">Échec. Activer SIM / RUIM LOCK.</string>
   <string name="imei">IMEI</string>
   <string name="meid">MEID</string>
   <string name="ClipMmi">ID appelant entrant</string>
@@ -214,6 +222,7 @@
   <string name="RuacMmi">Rejeter les appels indésirables</string>
   <string name="CndMmi">Numéro entrant reçu</string>
   <string name="DndMmi">Ne pas déranger</string>
+  <string name="permdesc_kt_dbs">"Enregistrer les informations d'authentification de l'application KT"</string>
   <string name="CLIRDefaultOnNextCallOn">L\'ID appelant par défaut est restreint. Appel suivant : restreint</string>
   <string name="CLIRDefaultOnNextCallOff">L\'ID appelant par défaut est restreint. Appel suivant : non restreint</string>
   <string name="CLIRDefaultOffNextCallOn">L\'ID appelant par défaut est non restreint. Appel suivant : restreint</string>
@@ -365,6 +374,7 @@
   <string name="globalactions_silent_mode_vibrate">Vibreur</string>
   <string name="globalactions_silent_mode_sound">Son</string>
   <string name="safeMode">Mode sécurisé</string>
+  <string name="permgroupdesc_mdm">"Permettre à des applications d'entreprise de périphériques d'administrateur pour appliquer la gestion des politiques de sécurité et par la configuration du périphérique, ce qui limite la fonctionnalité du périphérique et l'interrogation de l'état du périphérique."</string>
   <string name="permlab_mdmApplications">Gérer les applications</string>
   <string name="permdesc_mdmApplications">Installez, désinstallez, désactivez, activez et demandez le statut d\'autres applications. Vous pouvez également définir des restrictions relatives à l\'installation et la désinstallation d\'autres applications</string>
   <string name="permlab_mdmApplicationsPerm">Gérer dynamiquement les autorisations des applications</string>
@@ -413,6 +423,7 @@
   <string name="permdesc_mdmKioskMode">Contrôler le comportement de l\'appareil en mode Kiosque</string>
   <string name="tether_usb_restrict">La politique de sécurité limite l\'utilisation du modem USB</string>
   <string name="tether_wifi_restrict">La politique de sécurité limite l\'utilisation du modem Wi-Fi</string>
+  <string name="data_call_restriction">"La politique de sécurité limite l'utilisation des données mobiles"</string>
   <string name="dpm_wifi_blocked_network">La politique de sécurité bloque l\'utilisation de ce réseau Wi-Fi</string>
   <string name="dpm_wifi_misc_wifi_disabled">La politique de sécurité limite l\'utilisation du Wi-Fi</string>
   <string name="dpm_wifi_misc_network_insecure">La politique de sécurité limite l\'utilisation de réseaux Wi-Fi non sécurisés</string>
@@ -426,7 +437,9 @@
   <string name="clipboard_restrict">La politique de sécurité limite l\'utilisation du Presse-papiers</string>
   <string name="kies_restrict">La politique de sécurité limite l\'utilisation de Samsung Kies</string>
   <string name="mediaplayer_restrict"> La politique de sécurité limite l\'utilisation du lecteur multimédia MTP</string>
+  <string name="pwd_change_enforced">En raison de la politique de sécurité, vous devez modifier votre mot de passe</string>
   <string name="allow_settings_changes">La politique de sécurité limite les paramètres de modification</string>
+  <string name="device_disabled">Périphérique désactivé. Contactez admin IT.</string>
   <string name="hardware_key_restrict">La politique de sécurité limite l\'utilisation de cette clé matérielle</string>
   <string name="wallpaper_changes_restrict">La politique de sécurité limite le changement de fond d\'écran</string>
   <string name="task_manager_restrict">La politique de sécurité limite l\'utilisation du gestionnaire de tâches</string>
@@ -602,6 +615,8 @@
   <string name="permdesc_writeSecureSettings">Autorise une application à modifier les données des paramètres de sécurité du système. Non destiné aux applications normales</string>
   <string name="permlab_writeGservices">Modifier la carte des services Google</string>
   <string name="permdesc_writeGservices">Autorise une application à modifier la carte des services Google. Non destiné aux applications normales</string>
+  <string name="permlab_receiveSdCardEncryption">"recevoir l'événement chiffrement de la carte sd"</string>
+  <string name="permdesc_receiveSdCardEncryption">"Permet à une application de recevoir les envents sur le cryptage de carte sd. Le système diffuse intention lorsque le cryptage ou le décryptage carte SD est terminé. Et l'intention système émissions lorsque l'utilisateur insère la carte SD et le chiffrement est requis."</string>
   <string name="permlab_receiveBootCompleted">Démarrer automatiquement au démarrage</string>
   <string name="permdesc_receiveBootCompleted">Autorise une application à se lancer automatiquement dès la fin du démarrage du système. Ceci peut ralentir le démarrage du téléphone et permettre à l\'application de ralentir l\'ensemble du téléphone en s\'exécutant en permanence</string>
   <string name="permlab_broadcastSticky">envoyer une diffusion de rappel</string>
@@ -899,13 +914,18 @@
   <string name="sipAddressTypeWork">Pro.</string>
   <string name="sipAddressTypeOther">Autre</string>
   <string name="keyguard_password_enter_pin_code">Saisissez le code PIN.</string>
+  <string name="keyguard_password_enter_pin_code_for_subscription">"Entrez le code PIN pour l'abonnement"</string>
   <string name="keyguard_password_enter_puk_code">Entrez le code PUK et le nouveau code PIN</string>
+  <string name="keyguard_password_enter_puk_code_for_subscription">"Entrez le code PUK et le nouveau code PIN pour l'abonnement"</string>
   <string name="keyguard_password_enter_puk_prompt">Code PUK</string>
   <string name="keyguard_password_enter_pin_prompt">Nouveau code PIN</string>
   <string name="keyguard_password_entry_touch_hint">Appuyez pour entrer le mot de passe</string>
   <string name="keyguard_password_enter_password_code">Entrer le mot de passe de déverrouillage</string>
   <string name="keyguard_password_enter_pin_password_code">Entrez le code PIN pour déverrouiller</string>
   <string name="keyguard_password_wrong_pin_code">Code PIN incorrect</string>
+  <string name="keyguard_password_wrong_puk_code">Code PUK incorrect !</string>
+  <string name="keyguard_password_pin_failed">Opération PIN échoué !</string>
+  <string name="keyguard_password_puk_failed">Opération PUK échoué !</string>
   <string name="keyguard_pin_accepted">Code accepté</string>
   <string name="keyguard_label_text">Pour déverrouiller, appuyez sur Menu, puis sur 0</string>
   <string name="emergency_call_dialog_number_for_display">Numéro d\'urgence</string>
@@ -932,6 +952,13 @@
   <string name="lockscreen_permanent_disabled_sim_instructions">"Votre carte SIM a été définitivement désactivée.
  Veuillez contacter votre opérateur de téléphonie mobile pour en obtenir une autre."</string>
   <string name="zzz_skt_missing_sim_message1">Aucune carte USIM dans le téléphone</string>
+  <string name="zzz_skt_missing_sim_message2">"Après avoir inséré la carte, s'il vous plaît redémarrer."</string>
+  <string name="zzz_skt_missing_sim_message3">"Les appels d'urgence peuvent être utilisés."</string>
+  <string name="zzz_skt_usim_disable_title">Carte USIM Désactivé</string>
+  <string name="zzz_skt_usim_not_used1">Le code PUK est incorrect 10 fois</string>
+  <string name="zzz_skt_usim_not_used2">USIM ne peut pas être utilisé.</string>
+  <string name="zzz_skt_usim_unregistered1">Vérification de la carte USIM.</string>
+  <string name="zzz_skt_usim_unregistered2">Carte USIM est nécessaire pour télécharger.</string>
   <string name="zzz_limited_service">Service limité</string>
   <string name="lockscreen_transport_prev_description">Bouton du titre précédent</string>
   <string name="lockscreen_transport_next_description">Bouton du titre suivant</string>
@@ -939,13 +966,17 @@
   <string name="lockscreen_transport_play_description">Bouton de lecture</string>
   <string name="lockscreen_transport_stop_description">Bouton d\'arrêt</string>
   <string name="emergency_calls_only">Appels d\'urgence uniquement</string>
+  <string name="lockscreen_sim_error_message_short">Carte invalide</string>
+  <string name="lockscreen_sim_error_message">"Carte SIM n'est pas valide."</string>
   <string name="lockscreen_network_locked_message">Réseau bloqué</string>
+  <string name="lockscreen_perso_locked_message">SIM / RUIM est verrouillé Perso</string>
   <string name="lockscreen_sim_puk_locked_message">La carte SIM est verrouillée par le code PUK</string>
   <string name="lockscreen_sim_puk_locked_instructions">Consultez le mode d\'emploi ou contactez le service client</string>
   <string name="lockscreen_sim_locked_message">Carte SIM verrouillée</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Déverrouillage de la carte SIM…</string>
   <string name="lockscreen_uim_unlock_progress_dialog_message">Unlocking UIM card…</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message">Vous avez dessiné un modèle de déverrouillage incorrect à %1$d reprises. Réessayez dans %2$d secondes</string>
+  <string name="full_internal_storage_view_text">"Une erreur risque de survenir car la mémoire de l'appareil est saturée. Supprimez des éléments"</string>
   <string name="lockscreen_too_many_failed_password_attempts_dialog_message">Mot de passe erroné à %1$d reprises. Réessayez dans %2$d secondes</string>
   <string name="lockscreen_sim_pin_blocked">PIN1 bloqué. Entrez le code PUK1 pour débloquer PIN1</string>
   <string name="lockscreen_ruim_pin_blocked">PIN1 bloqué. Entrez le code PUK1 pour débloquer PIN1</string>
@@ -1236,7 +1267,11 @@ Voulez-vous la fermer ?"</string>
   <string name="usb_mtp_notification_title">Connecté en tant que périphérique multimédia</string>
   <string name="usb_ptp_notification_title">Connecté en tant qu\'appareil photo</string>
   <string name="usb_cd_installer_notification_title">Connecté en tant que programme d\'installation</string>
+  <string name="usb_modem_notification_title">Connecté en tant que modem</string>
   <string name="usb_accessory_notification_title">Connecté à un accessoire USB</string>
+  <string name="usb_charing_notification_title">Connecté en mode charge USB</string>
+  <string name="usb_mass_storage_notification_title">Connecté en tant que stockage de masse</string>
+  <string name="usb_terthering_notification_title">Connecté en tant que tethering</string>
   <string name="usb_notification_message">Appuyez pour accéder à d\'autres options USB</string>
   <string name="hdmi_suspend">HDMI non disponible lorsque l\'application est en cours d\'exécution. L\'application sera affichée uniquement sur le téléphone</string>
   <string name="tv_out_suspend">La sortie TV n\'est pas prise en charge pendant l\'exécution de l\'application. Écran téléphone seulement</string>
@@ -1617,6 +1652,9 @@ pour le compte %s"</string>
   <string name="lockscreen_voiceunlock_verification_completed_text">Voix reconnue</string>
   <string name="lockscreen_voiceunlock_recognising_text">Reconnaissance…</string>
   <string name="lockscreen_voiceunlock_dialog_title_text">Déverrouillage voix</string>
+  <string name="StrCallBarred">Service restreint. Débloquez les appels entrants et réessayez</string>
+  <string name="StrUnexpectedDataValue">Les valeurs saisies sont en dehors de la plage autorisée. Vérifiez les valeurs, puis réessayez</string>
+  <!-- non traduit par samsung ?
   <string name="AcMmi">Call forwarding (conditional)</string>
   <string name="StrPwRegFailure">Incorrect password. Please try again</string>
   <string name="StrNegativePWCheck">Incorrect password. Please try again</string>
@@ -1624,7 +1662,6 @@ pour le compte %s"</string>
   <string name="StrUnknownSubscriber">Unregistered subscriber. Check your registration status and try again</string>
   <string name="StrBearerSvcNotProvisoned">Unregistered service. Contact customer centre to register service</string>
   <string name="StrTelesrviceNotProvisoned">Unregistered service. Contact customer centre to register service</string>
-  <string name="StrCallBarred">Service restreint. Débloquez les appels entrants et réessayez</string>
   <string name="StrIllegalSSOperation">Invalid service code. Check service code and try again</string>
   <string name="StrSSErrStatus">Failed to connect due to network problem. Please try again</string>
   <string name="StrSSNotAvailable">Undefined additional service. Please contact customer centre</string>
@@ -1632,7 +1669,6 @@ pour le compte %s"</string>
   <string name="StrSSIncompatibility">Requested service cannot be carried out due to another additional service. Please contact customer centre</string>
   <string name="StrSysFailure">System error. Try again later</string>
   <string name="StrDataMissing">No value entered. Check the values and try again</string>
-  <string name="StrUnexpectedDataValue">Les valeurs saisies sont en dehors de la plage autorisée. Vérifiez les valeurs, puis réessayez</string>
   <string name="StrIllegalSubscriber">Unregistered subscriber. Check the values and try again</string>
   <string name="StrFacilityNotSupported">The function is not supported</string>
   <string name="StrAbsentSubscriber">No response from the carrier. Please try again</string>
@@ -1650,6 +1686,7 @@ pour le compte %s"</string>
   <string name="StrResourcesNotAvailable">Signal is too weak. Please try again</string>
   <string name="StrEtcReturnError">Try again</string>
   <string name="KTmmiError">Undefined additional service. Contact customer centre</string>
+  -->
   <string name="unregistered_SIM">SIM non enregistrée</string>
   <string name="SS_USB_TETHERING_ENABLED">Modem USB activé</string>
   <string name="SS_WI_FI_TETHERING_ENABLED">Modem Wi-Fi activé</string>
