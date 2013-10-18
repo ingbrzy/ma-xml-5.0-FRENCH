@@ -139,7 +139,7 @@
   <string name="toast_delete_station">%s MHz a été supprimée.</string>
   <string name="toast_edit_station">Les changements ont été enregistrés</string>
   <string name="toast_fm_not_stated">Radio non indiquée</string>
-  <string name="toast_fm_recorder_internal_error">Erreur lors de l\'enregistrement radio !/string>
+  <string name="toast_fm_recorder_internal_error">Erreur lors de l\'enregistrement radio !</string>
   <string name="toast_fm_recorder_storage_full">Espace de stockage plein, impossible d\'enregistrer !</string>
   <string name="toast_fm_seeking">"Recherche d'une station, veuillez patienter…"</string>
   <string name="toast_fm_starting">Démarrage de la radio en cours, veuillez patienter..</string>
@@ -153,6 +153,6 @@
   <string name="turn_off_speaker_phone">Désactiver le haut parleur</string>
   <string name="turn_on_fm">Allumer la radio</string>
   <string name="turn_on_speaker_phone">Activer le haut parleur</string>
-  <string name="type_rd"></string>
+  <string name="type_rd" />
   <string name="view_stations_list">Afficher la liste des stations</string>
 </resources>
