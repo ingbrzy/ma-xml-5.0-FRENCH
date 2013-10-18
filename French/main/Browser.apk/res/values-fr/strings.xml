@@ -484,7 +484,12 @@
   <string name="pref_zoom_on_double_tap">Appuyer deux fois pour zoomer</string>
   <string name="preview">Aperçu</string>
   <string name="progress_dialog_setting_wallpaper">Définition du fond d\'écran…</string>
+  <string name="quicklink_user_define_webpage_title">Nom</string>
+  <string name="quicklink_user_define_webpage_url">Lien</string>
+  <string name="quicklinks_group_default_subtitle">Vide</string>
   <string name="quicklinks_management">Liens rapides</string>
+  <string name="quicklinks_most_visited">Ajouter les sites les plus visités sur la page d\'accueil</string>
+  <string name="quicklinks_most_visited_subtitle">Afficher les sites récemment visités dans \"Nouvel onglet\"</string>
   <string name="readmode_already_add_to_bookshelf">Ajouté à l\'étagère</string>
   <string name="readmode_battery">Batterie </string>
   <string name="readmode_login">Connexion au compte</string>
@@ -587,6 +592,8 @@
   <string name="uploads_disabled">Les transferts de fichiers sont désactivés.</string>
   <string name="url_copy_done">URL copiée</string>
   <string name="url_hint">Rechercher ou entrer adresse</string>
+  <string name="user_defined_webpage">Ajouter un lien</string>
+  <string name="user_defined_webpage_title">Ajouter un lien sur page d\'accueil</string>
   <string name="username">Nom</string>
   <string name="view_certificate">Afficher le certificat</string>
   <string name="warning">Avertissement</string>

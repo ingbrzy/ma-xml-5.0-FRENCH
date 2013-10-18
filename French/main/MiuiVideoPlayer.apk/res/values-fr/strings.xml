@@ -13,6 +13,7 @@
   <string name="airkan_video_playing_in">La vidéo est en lecture…</string>
   <string name="app_name">MiVideo</string>
   <string name="buffering">Mise en mémoire tampon…</string>
+  <string name="episode_prefix">épisode</string>
   <string name="buffering_video_netplay_label_v5">Mise en mémoire tampon…</string>
   <string name="loading_video_netplay_label">Chargement, veuillez patienter…</string>
   <string name="loading_video_netplay_label_v5">Chargement du flux, veuillez patienter…</string>

@@ -57,6 +57,8 @@
   <string name="baidu_flyflow_downloads">Baidu Browser</string>
   <string name="beautyphone">Beauty Phone</string>
   <string name="big_screen_alertdialog_title">Appareil projecteur</string>
+  <string name="bigscreen_slide_exit">Quitter le diaporama</string>
+  <string name="bigscreen_slide_fail_cause_loading">"Veuillez afficher le diaporama une fois que l'image ai été chargée."</string>
   <string name="bigscrren_slide_exit">Quitter le diaporama affiché sur la TV</string>
   <string name="browse_category">Parcourir les photos</string>
   <string name="by_email">Mail</string>
@@ -455,6 +457,7 @@
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
+  <string name="there_is_no_image">Aucune image.</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Heure</string>
   <string name="times">Heures</string>

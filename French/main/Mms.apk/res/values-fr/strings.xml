@@ -13,6 +13,7 @@
   <string name="add_picture">Ajouter une image</string>
   <string name="add_private_contact">Ajouter un contact privé</string>
   <string name="add_slide">Ajouter une diapositive</string>
+  <string name="add_slide_before">Ajouter une diapositive (avant)</string>
   <string name="add_slide_hint">Appuyez pour créer une diapositive.</string>
   <string name="add_smiley">Smiley</string>
   <string name="add_timing">Programmer</string>
@@ -71,6 +72,7 @@
   <string name="confirm_restore_positive">Restaurer</string>
   <string name="confirm_restore_title">Restaurer tous les messages sélectionnés ?</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
+  <string name="context_menu_add_to_browser_favorite">Ajouter aux favoris du navigateur</string>
   <string name="context_menu_browse_web">Parcourir</string>
   <string name="context_menu_call">Appeler</string>
   <string name="context_menu_contact">Contact : %1$s</string>
@@ -138,7 +140,7 @@
   <string name="festival_sms_loading">Chargement…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_share_message_description">Je voudrais partager des fichiers avec vous</string>
-  <string name="flatshow_page_no">%1$d</string>
+  <string name="forward_from">Transf. depuis :</string>
   <string name="forward_prefix">"TR : "</string>
   <string name="found_old_messages">%1$s messages ont été trouvés sur l\'ancien compte. Voulez-vous les télécharger sur votre compte actuel : %2$s ?</string>
   <string name="found_old_messages_title">Envoi de messages</string>
@@ -257,6 +259,7 @@
   <string name="play">Lire</string>
   <string name="pref_advanced_settings_title">Paramètres avancés</string>
   <string name="pref_edit_smsc_address">Numéro du centre SMS</string>
+  <string name="pref_forward_title">Transférer</string>
   <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>
   <string name="pref_mms_settings_title">Paramètres MMS</string>
   <string name="pref_notification_settings_title">Paramètres de notification</string>
@@ -282,9 +285,12 @@
   <string name="pref_time_auto_group_summary">Grouper les messages par heure</string>
   <string name="pref_time_auto_group_title">Grouper</string>
   <string name="pref_title_allow_si_sl_push">Autoriser le WAP push</string>
+  <string name="pref_title_card_format">Format de partage de carte</string>
   <string name="pref_title_delivery_reports">Accusé de réception</string>
+  <string name="pref_title_fwd_sender_info">"Transférer info. de l'envoyeur"</string>
   <string name="pref_title_hide_festival">Masquer l\'onglet Recommandé</string>
   <string name="pref_title_manage_sim_messages">Gestion messages carte SIM</string>
+  <string name="pref_title_miui_card">Envoyer via MiCard</string>
   <string name="pref_title_mms_auto_retrieval">Récupération automatique</string>
   <string name="pref_title_mms_delete">Limite pour les MMS</string>
   <string name="pref_title_mms_read_reports">Confirmation de lecture</string>
@@ -295,6 +301,7 @@
   <string name="pref_title_show_recent_contacts">Afficher les contacts récents</string>
   <string name="pref_title_sms_delete">Limite pour les SMS</string>
   <string name="pref_title_system_mms_priority">Priorité de réception des MMS</string>
+  <string name="pref_title_vcard">Envoyer via vCard</string>
   <string name="pref_title_wake_up_screen">Allumer l\'écran</string>
   <string name="preferences_title">Paramètres</string>
   <string name="prepare_send">Préparation de l\'envoi…</string>
@@ -330,12 +337,16 @@
   <string name="resize_image_error_information">L\'image redimensionnée est trop volumineuse pour être envoyée.</string>
   <string name="restore_all_button_msg">Restaurer tous les messages de ce numéro</string>
   <string name="restore_blocked_message">Restaurer les messages bloqués</string>
+  <string name="restore_to_phone_memory_failed">Impossible de restaurer vers la mémoire du téléphone !</string>
+  <string name="restored_to_phone_memory">"Restauré vers la mémoire du téléphone"</string>
   <string name="save">Enregistrer</string>
   <string name="save_ringtone">Enregistrer comme sonnerie</string>
   <string name="save_to_sim">Enregistrer sur la carte SIM</string>
-  <string name="saved_label">"Sauvegardé : "</string>
+  <string name="save_to_sim_failed">Impossible d'enregistrer sur la carte SIM ! restored_to_phone_memory </string>
+  <string name="saved_label">"Enregistré : "</string>
   <string name="saved_ringtone">Sonnerie enregistrée</string>
   <string name="saved_ringtone_fail">Impossible d\'enregistrer la sonnerie</string>
+  <string name="saved_to_sim">Enregistré sur la SIM !</string>
   <string name="search">Messages</string>
   <string name="search_empty">Aucune correspondance.</string>
   <string name="search_hint">Rechercher dans les messages</string>
@@ -364,7 +375,11 @@
   <string name="service_network_problem">Impossible de procéder à l\'envoi en raison d\'un problème réseau.</string>
   <string name="service_not_activated">Ce service n\'est pas activé sur le réseau.</string>
   <string name="set">Définir</string>
+  <string name="set_smsc_address_title_miui">Définir le numéro du centre SMS</string>
   <string name="show_all_messages">Afficher tous les messages</string>
+  <string name="sim_card1">SIM 1</string>
+  <string name="sim_card2">SIM 2</string>
+  <string name="sim_card_cloud">%s (Message Cloud)</string>
   <string name="sim_copy_to_phone_memory">Copier vers la mémoire du téléphone</string>
   <string name="sim_delete">Supprimer</string>
   <string name="sim_empty">Aucun message sur la carte SIM</string>
@@ -417,6 +432,7 @@
   <string name="type_picture">image</string>
   <string name="type_to_compose_text_enter_to_send">Saisissez un message</string>
   <string name="type_to_compose_text_or_leave_blank">Saisissez un message ou laissez le champ vide</string>
+  <string name="type_vcard">vCard</string>
   <string name="type_video">vidéo</string>
   <string name="undelivered_msg_dialog_body">"Impossible d'envoyer ce message. %s tentatives"</string>
   <string name="undelivered_msg_dialog_title">Message non transmis</string>

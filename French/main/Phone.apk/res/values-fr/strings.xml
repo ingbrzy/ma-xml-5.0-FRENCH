@@ -1010,6 +1010,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="sum_xdivert_disabled">X-Divert Désactivé</string>
   <string name="sum_xdivert_enabled">X-Divert Activé</string>
   <string name="summary_manage_subscriptions">Gérer les paramètres réseau de chaque abonnement</string>
+  <string name="suspect_info">"N'acceptez pas l'appel, possible tentative de fraude !"</string>
   <string name="t9_indexing_method_pinyin">Caractères chinois (PinYin)</string>
   <string name="t9_indexing_method_title_miui">Paramètre de recherche T9</string>
   <string name="t9_indexing_method_zhuyin">Caractères chinois (ZhuYin)</string>

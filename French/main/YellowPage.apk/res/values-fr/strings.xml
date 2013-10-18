@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="about_smart_antispam_summary">À propos de la détection de numéros inconnus</string>
+  <string name="about_telephone_fraud">À propos de la fraude téléphonique</string>
   <string name="agree">Accepter</string>
   <string name="all_numbers">Tous les numéros</string>
   <string name="app_label">Pages jaunes</string>
@@ -38,6 +40,7 @@
   <string name="menu_add_black_list">Ajouter à la liste noire</string>
   <string name="menu_call_ip_number">Composer un appel IP (composer %s)</string>
   <string name="menu_copy_text">Copier dans le presse-papier</string>
+  <string name="menu_correct_yellow_page">Correction</string>
   <string name="menu_delete_call_log">Supprimer le journal d\'appel</string>
   <string name="menu_delete_one">Retirer l\'élément du journal d\'appel</string>
   <string name="menu_refresh">Rafraîchir</string>
@@ -75,6 +78,10 @@
   <string name="recharge_user_confirm_summary">"Vous serez facturé %1$s pour %2$s RMB
 Montant total : %3$s RMB"</string>
   <string name="recharge_user_confirm_title">Confirmer</string>
+  <string name="remind_another_time">"Ne pas demander pour ce numéro</string>
+  <string name="remind_user_confirm">OK</string>
+  <string name="remind_user_suspect_number_message">"Les criminels peuvent usurper l'identité d'autres personnes pour frauder, en cas de doute rappelez pour vérifier l'identité de l'appelant. Les banques, les sociétés d'e-commerce etc. ne vous demanderont jamais votre mot de passe ou vos informations bancaires."</string>
+  <string name="remind_user_suspect_number_title">Méfiez-vous des appels frauduleux</string>
   <string name="scan">Scanner</string>
   <string name="selected_category_format">%1$s(%2$d on marqué, appuyez pour approuver)</string>
   <string name="service_unavailiable">Votre réseau actuel n\'est pas bon, veuillez réessayer plus tard</string>

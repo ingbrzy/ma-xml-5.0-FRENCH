@@ -6,7 +6,11 @@
             "thumbnail":"thumb_google.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "Google",
+            "isDelete": true,
+            "movable": true,
+            "position": 0
         },
         {
             "title":"Picasa",
@@ -14,7 +18,11 @@
             "thumbnail":"thumb_picasa.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "Picasa",
+            "isDelete": true,
+            "movable": true,
+            "position": 1
         },
         {
             "title":"Yahoo!",
@@ -22,7 +30,11 @@
             "thumbnail":"thumb_yahoo.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "Yahoo!",
+            "isDelete": true,
+            "movable": true,
+            "position": 2
         },
         {
             "title":"MSN",
@@ -30,7 +42,11 @@
             "thumbnail":"thumb_msn.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "MSN",
+            "isDelete": true,
+            "movable": true,
+            "position": 3
         },
         {
             "title":"Twitter",
@@ -38,7 +54,11 @@
             "thumbnail":"thumb_twitter.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "Twitter",
+            "isDelete": true,
+            "movable": true,
+            "position": 4
         },
         {
             "title":"Facebook",
@@ -46,7 +66,11 @@
             "thumbnail":"thumb_facebook.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "Facebook",
+            "isDelete": true,
+            "movable": true,
+            "position": 5
         },
         {
             "title":"Wikipedia",
@@ -54,7 +78,11 @@
             "thumbnail":"thumb_wikipedia.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "Wikipedia",
+            "isDelete": true,
+            "movable": true,
+            "position": 6
         },
         {
             "title":"eBay",
@@ -62,7 +90,11 @@
             "thumbnail":"thumb_ebay.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "eBay",
+            "isDelete": true,
+            "movable": true,
+            "position": 7
         },
 
         {
@@ -71,7 +103,11 @@
             "thumbnail":"thumb_cnn.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "CNN",
+            "isDelete": true,
+            "movable": true,
+            "position": 8
         },
         {
             "title":"MIUI BBS",
@@ -79,7 +115,11 @@
             "thumbnail":"thumb_miui.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "MIUI BBS",
+            "isDelete": true,
+            "movable": true,
+            "position": 9
         },
         {
             "title":"ESPN",
@@ -87,16 +127,24 @@
             "thumbnail":"thumb_espn.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "ESPN",
+            "isDelete": true,
+            "movable": true,
+            "position": 10
         },
         {
             "title":"Amazon",
             "url":"http://www.amazon.fr/",
             "thumbnail":"thumb_amazon.png",
             "logobg":"bg01.9.png",
-            "favicon":"",
             "nightModeMask": "night.9.png",
-            "hidden":"true"
+            "hidden":"true",
+            "favicon":"",
+            "displayName": "Amazon",
+            "isDelete": true,
+            "movable": true,
+            "position": 11
         },
 
         {
@@ -105,16 +153,24 @@
             "thumbnail":"thumb_weatherchannel.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+            "displayName": "Weather Channel",
+            "isDelete": true,
+            "movable": true,
+            "position": 12
         },
         {
             "title":"BBC",
             "url":"http://www.bbc.co.uk/",
             "thumbnail":"thumb_bbc.png",
             "logobg":"bg01.9.png",
-            "favicon":"",
             "nightModeMask": "night.9.png",
-            "hidden":"true"
+            "hidden":"true",
+            "favicon":"",
+            "displayName": "Weather Channel",
+            "isDelete": true,
+            "movable": true,
+            "position": 13
         }
     ]
 }
