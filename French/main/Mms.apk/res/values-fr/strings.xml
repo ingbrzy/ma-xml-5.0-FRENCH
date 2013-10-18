@@ -342,7 +342,7 @@
   <string name="save">Enregistrer</string>
   <string name="save_ringtone">Enregistrer comme sonnerie</string>
   <string name="save_to_sim">Enregistrer sur la carte SIM</string>
-  <string name="save_to_sim_failed">Impossible d'enregistrer sur la carte SIM ! restored_to_phone_memory </string>
+  <string name="save_to_sim_failed">"Impossible d'enregistrer sur la carte SIM ! restored_to_phone_memory "</string>
   <string name="saved_label">"Enregistré : "</string>
   <string name="saved_ringtone">Sonnerie enregistrée</string>
   <string name="saved_ringtone_fail">Impossible d\'enregistrer la sonnerie</string>
