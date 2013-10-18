@@ -1155,7 +1155,7 @@
     <string name="lockscreen_transport_play_description">Bouton de lecture</string>
     <string name="lockscreen_transport_stop_description">"Bouton d'arrêt"</string>
     <string name="emergency_calls_only">"Appels d'urgence uniquement"</string>
-    <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
+    <string name="lockscreen_sim_error_message_short">Carte invalide</string>
     <string name="lockscreen_sim_error_message">"Carte SIM n'est pas valide."</string>
     <string name="lockscreen_network_locked_message">Réseau bloqué</string>
     <string name="lockscreen_perso_locked_message">SIM / RUIM est verrouillé Perso</string>

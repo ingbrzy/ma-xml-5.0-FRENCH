@@ -11,8 +11,8 @@
     <string name="data_copy_err">Erreur de copie des données</string>
     <string name="sim_crash_title">Erreur carte SIM</string>
     <string name="sim_crash_text">Vérifiez votre carte SIM ou contactez le service client</string>
-    <string name="sim_crash_text_lgt">Verifiez votre carte SIM ou contactez le service client</string>
-    <string name="sim_crash_text_ktt">Carte non supportée. Verifiez votre carte SIM</string>
+    <string name="sim_crash_text_lgt">Vérifiez votre carte SIM ou contactez le service client</string>
+    <string name="sim_crash_text_ktt">Carte non supportée. Vérifiez votre carte SIM</string>
     <string name="unknown_err">Erreur inconnue</string>
     <string name="sim_removed_text">Carte SIM retirée. Redémarrez le téléphone</string>
     <string name="sim_removed_title">Carte SIM retirée</string>

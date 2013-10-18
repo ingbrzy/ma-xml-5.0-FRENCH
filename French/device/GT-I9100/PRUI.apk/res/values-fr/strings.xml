@@ -16,7 +16,7 @@
     <string name="server_device_limit_reached">Le nombre maximum de périphériques ajoutés a été atteint. Supprimez un périphérique pour en ajouter un nouveau</string>
     <string name="server_protocol_version_mismatch">"Ancienne version de protocole utilisée. Contactez l'opérateur pour la mettre à jour"</string>
     <string name="server_protocol_redirect">Protocole serveur redirigé</string>
-    <string name="license_acquisition_success">License acquise avec succès. Appuyez sur OK pour démarrer le téléchargement</string>
+    <string name="license_acquisition_success">Licence acquise avec succès. Appuyez sur OK pour démarrer le téléchargement</string>
     <string name="license_acquisition_fail">"Désolé, l'acquisition de la licence a échoué"</string>
     <string name="join_domain_success">Domaine ajouté. Maintenant essayez de lire un média</string>
     <string name="join_domain_fail">"Impossible d'ajouter le périphérique au domaine"</string>
