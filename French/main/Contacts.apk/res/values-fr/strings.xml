@@ -835,7 +835,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="ringLabelsGroup">Sonnerie</string>
   <string name="save">Enregistrer</string>
   <string name="save_photo_progress">Enregistrement de la photo…</string>
-  <string name="save_to_sim_failed">Impossible d'enregistrer sur la carte SIM ! restored_to_phone_memory </string>
+  <string name="save_to_sim_failed">"Impossible d'enregistrer sur la carte SIM ! restored_to_phone_memory "</string>
   <string name="saved_to_sim">Enregistré sur la SIM !</string>
   <string name="savingContact">Enregistrement du contact…</string>
   <string name="savingDisplayGroups">Sauvegarder les options d\'affichage…</string>
