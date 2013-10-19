@@ -231,16 +231,15 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="voiceui_or">ou</string>
   <string name="dialog_color_picker">Sélecteur de couleurs</string>
   <string name="press_color_to_apply">Appuyez sur la couleur pour appliquer</string>
+  <string name="permlab_receiveDmRegisterSms">recevoir les SMS DM Register</string>
+  <string name="permdesc_receiveDmRegisterSms">Permet à l\'application de recevoir et de traiter les messages SMS DM Register. Aucune application hormis DM APP ne devrait utiliser ceci.</string>
   
   <!-- à traduire :
   <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
-  <string name="permlab_receiveDmRegisterSms">receive DM Register SMS</string>
-  <string name="permdesc_receiveDmRegisterSms">Allows application to receive and process DM Register SMS messages. Any Application except DM APP should not use this</string>
   <string name="cu_3gnet_name">沃3G连接互联网</string>
   <string name="cu_3gwap_name">沃3G手机上网</string>
   <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>
   <string name="recip_unsupport_selection">Sorry, you can not move the caret to the start when there are recipients in RecipientsView.</string>
-  
   -->  
   
 </resources>

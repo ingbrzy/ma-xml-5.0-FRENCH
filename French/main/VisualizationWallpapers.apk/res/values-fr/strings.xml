@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Visualiseur</string>
+    <string name="wallpaper_vis2">Onde</string>
+    <string name="wallpaper_vis3">Spectre</string>
+    <string name="wallpaper_vis4">Vu-mètre</string>
+    <string name="wallpaper_vis5">Multitude</string>
+    <string name="wallpapers">"Fonds d'écran de visualisation de musique"</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">"Dessine l'onde acoustique du morceau en cours de lecture"</string>
+    <string name="vis3_desc">Indique le spectre de fréquences de la piste en cours de lecture</string>
+    <string name="vis4_desc">Simule un sonomètre analogique</string>
+    <string name="vis5_desc">Tous les effets de visualisation de musique réunis dans une animation en 3D</string>
+</resources>

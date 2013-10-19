@@ -75,8 +75,6 @@
   <string name="cit_gps_satellite_count">GPS Satellites : %d</string>
   <string name="cit_gps_satellite_prn">PRN : %s</string>
   <string name="cit_gps_satellite_snr">SNR : %s</string>
-  <string name="cit_gyroscope_sensor_check_summary">Les valeurs du capteur gyroscopique pour les coordonnées X, Y, Z</string>
-  <string name="cit_gyroscope_sensor_check_title">Test Gyroscope</string>
   <string name="cit_headset_button_check_summary">Le test va afficher la touche de l\'appareil lorsqu\'elle sera activée</string>
   <string name="cit_headset_button_check_title">Test des écouteurs</string>
   <string name="cit_headset_button_click">Sélectionner le bouton du casque</string>
@@ -132,8 +130,6 @@
   <string name="cit_pointer_location_title">Test de l\'écran tactile</string>
   <string name="cit_power_check_summary">Ce test affiche la quantité de batterie disponible</string>
   <string name="cit_power_check_title">Test de la batterie</string>
-  <string name="cit_pressure_sensor_check_summary">Vérifier la valeur du capteur de pression</string>
-  <string name="cit_pressure_sensor_check_title">Test du capteur de pression</string>
   <string name="cit_proximity_sensor_check_summary">Couvrez le capteur de proximité avec votre doigt, les informations affichées vont de 0.0 (couvert) puis croissent</string>
   <string name="cit_proximity_sensor_check_title">Test du capteur de proximité</string>
   <string name="cit_reset_check_summary">Ce test nécessite un redémarrage du système</string>

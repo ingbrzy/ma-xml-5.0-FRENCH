@@ -1654,7 +1654,7 @@ pour le compte %s"</string>
   <string name="lockscreen_voiceunlock_dialog_title_text">Déverrouillage voix</string>
   <string name="StrCallBarred">Service restreint. Débloquez les appels entrants et réessayez</string>
   <string name="StrUnexpectedDataValue">Les valeurs saisies sont en dehors de la plage autorisée. Vérifiez les valeurs, puis réessayez</string>
-  <!-- non traduit par samsung ?
+  <!-- à traduire : non traduit par samsung ?
   <string name="AcMmi">Call forwarding (conditional)</string>
   <string name="StrPwRegFailure">Incorrect password. Please try again</string>
   <string name="StrNegativePWCheck">Incorrect password. Please try again</string>
