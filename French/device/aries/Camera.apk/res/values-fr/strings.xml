@@ -119,7 +119,7 @@
   <string name="hand_night_exit_button_text">Quitter le mode nuit</string>
   <string name="hdr_exit_button_text">Quitter le mode HDR</string>
   <string name="height">Hauteur</string>
-  <string name="image_file_name_format">"\'IMG\'_ddMMyyyy_HHmmss"</string>
+  <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="import_complete">Importation terminée</string>
   <string name="import_contact">Importer un contact</string>
   <string name="import_fail">Échec de l\'importation !</string>
@@ -147,7 +147,7 @@
   <string name="pano_dialog_prepare_preview">Préparation vue panoramique…</string>
   <string name="pano_dialog_title">Panoramique</string>
   <string name="pano_dialog_waiting_previous">Attendre que le panorama précédent se termine</string>
-  <string name="pano_file_name_format">"\'PANO\'_ddMMyyyy_HHmmss"</string>
+  <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Appuyez sur le déclencheur pour commencer à prendre des photos panoramiques</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Restez stable lors du déplacement</string>
   <string name="pano_how_to_use_prompt_to_move">Lors de la prise, essayez de garder le mouvement du téléphone stable</string>
@@ -453,7 +453,7 @@
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Caméra</string>
   <string name="video_err">"Impossible de lire le fichier vidéo."</string>
-  <string name="video_file_name_format">"\'VID\'_ddMMyyyy_HHmmss"</string>
+  <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Taille maximale atteinte.</string>
   <string name="video_snapshot_hint">Prendre une photo pendant l\'enregistrement vidéo en tapant sur l\'écran de prévisualisation.</string>
   <string name="videocamera_settings_label">Paramètres vidéo</string>
