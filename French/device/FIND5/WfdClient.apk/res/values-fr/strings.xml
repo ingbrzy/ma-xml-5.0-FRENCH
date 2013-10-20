@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Affichage sans fil</string>
   <string name="preferences_name">Préférences</string>
@@ -30,7 +30,6 @@
   <string name="disconnect_peer_button">Déconnecter</string>
   <string name="start_client_button">Démarrer la session</string>
   <string name="start_uibc_button">Démarrer UIBC</string>
-  <string name="empty"></string>
   <string name="yes">Oui</string>
   <string name="no">Non</string>
   <string name="client_text">Cet appareil agira comme un client. Appuyez sur le bouton Galerie pour choisir un fichier local.</string>
@@ -65,7 +64,7 @@
   <string name="Unknown">Inconnu</string>
   <string name="loading">Chargement en cours</string>
   <string name="wfd_connect_fail">Échec de connexion</string>
-  <string name="not_wfd_device">"Cet appareil n'est pas périphérique d'affichage sans fil"</string>
+  <string name="not_wfd_device">"Cet appareil n'est pas un périphérique d'affichage sans fil"</string>
   <string name="wfd_disabled">"L'affichage sans fil a été désactivé"</string>
   <string name="summary_auto_play">"La synchronisation de l'écran commencera automatiquement une fois la connexion établie"</string>
   <string name="wfd_service_die">"Service d'affichage sans fil interrompu, veuillez essayer de le redémarrer !"</string>
