@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="timezone_filters">
-        <item>Amerique</item>
+        <item>Amérique</item>
         <item>Europe</item>
         <item>Afrique</item>
         <item>Asie</item>
@@ -74,7 +74,7 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scan…</item>
+        <item>Recherche…</item>
         <item>Connexion…</item>
         <item>Authentification…</item>
         <item>Obtention de l\'adresse IP…</item>
@@ -88,7 +88,7 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scan…</item>
+        <item>Recherche…</item>
         <item>Connexion à %1$s…</item>
         <item>Authentification avec %1$s…</item>
         <item>Obtention de l\'adresse IP de %1$s…</item>
@@ -113,8 +113,8 @@
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Bouton d\activation</item>
-        <item>Code PIN de l\'apparail appairé</item>
-        <item>Code PIN de cet appareil</item>
+        <item>"Code PIN de l'appareil associé"</item>
+        <item>"Code PIN de l'appareil"</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Connecté</item>
@@ -151,8 +151,8 @@
         <item>2.4 GHz uniquement</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
-        <item>Durée d\'usage</item>
-        <item>Nombre d\'ouvertures</item>
+        <item>"Temps d'utilisation"</item>
+        <item>Nombre de lancements</item>
         <item>Nom de l\'application</item>
     </string-array>
     <string-array name="wifi_eap_entries">
@@ -204,7 +204,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Mémoire interne</item>
-        <item>Carte SD démontable</item>
+        <item>Carte SD amovible</item>
         <item>Laisser le système décider</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
@@ -300,7 +300,7 @@
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Demander lors de la connexion</item>
-        <item>Charque uniquement</item>
+        <item>Charge uniquement</item>
         <item>Monter la carte SD</item>
     </string-array>
     <string-array name="led_freq_entries">
@@ -436,10 +436,10 @@ Vous pouvez maintenant transférer des fichiers"</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Aucun</item>
-        <item>720 x 480 mdpi</item>
-        <item>1 280 x 720 tvdpi</item>
-        <item>1 920 x 1 080 xdpi</item>
-        <item>1 280x720 tvdpi et 1 920x1 080 xhdpi</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xdpi</item>
+        <item>1280x720 tvdpi et 1 920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Aucun</item>

@@ -423,4 +423,14 @@
         <item>Petit</item>
         <item>Aucun</item>
     </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Ouvert</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Graphique</item>
+        <item>Pourcentage</item>
+        <item>Barre linéaire</item>
+    </string-array>
 </resources>

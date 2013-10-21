@@ -1827,7 +1827,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="show_hw_screen_updates_summary">Faire clignoter les éléments dessinés avec le GPU</string>
   <string name="show_magnifier_when_input">Afficher la loupe</string>
   <string name="show_owner_info_on_lockscreen_label">Coordonnées du propriétaire sur l\'écran de verrouillage</string>
-  <string name="show_password">Faire apparaître mots de passe</string>
+  <string name="show_password">Afficher le mot de passe</string>
   <string name="show_password_summary"></string>
   <string name="show_rounded_corners">Afficher les coins arrondis</string>
   <string name="show_running_services">Afficher les services</string>

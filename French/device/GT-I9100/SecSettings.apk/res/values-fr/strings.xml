@@ -1382,7 +1382,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="auto_punctuate">Ponctuation automatique</string>
   <string name="hardkeyboard_category">Paramètres du clavier physique</string>
   <string name="auto_punctuate_summary">"Appuyez deux fois sur la touche Espace pour insérer ".""</string>
-  <string name="show_password">Faire apparaître mots de passe</string>
+  <string name="show_password">Afficher le mot de passe</string>
   <string name="show_password_summary">Afficher le mot de passe pendant la saisie</string>
   <string name="ime_security_warning">"Ce mode de saisie est susceptible d'enregistrer le texte que vous saisissez, y compris vos données personnelles telles que les mots de passe et les numéros de carte de paiement. Il provient de l'application %1$s. Voulez-vous vraiment l'activer ?"</string>
   <string name="spellchecker_security_warning">"Ce correcteur orthographique peut recueillir l'ensemble du texte saisi, y compris des données personnelles comme des mots de passe et des numéros de carte de paiement. Il provient de l'application %1$s. Utiliser ce correcteur orthographique ?"</string>

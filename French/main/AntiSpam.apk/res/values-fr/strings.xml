@@ -98,8 +98,8 @@
   <string name="st_block_unknown_sms">Bloquer les messages inconnus</string>
   <string name="st_call_group">Appeler</string>
   <string name="st_common_setting_group">Aperçu rapide</string>
-  <string name="st_filter_keywords_setting_summary1">Les messages des numéros inconnus contenant les mots suivants seront bloqués.</string>
-  <string name="st_filter_keywords_setting_summary2">Vous pouvez ajouter plusieurs numéros en une fois, en les séparant par une virgule</string>
+  <string name="st_filter_keywords_setting_summary1">Les messages provenant de numéros inconnus et contenant les mots clés suivants seront bloqués.</string>
+  <string name="st_filter_keywords_setting_summary2">Vous pouvez en ajouter plusieurs à la fois, en les séparant par une virgule</string>
   <string name="st_filter_keywords_setting_title">Définir les mots clés filtrants</string>
   <string name="st_filter_keywords_title">Mots clés filtrants pour les messages</string>
   <string name="st_filter_sms_button">Filtrer les messages de spam</string>

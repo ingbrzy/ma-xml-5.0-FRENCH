@@ -191,7 +191,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="settings_notification_icon">Notifications de la barre d\'état</string>
   <string name="settings_screenshot_notification_disabled">Aff. infos. de capture d\'écran</string>
   <string name="settings_show_flow_info">Afficher infos. du trafic</string>
-  <string name="settings_show_network_speed">Afficher la vitesse du réseau</string>
+  <string name="settings_show_network_speed">Afficher la vitesse de transfert</string>
   <string name="settings_show_notificationBar_notification">Afficher notifs de la barre de notification</string> 
   <string name="settings_show_statusBar_notification">"Afficher notifs de la barre d'état"</string> 
   <string name="settings_status_bar">"Barre d'état"</string>

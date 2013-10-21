@@ -146,7 +146,7 @@ Veuillez réessayer après cinq minutes"</string>
   <string name="forget_password">Mot de passe oublié ? </string>
   <string name="frozen">(Verrouillé)</string>
   <string name="get_back_pwd">Récupérer le mot de passe du compte</string>
-  <string name="giftcard_acitivity_and_denomination">%2$s MiCredit carte-cadeau de %1$s</string>
+  <string name="giftcard_acitivity_and_denomination">Carte-cadeau %2$s MiCredit de %1$s</string>
   <string name="giftcard_denom">MiCredit(s)</string>
   <string name="giftcard_denom_available">MiCredit(s) disponibles</string>
   <string name="giftcard_denom_frozen">MiCredit(s) gelés</string>
@@ -297,7 +297,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="progress_submit_recharge_summary">Recharge de : %1$s RMB</string>
   <string name="progress_submit_title">Demande de recharge envoyée</string>
   <string name="progress_success_pay_summary">Votre commande a été effectuée avec succès !</string>
-  <string name="progress_success_pay_title">Paiement de %1$s MiCredit effectué</string>
+  <string name="progress_success_pay_title">Paiement de %1$s MiCredit(s)effectué</string>
   <string name="progress_success_recharge_summary">Balance du compte : %1$s MiCredits</string>
   <string name="progress_success_recharge_title">Recharge de %1$s MiCredits effectuée</string>
   <string name="progress_voucher_creating">Mise à jour MiCredit…</string>
@@ -348,7 +348,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
   <string name="send_sms_for_sync_title">Service de synchronisation non activé</string>
   <string name="service_error">Erreur de service</string>
-  <string name="show_password">Montrer le mot de passe</string>
+  <string name="show_password">Afficher le mot de passe</string>
   <string name="sim_changed_notification_content">Carte SIM non activée, veuillez la réactiver</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Ignorer la connexion</string>
