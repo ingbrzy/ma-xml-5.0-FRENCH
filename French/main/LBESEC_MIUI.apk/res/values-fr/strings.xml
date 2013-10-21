@@ -75,10 +75,10 @@
   <string name="HIPS_Perm_AllowAll">Tout autoriser</string>
   <string name="HIPS_Perm_AnswerCall">Répondre</string>
   <string name="HIPS_Perm_Call">Appel téléphonique</string>
-  <string name="HIPS_Perm_CallLog">Journal d\'appel</string>
-  <string name="HIPS_Perm_CallLog_Access">Lire votre journal d\'appel</string>
-  <string name="HIPS_Perm_CallLog_Desc">Accéder à votre journal d\'appel</string>
-  <string name="HIPS_Perm_CallLog_Hint">%1$s applications ont la permission d\'accéder à votre journal d\'appel</string>
+  <string name="HIPS_Perm_CallLog">journal d\'appels</string>
+  <string name="HIPS_Perm_CallLog_Access">Lire votre journal d\'appels</string>
+  <string name="HIPS_Perm_CallLog_Desc">Accéder à votre journal d\'appels</string>
+  <string name="HIPS_Perm_CallLog_Hint">%1$s applications ont la permission d\'accéder à votre journal d\'appels</string>
   <string name="HIPS_Perm_CallMonitor">Surveillance des appels</string>
   <string name="HIPS_Perm_CallMonitor_Desc">Surveiller les appels entrants et sortants, contrôler le volume, etc.</string>
   <string name="HIPS_Perm_CallMonitor_Hint">%1$s applications ont la permission de surveiller les appels entrants et sortants, et de régler le volume</string>

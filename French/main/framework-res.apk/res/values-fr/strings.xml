@@ -393,7 +393,7 @@
     <string name="permlab_internalSystemWindow">Affichage de fenêtres non autorisées</string>
     <string name="permdesc_internalSystemWindow">Permet à l\'application de créer des fenêtres destinées à être utilisées par l\'interface utilisateur du système interne. Les applications standards ne doivent pas utiliser cette fonctionnalité.</string>
     <string name="permlab_systemAlertWindow">ignorer les autres applications</string>
-    <string name="permdesc_systemAlertWindow">Permet à l\'application d\'afficher les fenêtres d\'alertes système. Certaines fenêtres d\'alerte peuvent occuper la totalité de l\'écran.</string>
+    <string name="permdesc_systemAlertWindow">"Permet à l'application d'ignorer d'autres applications ou certaines parties de l'interface utilisateur. Cela peut altérer votre utilisation de l'interface de n'importe quelle application, ou modifier ce que vous pensez voir dans d'autres applications."</string>
     <string name="permlab_setAnimationScale">Réglage de la vitesse des animations</string>
     <string name="permdesc_setAnimationScale">Permet à l\'application de modifier à tout moment la vitesse générale des animations pour les ralentir ou les accélérer.</string>
     <string name="permlab_manageAppTokens">gérer les jetons d\'application</string>
@@ -466,10 +466,10 @@
     <string name="permdesc_readContacts">Permet à l\'application de lire les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d\'autres moyens. Cette autorisation permet aux applications d\'enregistrer ces données. Les applications malveillantes peuvent les partager à votre insu.</string>
     <string name="permlab_writeContacts">modifier les contacts</string>
     <string name="permdesc_writeContacts">Permet à l\'application de modifier les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d\'autres moyens. Cette autorisation permet aux applications de supprimer ces données.</string>
-    <string name="permlab_readCallLog">lire le journal d\'appel</string>
-    <string name="permdesc_readCallLog">Permet à l\'application d\'accéder au journal d\'appel de votre téléphone, y compris aux données relatives aux appels entrants et sortants. Cette autorisation permet aux applications d\'enregistrer les données du journal d\'appel. Les applications malveillantes peuvent partager ces données à votre insu.</string>
-    <string name="permlab_writeCallLog">modifier le journal d\'appel</string>
-    <string name="permdesc_writeCallLog">Permet à l\'application de lire le journal d\'appel de votre téléphone, y compris les données relatives aux appels entrants et sortants. Des applications malveillantes peuvent utiliser cette fonctionnalité pour effacer ou modifier votre journal d\'appel.</string>
+    <string name="permlab_readCallLog">lire le journal d\'appels</string>
+    <string name="permdesc_readCallLog">Permet à l\'application d\'accéder au journal d\'appels de votre téléphone, y compris aux données relatives aux appels entrants et sortants. Cette autorisation permet aux applications d\'enregistrer les données du journal d\'appels. Les applications malveillantes peuvent partager ces données à votre insu.</string>
+    <string name="permlab_writeCallLog">modifier le journal d\'appels</string>
+    <string name="permdesc_writeCallLog">Permet à l\'application de lire le journal d\'appels de votre téléphone, y compris les données relatives aux appels entrants et sortants. Des applications malveillantes peuvent utiliser cette fonctionnalité pour effacer ou modifier votre journal d\'appels.</string>
     <string name="permlab_readProfile">voir votre fiche de contact</string>
     <string name="permdesc_readProfile">Permet à l\'application d\'accéder aux informations de profil stockées sur votre appareil, telles que votre nom et vos coordonnées. L\'application peut alors vous identifier et envoyer vos informations de profil à des tiers.</string>
     <string name="permlab_writeProfile">modifier votre fiche de contact</string>
@@ -522,7 +522,7 @@
     <string name="permdesc_asec_rename">Permet à l\'application de renommer la mémoire de stockage interne.</string>
     <string name="permlab_vibrate">contrôler le vibreur</string>
     <string name="permdesc_vibrate">Permet à l\'application de contrôler le vibreur.</string>
-    <string name="permlab_flashlight">Contrôler la lampe de poche</string>
+    <string name="permlab_flashlight">contrôler la lampe de poche</string>
     <string name="permdesc_flashlight">Permet à l\'application de contrôler la lampe de poche.</string>
     <string name="permlab_manageUsb">gérer les préférences et les autorisations des périphériques USB</string>
     <string name="permdesc_manageUsb">Permet à l\'application de gérer les préférences et les autorisations des périphériques USB.</string>
@@ -645,7 +645,7 @@
     <string name="policylab_setGlobalProxy">Définir le proxy global du mobile</string>
     <string name="policydesc_setGlobalProxy">Indiquer le proxy global à utiliser pour ce mobile lorsque les règles sont activées. Seul l\'administrateur principal du mobile peut définir le proxy global utilisé.</string>
     <string name="policylab_expirePassword">Définir exp. mot passe verr.</string>
-    <string name="policydesc_expirePassword">Contrôler la fréquence de modification du mot de passe de verrouillage de l\'écran</string>
+    <string name="policydesc_expirePassword">Contrôler la fréquence de modification du mot de passe de déverrouillage de l\'écran</string>
     <string name="policylab_encryptedStorage">Définir chiffrement du stockage</string>
     <string name="policydesc_encryptedStorage">Exiger le chiffrement des données d\'application stockées</string>
     <string name="policylab_disableCamera">Désactiver les appareils photo</string>
@@ -715,9 +715,9 @@
     <string name="relationTypeReferredBy">Recommandé par</string>
     <string name="relationTypeRelative">Proche</string>
     <string name="relationTypeSister">Sœur</string>
-    <string name="relationTypeSpouse">Conjoint</string>
+    <string name="relationTypeSpouse">Épouse</string>
     <string name="sipAddressTypeCustom">Personnalisée</string>
-    <string name="sipAddressTypeHome">Accueil</string>
+    <string name="sipAddressTypeHome">Domicile</string>
     <string name="sipAddressTypeWork">Professionnelle</string>
     <string name="sipAddressTypeOther">Autre</string>
     <string name="keyguard_password_enter_pin_code">Saisissez le code PIN.</string>

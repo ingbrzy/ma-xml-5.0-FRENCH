@@ -44,7 +44,7 @@
   <string name="button_next">Suivant</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Retour</string>
-  <string name="call_title">Journal d\'appel</string>
+  <string name="call_title">journal d\'appels</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_backup">Annuler la sauvegarde</string>
   <string name="cancel_restore">Annuler la restauration</string>

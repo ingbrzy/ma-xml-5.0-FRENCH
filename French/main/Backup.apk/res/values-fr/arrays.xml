@@ -15,7 +15,7 @@
   </string-array>
   <string-array name="system_data_label">
     <item>"Contacts"</item>
-    <item>"Journal d\'appel"</item>
+    <item>"Journal d\'appels"</item>
     <item>"Messages"</item>
     <item>"Messages multimédias"</item>
     <item>"Paramètres système"</item>
@@ -33,7 +33,7 @@
   </string-array>
   <string-array name="cloud_data_label">
     <item>"Contacts"</item>
-    <item>"Journal d\'appel"</item>
+    <item>"Journal d\'appels"</item>
     <item>"Messages"</item>
     <item>"Paramètres Wi-Fi"</item>
     <item>"Notes"</item>
@@ -44,7 +44,7 @@
     <item>"Notes"</item>
   </string-array>
   <string-array name="cloud_sim_data">
-    <item>"Journal d\'appel"</item>
+    <item>"Journal d\'appels"</item>
     <item>"Messages"</item>
   </string-array>
 </resources>

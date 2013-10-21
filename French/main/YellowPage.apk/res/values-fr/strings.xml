@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_smart_antispam_summary">À propos de la détection de numéros inconnus</string>
   <string name="about_telephone_fraud">À propos de la fraude téléphonique</string>
@@ -14,12 +14,12 @@
   <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Sortant : "</string>
   <string name="check_network">Voir les paramètres réseau</string>
-  <string name="confirm_delete_all_call_log_title">Confirmer la suppression du journal d\'appel ?</string>
-  <string name="confirm_delete_call_log_title">Supprimer le journal d\'appel ?</string>
+  <string name="confirm_delete_all_call_log_title">Confirmer la suppression du journal d\'appels ?</string>
+  <string name="confirm_delete_call_log_title">Supprimer le journal d\'appels ?</string>
   <string name="confirm_to_add_blacklist">Mettre le numéro sélectionné sur liste noire ?</string>
   <string name="confirm_to_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
   <string name="contact_detail_calllog_call_note_tips">Notes d\'appel</string>
-  <string name="contact_detail_calllog_call_record_tips">Journal d\'appel</string>
+  <string name="contact_detail_calllog_call_record_tips">journal d\'appels</string>
   <string name="correction">Correction</string>
   <string name="custom_mark_category">Personnalisé</string>
   <string name="data_error">Désolé, le service n\'est pas disponible, veuillez réessayer plus tard</string>
@@ -41,8 +41,8 @@
   <string name="menu_call_ip_number">Composer un appel IP (composer %s)</string>
   <string name="menu_copy_text">Copier dans le presse-papier</string>
   <string name="menu_correct_yellow_page">Correction</string>
-  <string name="menu_delete_call_log">Supprimer le journal d\'appel</string>
-  <string name="menu_delete_one">Retirer l\'élément du journal d\'appel</string>
+  <string name="menu_delete_call_log">Supprimer le journal d\'appels</string>
+  <string name="menu_delete_one">Retirer l\'élément du journal d\'appels</string>
   <string name="menu_refresh">Rafraîchir</string>
   <string name="menu_remove_black_list">Supprimer de la liste noire</string>
   <string name="mishop_web_payment_title">Panier MiStore</string>
@@ -90,7 +90,7 @@ Montant total : %3$s RMB"</string>
   <string name="sms_send_failed">Échec de l\'envoi du SMS !</string>
   <string name="sms_sending">Envoi en cours…</string>
   <string name="title_about_yellow_page">À propos</string>
-  <string name="toast_finish_delete_call_log">Le journal d\'appel a été effacé</string>
+  <string name="toast_finish_delete_call_log">Le journal d\'appels a été effacé</string>
   <string name="toast_text_copied">Texte copié</string>
   <string name="try_again">Réessayer</string>
   <string name="turn_on_smart_antispam_hint">Après l\'avoir activé les numéros seront identifiés. Étiqueter les numéros aide à déterminer les appels frauduleux.</string>
@@ -101,7 +101,7 @@ Montant total : %3$s RMB"</string>
   <string name="user_notice_identify_summary_format">L\'identification des numéros inconnus est un service en ligne, veuillez lire %1$s et %2$s avant de l\'utiliser.</string>
   <string name="user_notice_yp_detail_summary_format">L\'information partielle sur cette page jaune doit être mise à jour en ligne, veuillez lire %1$s et %2$s, appuyez sur "Accepter" pour valider ou sur "Annuler" pour voir les informations (en cache uniquement).</string>
   <string name="voicemail">Messagerie vocale</string>
-  <string name="yellow_page_call_log_title">Journal d\'appel</string>
+  <string name="yellow_page_call_log_title">Journal d\'appels</string>
   <string name="yellow_page_detail_title">À propos</string>
   <string name="yellow_page_website">Site officiel</string>
 </resources>

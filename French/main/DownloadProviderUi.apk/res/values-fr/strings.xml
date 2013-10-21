@@ -60,7 +60,7 @@
   <string name="paused_unknown">Erreur inconnue</string>
   <string name="paused_waiting_for_network">En attente d\'une connexion réseau</string>
   <string name="paused_waiting_to_retry">En attente d\'une nouvelle tentative</string>
-  <string name="prefDefault_max_bytes_limit">1048576</string>
+  <!-- <string name="prefDefault_max_bytes_limit">1048576</string> à augmenter éventuellement pour les francais ? les quota sont haut ici... 3go pour 20e chez sosh... utiliser fichier .part eventuellement pour eviter de hardcoder la valeur..-->
   <string name="pref_dialog_title_max_bytes_limit">Limite de taille de fichier</string>
   <string name="pref_download_settings_title">Avertissement de téléchargement de données</string>
   <string name="pref_summary_any_bytes_popup">Toujours mettre en attente en utilisant le réseau Wi-Fi</string>
@@ -76,5 +76,5 @@
   <string name="retry_download">Réessayer</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_operation_items">Veuillez sélectionner des éléments</string>
-  <string name="selected_count">%1$d téléchargements sélectionnés sur %2$d</string>
+  <string name="selected_count">%1$d sélectionné(s) sur %2$d</string>
 </resources>

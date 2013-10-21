@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
         <item>Classique</item>
@@ -19,5 +19,31 @@
     <string-array name="gadget_weather_theme_type_entries">
         <item>Standard</item>
         <item>Classique</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Clair</item>
+        <item>Nuageux</item>
+        <item>Brouillard</item>
+        <item>Brumeux</item>
+        <item>Pluie torrentielle</item>
+        <item>Violent orage</item>
+        <item>Très fortes pluies</item>
+        <item>Orageux</item>
+        <item>Averses de pluie</item>
+        <item>Fortes précipitations</item>
+        <item>Pluvieux</item>
+        <item>Bruineux</item>
+        <item>Neige fondue</item>
+        <item>Tempête de neige</item>
+        <item>Plaques de neige</item>
+        <item>Chutes de neige violentes</item>
+        <item>Chutes de neige</item>
+        <item>Tempête de sable violente</item>
+        <item>Tempête de sable</item>
+        <item>Tempête de sable legère</item>
+        <item>Tempête de sable</item>
+        <item>Grêle</item>
+        <item>Vents poussièreux</item>
+        <item>Brouillard</item>
     </string-array>
 </resources>

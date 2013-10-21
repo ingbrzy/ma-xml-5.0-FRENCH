@@ -236,8 +236,6 @@ Veuillez réessayer dans %d secondes."</string>
   
   <!-- à traduire :
   <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
-  <string name="cu_3gnet_name">沃3G连接互联网</string>
-  <string name="cu_3gwap_name">沃3G手机上网</string>
   <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>
   <string name="recip_unsupport_selection">Sorry, you can not move the caret to the start when there are recipients in RecipientsView.</string>
   -->  

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="all_numbers_count">
+        <item quantity="other">%d entrées</item>
+        <item quantity="one">1 entrée</item>
+    </plurals>
+</resources>

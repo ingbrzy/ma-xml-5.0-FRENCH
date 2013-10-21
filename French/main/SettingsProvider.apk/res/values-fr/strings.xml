@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_label">Stockage des paramètres</string>
+  <!--
+   pour def_location_providers_allowed il est vide dans la version non traduite, pourquoi avoir ajouter "GPS, réseau" ?
+  <string name="def_location_providers_allowed">GPS, réseau</string>
+  
+  et a quoi servent ces lignes dans la traduction ?
   <string name="def_car_dock_sound">/system/media/audio/ui/Dock.ogg</string>
   <string name="def_car_undock_sound">/system/media/audio/ui/Undock.ogg</string>
   <string name="def_desk_dock_sound">/system/media/audio/ui/Dock.ogg</string>
   <string name="def_desk_undock_sound">/system/media/audio/ui/Undock.ogg</string>
-  <string name="def_location_providers_allowed">GPS, réseau</string>
   <string name="def_lock_sound">/system/media/audio/ui/Lock.ogg</string>
   <string name="def_low_battery_sound">/system/media/audio/ui/LowBattery.ogg</string>
   <string name="def_unlock_sound">/system/media/audio/ui/Unlock.ogg</string>
+  -->
 </resources>

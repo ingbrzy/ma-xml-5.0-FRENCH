@@ -340,7 +340,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="reg_type_phone">S\'inscrire par téléphone (recommandé)</string>
   <string name="reging">Inscription, veuillez patienter…</string>
   <string name="relogin">Se connecter</string>
-  <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appel et des notes déjà synchronisés sur votre appareil ?</string>
+  <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appels et des notes déjà synchronisés sur votre appareil ?</string>
   <string name="remove_confirm">Supprimer</string>
   <string name="remove_unactivated_account_notice">Le compte Xiaomi n\'est pas activé, désirez-vous le retirer maintenant ?</string>
   <string name="removing_account">Suppression du compte…</string>

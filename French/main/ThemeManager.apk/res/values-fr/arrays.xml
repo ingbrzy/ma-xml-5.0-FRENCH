@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!-- à traduire ? je vois pas ou ca s'affiche dans theme manager.. :
   <string-array name="audio_effect_file_showing_names">
     <item>"Lock"</item>
     <item>"Unlock"</item>
@@ -26,4 +27,5 @@
   <string-array name="disable_package_replacement">
     <item>"disable package name"</item>
   </string-array>
+-->
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="listTotalPhoneContacts">
     <item quantity="one">"1 contact avec numéro de téléphone"</item>
@@ -52,4 +52,9 @@
     <item quantity="one">"1 personne"</item>
     <item quantity="other">"%d personnes"</item>
   </plurals>
+   <plurals name="numSelectedSimContacts">
+       <item quantity="other">" %1$d sélectionnés"</item>
+       <item quantity="zero">%1$d sélectionné</item>
+       <item quantity="one">%1$d sélectionné</item>
+   </plurals>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="google">
         <item>Google</item>
@@ -37,16 +37,6 @@
         <item>iPad</item>
         <item>Froyo-N1</item>
         <item>Honeycomb-Xoom</item>
-    </string-array>
-    <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Chinese (GBK)</item>
-        <item>Chinese (Big5)</item>
-        <item>Japanese (ISO-2022-JP)</item>
-        <item>Japanese (SHIFT_JIS)</item>
-        <item>Japanese (EUC-JP)</item>
-        <item>Korean (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>"Jamais "</item>
@@ -98,8 +88,6 @@
         <item>Ordinateur de bureau</item>
         <item>iPhone</item>
         <item>iPad</item>
-        <item>Froyo-N1</item>
-        <item>Honeycomb-Xoom</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Page haut/bas</item>

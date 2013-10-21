@@ -468,10 +468,10 @@
   <string name="permdesc_readContacts">Permet à l\'application de lire les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d\'autres moyens. Cette autorisation permet aux applications d\'enregistrer ces données. Les applications malveillantes peuvent les partager à votre insu.</string>
   <string name="permlab_writeContacts">modifier les contacts</string>
   <string name="permdesc_writeContacts">Permet à l\'application de modifier les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d\'autres moyens. Cette autorisation permet aux applications de supprimer ces données.</string>
-  <string name="permlab_readCallLog">lire le journal d\'appel</string>
-  <string name="permdesc_readCallLog">Permet à l\'application d\'accéder au journal d\'appel de votre téléphone, y compris aux données relatives aux appels entrants et sortants. Cette autorisation permet aux applications d\'enregistrer les données du journal d\'appel. Les applications malveillantes peuvent partager ces données à votre insu.</string>
-  <string name="permlab_writeCallLog">modifier le journal d\'appel</string>
-  <string name="permdesc_writeCallLog">Permet à l\'application de lire le journal d\'appel de votre téléphone, y compris les données relatives aux appels entrants et sortants. Des applications malveillantes peuvent utiliser cette fonctionnalité pour effacer ou modifier votre journal d\'appel.</string>
+  <string name="permlab_readCallLog">lire le journal d\'appels</string>
+  <string name="permdesc_readCallLog">Permet à l\'application d\'accéder au journal d\'appels de votre téléphone, y compris aux données relatives aux appels entrants et sortants. Cette autorisation permet aux applications d\'enregistrer les données du journal d\'appel. Les applications malveillantes peuvent partager ces données à votre insu.</string>
+  <string name="permlab_writeCallLog">modifier le journal d\'appels</string>
+  <string name="permdesc_writeCallLog">Permet à l\'application de lire le journal d\'appels de votre téléphone, y compris les données relatives aux appels entrants et sortants. Des applications malveillantes peuvent utiliser cette fonctionnalité pour effacer ou modifier votre journal d\'appels.</string>
   <string name="permlab_readProfile">voir votre fiche de contact</string>
   <string name="permdesc_readProfile">Permet à l\'application d\'accéder aux informations de profil stockées sur votre appareil, telles que votre nom et vos coordonnées. L\'application peut alors vous identifier et envoyer vos informations de profil à des tiers.</string>
   <string name="permlab_writeProfile">modifier votre fiche de contact</string>

@@ -32,4 +32,8 @@
         <item>@drawable/date_m</item>
         <item>@drawable/date_m</item>
     </array>
+    <string-array name="record_scenes_entries">
+        <item>Pour la musique</item>
+        <item>Pour la voix</item>
+    </string-array>
 </resources>
