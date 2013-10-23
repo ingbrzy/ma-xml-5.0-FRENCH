@@ -1070,6 +1070,8 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="led_settings">LED</string>
   <string name="legal_information">Informations légales</string>
   <string name="license_title">Licence</string>
+  <string name="line_breaking_title">Optimisation des paragraphes de textes</string>
+  <string name="line_breaking_summary">Optimiser l'affichage des paragraphes avec un alinéa</string>
   <string name="link_speed_label">Vitesse de liaison :</string>
   <string name="local_backup_password_summary_change">Appuyez pour modifier ou supprimer le mot de passe utilisé pour les sauvegardes complètes sur PC.</string>
   <string name="local_backup_password_summary_none">"Les sauvegardes complètes sur PC ne sont pas protégées actuellement."</string>
