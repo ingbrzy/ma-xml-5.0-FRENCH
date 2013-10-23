@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="bootup_mode">
     <item>Double SIMs</item>
@@ -15,10 +15,16 @@
     <item>Ne pas se connecter aux données.</item>
     <item>Annuler</item>
   </string-array>
-  <string-array name="new_search_engines">
-    <item>--</item>
-    <item>google--Google--google.com--search_engine_google--http://www.google.com/m?hl={language}&amp;amp;ie={inputEncoding}&amp;amp;source=android-browser&amp;amp;q={searchTerms}--UTF-8--http://www.google.com/complete/search?hl={language}&amp;amp;json=true&amp;amp;q={searchTerms}</item>
-    <item>yahoo--Yahoo!--yahoo.com--search_engine_yahoo--http://search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}--UTF-8--http://ff.search.yahoo.com/gossip?output=fxjson&amp;amp;command={searchTerms}</item>
-    <item>bing--Bing--bing.com--search_engine_bing--http://www.bing.com/search?q={searchTerms}--UTF-8--http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
-  </string-array>
+    <string-array name="new_search_engines">
+        <item>--</item>
+        <item>google--Google--google.com--search_engine_google--http://www.google.com/m?hl={language}&amp;amp;amp;amp;ie={inputEncoding}&amp;amp;amp;amp;source=android-browser&amp;amp;amp;amp;q={searchTerms}--UTF-8--http://www.google.com/complete/search?hl={language}&amp;amp;amp;amp;json=true&amp;amp;amp;amp;q={searchTerms}</item>
+        <item>yahoo_fr--Yahoo! France--fr.yahoo.com--search_engine_yahoo--http://fr.search.yahoo.com/search?ei={inputEncoding}&amp;amp;amp;amp;fr=crmas&amp;amp;amp;amp;p={searchTerms}--UTF-8--http://fr-sayt.ff.search.yahoo.com/gossip-fr-sayt?output=fxjson&amp;amp;amp;amp;command={searchTerms}</item>
+        <item>bing_fr_FR--Bing--bing.com--search_engine_bing--http://www.bing.com/search?setmkt=fr-FR&amp;amp;amp;amp;q={searchTerms}--UTF-8--http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;amp;amp;language={language}</item>
+    </string-array>
+    <string-array name="search_engines">
+        <item>google</item>
+        <item>yahoo_fr</item>
+        <item>bing_fr_FR</item>
+    </string-array>
+</resources>
 </resources>
