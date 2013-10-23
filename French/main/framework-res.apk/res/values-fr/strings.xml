@@ -369,7 +369,7 @@
     <string name="permlab_retrieve_window_content">récupérer le contenu de l\'écran</string>
     <string name="permdesc_retrieve_window_content">Permet à l\'application de récupérer le contenu de la fenêtre active. Des applications malveillantes peuvent exploiter cette fonctionnalité pour récupérer et lire la totalité du contenu de la fenêtre, à l\'exception des mots de passe.</string>
     <string name="permlab_shutdown">arrêt partiel</string>
-    <string name="permdesc_shutdown">Place le gestionnaire d\'activité en état d\'arrêt. N\'effectue pas un arrêt complet.</string>
+    <string name="permdesc_shutdown">Place le gestionnaire d\'activités en état d\'arrêt. N\'effectue pas un arrêt complet.</string>
     <string name="permlab_stopAppSwitches">empêcher les changements d\'applications</string>
     <string name="permdesc_stopAppSwitches">Empêche l\'utilisateur de changer d\'application.</string>
     <string name="permlab_runSetActivityWatcher">suivre et contrôler le lancement de toutes les applications</string>
@@ -877,7 +877,7 @@ Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</
     <string name="oneMonthDurationPast">Il y a 1 mois</string>
     <string name="beforeOneMonthDurationPast">Il y a plus d\'un mois</string>
     <string name="last_month">Le mois dernier</string>
-    <string name="older">Précédent</string>
+    <string name="older">Préc.</string>
     <string name="preposition_for_date">le %s</string>
     <string name="preposition_for_time">à %s</string>
     <string name="preposition_for_year">en %s</string>
@@ -919,7 +919,7 @@ Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</
     <string name="chooseUsbActivity">Sélectionnez une application pour le périphérique de stockage USB</string>
     <string name="noApplications">Aucune application ne peut effectuer cette action.</string>
     <string name="aerr_title" />
-    <string name="aerr_application">L\'application "%1$s" s\'est arrêtée.</string>
+    <string name="aerr_application">"L'application \"%1$s\" s'est arrêtée."</string>
     <string name="aerr_process">Malheureusement, le processus %1$s s\'est arrêté.</string>
     <string name="anr_title" />
     <string name="anr_activity_application">L\'application %2$s ne répond pas.
@@ -1077,7 +1077,7 @@ Voulez-vous la fermer ?</string>
     <string name="ime_action_send">Envoyer</string>
     <string name="ime_action_next">Suivant</string>
     <string name="ime_action_done">OK</string>
-    <string name="ime_action_previous">Précédent</string>
+    <string name="ime_action_previous">Préc.</string>
     <string name="ime_action_default">Exécuter</string>
     <string name="dial_number_using">Composer le numéro
 en utilisant %s</string>

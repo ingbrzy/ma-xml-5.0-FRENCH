@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="toast_rotation_unlocked">"Rotation de l'écran déverrouillée"</string>
+  <string name="toast_rotation_locked">"Rotation de l'écran verrouillée"</string>
+</resources>
