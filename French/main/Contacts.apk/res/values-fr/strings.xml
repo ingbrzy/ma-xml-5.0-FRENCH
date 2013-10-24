@@ -795,7 +795,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_apply">Appliquer</string>
   <string name="resource_buy">Acheter</string>
   <string name="resource_can_not_selected">%1$s ne peut pas être sélectionné !</string>
-  <string name="resource_category">Catégorie</string>
+  <string name="resource_category">Catégories</string>
   <string name="resource_comment_1_star">1 Étoile</string>
   <string name="resource_comment_2_star">2 Étoiles</string>
   <string name="resource_comment_3_star">3 Étoiles</string>
