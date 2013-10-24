@@ -6,11 +6,8 @@
         <item>Afficher le numéro</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE/CDMA</item>
-        <item>EvDo uniquement</item>
-        <item>CDMA sans EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>CDMA/EvDo auto.</item>
-        <item>GSM/WCDMA auto.</item>
         <item>WCDMA uniquement</item>
         <item>GSM uniquement</item>
         <item>GSM/WCDMA préféré</item>
