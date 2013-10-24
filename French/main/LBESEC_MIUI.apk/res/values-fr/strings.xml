@@ -111,7 +111,7 @@
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s applications ont la permission d\'accéder à Internet</string>
   <string name="HIPS_Perm_Network_Accept">Autoriser la connexion de %1$s</string>
   <string name="HIPS_Perm_Network_Connect">Se connecter à %1$s</string>
-  <string name="HIPS_Perm_Network_Listen">Ecouter sur le port %1$s</string>
+  <string name="HIPS_Perm_Network_Listen">Écouter sur le port %1$s</string>
   <string name="HIPS_Perm_Network_MobileEvent">En utilisant le réseau Mobile</string>
   <string name="HIPS_Perm_Network_Recv">Recevoir des données</string>
   <string name="HIPS_Perm_Network_Send">Envoyer des données</string>

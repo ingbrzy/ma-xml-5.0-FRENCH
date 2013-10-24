@@ -8,7 +8,7 @@
     <string name="confirm_radio_msg_single">Mode Avion activé, voulez vous le désactiver ?</string>
     <string name="confirm_radio_flight_mode_on_sim_on_msg">Mode Avion est activé. Voulez-vous le désactiver ?</string>
     <string name="confirm_pin_title">SIM verrouillée</string>
-    <string name="confirm_pin_msg">La SIM selectionée est maintenant verrouillée. Merci de la déverrouiller.</string>
+    <string name="confirm_pin_msg">La SIM sélectionnée est maintenant verrouillée. Merci de la déverrouiller.</string>
     <string name="confrim_simmelock_title">SIM ME verrouillée</string>
     <string name="confirm_simmelock_msg">La SIM sélectionnée est verrouillée. Merci de la déverrouiller.</string>
     <string name="confirm_fdn_title">FDN actif</string>
@@ -22,9 +22,9 @@
     <string name="confirm_roamingWithPrefer_rbutton">SIM Itinérante</string>
     <string name="confirm_radio_lbutton">Allumer</string>
     <string name="confirm_unlock_lbutton">Déverrouiller</string>
-    <string name="confirm_disable_lbutton">Eteindre</string>
-    <string name="confirm_unlock_fail">Operation annulée</string>
-    <string name="confirm_turnon_radio_fail">Operation annulée</string>
+    <string name="confirm_disable_lbutton">Éteindre</string>
+    <string name="confirm_unlock_fail">Opération annulée</string>
+    <string name="confirm_turnon_radio_fail">Opération annulée</string>
     <string name="confirm_permit_roaming_fail">"Vous avez annuler cette action sur la SIM d'itinérance"</string>
     <string name="confirm_sim_locked_message">La SIM a été verrouillée de façon permanente</string>
     <string name="confirm_slot_locked_message">Le slot a été verrouillée de façon permanente</string>

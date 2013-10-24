@@ -57,7 +57,7 @@
   <string name="delete_playlist_menu">Supprimer</string>
   <string name="delete_song_desc">Cela supprimera définitivement %s de votre carte SD.</string>
   <string name="deselect_all">Tout désélectionner</string>
-  <string name="dirac_mode_general">Mode general</string>
+  <string name="dirac_mode_general">Mode général</string>
   <string name="dirac_mode_earbuds">Écouteurs Xiaomi</string>
   <string name="dirac_mode_in_ear">Écouteurs intra-auriculaires Xiaomi</string>
   <string name="dirac_mode_off">Dirac désactivé</string>
@@ -86,7 +86,7 @@
   <string name="eq_dance">Dance</string>
   <string name="eq_delete">Supprimer</string>
   <string name="eq_delete_success">Effectué.</string>
-  <string name="eq_electronic">Electronique</string>
+  <string name="eq_electronic">Électronique</string>
   <string name="eq_flat">Flat</string>
   <string name="eq_hiphop">Hip Hop</string>
   <string name="eq_jazz">Jazz</string>

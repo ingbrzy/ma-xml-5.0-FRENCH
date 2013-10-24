@@ -106,7 +106,6 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="ext_media_unmountable_notification_title">Carte SD endommagée</string>
   <string name="filter_item_description">"Paramètres-Paramètres de la barre d\'état-Notifications personnalisées" pour définir le type de notification des applications</string> 
   <string name="filter_item_preview_image">Aperçu</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Position définie par GPS</string>
   <string name="gps_notification_searching_text">Recherche de GPS…</string>
   <string name="headset_custom">Personnaliser</string> 

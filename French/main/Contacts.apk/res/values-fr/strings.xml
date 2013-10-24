@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="accessibility_calllog_detail">Details du journal d\'appels</string>
+  <string name="accessibility_calllog_detail">Détails du journal d\'appels</string>
   <string name="account_abnormal_state">Informations de compte anormales, essayez de vous reconnectez ou essayez plus tard !</string>
   <string name="account_container_title">Sur le compte suivant</string>
   <string name="account_default">Téléphone</string>
@@ -27,7 +27,7 @@
   <string name="add_to_my_contacts">Ajouter à mes Contacts</string>
   <string name="add_wait">Ajouter Attendre</string>
   <string name="add_xiaomi_account_dialog_btn">Utiliser un compte Xiaomi</string>
-  <string name="add_xiaomi_account_dialog_msg">Pour une meilleure expérience pensez à utiliser votre compte Xiaomi pour synchroniser et récuperer vos contacts, et pour les gérer à partir de votre ordinateur.</string>
+  <string name="add_xiaomi_account_dialog_msg">Pour une meilleure expérience pensez à utiliser votre compte Xiaomi pour synchroniser et récupérer vos contacts, et pour les gérer à partir de votre ordinateur.</string>
   <string name="add_xiaomi_account_dialog_title">Choisir le compte de synchronisation</string>
   <string name="aggregation_suggestion_edit_dialog_message">Basculer vers l\'édition du contact sélectionné ? Les informations que vous avez entrées jusqu\'à présent seront copiées.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Éditer les contacts sélectionnés</string>
@@ -152,7 +152,6 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="composer_failed_to_get_database_infomation">"Impossible d'obtenir les informations de la base de données"</string>
   <string name="composer_has_no_exportable_contact">Il n\'y a aucun contact exportable. Si vous avez réellement des contacts sur votre téléphone, ils peuvent être interdits d\'exportation par certains fournisseurs de données.</string>
   <string name="composer_not_initialized">"Le compositeur de carte de visite n'est pas correctement initialisé"</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"></string>
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"></string>
