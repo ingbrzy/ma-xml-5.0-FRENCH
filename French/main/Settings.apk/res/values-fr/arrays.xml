@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="timezone_filters">
         <item>Amérique</item>
@@ -439,7 +439,7 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>720x480 mdpi</item>
         <item>1280x720 tvdpi</item>
         <item>1920x1080 xdpi</item>
-        <item>1280x720 tvdpi et 1 920x1080 xhdpi</item>
+        <item>1280x720 tvdpi et 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Aucun</item>
