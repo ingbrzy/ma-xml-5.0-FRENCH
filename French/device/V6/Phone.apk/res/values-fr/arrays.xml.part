@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- à traduire 
+    <string-array name="call_reject_mode_entries">
+        <item>Off</item>
+        <item>All numbers</item>
+        <item>Auto reject list</item>
+    </string-array>
+    <string-array name="call_reject_dialog_array">
+        <item>Contacts</item>
+        <item>Call logs</item>
+    </string-array>
+    -->
+</resources>
