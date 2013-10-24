@@ -91,6 +91,7 @@
   <string name="auto_record_scenario_title_miui">Mode d\'enregistrement automatique</string>
   <string name="auto_record_whitelist_miui">Configuration des numéros choisis</string>
   <string name="auto_record_whitelist_no_item_miui">Appuyez sur le bouton du bas pour ajouter des numéros d\'enregistrement automatique</string>
+  <string name="auto_record_whitelist_summary_for_one_miui">1 numéro</string>
   <string name="auto_record_whitelist_summary_miui">%d numéros</string>
   <string name="auto_redial_pref_summary_miui">Recomposer automatiquement si la ligne est occupée</string>
   <string name="auto_redial_pref_title_miui">Recomposition automatique</string>
@@ -267,6 +268,7 @@
   <string name="confirm_pin_hint_miui">Confirmer le nouveau code PIN</string>
   <string name="connect_disconnect_vibrate_none_miui">Aucune vibration</string>
   <string name="connect_disconnect_vibrate_normal_miui">Vibreur</string>
+  <string name="connect_disconnect_vibrate_summary_miui">"Vibre quand la personne que vous appelez répond à l'appel"</string>
   <string name="connect_disconnect_vibrate_title_miui">Vibreur</string>
   <string name="connect_disconnect_vibrate_weak_miui">Vibration faible</string>
   <string name="connect_later">Impossible de se connecter à ce réseau pour le moment. Veuillez réessayer ultérieurement.</string>
@@ -789,6 +791,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">3G seulement</string>
   <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title_miui">Sélection du type de réseau</string>
+  <string name="preferred_network_type_group_title_miui">Réseau mobile (%s)</string>
   <string name="primary_account_summary_with">Compte principal. %s</string>
   <string name="private_num">Numéro privé</string>
   <string name="proceed">Procéder</string>

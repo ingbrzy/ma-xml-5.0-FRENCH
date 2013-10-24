@@ -395,6 +395,9 @@ Etes-vous sûr de vouloir autoriser le service données mobiles préféré ?"</s
   <string name="wrong_password">Erreur de mot de passe</string>
   
   <!-- à traduire : 
+  <string name="setting_for_3G_service">3G service</string>
+  <string name="ring_only_once_title">Ring only once</string>
+  <string name="ring_only_once_summary">Ring only once when choosing to accept a video call by voice call mode</string>
   <string name="call_silent_summary">Turn silent when incoming call</string>
   <string name="call_silent_title">Turn silent</string>
   <string name="end_call_because_can_not_hold">"End current call, because it can't be hold."</string>
