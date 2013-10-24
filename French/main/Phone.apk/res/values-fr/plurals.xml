@@ -12,4 +12,9 @@
     <item quantity="other">L\'action sélectionnée n\'est pas disponible en mode appel d\'urgence. Le téléphone sera dans ce mode pendant %s minutes. Voulez-vous en sortir maintenant ?</item>
     <item quantity="one">L\'action sélectionnée n\'est pas disponible en mode appel d\'urgence. Le téléphone sera dans ce mode pendant %s minute. Voulez-vous en sortir maintenant ?</item>
   </plurals>
+  <plurals name="numSelectedSimContacts">
+    <item quantity="other">" %1$d sélectionnés"</item>
+    <item quantity="zero">%1$d sélectionné</item>
+    <item quantity="one">%1$d sélectionné</item>
+  </plurals>
 </resources>
