@@ -146,7 +146,6 @@
   <string name="resource_selected">Sélection</string>
   <string name="resource_server_alert_dialog_title">Le service est actuellement indisponible</string>
   <string name="resource_server_out_of_service">Serveur indisponible, veuillez réessayer ultérieurement.</string>
-  <string name="resource_server_out_of_service">Serveur actuellement indisponible, veuillez réessayer plus tard.</string>
   <string name="resource_share_subject">Partager le thème : %1$s</string>
   <string name="resource_share_text">"Je pense que tu pourrais aimer ce thème : %1$s ! Lien : %2$s"</string>
   <string name="resource_share_title">Partager</string>
