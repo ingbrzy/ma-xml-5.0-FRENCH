@@ -1189,7 +1189,7 @@
   <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à %d reprises.\n\nVeuillez réessayer dans %d secondes.</string>
   <string name="kg_failed_attempts_almost_at_wipe" formatted="false">"Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d'usine sera rétablie, et toutes les données utilisateur seront perdues."</string>
   <string name="kg_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie.</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à %d reprises. Si vous échouez encore %d fois, vous devrez déverrouiller votre téléphone à l\'aide d'un compte de messagerie électronique.\n\n Veuillez réessayer dans %d secondes.</string>
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à %d reprises. Si vous échouez encore %d fois, vous devrez déverrouiller votre téléphone à l\'aide d\'un compte de messagerie électronique.\n\n Veuillez réessayer dans %d secondes.</string>
   <string name="kg_text_message_separator">" — "</string>
   <string name="kg_reordering_delete_drop_target_text">Supprimer</string>
   <string name="safe_media_volume_warning">Augmenter le volume au-dessus du niveau de sécurité ? \nL\'écoute à un volume élevé pendant des périodes prolongées peut endommager votre audition.</string>
