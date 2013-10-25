@@ -27,7 +27,7 @@
     <item>"Compte"</item>
   </string-array>
   <string-array name="app_type_desc">
-    <item>"Données "</item>
+    <item>"Données"</item>
     <item>"Application"</item>
     <item>"Application et données"</item>
   </string-array>

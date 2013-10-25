@@ -7,7 +7,7 @@
   <string name="app_name">Sauvegarde</string>
   <string name="auto_backup">Sauvegarde automatique</string>
   <string name="auto_backup_all_user_apps">Toutes les applications</string>
-  <string name="auto_backup_choose">Choix de sauvegarde</string>
+  <string name="auto_backup_choose">Éléments à sauvegarder</string>
   <string name="auto_backup_choose_empty">Pas de sauvegarde</string>
   <string name="auto_backup_choose_title">Choisir les éléments à sauvegarder</string>
   <string name="auto_backup_date">Jours de sauvegarde</string>
@@ -81,7 +81,7 @@
   <string name="cloud_app_restore_error">La restauration a échoué !</string>
   <string name="cloud_app_restore_pending">En attente de restauration...</string>
   <string name="cloud_app_restore_progress">Restauration...</string>
-  <string name="cloud_app_restore_prompt">La restauration écrasera les données utilisateur locales par ceux sauvegardées dans le cloud</string>
+  <string name="cloud_app_restore_prompt">La restauration écrasera les données utilisateur locales par celles sauvegardées dans le cloud</string>
   <string name="cloud_app_restore_query_error_prompt">Impossible de recevoir des données de MiCloud. Les apps et données utilisateur seront restaurées automatiquement lorsque la connexion sera rétablie.</string>
   <string name="cloud_app_restore_success">Apps restaurées !</string>
   <string name="cloud_app_restore_summary">Restaure les applications précédemment installées et les données utilisateur associées</string>
@@ -113,7 +113,7 @@
   <string name="delete_backup_process">Suppression de sauvegarde(s)…</string>
   <string name="delete_failed_backup_confirm">La sauvegarde contient une erreur, vous ne pouvez pas restaurer cette sauvegarde</string>
   <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
-  <string name="disable_encrypt_title">Cryptage désactivé</string>
+  <string name="disable_encrypt_title">Désactiver le cryptage</string>
   <string name="enable_encrypt">Activer maintenant</string>
   <string name="enable_encrypt_fail">L\'activation du cryptage a échoué</string>
   <string name="enable_encrypt_indicator">La sauvegarde n\'est pas chiffrée, appuyez pour activer le chiffrement.</string>
@@ -155,10 +155,10 @@
   <string name="no_network">Erreur réseau\nVérifiez la connexion du réseau et réessayez</string>
   <string name="note_title">Notes</string>
   <string name="nothing_searched">Aucun résultat trouvé</string>
-  <string name="progress_backup_hint">Sauvegarde :\u0020</string>
-  <string name="progress_restore_hint">Restauration :\u0020</string>
+  <string name="progress_backup_hint">"Sauvegarde : "</string>
+  <string name="progress_restore_hint">"Restauration : "</string>
   <string name="prompt_reading">Lecture…</string>
-  <string name="prompt_sending">Téléchargement…</string>
+  <string name="prompt_sending">Envoi…</string>
   <string name="prompt_writing">Enregistrement…</string>
   <string name="read_encrypt_fail">Le chiffrement de lecture a échoué</string>
   <string name="refresh">Rafraîchir</string>
@@ -210,9 +210,9 @@
   <string name="task_failed_local">La tâche %s n\'a pas réussi à s\'achever</string>
   <string name="task_finished">Terminé</string>
   <string name="task_local_backup_cancel_dialog">La sauvegarde n\'est pas encore terminée\nAppuyez sur OK pour annuler cette tâche</string>
-  <string name="task_pending">En attente</string>
-  <string name="task_post_running">Post-traitement</string>
-  <string name="task_pre_running">Préparation</string>
+  <string name="task_pending">En attente…</string>
+  <string name="task_post_running">Post-traitement…</string>
+  <string name="task_pre_running">Préparation…</string>
   <string name="task_progress">Progression</string>
   <string name="task_restore_cancel_dialog">La restauration n\'est pas terminée\nl\'annulation de la restauration peut provoquer une corruption des données</string>
   <string name="task_restore_cancel_progress">Annulation en cours…</string>
@@ -229,6 +229,6 @@
   <string name="total_num">%d enregistrement(s) au total</string>
   <string name="unit_byte">" octets"</string>
   <string name="unit_piece">" élément(s)"</string>
-  <string name="unknown_hint">Non disponible</string>
+  <string name="unknown_hint">Inconnu</string>
   <string name="wifi_title">Paramètres Wi-Fi</string>
 </resources>

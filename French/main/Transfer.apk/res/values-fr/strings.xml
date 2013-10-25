@@ -67,9 +67,7 @@
   <string name="finish">Terminé</string>
   <string name="first_in_tip">Utilisation de Transfert pour la première fois</string>
   <string name="from_kuaipan">De MiCloud</string>
- <!--
-  <string name="generate_share_link_failed">Generating shared connection failed!</string>
- -->
+  <string name="generate_share_link_failed">La génération du lien de partage à échouée !</string>
   <string name="generating_share_link">Création d\'un lien de partage ...</string>
   <string name="get_share_failed">Le partage a échoué !</string>
   <string name="goback">Retour</string>

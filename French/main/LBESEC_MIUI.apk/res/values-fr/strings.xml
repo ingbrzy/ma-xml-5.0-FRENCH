@@ -127,7 +127,7 @@
   <string name="HIPS_Perm_PhoneID_Number">Obtenir votre numéro de téléphone</string>
   <string name="HIPS_Perm_PromptAll">Tout accepter</string>
   <string name="HIPS_Perm_ROOT">ROOT</string>
-  <string name="HIPS_Perm_ROOT_Desc">Demander la permission ROOT</string>
+  <string name="HIPS_Perm_ROOT_Desc">Gérer les autorisations ROOT</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Non disponible dans la version Stable MIUI</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s applications sont autorisées à obtenir la permission ROOT</string>
   <string name="HIPS_Perm_ROOT_Title">Obtenir la permission ROOT</string>
@@ -136,10 +136,10 @@
   <string name="HIPS_Perm_SMS_Access">Lire votre boîte de réception SMS</string>
   <string name="HIPS_Perm_SMS_Desc">Accéder à votre boîte de réception SMS</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s applications ont la permission d\'accéder à votre boîte de réception SMS</string>
-  <string name="HIPS_Perm_SendSMS">Envoyer un SMS</string>
+  <string name="HIPS_Perm_SendSMS">Envoi de SMS</string>
   <string name="HIPS_Perm_SendSMS_Content">Contenu :</string>
   <string name="HIPS_Perm_SendSMS_Data">envoyer un SMS à %1$s:%2$d</string>
-  <string name="HIPS_Perm_SendSMS_Desc">Envoyer un SMS directement</string>
+  <string name="HIPS_Perm_SendSMS_Desc">Envoyer des SMS directement</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s applications ont la permission d\'envoyer des SMS</string>
   <string name="HIPS_Perm_SendSMS_Port">Port de destination :</string>
   <string name="HIPS_Perm_SendSMS_Recipient">Destinataire :</string>

@@ -31,7 +31,7 @@
   <string name="dlg_retore">Restaurer vers l\'application de messagerie ?</string>
   <string name="dlg_retore_ok">Restaurer</string>
   <string name="fw_blocked">Statistiques de blocage</string>
-  <string name="fw_blocked_count" formatted="false">Intercepté : %d appels et %d messages</string>
+  <string name="fw_blocked_count" formatted="false">Bloqué : %d appel(s) et %d message(s)</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">%d personnes l\'ont marqué comme</string>
   <string name="marked_by_user">marqué par l\'utilisateur</string>
@@ -96,8 +96,8 @@
   <string name="st_block_title">Bloquer et enregistrer</string>
   <string name="st_block_unknown_call">Bloquer les appels inconnus</string>
   <string name="st_block_unknown_sms">Bloquer les messages inconnus</string>
-  <string name="st_call_group">Appeler</string>
-  <string name="st_common_setting_group">Aperçu rapide</string>
+  <string name="st_call_group">Appels</string>
+  <string name="st_common_setting_group">Paramètres de filtrage</string>
   <string name="st_filter_keywords_setting_summary1">Les messages provenant de numéros inconnus et contenant les mots clés suivants seront bloqués.</string>
   <string name="st_filter_keywords_setting_summary2">Vous pouvez en ajouter plusieurs à la fois, en les séparant par une virgule</string>
   <string name="st_filter_keywords_setting_title">Définir les mots clés filtrants</string>
@@ -111,13 +111,13 @@
   <string name="st_show_block_notification">Afficher les notifications de blocage</string>
   <string name="st_sms_group">Messages</string>
   <string name="tab_blacklist">Liste noire</string>
-  <string name="tab_block_log">Pare-feu</string>
+  <string name="tab_block_log">Journal</string>
   <string name="tab_block_log_unKnowNumber">Numéro inconnu</string>
   <string name="tab_call">Appels</string>
   <string name="tab_sms">Messages</string>
   <string name="tab_title">Anti-Spam</string>
   <string name="toast_keyword_blank">Le mot clé est vide</string>
-  <string name="toast_keyword_exist">Le mot clé %s existe déjà</string>
+  <string name="toast_keyword_exist">Le mot clé \"%s\" existe déjà</string>
   <string name="toast_keyword_invalid">Mot clé invalide</string>
   <string name="twelve_hour_time_format">a h:mm</string>
   <string name="twenty_four_hour_time_format">HH:mm</string>
