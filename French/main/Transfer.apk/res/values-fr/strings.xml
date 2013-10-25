@@ -24,12 +24,11 @@
   <string name="complete">Terminé !</string>
   <string name="confirm">Confirmer</string>
   <string name="connect_confirm">%1$s requiert une connexion</string>
-  <string name="trasfer_list">Liste de transfert</string>
   <string name="connecting">Connexion</string>
   <string name="continue_to_send">Poursuivre l\'envoi</string>
   <string name="defalut_nameofnewfile">Nouveau dossier</string>
   <string name="delete">Supprimer</string>
-  <string name="delete_history_message">Êtes-vous sûr de vouloir effacer toute l'historique ?</string>
+  <string name="delete_history_message">Êtes-vous sûr de vouloir effacer tout l\'historique ?</string>
   <string name="device_default_name">Téléphone Xiaomi</string>
   <string name="device_name">Nom de l\'appareil</string>
   <string name="device_name_tip">Appuyez sur À propos du téléphone, puis éditez le nom de l\'appareil.</string>
