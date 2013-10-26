@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="Ntracks_remove_from_favorite_playlist">
-    <item quantity="other">%d chansons retirées de la playlist</item>
-    <item quantity="one">1 chanson retirée de la playlist</item>
+    <item quantity="other">%d chansons retirées de la liste de lecture.</item>
+    <item quantity="one">1 chanson retirée de la liste de lecture.</item>
   </plurals>
   <plurals name="Ntracks_search_result_format">
     <item quantity="one">%d chanson associée</item>
@@ -56,6 +56,10 @@
     <item quantity="one">1 titre ajouté à la liste de lecture.</item>
     <item quantity="other">%d titres ajoutés à la liste de lecture.</item>
   </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d chansons retirées de la liste de lecture.</item>
+        <item quantity="one">1 chanson retirée de la liste de lecture.</item>
+    </plurals>
   <plurals name="NNNtrackstofavoriteplaylist">
     <item quantity="one">1 chanson ajoutée à la liste de lecture.</item>
     <item quantity="other">%d chansons ajoutées à la liste de lecture.</item>
@@ -64,6 +68,10 @@
     <item quantity="one">" catégorie"</item>
     <item quantity="other">" catégories"</item>
   </plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">%d résultats</item>
+        <item quantity="one">%d résultat</item>
+    </plurals>
   <plurals name="album_details_format">
     <item quantity="one">%1$s, %2$d chanson</item>
     <item quantity="other">%1$s, %2$d chansons</item>

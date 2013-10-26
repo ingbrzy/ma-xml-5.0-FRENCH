@@ -90,9 +90,9 @@
   <string name="bookmarks_management">Favoris</string>
   <string name="bookmarks_root_folder">Dossier racine</string>
   <string name="bookmarks_search">Navigateur</string>
-  <string name="bottom_bar_tabs_long_click_down_tip_txt">Glisser vers le bas pour fermer</string>
+  <string name="bottom_bar_tabs_long_click_down_tip_txt">Glisser bas pour fermer</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Dernier onglet</string>
-  <string name="bottom_bar_tabs_long_click_up_tip_txt">Glisser vers le haut pour fermer</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Glisser haut pour fermer</string>
   <string name="browserFrameFileErrorLabel">Problème de fichier</string>
   <string name="browserFrameFormResubmitMessage">"La page que vous tentez d'afficher contient des données qui ont déjà été envoyées ("POSTDATA"). Si vous les renvoyez, toute action effectuée par le formulaire sur la page exécutée (telle que les recherches ou les achats en ligne) sera répétée."</string>
   <string name="browserFrameNetworkErrorLabel">Problème de connexion</string>
@@ -119,10 +119,10 @@
   <string name="common_use_phrase_bottom_bar_paste_txt">Coller</string>
   <string name="common_use_phrase_bottom_bar_point_txt">.</string>
   <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
-  <string name="common_use_phrase_bottom_bar_up_analytic_txt">Dévelloper</string>
+  <string name="common_use_phrase_bottom_bar_up_analytic_txt">Développer</string>
   <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="containing_folder">Ajouter à</string>
-  <string name="contextheader_folder_bookmarkcount" formatted="false">%d favori(s)</string>
+  <string name="contextheader_folder_bookmarkcount">%d favori(s)</string>
   <string name="contextheader_folder_empty">Dossier vide</string>
   <string name="contextmenu_add_contact">Ajouter un contact</string>
   <string name="contextmenu_copy">Copier</string>
@@ -147,7 +147,7 @@
   <string name="defaultBookmarksUpButton">Favoris</string>
   <string name="delete">Supprimer</string>
   <string name="delete_bookmark">Supprimer le favori</string>
-  <string name="delete_bookmark_warning" formatted="false">Supprimer le favori "%s" ?</string>
+  <string name="delete_bookmark_warning">Supprimer le favori \"%s\" ?</string>
   <string name="delete_folder">Supprimer le dossier</string>
   <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
   <string name="disable_autofill">Désactiver la saisie automatique</string>
@@ -164,7 +164,7 @@
   <string name="download_dialog_file_length_nolength_error_txt">Échec du calcul de la taille du fichier</string>
   <string name="download_dialog_file_length_nolength_txt">Calcul de la taille du fichier</string>
   <string name="download_failed">Le téléchargement a échoué</string>
-  <string name="download_no_sdcard_dlg_msg" formatted="false">Une mémoire de stockage USB est requise pour télécharger %s.</string>
+  <string name="download_no_sdcard_dlg_msg">Une mémoire de stockage USB est requise pour télécharger %s.</string>
   <string name="download_no_sdcard_dlg_title">Mémoire USB non disponible</string>
   <string name="download_pending">Début du téléchargement…</string>
   <string name="download_sdcard_busy_dlg_msg">La mémoire de stockage USB n\'est pas disponible. Pour autoriser les téléchargements, appuyez sur "Désactiver la mémoire de stockage USB" dans les notifications.</string>
@@ -181,7 +181,7 @@
   <string name="download_video_start_down_toast">Télécharger %1$s vidéo(s)</string>
   <string name="download_video_unseleted_all">Tout désélectionner</string>
   <string name="downloaded">Téléchargé</string>
-  <string name="downloading">En cours de téléchargement</string>
+  <string name="downloading">En cours de téléchargement…</string>
   <string name="dump_counters">Compteurs de vidage V8</string>
   <string name="dump_display_tree">Afficher l\'arborescence du fichier de dump</string>
   <string name="dump_dom_tree">Dump de l\'arborescence DOM au fichier</string>
@@ -218,7 +218,7 @@
   <string name="general_set_default_browser_dialog_summary">Utilisez les applications intégrées à MIUI pour de meilleures performances</string>
   <string name="general_set_default_browser_title">Définir comme navigateur par défaut</string>
   <string name="geolocation_permissions_prompt_dont_share">Refuser</string>
-  <string name="geolocation_permissions_prompt_message" formatted="false">%s souhaite connaître votre position géographique.</string>
+  <string name="geolocation_permissions_prompt_message">%s souhaite connaître votre position géographique.</string>
   <string name="geolocation_permissions_prompt_remember">Mémoriser les préférences</string>
   <string name="geolocation_permissions_prompt_share">Partager ma position</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Ce site peut accéder à vos données de localisation. Modifiez ceci dans Paramètres &gt; Avancés &gt; Paramètres du site Web.</string>
@@ -245,11 +245,11 @@
   <string name="import_bookmark_failure">Échec de l\'importation des favoris !</string>
   <string name="import_bookmark_sucess">Favoris importés avec succès</string>
   <string name="import_bookmarks_dialog_add">Ajouter les favoris au compte Google</string>
-  <string name="import_bookmarks_dialog_confirm_add" formatted="false">Ajouter les favoris de cet appareil et démarrer la synchronisation avec les favoris du compte %s</string>
-  <string name="import_bookmarks_dialog_confirm_delete" formatted="false">Supprimer les favoris de cet appareil et démarrer la synchronisation avec les favoris du compte %s ?</string>
+  <string name="import_bookmarks_dialog_confirm_add">Ajouter les favoris de cet appareil et démarrer la synchronisation avec les favoris du compte %s</string>
+  <string name="import_bookmarks_dialog_confirm_delete">Supprimer les favoris de cet appareil et démarrer la synchronisation avec les favoris du compte %s ?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Supprimer les favoris de cet appareil et démarrer la synchronisation avec le compte Google</string>
   <string name="import_bookmarks_dialog_description">"Les favoris de cet appareil ne sont pas encore associés à un compte Google. Enregistrez-les en les ajoutant à un compte. Supprimez-les si vous ne souhaitez pas les synchroniser."</string>
-  <string name="import_bookmarks_dialog_import" formatted="false">Ajouter vos favoris Android à ceux de %s</string>
+  <string name="import_bookmarks_dialog_import">Ajouter vos favoris Android à ceux de %s</string>
   <string name="import_bookmarks_dialog_remove">Supprimer les favoris</string>
   <string name="import_bookmarks_dialog_select_add_account">Ajouter les favoris de cet appareil et démarrer la synchronisation avec le compte Google</string>
   <string name="import_bookmarks_dialog_title">Synchronisation avec un compte Google</string>
@@ -330,7 +330,7 @@
   <string name="pref_autofill_enabled_summary">Remplir les formulaires Web en un seul geste</string>
   <string name="pref_autofill_profile_editor">Texte de saisie automatique</string>
   <string name="pref_autofill_profile_editor_summary">Définir le texte à saisir automatiquement dans les formulaires Web</string>
-  <string name="pref_autologin_progress" formatted="false">Connexion à Google Sites avec le compte %s</string>
+  <string name="pref_autologin_progress">Connexion à Google Sites avec le compte %s</string>
   <string name="pref_autologin_progress_in_background">Connexion aux sites Google utilisant %s en arrière-plan</string>
   <string name="pref_autologin_title">Connexion automatique à Google</string>
   <string name="pref_clear_cache_for_exit">Effacer le cache en quittant</string>
@@ -428,7 +428,7 @@
   <string name="pref_link_prefetch_title">Préchargement des pages Web</string>
   <string name="pref_link_prefetch_value_never_summary">Ne jamais autoriser le navigateur à précharger des pages web liées en arrière-plan</string>
   <string name="pref_min_font_size">Taille de police minimale</string>
-  <string name="pref_min_font_size_value" formatted="false">%d pt</string>
+  <string name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Vider le cache</string>
   <string name="pref_privacy_clear_cache_dlg">Supprimer les bases de données et le contenu mis en cache localement ?</string>
   <string name="pref_privacy_clear_cache_summary">Supprimer les bases de données et le contenu localement en cache</string>
@@ -555,7 +555,7 @@
   <string name="share_page">Partager la page</string>
   <string name="shortcut_bookmark">Favori</string>
   <string name="shortcut_bookmark_title">Sélectionner un favori</string>
-  <string name="sign_in_to" formatted="false">Connectez-vous à %s1 "%s2"</string>
+  <string name="sign_in_to" formatted="false">Connectez-vous à %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Échec enregistrement pour lecture hors connexion."</string>
   <string name="snapshot_go_live">Version en ligne</string>
   <string name="ssl_continue">Continuer</string>
