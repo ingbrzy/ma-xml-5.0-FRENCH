@@ -58,20 +58,6 @@
         <item>Haut</item>
         <item>Très haut</item>
     </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Recherche…</item>
@@ -452,5 +438,10 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Modèle</item> 
         <item>Mot de passe numérique</item> 
         <item>Mot de passe mixte</item> 
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Demander</item>
+        <item>Ne jamais autoriser</item>
+        <item>Toujours autoriser</item>
     </string-array>
 </resources>

@@ -909,13 +909,13 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="floating_window_switch_label">Afficher la fenêtre pop-up</string>
   <string name="floating_window_switch_label_disable">Masquer la fenêtre pop-up</string>
   <string name="font_size_huge">Énorme</string>
-  <string name="font_size_large">Grand</string>
+  <string name="font_size_large">Grande</string>
   <string name="font_size_medium">Moyenne</string>
   <string name="font_size_normal">Standard</string>
   <string name="font_size_preview">MIUI</string>
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
-  <string name="font_size_small">Petit</string>
+  <string name="font_size_small">Petite</string>
   <string name="font_size_summary">Modifier la taille du texte dans les applications suivantes : </string>
   <string name="force_hw_ui">Forcer le rendu GPU</string>
   <string name="force_hw_ui_summary">Forcer l\'utilisation du GPU pour le dessin 2D</string>
