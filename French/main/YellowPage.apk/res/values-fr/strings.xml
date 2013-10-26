@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_smart_antispam_summary">À propos de la détection de numéros inconnus</string>
+  <string name="about_smart_antispam_summary">À propos de l\'identification de numéros inconnus</string>
   <string name="about_telephone_fraud">À propos de la fraude téléphonique</string>
   <string name="agree">Accepter</string>
   <string name="all_numbers">Tous les numéros</string>

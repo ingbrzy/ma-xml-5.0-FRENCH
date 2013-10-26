@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="account_abnormal_state">Erreur d\'informations du compte, veuillez réessayer.</string>
+  <string name="account_abnormal_state">Erreur avec le compte, veuillez réessayer plus tard.</string>
   <string name="all_resources">Tout</string>
   <string name="all_ringtone_resource">Tout</string>
   <string name="app_name">Thèmes</string>
-  <string name="apply_font_btn_exclude">Appliquer sans la police d\'écriture</string>
-  <string name="apply_font_btn_reboot">Appliquer et redémarrer</string>
+  <string name="apply_font_btn_exclude">Appl. sans police</string>
+  <string name="apply_font_btn_reboot">Redémarrer</string>
   <string name="apply_font_tip">Le thème contient une police, un redémarrage est nécessaire pour l\'appliquer.</string>
   <string name="apply_lockscreen_paper_tips">"Le fond d'écran de verrouillage est en cours d'utilisation et ne peut pas être changé, le nouveau fond d'écran de verrouillage ne sera pas visible."</string>
   <string name="apply_theme_no_select_message">Veuillez sélectionner des composants.</string>
   <string name="backup_preference_title">Sauvegarder le thème</string>
-  <string name="backup_theme_dialog_message">"Sauvegarder ce thème dans %1$s"</string>
-  <string name="backup_theme_dialog_ok">Sauvegarde</string>
+  <string name="backup_theme_dialog_message">"Sauvegarder le thème courant ?"</string>
+  <string name="backup_theme_dialog_ok">Sauvegarder</string>
   <string name="backup_theme_name">Ma sauvegarde</string>
   <string name="backup_theme_progress_message">Sauvegarde du thème en cours, veuillez patienter…</string>
   <string name="backup_theme_success_message">Le thème a été sauvegardé avec succès !</string>
@@ -39,7 +39,7 @@
   <string name="download_success">Téléchargé avec succès</string>
   <string name="fail_to_add_account">Impossible d\'ajouter le compte</string>
   <string name="live_wallpaper">Fond d\'écran animé</string>
-  <string name="loading">Chargement en cours…</string>
+  <string name="loading">Chargement…</string>
   <string name="loading_resource_detail_fail">Impossible de charger la ressource !</string>
   <string name="loading_resource_detail_info">Chargement…</string>
   <string name="lockscreen_wallpaper">Écran de verrouillage</string>
@@ -74,8 +74,8 @@
   <string name="resource_comment_edit_comment">Ajouter un commentaire</string>
   <string name="resource_comment_edit_comment_waiting">Vérifie si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
-  <string name="resource_comment_edit_title">Commentaire : %1$s</string>
-  <string name="resource_comment_entry_tips">%1$s commentaires, appuyez pour lire</string>
+  <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
+  <string name="resource_comment_entry_tips">%1$s commentaires, appuyer pour lire</string>
   <string name="resource_comment_expand_full_text">Développer intégralement le texte</string>
   <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
   <string name="resource_comment_good_comments">Positifs</string>
@@ -92,7 +92,7 @@
   <string name="resource_comment_upload_hint">Les commentaires seront affichés après avoir été examinés.</string>
   <string name="resource_comment_upload_not_bought">Vous devez appliquer le thème avant de commenter.</string>
   <string name="resource_comment_upload_not_logined">Veuillez vous connecter d\'abord</string>
-  <string name="resource_comment_upload_success">Commentaire envoyé ! Il s\'affichera une fois vérifié</string>
+  <string name="resource_comment_upload_success">Commentaire envoyé ! Il s\'affichera une fois vérifié.</string>
   <string name="resource_comment_version_name">(version %1$s)</string>
   <string name="resource_default">Sonnerie par défaut</string>
   <string name="resource_default_name">Ressource</string>
@@ -130,7 +130,7 @@
   <string name="resource_online">%1$s en ligne</string>
 <!-- à traduire 
   <string name="resource_pack_confirm">You have already purchased %1$d items, but the current price is still better than individually purchasing left items, would you like to continue?</string>
-  <string name="resource_pack_discount_info">%1$s Saved!</string>
+  <string name="resource_pack_discount_info">%1$s Saved!</string>  Économisé(s?) ?
   <string name="resource_pack_price_info">%1$s Original</string>
   <string name="resource_pack_warning">Warning! you have already purchased %1$d items, current price is no longer valid for left items, please purchase them individually.</string>
 -->
@@ -167,7 +167,7 @@
   <string name="short_ringtone_resource">Court(&lt;5s)</string>
   <string name="theme_another_import_running">L\'importation est déjà en cours, veuillez patienter et réessayer</string>
   <string name="theme_batch_has_update_text">%1$d nouvelle(s) version(s) de thème</string>
-  <string name="theme_batch_update_all">Mettre à jour</string>
+  <string name="theme_batch_update_all">Tout mettre à jour</string>
   <string name="theme_batch_update_dlg_content">Voulez-vous mettre à jour maintenant ?</string>
   <string name="theme_batch_update_dlg_content_single">Mettre à jour maintenant ?</string>
   <string name="theme_batch_update_dlg_title">Mise à jour</string>
@@ -220,16 +220,16 @@
   <string name="theme_import_oper_start">Tout mettre à jour</string>
   <string name="theme_import_oper_stop">Annuler</string>
   <string name="theme_import_oper_stop_request_content">Le thème doit être mis à jour pour être fonctionnel. Souhaitez-vous annuler la mise à jour ?</string>
-  <string name="theme_import_preparing">Analyse des thèmes locaux</string>
+  <string name="theme_import_preparing">Analyse des thèmes locaux…</string>
   <string name="theme_import_stoping">Arrêt en cours…</string>
   <string name="theme_importing">Importation du thème en cours…</string>
-  <string name="theme_is_imported">Thème importé</string>
+  <string name="theme_is_imported">Thème importé.</string>
   <string name="theme_name">%1$s</string>
-  <string name="theme_sdcard_importing">Importation en cours</string>
+  <string name="theme_sdcard_importing">Importation en cours…</string>
   <string name="theme_select_others">Autres</string>
   <string name="theme_upgrade_request_cancel">Annuler</string>
   <string name="theme_upgrade_request_content">Vos thèmes locaux devraient être convertis pour en améliorer l\'efficacité. Ceci peut prendre quelques minutes et le téléphone pourrait sembler bloqué. Convertir les thèmes maintenant ?</string>
-  <string name="theme_upgrade_request_title">Le thème doit être mis à jour</string>
+  <string name="theme_upgrade_request_title">Des mises à jour de thèmes sont disponibles</string>
   <string name="theme_upgrade_request_yes">OK</string>
   <string name="third_party_pickers_activity_title">Définir %1$s</string>
   <string name="title_component">Mixer</string>

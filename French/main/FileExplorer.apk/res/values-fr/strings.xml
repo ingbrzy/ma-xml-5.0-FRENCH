@@ -269,8 +269,8 @@ Obtenez de l\'espace gratuit %1$s"</string>
   <string name="trash_box_link">Visitez pan.xiaomi.com pour vider la corbeille</string>
   <string name="trash_box_message1">Vous pouvez supprimer des fichiers non importants pour libérer de l\'espace</string>
   <string name="trash_box_message2">Vous pouvez supprimer des fichiers ou vider la corbeille pour libérer de l\'espace</string>
-  <string name="ui_bar_txt_download_progress">Téléchargement…</string>
-  <string name="ui_bar_txt_upload_progress">Téléchargement…</string>
+  <string name="ui_bar_txt_download_progress">Téléchargement de %1$d fichier(s) en cours…</string>
+  <string name="ui_bar_txt_upload_progress">Envoi de %1$d fichier(s) en cours…</string>
   <string name="ui_filechange_btn_download">Télécharger les fichiers</string>
   <string name="ui_filechange_btn_upload">Envoyer des fichiers</string>
   <string name="ui_main_menu_option_sign_in">Se connecter</string>
@@ -293,7 +293,7 @@ Obtenez de l\'espace gratuit %1$s"</string>
   <string name="utf8_summary">Codage par défaut</string>
   <string name="utf8_title">UTF-8</string>
   <string name="version_text">version %1$s</string>
-  <string name="wait_net">En attente de réseau</string>
+  <string name="wait_net">En attente du réseau</string>
   <string name="wait_sdcard">En attente du montage de la carte SD</string>
   <string name="wait_wifi">En attente d\'une connexion Wi-Fi</string>
   <string name="waiting">En attente…</string>
