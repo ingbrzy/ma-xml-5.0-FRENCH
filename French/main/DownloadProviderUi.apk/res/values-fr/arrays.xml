@@ -2,6 +2,7 @@
 <resources>
     <string-array name="prefEntries_max_bytes_limit">
         <item>1Go</item> 
+        <item>200Mo</item> 
         <item>100Mo</item> 
         <item>50Mo</item> 
         <item>20Mo</item>
@@ -11,10 +12,11 @@
         <item>1Mo</item>
         <item>500Ko</item>
         <item>200Ko</item>
-        <item>100Ko</item>
+        <item>Toujours</item>
     </string-array>
-	<string-array name="prefValues_max_bytes_limit">
+    <string-array name="prefValues_max_bytes_limit">
         <item>1048576000</item>
+        <item>209715200</item>
         <item>104857600</item>
         <item>52428800</item>
         <item>20971520</item>
@@ -24,7 +26,6 @@
         <item>1048576</item>
         <item>512000</item>
         <item>204800</item>
-        <item>102400</item>
         <item>0</item>
     </string-array>
  </resources>
