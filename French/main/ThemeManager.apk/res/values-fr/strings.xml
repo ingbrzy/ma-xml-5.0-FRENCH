@@ -20,7 +20,6 @@
   <string name="component_category_finest_title">Principaux</string>
   <string name="component_category_more_title">Plus</string>
   <string name="component_include_title">Contient %1$s composants</string>
-  <string name="component_lockstyle_personal_title">Paramètres</string>
   <string name="component_select_title">%1$s composants sélectionnés</string>
   <string name="component_settings_title">Personnaliser le thème</string>
   <string name="default_name">Par défaut</string>
@@ -48,11 +47,8 @@
   <string name="maml_component_customization_title">Paramètres des composants</string>
   <string name="menu_refresh">Rafraîchir</string>
   <string name="mi_wallpaper">Fond d\'écran</string>
-  <string name="mi_wallpaper_loading">Chargement du fond d\'écran…</string>
-  <string name="mi_wallpaper_title">Fond d\'écran</string>
   <string name="online_no_network">Impossible de se connecter au réseau</string>
   <string name="online_search_hint">Recherche de ressources en ligne</string>
-  <string name="processing">Traitement…</string>
   <string name="resource_alarm_default">Alarme</string>
   <string name="resource_app_name">Navigateur de ressources</string>
   <string name="resource_apply">Appliquer</string>
@@ -68,9 +64,8 @@
   <string name="resource_comment_all_comments">Tous</string>
   <string name="resource_comment_average_score">Moyenne</string>
   <string name="resource_comment_bad_comments">Négatifs</string>
-  <string name="resource_comment_count">%1$s notes et %2$s commentaires (version %3$s)</string>
   <string name="resource_comment_current_version">Version actuelle</string>
-  <string name="resource_comment_description">Commentaire de %1$s, le %4$s/%3$s/%2$s</string>
+  <string name="resource_comment_date">%2$02d-%1$02d</string>
   <string name="resource_comment_edit_comment">Ajouter un commentaire</string>
   <string name="resource_comment_edit_comment_waiting">Vérifie si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
@@ -80,7 +75,7 @@
   <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
   <string name="resource_comment_good_comments">Positifs</string>
   <string name="resource_comment_invalid">Veuillez toucher les étoiles pour donner une note</string>
-  <string name="resource_comment_name_default">l\'utilisateur %1$s</string>
+  <string name="resource_comment_name_default">Utilisateur %1$s</string>
   <string name="resource_comment_no_average_score">Aucune note</string>
   <string name="resource_comment_no_comment">Aucun commentaire</string>
   <string name="resource_comment_publish">Envoyer</string>
@@ -93,7 +88,6 @@
   <string name="resource_comment_upload_not_bought">Vous devez appliquer le thème avant de commenter.</string>
   <string name="resource_comment_upload_not_logined">Veuillez vous connecter d\'abord</string>
   <string name="resource_comment_upload_success">Commentaire envoyé ! Il s\'affichera une fois vérifié.</string>
-  <string name="resource_comment_version_name">(version %1$s)</string>
   <string name="resource_default">Sonnerie par défaut</string>
   <string name="resource_default_name">Ressource</string>
   <string name="resource_delete_all">Êtes-vous sûr de vouloir supprimer les %1$d ressources sélectionnées ?</string>
@@ -161,8 +155,6 @@
   <string name="ringtone_volume_mute">La sonnerie est actuellement en mode silencieux.</string>
   <string name="sdcard_not_mounted_dialog_message">"Carte SD non disponible, veuillez en ajouter une."</string>
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
-  <string name="sdcard_status_changed_dialog_message">"L'application va se fermer, veuillez la rouvrir pour actualiser les ressources."</string>
-  <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
   <string name="selected_resource_file_invalid">Le fichier sélectionné est invalide.</string>
   <string name="short_ringtone_resource">Court(&lt;5s)</string>
   <string name="theme_another_import_running">L\'importation est déjà en cours, veuillez patienter et réessayer</string>

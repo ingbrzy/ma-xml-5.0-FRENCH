@@ -20,7 +20,6 @@
   <string name="confirm_to_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
   <string name="contact_detail_calllog_call_note_tips">Notes d\'appel</string>
   <string name="contact_detail_calllog_call_record_tips">journal d\'appels</string>
-  <string name="correction">Correction</string>
   <string name="custom_mark_category">Personnalisé</string>
   <string name="data_error">Désolé, le service n\'est pas disponible, veuillez réessayer plus tard</string>
   <string name="delete">Supprimer</string>
@@ -35,7 +34,6 @@
   <string name="login_ok">Se connecter</string>
   <string name="mark_number_custom_dialog_maintitle">Accepter ou corriger la marque</string>
   <string name="mark_number_dialog_maintitle">Marquer comme numéro de spam et l\'envoyer</string>
-  <string name="mark_number_dialog_subtitle">Développé conjointement avec Sogou</string>
   <string name="menu_about_yellow_page">À propos de cette page</string>
   <string name="menu_add_black_list">Ajouter à la liste noire</string>
   <string name="menu_call_ip_number">Composer un appel IP (composer %s)</string>

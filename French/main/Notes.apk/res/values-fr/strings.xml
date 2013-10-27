@@ -10,8 +10,6 @@
   <string name="alert_message_delete_notes">Êtes-vous sûr de vouloir supprimer les %1$s notes sélectionnées ?</string>
   <string name="alert_message_discard_changes">Ignorer toutes les modifications ?</string>
   <string name="alert_message_edit_anyway">La note contient un contenu non supporté, l\'éditer pourrait engendrer une perte de données.</string>
-  <string name="alert_title_delete">Supprimer les notes sélectionnées</string>
-  <string name="alert_title_discard">Ignorer les modifications ?</string>
   <string name="alert_title_edit_anyway">Confirmer l\'édition de la note qui pourrait engendrer une perte de données.</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
@@ -35,8 +33,6 @@
   <string name="error_unsupport_content">Cette note contient un contenu non supporté, appuyez pour mettre à jour le système</string>
   <string name="error_widget_exist_for_send_to_desktop">Cette note existe déjà sur l\'écran d\'accueil</string>
   <string name="failed_sdcard_export">Export échoué</string>
-  <string name="file_name_txt_format">notes_%s.txt</string>
-  <string name="file_path">/MIUI/notes/</string>
   <string name="folder_exist">Le dossier %1$s existe déjà, veuillez changer le nom</string>
   <string name="format_date_ymd">ddMMyyyy</string>
   <string name="format_datetime_mdhm">dMMM kk:mm</string>
