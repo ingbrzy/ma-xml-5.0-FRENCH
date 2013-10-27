@@ -279,7 +279,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="title">titre</string>
   <string name="title_mili_center">Centre MiCredits</string>
   <string name="title_pay">Payer avec des MiCredits</string>
-  <string name="title_pay_record">%1$s : historique de paiements</string>
+  <string name="title_pay_record">Historique de paiements</string>
   <string name="title_paytool">Recharger par %1$s</string>
   <string name="title_prepaid">Recharger par carte</string>
   <string name="title_recharge">Recharger MiCredits</string>

@@ -390,7 +390,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="title_giftcard">Promotions</string>
   <string name="title_mili_center">MiCredits</string>
   <string name="title_pay">Payer avec des MiCredits</string>
-  <string name="title_pay_record">%1$s : historique de paiements</string>
+  <string name="title_pay_record">Historique de paiements</string>
   <string name="title_recharge">Recharger MiCredits</string>
   <string name="title_recharge_record">Historique des recharges</string>
   <string name="title_transaction">Transactions</string>

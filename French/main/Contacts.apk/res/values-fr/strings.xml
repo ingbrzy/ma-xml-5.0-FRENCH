@@ -801,7 +801,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_comment_4_star">4 Étoiles</string>
   <string name="resource_comment_5_star">5 Étoiles</string>
   <string name="resource_comment_account_need_activitied">Veuillez activer votre compte Xiaomi pour utiliser cette fonctionnalité.</string>
-  <string name="resource_comment_all_comments">Tous les commentaires</string>
+  <string name="resource_comment_all_comments">Tous</string>
   <string name="resource_comment_average_score">Moyenne</string>
   <string name="resource_comment_bad_comments">Négatifs</string>
   <string name="resource_comment_current_version">Version actuelle</string>
@@ -836,8 +836,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_delta_update_total">%1$d patchs de MAJ. Total économisé : %2$s</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_detail_comment_title">Commentaires</string>
-  <string name="resource_detail_jump_to_online_title">En ligne</string>
-  <string name="resource_detail_jump_to_same_author_title">Même auteur</string>
+  <string name="resource_detail_jump_to_online_title">Voir en ligne</string>
+  <string name="resource_detail_jump_to_same_author_title">Par le même auteur</string>
   <string name="resource_detail_recommend_desiner_other_themes">Autres thèmes conçus par %1$s</string>
   <string name="resource_detail_recommend_desiner_themes">%1$s thèmes</string>
   <string name="resource_detail_recommend_other_themes">Les utilisateurs ont également apprécié</string>
@@ -846,7 +846,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_download">Télécharger</string>
   <string name="resource_downloaded_title">Ressources téléchargées</string>
   <string name="resource_downloading">Téléchargement…</string>
-  <string name="resource_expand_full_text">Étendre</string>
+  <string name="resource_expand_full_text">Voir plus…</string>
   <string name="resource_get_auth_checking">Vérification de l\'autorisation…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre compte Xiaomi</string>
   <string name="resource_get_auth_exceed_max_limit_title">La limite autorisée est dépassée</string>
@@ -879,7 +879,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_selected">Sélection</string>
   <string name="resource_server_alert_dialog_title">Le service est actuellement indisponible</string>
   <string name="resource_server_out_of_service">Serveur actuellement indisponible, veuillez réessayer plus tard.</string>
-  <string name="resource_share_subject">Partager le thème : %1$s</string>
+  <string name="resource_share_subject">Partage du thème : %1$s</string>
   <string name="resource_share_text">"Je pense que tu pourrais aimer ce thème : %1$s ! Lien : %2$s"</string>
   <string name="resource_share_title">Partager</string>
   <string name="resource_switch_account">Changer</string>
