@@ -1,5 +1,5 @@
 <strings>
     <string name="short_date_format" value="EEEE d MMMM" />
     <string name="long_date_format" value="dd MMMM yyyy" />
-    <string name="date_format" value="EEEE, dd. MMMM" />
+    <string name="date_format" value="EEEE dd MMMM" />
 </strings>
