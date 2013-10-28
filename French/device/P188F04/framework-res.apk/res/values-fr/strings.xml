@@ -892,7 +892,7 @@
     <string name="wifi_p2p_show_pin_message">Code PIN :</string>
     <string name="select_character">Insérer un caractère</string>
     <string name="sms_control_title">Envoi de messages SMS</string>
-    <string name="sms_control_message">"<b>%1$s</b> envoie un grand nombre de SMS. Autorisez-vous cette application à poursuivre l'envoi des messages ?"</string>
+    <string name="sms_control_message">"<b>%1$s</b> envoie un grand nombre de SMS. Autorisez-vous cette application à poursuivre l\'envoi des messages ?"</string>
     <string name="sms_control_yes">Autoriser</string>
     <string name="sms_control_no">Refuser</string>
     <string name="sim_removed_title">Carte SIM retirée</string>
