@@ -157,7 +157,7 @@
   <string name="send_finish">Fichier envoyé !</string>
   <string name="send_finish_tip">%1$d fichier(s) envoyé(s) à :</string>
   <string name="send_history_deleted">Historique d\'envois supprimé</string>
-  <string name="send_nfc">Envoyer via NFC</string> 
+  <string name="send_nfc">Envoyer via NFC</string>
   <string name="send_share_link">Envoyer le lien de partage via</string>
   <string name="send_sound">Envoyer avec un son</string>
   <string name="send_tip">Envoyez des images, musiques, contacts et autres fichiers par lot.</string>

@@ -104,12 +104,12 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="ext_media_safe_unmount_notification_title">La carte SD peut être retirée en toute sécurité</string>
   <string name="ext_media_unmountable_notification_message">Carte SD endommagée. Vous devriez peut-être la formater.</string>
   <string name="ext_media_unmountable_notification_title">Carte SD endommagée</string>
-  <string name="filter_item_description">"Paramètres-Paramètres de la barre d\'état-Notifications personnalisées" pour définir le type de notification des applications</string> 
+  <string name="filter_item_description">"Paramètres-Paramètres de la barre d\'état-Notifications personnalisées" pour définir le type de notification des applications</string>
   <string name="filter_item_preview_image">Aperçu</string>
   <string name="gps_notification_found_text">Position définie par GPS</string>
   <string name="gps_notification_searching_text">Recherche de GPS…</string>
-  <string name="headset_custom">Personnaliser</string> 
-  <string name="headset_info">Personnaliser les fonctions des boutons</string> 
+  <string name="headset_custom">Personnaliser</string>
+  <string name="headset_info">Personnaliser les fonctions des boutons</string>
   <string name="headset_settings">Casque connecté</string>
   <string name="invalid_charger">"Chargement USB non disponible.
 Vous devez utiliser le chargeur fourni."</string>
@@ -179,7 +179,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screenshot_saving_text">"Enregistrement de la capture d\'écran en cours…"</string>
   <string name="screenshot_saving_ticker">Enregistrement de la capture d\'écran…</string>
   <string name="screenshot_saving_title">Enregistrement de la capture d\'écran…</string>
-  <string name="settings_all_app_display_loading">Chargement, veuillez patienter…</string> 
+  <string name="settings_all_app_display_loading">Chargement, veuillez patienter…</string>
   <string name="settings_custom_notification">Notification personnalisée</string>
   <string name="settings_expandable_under_fullscreen">Extensible en plein écran</string>
   <string name="settings_expandable_under_fullscreen_summary">En glissant vers le bas à partir du haut de l\'écran</string>
@@ -191,8 +191,8 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="settings_screenshot_notification_disabled">Aff. infos. de capture d\'écran</string>
   <string name="settings_show_flow_info">Afficher infos. du trafic</string>
   <string name="settings_show_network_speed">Afficher la vitesse de transfert</string>
-  <string name="settings_show_notificationBar_notification">Afficher notifs de la barre de notification</string> 
-  <string name="settings_show_statusBar_notification">"Afficher notifs de la barre d'état"</string> 
+  <string name="settings_show_notificationBar_notification">Afficher notifs de la barre de notification</string>
+  <string name="settings_show_statusBar_notification">"Afficher notifs de la barre d'état"</string>
   <string name="settings_status_bar">"Barre d'état"</string>
   <string name="settings_toggle">Raccourcis</string>
   <string name="settings_toggle_collapse_after_clicked">Réduire après un appui</string>

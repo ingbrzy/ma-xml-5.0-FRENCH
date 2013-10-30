@@ -87,7 +87,7 @@ Veuillez réessayer après cinq minutes"</string>
   <string name="error_user_id_mismatch_title">Erreur d\'authentification !</string>
   <string name="error_verify_summary">L\'Application n\'a pas l\'autorisation de solliciter le service</string>
   <string name="error_verify_title">Pas de permission</string>
-  <string name="fee">%1$s MiCredit</string> 
+  <string name="fee">%1$s MiCredit</string>
   <string name="forget_password">&lt;u&gt;Réinitialiser le mot de passe&lt;/u&gt;</string>
   <string name="format_date">dd MMM yyyy</string>
   <string name="format_time">dd MMM yyyy hh:mmaa</string>

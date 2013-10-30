@@ -307,7 +307,7 @@
         <item>Cyan</item>
         <item>Blanche</item>
         <item>Violette</item>
-     </string-array>  
+     </string-array>
      <string-array name="led_color_values">
         <item>blue</item>
         <item>red</item>
@@ -399,9 +399,9 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Demander</item>
         <item>Refuser</item>
     </string-array>
-    <string-array name="phone_call_noise_suppression_title"> 
-        <item>Suppression de bruit simple micro</item> 
-        <item>Suppression de bruit double micro</item> 
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Suppression de bruit simple micro</item>
+        <item>Suppression de bruit double micro</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Autoriser</item>
@@ -433,11 +433,11 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Systrace (graphismes)</item>
         <item>Appeler une pile sur glGetError</item>
     </string-array>
-    <string-array name="change_security_lock_picker"> 
-        <item>Face Unlock</item> 
-        <item>Modèle</item> 
-        <item>Mot de passe numérique</item> 
-        <item>Mot de passe mixte</item> 
+    <string-array name="change_security_lock_picker">
+        <item>Face Unlock</item>
+        <item>Modèle</item>
+        <item>Mot de passe numérique</item>
+        <item>Mot de passe mixte</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Demander</item>

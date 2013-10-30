@@ -23,7 +23,7 @@
     <string name="default_station_name">Nouvelle chaîne</string>
     <string name="dlg_delete_confirm_title">Confirmer la suppression de station</string>
     <string name="dlg_delete_confirm_text">Etes-vous sûr de vouloir supprimer cette station?</string>
-    <string name="dlg_delete_confirm_title1">Confirmer le retrait des chaînes préréglées</string> 
+    <string name="dlg_delete_confirm_title1">Confirmer le retrait des chaînes préréglées</string>
     <string name="dlg_delete_confirm_text1">Confirmer le retrait de cette chaîne des chaînes préréglées?</string>
     <string name="toast_favorite_full">Impossible d\'ajouter la station à la liste des favoris, parce qu\'elle est pleine.</string>
     <string name="toast_favorite_full1">"Impossible d'ajouter la chaîne aux chaînes préréglées car liste pleine."</string>
@@ -46,7 +46,7 @@
     <string name="fm_recorder_name">Enregistreur FM</string>
     <string name="toast_recording_lost_warning">Votre enregistrement sera perdu suite au retrait de la carte SD!</string>
     <string name="toast_start_recording">"Démarrer l'enregistrement…"</string>
-    <string name="toast_sdcard_missing">Carte SD manquante!</string>  
+    <string name="toast_sdcard_missing">Carte SD manquante!</string>
     <string name="toast_sdcard_insufficient_space">Espace insuffisant sur carte SD!</string>
     <string name="toast_recorder_internal_error">"Une erreur interne est survenue dans l'enregistreur!"</string>
     <string name="toast_player_internal_error">Une erreur interne est survenue dans le lecteur!</string>

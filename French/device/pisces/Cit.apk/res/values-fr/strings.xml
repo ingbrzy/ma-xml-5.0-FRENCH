@@ -124,7 +124,7 @@
   <string name="cit_OTG_plugout_check_summary">Ce test permet de détecter la présence d\'un périphérique connecté OTG.</string>
   <string name="cit_OTG_plugout_check_title">OTG retiré</string>
   <string name="cit_OTG_waiting_in">Merci d\'insérer le périphérique USB OTG.</string>
-  <string name="cit_OTG_waiting_out">Merci de débrancher le périphérique USB OTG.</string>  
+  <string name="cit_OTG_waiting_out">Merci de débrancher le périphérique USB OTG.</string>
   <string name="cit_pass">Passer</string>
   <string name="cit_play_sd_mp3_summary">Ce test lancera musique.mp3 situé dans le dossier racine de la carte SD</string>
   <string name="cit_play_sd_mp3_title">Teste de lecture MP3</string>

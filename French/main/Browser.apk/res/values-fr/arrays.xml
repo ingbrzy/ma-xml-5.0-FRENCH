@@ -97,9 +97,9 @@
         <item>Page avant/arrière</item>
         <item>Changer d\'onglet</item>
     </string-array>
-	<string-array name="pref_images_preload_choices"> 
-        <item>Jamais</item> 
-        <item>En Wi-Fi uniquement</item> 
-        <item>Toujours</item> 
+	<string-array name="pref_images_preload_choices">
+        <item>Jamais</item>
+        <item>En Wi-Fi uniquement</item>
+        <item>Toujours</item>
 	</string-array>
 </resources>

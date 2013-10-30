@@ -19,8 +19,8 @@
   <string name="dialog_send">Envoyer</string>
   <string name="dialog_title_storage_full">Mémoire pleine</string>
   <string name="dialog_warning">Attention</string>
-  <string name="duration_format_hour">%sh</string> 
-  <string name="duration_format_minute">%sm</string> 
+  <string name="duration_format_hour">%sh</string>
+  <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Erreur interne de l\'application</string>
   <string name="error_app_internal_title">Erreur du Dictaphone</string>
@@ -46,10 +46,10 @@
   <string formatted="false" name="notification_warning">Espace libre faible (moins de %d minutes)…</string>
   <string name="open_file_explorer">Ouvrez l\'explorateur de fichiers</string>
   <string formatted="false" name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>
-  <string name="pause">Pause</string> 
+  <string name="pause">Pause</string>
   <string name="play_record">Lecture</string>
   <string name="preference_enable_earpiece_summary">Utiliser le récepteur pour la lecture externe</string>
-  <string name="preference_enable_earpiece_title">Utiliser le récepteur pour la lecture audio</string>  
+  <string name="preference_enable_earpiece_title">Utiliser le récepteur pour la lecture audio</string>
   <string name="preference_led_indicator">Enregistrement sous écran de verr.</string>
   <string name="preference_led_indicator_prompt">Lors d\'un enregistrement sous écran de verrouillage l\'indiquer via la LED et la barre d\'état</string>
   <string name="preference_record_scenes_dialog_title">"Sélectionner une scène d'enregistrement"</string>

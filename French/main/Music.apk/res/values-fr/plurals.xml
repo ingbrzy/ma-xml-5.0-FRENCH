@@ -84,8 +84,8 @@
     <item quantity="one">1 chanson sera téléchargée.</item>
     <item quantity="other">%d chansons seront téléchargées.</item>
   </plurals>
-  <plurals name="Nhot_tracks_total"> 
-    <item quantity="other">%d chansons bien notées</item> 
-    <item quantity="one">%d chanson bien notée</item> 
+  <plurals name="Nhot_tracks_total">
+    <item quantity="other">%d chansons bien notées</item>
+    <item quantity="one">%d chanson bien notée</item>
   </plurals>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="all_downloads">Tous les téléchargements</string> 
+  <string name="all_downloads">Tous les téléchargements</string>
   <string name="app_downloads">%s téléchargements</string>
   <string name="app_label">Téléchargements</string>
   <string name="button_sort_by_date">Trier par date</string>
