@@ -24,12 +24,25 @@
   <string name="data_error">Désolé, le service n\'est pas disponible, veuillez réessayer plus tard</string>
   <string name="delete">Supprimer</string>
   <string name="express_inquiry">Suivi</string>
+  <string name="expresss_inquiry_all_logistics">Tous</string>
   <string name="express_inquiry_button_text">Suivre</string>
   <string name="express_inquiry_data_owner">Information de suivi fournies par %s</string>
-  <string name="express_inquiry_indication">Numéro de suivi</string>
+ <!-- balance_inquiry_default_sp_name remplacer "opérateur"? original : Operator -->
+  <string name="balance_inquiry_default_sp_name">Opérateur</string>
+  <string name="expresss_inquiry_frequently_used_logistics">Fréquents</string>
   <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
+ <!-- à traduire : Compagnie de coursiers ?...
+  <string name="express_inquiry_logistics_indication">Courier company</string>
+ -->
   <string name="express_inquiry_no_result">Aucun résultat.</string>
+ <!-- à traduire : Compagnie de coursiers ?...
+  <string name="express_inqiury_select_logistics">Courier company</string>
+ -->
+ <!-- balance_inquiry_send_sms_hint remplacer "opérateur"? -->
+  <string name="balance_inquiry_send_sms_hint">Une demande de solde sera envoyée par SMS (gratuit) à l\'opérateur</string>
+  <string name="express_inquiry_serial_number_indication">Numéro de suivi</string>
   <string name="express_inquiry_serial_number_prefix">"Numéro de série : "</string>
+  <string name="balance_inquiry_title">Consultation du solde</string>
   <string name="login_before_recharging">Vous devez vous connecter avant de pouvoir recharger.</string>
   <string name="login_ok">Se connecter</string>
   <string name="mark_number_custom_dialog_maintitle">Accepter ou corriger la marque</string>
@@ -44,8 +57,23 @@
   <string name="menu_refresh">Rafraîchir</string>
   <string name="menu_remove_black_list">Supprimer de la liste noire</string>
   <string name="mishop_web_payment_title">Panier MiStore</string>
-  <string name="module_sms_sent">Message remis</string>
   <string name="network_unavaliable">Réseau indisponible, veuillez vérifier vos paramètres réseau</string>
+  <string name="packages_pay">Acheter</string>
+  <string name="packages_pay_confirm">Confirmer l\'achat</string>
+ <!-- à traduire :
+  <string name="packages_title">Preferential flow of packages</string>
+ -->
+  <string name="select_package_before_buy">Veuillez sélectionnez le package que vous souhaitez acheter</string>
+  <string name="packages_select_to_buy_title">Vous choisissez d\'acheter :</string>
+  <string name="packages_pay_hint">Envoyer un SMS (gratuit)</string>
+  <string name="packages_pay_success">Message envoyé</string>
+ <!-- packages_wait_for_op_reply remplacer "opérateur"?  -->
+  <string name="packages_wait_for_op_reply">Veuillez attendre le message de confirmation de l\'opérateur</string>
+  <string name="packages_select_sim_cards_title">Veuillez sélectionner la carte SIM</string>
+ <!-- à traduire : traffic package = forfait data ??
+  <string name="packages_select_sim_cards_summmary">System will recommend traffic packages according to your choice</string>
+  <string name="packages_no_package">No suitable traffic packages</string>
+ -->
   <string name="payment_back">Annuler</string>
   <string name="payment_failed_common_problems">Un problème est survenu lors du paiement.</string>
   <string name="payment_unknown_status_summary">Vérifiez votre connexion réseau et réessayez.</string>
@@ -58,7 +86,7 @@
   <string name="recharge_history">Historique des recharges</string>
   <string name="recharge_input_phone_title">Entrez un numéro de téléphone (China mobile, China Unicom ou China Telecom)</string>
   <string name="recharge_order_actual_price">¥%s</string>
-  <string name="recharge_order_id">ID de commande：</string>
+  <string name="recharge_order_id">ID de commande :</string>
   <string name="recharge_order_original_price">%s RMB</string>
   <string name="recharge_order_pay">Commander</string>
   <string name="recharge_pay">Recharger maintenant</string>
@@ -69,7 +97,7 @@
   <string name="recharge_payment_result_ok_summary">Confirmez que ce montant est exact.</string>
   <string name="recharge_payment_result_ok_title">%s RMB ajoutés.</string>
   <string name="recharge_payment_result_progress_summary">Vérification du résultat du paiement…</string>
-  <string name="recharge_phone_number_error">Numéro de téléphone invalide.</string>
+  <string name="recharge_phone_number_error">Numéro de téléphone non valide.</string>
   <string name="recharge_select_money_title">Veuillez sélectionner une valeur de recharge</string>
   <string name="recharge_status_description">État :</string>
   <string name="recharge_title">Recharger</string>
@@ -78,15 +106,12 @@ Montant total : %3$s RMB"</string>
   <string name="recharge_user_confirm_title">Confirmer</string>
   <string name="remind_another_time">"Ne pas demander pour ce numéro</string>
   <string name="remind_user_confirm">OK</string>
-  <string name="remind_user_suspect_number_message">"Les criminels peuvent usurper l'identité d'autres personnes pour frauder, en cas de doute rappelez pour vérifier l'identité de l'appelant. Les banques, les sociétés d'e-commerce etc. ne vous demanderont jamais votre mot de passe ou vos informations bancaires."</string>
+  <string name="remind_user_suspect_number_message">"Les malfaiteurs peuvent usurper l'identité d'autres personnes pour frauder, en cas de doute rappelez pour vérifier l'identité de l'appelant. Les banques, les sociétés d'e-commerce etc. ne vous demanderont jamais votre mot de passe ou vos informations bancaires."</string>
   <string name="remind_user_suspect_number_title">Méfiez-vous des appels frauduleux</string>
   <string name="scan">Scanner</string>
   <string name="selected_category_format">%1$s(%2$d on marqué, appuyez pour approuver)</string>
   <string name="service_unavailiable">Votre réseau actuel n\'est pas bon, veuillez réessayer plus tard</string>
   <string name="smart_antispam">Identifier les numéros inconnus automatiquement</string>
-  <string name="sms_disabled_in_privacy_mode">"Impossible d'envoyer un message en mode privé."</string>
-  <string name="sms_send_failed">Échec de l\'envoi du SMS !</string>
-  <string name="sms_sending">Envoi en cours…</string>
   <string name="title_about_yellow_page">À propos</string>
   <string name="toast_finish_delete_call_log">Le journal d\'appels a été effacé</string>
   <string name="toast_text_copied">Texte copié</string>
@@ -95,7 +120,6 @@ Montant total : %3$s RMB"</string>
   <string name="turn_on_smart_antispam_summary_off">Uniquement interroger avec la base de données locale</string>
   <string name="turn_on_smart_antispam_summary_on">Identifier les numéros inconnus et envoyer vos marques</string>
   <string name="turn_on_smart_antispam_title">Identifier les numéros inconnus</string>
-  <string name="unable_send_sms">Impossible d\'envoyer le SMS.</string>
   <string name="user_notice_identify_summary_format">L\'identification des numéros inconnus est un service en ligne, veuillez lire %1$s et %2$s avant de l\'utiliser.</string>
   <string name="user_notice_yp_detail_summary_format">L\'information partielle sur cette page jaune doit être mise à jour en ligne, veuillez lire %1$s et %2$s, appuyez sur "Accepter" pour valider ou sur "Annuler" pour voir les informations (en cache uniquement).</string>
   <string name="voicemail">Messagerie vocale</string>

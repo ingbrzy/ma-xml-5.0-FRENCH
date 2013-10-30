@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_max_bytes_limit">
+        <item>Illimité</item>
         <item>1Go</item>
         <item>200Mo</item>
         <item>100Mo</item>
@@ -12,9 +13,10 @@
         <item>1Mo</item>
         <item>500Ko</item>
         <item>200Ko</item>
-        <item>Toujours</item>
+        <item>Toujours via Wi-Fi</item>
     </string-array>
     <string-array name="prefValues_max_bytes_limit">
+        <item>2147483647</item>
         <item>1048576000</item>
         <item>209715200</item>
         <item>104857600</item>

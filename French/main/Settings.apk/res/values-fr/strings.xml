@@ -480,6 +480,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="build_number">Numéro de version</string>
   <string name="builtin_keyboard_settings_summary">Paramètres du clavier physique</string>
   <string name="builtin_keyboard_settings_title">Clavier physique</string>
+  <string name="button_disconnect_network">Déconnecter du réseau</string>
   <string name="button_light_timeout">Durée de l\'éclairage</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
@@ -718,6 +719,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">Version MIUI</string>
   <string name="device_name">Nom de l\'appareil</string>
+  <string name="device_name_input_error">Impossible d\'enregistrer le nom de l\'appareil, veuillez le saisir à nouveau</string>
   <string name="device_name_input_hint">Entrez le nom du périphérique</string>
   <string name="device_name_usage_point">Autoriser l\'appareil à être découvert par d\'autres périphériques Bluetooth afin de permettre le transfert de fichiers et autres.</string>
   <string name="device_picker">Sélecteur d\'appareil Bluetooth</string>
@@ -731,6 +733,9 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dirac_mode_in_ear">"Écouteurs intra-auriculaires Xiaomi"</string>
   <string name="dirac_mode_off">Dirac désactivé</string>
   <string name="dirac_mode_piston_100">Casque Piston Xiaomi</string>
+  <!-- améliorateur à remplacer, plusieurs occurrences -->
+  <string name="dirac_switch_title">Utiliser l\'améliorateur MiSound</string>
+  <string name="dirac_switch_summary">Toujours utiliser l\'améliorateur MiSound lors l\'utilisation d\'enceintes</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Désact. superpos. matérielle</string>
   <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition de l\'écran</string>
@@ -775,6 +780,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dndm_vip_call_summary_custom">%d exceptions</string>
   <string name="dndm_vip_call_summary_none">Touchez pour configurer</string>
   <string name="dndm_vip_list_contact">Tous les Contacts</string>
+  <string name="dndm_vip_list_custom">Exceptions</string>
   <string name="dndm_vip_list_custom_group">Exceptions</string>
   <string name="dndm_vip_list_group">Liste des exceptions</string>
   <string name="do_not_disturb_mode">NPD</string>
@@ -951,6 +957,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="global_change_warning">Ce paramètre affecte tous les utilisateurs de ce téléphone.</string>
   <string name="global_font_change_title">Modifier la taille de la police</string>
   <string name="global_locale_change_title">Modifier la langue</string>
+  <string name="gsm_to_wifi_connect_type_title">Cellulaire->Wi-Fi</string>
   <string name="haptic_feedback_enable_title">Vibrer au toucher</string>
   <string name="haptic_feedback_level">Niveau de vibration</string>
   <string name="hardkeyboard_category">Paramètres du clavier physique</string>
@@ -1197,6 +1204,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="master_clear_summary">Effacer toutes les données du téléphone</string>
   <string name="master_clear_title">Restaurer valeurs d\'usine</string>
   <string name="media_button">Bouton multimédia</string>
+  <string name="media_feedback_enable_title">Vibrer avec le rythme</string>
   <string name="media_format_button_text">Effacer la mémoire USB</string>
   <string name="media_format_desc">Effacer toute la mémoire de stockage USB ? Vous allez perdre <b>toutes</b> les données stockées.</string>
   <string name="media_format_final_button_text">Tout effacer</string>
@@ -1267,6 +1275,8 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="msd_install_status_undo">Installer le pilote</string>
   <string name="msd_install_succeed">Pilote installé</string>
   <string name="msd_install_windows_xp_step_2_1">1.Si l\'Assistant d\'installation apparaît, veuillez suivre les étapes pour terminer l\'installation du pilote</string>
+  <string name="msg_wlan_signal_found">Point d\'accès Wi-Fi %s trouvé, souhaitez-vous utiliser ce réseau Wi-Fi? L\'utilisation de ce réseau interrompra le service de données temporairement.</string> 
+  <string name="mtp_ptp_mode_summary">Fonction MTP ou PTP active</string>
   <string name="multi_sim_settings_summary">Mettre en place des paramètres multi-Sim pour voix, données et SMS</string>
   <string name="multi_sim_settings_title">Paramètres multi-SIM</string>
   <string name="multi_touch_points_category_title">Points multi-touch</string>
@@ -1303,6 +1313,16 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="nsd_quick_toggle_summary">Autoriser les applications d\'autres appareils à identifier les applications de celui-ci</string>
   <string name="nsd_quick_toggle_title">Identification du service réseau</string>
   <string name="oem_radio_info_label">Infos/paramètres OEM</string>
+ <!-- à traduire : 
+  <string name="oldman_mode_entry_title">senior mode</string>
+  <string name="oldman_mode_entry_name">senior mode settings</string>
+  <string name="oldman_mode_settings_caption">senior mode settings</string>
+  <string name="oldman_mode_enabled_name">enable senior mode</string>
+  <string name="oldman_mode_summary">enable or disable senior mode, will reboot!</string>
+  <string name="oldman_mode_confirm_title">senior mode confirm</string>
+  <string name="oldman_mode_confirm_will_oldman_mode_text">enable senior mode ?</string>
+  <string name="oldman_mode_confirm_will_normal_mode_text">disable senior mode ?</string>
+ -->
   <string name="onscreen_keyboard_settings_summary">Paramètres du clavier virtuel</string>
   <string name="other_relative">Autres autorisations</string>
   <string name="overlay_display_devices_title">Simul. affich. secondaires</string>
@@ -1778,6 +1798,9 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_application">Sélectionner une application</string>
   <string name="select_device_admin_msg">Administrateurs de l\'appareil</string>
+ <!-- à traduire ;
+  <string name="select_ssid_type_title">Reselection among SSID</string>
+ -->
   <string name="select_subscription">Sélectionner Abonnement</string>
   <string name="selinux_status">État SELinux</string>
   <string name="selinux_status_disabled">Désactivé</string>
@@ -1987,6 +2010,15 @@ Le code PIN est peut-être incorrect."</string>
   <string name="title_font_size">Taille de la police</string>
   <string name="total_size">%s (total)</string>
   <string name="total_size_label">Total</string>
+  <string name="touch_title">Toucher</string>
+  <string name="touch_sensitive_title">Mode gants</string>
+  <string name="touch_sensitive_summary"></string>
+  <string name="touch_sensitive_turn_off_title">Désactiver le mode gants</string>
+  <!-- à traduire : Glove mode ou Prevent pocket dial, wtf ?
+  <string name="touch_sensitive_turn_off_summary">Do you want to turn off Prevent pocket dials?</string>
+  -->
+  <string name="touch_sensitive_turn_off_confirm">Confirmer</string>
+  <string name="touch_sensitive_turn_off_cancel">Annuler</string>
   <string name="track_frame_time">Rendu GPU du profil</string>
   <string name="track_frame_time_summary">Mesurer la durée du rendu dans adb shell dumpsys gfxinfo</string>
   <string name="trackball_settings">Boule de commande</string>
@@ -2138,6 +2170,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="user_confirm_remove_self_title">Vous supprimer ?</string>
   <string name="user_confirm_remove_title">Supprimer l\'utilisateur ?</string>
   <string name="user_delete_button">Supprimer</string>
+  <string name="user_delete_user_description">Supprimer l\'utilisateur</string>
   <string name="user_details_title">Modifier les détails</string>
   <string name="user_dict_multiple_settings_title">Dictionnaires personnels</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
@@ -2420,6 +2453,16 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_password">Mot de passe</string>
   <string name="wifi_poor_network_detection">Réseau optimal uniquement</string>
   <string name="wifi_poor_network_detection_summary">"Éviter les réseaux Wi-Fi ayant un mauvais signal ou une mauvaise liaison Internet."</string>
+  <string name="wifi_priority_settings_label">Paramètres de priorité</string>
+  <string name="wifi_priority_type_title">Définir la priorité PA manuellement</string>
+  <string name="wifi_priority_type_summary">Permet de définir la priorité de chaque point d\'accès manuellement</string>
+  <string name="wifi_priority_settings_title">Paramètres de priorité PA</string>
+  <string name="wifi_priority_settings_summary">Appuyer pour définir la priorité de chaque point d\'accès</string>
+  <string name="wifi_priority_changed" formatted="false">Ancienne valeur de priorité=%s, nouvelle valeur=%s</string>
+  <string name="wifi_configured_ap_list">"Liste des points d'accès mémorisés"</string>
+  <string name="wifi_priority_label">Priorité</string>
+  <string name="wifi_available_title">Se connecter au Wi-Fi</string>
+  <string name="wifi_signal_found_msg">Point d\'accès Wi-Fi disponible, se connecter maintenant ?</string>
   <string name="wifi_quick_toggle_summary">Activer le Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Enregistré.</string>
@@ -2598,4 +2641,67 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="zone_auto_summaryOn">Utiliser le fuseau horaire fourni par le réseau</string>
   <string name="zone_list_menu_sort_alphabetically">Trier par ordre alphabétique</string>
   <string name="zone_list_menu_sort_by_timezone">Trier par fuseau horaire</string>
+  
+ <!-- à traduire : 
+    <string name="hdmi_3dplay_settings_title">HDMI</string>
+    <string name="hdmi_3dplay_control_text">Enable 3D</string>
+    <string name="hdmi_3dplay_control_enable_subtext">3D Stereoscopic output to external 3D display enabled</string>
+    <string name="hdmi_3dplay_control_disable_subtext">3D Stereoscopic output to external 3D display disabled</string>
+    <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
+    <string name="hdmi_3d_stereo_separation_label">3D</string>
+    <string name="hdmi_3d_help_title">About HDMI 3D Stereoscopic support</string>
+    <string name="power_mode_balanced_title">Enable Balanced Power</string>
+    <string name="usb_host_mode_text">Enable USB host mode</string>
+    <string name="usb_host_mode_subtext">For using game controllers and other peripherals on USB port, may decrease battery life</string>
+    <string name="power_settings_title">System Performance</string>
+    <string name="title_color_calibration">Color Correction preset</string>
+    <string name="dialog_title_color_calibration">Color Correction preset</string>
+    <string name="color_calibration_srgb">sRGB</string>
+    <string name="color_calibration_none">Native</string>
+    <string name="title_hdmi_color_calibration">Color Correction preset</string>
+    <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
+    <string name="hdmi_color_calibration_srgb">sRGB</string>
+    <string name="hdmi_color_calibration_none">Native</string>
+    <string name="hdmi_3d_display_enable_title">3D Display</string>
+    <string name="hdmi_3d_display_enable_summary">Enable to support 3D game</string>
+    <string name="nfc_se_route_title">Secure element position</string>
+    <string name="se_route_ese">Embedded secure element</string>
+    <string name="se_route_uicc">Secure element on SIM card</string>
+    <string name="current_use_uicc_se">Using secure element on SIM card</string>
+    <string name="current_use_ese">Using embedded secure element</string>
+    <string name="open_wifi_connect_title">Connect to open network %1$s</string>
+    <string name="open_wifi_connect_summary">Click to manage</string>
+    <string name="restrict_background_data_title">Background data restricted</string>
+    <string name="restrict_background_data_dialog_summary">"Applicaitons run Background cann't receive message, are you sure to restrict Background data?"</string>
+    <string name="restrict_background_data_notification_summary">"Applications cann't connect to network if background data restricted"</string>
+    <string name="miracast_settings_category">WLAN display settings</string>
+    <string name="miracast_display_category">Displays</string>
+    <string name="miracast_menu_search">Search</string>
+    <string name="miracast_menu_searching">Searching</string>
+    <string name="miracast_menu_teardown">Teardown</string>
+    <string name="miracast_menu_connect">Start streaming</string>
+    <string name="miracast_menu_disconnect">Stop streaming</string>
+    <string name="miracast_menu_forget">Forget display</string>
+    <string name="miracast_menu_rename">Rename display</string>
+    <string name="miracast_setup_save">Save</string>
+    <string name="miracast_setup_cancel">Cancel</string>
+    <string name="miracast_wifi_off">To use Miracast, turn WLAN on</string>
+    <string name="miracast_no_sinks_found">No nearby wireless display is available</string>
+    <string name="miracast_nickname">Please set a new name:</string>
+    <string name="miracast_connection_failed_generic">The connection was not successful</string>
+    <string name="miracast_sink_connected">Connected</string>
+    <string name="miracast_sink_not_available">Not available</string>
+    <string name="miracast_sink_connecting">Connecting…</string>
+    <string name="miracast_sink_ready_to_connect">Ready to connect</string>
+    <string name="miracast_sink_busy">Busy</string>
+    <string name="miracast_error_already_streaming">Already streaming to one display</string>
+    <string name="miracast_error_connection_in_progress">Connection is in progress. Please wait</string>
+    <string name="miracast_cancelconnect_dialog">Cancel connection</string>
+    <string name="miracast_dialog_title">%1$s</string>
+    <string name="miracast_error_cancelconnect">The connection is currently busy</string>
+    <string name="miracast_search_for_displays">Searching for wireless displays...</string>
+    <string name="miracast_PC2THOR_streaming_on">Miracast is unavailable because a PC is streaming to this device</string>
+    <string name="miracast_disable_dhcp">Disable HDCP</string>
+    <string name="miracast_enable_dhcp">Enable HDCP</string>
+ -->
 </resources>
