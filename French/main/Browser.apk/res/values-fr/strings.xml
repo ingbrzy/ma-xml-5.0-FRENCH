@@ -39,6 +39,9 @@
   <string name="added_to_bookmarks">Ajouté aux favoris.</string>
   <string name="alert_tips">Le site que vous visitez présente un risque potentiel de sécurité, voulez-vous continuer ?</string>
   <string name="allow">Autoriser</string>
+ <!-- à traduire 
+  <string name="already_in_top_level">Bookmark is already at the top level</string>
+ -->
   <string name="app_new_version">Vous avez déjà téléchargé la dernière version</string>
   <string name="app_update_install">Nouvelle version téléchargée et prête pour l\'installation</string>
   <string name="application_name">Navigateur</string>
@@ -150,6 +153,10 @@
   <string name="delete_bookmark_warning">Supprimer le favori \"%s\" ?</string>
   <string name="delete_folder">Supprimer le dossier</string>
   <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
+ <!-- à traduire :
+  <string name="dialog_geolocation_reject">Hide location</string>
+  <string name="dialog_geolocation_share">Share location</string>
+ -->
   <string name="disable_autofill">Désactiver la saisie automatique</string>
   <string name="disk_space_available">%1$s disponible</string>
   <string name="disk_space_selected">%1$s sélectionné</string>
@@ -597,6 +604,25 @@
   <string name="username">Nom</string>
   <string name="view_certificate">Afficher le certificat</string>
   <string name="warning">Avertissement</string>
+  <string name="webapp_add_to_desktop">Ajouter sur l\'écran d\'accueil</string>
+  <string name="webapp_addtodeskpop_append">App. ajoutée sur l\'écran d\'accueil</string>
+ <!-- à traduire :
+  <string name="webapp_app_name">MiMarket Web Store</string>
+ -->
+  <string name="webapp_bottom_bar_addtodesk">Ajouter sur l\'écran d\'accueil/string>
+  <string name="webapp_bottom_bar_already_addtodesk">Déjà ajouté sur l\'écran d\'accueil</string>
+  <string name="webapp_bottom_bar_exit">Quitter</string>
+ <!-- à traduire :
+  <string name="webapp_bottom_bar_hidebar">Hide Bottom Bar</string>
+ -->
+  <string name="webapp_bottom_bar_openbrowser">Ouvrir dans le navigateur</string>
+ <!-- à traduire :
+  <string name="webapp_bottom_bar_showbar">Show Bottom Bar</string>
+ -->
+  <string name="webapp_dialog_title">Ajouter l\'app. sur l\'écran d\'accueil</string>
+  <string name="webapp_splashview_loading">Chargement, veuillez attendre…</string>
+  <string name="webapp_web_forward">Suivant</string>
+  <string name="webapp_web_goback">Retour</string>
   <string name="website_settings_clear_all">Tout effacer</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Annuler</string>
   <string name="website_settings_clear_all_dialog_message">Supprimer toutes les données et les autorisations de localisation du site Web ?</string>
