@@ -920,7 +920,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="select_device">Sélectionnez un périphérique à connecter avec</string>
   <string name="select_groups">Sélectionner les groupes</string>
   <string name="select_new_photo_from_photo_package">Choisir une nouvelle photo du lot de photos</string>
-  <string name="select_none">Aucune sélection, l\'opération est invalide</string>
+  <string name="select_none">Aucune sélection, l\'opération est non valide</string>
   <string name="select_photo_from_photo_package">Sélectionner une photo du lot de photos</string>
   <string name="select_show_contacts">Affichage du contact</string>
   <string name="select_vcard_title">Sélectionner le fichier de carte de visite</string>

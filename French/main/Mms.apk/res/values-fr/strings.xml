@@ -158,7 +158,7 @@
   <string name="importing_progress_private_message">Importation des messages vers la boîte privée</string>
   <string name="in_sms">Message</string>
   <string name="insufficient_drm_rights">Droits DRM insuffisants détectés.</string>
-  <string name="invalid_conversation">Conversation invalide</string>
+  <string name="invalid_conversation">Conversation non valide</string>
   <string name="invalid_destination">Adresse de destination incorrecte.</string>
   <string name="invalid_recipient_message">Veuillez corriger le nom du ou des destinataires, sinon ils ne recevront pas le message.</string>
   <string name="kilobyte">Ko</string>

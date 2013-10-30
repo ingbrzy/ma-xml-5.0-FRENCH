@@ -86,7 +86,7 @@
   <string name="ext_media_badremoval_notification_title">Carte SD enlevée de façon inattendue</string>
   <string name="fdn_contact_max">Contact plein</string>
   <string name="fdn_contact_name_number_invalid">Nom et numéro ne peuvent pas être vides en même temps.</string>
-  <string name="fdn_contact_number_invalid">Numéro de contact invalide.</string>
+  <string name="fdn_contact_number_invalid">Numéro de contact non valide.</string>
   <string name="fdn_errorcode_name_info">Impossible, le nom de contact est trop long.</string>
   <string name="fdn_errorcode_number_info">Impossible, le numéro de contact est trop long.</string>
   <string name="fdn_errorcode_phb_info">Impossible, l\'annuaire téléphonique n\'est pas prêt pour l\'instant, veuillez essayer plus tard.</string>
@@ -119,7 +119,7 @@
   <string name="international_dialing_dial_with_country_code">Composer avec indicatif pays</string>
   <string name="international_dialing_dialed_number">Numéro composé :</string>
   <string name="international_dialing_input_area_code">Saisissez le préfixe de la région ici</string>
-  <string name="international_dialing_invalid_number">Ce numéro est invalide. Composer quoi qu\'il en soit ?</string>
+  <string name="international_dialing_invalid_number">Ce numéro est non valide. Composer quoi qu\'il en soit ?</string>
   <string name="international_dialing_need_area_code">Un préfixe de région est nécessaire pour passer cet appel.</string>
   <string name="international_dialing_no">Non. Utiliser le numéro d\'origine :</string>
   <string name="international_dialing_select_country">"L'appareil a détecté un appel international. Veuillez choisir votre destination."</string>

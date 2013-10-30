@@ -13,7 +13,7 @@
   <string name="PukMmi">Débloquer code PIN</string>
   <string name="Puk2Mmi">Débloquer code PIN2</string>
   <string name="serviceProvisioned">Service mis en service.</string>
-  <string name="serviceUnknown">Problème de connexion ou code MMI invalide.</string>
+  <string name="serviceUnknown">Problème de connexion ou code MMI non valide.</string>
   <string name="cfServiceNotForwarded">Non transmis</string>
   <string name="permlab_receiveCbSms">Recevoir SMS CB</string>
   <string name="permdesc_receiveCbSms">Permet à une application de recevoir et traiter des messages SMS CB. Des applications malveillantes peuvent surveiller vos messages et les supprimer sans que vous les voyez.</string>
@@ -27,7 +27,7 @@
   <string name="puk_length_indicate">(8 chiffres)</string>
   <string name="one_retry_left">1 tentative restante</string>
   <string name="retries_left">Restes :%d</string>
-  <string name="invalid_imei">IMEI invalide</string>
+  <string name="invalid_imei">IMEI non valide</string>
   <string name="same_imei">Même IMEI</string>
   <string name="unable_launch_the_ap">Impossible de lancer l\'application</string>
   <string name="keyguard_password_enter_sim1_pin_code">Entrez le code PIN SIM 1</string>
@@ -80,7 +80,7 @@
   <string name="wday_month_day_year" formatted="false">%s, %s %s, %s</string>
   <string name="wday_month_year_day" formatted="false">%s, %s %s %s</string>
   <string name="drm_protectioninfo_title">Info protection DRM</string>
-  <string name="invalid_card">Carte invalide</string>
+  <string name="invalid_card">Carte non valide</string>
   <string name="RejectCauseTitle">Cause de rejet du réseau</string>
   <string name="MMRejectCause2">Carte SIM non configurée - MM #2</string>
   <string name="MMRejectCause3">Carte SIM non autorisée - MM #3</string>
@@ -135,7 +135,7 @@
   <string name="default_sim_setting_prompt">Maintenant les paramètres par défaut sont :</string>
   <string name="keyguard_video_call">Appel vidéo :</string>
   <string name="dm_prompt">Terminal a déjà été verrouillé</string>
-  <string name="invalid_sim_title">Carte SIM invalide</string>
+  <string name="invalid_sim_title">Carte SIM non valide</string>
   <string name="invalid_sim_message">La carte UIM/SIM n\'est pas reconnue.</string>
   <string name="lockscreen_pin_too_many_failed_attempts_dialog_message" formatted="false">"Vous avez entré un code PIN incorrect %d fois. 
 
@@ -177,7 +177,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="drm_forwardforbidden_message">Certains fichiers protégés ne peuvent pas être transmis.</string>
   <string name="drm_license_install_success">Installation de la licence DRM réussi.</string>
   <string name="drm_license_install_fail">Échec de l\'installation de la licence DRM.</string>
-  <string name="drm_secure_timer_title">Secure clock DRM invalide</string>
+  <string name="drm_secure_timer_title">Secure clock DRM non valide</string>
   <string name="drm_secure_timer_message">Vous ne pouvez pas utiliser les fichiers protégés par DRM. Assurez-vous que la connexion de données est disponible.</string>
   <string name="drm_consume_title">Utiliser les droits DRM</string>
   <string name="drm_consume_message">Votre action va utiliser des droits DRM.</string>

@@ -35,8 +35,8 @@
     <string name="toast_channel_added1">Ajout réussi aux chaînes préréglées.</string>
     <string name="toast_channel_searched">Canaux disponibles trouvés :</string>
     <string name="toast_cannot_search">Impossible de chercher les canaux disponibles.</string>
-    <string name="toast_invalid_frequency">Fréquence invalide pour cet emplacement. Plage de fréquence valide : 87,5-108,0.</string>
-    <string name="toast_invalid_input">Dernière saisie invalide, valeur valide de 0 ou 5.</string>
+    <string name="toast_invalid_frequency">Fréquence non valide pour cet emplacement. Plage de fréquence valide : 87,5-108,0.</string>
+    <string name="toast_invalid_input">Dernière saisie non valide, valeur valide de 0 ou 5.</string>
     <string name="optmenu_rds_settings">Paramètres RDS</string>
     <string name="dlg_rds_settings_channel_information">Informations sur le canal</string>
     <string name="dlg_rds_settings_alternative_frequency">Fréquence alternative</string>

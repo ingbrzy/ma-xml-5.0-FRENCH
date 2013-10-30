@@ -7,7 +7,7 @@
     <string name="license_expired">Licence expirée</string>
     <string name="domain_not_found">Domaine introuvable</string>
     <string name="dev_cert_revoked">"Le certificat de l'appareil a été annulé. Contactez l'opérateur"</string>
-    <string name="server_invalid_message">Le serveur a obtenu un message invalide</string>
+    <string name="server_invalid_message">Le serveur a obtenu un message non valide</string>
     <string name="server_internal_error">Problèmes au niveau du serveur. Essayez plus tard</string>
     <string name="server_service_specific">"Une erreur serveur s'est produite"</string>
     <string name="server_domain_required">Associer domaine pour lire le contenu</string>

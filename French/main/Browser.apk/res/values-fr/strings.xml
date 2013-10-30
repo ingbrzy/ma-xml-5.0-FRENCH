@@ -165,7 +165,7 @@
   <string name="download">Télécharger</string>
   <string name="download_complete">Téléchargement terminé</string>
   <string name="download_default_path_txt">Définir comme chemin de téléchargement par défaut et ne plus me demander</string>
-  <string name="download_dialog_default_path_invalid">Chemin de téléchargement invalide, le chemin de téléchargement par défaut sera utilisé</string>
+  <string name="download_dialog_default_path_invalid">Chemin de téléchargement non valide, le chemin de téléchargement par défaut sera utilisé</string>
   <string name="download_dialog_file_length_hint_txt">Taille du fichier :</string>
   <string name="download_dialog_file_length_lessthan1kb">Moins de 1Ko</string>
   <string name="download_dialog_file_length_nolength_error_txt">Échec du calcul de la taille du fichier</string>

@@ -155,7 +155,7 @@
   <string name="ringtone_volume_mute">La sonnerie est actuellement en mode silencieux.</string>
   <string name="sdcard_not_mounted_dialog_message">"Carte SD non disponible, veuillez en ajouter une."</string>
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
-  <string name="selected_resource_file_invalid">Le fichier sélectionné est invalide.</string>
+  <string name="selected_resource_file_invalid">Le fichier sélectionné est non valide.</string>
   <string name="short_ringtone_resource">Court(&lt;5s)</string>
   <string name="theme_another_import_running">L\'importation est déjà en cours, veuillez patienter et réessayer</string>
   <string name="theme_batch_has_update_text">%1$d nouvelle(s) version(s) de thème</string>

@@ -1413,7 +1413,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="perm_hips_wifi_network">Réseau Wi-Fi</string>
   <string name="perm_hips_wifi_network_desc">Réseau Wi-Fi</string>
   <string name="perm_hips_wifi_network_hint">%1$s apps sont autorisées à accéder à Internet via le réseau mobile</string>
-  <string name="perm_invalid_input">Entrée invalide</string>
+  <string name="perm_invalid_input">Entrée non valide</string>
   <string name="perm_loading">Chargement…</string>
   <string name="perm_log">Journal</string>
   <string name="perm_log_clear_content">L\'ensemble du journal sera effacé. Continuer ?</string>

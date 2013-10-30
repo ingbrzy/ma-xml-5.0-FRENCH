@@ -97,6 +97,6 @@
     <string name="imps_services_label">"Services: "</string>
     <string name="imps_cid_prefix_label">"Préfixe ID client: "</string>
     <string name="name_label">"Nom: "</string>
-    <string name="detail_invalid_setting_error_msg">Réglage invalide.</string>
+    <string name="detail_invalid_setting_error_msg">Réglage non valide.</string>
     <string name="error">Erreur</string>
 </resources>

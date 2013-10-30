@@ -6,7 +6,7 @@
 <string name="keyguard_password_pin_failed">Opération PIN échoué !</string>
 <string name="keyguard_password_puk_failed">Opération PUK échoué !</string>
 <string name="keyguard_pin_accepted">Code accepté</string>
-<string name="lockscreen_sim_error_message_short">Carte invalide</string>
+<string name="lockscreen_sim_error_message_short">Carte non valide</string>
 <string name="lockscreen_sim_error_message">"Carte SIM n'est pas valide."</string>
 <string name="lockscreen_perso_locked_message">SIM / RUIM est verrouillé Perso</string>
 <string name="lockscreen_sim_pin_blocked">PIN1 bloqué. Entrez le code PUK1 pour débloquer PIN1</string>
@@ -174,8 +174,8 @@
 <string name="permission_choice_label">Mémoriser mon choix</string>
 <string name="reject_text">Rejeter</string>
 <string name="allow_text">Autoriser</string>
-<string name="oppo_nvrestore_title">Certains nvitems sont invalides</string>
-<string name="oppo_nvrestore_ticker">Certains nvitems sont invalides</string>
+<string name="oppo_nvrestore_title">Certains nvitems sont non valides</string>
+<string name="oppo_nvrestore_ticker">Certains nvitems sont non valides</string>
 <string name="oppo_unlockscreen_indicator_ok">ok</string>
 <string name="oppo_unlockscreen_indicator_cancel">annuler</string>
 <string name="lockscreen_stopped">Stop</string>

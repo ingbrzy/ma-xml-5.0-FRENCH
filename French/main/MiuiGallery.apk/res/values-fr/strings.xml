@@ -168,7 +168,7 @@
   <string name="enter_email_hint">"Entrer une adresse Mail "</string>
   <string name="error_album_not_exist">"L'album n'existe pas."</string>
   <string name="error_cloud_not_active">L\'album MiCloud n\'est pas en service</string>
-  <string name="error_invalid_link">Le lien est invalide ou a expiré, veuillez demander au propriétaire de l\'album de créer un nouveau lien de partage.</string>
+  <string name="error_invalid_link">Le lien est non valide ou a expiré, veuillez demander au propriétaire de l\'album de créer un nouveau lien de partage.</string>
   <string name="error_repeat_apply">Vous avez déjà été partagé avec cet album</string>
   <string name="error_should_not_select_image">Attention : veuillez ne pas sélectionner un fichier image.</string>
   <string name="error_should_not_select_video">Attention : veuillez ne pas sélectionner un fichier vidéo.</string>
@@ -216,7 +216,7 @@
   <string name="group_by_location">Par emplacement</string>
   <string name="group_by_tags">Par tag</string>
   <string name="group_by_time">Par date</string>
-  <string name="has_invalid_recipient">Destinataire(s) invalide(s) : %1$s</string>
+  <string name="has_invalid_recipient">Destinataire(s) non valide(s) : %1$s</string>
   <string name="height">Hauteur</string>
   <string name="highlight">Reflets</string>
   <string name="home_my_captured_items">photo(s) au total</string>
@@ -235,7 +235,7 @@
   <string name="internal_camera_folder_display_name">Photos de la caméra</string>
   <string name="internal_miui_capture_screen_folder_display_name">Captures d\'écran internes</string>
   <string name="internal_sd_card">Carte SD interne</string>
-  <string name="invalid_invition_url">URL d\'invitation invalide.</string>
+  <string name="invalid_invition_url">URL d\'invitation non valide.</string>
   <string name="invalid_recipient_message">"Corrigez les erreurs de destinataires ou ils ne recevront pas le message"</string>
   <string name="iso">ISO</string>
   <string name="kick_owner_user_positive_button_text">Supprimer</string>
@@ -431,7 +431,7 @@
   <string name="slideshow_dream_name">Diaporama</string>
   <string name="slideshow_interval">Intervalle du diaporama</string>
   <string name="slideshow_interval_dialog_title">L\'intervalle d\'affichage du diaporama doit être supérieur à 0</string>
-  <string name="slideshow_interval_invalid">Intervalle invalide. Celui-ci doit être compris entre 1 et 3600. L\'intervalle par défaut va être utilisé en attendant.</string>
+  <string name="slideshow_interval_invalid">Intervalle non valide. Celui-ci doit être compris entre 1 et 3600. L\'intervalle par défaut va être utilisé en attendant.</string>
   <string name="slideshow_repeat_mode">Boucler</string>
   <string name="slideshow_time_select_title">Sélectionner l\'intervalle du diaporama</string>
   <string name="slideshow_time_title">Intervalle du diaporama</string>

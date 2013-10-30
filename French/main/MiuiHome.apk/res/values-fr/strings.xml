@@ -79,7 +79,7 @@
   <string name="guide_install_app_title">Installer Application</string>
   <string name="guide_tips_editing_mode">Maintenez le widget ci-dessous pour le faire glisser sur l\'écran</string>
   <string name="install">Installer</string>
-  <string name="invalid_contact_shortcut">Raccourci du contact invalide</string>
+  <string name="invalid_contact_shortcut">Raccourci du contact non valide</string>
   <string name="loading_desktop">Chargement du lanceur…</string>
   <string name="maml_component_customization_title">Paramètres des composants</string>
   <string name="menu_add">Ajouter</string>
