@@ -609,7 +609,7 @@
   <string name="webapp_bottom_bar_exit">Quitter</string>
  <!--webapp_bottom_bar_hidebar & webapp_bottom_bar_showbar à revoir ? -->
   <string name="webapp_bottom_bar_hidebar">Masquer la barre du bas</string>
-  <string name="webapp_bottom_bar_openbrowser">Ouvrir dans le navigateur</string>:
+  <string name="webapp_bottom_bar_openbrowser">Ouvrir dans le navigateur</string>
   <string name="webapp_bottom_bar_showbar">Afficher la barre du bas</string>
   <string name="webapp_dialog_title">Ajouter l\'app. sur l\'écran d\'accueil</string>
   <string name="webapp_splashview_loading">Chargement, veuillez attendre…</string>
