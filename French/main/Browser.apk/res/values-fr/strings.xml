@@ -39,9 +39,7 @@
   <string name="added_to_bookmarks">Ajouté aux favoris.</string>
   <string name="alert_tips">Le site que vous visitez présente un risque potentiel de sécurité, voulez-vous continuer ?</string>
   <string name="allow">Autoriser</string>
- <!-- à traduire 
-  <string name="already_in_top_level">Bookmark is already at the top level</string>
- -->
+  <string name="already_in_top_level">Favori déjà au plus haut niveau</string>
   <string name="app_new_version">Vous avez déjà téléchargé la dernière version</string>
   <string name="app_update_install">Nouvelle version téléchargée et prête pour l\'installation</string>
   <string name="application_name">Navigateur</string>
@@ -112,7 +110,7 @@
   <string name="clip_dialog_title">Ouvrir le lien copié ?</string>
   <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous les onglets ?</string>
   <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.fr</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_down_analytic_txt">Réduire</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -153,10 +151,8 @@
   <string name="delete_bookmark_warning">Supprimer le favori \"%s\" ?</string>
   <string name="delete_folder">Supprimer le dossier</string>
   <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
- <!-- à traduire :
-  <string name="dialog_geolocation_reject">Hide location</string>
-  <string name="dialog_geolocation_share">Share location</string>
- -->
+  <string name="dialog_geolocation_reject">Masquer la position</string>
+  <string name="dialog_geolocation_share">Partager la position</string>
   <string name="disable_autofill">Désactiver la saisie automatique</string>
   <string name="disk_space_available">%1$s disponible</string>
   <string name="disk_space_selected">%1$s sélectionné</string>
@@ -606,19 +602,15 @@
   <string name="warning">Avertissement</string>
   <string name="webapp_add_to_desktop">Ajouter sur l\'écran d\'accueil</string>
   <string name="webapp_addtodeskpop_append">App. ajoutée sur l\'écran d\'accueil</string>
- <!-- à traduire :
-  <string name="webapp_app_name">MiMarket Web Store</string>
- -->
+  <!-- webapp_app_name à revoir? -->
+  <string name="webapp_app_name">Boutique Web MiMarket</string>
   <string name="webapp_bottom_bar_addtodesk">Ajouter sur l\'écran d\'accueil</string>
   <string name="webapp_bottom_bar_already_addtodesk">Déjà ajouté sur l\'écran d\'accueil</string>
   <string name="webapp_bottom_bar_exit">Quitter</string>
- <!-- à traduire :
-  <string name="webapp_bottom_bar_hidebar">Hide Bottom Bar</string>
- -->
-  <string name="webapp_bottom_bar_openbrowser">Ouvrir dans le navigateur</string>
- <!-- à traduire :
-  <string name="webapp_bottom_bar_showbar">Show Bottom Bar</string>
- -->
+ <!--webapp_bottom_bar_hidebar & webapp_bottom_bar_showbar à revoir ? -->
+  <string name="webapp_bottom_bar_hidebar">Masquer la barre du bas</string>
+  <string name="webapp_bottom_bar_openbrowser">Ouvrir dans le navigateur</string>:
+  <string name="webapp_bottom_bar_showbar">Afficher la barre du bas Bottom Bar</string>
   <string name="webapp_dialog_title">Ajouter l\'app. sur l\'écran d\'accueil</string>
   <string name="webapp_splashview_loading">Chargement, veuillez attendre…</string>
   <string name="webapp_web_forward">Suivant</string>

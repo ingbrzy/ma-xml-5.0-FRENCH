@@ -15,12 +15,10 @@
   <string name="debug_tool_start_button">Commencer</string>
   <string name="provider_label">Agenda</string>
   <string name="upgrade_msg">Mise à jour de la base de données.</string>
- <!-- à traduire : 
-  <string name="holiday_update_title">Work days data need connect network and update</string>
-  <string name="holiday_update_summary">Click check updates</string>
-  <string name="holiday_data_updating">Updating...</string>
-  <string name="holiday_data_update_failed">Check for update errors and please try again later.</string>
-  <string name="holiday_data_update_succeed">Check for completed update</string>
-  <string name="holiday_data_no_network">No network, please try again later</string
- -->
+  <string name="holiday_update_title">Les données des jours de travail ont besoins d\'êtres mises à jour via le réseau</string>
+  <string name="holiday_update_summary">Appuyer pour vérifier les mises à jour</string>
+  <string name="holiday_data_updating">Mise à jour…</string>
+  <string name="holiday_data_update_failed">Vérification de mise à jour échouée, veuillez réessayer plus tard.</string>
+  <string name="holiday_data_update_succeed">Vérification de mise à jour réussie</string>
+  <string name="holiday_data_no_network">Pas de réseau, veuillez réessayer plus tard</string>
  </resources>

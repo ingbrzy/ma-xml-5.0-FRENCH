@@ -1386,10 +1386,10 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="perm_hips_mobile_network_hint">%1$s apps sont autorisées à accéder à Internet via le réseau mobile</string>
   <string name="perm_hips_network_accept">accepter la connexion de %1$s</string>
   <string name="perm_hips_network_connect">se connecter à %1$s</string>
-  <string name="perm_hips_network_listen">Ecoute sur le port %1$s</string>
+  <string name="perm_hips_network_listen">Écoute sur le port %1$s</string>
   <string name="perm_hips_network_mobile_event">en utilisant le réseau mobile</string>
   <string name="perm_hips_network_recv">recevoir des données</string>
-  <string name="perm_hips_network_send">Envoyer des données</string>
+  <string name="perm_hips_network_send">envoyer des données</string>
   <string name="perm_hips_network_unknown_addr">Adresse inconnue</string>
   <string name="perm_hips_network_wifi_event">en utilisant le réseau Wi-Fi</string>
   <string name="perm_hips_phoneid_iccid">obtenir le num. de série de la carte SIM</string>
@@ -1561,7 +1561,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="proxy_error_invalid_port">"Le port indiqué n'est pas valide."</string>
   <string name="proxy_exclusionlist_hint">ex: sodu76.liamsi.yakou.com</string>
   <string name="proxy_exclusionlist_label">Ignorer le proxy pour</string>
-  <string name="proxy_hostname_hint">proxy.SuperTuxx76.com</string>
+  <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Nom d\'hôte du proxy</string>
   <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Port du proxy</string>
@@ -2012,11 +2012,13 @@ Le code PIN est peut-être incorrect."</string>
   <string name="total_size_label">Total</string>
   <string name="touch_title">Toucher</string>
   <string name="touch_sensitive_title">Mode gants</string>
-  <string name="touch_sensitive_summary"></string>
-  <string name="touch_sensitive_turn_off_title">Désactiver le mode gants</string>
-  <!-- à traduire : Glove mode ou Prevent pocket dial, wtf ?
-  <string name="touch_sensitive_turn_off_summary">Do you want to turn off Prevent pocket dials?</string>
+ <!-- à traduire : 
+  <string name="touch_sensitive_summary">Enable sensitive touch to support operate mobile phone when wearing gloves, Prevent pocket dials will turn on</string>
   -->
+  <string name="touch_sensitive_turn_off_title">Désactiver le mode gants</string>
+ <!-- à traduire : 
+  <string name="touch_sensitive_turn_off_summary">Do you want to turn off Prevent pocket dials?</string>
+ -->
   <string name="touch_sensitive_turn_off_confirm">Confirmer</string>
   <string name="touch_sensitive_turn_off_cancel">Annuler</string>
   <string name="track_frame_time">Rendu GPU du profil</string>

@@ -80,7 +80,7 @@
   <string name="payment_unknown_status_title">"Erreur du statut de paiement"</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="provider_tag">Source de données</string>
-  <string name="recharge_actual_price">Prix：</string>
+  <string name="recharge_actual_price">Prix :</string>
   <string name="recharge_charge_range">Prix : ¥%1$s-%2$s</string>
   <string name="recharge_charge_value">Prix : ¥%s</string>
   <string name="recharge_history">Historique des recharges</string>
