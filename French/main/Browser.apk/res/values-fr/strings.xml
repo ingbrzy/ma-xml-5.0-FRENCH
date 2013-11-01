@@ -12,9 +12,9 @@
   <string name="accessibility_button_goto">Atteindre</string>
   <string name="accessibility_button_larger">Plus grand</string>
   <string name="accessibility_button_more">Autres options</string>
-  <string name="accessibility_button_navscreen">Gestionnaire de page</string>
-  <string name="accessibility_button_newincognitotab">Nouvel onglet de navigation privée</string>
-  <string name="accessibility_button_newtab">Nouvel onglet</string>
+  <string name="accessibility_button_navscreen">Gestionnaire de pages</string>
+  <string name="accessibility_button_newincognitotab">Ouvrir un onglet de navigation privée</string>
+  <string name="accessibility_button_newtab">Ouvrir un nouvel onglet</string>
   <string name="accessibility_button_refresh">Rafraîchir</string>
   <string name="accessibility_button_search">Rechercher</string>
   <string name="accessibility_button_smaller">Plus petit</string>
@@ -28,7 +28,7 @@
   <string name="account">Compte</string>
   <string name="account_chooser_dialog_title">Choisir un compte</string>
   <string name="action">Se connecter</string>
-  <string name="add_bookmark">Ajouter aux favoris</string>
+  <string name="add_bookmark">Ajouter un favori</string>
   <string name="add_bookmark_short">Ajouter</string>
   <string name="add_folder">Créer un dossier</string>
   <string name="add_new_bookmark">Ajouter un favori</string>
@@ -363,7 +363,7 @@
   <string name="pref_data_preload_title">Précharger les résultats de recherche</string>
   <string name="pref_data_preload_value_never_summary">Ne pas autoriser le navigateur à ouvrir des résultats sensibles en arrière-plan</string>
   <string name="pref_data_title">Gestion de la bande passante</string>
-  <string name="pref_default_text_encoding">Encodage du texte</string>
+  <string name="pref_default_text_encoding">Codage du texte</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
   <string name="pref_default_text_encoding_dialogtitle">Codage du texte</string>
   <string name="pref_default_zoom">Zoom par défaut</string>
@@ -413,7 +413,7 @@
   <string name="pref_images_preload_summary">" Autoriser le navigateur à précharger les images lorsque le serveur le supporte"</string>
   <string name="pref_images_preload_title">Préchargement d\'image</string>
   <string name="pref_images_preload_value_always_summary">Toujours autoriser le navigateur à précharger les images lorsque le serveur le supporte</string>
-  <string name="pref_images_preload_value_never_summary">Ne jamais autoriser le préchargemet d\'image</string>
+  <string name="pref_images_preload_value_never_summary">Ne jamais autoriser le préchargement d\'image</string>
   <string name="pref_images_preload_value_wifi_only_summary">Précharger les images uniquement en Wi-Fi</string>
   <string name="pref_inverted">Rendu inversé</string>
   <string name="pref_inverted_category">Rendu inversé de l\'écran</string>
@@ -594,7 +594,7 @@
   <string name="ua_switcher_desktop">Voir version ordinateur</string>
   <string name="uploads_disabled">Les transferts de fichiers sont désactivés.</string>
   <string name="url_copy_done">URL copiée</string>
-  <string name="url_hint">Rechercher ou entrer adresse</string>
+  <string name="url_hint">Rechercher ou saisir une URL</string>
   <string name="user_defined_webpage">Ajouter un lien</string>
   <string name="user_defined_webpage_title">Ajouter un lien sur page d\'accueil</string>
   <string name="username">Nom</string>

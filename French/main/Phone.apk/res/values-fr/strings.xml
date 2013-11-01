@@ -301,7 +301,7 @@
   <string name="cw_title_miui">Appel en attente</string>
   <string name="data_connected_change">"Impossible de changer de réseau pendant que le service de données est en cours d'utilisation. Arrêtez le service de données et sélectionner un autre réseau disponible ?"</string>
   <string name="data_enable_summary">Activer l\'accès aux données sur le réseau mobile</string>
-  <string name="data_enabled">Activer les données</string>
+  <string name="data_enabled">Données activées</string>
   <string name="deact_all_sub_not_supported">La désactivation des deux abonnements n\'est pas pris en charge.</string>
   <string name="default_contacts_countrycode_hint_miui">Par exemple : 86</string>
   <string name="default_contacts_countrycode_miui">Code pays des contacts par défaut</string>
@@ -764,13 +764,14 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="prefer_2g">Réseau 2G seulement</string>
   <string name="prefer_2g_summary">Économise la batterie</string>
   <string name="preference_category_ringtone">Sonnerie et vibreur</string>
-  <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Mode réseau préféré : CDMA/EVDO/GSM/WCDMA</string>
+  <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Mode réseau préféré : CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_cdma_evdo_summary">Mode réseau préféré : CDMA/EvDo</string>
   <string name="preferred_network_mode_cdma_only_summary">Mode réseau préféré : CDMA uniquement</string>
   <string name="preferred_network_mode_cdma_summary">Mode réseau préféré : CDMA</string>
   <string name="preferred_network_mode_dialogtitle">Mode réseau préféré</string>
   <string name="preferred_network_mode_evdo_only_summary">Mode réseau préféré : EvDo uniquement</string>
-  <string name="preferred_network_mode_global_summary">Mode réseau préféré : CDMA/EVDO/GSM/WCDMA</string>
+  <!-- preferred_network_mode_global_summary string correcte ? a vérifier. -->
+  <string name="preferred_network_mode_global_summary">Mode réseau préféré : CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_gsm_only_summary">Mode réseau préféré : GSM uniquement</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Mode réseau préféré : GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Mode réseau préféré : CDMA/LTE/EVDO</string>
@@ -863,7 +864,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="respond_via_sms_canned_response_4">"Je ne peux pas parler. On se rappelle ?"</string>
   <string name="respond_via_sms_canned_response_4_miui">"Je ne peux pas parler au téléphone, qu'y a-t-il ?"</string>
   <string name="respond_via_sms_confirmation_format">Message envoyé à %s.</string>
-  <string name="respond_via_sms_custom_message">Message personnalisé</string>
+  <string name="respond_via_sms_custom_message">Réponse personnalisée…</string>
   <string name="respond_via_sms_edittext_dialog_title">Réponse rapide</string>
   <string name="respond_via_sms_setting_title">Réponses rapides</string>
   <string name="respond_via_sms_setting_title_2">Modifier les réponses rapides</string>
