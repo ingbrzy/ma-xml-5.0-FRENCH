@@ -31,13 +31,9 @@
   <string name="balance_inquiry_default_sp_name">Opérateur</string>
   <string name="expresss_inquiry_frequently_used_logistics">Fréquents</string>
   <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
- <!-- à traduire : Compagnie de coursiers ?...
-  <string name="express_inquiry_logistics_indication">Courier company</string>
- -->
+  <string name="express_inquiry_logistics_indication">Entreprise postale</string>
   <string name="express_inquiry_no_result">Aucun résultat.</string>
- <!-- à traduire : Compagnie de coursiers ?...
-  <string name="express_inqiury_select_logistics">Courier company</string>
- -->
+  <string name="express_inqiury_select_logistics">Entreprise postale</string>
  <!-- balance_inquiry_send_sms_hint remplacer "opérateur"? -->
   <string name="balance_inquiry_send_sms_hint">Une demande de solde sera envoyée par SMS (gratuit) à l\'opérateur</string>
   <string name="express_inquiry_serial_number_indication">Numéro de suivi</string>
@@ -70,10 +66,8 @@
  <!-- packages_wait_for_op_reply remplacer "opérateur"?  -->
   <string name="packages_wait_for_op_reply">Veuillez attendre le message de confirmation de l\'opérateur</string>
   <string name="packages_select_sim_cards_title">Veuillez sélectionner la carte SIM</string>
- <!-- à traduire : traffic package = forfait data ??
-  <string name="packages_select_sim_cards_summmary">System will recommend traffic packages according to your choice</string>
-  <string name="packages_no_package">No suitable traffic packages</string>
- -->
+  <string name="packages_select_sim_cards_summmary">Le système propose des forfaits data en fonction de votre choix</string>
+  <string name="packages_no_package">Aucun forfait data adapté</string>
   <string name="payment_back">Annuler</string>
   <string name="payment_failed_common_problems">Un problème est survenu lors du paiement.</string>
   <string name="payment_unknown_status_summary">Vérifiez votre connexion réseau et réessayez.</string>

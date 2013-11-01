@@ -861,12 +861,13 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_no_result">Aucun résultat</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_online">En ligne %1$s</string>
-<!-- à traduire 
-  <string name="resource_pack_confirm">You have already purchased %1$d items, the current purchase price is better than purchase individually for left items, would you like to continue?</string>
-  <string name="resource_pack_discount_info">%1$s Saved!</string>
-  <string name="resource_pack_price_info">%1$s Original</string>
-  <string name="resource_pack_warning">Warning! you have already purchased %1$d items, current price is no longer valid for left items, please purchase them individually.</string>
--->
+ <!-- resource_pack_confirm et resource_pack_warning à vérifier/Revoir ? -->
+  <string name="resource_pack_confirm">Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d\'acheter les articles restants individuellement, souhaitez-vous continuer ?</string>
+ <!-- à traduire 
+  <string name="resource_pack_discount_info">%1$s Saved!</string>  Économisé(s?) ?
+  <string name="resource_pack_price_info">%1$s Original</string
+ -->
+  <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restant, veuillez les acheter individuellement.</string>  
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
   <string name="resource_price_unit">MiCredits</string>

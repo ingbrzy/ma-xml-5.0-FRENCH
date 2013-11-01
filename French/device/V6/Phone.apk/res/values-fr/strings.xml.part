@@ -60,10 +60,10 @@
   <string name="cell_broadcast">Diffusion cellulaire</string>
   <string name="cell_broadcast_settings">Réglages diffusion cellulaire</string>
   <string name="confirm_3g_switch">Confirmer l\'application du service 3G à cette SIM ? Ceci règlera aussi la SIM par défaut pour les appels vidéo sur cette carte SIM.</string>
-  <string name="confirm_3g_switch_to_off">Etes-vous sûr de vouloir désactiver le service 3G ? Cela désactivera également automatiquement le service d\'appel vidéo.</string>
+  <string name="confirm_3g_switch_to_off">Êtes-vous sûr de vouloir désactiver le service 3G ? Cela désactivera également automatiquement le service d\'appel vidéo.</string>
   <string name="confirm_device_info_full">La carte SD est pleine, l\'enregistrement a été sauvegardé.</string>
   <string name="confirm_save_info_saved">L\'enregistrement a été sauvegardé</string>
-  <string name="data_conn_under_roaming_hint">"Veuillez activer l'itinirance des données dans Paramètres -> Réseaux mobiles -> Itinirance des données"</string>
+  <string name="data_conn_under_roaming_hint">"Veuillez activer l'itinérance des données dans Paramètres -> Réseaux mobiles -> Itinirance des données"</string>
   <string name="description_search_button">rechercher</string>
   <string name="dialog_network_priority_title">Priorité</string>
   <string name="disable_data_connection_msg">La recherche de tous les réseaux disponibles déconnectera la connexion de données qui est en cours d\'utilisation. Voulez-vous continuer ?</string>
@@ -203,7 +203,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="others">Autres réglages</string>
   <string name="pch_data_prefer_message">"Le service données mobiles préféré est utilisé pour améliorer la transmission des données au prix d\'un taux de réception d\'appel diminué. Il est recommandé de ne pas utiliser ce service.
 
-Etes-vous sûr de vouloir autoriser le service données mobiles préféré ?"</string>
+Êtes-vous sûr de vouloir autoriser le service données mobiles préféré ?"</string>
   <string name="pch_data_prefer_summary">Autoriser la transmission des données mobiles à pleine vitesse</string>
   <string name="pch_data_prefer_title">Service données mobiles préféré</string>
   <string name="pin2_name">PIN2</string>
@@ -216,7 +216,7 @@ Etes-vous sûr de vouloir autoriser le service données mobiles préféré ?"</s
   <string name="puk_length_indicate">(8 chiffres)</string>
   <string name="reminder">Rappel</string>
   <string name="reset">Réinitialiser</string>
-  <string name="reset_alert">Etes-vous sûr de vouloir supprimer la quantité de données utilisées?</string>
+  <string name="reset_alert">Êtes-vous sûr de vouloir supprimer la quantité de données utilisées?</string>
   <string name="reset_data_usage">Réinitialiser la quantité des données</string>
   <string name="retries_left">%d essais restants</string>
   <string name="select_all">Tout sélectionner</string>

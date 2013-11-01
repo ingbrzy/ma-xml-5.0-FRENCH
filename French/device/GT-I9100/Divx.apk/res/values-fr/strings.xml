@@ -33,5 +33,5 @@ Supprimer toutes les licences ?"</string>
   <string name="divx_deregistration_code">Code de désenregistrement : %s</string>
   <string name="divx_deregister_website">Désenregistrez-vous sur : %s</string>
   <string name="divx_deregistration_info">Continuer l’enregistrement ?</string>
-  <string name="dialog_deregister_confirmation_message">Votre appareil est déjà enregistré. Etes-vous sûr de vouloir vous désenregistrer ?</string>
+  <string name="dialog_deregister_confirmation_message">Votre appareil est déjà enregistré. Êtes-vous sûr de vouloir vous désenregistrer ?</string>
 </resources>
