@@ -54,7 +54,7 @@
   <string name="menu_correct_yellow_page">Correction</string>
   <string name="menu_delete_call_log">Supprimer le journal d\'appels</string>
   <string name="menu_delete_one">Retirer l\'élément du journal d\'appels</string>
-  <string name="menu_refresh">Rafraîchir</string>
+  <string name="menu_refresh">Actualiser</string>
   <string name="menu_remove_black_list">Supprimer de la liste noire</string>
   <string name="mishop_web_payment_title">Panier MiStore</string>
   <string name="network_unavaliable">Réseau indisponible, veuillez vérifier vos paramètres réseau</string>

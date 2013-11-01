@@ -315,7 +315,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockpattern_tutorial_continue_label">Suivant</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Schéma oublié ?&lt;/u&gt;</string>
   <string name="login">Connexion</string>
-  <string name="memu_refresh">Rafraîchir</string>
+  <string name="memu_refresh">Actualiser</string>
   <string name="mibi_license_message">Service MiCredit de Xiaomi. En appuyant sur OK, vous acceptez être en accord avec le %1$s.</string>
   <string name="mibi_license_message_span">Contrat d\'utilisation de MiCredit</string>
   <string name="mibi_license_title">Contrat d\'utilisation de MiCredit</string>

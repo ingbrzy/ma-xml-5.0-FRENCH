@@ -322,7 +322,7 @@
   <string name="received_label">"Date de réception : "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Destinataire : "</string>
-  <string name="refresh">Rafraîchir</string>
+  <string name="refresh">Actualiser</string>
   <string name="refresh_failed">La mise à jour a échouée</string>
   <string name="refreshing">Actualisation…</string>
   <string name="remove">Supprimer</string>

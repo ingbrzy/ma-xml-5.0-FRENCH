@@ -45,7 +45,7 @@
   <string name="lockstyle_personal_settings">Personnalisation</string>
   <string name="long_ringtone_resource">Long</string>
   <string name="maml_component_customization_title">Paramètres des composants</string>
-  <string name="menu_refresh">Rafraîchir</string>
+  <string name="menu_refresh">Actualiser</string>
   <string name="mi_wallpaper">Fond d\'écran</string>
   <string name="online_no_network">Impossible de se connecter au réseau</string>
   <string name="online_search_hint">Recherche de ressources en ligne</string>

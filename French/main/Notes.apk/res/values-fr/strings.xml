@@ -36,7 +36,7 @@
   <string name="folder_exist">Le dossier %1$s existe déjà, veuillez changer le nom</string>
   <string name="format_date_ymd">ddMMyyyy</string>
   <string name="format_datetime_mdhm">dMMM kk:mm</string>
-  <string name="format_exported_file_location">Le fichier texte (%1$s) a été exporté dans le répertoire (%2$s) de la carte SD</string>
+  <string name="format_exported_file_location">Le fichier texte \"%1$s\" a été exporté dans le répertoire \"%2$s\" de la carte SD</string>
   <string name="format_folder_files_count">(%d)</string>
   <string name="format_move_notes_to_folder">%1$d notes ont été déplacées dans le dossiers %2$s</string>
   <string name="hint_foler_name">Entrez un nom de dossier</string>

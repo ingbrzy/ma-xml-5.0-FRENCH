@@ -50,7 +50,7 @@
   <string name="correct_id3_summary">Cette méthode de correction peut entraîner de hauts frais de données mobile. Ne pas laisser ouvert après utilisation</string>
   <string name="create_confirm">Confirmer</string>
   <string name="create_equalzier_create_text_prompt">Nom de l\'effet de l\'égaliseur</string>
-  <string name="create_playlist_create_text_prompt">Nom de la liste de lecture</string>
+  <string name="create_playlist_create_text_prompt">Nom de la playlist</string>
   <string name="custom">Personnalisé</string>
   <string name="delete_file_from_sdcard">Supprimer tous les fichiers de la carte SD</string>
   <string name="delete_item">Supprimer</string>
@@ -182,7 +182,7 @@
   <string name="network_error">Aucune connexion réseau, veuillez vérifier vos paramètres réseau</string>
   <string name="new_albums">Nouveaux Albums</string>
   <string name="new_equalizer_name_template">Nouveau profil EQ %d</string>
-  <string name="new_playlist">Nouvelle Playlist</string>
+  <string name="new_playlist">Nouvelle playlist</string>
   <string name="new_playlist_name_template">Playlist %d</string>
   <string name="no_effect">Pas d\'effet</string>
   <string name="no_song_downloaded">La chanson ne peut pas être téléchargée</string>
@@ -220,7 +220,7 @@
   <string name="recommend">Recommandé</string>
   <string name="refresh_finish">Actualisé avec succès</string>
   <string name="refresh_in_processing">Actualisation…</string>
-  <string name="refresh_media_db">Rafraîchir</string>
+  <string name="refresh_media_db">Actualiser</string>
   <string name="refresh_start">Actualisation en cours, veuillez patienter…</string>
   <string name="remove_from_favorite">Supprimer des favoris</string>
   <string name="remove_item">Supprimer</string>

@@ -161,7 +161,7 @@
   <string name="prompt_sending">Envoi…</string>
   <string name="prompt_writing">Enregistrement…</string>
   <string name="read_encrypt_fail">Le chiffrement de lecture a échoué</string>
-  <string name="refresh">Rafraîchir</string>
+  <string name="refresh">Actualiser</string>
   <string name="restore">Restaurer</string>
   <string name="restore_contact">Restaurer les contacts</string>
   <string name="restore_contact_content">La restauration des contacts peut entraîner des doublons, êtes-vous sûr de vouloir faire cela ?\n Remarque : Vous pouvez fusionner les contacts en double dans les paramètres de la liste des contacts</string>

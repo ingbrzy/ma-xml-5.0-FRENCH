@@ -81,7 +81,7 @@ Si ce n'est pas le cas vous pouvez le réajuster."</string>
   <string name="menu_hide_system_app">Masquer les applications système</string>
   <string name="menu_hide_wifi">Masquer le trafic Wi-Fi</string>
   <string name="menu_new_install_app_settings">Paramètres par défaut</string>
-  <string name="menu_refresh">Rafraîchir</string>
+  <string name="menu_refresh">Actualiser</string>
   <string name="menu_settings">Réglages des services réseau</string>
   <string name="menu_sort">Trier</string>
   <string name="menu_sort_by_all_traffic">Trier par trafic total</string>
@@ -113,7 +113,7 @@ Si ce n'est pas le cas vous pouvez le réajuster."</string>
   <string name="pref_network_speed_internal_title">Vitesse de transfert</string>
   <string name="pref_network_speed_settings">Afficher la vitesse de transfert</string>
   <string name="pref_network_status_bar">État du réseau</string>
-  <string name="pref_netwotk_speed_internal_summary">Le rafraichissement se fait toutes les %d secondes</string>
+  <string name="pref_netwotk_speed_internal_summary">L\'actualisation se fait toutes les %d secondes</string>
   <string name="pref_traffic_adjust_title">Ajuster les données relatives au trafic</string>
   <string name="pref_traffic_daily_limit_settings">Réglages de la limite quotidienne</string>
   <string name="pref_traffic_settings">Paramètres du trafic</string>

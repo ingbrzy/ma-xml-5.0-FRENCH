@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="Ntracks_remove_from_favorite_playlist">
-    <item quantity="other">%d chansons retirées de la liste de lecture.</item>
-    <item quantity="one">1 chanson retirée de la liste de lecture.</item>
+    <item quantity="other">%d chansons retirées de la playlist.</item>
+    <item quantity="one">1 chanson retirée de la playlist.</item>
   </plurals>
   <plurals name="Ntracks_search_result_format">
     <item quantity="one">%d chanson associée</item>
@@ -37,8 +37,8 @@
     <item quantity="other">artistes</item>
   </plurals>
   <plurals name="Nplaylists">
-    <item quantity="one">liste de lecture</item>
-    <item quantity="other">listes de lectures</item>
+    <item quantity="one">playlist</item>
+    <item quantity="other">playlists</item>
   </plurals>
   <plurals name="Nfolders">
     <item quantity="one">" dossier"</item>
@@ -53,16 +53,16 @@
     <item quantity="other">Il y a %d chansons sur la carte SD</item>
   </plurals>
   <plurals name="NNNtrackstoplaylist">
-    <item quantity="one">1 titre ajouté à la liste de lecture.</item>
-    <item quantity="other">%d titres ajoutés à la liste de lecture.</item>
+    <item quantity="one">1 titre ajouté à la playlist.</item>
+    <item quantity="other">%d titres ajoutés à la playlist.</item>
   </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d chansons retirées de la liste de lecture.</item>
-        <item quantity="one">1 chanson retirée de la liste de lecture.</item>
+        <item quantity="other">%d chansons retirées de la playlist.</item>
+        <item quantity="one">1 chanson retirée de la playlist.</item>
     </plurals>
   <plurals name="NNNtrackstofavoriteplaylist">
-    <item quantity="one">1 chanson ajoutée à la liste de lecture.</item>
-    <item quantity="other">%d chansons ajoutées à la liste de lecture.</item>
+    <item quantity="one">1 chanson ajoutée à la playlist.</item>
+    <item quantity="other">%d chansons ajoutées à la playlist.</item>
   </plurals>
   <plurals name="Nonlinecategory">
     <item quantity="one">" catégorie"</item>
