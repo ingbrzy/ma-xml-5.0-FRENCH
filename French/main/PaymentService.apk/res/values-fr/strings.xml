@@ -105,7 +105,7 @@ Veuillez réessayer après cinq minutes"</string>
   <string name="giftcard_record">MiCredit reçus</string>
   <string name="giftcard_value">" (Carte-cadeau %1$s MiCredit)"</string>
   
-  <!-- à traduire éventuellement...
+ <!-- à traduire, en attentant l'anglais est mieux que le chinois... -->
   <string name="hfb_app_name">UMPay</string>
   <string name="hfb_commit">Submit order</string>
   <string name="hfb_complete">Purchased successfully!</string>
@@ -151,12 +151,11 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="hfb_umpay_info">Call * 10658008 for  China Mobile Communications accounts to pay via SMS</string>
   <string name="hfb_upgrade_download_fail">Failed to download update, please try again later</string>
   <string name="hfb_upgrade_download_sucess">New version downloaded successfully!</string>
-  -->
+ <!-- -->
   <string name="label_balance">Solde :</string>
   <string name="label_order_name">"Nom du produit : "</string>
   <string name="label_order_price">"Quantité : "</string>
-  
-  <!-- à traduire éventuellement...
+ <!-- à traduire, en attentant l'anglais est mieux que le chinois... -->
   <string name="linkpay_account">Linkpay:</string>
   <string name="linkpay_account_cannot_be_null">Linkpay account is required</string>
   <string name="linkpay_achieve_charge">Complete payment</string>
@@ -290,7 +289,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_you_will_pay">Amount to pay</string>
   <string name="linkpay_yuan">Yuan</string>
   <string name="linkpay_zhifubao">支付宝</string>
-  -->
+ <!-- -->
   
   <string name="lockpassword_choose_your_pattern_header">Choisissez votre schéma</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmer votre schéma</string>
@@ -354,14 +353,14 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="prepaid_china_mobile">China Mobile</string>
   <string name="prepaid_china_telcom">China Telecom</string>
   <string name="prepaid_china_unicom">China Unicom</string>
-  <string name="prepaid_edit_limit">codes</string>
+  <string name="prepaid_edit_limit">chiffres</string>
   <string name="prepaid_error_card_length">Veuillez entrer le numéro de la carte prépayée ou le mot de passe correctement</string>
   <string name="prepaid_error_card_number">Veuillez entrer le montant de la recharge correctement</string>
   <string name="prepaid_error_carrier">Veuillez sélectionner votre opérateur</string>
   <string name="prepaid_error_denomination">Sélectionnez le montant de la recharge</string>
   <string name="prepaid_error_password">Saisissez le mot de passe de la carte prépayée</string>
-  <string name="prepaid_number_edit_hint">Numéro de la carte prépayée</string>
-  <string name="prepaid_password_edit_hint">Mot de passe de la carte prépayée</string>
+  <string name="prepaid_number_edit_hint">Numéro</string>
+  <string name="prepaid_password_edit_hint">Mot de passe</string>
   <string name="prepaid_picker_hint_1_1">1.</string>
   <string name="prepaid_picker_hint_1_2">Prend uniquement une recharge à la fois;</string>
   <string name="prepaid_picker_hint_2_1">2.</string>
@@ -435,11 +434,11 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="title_pay">Payer avec des MiCredits</string>
   <string name="title_pay_record">Historique de paiements</string>
   <string name="title_recharge">Recharger MiCredits</string>
-  <string name="title_recharge_record">Historique des recharges</string>
+  <string name="title_recharge_record">Historique de recharges</string>
   <string name="title_transaction">Transactions</string>
   <string name="title_visible_pattern">Rendre visible le schéma</string>
   <string name="voucher_edit_hint">Code :</string>
-  <string name="voucher_edit_limit">numéros</string>
+  <string name="voucher_edit_limit">chiffres</string>
   <string name="voucher_error_password">Code de bon MiCredit non valide !</string>
   <string name="voucher_error_password_empty">Champ vide, veuillez entrer un code !</string>
   <string name="voucher_input_password_prompt">Entrer le code</string>
