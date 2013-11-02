@@ -57,7 +57,7 @@
   <string name="available_functionality">Fonctions disponibles</string>
   <string name="bad_authentication">Identifiant ou mot de passe incorrect</string>
   <string name="bind_sina_weibo">Autoriser Sina Weibo</string>
-  <string name="bind_weibo_description">Trouver les contacts téléphoniques, amis et d\'autres informations directement à partir de votre compte</string>
+  <string name="bind_weibo_description">Trouver les contacts téléphoniques, amis et d\'autres informations directement à partir de votre compte.</string>
   <string name="binded">Associé</string>
   <string name="btn_activate">Activer</string>
   <string name="button_cancel">Annuler</string>
@@ -84,7 +84,7 @@
   <string name="enableAll">Tout activer</string>
   <string name="enable_find_device_error">Erreur : %1$s</string>
   <string name="enable_micloud">S\'inscrire ou se connecter</string>
-  <string name="error_dup_phone">Le téléphone a été enregistré</string>
+  <string name="error_dup_phone">Téléphone déjà associée avec un autre compte.</string>
   <string name="error_invalid_dev_id">Identité de l\'appareil non valide</string>
   <string name="error_network">Erreur réseau</string>
   <string name="error_no_sms_service">Service SMS indisponible</string>
@@ -135,10 +135,10 @@
   <string name="micloud_activate_retry_btn">Retenter l\'activation</string>
   <string name="micloud_activating_account_notify_info">Vous activez votre compte Xiaomi</string>
   <string name="micloud_activating_account_notify_title">Activation de votre compte Xiaomi…</string>
-  <string name="micloud_active_alert_title">Activer votre compte</string>
+  <string name="micloud_active_alert_title">Envoyer un SMS</string>
   <string name="micloud_active_email_sent_1">Mail d\'activation envoyé à : </string>
   <string name="micloud_active_email_visit">Visitez %s</string>
-  <string name="micloud_activing_account">Activation de votre compte</string>
+  <string name="micloud_activing_account">Activation de votre compte…</string>
   <string name="micloud_activing_account_delayed">"Il faut probablement 30 secondes pour terminer l'activation. 
 Vous pouvez faire autre chose…"</string>
   <string name="micloud_activing_account_failed">Échec de l\'activation du compte</string>
@@ -164,17 +164,17 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_more">En apprendre plus</string>
   <string name="micloud_password_confirm_hint">Confirmer mot passe</string>
   <string name="micloud_password_error_inconsistent">Les mots de passe ne correspondent pas</string>
-  <string name="micloud_password_req_notice">8 à 16 caractères, peut contenir des chiffres et des lettres, sensible à la casse</string>
+  <string name="micloud_password_req_notice">8 à 16 caractères alphanumériques, sensible à la casse</string>
   <string name="micloud_proceed">Continuer</string>
   <string name="micloud_reg_new">S\'inscrire</string>
   <string name="micloud_resend_active_email">Renvoyer le mail d\'activation</string>
   <string name="micloud_summary">Se connecter au compte Xiaomi pour synchroniser les Contacts, la Galerie et d\'autres fonctions.</string>
   <string name="micloud_use_existing">Se connecter</string>
-  <string name="micloud_via_int_sms_alert">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
-  <string name="micloud_via_sms_alert">Un SMS va être envoyé pour valider notre numéro de téléphone. Êtes-vous sûr de vouloir continuer ?</string>
+  <string name="micloud_via_int_sms_alert">Le SMS d\activation est assujetti d\'être facturé au prix d\'un SMS international.</string>
+  <string name="micloud_via_sms_alert">Le SMS d\activation est assujetti d\'être facturé au prix d\'un SMS standard.</string>
   <string name="micloud_welcome_skip_login">Passer l\'enregistrement</string>
   <string name="mili_center">MiCredit</string>
-  <string name="my_xiaomi_account">Mon compte Xiaomi actuel</string>
+  <string name="my_xiaomi_account">Compte Xiaomi</string>
   <string name="next">Suivant</string>
   <string name="nobind">Ne pas associer</string>
   <string name="noRemind">Ne pas rappeler</string>
@@ -182,7 +182,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="password">Mot de passe</string>
   <string name="prev">Précédent</string>
   <string name="process_result">Détails sync. :</string>
-  <string name="quick_login_title">L\'authentification est requise, veuillez entrer votre mot de passe</string>
+  <string name="quick_login_title">Mot de passe</string>
   <string name="quick_login_step2_title">Protection de l\'identification</string>
   <string name="reg_by_email_failure">Échec de l\'inscription : %1$s</string>
   <string name="reg_failed">Échec de l\'inscription</string>
@@ -194,7 +194,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="relogin">Se connecter</string>
   <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appels et des notes déjà synchronisés sur votre appareil ?</string>
   <string name="remove_confirm">Supprimer</string>
-  <string name="remove_unactivated_account_notice">Le compte Xiaomi n\'est pas activé, désirez-vous le retirer maintenant ?</string>
+  <string name="remove_unactivated_account_notice">Votre compte Xiaomi n\'as pas été activé.</string>
   <string name="removing_account">Suppression du compte…</string>
   <string name="restoreSync">Restaurer</string>
   <string name="send_int_sms_for_sync_notice">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
@@ -225,7 +225,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="update_contacts">Mise à jour des contacts</string>
   <string name="update_contacts_description">Met à jour vos contacts téléphoniques et d\'autres informations</string>
   <string name="updated_contacts">%s contacts mis à jour</string>
-  <string name="updated_nothing">Rien n\'as été mis à jour !</string>
+  <string name="updated_nothing">Rien à synchroniser.</string>
   <string name="user_agreement_p1">"En vous connectant, vous acceptez les"</string>
   <string name="user_agreement_p2">Conditions d\'utilisation de Xiaomi</string>
   <string name="user_agreement_p3"> et </string>
