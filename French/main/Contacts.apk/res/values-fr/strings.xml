@@ -166,7 +166,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="confirm_export_title">Confirmer l\'exportation</string>
   <string name="connections">Connexions</string>
   <string name="contactDetailAbout">À propos</string>
-  <string name="contactDetailCalllog">journal d\'appels</string>
+  <string name="contactDetailCalllog">Journal d\'appels</string>
   <string name="contactDetailUpdates">Mises à jour</string>
   <string name="contactMultiPickerActivityTitle">Sélectionner contacts</string>
   <string name="contactPickerActivityTitle">Sélectionner un contact</string>

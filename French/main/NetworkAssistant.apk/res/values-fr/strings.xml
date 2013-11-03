@@ -102,7 +102,7 @@ Si ce n'est pas le cas vous pouvez le réajuster."</string>
   <string name="plate_traffic_already_used">Utilisé</string>
   <string name="plate_traffic_exceed">Dépassé</string>
   <string name="plate_traffic_remain">Restant</string>
-  <string name="powered_by">Support technique de MIUI.com</string>
+  <string name="powered_by">Propulsé par WALL-E</string>
   <string name="pref_category_adjust_traffic">Ajuster les paramètres de trafic</string>
   <string name="pref_connect_settings_enable_backgroung">Services en arrière-plan</string>
   <string name="pref_connect_settings_enable_backgroung_hint">Permettre la connexion automatique au réseau lorsque l\'application s\'exécute en arrière-plan</string>

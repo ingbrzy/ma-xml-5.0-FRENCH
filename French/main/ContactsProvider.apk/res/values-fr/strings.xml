@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_label">Liste des contacts</string>
-  <string name="call_log_provider_label">journal d\'appels</string>
+  <string name="call_log_provider_label">Journal d\'appels</string>
   <string name="create_contact">Nouveau contact</string>
   <string name="debug_dump_database_message">Vous êtes sur le point de 1) faire une copie votre base de données qui comprend toutes les informations relatives à vos contacts et le journal d\'appels  2) l\'envoyer par mail. Rappelez-vous de la supprimer après l\'avoir copié hors de l\'appareil ou que le mail est reçu</string>
   <string name="debug_dump_delete_button">Supprimer maintenant</string>

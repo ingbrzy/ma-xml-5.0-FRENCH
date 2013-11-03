@@ -19,7 +19,7 @@
   <string name="confirm_to_add_blacklist">Mettre le numéro sélectionné sur liste noire ?</string>
   <string name="confirm_to_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
   <string name="contact_detail_calllog_call_note_tips">Notes d\'appel</string>
-  <string name="contact_detail_calllog_call_record_tips">journal d\'appels</string>
+  <string name="contact_detail_calllog_call_record_tips">Enreg. d\'appels</string>
   <string name="custom_mark_category">Personnalisé</string>
   <string name="data_error">Désolé, le service n\'est pas disponible, veuillez réessayer plus tard</string>
   <string name="delete">Supprimer</string>

@@ -59,7 +59,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="perm_sysopt_boost_auto_start">Autorisation de démarrage auto</string>
   <string name="perm_sysopt_boost_auto_start_summary">L\'application démarrera automatiquement !</string>
   <string name="privacy_relative">Autorisations de confidentialité</string>
-  <string name="safe_guard_support">Support technique %1$s</string>
+  <string name="safe_guard_support">Propulsé par %1$s</string>
   <string name="safe_relative">Autorisations de sécurité</string>
   <string name="security_settings_desc">Autoriser cette application à :</string>
   <string name="settings">Paramètres</string>

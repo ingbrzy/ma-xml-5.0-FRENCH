@@ -75,7 +75,7 @@
   <string name="HIPS_Perm_AllowAll">Tout autoriser</string>
   <string name="HIPS_Perm_AnswerCall">Répondre</string>
   <string name="HIPS_Perm_Call">Appel téléphonique</string>
-  <string name="HIPS_Perm_CallLog">journal d\'appels</string>
+  <string name="HIPS_Perm_CallLog">Journal d\'appels</string>
   <string name="HIPS_Perm_CallLog_Access">Lire votre journal d\'appels</string>
   <string name="HIPS_Perm_CallLog_Desc">Accéder à votre journal d\'appels</string>
   <string name="HIPS_Perm_CallLog_Hint">%1$s applications ont la permission d\'accéder à votre journal d\'appels</string>

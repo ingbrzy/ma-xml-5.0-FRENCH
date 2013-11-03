@@ -42,7 +42,7 @@
   <string name="no_file">Aucun enregistrement</string>
   <string name="notification_playback">Lecture de l\'enregistrement…</string>
   <string name="notification_recording">Enregistrement…</string>
-  <string name="notification_stopped">L\'Enregistrement a cessé</string>
+  <string name="notification_stopped">L\'enregistrement a cessé</string>
   <string formatted="false" name="notification_warning">Espace libre faible (moins de %d minutes)…</string>
   <string name="open_file_explorer">Ouvrez l\'explorateur de fichiers</string>
   <string formatted="false" name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>
@@ -50,8 +50,8 @@
   <string name="play_record">Lecture</string>
   <string name="preference_enable_earpiece_summary">Utiliser le récepteur pour la lecture externe</string>
   <string name="preference_enable_earpiece_title">Utiliser le récepteur pour la lecture audio</string>
-  <string name="preference_led_indicator">Enregistrement sous écran de verr.</string>
-  <string name="preference_led_indicator_prompt">Lors d\'un enregistrement sous écran de verrouillage l\'indiquer via la LED et la barre d\'état</string>
+  <string name="preference_led_indicator">Écran de verrouillage</string>
+  <string name="preference_led_indicator_prompt">Lors d\'un enregistrement, si l\'écran est verrouillé, l\'indiquer via la LED et la barre d\'état</string>
   <string name="preference_record_scenes_dialog_title">"Sélectionner une scène d'enregistrement"</string>
   <string name="preference_record_type_dialog_title">Choisir un type d\'enregistrement</string>
   <string name="preference_record_type_title">Type d\'enregistrement</string>
