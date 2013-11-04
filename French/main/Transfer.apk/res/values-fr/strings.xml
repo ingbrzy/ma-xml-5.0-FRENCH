@@ -203,20 +203,19 @@ sur [ %1$s ] "</string>
   <string name="video">Vidéo</string>
   <string name="voice_assist_match">Couplage automatique rapide</string>
   <string name="voice_match">Couplage automatique</string>
- <!-- traduction 3.10.24 des wait_ à revoir peut être...-->
   <string name="wait_for_upload">En attente, envoi en cours</string>
-  <string name="wait_for_upload_to_download">En attente, téléchargement en cours. Veuillez patienter, les fichiers seront automatiquement téléchargés</string>
+  <string name="wait_for_upload_to_download">En attente, téléchargement en cours. Veuillez patienter, les fichiers seront téléchargés automatiquement</string>
  <!--  à traduire
   <string name="wait_for_upload_to_restore">Waiting for restore to upload to MiDrive, please wait</string>
  -->
   <string name="wait_login">En attente d\'identification</string>
   <string name="wait_net">En attente du réseau</string>
-  <string name="wait_sdcard">En attente de la carte SD </string>
-  <string name="wait_wifi">En attente de Wi-Fi </string>
-  <string name="wait_wifi_to_download">En attente de Wi-Fi pour automatiquement télécharger les fichiers</string>
-  <string name="wait_wifi_to_upload">En attente de Wi-Fi pour automatiquement envoyer et partager les fichiers</string>
-  <string name="waiting_receive">En attente de l\'envoyeur</string>
-  <string name="waitting">En attente...</string>
+  <string name="wait_sdcard">En attente de la carte SD</string>
+  <string name="wait_wifi">En attente de Wi-Fi</string>
+  <string name="wait_wifi_to_download">En attente de Wi-Fi pour télécharger automatiquement les fichiers</string>
+  <string name="wait_wifi_to_upload">En attente de Wi-Fi pour envoyer et partager automatiquement les fichiers</string>
+  <string name="waiting_receive">En attente de réception…</string>
+  <string name="waitting">En attente…</string>
   <string name="wanna_receive">Recevoir</string>
   <string name="welcome_tip1">Transférez des fichiers rapidement sans utilisation de données mobiles</string>
   <string name="welcome_tip2">Transférez rapidement des images, des musiques, des contacts et bien plus encore !</string>

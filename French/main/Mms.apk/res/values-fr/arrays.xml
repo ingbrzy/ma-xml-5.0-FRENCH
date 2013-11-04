@@ -26,11 +26,11 @@
     </string-array>
  -->
 	<string-array name="prefEntries_ringtone_repeat">
-		<item>Une fois</item>
-		<item>Deux fois</item>
-		<item>Trois fois</item>
-		<item>Cinq fois</item>
-		<item>Dix fois</item>
+		<item>1 fois</item>
+		<item>2 fois</item>
+		<item>3 fois</item>
+		<item>5 fois</item>
+		<item>10 fois</item>
 	</string-array>
 	<string-array name="contact_entries">
 		<item>Nom</item>
