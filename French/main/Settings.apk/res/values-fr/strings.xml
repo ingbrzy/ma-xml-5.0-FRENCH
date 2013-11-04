@@ -1275,7 +1275,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="msd_install_status_undo">Installer le pilote</string>
   <string name="msd_install_succeed">Pilote installé</string>
   <string name="msd_install_windows_xp_step_2_1">1.Si l\'Assistant d\'installation apparaît, veuillez suivre les étapes pour terminer l\'installation du pilote</string>
-  <string name="msg_wlan_signal_found">Point d\'accès Wi-Fi %s trouvé, souhaitez-vous utiliser ce réseau Wi-Fi? L\'utilisation de ce réseau interrompra le service de données temporairement.</string> 
+  <string name="msg_wlan_signal_found">Point d\'accès Wi-Fi %s trouvé, souhaitez-vous utiliser ce réseau Wi-Fi? L\'utilisation de ce réseau interrompra le service de données temporairement.</string>
   <string name="mtp_ptp_mode_summary">Fonction MTP ou PTP active</string>
   <string name="multi_sim_settings_summary">Mettre en place des paramètres multi-Sim pour voix, données et SMS</string>
   <string name="multi_sim_settings_title">Paramètres multi-SIM</string>

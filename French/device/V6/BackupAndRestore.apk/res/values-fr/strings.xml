@@ -4,8 +4,8 @@
   <string name="backup">Sauvegarder</string>
   <string name="restore">Restaurer</string>
   <string name="backuptosd">Sauvegarder sur la carte SD</string>
-  <string name="selectall">Sélectionner tout</string>
-  <string name="unselectall">Désélectionner tout</string>
+  <string name="selectall">Tout sélectionner</string>
+  <string name="unselectall">Tout désélectionner</string>
   <string name="contact_module">Contact</string>
   <string name="message_module">Message</string>
   <string name="picture_module">Image</string>

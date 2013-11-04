@@ -10,7 +10,7 @@
   <string name="apply_lockscreen_paper_tips">"Le fond d'écran de verrouillage est en cours d'utilisation et ne peut pas être changé, le nouveau fond d'écran de verrouillage ne sera pas visible."</string>
   <string name="apply_theme_no_select_message">Veuillez sélectionner des composants.</string>
   <string name="backup_preference_title">Sauvegarder le thème</string>
-  <string name="backup_theme_dialog_message">"Sauvegarder le thème courant ?"</string>
+  <string name="backup_theme_dialog_message">Sauvegarder le thème courant ?</string>
   <string name="backup_theme_dialog_ok">Sauvegarder</string>
   <string name="backup_theme_name">Ma sauvegarde</string>
   <string name="backup_theme_progress_message">Sauvegarde du thème en cours, veuillez patienter…</string>
@@ -76,7 +76,7 @@
   <string name="resource_comment_good_comments">Positifs</string>
   <string name="resource_comment_invalid">Veuillez toucher les étoiles pour donner une note</string>
   <string name="resource_comment_name_default">Utilisateur %1$s</string>
-  <string name="resource_comment_no_average_score">Aucune note</string>
+  <string name="resource_comment_no_average_score">-.-</string>
   <string name="resource_comment_no_comment">Aucun commentaire</string>
   <string name="resource_comment_publish">Envoyer</string>
   <string name="resource_comment_rate">Note :</string>
@@ -94,7 +94,7 @@
   <string name="resource_delete_confirm">Êtes-vous sûr de vouloir supprimer ces ressources ?</string>
   <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string>
   <string name="resource_delta_update_successful">Patch de mise à jour réussi, sauvegarde de %1$s.</string>
-  <string name="resource_delta_update_total">%1$d patchs de MAJ. Total économisé : %2$s</string>
+  <string name="resource_delta_update_total">%1$d patchs de MàJ. Total économisé : %2$s</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_detail_comment_title">Commentaires</string>
   <string name="resource_detail_jump_to_online_title">Voir en ligne</string>

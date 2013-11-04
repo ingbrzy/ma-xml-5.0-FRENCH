@@ -230,7 +230,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="user_agreement_p4">Règles de confidentialité</string>
   <string name="user_agreement_p5">"En vous inscrivant, vous acceptez les"</string>
   <string name="vcode">Code de vérification</string>
-  <string name="vcode_prompt_long">Veuillez entrer le code de vérification généré par Xiaomi</string>  
+  <string name="vcode_prompt_long">Veuillez entrer le code de vérification généré par Xiaomi</string>
  <!-- vcode_notification_title à revoir ? original : Your login verification is incomplete -->
   <string name="vcode_notification_title">La vérification de compte n\'est pas complétée.</string>
   <string name="wipe_data_dialog_title">Certains éléments n\'ont pas été synchronisés.</string>

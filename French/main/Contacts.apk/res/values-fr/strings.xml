@@ -574,7 +574,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="nickname_picker_name_column">Nom du contact</string>
   <string name="nickname_picker_nickname_column">Titre</string>
   <string name="noAccounts">Vous avez besoin d\'un compte pour créer des groupes</string>
-  <string name="noContactHelpTextAccountsInfo">Synchroniser les contacts Google et Exchange.</string>
+  <string name="noContactHelpTextAccountsInfo">Synchroniser les contacts Xiaomi, Google et Exchange.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données sauvegardées dans le compte Xiaomi et MiTalk</string>
   <string name="noContacts">Aucun contact</string>
   <string name="noContactsHelpText">"Vous n\'avez pas encore de contacts à afficher. 
@@ -705,6 +705,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="pref_key_photo_word_title">Afficher une photo</string>
   <string name="pref_key_rebuild_t9_index_message">Reconstruire l\'index des contacts en cas de problème d\'affichage</string>
   <string name="pref_key_rebuild_t9_index_title">Reconstruire les données d\'index T9</string>
+  <string name="pref_key_sim_manage">Gestion SIM</string>
   <string name="pref_summary_import_from_account">Importer les contacts depuis les comptes Google et Exchange sur mon compte Xiaomi</string>
   <string name="pref_title_account_import">Importer depuis le compte</string>
   <string name="pref_title_card_format">Format de partage de carte</string>
@@ -805,6 +806,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_comment_average_score">Moyenne</string>
   <string name="resource_comment_bad_comments">Négatifs</string>
   <string name="resource_comment_current_version">Version actuelle</string>
+  <string name="resource_comment_date">%2$02d-%1$02d</string>
   <string name="resource_comment_edit_comment">Ajouter un commentaire</string>
   <string name="resource_comment_edit_comment_waiting">Vérifie si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
@@ -815,7 +817,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_comment_good_comments">Positifs</string>
   <string name="resource_comment_invalid">Veuillez toucher les étoiles pour donner une note</string>
   <string name="resource_comment_name_default">l\'utilisateur %1$s</string>
-  <string name="resource_comment_no_average_score">Aucune note</string>
+  <string name="resource_comment_no_average_score">-.-</string>
   <string name="resource_comment_no_comment">Aucun commentaire</string>
   <string name="resource_comment_publish">Envoyer</string>
   <string name="resource_comment_rate">Note :</string>
@@ -833,7 +835,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_delete_confirm">Êtes-vous sûr de vouloir supprimer ces ressources ?</string>
   <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string>
   <string name="resource_delta_update_successful">Patch de mise à jour réussi, sauvegarde de %1$s.</string>
-  <string name="resource_delta_update_total">%1$d patchs de MAJ. Total économisé : %2$s</string>
+  <string name="resource_delta_update_total">%1$d patchs de MàJ. Total économisé : %2$s</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_detail_comment_title">Commentaires</string>
   <string name="resource_detail_jump_to_online_title">Voir en ligne</string>
@@ -850,7 +852,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_get_auth_checking">Vérification de l\'autorisation…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre compte Xiaomi</string>
   <string name="resource_get_auth_exceed_max_limit_title">La limite autorisée est dépassée</string>
-  <string name="resource_get_auth_missing">Le thème ne provient pas du market officiel, veuillez en télécharger un similaire du market officiel</string>
+  <string name="resource_get_auth_missing">Le thème n\'a pas été téléchargé à partir de la boutique de thème, veuillez le télécharger à partir de la boutique de thème officielle.</string>
   <string name="resource_get_auth_retrieving">Récupération de l\'autorisation…</string>
   <string name="resource_import_successful">Téléchargement réussi.</string>
   <string name="resource_importing">Importation…</string>
@@ -867,7 +869,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_pack_discount_info">%1$s Saved!</string>  Économisé(s?) ?
   <string name="resource_pack_price_info">%1$s Original</string
  -->
-  <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restant, veuillez les acheter individuellement.</string>  
+  <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restant, veuillez les acheter individuellement.</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
   <string name="resource_price_unit">MiCredits</string>
@@ -945,6 +947,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="simContacts_empty">Aucun contact trouvé sur la carte SIM.</string>
   <string name="simContacts_emptyLoading">Lecture depuis la carte SIM…</string>
   <string name="simContacts_title">Sélectionner les contacts à importer</string>
+  <string name="sim_capacity">Capacité de la carte SIM</string>
   <string name="sim_capacity_content" formatted="false">Capacité totale %d, utilisé %d</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
@@ -953,12 +956,15 @@ Pour ajouter un contact à la liste de favoris :
   <string name="sim_card_no_free_space_title">Carte SIM saturée</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Tout désélectionner</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Tout sélectionner</string>
+  <string name="sim_contact_existing">Le contact SIM est déjà existant.</string>
+  <string name="sim_contact_number_missing">Numéro de contact SIM manquant.</string>
   <string name="sim_contact_search_error">Une erreur s\'est produite lors de la recherche de contacts sur la carte SIM</string>
   <string name="sim_contacts">Contacts de la carte SIM</string>
   <string name="sim_error_anr_full">Espace de stockage (SIM) pour numéros plein !</string>
   <string name="sim_error_email_full">Espace de stockage e-mail plein !</string>
   <string name="sim_error_email_too_long">Adresse e-mail trop longue.</string>
   <string name="sim_error_generic_failure">Défaillance générique de la carte SIM.</string>
+  <string name="sim_error_not_ready">Chargement des contacts SIM, veuillez patienter…</string>
   <string name="sim_error_number_too_long">Numéro SIM trop long !</string>
   <string name="sim_error_password_error">Erreur de mot de passe SIM.</string>
   <string name="sim_error_storage_full">Espace de stockage de la carte SIM plein !</string>
