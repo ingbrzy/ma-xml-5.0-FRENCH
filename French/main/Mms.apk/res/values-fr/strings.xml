@@ -160,6 +160,7 @@
   <string name="insufficient_drm_rights">Droits DRM insuffisants détectés.</string>
   <string name="invalid_conversation">Conversation non valide</string>
   <string name="invalid_destination">Adresse de destination incorrecte.</string>
+  <string name="invalid_private_contact">Contact privé non valide</string>
   <string name="invalid_recipient_message">Veuillez corriger le nom du ou des destinataires, sinon ils ne recevront pas le message.</string>
   <string name="kilobyte">Ko</string>
   <string name="layout_selector_title">"Mise en page du diaporama "</string>

@@ -83,6 +83,7 @@
   <string name="clear_thumbnail_cache_confirm">Les miniatures vont être supprimées. L\'application va scanner tous les médias et recréer des miniatures au fur et à mesure.</string>
   <string name="clear_thumbnail_cache_summary">Visiter la galerie génère des miniatures. Vider le cache libérera de l\'espace.</string>
   <string name="click_to_enter_camera">Ouvrir l\'appareil photo</string>
+  <string name="click_top_right">Appuyer sur l\'icône en haut à droite</string>
   <string name="close">Fermer</string>
   <string name="cloud_album_more_settings">Paramètres de l\'album MiCloud</string>
   <string name="cloud_album_set_create">Nouveau</string>

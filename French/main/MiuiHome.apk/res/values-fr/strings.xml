@@ -13,7 +13,7 @@
   <string name="cancel_btn_label">Annuler</string>
   <string name="cant_remove_folder">Impossible de supprimer le dossier non vide</string>
   <string name="cant_remove_retained_app">Impossible de supprimer une application personnalisée par votre opérateur</string>
-  <string name="cant_remove_system_app">Impossible de supprimer une application système</string>
+  <string name="cant_remove_system_app">Impossible de supprimer une application système.</string>
   <string name="chooser_wallpaper">Sélectionner un fond d\'écran à partir de</string>
   <string name="confirm_btn_label">OK</string>
   <string name="default_folder_title_game">Jeux</string>
@@ -49,7 +49,7 @@
   <string name="free_style_enter_tip">Glissez vers le bas avec deux doigts pour passer à MiSpace</string>
   <string name="free_style_exit_tip">Glissez vers le haut avec deux doigts pour quitter MiSpace</string>
   <string name="free_style_londing_text">Préparation de MiSpace…</string>
-  <string name="gadget_clear_button_label">Tâches</string>
+  <string name="gadget_clear_button_label">Nettoyeur</string>
   <string name="gadget_clock_12_label">Horloge 1x2</string>
   <string name="gadget_clock_22_label">Horloge 2x2</string>
   <string name="gadget_clock_24_label">Horloge 2x4</string>
@@ -76,7 +76,7 @@
   <string name="group_live_folders">Dossiers</string>
   <string name="group_shortcuts">Raccourcis</string>
   <string name="guide_install_app_msg">Application non installée. La rechercher sur le Play Store maintenant ?</string>
-  <string name="guide_install_app_title">Installer Application</string>
+  <string name="guide_install_app_title">Installer application</string>
   <string name="guide_tips_editing_mode">Maintenez le widget ci-dessous pour le faire glisser sur l\'écran</string>
   <string name="install">Installer</string>
   <string name="invalid_contact_shortcut">Raccourci du contact non valide</string>

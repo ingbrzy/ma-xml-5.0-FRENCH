@@ -47,6 +47,9 @@
   <string name="accessibility_wimax_signal_full">Signal WiMAX : excellent</string>
   <string name="accessibility_wimax_three_bars">Signal WiMAX : bon</string>
   <string name="accessibility_wimax_two_bars">Signal WiMAX : moyen</string>
+  <string name="audio_effect_settings">Définir le type d\'écouteurs</string>
+  <string name="audio_effect_info">Optimiser le son</string>
+  <string name="audio_effect_custom">Configurer</string>
   <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
   <string name="always_use_device">Utiliser par défaut pour ce périphérique USB</string>
   <string name="app_label">IU système</string>
