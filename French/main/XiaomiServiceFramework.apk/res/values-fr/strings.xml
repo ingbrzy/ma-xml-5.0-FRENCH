@@ -23,7 +23,7 @@
   <string name="activate_status_desc_sim_absent">Carte SIM absente</string>
   <string name="activate_status_desc_getting_gateway">Récupération de la passerelle SMS</string>
   <string name="activate_status_desc_failed_getting_gateway">Échec de récupération de la passerelle SMS</string>
-  <string name="activate_status_desc_prepare_sending_sms">Préparation de l\'envoi du SMS d'activation à la passerelle</string>
+  <string name="activate_status_desc_prepare_sending_sms">Préparation de l\'envoi du SMS d\'activation à la passerelle</string>
   <string name="activate_status_desc_sending_sms">Envoi du SMS d\'activation à la passerelle</string>
   <string name="activate_status_desc_acquire_phone_number">Acquisition du numéro de téléphone depuis un serveur</string>
   <string name="activate_status_desc_acquire_phone_number_server_error_wait">Erreur serveur pendant l\'acquisition du numéro de téléphone. En attente d\'une nouvelle tentative…</string>
