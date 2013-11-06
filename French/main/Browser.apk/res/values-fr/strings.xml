@@ -81,7 +81,7 @@
   <string name="bookmark_this_page">Ajouter cette page aux favoris</string>
   <string name="bookmark_this_page_to_readmodelist">Ajouter cette page à la liste de lecture des favoris</string>
   <string name="bookmark_thumbnail_view">Vignettes</string>
-  <string name="bookmark_title">Légende</string>
+  <string name="bookmark_title">Nom du favori</string>
   <string name="bookmark_to_readmodelist_not_saved">"Impossible d'enregistrer la liste de lecture des favoris."</string>
   <string name="bookmark_to_readmodelist_saved">Enregistré dans liste de lecture des favoris.</string>
   <string name="bookmark_url">URL</string>
@@ -590,7 +590,7 @@
   <string name="tab_opened_background_in_incognito">Nouvel onglet privé ouvert</string>
   <string name="tab_quicklinks">Liens rapides</string>
   <string name="tab_snapshots">Pages enregistrées</string>
-  <string name="tab_yellowpage">Pages jaunes</string>
+  <string name="tab_yellowpage">Sites</string>
   <string name="title_bar_loading">Chargement…</string>
   <string name="too_many_subwindows_dialog_message">Seule une fenêtre pop-up peut être ouverte à la fois.</string>
   <string name="too_many_subwindows_dialog_title">Fenêtre contextuelle déjà ouverte</string>

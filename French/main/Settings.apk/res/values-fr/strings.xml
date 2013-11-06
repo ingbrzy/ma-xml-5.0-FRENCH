@@ -1984,7 +1984,7 @@ Le code PIN est peut-être incorrect."</string>
 %1$s"</string>
   <string name="sync_plug"></string>
   <string name="sync_settings">Comptes &amp; synchronisation</string>
-  <string name="sync_wifi_label">Paramètres Wi-Fi</string>
+  <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Wi-Fi uniquement</string>
   <string name="system">Système</string>
   <string name="system_package">"Les mises à jour du système ne peuvent pas être installées sur des supports externes."</string>
@@ -2455,7 +2455,6 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_password">Mot de passe</string>
   <string name="wifi_poor_network_detection">Réseau optimal uniquement</string>
   <string name="wifi_poor_network_detection_summary">"Éviter les réseaux Wi-Fi ayant un mauvais signal ou une mauvaise liaison Internet."</string>
-  <string name="wifi_priority_settings_label">Paramètres de priorité</string>
   <string name="wifi_priority_type_title">Définir la priorité PA manuellement</string>
   <string name="wifi_priority_type_summary">Permet de définir la priorité de chaque point d\'accès manuellement</string>
   <string name="wifi_priority_settings_title">Paramètres de priorité PA</string>

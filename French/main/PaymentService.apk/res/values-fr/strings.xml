@@ -15,7 +15,7 @@
   <string name="bankcall_city">Ville</string>
   <string name="bankcall_credit_card">Carte de crédit</string>
   <string name="bankcall_debit_card">Carte de débit</string>
-  <string name="bankcall_denom">Paiements :</string>
+  <string name="bankcall_denom">Montant :</string>
   <string name="bankcall_denom_number">%1$s RMB</string>
   <string name="bankcall_error_card">Veuillez entrer un numéro de compte bancaire valide</string>
   <string name="bankcall_error_card_info">Veuillez entrer des informations de compte bancaire valides</string>
@@ -40,7 +40,6 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="btn_net_connection_retry">Réessayer</string>
   <string name="btn_next">Suivant</string>
   <string name="btn_other_bankcard">Utiliser une carte bancaire alternative</string>
-  <string name="btn_pay_large">Payer maintenant</string>
   <string name="btn_prev">Précédent</string>
   <string name="btn_query">Interroger maintenant</string>
   <string name="btn_recharge_confirm">Confirmer l\'achat</string>
@@ -322,7 +321,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">La recharge par SMS a échoué</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">La méthode de recharge par SMS coûte plus cher, donc &lt;font color=red&gt;2 RMB = 1 MiCredit&lt;/font&gt;</string>
+  <string name="msg_picker_hint_1_2">La méthode de recharge par SMS coûte plus cher, donc &lt;font color=red&gt;%1$d RMB = %1$d MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Pour chaque recharge par SMS les opérateurs chargent 0.1 RMB de frais de service</string>
   <string name="msg_picker_hint_3_1">3.</string>
@@ -350,9 +349,6 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="paytool_error_msp">La recharge %1$s a échoué !</string>
   <string name="paytool_msp_not_installed">Vous n\'avez pas installé le plugin de sécurité mobile %1$s, l\'installer maintenant ?</string>
   <string name="paytool_tenpay">Tenpay</string>
-  <string name="prepaid_china_mobile">China Mobile</string>
-  <string name="prepaid_china_telcom">China Telecom</string>
-  <string name="prepaid_china_unicom">China Unicom</string>
   <string name="prepaid_edit_limit">chiffres</string>
   <string name="prepaid_error_card_length">Veuillez entrer le numéro de la carte prépayée ou le mot de passe correctement</string>
   <string name="prepaid_error_card_number">Veuillez entrer le montant de la recharge correctement</string>
@@ -383,7 +379,6 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_prepaid_creating">Génération de la commande de la recharge…</string>
   <string name="progress_querying">Traitement de la demande de paiement…</string>
   <string name="progress_submit_hint">Recharge effective dans 3 minutes environ</string>
-  <string name="progress_submit_pay_summary">Résumé de paiement : %1$s RMB</string>
   <string name="progress_submit_recharge_summary">Recharge de : %1$s RMB</string>
   <string name="progress_submit_title">Demande de recharge envoyée</string>
   <string name="progress_success_pay_summary">%1$s MiCredits rechargés,%2$s MiCredits payés</string>
@@ -431,7 +426,6 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="title_nopassword_dialog">Limite journalière</string>
   <string name="title_password">Mot de passe</string>
   <string name="title_password_threshold">Limite journalière = %1$s RMB</string>
-  <string name="title_pay">Payer avec des MiCredits</string>
   <string name="title_pay_record">Historique de paiements</string>
   <string name="title_recharge">Recharger MiCredits</string>
   <string name="title_recharge_record">Historique de recharges</string>

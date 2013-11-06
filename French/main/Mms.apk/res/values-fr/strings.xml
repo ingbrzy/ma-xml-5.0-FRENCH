@@ -12,7 +12,7 @@
   <string name="add_number_to_sender">Ajouter le numéro à %s</string>
   <string name="add_picture">Ajouter une image</string>
   <string name="add_private_contact">Ajouter un contact privé</string>
-  <string name="add_slide">Ajouter une diapositive</string>
+  <string name="add_slide">Ajouter une diapositive (après)</string>
   <string name="add_slide_before">Ajouter une diapositive (avant)</string>
   <string name="add_slide_hint">Appuyez pour créer une diapositive.</string>
   <string name="add_smiley">Smiley</string>

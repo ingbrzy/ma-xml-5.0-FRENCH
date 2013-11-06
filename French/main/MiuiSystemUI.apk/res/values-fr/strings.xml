@@ -91,7 +91,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="dlg_confirm_kill_storage_users_title">Activer la mémoire de stockage USB</string>
   <string name="dlg_error_title">Mode USB échoué</string>
   <string name="dlg_ok">OK</string>
-  <string name="drive_mode_tip">Mode Voiture activé - Conduisez prudemment</string>
+  <string name="drive_mode_tip">Mode Voiture activé - Gardez un œil sur la route</string>
   <string name="ext_media_badremoval_notification_message">Démontez la carte SD avant de la retirer pour éviter toute perte de données.</string>
   <string name="ext_media_badremoval_notification_title">La carte SD a été retirée de façon inattendue</string>
   <string name="ext_media_checking_notification_message">Vérification des erreurs.</string>

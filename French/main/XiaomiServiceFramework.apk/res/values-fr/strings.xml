@@ -82,7 +82,7 @@
   <string name="enableAll">Tout activer</string>
   <string name="enable_find_device_error">Erreur : %1$s</string>
   <string name="enable_micloud">S\'inscrire ou se connecter</string>
-  <string name="error_dup_phone">Téléphone déjà associée avec un autre compte.</string>
+  <string name="error_dup_phone">Ce numéro de téléphone est déjà associée avec un autre compte.</string>
   <string name="error_invalid_dev_id">Identité de l\'appareil non valide</string>
   <string name="error_network">Erreur réseau</string>
   <string name="error_no_sms_service">Service SMS indisponible</string>
@@ -126,11 +126,11 @@
   <string name="micloud_account">Compte Xiaomi</string>
   <string name="micloud_account_label">Compte : %1$s</string>
   <string name="micloud_account_name">Compte Xiaomi</string>
-  <string name="micloud_account_not_actived">Compte non activé</string>
+  <string name="micloud_account_not_actived">Compte non activé.</string>
   <string name="micloud_activate_account_fail_notify_title">Échec de l\'activation de votre compte Xiaomi</string>
   <string name="micloud_activate_account_success_notify_title">Activation de votre compte Xiaomi réussie</string>
   <string name="micloud_activate_back_btn">Annuler</string>
-  <string name="micloud_activate_retry_btn">Retenter l\'activation</string>
+  <string name="micloud_activate_retry_btn">Réessayer</string>
   <string name="micloud_activating_account_notify_info">Vous activez votre compte Xiaomi</string>
   <string name="micloud_activating_account_notify_title">Activation de votre compte Xiaomi…</string>
   <string name="micloud_active_alert_title">Envoyer un SMS</string>
@@ -167,7 +167,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_reg_new">S\'inscrire</string>
   <string name="micloud_resend_active_email">Renvoyer le mail d\'activation</string>
   <string name="micloud_summary">Se connecter au compte Xiaomi pour synchroniser les Contacts, la Galerie et d\'autres fonctions.</string>
-  <string name="micloud_use_existing">Se connecter</string>
+  <string name="micloud_use_existing">Compte existant</string>
   <string name="micloud_via_int_sms_alert">Le SMS d\activation est assujetti d\'être facturé au prix d\'un SMS international.</string>
   <string name="micloud_via_sms_alert">Le SMS d\activation est assujetti d\'être facturé au prix d\'un SMS standard.</string>
   <string name="micloud_welcome_skip_login">Passer l\'enregistrement</string>
@@ -185,10 +185,10 @@ Vous pouvez faire autre chose…"</string>
   <string name="reg_by_email_failure">Échec de l\'inscription : %1$s</string>
   <string name="reg_failed">Échec de l\'inscription</string>
   <string name="reg_success">L\'inscription a réussi</string>
-  <string name="reg_success_summary">Votre numéro de téléphone %1$s est déjà désigné pour MiLock où vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe.</string>
+  <string name="reg_success_summary">%1$s à été associé à votre compte. Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe.</string>
   <string name="reg_type_email">S\'inscrire par Mail</string>
   <string name="reg_type_phone">S\'inscrire par téléphone (recommandé)</string>
-  <string name="reging">Inscription, veuillez patienter…</string>
+  <string name="reging">Inscription…</string>
   <string name="relogin">Se connecter</string>
   <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appels et des notes déjà synchronisés sur votre appareil ?</string>
   <string name="remove_confirm">Supprimer</string>

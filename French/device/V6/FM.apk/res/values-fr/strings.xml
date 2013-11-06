@@ -44,6 +44,9 @@
     <string name="toast_in_call">"Impossible d'activer la radio FM lorsqu'un appel est en cours."</string>
     <string name="empty_list">Pas de stations</string>
     <string name="fm_recorder_name">Enregistreur FM</string>
+    <string name="toast_fm_not_stated">Radio non indiquée</string>
+    <string name="toast_fm_recorder_internal_error">Erreur lors de l\'enregistrement radio !</string>
+    <string name="toast_fm_recorder_storage_full">Espace de stockage plein, impossible d\'enregistrer !</string>
     <string name="toast_recording_lost_warning">Votre enregistrement sera perdu suite au retrait de la carte SD!</string>
     <string name="toast_start_recording">"Démarrer l'enregistrement…"</string>
     <string name="toast_sdcard_missing">Carte SD manquante!</string>
@@ -97,6 +100,7 @@
     <string name="status_recording">Enregistrement :</string>
     <string name="dialog_sleep_title">"Sélectionnez heure d'arrêt automatique"</string>
     <string name="toast_sleep_mode">Arrêter FM dans %s</string>
+    <string name="toast_sleep_mode_exit">Mode veille annulé.</string>
     <string name="alert_message_delete_station">Êtes-vous sûr de vouloir supprimer la station sélectionnée ?</string>
     <!-- à traduire :
     <string name="FMR_Force_Stereomono_text">Force Set:</string>

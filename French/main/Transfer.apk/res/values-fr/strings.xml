@@ -11,7 +11,7 @@
   <string name="apk">Apps</string>
   <string name="app_name">Transfert</string>
   <string name="back">Retour</string>
-  <string name="button_last">Commencer maintenant</string>
+  <string name="button_last">Commencer</string>
   <string name="button_next">Suivant</string>
   <string name="button_pre">Précédent</string>
   <string name="can_not_find_explorer">\"Explorateur\" non trouvé, l\'application est installée ?</string>
@@ -185,7 +185,7 @@ sur [ %1$s ] "</string>
   <string name="start">Démarrer</string>
   <string name="summary_step_one">Envoyer des images, musiques, contacts et autres fichiers divers</string>
   <string name="summary_step_two">Inviter des amis à installer MiShare</string>
-  <string name="support_tip">MiShare fournira des instructions après la connexion</string>
+  <string name="support_tip">Propulsé par AnyShare</string>
   <string name="title_createfolder">Nouveau dossier</string>
   <string name="title_selectfile_num">%s fichiers sélectionnés</string>
   <string name="title_step_one">1. Les fichiers peuvent être transférés sans utilisation du réseau mobile</string>

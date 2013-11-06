@@ -62,8 +62,9 @@
   <string name="paused_waiting_to_retry">En attente d\'une nouvelle tentative</string>
   <string name="prefDefault_max_bytes_limit">52428800</string>
   <string name="pref_dialog_title_max_bytes_limit">Limite de taille de fichier</string>
-  <string name="pref_download_settings_title">Avertissement de téléchargement de données</string>
-  <string name="pref_summary_any_bytes_popup">Toujours mettre en attente en utilisant le réseau Wi-Fi</string>
+ <!-- pref_download_settings_title à revoir ? text original : Data usage -->
+  <string name="pref_download_settings_title">Utilisation des données</string>
+  <string name="pref_summary_any_bytes_popup">Toujours attendre d\'être connecter via Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">"Une demande de confirmation apparaît si la taille du téléchargement via le réseau de l\'opérateur dépasse la limite</string>
   <string name="pref_summary_max_bytes_limit_format">Message d\'alerte si la taille du fichier dépasse %s</string>
   <string name="pref_title_enable_max_bytes_popup">Téléchargement de données</string>

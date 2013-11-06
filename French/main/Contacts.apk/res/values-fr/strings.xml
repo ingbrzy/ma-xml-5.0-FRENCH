@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accessibility_calllog_detail">Détails du journal d\'appels</string>
-  <string name="account_abnormal_state">Informations de compte anormales, essayez de vous reconnectez ou essayez plus tard !</string>
+  <string name="account_abnormal_state">Erreur liée au compte, veuillez réessayez plus tard.</string>
   <string name="account_container_title">Sur le compte suivant</string>
   <string name="account_default">Téléphone</string>
   <string name="account_phone">Téléphone uniquement, non synchronisé</string>
@@ -156,12 +156,10 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"></string>
   <string name="config_export_file_suffix"></string>
-  <string name="config_export_vcard_type">default</string>
-  <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"></string>
-  <string name="confirm_delete_contact_all_call_logs">"Êtes-vous sûr de vouloir supprimer %s du journal d'appel ?"</string>
-  <string name="confirm_delete_selected_all_call_logs">"Êtes-vous sûr de vouloir supprimer le contact du journal d'appel ?"</string>
-  <string name="confirm_delete_sim_entry_miui">Confirmer la suppression des %d contacts sélectionnés de la carte SIM ?</string>
+  <string name="confirm_delete_contact_all_call_logs">"Supprimer le journal d'appels ?"</string>
+  <string name="confirm_delete_selected_all_call_logs">"Supprimer le journal d'appels ?"</string>
+  <string name="confirm_delete_sim_entry_miui">Supprimer %d contacts de la carte SIM ?</string>
   <string name="confirm_export_message">Exporter les contacts vers le fichier %s ?</string>
   <string name="confirm_export_title">Confirmer l\'exportation</string>
   <string name="connections">Connexions</string>
@@ -226,7 +224,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="deleting">Suppression…</string>
   <string name="deleting_sim_entry_miui">Suppression des contacts de la carte SIM</string>
   <string name="description_add_contact">Ajouter aux contacts</string>
-  <string name="description_author">Auteur :</string>
+  <string name="description_author">Auteur</string>
   <string name="description_call">Appeler %1$s</string>
   <string name="description_call_log_incoming_call">Appel entrant</string>
   <string name="description_call_log_missed_call">Appel manqué</string>
@@ -236,11 +234,11 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="description_call_log_voicemail">Messagerie vocale</string>
   <string name="description_contact_photo">photo du contact</string>
   <string name="description_delete_button">retour arrière</string>
-  <string name="description_designer">Concepteur :</string>
+  <string name="description_designer">Concepteur</string>
   <string name="description_dial_button">composer</string>
   <string name="description_dial_phone_number">Composez le téléphone %1$s</string>
   <string name="description_digits_edittext">numéro à composer</string>
-  <string name="description_download">Téléchargement : </string>
+  <string name="description_download">Télécharger</string>
   <string name="description_image_button_eight">Huit</string>
   <string name="description_image_button_five">Cinq</string>
   <string name="description_image_button_four">Quatre</string>
@@ -259,11 +257,11 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="description_search_button">rechercher</string>
   <string name="description_send_message">Envoyer un message à %1$s</string>
   <string name="description_send_text_message">Envoyer un message texte à %1$s</string>
-  <string name="description_size">Taille :</string>
+  <string name="description_size">Taille</string>
   <string name="description_star">favori</string>
-  <string name="description_summary">Résumé :</string>
-  <string name="description_uploadtime">Mis à jour :</string>
-  <string name="description_version">Version :</string>
+  <string name="description_summary">Résumé</string>
+  <string name="description_uploadtime">Mis à jour</string>
+  <string name="description_version">Version</string>
   <string name="description_version_szie">Version : %1$s Taille : %2$s</string>
   <string name="description_view_contact">Voir contact %1$s</string>
   <string name="description_view_contact_detail">Voir le contact</string>
@@ -329,7 +327,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="dlg_add_blacklist">Ajouter le numéro sélectionné à la liste noire ?</string>
   <string name="dlg_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
   <string name="download_failed">Échec du téléchargement !</string>
-  <string name="download_preview_failed">Impossible de charger l\'aperçu</string>
+  <string name="download_preview_failed">Impossible de charger l\'aperçu.</string>
   <string name="duplicate_group_name">Le nom de groupe de contacts existe déjà</string>
   <string name="editContactDescription">Modifier contact</string>
   <string name="editGroupDescription">Modifier le groupe</string>
@@ -348,6 +346,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="eventLabelsGroup">Anniversaire</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">L\'export vers la carte SIM est terminé</string>
+ <!-- export_sim_contact_finish_failure à raccourcir eventuellent ? string originale : Transferred: %1$d Remaining: %2$d -->
   <string name="export_sim_contact_finish_failure">Stockage SIM plein, terminé : %1$d inachevé : %2$d</string>
   <string name="export_sim_contact_finish_success">%d contact(s) copié(s) de la carte SIM</string>
   <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
@@ -487,7 +486,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="loading_groups">Chargement des groupes…</string>
   <string name="loading_recent">Chargement des contacts récents…</string>
   <string name="loading_resource_detail_fail">Impossible de charger la ressource !</string>
-  <string name="loading_resource_detail_info">Chargement des informations des ressources…</string>
+  <string name="loading_resource_detail_info">Chargement…</string>
   <string name="local_invisible_directory">Autre</string>
   <string name="local_profile_title">Mon profil local</string>
   <string name="local_search_label">Tous les contacts</string>
@@ -645,8 +644,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="notification_action_voicemail_play">Lire</string>
   <string name="notification_new_voicemail_ticker">Nouveau message vocal de %s</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-  <string name="online_no_network">Impossible de se connecter au réseau</string>
-  <string name="online_search_hint">Rechercher les ressources en ligne</string>
+  <string name="online_no_network">Impossible de se connecter au réseau.</string>
+  <string name="online_search_hint">Recherche de ressources en ligne.</string>
   <string name="openDialKeyboard">Pavé numérique</string>
   <string name="open_contact">Voir le contact</string>
   <string name="option_delete_contact">Supprimer</string>
@@ -810,13 +809,13 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_comment_edit_comment">Ajouter un commentaire</string>
   <string name="resource_comment_edit_comment_waiting">Vérifie si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
-  <string name="resource_comment_edit_title">Commentaire : %1$s</string>
+  <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
   <string name="resource_comment_entry_tips">Afficher les commentaires</string>
   <string name="resource_comment_expand_full_text">Développer intégralement le texte</string>
   <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
   <string name="resource_comment_good_comments">Positifs</string>
   <string name="resource_comment_invalid">Veuillez toucher les étoiles pour donner une note</string>
-  <string name="resource_comment_name_default">l\'utilisateur %1$s</string>
+  <string name="resource_comment_name_default">Utilisateur %1$s</string>
   <string name="resource_comment_no_average_score">-.-</string>
   <string name="resource_comment_no_comment">Aucun commentaire</string>
   <string name="resource_comment_publish">Envoyer</string>
@@ -828,13 +827,13 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_comment_upload_hint">Les commentaires seront affichés après avoir été examinés.</string>
   <string name="resource_comment_upload_not_bought">Vous devez appliquer le thème avant de commenter.</string>
   <string name="resource_comment_upload_not_logined">Veuillez vous connecter d\'abord</string>
-  <string name="resource_comment_upload_success">Commentaire envoyé ! Il s\'affichera une fois vérifié</string>
+  <string name="resource_comment_upload_success">Commentaire envoyé ! Il s\'affichera une fois vérifié.</string>
   <string name="resource_default">Sonnerie par défaut</string>
   <string name="resource_default_name">Ressources</string>
-  <string name="resource_delete_all">Êtes-vous sûr de vouloir supprimer les %1$d ressources sélectionnées ?</string>
-  <string name="resource_delete_confirm">Êtes-vous sûr de vouloir supprimer ces ressources ?</string>
+  <string name="resource_delete_all">Supprimer les %1$d ressources sélectionnées ?</string>
+  <string name="resource_delete_confirm">Supprimer ces ressources ?</string>
   <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string>
-  <string name="resource_delta_update_successful">Patch de mise à jour réussi, sauvegarde de %1$s.</string>
+  <string name="resource_delta_update_successful">Mise à jour réussie</string>
   <string name="resource_delta_update_total">%1$d patchs de MàJ. Total économisé : %2$s</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_detail_comment_title">Commentaires</string>
@@ -852,17 +851,17 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_get_auth_checking">Vérification de l\'autorisation…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre compte Xiaomi</string>
   <string name="resource_get_auth_exceed_max_limit_title">La limite autorisée est dépassée</string>
-  <string name="resource_get_auth_missing">Le thème n\'a pas été téléchargé à partir de la boutique de thème, veuillez le télécharger à partir de la boutique de thème officielle.</string>
+  <string name="resource_get_auth_missing">Les thèmes provenant de sources tierces ne sont pas supportés.</string>
   <string name="resource_get_auth_retrieving">Récupération de l\'autorisation…</string>
   <string name="resource_import_successful">Téléchargement réussi.</string>
   <string name="resource_importing">Importation…</string>
-  <string name="resource_list_title">Dernier</string>
-  <string name="resource_local">%1$s local</string>
-  <string name="resource_mute">Aucun</string>
+  <string name="resource_list_title">Derniers sélectionnés</string>
+  <string name="resource_local">%1$s locaux</string>
+  <string name="resource_mute">Aucune</string>
   <string name="resource_my">Local</string>
-  <string name="resource_no_result">Aucun résultat</string>
+  <string name="resource_no_result">Aucun résultat.</string>
   <string name="resource_notification_default">Notifications</string>
-  <string name="resource_online">En ligne %1$s</string>
+  <string name="resource_online">%1$s en ligne</string>
  <!-- resource_pack_confirm et resource_pack_warning à vérifier/Revoir ? -->
   <string name="resource_pack_confirm">Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d\'acheter les articles restants individuellement, souhaitez-vous continuer ?</string>
  <!-- à traduire 
@@ -887,11 +886,11 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_share_title">Partager</string>
   <string name="resource_switch_account">Changer</string>
   <string name="resource_system_title">Ressources système</string>
-  <string name="resource_tip_select_ringtone">Aucune sonnerie sélectionnée</string>
+  <string name="resource_tip_select_ringtone">Aucune sélectionnée</string>
   <string name="resource_title">Détail de la ressource</string>
-  <string name="resource_title_select_ringtone">Choisir la sonnerie</string>
-  <string name="resource_update">Mettre à jour</string>
-  <string name="resource_waiting_download">En attente de téléchargement…</string>
+  <string name="resource_title_select_ringtone">Sélectionner la sonnerie</string>
+  <string name="resource_update">MàJ</string>
+  <string name="resource_waiting_download">En attente…</string>
   <string name="restore_nickname">Restaurer</string>
   <string name="restore_to_phone_memory_failed">Impossible de restaurer vers la mémoire du téléphone !</string>
   <string name="restored_to_phone_memory">"Restauré vers la mémoire du téléphone"</string>
@@ -981,7 +980,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="smart_group_frequency_2">Ces 3 derniers mois</string>
   <string name="smart_group_frequency_3">Ces 6 derniers mois</string>
   <string name="smart_group_frequency_4">Depuis plus de 6 mois</string>
-  <string name="smart_group_frequency_label">Par contact récent</string>
+  <string name="smart_group_frequency_label">Les plus récent</string>
   <string name="smart_group_label">Regroupement intelligent</string>
   <string name="smart_group_loading">Chargement de groupes intelligents…</string>
   <string name="smart_group_location_label">Par emplacement</string>
