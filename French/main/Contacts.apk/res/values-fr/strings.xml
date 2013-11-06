@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accessibility_calllog_detail">Détails du journal d\'appels</string>
-  <string name="account_abnormal_state">Erreur liée au compte, veuillez réessayez plus tard.</string>
+  <string name="account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
   <string name="account_container_title">Sur le compte suivant</string>
   <string name="account_default">Téléphone</string>
   <string name="account_phone">Téléphone uniquement, non synchronisé</string>
@@ -980,7 +980,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="smart_group_frequency_2">Ces 3 derniers mois</string>
   <string name="smart_group_frequency_3">Ces 6 derniers mois</string>
   <string name="smart_group_frequency_4">Depuis plus de 6 mois</string>
-  <string name="smart_group_frequency_label">Les plus récent</string>
+  <string name="smart_group_frequency_label">Les plus récents</string>
   <string name="smart_group_label">Regroupement intelligent</string>
   <string name="smart_group_loading">Chargement de groupes intelligents…</string>
   <string name="smart_group_location_label">Par emplacement</string>

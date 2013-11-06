@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="account_abnormal_state">Erreur liée au compte, veuillez réessayez plus tard.</string>
+  <string name="account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
   <string name="all_resources">Tout</string>
   <string name="all_ringtone_resource">Tout</string>
   <string name="app_name">Thèmes</string>

@@ -82,7 +82,7 @@
   <string name="enableAll">Tout activer</string>
   <string name="enable_find_device_error">Erreur : %1$s</string>
   <string name="enable_micloud">S\'inscrire ou se connecter</string>
-  <string name="error_dup_phone">Ce numéro de téléphone est déjà associée avec un autre compte.</string>
+  <string name="error_dup_phone">Ce numéro de téléphone est déjà associé avec un autre compte.</string>
   <string name="error_invalid_dev_id">Identité de l\'appareil non valide</string>
   <string name="error_network">Erreur réseau</string>
   <string name="error_no_sms_service">Service SMS indisponible</string>
