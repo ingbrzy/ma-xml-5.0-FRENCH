@@ -229,8 +229,6 @@
   <string name="pref_camera_redeyereduction_title">Réduction des yeux rouges</string>
   <string name="pref_camera_referenceline_entry_off">Désactivé</string>
   <string name="pref_camera_referenceline_entry_on">Activé</string>
-  <string name="pref_camera_referenceline_entryvalue_off">referenceline-off</string>
-  <string name="pref_camera_referenceline_entryvalue_on">referenceline-on</string>
   <string name="pref_camera_saturation_title">Saturation</string>
   <string name="pref_camera_scenedetect_title">Détection de scène automatique</string>
   <string name="pref_camera_scenemode_entry_auto">Automatique</string>

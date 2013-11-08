@@ -3,6 +3,7 @@
   <string name="Import">Importer</string>
   <string name="access_sd_fail">"Impossible d\'accéder à la mémoire de stockage USB."</string>
   <string name="accessibility_camera_picker">Interrupteur des caméras avant et arrière</string>
+  <string name="accessibility_ev_control">Contrôle de compensation d\'exposition</string>
   <string name="accessibility_review_thumbnail">Photo la plus récente</string>
   <string name="accessibility_shutter_button">Bouton de l\'obturateur</string>
   <string name="accessibility_zoom_control">Contrôle du zoom</string>
@@ -241,8 +242,6 @@
   <string name="pref_camera_redeyereduction_title">Réduction des yeux rouges</string>
   <string name="pref_camera_referenceline_entry_off">Désactivé</string>
   <string name="pref_camera_referenceline_entry_on">Activé</string>
-  <string name="pref_camera_referenceline_entryvalue_off">referenceline-off</string>
-  <string name="pref_camera_referenceline_entryvalue_on">referenceline-on</string>
   <string name="pref_camera_saturation_title">Saturation</string>
   <string name="pref_camera_scenedetect_title">Détection de scène automatique</string>
   <string name="pref_camera_scenemode_entry_auto">Automatique</string>
@@ -282,11 +281,10 @@
   <string name="pref_camera_volumekey_function_entry_shutter">Obturateur</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
   <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
+  <string name="pref_camera_volumekey_function_entry_exposure">Exposition</string>
   <string name="pref_camera_volumekey_function_title">Fonctions des touches de volume</string>
   <string name="pref_camera_watermark_entry_off">Désactivé</string>
   <string name="pref_camera_watermark_entry_on">Activé</string>
-  <string name="pref_camera_watermark_entryvalue_off">Off</string>
-  <string name="pref_camera_watermark_entryvalue_on">On</string>
   <string name="pref_camera_watermark_title">Horodatage en filigrane</string>
   <string name="pref_camera_whitebalance_entry_auto">Automatique</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Nuageux</string>
