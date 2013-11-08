@@ -162,11 +162,11 @@
   <string name="call_settings_miui">Paramètres d\'appel</string>
   <string name="call_title_redialing_with_times_miui">Recomposé %d fois</string>
   <string name="call_waiting_sum_miui">Me signaler les appels entrants pendant un appel</string>
-  <string name="call_waiting_tone_continuously_miui">Jouer la tonalité en continu </string>
+  <string name="call_waiting_tone_continuously_miui">Jouer la tonalité en continu</string>
   <string name="call_waiting_tone_stop_summary">(Appuyez sur la touche de volume pour arrêter la tonalité manuellement)</string>
   <string name="call_waiting_tone_title_miui">Tonalité d\'appel en attente</string>
-  <string name="call_waiting_tone_twice_and_vibrate_miui">Vibrer et jouer la tonalité deux fois </string>
-  <string name="call_waiting_tone_twice_only_miui">Jouer la tonalité deux fois seulement </string>
+  <string name="call_waiting_tone_twice_and_vibrate_miui">Vibrer et jouer la tonalité deux fois</string>
+  <string name="call_waiting_tone_twice_only_miui">Jouer la tonalité deux fois seulement</string>
   <string name="caller_id_sum_miui">Afficher/Masquer le numéro lors d\'un appel (si pris en charge par le réseau)</string>
   <string name="caller_id_title_miui">Affichage du numéro</string>
   <string name="caller_manage_header">Conférence téléphonique à %s</string>

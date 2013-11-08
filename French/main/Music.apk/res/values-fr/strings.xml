@@ -15,7 +15,7 @@
   <string name="album_search_local_descript">Local | %1$d x %2$d</string>
   <string name="album_search_online_descript">En ligne | %1$d x %2$d</string>
   <string name="album_select">Veuillez sélectionner une pochette d\'album</string>
-  <string name="albums_title">Albums </string>
+  <string name="albums_title">Albums</string>
   <string name="albumsongseparator">""</string>
   <string name="all_tracks">Chansons</string>
   <string name="android_album_settings">Utiliser la pochette intégrée</string>
@@ -123,7 +123,7 @@
   <string name="filter_by_size_summary">Filtrer les fichiers en fonction de leur taille</string>
   <string name="filter_notification">Le filtre a été activé, vous pouvez modifier ces paramètres dans les paramètres du filtre.</string>
   <string name="folder_title_format" formatted="false">%s(%d)</string>
-  <string name="folders_title">Dossiers </string>
+  <string name="folders_title">Dossiers</string>
   <string name="frequentlyplayed_title">Joué fréquemment</string>
   <string name="headphone_settings">Paramètres de type de casque</string>
   <string name="hot_artists">Artistes populaires</string>
@@ -164,7 +164,7 @@
   <string name="mediaplaybacklabel">Musique</string>
   <string name="mi_effect">MiEffets</string>
   <!-- si vous trouvez mieux que "améliorateur" pour Enchancer… -->
-  <string name="mi_effect_summary">"Toujours utiliser l'améliorateur MiSound quand utilisation d'enceintes"</string>
+  <string name="mi_effect_summary">"Toujours utiliser l'améliorateur MiSound lors l\'utilisation d'enceintes"</string>
   <string name="mi_effect_title">"Utiliser l'améliorateur MiSound"</string>
   <string name="mobile_connect_settings">Réseau mobile</string>
   <string name="modify_id3_for_list">La liste actuelle des informations des musiques ID3 sera modifiée</string>

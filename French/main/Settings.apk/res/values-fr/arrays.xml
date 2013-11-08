@@ -270,7 +270,7 @@
     <string-array name="user_content_ratings_entries">
         <item>Être élevé</item>
         <item>Humain</item>
-        <item>Neanderthal</item>
+        <item>Néandertal</item>
         <item>Chimpanzé</item>
         <item>Singe</item>
     </string-array>
@@ -307,8 +307,8 @@
         <item>Cyan</item>
         <item>Blanche</item>
         <item>Violette</item>
-     </string-array>
-     <string-array name="led_color_values">
+    </string-array>
+    <string-array name="led_color_values">
         <item>blue</item>
         <item>red</item>
         <item>yellow</item>
@@ -319,7 +319,7 @@
     </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
-        <item>WAPI hexadecimal</item>
+        <item>WAPI hexadécimal</item>
     </string-array>
     <string-array name="back_long_press_timeout">
         <item>0.5 seconde</item>
@@ -443,5 +443,19 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Demander</item>
         <item>Ne jamais autoriser</item>
         <item>Toujours autoriser</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Connexion automatique</item>
+        <item>Connexion manuelle</item>
+        <item>Toujours demander</item>
+    </string-array>
+    <string-array name="se_route_options">
+        <item>Élément sécurisé embarqué</item>
+        <item>Élément sécurisé sur la carte SIM</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Délai court</item>
+        <item>Standard</item>
+        <item>Meilleure qualité</item>
     </string-array>
 </resources>

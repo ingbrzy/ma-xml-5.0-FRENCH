@@ -222,9 +222,9 @@
   <string name="mx_btn_enable">Activer</string>
   <string name="mx_count_dspt">Depuis l\'activation, MIUI a envoyé %1$d message(s) cloud pour vous (%2$s)</string>
   <string name="mx_current_status">Statut : En ligne</string>
-  <string name="mx_dspt">Envoyer des messages via Internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
+  <string name="mx_dspt">Envoyer des messages via internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
   <string name="mx_enable">Activer la messagerie cloud</string>
-  <string name="mx_enable_int_popup_msg">Cloud Messaging vous permet d\'envoyer des messages entre utilisateurs MIUI. Pour l\'activer un SMS international va être envoyé. Le tarif de votre opérateur sera appliqué.</string>
+  <string name="mx_enable_int_popup_msg">La messagerie cloud vous permet d\'envoyer des messages entre utilisateurs MIUI. Pour l\'activer un SMS international va être envoyé. Le tarif de votre opérateur sera appliqué.</string>
   <string name="mx_enable_popup_msg">La messagerie cloud vous permet d\'envoyer des messages via MIUI. L\'envoi d\'un SMS est nécessaire pour activer la fonction, il vous sera facturé le prix d\'un SMS international si vous ne vous trouvez pas en Chine. Voulez-vous l\'activer maintenant ?</string>
   <string name="mx_int_warning_notice">Un SMS international va être envoyé. Le tarif de votre opérateur sera appliqué.</string>
   <string name="mx_msg">Message Cloud</string>
@@ -255,6 +255,7 @@
   <string name="phrase_confirm_delete_message">La phrase sélectionnée sera supprimée</string>
   <string name="phrase_empty">Aucune phrase</string>
   <string name="phrase_from">De %1s</string>
+ <!-- phrase_list_title à vérifier, usage de la variable toujours d'actualité ?) -->
   <string name="phrase_list_title" formatted="false">Phrases (%1$d)</string>
   <string name="pick_too_many_recipients">Trop de destinataires</string>
   <string name="play">Lire</string>

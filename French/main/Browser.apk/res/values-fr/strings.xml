@@ -499,7 +499,7 @@
   <string name="quicklinks_most_visited">Ajouter les sites les plus visités sur la page d\'accueil</string>
   <string name="quicklinks_most_visited_subtitle">Afficher les sites récemment visités dans \"Nouvel onglet\"</string>
   <string name="readmode_already_add_to_bookshelf">Ajouté à l\'étagère</string>
-  <string name="readmode_battery">Batterie </string>
+  <string name="readmode_battery">Batterie</string>
   <string name="readmode_login">Connexion au compte</string>
   <string name="readmode_login_message">Les chapitres suivants requièrent de vous connecter avant de pouvoir les lire</string>
   <string name="readmode_page_load_error">Échec du chargement de la page, veuillez appuyer sur Actualiser pour réessayer</string>

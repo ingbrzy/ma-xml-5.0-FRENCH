@@ -5,7 +5,7 @@
     <string name="full_screen">Navbar</string>
     <string name="mipop_title">MiPop</string>
     <string name="mipop_switch_title">MiPop</string>
-    <string name="mipop_switch_summary">MiPop activé，la barre de navigation pourra être remplacée</string>
+    <string name="mipop_switch_summary">MiPop activé, la barre de navigation pourra être remplacée</string>
     <string name="mipop_fullscreen_title">Cacher la barre de navigation</string>
     <string name="mipop_fullscreen_summary">"Une zone d'affichage plus grande sera disponible"</string>
     <string name="widgetName">MiPop</string>
@@ -17,7 +17,7 @@
     <string name="Discard">Annuler</string>
     <string name="Share">Partager</string>
     <string name="SaveTO">Sauvegarde vers</string>
-    <string name="SaveFail">Sauvegarde echouée !</string>
+    <string name="SaveFail">Sauvegarde échouée !</string>
     <string name="runningFaceDetection">Veuillez patienter…</string>
     <string name="power_off">Éteindre</string>
     <string name="reboot">Redémarrer</string>

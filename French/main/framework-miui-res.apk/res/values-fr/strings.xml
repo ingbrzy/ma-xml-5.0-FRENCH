@@ -225,6 +225,7 @@ Réessayer dans %d secondes."</string>
   <string name="the_mid_autumn_festival">Festival de mi automne</string>
   <string name="the_rains">Eaux de pluie</string>
   <string name="the_spring_festival">Nouvel an chinois</string>
+  <string name="toast_lockscreen_glogin_empty_password">Mot de passe requis.</string>
   <string name="today">Aujourd\'hui</string>
   <string name="tomorrow">Demain</string>
   <string name="tw_childrens_day"/>
@@ -241,7 +242,7 @@ Réessayer dans %d secondes."</string>
   <string name="user_agreement2">" Contrat d'utilisateur"</string>
   <string name="user_agreement3">" et "</string>
   <string name="user_agreement4">Règles de confidentialité</string>
-  <string name="user_agreement5">，appuyez sur OK pour indiquer que vous acceptez le contenu ci-dessus, appuyez sur Annuler pour quitter.</string>
+  <string name="user_agreement5">, appuyez sur OK pour indiquer que vous acceptez le contenu ci-dessus, appuyez sur Annuler pour quitter.</string>
   <string name="v5_deselect_all">Tout désélectionner</string>
   <string name="v5_edit_mode_title_empty">Cocher des éléments</string>
   <string name="v5_icon_menu_bar_more_item_label">Plus</string>
@@ -257,7 +258,7 @@ Réessayer dans %d secondes."</string>
   <string name="volume_icon_description_notification">Notifications</string>
   <string name="volume_icon_description_ringer">Sonnerie</string>
   <string name="volume_ring_description">Volume de la sonnerie et des notifications</string>
-  <string name="wake_alarm_message">Mettre l\'alarme en pause et rappeler dans %s </string>
+  <string name="wake_alarm_message">Mettre l\'alarme en pause et rappeler dans %s</string>
   <string name="white_dews">Blanc de rosée</string>
   <string name="winter_begins">L\'hiver commence</string>
   <string name="winter_solstice">Solstice d\'hiver</string>

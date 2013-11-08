@@ -783,7 +783,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
   <string name="dndm_vip_list_custom_group">Exceptions</string>
   <string name="dndm_vip_list_group">Liste des exceptions</string>
-  <string name="do_not_disturb_mode">NPD</string>
+  <string name="do_not_disturb_mode">Ne pas déranger</string>
   <string name="dock_audio_settings_title">Audio</string>
   <string name="dock_audio_summary_car">Paramètres support voiture associé</string>
   <string name="dock_audio_summary_desk">Paramètres station d\'accueil bureau associée</string>
@@ -1279,7 +1279,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="mtp_ptp_mode_summary">Fonction MTP ou PTP active</string>
   <string name="multi_sim_settings_summary">Mettre en place des paramètres multi-Sim pour voix, données et SMS</string>
   <string name="multi_sim_settings_title">Paramètres multi-SIM</string>
-  <string name="multi_touch_points_category_title">Points multi-touch</string>
+  <string name="multi_touch_points_category_title">Tactile multi-point</string>
   <string name="multi_touch_points_preference">Redémarrez pour activer</string>
   <string name="musicfx_title">Effets musicaux</string>
   <string name="nearby_wifi">Connexions Wi-Fi proches</string>
