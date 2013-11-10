@@ -15,7 +15,7 @@
   <string name="accessibility_button_navscreen">Gestionnaire de pages</string>
   <string name="accessibility_button_newincognitotab">Ouvrir un onglet de navigation privée</string>
   <string name="accessibility_button_newtab">Ouvrir un nouvel onglet</string>
-  <string name="accessibility_button_refresh">Actualiser</string>
+  <string name="accessibility_button_refresh">Actualiser la page</string>
   <string name="accessibility_button_search">Rechercher</string>
   <string name="accessibility_button_smaller">Plus petit</string>
   <string name="accessibility_button_stop">Arrêter le chargement de la page</string>

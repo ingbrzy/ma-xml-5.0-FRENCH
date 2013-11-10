@@ -10,7 +10,7 @@
   <string name="activate_phone_failed_notif_title">Échec de l\'activation du service MiCloud</string>
   <string name="activate_phone_send_sms_fail">Échec de l\'envoi du SMS d\'activation, impossible d\'ouvrir le service de synchronisation</string>
   <string name="activate_phone_send_sms_failed_notif">Échec de l\'envoi du SMS d\'activation</string>
-  <string name="activate_phone_server_error">Erreur de serveur,impossible d\'ouvrir le service de synchronisation</string>
+  <string name="activate_phone_server_error">Erreur de serveur, impossible d\'ouvrir le service de synchronisation</string>
   <string name="activate_phone_server_error_notif">Erreur de serveur</string>
   <string name="activate_phone_failed_notif_title_msim">Impossible de démarrer MiCloud pour SIM %s</string>
   <string name="activate_status_title_activating">Activation de votre carte SIM</string>
@@ -185,7 +185,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="reg_by_email_failure">Échec de l\'inscription : %1$s</string>
   <string name="reg_failed">Échec de l\'inscription</string>
   <string name="reg_success">L\'inscription a réussi</string>
-  <string name="reg_success_summary">%1$s à été associé à votre compte. Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe.</string>
+  <string name="reg_success_summary">%1$s a été associé à votre compte. Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe.</string>
   <string name="reg_type_email">S\'inscrire par Mail</string>
   <string name="reg_type_phone">S\'inscrire par téléphone (recommandé)</string>
   <string name="reging">Inscription…</string>

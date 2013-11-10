@@ -1046,7 +1046,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="internal_storage">Stockage interne</string>
   <string name="invalid_location">"L'emplacement d'installation n'est pas valide."</string>
   <string name="invalid_size_value">"Impossible de calculer la taille du package."</string>
-  <string name="ipaddr_label">Adresse IP:</string>
+  <string name="ipaddr_label">Adresse IP :</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s et %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
@@ -1260,14 +1260,14 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="msd_install">Installer le pilote</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Suivant</string>
-  <string name="msd_install_retry_linux">"Si votre ordinateur ne détecte pas votre appareil, essayez ce qui suit:
+  <string name="msd_install_retry_linux">"Si votre ordinateur ne détecte pas votre appareil, essayez ce qui suit :
 1) Utiliser l\'outil d\'installation, "sudo aptitude install mtpfs libfuse-dev libmad0-dev"
 2) Créer le répertoire : mkdir /media/mtp
 3) Confirmer les permissions du groupe d\'utilisateur
 4) Reconnecter
 5) Accéder à l\'appareil monté : "mtpfs /media/mtp" via Nautilus; même répertoire local
 6) Désinstaller l\'appareil "fusermount -u /media/mtp"
-Remarque: pour environnement Ubuntu 8.04"</string>
+Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="msd_install_retry_mac">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
   <string name="msd_install_retry_windows_vista">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
   <string name="msd_install_retry_windows_xp">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
@@ -1422,7 +1422,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="perm_hips_security_prompt_title">%1$s tente de %2$s</string>
   <string name="perm_hips_send_sms_content">Contenu :</string>
   <string name="perm_hips_send_sms_data">envoyer des SMS à %1$s:%2$d</string>
-  <string name="perm_hips_send_sms_port">Dest. Port:</string>
+  <string name="perm_hips_send_sms_port">Dest. Port :</string>
   <string name="perm_hips_send_sms_recipient">Destinataire :</string>
   <string name="perm_hips_send_sms_smsc">Centre SMS :</string>
   <string name="perm_hips_send_sms_smsc_default">Centre SMS par défaut</string>
@@ -1559,7 +1559,7 @@ Remarque: pour environnement Ubuntu 8.04"</string>
   <string name="proxy_error_invalid_exclusion_list">"Le format de la liste d'exclusion spécifiée n'est pas correct. Séparez les noms de domaine à exclure par une virgule."</string>
   <string name="proxy_error_invalid_host">"Le nom d'hôte saisi n'est pas valide."</string>
   <string name="proxy_error_invalid_port">"Le port indiqué n'est pas valide."</string>
-  <string name="proxy_exclusionlist_hint">ex: sodu76.liamsi.yakou.com</string>
+  <string name="proxy_exclusionlist_hint">ex : sodu76.liamsi.yakou.com</string>
   <string name="proxy_exclusionlist_label">Ignorer le proxy pour</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Nom d\'hôte du proxy</string>

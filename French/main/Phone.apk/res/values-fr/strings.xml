@@ -28,7 +28,7 @@
   <string name="alert_dialog_no">Non</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Oui</string>
-  <string name="allContactdeleteFailed">Impossible de supprimer tous les contacts de la SIM!!!</string>
+  <string name="allContactdeleteFailed">Impossible de supprimer tous les contacts de la SIM !</string>
   <string name="allContactdeleteSuccess">Tous les contacts de la carte SIM ont été supprimés avec succès</string>
   <string name="always_enable_mms_miui">Toujours recevoir les MMS</string>
   <string name="always_enable_mms_summary_miui">Toujours recevoir les MMS même lorsque les données sont désactivées</string>
@@ -68,10 +68,10 @@
   <string name="auto_answer_scenario_enteries_always_miui">Toujours</string>
   <string name="auto_answer_scenario_enteries_bluetooth_only_miui">Bluetooth uniquement</string>
   <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Casque/Bluetooth uniquement</string>
-  <string name="auto_answer_scenario_enteries_headset_only_miui">Casque seulement</string>
+  <string name="auto_answer_scenario_enteries_headset_only_miui">Casque uniquement</string>
   <string name="auto_answer_scenario_title_miui">Scénario pour le décrochage auto</string>
   <string name="auto_answer_setting_title_miui">Réglages de réponse automatique</string>
-  <string name="auto_answer_summary_delay">(délai:%ss)</string>
+  <string name="auto_answer_summary_delay">(délai : %ss)</string>
   <string name="auto_answer_summary_not_enabled">Inactif</string>
   <string name="auto_country_code_miui">Ajout automatique du code pays</string>
   <string name="auto_country_code_sum_miui">Ajouter automatiquement le code du pays avant de composer les contacts connus</string>

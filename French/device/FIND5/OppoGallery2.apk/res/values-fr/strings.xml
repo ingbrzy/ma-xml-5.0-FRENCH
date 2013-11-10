@@ -134,7 +134,7 @@
   <string name="group_by_location">Par emplacement</string>
   <string name="group_by_size">Par taille</string>
   <string name="group_by_tags">Par tag</string>
-  <string name="group_by_time">Par heure</string>
+  <string name="group_by_time">Par date</string>
   <string name="height">Haut.</string>
   <string name="help">Aide</string>
   <string name="help_url_gallery_main"></string>
@@ -159,11 +159,11 @@
   <string name="make_available_offline">Rendre disponible hors-ligne</string>
   <string name="maker">Fabricant</string>
   <string name="manual">Manuel</string>
-  <string name="mimetype">Type Mime</string>
+  <string name="mimetype">Type MIME</string>
   <string name="model">Modèle</string>
   <string name="more">Plus</string>
   <string name="movie_view_label">Lecteur vidéo</string>
-  <string name="multiface_crop_help">Appuyez sur un visage pour commencer</string>
+  <string name="multiface_crop_help">Appuyer sur un visage pour commencer</string>
   <string name="my_image">/DCIM/Camera</string>
   <string name="my_img">Mes images</string>
   <string name="my_record">Mes Vidéos</string>
@@ -481,7 +481,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="rotate_right">Faire pivoter à droite</string>
   <string name="rotate_tooltip">Faire glisser la photo pour la faire pivoter</string>
   <string name="saturation">Saturation</string>
-  <string name="save">Sauvegarder</string>
+  <string name="save">Enregistrer</string>
   <string name="save_error">"Impossible d'enregistrer l'image rognée."</string>
   <string name="saving_failure">"Impossible d'enregistrer la photo"</string>
   <string name="saving_image">Enregistrement de l\'image…</string>
@@ -511,7 +511,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="share_video_via">Partager la vidéo via</string>
   <string name="sharpen">Netteté</string>
   <string name="show_all">Afficher tout</string>
-  <string name="show_images_only">Afficher les Images</string>
+  <string name="show_images_only">Afficher les images</string>
   <string name="show_on_map">Afficher sur la carte</string>
   <string name="show_or_hide_folder">Afficher/Masquer dossier</string>
   <string name="show_or_hide_folder_tip">Sélectionner le dossier à afficher</string>
@@ -538,7 +538,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="sync_picasa_albums">Actualiser</string>
   <string name="tags">Tags</string>
   <string name="tap_to_focus">Appuyez pour faire le focus</string>
-  <string name="task_busy">La tâche est occupé, veuillez réessayer plus tard.</string>
+  <string name="task_busy">La tâche est occupée, veuillez réessayer plus tard.</string>
   <string name="temperature">Chaud</string>
   <string name="time">Heure</string>
   <string name="time_lapse_error">Taille de vidéo non valide pour l\'enregistrement accéléré.</string>

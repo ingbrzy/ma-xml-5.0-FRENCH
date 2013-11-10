@@ -198,7 +198,7 @@ sur [ %1$s ] "</string>
   <string name="trasfer_list">Liste des transferts</string>
   <string name="unselect_all">Tout désélectionner</string>
   <string name="upload_complete">%1$s | %2$s complété(s)</string>
-  <string name="upload_failed_msg">L\'envoi du fichier à échoué !</string>
+  <string name="upload_failed_msg">L\'envoi du fichier a échoué !</string>
   <string name="use_start">Commencer maintenant</string>
   <string name="video">Vidéo</string>
   <string name="voice_assist_match">Couplage automatique rapide</string>

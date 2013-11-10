@@ -967,7 +967,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="sim_error_number_too_long">Numéro SIM trop long !</string>
   <string name="sim_error_password_error">Erreur de mot de passe SIM.</string>
   <string name="sim_error_storage_full">Espace de stockage de la carte SIM plein !</string>
-  <string name="sim_error_text_too_long">Nom trop long!</string>
+  <string name="sim_error_text_too_long">Nom trop long !</string>
   <string name="sim_export_loading">Informations de la carte SIM en cours de lecture. Cette opération peut prendre quelques minutes, veuillez patienter…</string>
   <string name="sim_indexed_contact_not_exist">La position %1$d sur la carte SIM n\'est pas valide, elle se trouve peut-être entre %2$d et %3$d</string>
   <string name="sim_no_contact">Aucun contact sur la carte SIM</string>
