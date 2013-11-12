@@ -467,7 +467,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="label_notes">Notes</string>
   <string name="label_sip_address">Appel Internet</string>
   <string name="launcherDialer">Téléphone</string>
-  <string name="listCustomView">Les contacts en affichage personnalisée</string>
+  <string name="listCustomView">Les contacts en affichage personnalisé</string>
   <string name="listFoundAllContactsZero">Non trouvé</string>
   <string name="listSingleContact">Contact unique</string>
   <string name="listTotalAllContactsZero">Aucun contact</string>
@@ -631,7 +631,7 @@ Pour ajouter un contact à la liste de favoris :
 • Sauvegardez vos contacts en toute sécurité."</string>
   <string name="no_contact_details">Aucune information supplémentaire pour ce contact</string>
   <string name="no_contact_in_other_phone">Il n\'y a pas de contact dans votre téléphone</string>
-  <string name="no_contacts_dialog_message">Il n\'y a personne dans vos contacts. Ils sont peut-être stocké dans la carte SIM, veuillez importer les informations de la carte SIM dans le téléphone.</string>
+  <string name="no_contacts_dialog_message">Il n\'y a personne dans vos contacts. Ils sont peut-être stockés dans la carte SIM, veuillez importer les informations de la carte SIM dans le téléphone.</string>
   <string name="no_contacts_dialog_title">Aucun contact trouvé</string>
   <string name="no_contacts_selected">Aucun contact sélectionné</string>
   <string name="no_sdcard_message">Aucune carte SD détectée</string>

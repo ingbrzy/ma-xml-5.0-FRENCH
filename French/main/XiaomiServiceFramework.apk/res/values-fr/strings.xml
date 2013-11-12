@@ -207,7 +207,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="skip_setup_account_msg">Vous pouvez configurer votre compte plus tard dans les paramètres.</string>
   <string name="skip_setup_account_title">Ignorer la configuration du compte</string>
   <string name="start_micloud">Commencer</string>
-  <string name="sub_alert_notif_dspt" formatted="false">"Vous avez %s contacts téléphonique, %s SMS, %s photos, %s notes et d\'autres données qui ne sont pas synchronisées. 
+  <string name="sub_alert_notif_dspt" formatted="false">"Vous avez %s contacts téléphoniques, %s SMS, %s photos, %s notes et d\'autres données qui ne sont pas synchronisées. 
 
  Si votre téléphone est perdu ou cassé, ces données seront définitivement perdues. Il est recommandé d\'activer la synchronisation afin d\'assurer la sécurité des données"</string>
   <string name="sub_alert_notif_title">Le service de synchronisation n\'as pas été activé</string>

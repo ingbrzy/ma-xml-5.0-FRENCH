@@ -7,7 +7,7 @@
         <item>Alarme</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>0 minutes</item>
+        <item>0 minute</item>
         <item>1 minute</item>
         <item>5 minutes</item>
         <item>10 minutes</item>
@@ -26,7 +26,7 @@
     </string-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Aucun</item>
-        <item>0 minutes</item>
+        <item>0 minute</item>
         <item>1 minute</item>
         <item>5 minutes</item>
         <item>10 minutes</item>

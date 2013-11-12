@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cancel">Annuler</string>
     <string name="copy">Copier</string>
@@ -72,13 +72,13 @@
     <string name="month_shortest_october">O</string>
     <string name="month_shortest_november">N</string>
     <string name="month_shortest_december">D</string>
-    <string name="day_of_week_long_sunday">Dimanche</string>
-    <string name="day_of_week_long_monday">Lundi</string>
-    <string name="day_of_week_long_tuesday">Mardi</string>
-    <string name="day_of_week_long_wednesday">Mercredi</string>
-    <string name="day_of_week_long_thursday">Jeudi</string>
-    <string name="day_of_week_long_friday">Vendredi</string>
-    <string name="day_of_week_long_saturday">Samedi</string>
+    <string name="day_of_week_long_sunday">dimanche</string>
+    <string name="day_of_week_long_monday">lundi</string>
+    <string name="day_of_week_long_tuesday">mardi</string>
+    <string name="day_of_week_long_wednesday">mercredi</string>
+    <string name="day_of_week_long_thursday">jeudi</string>
+    <string name="day_of_week_long_friday">vendredi</string>
+    <string name="day_of_week_long_saturday">samedi</string>
     <string name="day_of_week_medium_sunday">dim.</string>
     <string name="day_of_week_medium_monday">lun.</string>
     <string name="day_of_week_medium_tuesday">mar.</string>
@@ -359,7 +359,7 @@
     <string name="permlab_enableCarMode">activer le mode Voiture</string>
     <string name="permdesc_enableCarMode">Permet à l\'application d\'activer le mode Voiture.</string>
     <string name="permlab_killBackgroundProcesses">fermer les autres applications</string>
-    <string name="permdesc_killBackgroundProcesses">Permet à l\'application de mettre fin aux processus d\'autres applications exécutés en arrière-plan. Cette autorisation peut interrompre l\'exécution d\'autres applications.</string>
+    <string name="permdesc_killBackgroundProcesses">Permet à l\'application de mettre fin aux processus d\'autres applications exécutées en arrière-plan. Cette autorisation peut interrompre l\'exécution d\'autres applications.</string>
     <string name="permlab_forceStopPackages">forcer l\'arrêt des autres applications</string>
     <string name="permdesc_forceStopPackages">Permet à l\'application de forcer l\'arrêt d\'autres applications.</string>
     <string name="permlab_forceBack">forcer la fermeture de l\'application</string>

@@ -332,7 +332,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="vt_local_video_rep">Remplacement vidéo locale</string>
   <string name="vt_local_video_zoom">Zoom vidéo locale</string>
   <string name="vt_media_occupied">Cette caméra n\'étant pas disponible, aucun appel vidéo n\'est possible. Veuillez vérifier si une autre application utilise la caméra.</string>
-  <string name="vt_media_video_fail">Affichage correct de la vidéo impossible. L\'appel vidéo à été déconnecté</string>
+  <string name="vt_media_video_fail">Affichage correct de la vidéo impossible. L\'appel vidéo a été déconnecté</string>
   <string name="vt_menu_hide_me">Masquer la vidéo locale</string>
   <string name="vt_menu_show_me">Afficher la vidéo locale</string>
   <string name="vt_menu_snapshot">Instantané homologue</string>

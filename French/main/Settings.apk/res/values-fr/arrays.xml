@@ -356,7 +356,7 @@
     </string-array>
     <string-array name="msd_pc_system_install_start_summary">
         <item>"Pour Windows XP ou versions antérieures le pilote doit être installé manuellement"</item>
-        <item>"Pour Windows Vista ou version ultérieures le lecteur de musique MI 2 apparaîtra sur votre ordinateur"</item>
+        <item>"Pour Windows Vista ou versions ultérieures le lecteur de musique MI 2 apparaîtra sur votre ordinateur"</item>
         <item>"Pour Mac OS le pilote doit être installé manuellement"</item>
         <item></item>
     </string-array>

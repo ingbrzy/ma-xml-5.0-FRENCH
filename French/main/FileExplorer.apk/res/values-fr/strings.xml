@@ -276,7 +276,7 @@ Obtenez de l\'espace gratuit %1$s"</string>
   <string name="ui_main_menu_option_sign_in">Se connecter</string>
   <string name="ui_main_menu_option_task_manage">Gestion de transfert</string>
   <string name="ui_main_progress_txt_open_file">Téléchargement…</string>
-  <string name="ui_main_toast_favorite_removed">Les favoris on été supprimés</string>
+  <string name="ui_main_toast_favorite_removed">Les favoris ont été supprimés</string>
   <string name="ui_main_toast_operation_failed">Échec de la suppression de %1$s des favoris.</string>
   <string name="uninstall_app_data">Supprimer l\'application et ses données</string>
   <string name="unmount_inform_text">Le stockage USB va être démonté.</string>

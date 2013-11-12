@@ -44,7 +44,7 @@
   <string name="custom_adjust_command_hit">Contenu à envoyer</string>
   <string name="custom_adjust_is_empty">%s est vide !</string>
   <string name="custom_adjust_receiver">Numéro du destinataire</string>
-  <string name="custom_adjust_receiver_hint">Numéro de l\'opérateur utilisée pour envoyer les détails.</string>
+  <string name="custom_adjust_receiver_hint">Numéro de l\'opérateur utilisé pour envoyer les détails.</string>
   <string name="custom_adjust_recevier_same_with_sender">De même avec le numéro de l\'expéditeur</string>
   <string name="custom_adjust_sender">Numéro de l\'expéditeur</string>
   <string name="custom_adjust_sender_hint">Numéro de l\'opérateur utilisé pour recevoir les détails de la requête de l\'utilisateur</string>

@@ -84,7 +84,7 @@
   <string name="auto_ip_setting_miui">Paramètres IP automatiques</string>
   <string name="auto_ip_summary_not_enabled">Inactif</string>
   <string name="auto_ip_support_local_numbers">Support des numéros locaux</string>
-  <string name="auto_record_call_summary_miui">Tous les appels enregistrées sont stockées dans MIUI/sound_recorder/call_rec sur la Carte SD</string>
+  <string name="auto_record_call_summary_miui">Tous les appels enregistrés sont stockées dans MIUI/sound_recorder/call_rec sur la Carte SD</string>
   <string name="auto_record_call_title_miui">Enregistrer automatiquement</string>
   <string name="auto_record_scenario_enteries_always_miui">Tous les numéros</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Personnalisé</string>
@@ -545,12 +545,12 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="label_puk2_code_miui">Saisir le code PUK2</string>
   <string name="label_puk_code_miui">Saisir le code PUK</string>
   <string name="label_rcdp">Déloquer le PIN de l\'UIM d\'entreprise</string>
-  <string name="label_rdp">Débloquer le PIN UIM UIM</string>
+  <string name="label_rdp">Débloquer le PIN UIM</string>
   <string name="label_rhrpd">Débloquer le PIN UIM HRPD</string>
   <string name="label_rn1dp">Débloquer le PIN UIM du réseau 1</string>
   <string name="label_rn2dp">Débloquer le PIN UIM du réseau 2</string>
   <string name="label_rspdp">Débloquer le PIN UIM du prestataire de services</string>
-  <string name="label_sdp">Débloquer le PIN SIM SIM</string>
+  <string name="label_sdp">Débloquer le PIN SIM</string>
   <string name="label_spdp">Débloquer le PIN SIM du prestataire de services</string>
   <string name="label_subscription">pour l\'abonnement</string>
   <string name="lafs_disable">Option "Horaires des vols des aéroports à proximité" désactivée</string>
@@ -850,8 +850,8 @@ Appuyez sur OK pour continuer."</string>
   <string name="requesting_rnw1_unlock">Demande de déverrouillage du réseau 1 de l\'UIM HRPD…</string>
   <string name="requesting_rnw2_unlock">Demande de déverrouillage du réseau 2 de l\'UIM HRPD…</string>
   <string name="requesting_rsp_unlock">Demande de déverrouillage du prestataire de services de l\'UIM HRPD…</string>
-  <string name="requesting_ruim_unlock">Demande de déverrouillage de l\'UIM UIM…</string>
-  <string name="requesting_sim_unlock">Demande de déverrouillage de la SIM SIM…</string>
+  <string name="requesting_ruim_unlock">Demande de déverrouillage de l\'UIM…</string>
+  <string name="requesting_sim_unlock">Demande de déverrouillage de la SIM…</string>
   <string name="requesting_sp_unlock">Demande de déverrouillage du prestataire de services de la SIM…</string>
   <string name="requesting_unlock">Demande de déblocage du réseau…</string>
   <string name="reset_my_choice_hint">Vous pouvez changer le compte à utiliser par défaut pour les appels Internet depuis l\'écran Téléphone &gt; Paramètres &gt; Paramètres d\'appel Internet &gt; Comptes.</string>
@@ -888,8 +888,8 @@ Appuyez sur OK pour continuer."</string>
   <string name="roaming_warning">Autoriser l\'itinérance des données ? Des frais d\'itinérance importants peuvent s\'appliquer !</string>
   <string name="rsp_unlock_failed">La demande de déverrouillage du prestataire de services de l\'UIM HRPD a échoué.</string>
   <string name="rsp_unlock_success">Le déverrouillage du prestataire de services de l\'UIM a réussi.</string>
-  <string name="ruim_unlock_failed">La demande de déverrouillage de l\'UIM UIM a échoué.</string>
-  <string name="ruim_unlock_success">Le déverrouillage de l\'UIM UIM a réussi.</string>
+  <string name="ruim_unlock_failed">La demande de déverrouillage de l\'UIM a échoué.</string>
+  <string name="ruim_unlock_success">Le déverrouillage de l\'UIM a réussi.</string>
   <string name="save">Enregistrer</string>
   <string name="saving_account">Enregistrement du compte…</string>
   <string name="search_networks">Rechercher les réseaux</string>
@@ -940,8 +940,8 @@ Appuyez sur OK pour continuer."</string>
   <string name="sim_ndp_unlock_text">Déverrouiller</string>
   <string name="sim_pin_change_miui">Changer le code PIN de la SIM</string>
   <string name="sim_pin_toggle_miui">Bloquer la carte SIM</string>
-  <string name="sim_unlock_failed">La demande de déverrouillage de la SIM SIM a échoué.</string>
-  <string name="sim_unlock_success">Le déverrouillage de la SIM SIM a réussi.</string>
+  <string name="sim_unlock_failed">La demande de déverrouillage de la carte SIM a échoué.</string>
+  <string name="sim_unlock_success">Le déverrouillage de la carte SIM a réussi.</string>
   <string name="sip_account_list">Comptes SIP</string>
   <string name="sip_accounts">Comptes d\'appels Internet (SIP)</string>
   <string name="sip_accounts_title">Comptes</string>

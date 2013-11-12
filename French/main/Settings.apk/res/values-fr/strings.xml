@@ -872,7 +872,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="eq_flat">Plat</string>
   <string name="eq_hiphop">Hip-Hop</string>
   <string name="eq_jazz">Jazz</string>
-  <string name="eq_metal">Metal</string>
+  <string name="eq_metal">Métal</string>
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Créer</string>
   <string name="eq_preset_format">Personnalisé %d</string>
@@ -975,7 +975,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="headset_calibrate">Calibrer les buttons</string>
   <string name="headset_calibrate_apply">Appliquer</string>
   <string name="headset_calibrate_confirm">Sauvegarder les nouveaux paramètres de calibration ?</string>
-  <string name="headset_calibrate_hint">Veuillez appuyez sur le bouton supérieur</string>
+  <string name="headset_calibrate_hint">Veuillez appuyer sur le bouton supérieur</string>
   <string name="headset_calibrate_next_track">Titre suivant</string>
   <string name="headset_calibrate_prev_track">Titre précédent</string>
   <string name="headset_calibrate_success">Paramètres appliqués</string>
@@ -1405,7 +1405,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="perm_hips_root_desc_stable">Indisponible dans la version stable de MIUI</string>
   <string name="perm_hips_root_hint">%1$s apps sont autorisés à obtenir la permission ROOT</string>
   <string name="perm_hips_root_title">obtenir la permission ROOT</string>
-  <string name="perm_hips_safe">Permission normales (%1$d)</string>
+  <string name="perm_hips_safe">Permissions normales (%1$d)</string>
   <string name="perm_hips_security_prompt_accept">Autoriser (%d)</string>
   <string name="perm_hips_security_prompt_accept_root">Autoriser</string>
   <string name="perm_hips_security_prompt_caption">Avertissement de sécurité</string>
@@ -2329,7 +2329,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wfd_disconnect_diag_msg">Si votre session Wi-Fi est interrompue, votre connexion avec %1$s se terminera.</string>
   <string name="wfd_disconnect_diag_title">Déconnecter la session Wi-Fi ?</string>
   <string name="wfd_disconnect_multiple_diag_message">Si vous interrompez la session d\'affichage sans fil, votre connexion avec les autres appareils %1$s et %2$s se terminera.</string>
-  <string name="wfd_enable_wifi_diag_title">"Vous pouvez utiliser l'affichage sans fil uniquement quand se dernier est actif. L'activer maintenant ?"</string>
+  <string name="wfd_enable_wifi_diag_title">"Vous pouvez utiliser l'affichage sans fil uniquement quand ce dernier est actif. L'activer maintenant ?"</string>
   <string name="wfd_enabler_title">"Activer l'affichage sans fil"</string>
   <string name="wfd_menu_search">Rechercher des périphériques</string>
   <string name="wfd_menu_searching">Recherche…</string>

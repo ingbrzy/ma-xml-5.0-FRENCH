@@ -189,7 +189,7 @@
   <string name="fail_init_gallery_db_helper">Application fermée, impossible d\'ouvrir la base de données de la galerie, le disque est plein.</string>
   <string name="fail_to_apply">Impossible de joindre album.</string>
   <string name="fail_to_pick_email">Aucun Mail valide sélectionné</string>
-  <string name="fail_to_sync_album">Impossible de synchroniser l\'album au serveur. Veuillez vérifiez votre connexion réseau !</string>
+  <string name="fail_to_sync_album">Impossible de synchroniser l\'album au serveur. Veuillez vérifier votre connexion réseau !</string>
   <string name="file_size">Taille fichier</string>
   <string name="filllight">Éclairage d\'appoint</string>
   <string name="fisheye">Objectif fisheye</string>

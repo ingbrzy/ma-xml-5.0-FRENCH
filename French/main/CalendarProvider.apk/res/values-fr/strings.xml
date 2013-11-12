@@ -11,7 +11,7 @@
   <string name="debug_tool_email_sender_picker">Choisissez un programme pour envoyer votre fichier</string>
   <string name="debug_tool_email_subject">Base de données Calendar en pièce jointe</string>
   <string name="debug_tool_email_body">En pièce jointe tous les éléments de mon agenda. Merci de ne pas diffuser ces informations sensibles.</string>
-  <string name="debug_tool_message">Vous êtes sur le point de 1) faire une copie de la base de données de vos calendriers vers la carte SD ou le stockage USB et 2) l\'envoyer par email. Rappelez vous de la supprimer après son utilisation.</string>
+  <string name="debug_tool_message">Vous êtes sur le point de 1) faire une copie de la base de données de vos calendriers vers la carte SD ou le stockage USB et 2) l\'envoyer par email. Rappelez-vous de la supprimer après son utilisation.</string>
   <string name="debug_tool_start_button">Commencer</string>
   <string name="provider_label">Agenda</string>
   <string name="upgrade_msg">Mise à jour de la base de données.</string>
