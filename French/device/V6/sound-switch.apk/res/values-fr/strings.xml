@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <!-- à traduire : 
+    <string name="app_name">Ascend Tools</string>
+    <string name="market_name">My APP</string>
+    <string name="preferences_application_title">Application</string>
+    <string name="application_version">Huawei Ascend Tools 3.1</string>
+    <string name="application_copyright">"Copyright © genokolar@gmail.com 2012 
+http://weibo.com/geno"</string>
+    <string name="zuozhe">Made by genokolar@gmail.com</string>
+    <string name="power_title">power</string>
+    <string name="reboot">Reboot</string>
+    <string name="recovery">Recovery</string>
+    <string name="shutdown">Shutdown</string>
+    <string name="fastboot">Fastboot</string>
+    <string name="reboot_summary">Reboot your phone</string>
+    <string name="recovery_summary">Enter recovery mode</string>
+    <string name="shutdown_summary">Fast turn off the phone</string>
+    <string name="fastboot_summary">Enter fastboot mode</string>
+    <string name="toast_error">Can not be executed</string>
+    <string name="do_message">Doing</string>
+    <string name="ota_notfound_message">Not found update.zip</string>
+    <string name="recovery_notfound_message">Not found recovery.img</string>
+    <string name="boot_notfound_message">Not found boot.img</string>
+    <string name="ota_message">Wait a moment, running...</string>
+    <string name="recovery_message">"Flash recovery
+But you need verify it youself"</string>
+    <string name="boot_message">"Flash boot
+But you need verify it youself"</string>
+    <string name="rommanage_title">Rom Manage</string>
+    <string name="rommanage_summary">Flash/Update your phone rOM</string>
+    <string name="flashboot">Flash boot</string>
+    <string name="flashrecovery">Flash recovery</string>
+    <string name="ota">Flash zip Package</string>
+    <string name="ota_title">Flash ROM Package</string>
+    <string name="ota2_title">Flash OTA Package</string>
+    <string name="flashboot_summary">Flash the SD card boot.img</string>
+    <string name="flashrecovery_summary">Flash the SD card recovery.img</string>
+    <string name="ota_summary">Flash the SD card update.zip package</string>
+    <string name="shutdown_dialog_message">Turn off your phone?</string>
+    <string name="reboot_dialog_message">Reboot your phone?</string>
+    <string name="recovery_dialog_message">Into recovery mode?</string>
+    <string name="fastboot_dialog_message">Into fastboot mode?</string>
+    <string name="flashboot_dialog_message">Flash boot.img?</string>
+    <string name="flashrecovery_dialog_message">Flash recovery.img?</string>
+    <string name="ota_dialog_message">"warning!!
+Flash Rom package will miss all data,Flash?"</string>
+    <string name="ota2_dialog_message">"warning!!
+Flash OTA package will not miss all data,Flash?"</string>
+    <string name="misc_title">Misc Settings</string>
+    <string name="usb_mass_storage">USB Link</string>
+    <string name="usb_mass_storage_summary">Enable Usb mass storage functions</string>
+    <string name="uprom">wipe all data</string>
+    <string name="uprom_summary">"Flash zip package while wipe all data[flash ota package don't select]"</string>
+    <string name="br_title">Backup</string>
+    <string name="br_summary">Backup/Restore app and all data</string>
+    <string name="backup">Backup</string>
+    <string name="backup_summary">one key backup your app and data</string>
+    <string name="backup_message">"all running in the backgroud 
+backup files in /sdcard/Geno_backup"</string>
+    <string name="backup_dialog_message">"warning！
+Backup will automatically overwrite the last backup data
+backup？"</string>
+    <string name="restore">Restorey</string>
+    <string name="restore_summary">one key restore your app and data</string>
+    <string name="restore_message">"all running in the backgroud
+when all done the phone will auto reboot"</string>
+    <string name="restore_dialog_message">"warning！！
+Restore operation will miss current data
+after restore the phone will auto reboot
+restore？"</string>
+    <string name="restore_notfound_message">Not found Backup files</string>
+    <string name="amss">AMSS manage</string>
+    <string name="amss_title">Mount AMSS</string>
+    <string name="amss_summary">Mount AMSS Partition</string>
+    <string name="amss_message">"AMSS mounted 
+Please careful operation"</string>
+    <string name="amss_dialog_message">"warning！！
+
+The AMSS partition will be mounted on / amss directory
+Change AMSS files may cause the phone to a brick, most care!！
+mount AMSS？"</string>
+    <string name="extra_title">extra Settings</string>
+    <string name="extra_summary">Some extra settings</string>
+    <string name="boot_sound">Boot Sound</string>
+    <string name="boot_sound_summary">Enable/Disable boot sound</string>
+    <string name="camera_sound">Camera Sound</string>
+    <string name="camera_sound_summary">Enable/Disable camera sound</string>
+    <string name="videorecord_sound">Video record Sound</string>
+    <string name="videorecord_sound_summary">Enable/Disable video record sound</string>
+    <string name="key_light">Key light</string>
+    <string name="key_light_summary">Enable/Disable key light</string>
+    <string name="dts_mode">DTS Mode</string>
+    <string name="dts_mode_summary">Enable/Disable DTS sound modes</string>
+    <string name="emmc">Use ext_sdcard</string>
+    <string name="emmc_summary">Use Internal card flash boot/recovery</string>
+    <string name="ota_notsupport_message">Not support Internal card flash Rom</string>
+    <string name="oem_title">OEMINFO</string>
+    <string name="oem_backup">Backup OEMINFO</string>
+    <string name="oem_backup_summary">backup your OEMINFO[IMEI etc..]</string>
+    <string name="oem_backup_message">"running in the backgroud ackup complete 
+backup files in /sdcard/Geno_backup"</string>
+    <string name="oem_backup_dialog_message">"warning！
+Backup will automatically overwrite the last backup data
+backup？"</string>
+    <string name="oem_restore">Restorey OEMINFO</string>
+    <string name="oem_restore_summary">restore your OEMINFO[IMEI etc..]</string>
+    <string name="oem_restore_message">"running in the backgroud 
+don't close this app"</string>
+    <string name="oem_restore_dialog_message">"warning！！
+Restore operation will miss current data
+after restore the phone will auto reboot
+restore？"</string>
+    <string name="oem_restore_notfound_message">Not found Backup files</string>
+    <string name="performance_title">Performance</string>
+    <string name="performance_summary">"Adjust the phone's performance"</string>
+    <string name="vsync">UI accelerate</string>
+    <string name="vsync_summary">UI acceleration, experience better</string>
+    <string name="swap">SWAP</string>
+    <string name="swap_summary">Using the swap to improve memory</string>
+    <string name="zram">ZRAM</string>
+    <string name="zram_summary">Using the zram to improve memory</string>
+    <string name="powermanage">Power Manage</string>
+    <string name="powermanage_summary">Select power manage mode</string>
+    <string name="lowmem">Memory Manage</string>
+    <string name="lowmem_summary">Select memory manage mode</string>
+    <string name="lite_summary">Lite system services</string>
+    <string name="huawei">MIUI services</string>
+    <string name="huawei_summary">Lite MIUI system services</string>
+    <string name="google">Goolge services</string>
+    <string name="google_summary">Lite Google system services</string>
+    <string name="other">Other</string>
+    <string name="other_summary">Lite Other services</string>
+    <string name="miui">MIUI Services</string>
+    <string name="miui_summary">Lite MIUI system services</string>
+    <string name="network">Network/Safe</string>
+    <string name="network_summary">Lite Network/Safe services</string>
+    <string name="gf_title">Google Framework</string>
+    <string name="googlefw_summary">Lite Google framework</string>
+    <string name="camera_focus_sound">Camera Focus Sound</string>
+    <string name="camera_focus_sound_summary">Enable/Disable Camera Focus Sound</string>
+ -->
+</resources>
