@@ -4,4 +4,5 @@
     <string name="search_label">Apps</string>
     <string name="application_desc">Application</string>
     <string name="settings_description">Noms des applications installées</string>
+    <string name="search_empty">Aucune correspondance</string>
 </resources>
