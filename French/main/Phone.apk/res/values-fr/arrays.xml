@@ -47,4 +47,13 @@
         <item>Seulement en silencieux</item>
         <item>Jamais</item>
     </string-array>
+    <string-array name="call_reject_mode_entries">
+        <item>Désactivé</item>
+        <item>Tous les numéros</item>
+        <item>Liste de rejet auto.</item>
+    </string-array>
+    <string-array name="call_reject_dialog_array">
+        <item>Contacts</item>
+        <item>"Journal d'appels"</item>
+    </string-array>
 </resources>
