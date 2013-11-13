@@ -82,6 +82,7 @@
   <string name="stop_recording">"Arrêter l'enregistrement"</string>
   <string name="storage_is_full">Il n\'y a plus d\'espace libre</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
+  <!-- toast_max_record_time à revoir ? : "%1$s can record for about %2$s " -->
   <string name="toast_max_record_time">App : %1$s temps d\'enregistrement maximum %2$s</string>
   <string name="toast_uninstall_fileexplorer">L\'application \"Explorateur\" n\'est pas installée !</string>
   <string name="unknown_caller">Appelant inconnu</string>

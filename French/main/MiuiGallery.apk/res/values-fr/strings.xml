@@ -490,4 +490,14 @@
   <string name="widget_type_shuffle">Affichage aléatoire des images</string>
   <string name="width">Largeur</string>
   <string name="yes">Oui</string>
+  <string name="pick_too_much_tips">"Impossible de sélectionner autant d\'éléments (%d maximum)."</string>
+  <string name="operation_add_picture">Ajouter des images</string>
+  <string name="preparing_data_to_delete">Préparation de la suppression.</string>
+  <string name="picker_tab_camera">Appareil photo</string>
+  <string name="picker_no_items_selected">Aucun élément sélectionné</string>
+  <string name="picker_select_album_title_empty">Sélectionner un album</string>
+  <string name="picker_no_album_selected">Aucun album sélectionné</string>
+  <string name="video_download_start">Démarrer le téléchargement de la vidéo</string>
+  <string name="video_download_in_process">La vidéo est en cours de téléchargement</string>
+  <string name="video_not_exist">La vidéo n\'existe pas</string>
 </resources>

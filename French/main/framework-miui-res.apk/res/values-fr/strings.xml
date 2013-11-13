@@ -268,4 +268,6 @@ Réessayer dans %d secondes."</string>
   <string name="yellow_page_sms_send_failed">Échec de l\'envoi du SMS !</string>
   <string name="yellow_page_sms_sending">Envoi en cours…</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Impossible d\'envoyer un message en mode privé.</string>
+  <string name="grant_permissions_account">Autoriser l\'accès au compte</string>
+  <string name="grant_permissions_apps">Autoriser l\'accès aux applis</string>
 </resources>

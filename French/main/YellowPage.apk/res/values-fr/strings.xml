@@ -30,7 +30,6 @@
  <!-- balance_inquiry_default_sp_name remplacer "opérateur"? original : Operator -->
   <string name="balance_inquiry_default_sp_name">Opérateur</string>
   <string name="expresss_inquiry_frequently_used_logistics">Fréquents</string>
-  <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
   <string name="express_inquiry_logistics_indication">Entreprise postale</string>
   <string name="express_inquiry_no_result">Aucun résultat.</string>
   <string name="express_inqiury_select_logistics">Entreprise postale</string>
@@ -120,4 +119,11 @@ Montant total : %3$s RMB"</string>
   <string name="yellow_page_call_log_title">Journal d\'appels</string>
   <string name="yellow_page_detail_title">À propos</string>
   <string name="yellow_page_website">Site officiel</string>
+  <string name="mark_title_null_hint">La saisie ne peut être laissée vide</string>
+  <string name="recharge_history_empty">Pas d\'historique</string>
+  <string name="express_inquiry_history">Historique</string>
+  <string name="express_inquiry_delivered">Livré</string>
+  <string name="express_inquiry_no_history">Pas d\'historique</string>
+  <string name="express_inquiry_internal_failure">"Une erreur est survenue.
+Veuillez vérifier le numéro de suivi"</string>
 </resources>

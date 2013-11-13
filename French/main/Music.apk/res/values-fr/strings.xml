@@ -274,4 +274,12 @@
   <string name="unknown_artist_name">Artiste inconnu</string>
   <string name="use_local_album">Utiliser les pochettes d\'album enregistrées</string>
   <string name="use_local_lyric">Utiliser les paroles enregistrées</string>
+  <string name="account_setting">Compte</string>
+  <string name="account_and_synchronization">Compte &amp; Synchronisation</string>
+  <string name="xiaomi_account_setting">Compte Xiaomi</string>
+  <string name="bind_baidu_account_setting">Associer un compte Baidu</string>
+  <string name="bind_baidu_account_summary">Synchronisez votre playlist et profitez d\'autres services en associant, si vous en avez déjà un, votre compte Baidu Music.</string>
+  <string name="synchronize_playlist_setting">Sync. de la playlist</string>
+  <string name="synchronize_playlist_summary">Synchronisez votre playlist vers le cloud.</string>
+  <string name="not_login">Connexion</string>
 </resources>

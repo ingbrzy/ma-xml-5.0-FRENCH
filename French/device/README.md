@@ -38,7 +38,7 @@
 * u8818: HUAWEI Ascend G300 jb-4.1
 * umts_jordan: Motorola Defy jb-4.1
 * umts_spyder: Motorola RAZR XT910 jb-4.2
-* V6: Xiaomi Hongmi jb-4.2
+* V6: Xiaomi HongmiTD-SCDMA/HongmiWCDMA jb-4.2
 * v970: ZTE V970 jb-4.2
 * ville: HTC One S jb-4.1
 * vivo: HTC Incredible S jb-4.1

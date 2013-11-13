@@ -2199,7 +2199,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="user_list_title">Autres utilisateurs</string>
   <string name="user_market_apps_heading">Applications installées</string>
   <string name="user_market_requires_pin">PIN requis</string>
-  <string name="user_max_content_rating">Evaluation du contenu</string>
+  <string name="user_max_content_rating">Évaluation du contenu</string>
   <string name="user_name_title">Nom</string>
   <string name="user_new_user_name">Nouvel utilisateur</string>
   <string name="user_nickname">Pseudonyme</string>

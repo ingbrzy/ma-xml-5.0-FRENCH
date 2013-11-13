@@ -450,4 +450,10 @@
   <string name="view_message_details">Afficher les détails</string>
   <string name="wap_push_title">"[WAP Push]"</string>
   <string name="yes">OK</string>
+  <string name="sp_conversation_title">Messages de notification</string>
+  <string name="title_collapse_sp_messages">Combiner les messages opérateur</string>
+  <string name="pref_collapse_sp_messages_summary">Combine les messages envoyés par l\'opérateur sous la même entrée</string>
+  <string name="sp_mark_as_read_title">Tout marquer comme lu</string>
+  <string name="sp_mark_as_read">Marquer tous les messages comme lu ?</string>
+  <string name="sp_mark_as_read_progress">En cours…</string>
 </resources>
