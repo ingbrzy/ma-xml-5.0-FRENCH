@@ -748,7 +748,7 @@ Wi-Fi et le point d\'accès mobile ne peuvent fonctionner simultanément"</strin
   <string name="wifi_p2p_device_info">Informations sur l\'appareil</string>
   <string name="wifi_p2p_persist_network">Mémoriser cette connexion</string>
   <string name="wifi_p2p_menu_search">Rechercher des appareils</string>
-  <string name="wifi_p2p_menu_create_group">Créer un nouveau groupe</string>
+  <string name="wifi_p2p_menu_create_group">Créer un groupe</string>
   <string name="wifi_p2p_menu_remove_group">Supprimer groupe</string>
   <string name="wifi_p2p_menu_advanced">Paramètres avancés</string>
   <string name="wifi_p2p_menu_searching">Recherche en cours…</string>

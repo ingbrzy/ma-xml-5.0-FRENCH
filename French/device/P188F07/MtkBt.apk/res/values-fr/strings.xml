@@ -190,7 +190,7 @@ Poursuive l’envoi ?"</string>
     <string name="bluetooth_ftp_client_menu_get_marked">Obtenir les éléments marqués</string>
     <string name="bluetooth_ftp_client_menu_mark_all">Marquer tous</string>
     <string name="bluetooth_ftp_client_menu_unmark_all">Marquer aucun</string>
-    <string name="bluetooth_ftp_client_new_folder_title">Créer un nouveau dossier</string>
+    <string name="bluetooth_ftp_client_new_folder_title">Créer un dossier</string>
     <string name="bluetooth_ftp_client_new_folder_message">Veuillez saisir le nom du dossier</string>
     <string name="bluetooth_ftp">FTP via Bluetooth</string>
     <string name="bluetooth_ftp_server">Serveur FTP via Bluetooth</string>

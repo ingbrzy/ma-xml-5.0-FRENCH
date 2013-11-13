@@ -724,8 +724,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="password">Mot de passe</string>
   <string name="password_title">Mot de passe</string>
   <string name="pause_prompt_no">Non</string>
-  <string name="pause_prompt_str">"Envoi des tonalités
-"</string>
+  <string name="pause_prompt_str">Envoi des tonalités\n</string>
   <string name="pause_prompt_yes">Oui</string>
   <string name="payphone">Cabine téléphonique</string>
   <string name="phoneAppLabel">Téléphone</string>

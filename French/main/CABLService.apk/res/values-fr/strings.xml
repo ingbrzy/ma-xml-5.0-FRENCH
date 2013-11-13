@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">"Paramètres de rétro-éclairage adaptatif de l'écran"</string>
     <string name="cabl_settings_title">"Paramètres de rétro-éclairage adaptatif de l'écran"</string>
@@ -8,5 +8,5 @@
     <string name="cabl_levels_title">Niveaux de puissance</string>
     <string name="cabl_levels_summary">"Un niveau faible améliorera l'autonomie mais l'écran pourrait être, dans certains cas, trop sombre"</string>
     <string name="cabl_info_default">Inconnu</string>
-    <string name="cabl_version_title">CABL Version</string>
+    <string name="cabl_version_title">Version CABL</string>
 </resources>

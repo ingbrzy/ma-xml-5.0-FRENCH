@@ -2442,7 +2442,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_p2p_failed_connect_message">"Impossible de se connecter."</string>
   <string name="wifi_p2p_failed_rename_message">Échec du changement de nom de l\'appareil.</string>
   <string name="wifi_p2p_menu_advanced">Paramètres avancés</string>
-  <string name="wifi_p2p_menu_create_group">Créer un nouveau groupe</string>
+  <string name="wifi_p2p_menu_create_group">Créer un groupe</string>
   <string name="wifi_p2p_menu_remove_group">Supprimer groupe</string>
   <string name="wifi_p2p_menu_rename">Renommer l\'appareil</string>
   <string name="wifi_p2p_menu_search">Rechercher des appareils</string>

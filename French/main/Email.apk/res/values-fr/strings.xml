@@ -20,7 +20,7 @@
   <string name="account_security_waiting_policy_key_message">%s a besoin des informations des paramètres de sécurité depuis un serveur, veuillez patienter…</string>
   <string name="account_settings_action">Paramètres du compte</string>
   <string name="account_settings_background_attachments_label">Télécharger les pièces jointes</string>
-  <string name="account_settings_background_attachments_summary">Téléchargement auto des pièces jointes des messages récents via Wi-Fi</string>
+  <string name="account_settings_background_attachments_summary">Téléch. auto des pièces jointes aux messages récents via Wi-Fi</string>
   <string name="account_settings_category_delete_account">Supprimer le compte</string>
   <string name="account_settings_data_usage">Consommation des données</string>
   <string name="account_settings_default_label">Compte par défaut</string>
@@ -182,7 +182,7 @@
   <string name="accounts_welcome_exchange_alternate">Vous pouvez configurer un compte Exchange ActiveSync en quelques étapes seulement.</string>
   <string name="action_bar_mailbox_list_title">Dossiers</string>
   <string name="add_account_action">Ajouter un compte</string>
-  <string name="add_cc_bcc_menu">Ajouter Cc/Bcc</string>
+  <string name="add_cc_bcc_menu">Ajouter Cc/Cci</string>
   <string name="add_file_attachment">Joindre un fichier</string>
   <string name="add_quick_responses_action">Créer nouveau</string>
   <string name="alert_selected_all_message">"a au moins %d messages, tout sélectionner ?"</string>
@@ -301,7 +301,7 @@
   <string name="mailbox_list_user_mailboxes">Tous les dossiers</string>
   <string name="mailbox_name_display_drafts">Brouillons</string>
   <string name="mailbox_name_display_inbox">Boîte de réception</string>
-  <string name="mailbox_name_display_junk">Indésirables</string>
+  <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Boîte d\'envoi</string>
   <string name="mailbox_name_display_sent">Éléments envoyés</string>
   <string name="mailbox_name_display_trash">Corbeille</string>
@@ -446,9 +446,9 @@ Cc : %4$s
   <string name="pause_state_retrying">en attente d\'une nouvelle tentative</string>
   <string name="pause_state_roaming">interrompu : itinérance</string>
   <string name="pause_state_running">transfert…</string>
-  <string name="permission_access_provider_desc">Permettre à cette application d\'accéder à votre base de données de messagerie, y compris aux messages reçus et envoyés, aux noms d\'utilisateur et aux mots de passe.</string>
+  <string name="permission_access_provider_desc">Permet à cette application d\'accéder à votre base de données de messagerie, y compris aux messages reçus et envoyés, aux noms d\'utilisateur et aux mots de passe.</string>
   <string name="permission_access_provider_label">Accéder aux données du fournisseur de messagerie</string>
-  <string name="permission_read_attachment_desc">Permettre à cette application de lire les pièces jointes aux e-mails.</string>
+  <string name="permission_read_attachment_desc">Permet à cette application de lire les pièces jointes aux e-mails.</string>
   <string name="permission_read_attachment_label">Lire les pièces jointes</string>
   <string name="photos_upload_dimension_1600">Recommandé : 1 600 pixels (pour le partage, l\'impression et les fonds d\'écran)</string>
   <string name="photos_upload_dimension_original">Taille d\'origine (transfert le plus lent)</string>

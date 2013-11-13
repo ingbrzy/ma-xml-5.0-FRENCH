@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Aucun</item>
+        <item>Petite pièce</item>
+        <item>Pièce moyenne</item>
+        <item>Grande pièce</item>
+        <item>Salle moyenne</item>
+        <item>Grande salle</item>
+        <item>Réverb plaque</item>
+    </string-array>
+</resources>

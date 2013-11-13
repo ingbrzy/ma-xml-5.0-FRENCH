@@ -678,7 +678,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="pick_recent_contacts_list_title">%1$d contacts récents au total</string>
   <string name="pick_recent_list_title">Total de %1$d numéros de contact récent</string>
   <string name="pickerNewContactHeader">Créer un contact</string>
-  <string name="pickerNewContactText">Créer un nouveau contact</string>
+  <string name="pickerNewContactText">Créer un contact</string>
   <string name="picker_all_list_empty">Aucun contact</string>
   <string name="picker_contact_title">Veuillez choisir un contact</string>
   <string name="picker_email_title">Veuillez choisir un email</string>
@@ -1026,7 +1026,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="titleJoinContactDataWith">Rejoindre le contact</string>
   <string name="title_other_devices">Autres périphériques disponibles</string>
   <string name="title_paired_devices">Périphériques appareillé</string>
-  <string name="toast_call_detail_error">Impossible de consulter les détails de l'appel demandé.</string>
+  <string name="toast_call_detail_error">Impossible de consulter les détails de l\'appel demandé.</string>
   <string name="toast_copy_done">Copie terminée avec succès</string>
   <string name="toast_copying">Copie, veuillez patienter…</string>
   <string name="toast_displaying_all_contacts">Affichage de tous les contacts</string>

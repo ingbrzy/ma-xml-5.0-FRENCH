@@ -441,7 +441,7 @@
   <string name="straighten">Redresser</string>
   <string name="straighten_tooltip">Faire glisser la photo pour la redresser</string>
   <string name="sync_album">Synchroniser les albums</string>
-  <string name="sync_album_error">Impossible de télécharger les photos dans cet album. Veuillez réessayer plus tard.</string>
+  <string name="sync_album_error">Impossible de télécharger les photos de cet album. Veuillez réessayer plus tard.</string>
   <string name="sync_album_in_proecess">L\'album est actuellement en cours de synchronisation, veuillez patienter…</string>
   <string name="sync_album_set_error">Impossible de télécharger la liste des albums. Veuillez réessayer plus tard.</string>
   <string name="sync_album_summary">Envoyer vos photos et captures d\'écran sur MiCloud.</string>

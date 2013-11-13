@@ -263,8 +263,8 @@
   <string name="pref_edit_smsc_address">Numéro du centre SMS</string>
   <string name="pref_forward_title">Transférer</string>
   <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>
-  <string name="pref_mms_settings_title">Paramètres MMS</string>
-  <string name="pref_notification_settings_title">Paramètres de notification</string>
+  <string name="pref_mms_settings_title">Messages multimédias (MMS)</string>
+  <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Autre</string>
   <string name="pref_sms_theme_title">Configuration des thèmes</string>
   <string name="pref_summary_allow_si_sl_push">Autoriser la réception et la notification des messages WAP push (SI/SL)</string>
@@ -293,7 +293,7 @@
   <string name="pref_title_hide_festival">Masquer l\'onglet Recommandé</string>
   <string name="pref_title_manage_sim_messages">Gestion messages carte SIM</string>
   <string name="pref_title_miui_card">Envoyer via MiCard</string>
-  <string name="pref_title_mms_auto_retrieval">Récupération automatique</string>
+  <string name="pref_title_mms_auto_retrieval">Récupération auto</string>
   <string name="pref_title_mms_delete">Limite pour les MMS</string>
   <string name="pref_title_mms_read_reports">Confirmation de lecture</string>
   <string name="pref_title_mms_retrieval_during_roaming">Récupération en itinérance</string>
@@ -430,7 +430,7 @@
   <string name="too_many_unsent_mms">"Impossible d'envoyer le message maintenant. Trop grand nombre de MMS non envoyés."</string>
   <string name="try_to_send">Essayer d\'envoyer</string>
   <string name="type_attachment">pièce jointe</string>
-  <string name="type_audio">Audio</string>
+  <string name="type_audio">audio</string>
   <string name="type_picture">image</string>
   <string name="type_to_compose_text_enter_to_send">Saisissez un message</string>
   <string name="type_to_compose_text_or_leave_blank">Saisissez un message ou laissez le champ vide</string>
