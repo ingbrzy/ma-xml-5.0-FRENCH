@@ -68,9 +68,7 @@
   <string name="incoming_file_confirm_Notification_caption">Voulez-vous recevoir ce fichier ?</string>
   <string name="incoming_file_confirm_Notification_title">Partage Bluetooth : réception de fichier</string>
   <string name="incoming_file_confirm_cancel">Refuser</string>
-  <string name="incoming_file_confirm_content">""%1$s" souhaite vous envoyer %2$s (%3$s). 
-
- Accepter le fichier ?"</string>
+  <string name="incoming_file_confirm_content">"%1$s" souhaite vous envoyer %2$s (%3$s). \n\n Accepter le fichier ?</string>
   <string name="incoming_file_confirm_ok">Accepter</string>
   <string name="incoming_file_confirm_timeout_content">Expiration du délai de réception du fichier de "%1$s"</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
@@ -91,10 +89,9 @@
   <string name="miui_transfer_history_title">Historique de transfert Bluetooth</string>
   <string name="miui_transfer_inbound_title">Entrant</string>
   <string name="miui_transfer_outbound_title">Sortant</string>
-  <string name="no_transfers">"L\'historique des transferts est vide."</string>
+  <string name="no_transfers">L\'historique des transferts est vide.</string>
   <string name="not_exist_file">Aucun fichier</string>
-  <string name="not_exist_file_desc">"Le fichier n\'existe pas. 
-"</string>
+  <string name="not_exist_file_desc">Le fichier n\'existe pas. \n</string>
   <string name="noti_caption">Réussite : %1$s, échec : %2$s</string>
   <string name="notification_received">Partage Bluetooth : %1$s reçu</string>
   <string name="notification_received_fail">Partage Bluetooth : fichier %1$s non reçu</string>
@@ -157,8 +154,7 @@
   <string name="unknownNumber">Inconnu</string>
   <string name="unknown_device">Périphérique inconnu</string>
   <string name="unknown_file">Fichier inconnu</string>
-  <string name="unknown_file_desc">"Aucune application ne permet de gérer ce type de fichier. 
-"</string>
+  <string name="unknown_file_desc">Aucune application ne permet de gérer ce type de fichier. \n</string>
   <string name="update_record">"Confirmer l\'enregistrement"</string>
   <string name="upload_fail_cancel">Fermer</string>
   <string name="upload_fail_line1">"Le fichier n\'a pas été envoyé à %1$s."</string>

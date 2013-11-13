@@ -2325,7 +2325,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wait_for_debugger_summary">Avant de s\'exécuter, l\'application déboguée doit attendre qu\'un débogueur lui soit attaché.</string>
   <string name="wallpaper_settings_fragment_title">Sélectionner fond d\'écran de</string>
   <string name="wallpaper_settings_title">Fond d\'écran</string>
-  <string name="wfd_available_devices">Périph disponibles</string>
+  <string name="wfd_available_devices">Périph. disponibles</string>
   <string name="wfd_disconnect_diag_msg">Si votre session Wi-Fi est interrompue, votre connexion avec %1$s se terminera.</string>
   <string name="wfd_disconnect_diag_title">Déconnecter la session Wi-Fi ?</string>
   <string name="wfd_disconnect_multiple_diag_message">Si vous interrompez la session d\'affichage sans fil, votre connexion avec les autres appareils %1$s et %2$s se terminera.</string>
@@ -2358,14 +2358,14 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_context_menu_connect">Se connecter au réseau Wi-Fi</string>
   <string name="wifi_context_menu_forget">Retirer le réseau</string>
   <string name="wifi_disabled_generic">Désactivé</string>
-  <string name="wifi_disabled_help">Réseau évité en raison d\'une mauvaise connexion. Désactivez ce paramètre en sélectionnant Paramètres &gt; Écran Wi-Fi &gt; Eléments du menu Avancé</string>
+  <string name="wifi_disabled_help">Réseau évité en raison d\'une mauvaise connexion. Désactivez ce paramètre en sélectionnant Paramètres &gt; Écran Wi-Fi &gt; Éléments du menu Avancé</string>
   <string name="wifi_disabled_network_failure">Mauvaise connexion Internet évitée</string>
   <string name="wifi_disabled_password_failure">Problème d\'authentification.</string>
   <string name="wifi_display_available_devices">Appareils disponibles</string>
   <string name="wifi_display_details">Paramètres d\'affichage</string>
   <string name="wifi_display_disconnect_text">Cette opération va mettre fin à votre connexion avec :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="wifi_display_disconnect_title">Voulez-vous vraiment vous déconnecter ?</string>
-  <string name="wifi_display_no_devices_found">Aucun affichage sans fil trouvé à prox.</string>
+  <string name="wifi_display_no_devices_found">Aucun affichage sans fil détecté à proximité.</string>
   <string name="wifi_display_options_done">OK</string>
   <string name="wifi_display_options_forget">Supprimer</string>
   <string name="wifi_display_options_name">Nom</string>
