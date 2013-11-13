@@ -1026,7 +1026,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="titleJoinContactDataWith">Rejoindre le contact</string>
   <string name="title_other_devices">Autres périphériques disponibles</string>
   <string name="title_paired_devices">Périphériques appareillé</string>
-  <string name="toast_call_detail_error">Impossible de consulter les détails de l'appel demandé.</string>
+  <string name="toast_call_detail_error">Impossible de consulter les détails de l\'appel demandé.</string>
   <string name="toast_copy_done">Copie terminée avec succès</string>
   <string name="toast_copying">Copie, veuillez patienter…</string>
   <string name="toast_displaying_all_contacts">Affichage de tous les contacts</string>
