@@ -66,7 +66,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="call_custom">Appel de %s</string>
   <string name="call_disambig_title">Appeler à l\'aide</string>
   <string name="call_fax_home">Appeler fax (domicile)</string>
-  <string name="call_fax_home">Appeler fax (travail)</string>
+  <string name="call_fax_work">Appeler fax (travail)</string>
   <string name="call_home">Appeler à la maison</string>
   <string name="call_isdn">Appeler RNIS</string>
   <string name="call_log_empty_gecode">-</string>
@@ -292,7 +292,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="device_version_title">Sélectionnez la version de mobile</string>
   <string name="dial">numéroter</string>
   <string name="dialerDialpadHintText">Composez pour ajouter un appel</string>
-  <string name="dialerIconLabel">Tél.</string>
+  <string name="dialerIconLabel">Récents</string>
   <string name="dialerKeyboardHintText">Utilisez le clavier pour composer le numéro</string>
   <string name="dialer_addAnotherCall">Autre appel</string>
   <string name="dialer_empty_text_loading">Chargement…</string>
@@ -1012,7 +1012,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="social_widget_loading">Chargement…</string>
   <string name="splitConfirmation">Séparer ce contact en plusieurs contacts ?</string>
   <string name="splitConfirmation_title">Séparer le contact</string>
-  <string name="starredList">Marqués d\'une étoile</string>
+  <string name="starredList">Favoris</string>
   <string name="starred_contacts">Favoris</string>
   <string name="status_available">Disponible</string>
   <string name="status_away">Absent</string>
