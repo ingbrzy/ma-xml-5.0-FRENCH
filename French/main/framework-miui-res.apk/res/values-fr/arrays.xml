@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="alarm_in_future">
-    <item>Alarme dans moins d'une minute/item>
+    <item>Alarme dans moins d\'une minute</item>
     <item>Alarme dans %1$s</item>
     <item>Alarme dans %2$s</item>
     <item>Alarme dans %1$s %2$s</item>
@@ -12,7 +12,7 @@
   </string-array>
   <string-array name="contact_entries">
     <item>Nom</item>
-    <item>Prénom/item>
+    <item>Prénom</item>
     <item>Téléphone</item>
     <item>E-mail</item>
     <item>Entreprise</item>
