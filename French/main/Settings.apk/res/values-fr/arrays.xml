@@ -475,15 +475,15 @@ Vous pouvez maintenant transférer des fichiers"</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
         <item>Mode Performances</item>
-        <item>Mode Normal</item>
-        <item>Mode Économie</item>
+        <item>Mode Équilibré</item>
+        <item>Mode Économique</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Vibreur</item>
+        <item>Vibrer quand la sonnerie est silencieuse</item>
+        <item>Toujours vibrer</item>
     </string-array>
  <!-- a traduire :
-    <string-array name="power_dialog_vibration_items">
-        <item>Nevibrovať</item>
-        <item>Vibrovať ak je stíšené zvonenie</item>
-        <item>Vždy vibrovať</item>
-    </string-array>
     <string-array name="score_descriptions">
         <item>Čierna listina je deaktivovaná.</item>
         <item>Správca práv je deaktivovaný.</item>
