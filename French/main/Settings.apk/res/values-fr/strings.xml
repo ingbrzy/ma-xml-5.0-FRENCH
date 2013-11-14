@@ -2762,7 +2762,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="button_text_security">Sécurité</string>
   <string name="button_text_view">Afficher</string>
   <string name="cache_garbage">Fichiers en cache</string>
-  <string name="cache_list_empty_hints">Aucuns fichiers en cache.</string>
+  <string name="cache_list_empty_hints">Aucun fichier en cache.</string>
   <string name="cache_manage_title">%1$d fichier(s) en cache nettoyé(s), %2$s d\'espace de stockage libéré</string>
   <string name="cache_manager_actionbar_title">Cache système</string>
   <string name="call_log_tab_title">Journal d\'appels</string>
@@ -2801,8 +2801,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="downloaded_rom_title">Mettre à jour</string>
   <string name="edit_blacklist">Éditer la note</string>
   <string name="edit_whitelist">Éditer la note</string>
-  <string name="emptylist_fwlog_call">Aucuns appels bloqués</string>
-  <string name="emptylist_fwlog_ms">Aucuns messages bloqués</string>
+  <string name="emptylist_fwlog_call">Aucun appel bloqué</string>
+  <string name="emptylist_fwlog_ms">Aucun message bloqué</string>
   <string name="enable_adb_debug_summary">Quand connecter via USB, utiliser la commande ADB</string>
   <string name="enable_adb_debug_title">Activer le débogage USB</string>
   <string name="enable_anti_spam_summary">Filtrage des messages actif</string>
@@ -2886,7 +2886,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="item_usb_debug">Débogage USB</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Mettre à jour auto. les définitions de virus</string>
-  <string name="just_checked">Aucuns problèmes détectés !</string>
+  <string name="just_checked">Aucun problème détecté !</string>
   <string name="last_check_canceled">Analyse recommandée : la précédente a été annulée avant la fin</string>
   <string name="last_check_date_today">Analyse la plus récente : aujourd\'hui</string>
   <string name="last_check_date_yesterday">Analyse la plus récente : hier</string>
@@ -2941,21 +2941,31 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="opt_virus_suggest">Nombre de fichiers suspects : %d, vous devriez faire une analyse de virus</string>
   <string name="opt_waiting">En attente</string>
   <string name="optimize_ad_header_left">Fichiers pub. : %d</string>
-  <string name="optimize_ad_list_empty_content">Aucuns fichiers pub. trouvés.</string>
+  <string name="optimize_ad_list_empty_content">Aucun fichier pub. trouvés.</string>
   <string name="optimize_apk_header_left">Fichiers apk : %d</string>
-  <string name="optimize_apk_list_empty_content">Aucuns fichiers apk trouvés.</string>
+  <string name="optimize_apk_list_empty_content">Aucun fichier apk trouvé.</string>
   <string name="optimize_cache_header_left">Fichiers cache : %d</string>
-  <string name="optimize_cache_list_empty_content">Aucuns fichiers cache trouvés.</string>
+  <string name="optimize_cache_list_empty_content">Aucun fichier cache trouvé.</string>
   <string name="optimize_done">"Ok, c\'est fini !"</string>
   <string name="optimize_large_file_header_left">Fichiers volumineux : %d</string>
-  <string name="optimize_large_file_list_empty_content">Aucuns fichiers volumineux trouvés.</string>
+  <string name="optimize_large_file_list_empty_content">Aucun fichier volumineux trouvé.</string>
   <string name="optimize_now">Démarrer</string>
   <string name="optimize_residual_header_left">Résidus : %d</string>
+<<<<<<< HEAD
   <string name="optimize_residual_list_empty_content">Aucuns résidus trouvés.</string>
   <string name="optimize_tips_ad">iconLes fichiers publicitaires sont des images, texte et d\'autres données liées aux publicités que les fournisseurs de services tiers stockent sur votre téléphone.</string>
   <string name="optimize_tips_apk">iconLes fichiers .apk sont utilisés pour installer des applications sur votre appareil, mais ils ne sont d\aucune utilité, sauf à occuper de l\'espace, une fois que vous avez installé l\'application.</string>
   <string name="optimize_tips_cache">iconLes fichiers cache sont générés par des processus qui les nécessitent seulement temporairement (ex : miniatures d\'images, etc.).</string>
   <string name="optimize_tips_residual">iconLes résidus sont des fichiers (ex : des vidéos, fonds d\'écran, musique, etc) qui ont été téléchargés sur la carte SD de votre appareil par des applications qui ont depuis été désinstallés. Comme certains de ces fichiers peuvent peut-être encore vous être utile, nous vous recommandons d\'utiliser la fonctionnalité Avancée lors du nettoyage des fichiers résiduels.</string>
+=======
+  <string name="optimize_residual_list_empty_content">Aucun résidu trouvé.</string>
+  <!-- à traduire : 
+  <string name="optimize_tips_ad">iconAd files are images, text, and other advertisement-related data which third-party service providers store on your phone.</string>
+  <string name="optimize_tips_apk">"iconInstall packages are used to install apps on your device, however they don't do anything except take up space once you've installed the app."</string>
+  <string name="optimize_tips_cache">iconCache files are generated by processes that only require them temporarily (e.g. thumbnails).</string>
+  <string name="optimize_tips_residual">"iconResiduals are files (e.g. videos, wallpapers, music, etc.) that have been downloaded on to your device's SD card by apps which have since been uninstalled. As some of these files may still be of use to you, we recommend that you use the Advanced feature when cleaning up residual files."</string>
+ -->
+>>>>>>> cf57ae7b99e47e8ff797ae974ff15b6414aa8216
   <string name="optimize_tips_title">Aide</string>
   <string name="optimize_title_ad">Fichiers pub.</string>
   <string name="optimize_title_apk">Fichiers apk</string>
@@ -3087,7 +3097,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_mode_vibration_silence">Vibrer quand la sonnerie est silencieuse</string>
   <string name="power_mode_vibration_yes">Vibreur activé</string>
   <string name="power_mode_wifi">Wi-Fi</string>
-  <string name="power_perm_logs_empty">Aucuns journaux</string>
+  <string name="power_perm_logs_empty">Aucun journal</string>
   <string name="power_save_choose_mode">Choisir un profil</string>
   <string name="power_save_low_battery_auto_save_title">Économise l\'énergie lorsque la batterie est faible</string>
   <string name="power_save_low_battery_option_summary">Quand la batterie est sous la limite l\'appareil reviendra au profil le plus récemment utilisé</string>
@@ -3208,7 +3218,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="title_virus_no">Virus détecté</string>
   <string name="title_virus_update_no">MàJ auto. des définitions de virus inactive</string>
   <string name="title_virus_update_yes">MàJ auto. des définitions de virus active</string>
-  <string name="title_virus_yes">Aucuns virus détectés</string>
+  <string name="title_virus_yes">Aucun virus détecté</string>
   <string name="toast_qucik_scan_list_empty">Tout à l\'air en ordre, nettoyage non requis !</string>
   <string name="turn_on_smart_antispam_hint">Identifier les numéros indésirables</string>
   <string name="turn_on_smart_antispam_summary_off">Filtrer en utilisant la base de données locale</string>
@@ -3247,19 +3257,19 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_lib_update_success">Mise à jour effectuée !</string>
   <string name="virus_scan_lib_update_time">Dernière MàJ : %s</string>
   <string name="virus_scan_link_wifi_to_update_lib">Mettre à jour automatiquement</string>
-  <string name="virus_scan_list_empty_content">Aucuns éléments suspects détectés.</string>
+  <string name="virus_scan_list_empty_content">Aucun élément suspect détecté.</string>
   <string name="virus_scan_list_item_risk">Risque</string>
   <string name="virus_scan_list_item_virus">Virus</string>
   <string name="virus_scan_list_loading_hits">Analyse…</string>
   <string name="virus_scan_monitoring">Moniteur d\'install.</string>
   <string name="virus_scan_never_scaned">Analyse recommandée</string>
-  <string name="virus_scan_not_found_risk">Aucuns risques trouvés</string>
-  <string name="virus_scan_not_found_virus">Aucuns virus trouvés</string>
+  <string name="virus_scan_not_found_risk">Aucun risque trouvé</string>
+  <string name="virus_scan_not_found_virus">Aucun virus trouvé</string>
   <string name="virus_scan_others_title">Autres paramètres</string>
   <string name="virus_scan_package_label_unknown">inconnu</string>
   <string name="virus_scan_parpare">Démarrage…</string>
   <string name="virus_scan_risk_button_name">Risque</string>
-  <string name="virus_scan_risk_list_empty">Aucuns risques détectés.</string>
+  <string name="virus_scan_risk_list_empty">Aucun risque détecté.</string>
   <string name="virus_scan_risk_title">%d applis suspectes détectées</string>
   <string name="virus_scan_safe">Vider</string>
   <string name="virus_scan_settings">Paramètres</string>
