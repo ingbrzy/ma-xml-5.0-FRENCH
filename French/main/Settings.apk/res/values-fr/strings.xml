@@ -3123,7 +3123,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_settings_category_title">Indicateur de batterie</string>
   <string name="power_settings_number">Pourcentage</string>
   <string name="power_settings_shape">Graphique</string>
-  <string name="power_settings_title">Régler</string>
   <string name="power_settings_top">Barre linéaire</string>
   <string name="power_usage_sort_desc">Trier les programmes par consommation d\'énergie</string>
   <string name="power_usage_sort_title">Voir la consommation d\'énergie</string>
