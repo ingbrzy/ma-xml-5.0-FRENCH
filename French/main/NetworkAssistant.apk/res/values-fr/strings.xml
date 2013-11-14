@@ -63,7 +63,7 @@
   <string name="edit_frame_warning_title">Seuil d\'avertissement</string>
   <string name="empty"></string>
   <string name="finish_traffic_settings_hint">Paramètres sauvegardés !</string>
-  <string name="finish_traffic_settings_message">Le trafic utilisé est de %s. Est-ce correct ?\nSi ce n'est pas le cas vous pouvez le réajuster.</string>
+  <string name="finish_traffic_settings_message">Le trafic utilisé est de %s. Est-ce correct ?\nSi ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="finish_traffic_settings_title">Ajuster les données relatives au trafic</string>
   <string name="fire_rule_program_list">Liste des applications</string>
   <string name="fire_rule_title_bar">Pare-feu</string>
