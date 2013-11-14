@@ -167,4 +167,13 @@ Utilisé"</string>
   <string name="warning_title">Attention</string>
   <string name="wifi_traffic">Wi-Fi : %s</string>
   <string name="wifi_type">Wi-Fi</string>
+  
+  <string name="network_control_service_notification_text">Ouvrir le contrôle du réseau</string>
+  <string name="network_control_service_notification_title_mutiple">%1$d apps have been denied for %2$s connection</string>
+  <string name="network_control_service_notification_title_nettype_mobile">mobile</string>
+  <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+  <string name="network_control_service_notification_title_single">%1$s has been denied for %2$s connection</string>
+  <string name="pref_connect_settings_monitor_running_app">Show network denied app when running</string>
+  <string name="pref_connect_settings_monitor_running_app_summary">Show notification when network denied app is running</string>
+  <string name="running_apps_activity_title">Applis en cours d\'exécution</string>
 </resources>

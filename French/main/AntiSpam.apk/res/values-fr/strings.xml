@@ -2,9 +2,9 @@
 <resources>
   <string name="app_name">Anti-Spam</string>
   <string name="bl_block_info" formatted="false">Bloqué : Numéro %d, détails %d</string>
-  <string name="bl_no_blacklist">Liste noire vide</string>
-  <string name="bl_no_block_call">Tous les appels bloqués seront enregistrés ici</string>
-  <string name="bl_no_block_sms">Tous les messages bloqués seront enregistrés ici</string>
+  <string name="bl_no_blacklist">Aucuns numéros bloqués</string>
+  <string name="bl_no_block_call">Aucuns appels bloqués</string>
+  <string name="bl_no_block_sms">Aucuns messages bloqués</string>
   <string name="dlg_add_blacklist">Ajouter le numéro à la liste noire ?</string>
   <string name="dlg_add_keyword">Ajouter des mots clés</string>
   <string name="dlg_add_manual_hint">Entrez le numéro de téléphone</string>

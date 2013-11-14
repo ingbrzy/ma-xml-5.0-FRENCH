@@ -458,4 +458,45 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Standard</item>
         <item>Meilleure qualité</item>
     </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Après 1 minute</item>
+        <item>Après 5 minutes</item>
+        <item>Après 10 minutes</item>
+        <item>Jamais</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 secondes</item>
+        <item>30 secondes</item>
+        <item>1 minutes</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>Jamais</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Mode Performances</item>
+        <item>Mode Normal</item>
+        <item>Mode Économie</item>
+    </string-array>
+ <!-- a traduire :
+    <string-array name="power_dialog_vibration_items">
+        <item>Nevibrovať</item>
+        <item>Vibrovať ak je stíšené zvonenie</item>
+        <item>Vždy vibrovať</item>
+    </string-array>
+    <string-array name="score_descriptions">
+        <item>Čierna listina je deaktivovaná.</item>
+        <item>Správca práv je deaktivovaný.</item>
+        <item>Kôš je príliš veľký.</item>
+        <item>Databáza vírusov je zastaralá.</item>
+        <item>Príliš mnoho procesov na pozadí.</item>
+    </string-array>
+    <string-array name="score_suggests">
+        <item>Povoliť čiernu listinu</item>
+        <item>Aktivujte Správcu práv</item>
+        <item>Vyčistite nepotrebné súbory</item>
+        <item>Aktualizujte databázu vírusov</item>
+        <item>Obmedzte aplikácie na pozadí</item>
+    </string-array>
+ -->
 </resources>

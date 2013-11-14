@@ -82,4 +82,8 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="unknown_apps_dlg_text">"Pour plus de sécurité, votre téléphone bloque l\'installation d\'applications de sources inconnues."</string>
   <string name="unknown_apps_dlg_title">Installation bloquée</string>
   <string name="unknown_installer">Installateur inconnu</string>
+  <string name="virus_scan_clear">Supprimer</string>
+  <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
+  <string name="virus_scan_is_risk">Cette application présente un risque !</string>
+  <string name="virus_scan_is_virus">Cette application contient un virus, veuillez la supprimée immédiatement !</string>
 </resources>

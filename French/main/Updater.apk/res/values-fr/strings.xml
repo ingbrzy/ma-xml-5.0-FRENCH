@@ -13,6 +13,7 @@
   <string name="apply_update_dialog_cancel_button">Annuler</string>
   <string name="apply_update_dialog_update_button">Mettre à jour</string>
   <string name="apply_update_fail">La mise à jour du système a échoué</string>
+  <!-- apply_update_timer  "Update completed: device will reboot in %d seconds" modifié 3.10.12 : "device will reboot in %d second", à raccourcir ? -->
   <string name="apply_update_timer">Mise à jour terminée, l\'appareil redémarrera dans %d secondes</string>
   <string name="apply_upload_info_message">Appuyez sur "Mettre à jour" pour redémarrer automatiquement le téléphone pour appliquer la mise à jour.</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
@@ -165,4 +166,6 @@
   <string name="wifi_not_available_body">Il est recommandé d\'utiliser le Wi-Fi pour télécharger les mises à jour car la taille des fichiers peut être volumineuse. Vous n\'êtes pas connecté en Wi-Fi, êtes-vous sûr de vouloir continuer ?</string>
   <string name="wifi_not_available_title">Wi-Fi non connecté</string>
   <string name="worst_update">3. La pire mise à jour</string>
+  <string name="now">Redémarrer maintenant</string>
+  <string name="later">Redémarrer plus tard</string>
 </resources>
