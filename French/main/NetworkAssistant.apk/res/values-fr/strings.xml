@@ -63,8 +63,7 @@
   <string name="edit_frame_warning_title">Seuil d\'avertissement</string>
   <string name="empty"></string>
   <string name="finish_traffic_settings_hint">Paramètres sauvegardés !</string>
-  <string name="finish_traffic_settings_message">"Le trafic utilisé est de %s. Est-ce correct ?
-Si ce n'est pas le cas vous pouvez le réajuster."</string>
+  <string name="finish_traffic_settings_message">Le trafic utilisé est de %s. Est-ce correct ?\nSi ce n'est pas le cas vous pouvez le réajuster.</string>
   <string name="finish_traffic_settings_title">Ajuster les données relatives au trafic</string>
   <string name="fire_rule_program_list">Liste des applications</string>
   <string name="fire_rule_title_bar">Pare-feu</string>
@@ -146,10 +145,8 @@ Si ce n'est pas le cas vous pouvez le réajuster."</string>
   <string name="traffic_settings_error">Il y a une erreur dans vos paramètres de trafic mensuel. Selon vos paramètres et votre opérateur, votre trafic mensuel est de : %1$s et le trafic restant est de : %2$s.</string>
   <string name="traffic_suffix">Circulation</string>
   <string name="traffic_suffix_with_uint">Trafic (Mo)</string>
-  <string name="traffic_total">"%s
-Total"</string>
-  <string name="traffic_used_status">"%s
-Utilisé"</string>
+  <string name="traffic_total">%s\nTotal</string>
+  <string name="traffic_used_status">%s\nUtilisé</string>
   <string name="unknown">Inconnu</string>
   <string name="unknown_free_traffic_hint">"Si vous ne connaissez pas votre quota de données, merci de vous renseigner auprès de votre opérateur"</string>
   <string name="unknown_free_traffic_text">"Je ne connais pas mon quota de données"</string>
@@ -167,13 +164,14 @@ Utilisé"</string>
   <string name="warning_title">Attention</string>
   <string name="wifi_traffic">Wi-Fi : %s</string>
   <string name="wifi_type">Wi-Fi</string>
-  
   <string name="network_control_service_notification_text">Ouvrir le contrôle du réseau</string>
-  <string name="network_control_service_notification_title_mutiple">%1$d apps have been denied for %2$s connection</string>
   <string name="network_control_service_notification_title_nettype_mobile">mobile</string>
   <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+  <string name="running_apps_activity_title">Applis en cours d\'exécution</string>
+ <!-- à traduire : 
+  <string name="network_control_service_notification_title_mutiple">%1$d apps have been denied for %2$s connection</string>
   <string name="network_control_service_notification_title_single">%1$s has been denied for %2$s connection</string>
   <string name="pref_connect_settings_monitor_running_app">Show network denied app when running</string>
   <string name="pref_connect_settings_monitor_running_app_summary">Show notification when network denied app is running</string>
-  <string name="running_apps_activity_title">Applis en cours d\'exécution</string>
+ -->
 </resources>
