@@ -2924,7 +2924,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
  -->
   <string name="opt_item_file_scan">Analyse de fichier</string>
   <string name="opt_item_procs_clean">Gestion des processus</string>
- -->
   <string name="opt_killed_process">%d processus tuées</string>
   <string name="opt_progress_done">Effectué</string>
   <string name="opt_progress_started">Optimisation…</string>
