@@ -2931,7 +2931,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="opt_reject_blacklist_stranger_summary">Les appels provenant de numéros bloqués seront rejetés automatiquement</string>
   <string name="opt_restore_perm">Permissions de confidentialité par défaut restaurées pour %d programmes</string>
   <string name="opt_resume_desc">Continuer</string>
-  <string name="opt_scanning">Analyse…</string>
+  <string name="opt_scanning">"Analyse… : "</string>
   <string name="opt_score">83</string>
   <string name="opt_score_desc">pts</string>
   <string name="opt_state_done">Effectué</string>
@@ -2978,10 +2978,10 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_battery_history_days">%1$d jours %2$d h%3$d mins</string>
   <string name="power_battery_history_hours">%1$d h %2$d mins</string>
   <string name="power_battery_history_minutes">%1$d mins</string>
-  <string name="power_battery_history_zero_minutes">0 mins</string>
+  <string name="power_battery_history_zero_minutes">0 min</string>
   <string name="power_center_battery_full">La batterie est chargée</string>
   <string name="power_center_charge_time">La charge terminera dans %1$s</string>
-  <string name="power_center_consume_rank">Consommation d\'énergie</string>
+  <string name="power_center_consume_rank">Consommation</string>
   <string name="power_center_consume_time">%1$s restants</string>
   <string name="power_center_custom_summary_default">Optimise les réglages, économise la batterie</string>
   <string name="power_center_custom_title">Économiser la batterie</string>
@@ -2998,7 +2998,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_chooser_check_box_title">Économiser la batterie</string>
   <string name="power_chooser_mine_summary">Sauvegarder les paramètres système d\'origine</string>
   <string name="power_chooser_mine_title">Personnalisé</string>
-  <string name="power_chooser_sleep_summary">Désactiver toutes les fonctions (téléphone, messages, Internet) à l\'exception du réveil</string>
+  <string name="power_chooser_sleep_summary">Désactiver toutes les fonctions (téléphone, messages, internet) à l\'exception du réveil</string>
   <string name="power_chooser_sleep_title">Veille</string>
  <!-- à traduire : 
   <string name="power_chooser_smart_summary">Save current settings, clear processes at lock screen</string>
@@ -3239,8 +3239,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_judge_is_virus">Vérifier les applis avant l\'installation</string>
   <string name="virus_scan_last_risk">Les applications suspectes découvertes lors de l\'analyse récente n\'ont pas été supprimés.</string>
   <string name="virus_scan_last_scan_date">Analyse la plus récente remonte à %d jours</string>
-  <string name="virus_scan_last_scan_today">Analyse la plus récente : aujourd\'hui</string>
-  <string name="virus_scan_last_scan_yesterday">Analyse la plus récente : hier</string>
+  <string name="virus_scan_last_scan_today">"Analyse la plus récente : aujourd\'hui "</string>
+  <string name="virus_scan_last_scan_yesterday">"Analyse la plus récente : hier "</string>
   <string name="virus_scan_last_time">Analyse la plus récente : %s</string>
   <string name="virus_scan_last_virus">Virus trouvés lors de la dernière analyse.</string>
   <string name="virus_scan_lib_unknow">Dernière MàJ : inconnu</string>

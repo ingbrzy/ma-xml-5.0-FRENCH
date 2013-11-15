@@ -70,21 +70,21 @@
         <item>Déconnecté</item>
         <item>Échec</item>
         <item>Bloqué</item>
-        <item>Connexions faibles temporairement désactivées</item>
+        <item>Mauvaise connexion évitée momentanément</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Recherche…</item>
         <item>Connexion à %1$s…</item>
         <item>Authentification avec %1$s…</item>
-        <item>Obtention de l\'adresse IP de %1$s…</item>
+        <item>Obtention de l\'adresse IP à partir de %1$s…</item>
         <item>Connecté à %1$s</item>
         <item>Suspendu</item>
         <item>Déconnexion de %1$s…</item>
         <item>Déconnecté</item>
         <item>Échec</item>
         <item>Bloqué</item>
-        <item>Connexions faibles temporairement désactivées</item>
+        <item>Mauvaise connexion évitée momentanément</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>Ouvert</item>
@@ -237,11 +237,11 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite standard</item>
-        <item>Pas de processus en arrière-plan</item>
-        <item>Au plus 1 processus</item>
-        <item>Au plus 2 processus</item>
-        <item>Au plus 3 processus</item>
-        <item>Au plus 4 processus</item>
+        <item>Aucun processus en arrière-plan</item>
+        <item>Un processus maximum</item>
+        <item>Deux processus maximum</item>
+        <item>Trois processus maximum</item>
+        <item>Quatre processus maximum</item>
     </string-array>
     <string-array name="vpn_types">
         <item>PPTP</item>
@@ -264,7 +264,7 @@
         <item>Initialisation…</item>
         <item>Connexion…</item>
         <item>Connecté</item>
-        <item>Délai écoulé</item>
+        <item>Délai expiré</item>
         <item>Échec</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
@@ -361,8 +361,8 @@
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
-        <item>"(Veuillez ignorer la fenêtre de l\'assistant de configuration). L\'appareil de stockage Xiaomi va apparaître sur votre ordinateur."
-		Ouvrez et sélectionnez Setup.exe pour l\installation.</item>
+        <item>"(Ignorez l\'assistant de configuration). L\'appareil de stockage Xiaomi va apparaître sur votre ordinateur.
+Ouvrez et sélectionnez Setup.exe pour l\installation."</item>
         <item></item>
         <item>"L\'appareil de stockage Xiaomi va apparaître sur votre ordinateur.
 Ouvrez et sélectionnez AndroidFileTransfer.dmg pour l\'installation"</item>
@@ -372,7 +372,8 @@ Ouvrez et sélectionnez AndroidFileTransfer.dmg pour l\'installation"</item>
         <item>"2.L\'appareil de stockage Xiaomi va apparaître sur votre ordinateur.
 Vous pouvez maintenant transférer des fichiers"</item>
         <item></item>
-        <item>"L\'ordinateur va automatiquement ouvrir et lire les données du téléphone. Vous pouvez maintenant transférer des fichiers"</item>
+        <item>"L\'ordinateur va automatiquement ouvrir et lire les données du téléphone.
+Vous pouvez maintenant transférer des fichiers"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
@@ -474,29 +475,27 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Jamais</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>Mode Performances</item>
-        <item>Mode Équilibré</item>
-        <item>Mode Économique</item>
+        <item>Performances</item>
+        <item>Équilibré</item>
+        <item>Économique</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
-        <item>Vibreur</item>
-        <item>Vibrer quand la sonnerie est silencieuse</item>
+        <item>Ne jamais vibrer</item>
+        <item>Vibrer en mode silencieux</item>
         <item>Toujours vibrer</item>
     </string-array>
- <!-- a traduire :
     <string-array name="score_descriptions">
-        <item>Čierna listina je deaktivovaná.</item>
-        <item>Správca práv je deaktivovaný.</item>
-        <item>Kôš je príliš veľký.</item>
-        <item>Databáza vírusov je zastaralá.</item>
-        <item>Príliš mnoho procesov na pozadí.</item>
+        <item>Anti-spam désactivé.</item>
+        <item>Gestionnaire de permissions désactivé.</item>
+        <item>Espace de stockage à libérer.</item>
+        <item>Base de définition de virus obsolète.</item>
+        <item>Trop de processus en arrière-plan.</item>
     </string-array>
     <string-array name="score_suggests">
-        <item>Povoliť čiernu listinu</item>
-        <item>Aktivujte Správcu práv</item>
-        <item>Vyčistite nepotrebné súbory</item>
-        <item>Aktualizujte databázu vírusov</item>
-        <item>Obmedzte aplikácie na pozadí</item>
+        <item>Activez l\'anti-spam</item>
+        <item>Veuillez activer le gestionnaire de permissions</item>
+        <item>Veuillez effectuer un nettoyage</item>
+        <item>Veuillez mettre à jour la base de définition de virus</item>
+        <item>Veuillez contrôler le nombre d\'applications en arrière-plan</item>
     </string-array>
- -->
 </resources>

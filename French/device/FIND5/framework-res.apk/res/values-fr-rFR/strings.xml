@@ -50,7 +50,7 @@
 <string name="nosdcard">Pas de carte SD</string>
 <string name="record">Historique</string>
 <string name="favorite">Mes favoris</string>
-<string name="alert_dialog_password">Demande de mot de passe pour accèder aux fichiers cryptés. Veuillez entrer :</string>
+<string name="alert_dialog_password">Demande de mot de passe pour accéder aux fichiers cryptés. Veuillez entrer :</string>
 <string name="confirm_alert_dialog_password">Confirmer le mot de passe</string>
 <string name="alert_dialog_password_title">Entrer le mot de passe</string>
 <string name="error_password">Mot de passe incorrect !</string>

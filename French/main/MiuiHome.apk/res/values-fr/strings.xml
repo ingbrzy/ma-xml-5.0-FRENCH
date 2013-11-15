@@ -124,7 +124,7 @@
   <string name="pref_screen_transformation_type_title">Effets de transition</string>
   <string name="pref_wallpaper_scroll_type_title">Type de défilement du papier peint</string>
   <string name="preferences_general_title">Paramètres généraux</string>
-  <string name="preferences_title">Paramètres du lanceur</string>
+  <string name="preferences_title">Paramètres du lanceur MIUI</string>
   <string name="reset_scene_prompt">Le bureau sera remis dans sa disposition d\'origine</string>
   <string name="resource_select">Sélectionner</string>
   <string name="screen_button_disabled_message">Les boutons du bas de l\'écran ont été désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
