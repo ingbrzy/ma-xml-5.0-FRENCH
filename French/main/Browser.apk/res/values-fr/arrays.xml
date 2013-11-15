@@ -97,9 +97,19 @@
         <item>Page avant/arrière</item>
         <item>Changer d\'onglet</item>
     </string-array>
-	<string-array name="pref_images_preload_choices">
+    <string-array name="pref_images_preload_choices">
         <item>Jamais</item>
         <item>En Wi-Fi uniquement</item>
         <item>Toujours</item>
-	</string-array>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinois (GBK)</item>
+        <item>Chinois (Big5)</item>
+        <item>Japonais (ISO-2022-JP)</item>
+        <item>Japonais (SHIFT_JIS)</item>
+        <item>Japonais (EUC-JP)</item>
+        <item>Coréen (EUC-KR)</item>
+    </string-array>
 </resources>

@@ -2874,7 +2874,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="fw_notes_hint">Note (optionnel)</string>
   <string name="fw_notification_settings">Paramètres de notification</string>
   <string name="fw_on">\"Ne pas déranger\" activé</string>
-  <string name="fw_period">Régler l\'heure</string>
+  <string name="fw_period">Définir l\'heure</string>
   <string name="fw_restore_ms">Restaurer les SMS</string>
   <string name="fw_set_keyword">Définir les mots clés</string>
   <string name="fw_start_time">De</string>
@@ -2889,13 +2889,13 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="item_virus_lib">Mettre à jour auto. les définitions de virus</string>
   <string name="just_checked">Aucun problème détecté !</string>
   <string name="last_check_canceled">Analyse recommandée : la précédente a été annulée avant la fin</string>
-  <string name="last_check_date_today">Analyse la plus récente : aujourd\'hui</string>
-  <string name="last_check_date_yesterday">Analyse la plus récente : hier</string>
+  <string name="last_check_date_today">Dernière analyse : aujourd\'hui</string>
+  <string name="last_check_date_yesterday">Dernière analyse : hier</string>
   <string name="last_check_never_checked">Analyse recommandée (première fois)</string>
-  <string name="last_checked_date">Analyse recommandée : la plus récente remonte à 30 jours</string>
-  <string name="last_checked_date2">Analyse la plus récente remonte à %d jours</string>
+  <string name="last_checked_date">Analyse recommandée : la dernière remonte à 30 jours</string>
+  <string name="last_checked_date2">La dernière analyse remonte à %d jours</string>
   <string name="last_checked_date_mark">pts</string>
-  <string name="last_checked_default">Analyse recommandée : la plus récente remonte à %s</string>
+  <string name="last_checked_default">Analyse recommandée : la dernière remonte à %s</string>
   <string name="mark_number_dialog_maintitle">Bloquer et signaler le numéro</string>
   <string name="mark_number_dialog_subtitle">Développé en partie par Sogou</string>
   <string name="mem_lock">Verrouiller</string>
@@ -2906,6 +2906,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="menu_item_about_title">À propos</string>
   <string name="mms_log_tab_title">Journal des messages</string>
   <string name="need_check">Certains éléments peuvent êtres optimisés…</string>
+ <!-- network_assistant à vérifier, moniteur réseaux ? -->
   <string name="network_assistant">Usage des données</string>
   <string name="new_bw_list_button">Ajouter un contact</string>
   <string name="number_add_hint">Saisir un numéro</string>
@@ -2913,7 +2914,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="opt_cancel_desc">Annuler</string>
   <string name="opt_clean_garbage">Nettoyé : %d Mo</string>
   <string name="opt_disabled_autorun">%d démarr. auto. d\'appli(s) désactivé(s)</string>
-  <string name="opt_done_desc">Fini</string>
+  <string name="opt_done_desc">Terminé</string>
   <string name="opt_freed_ram">%dMo de mémoire vive libérés</string>
   <string name="opt_garbage_size">Taille totale :</string>
   <string name="opt_item_app_perm">Gestion des permissions</string>
@@ -2921,7 +2922,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="opt_item_cache_clean">Nettoyage cache</string>
   <string name="opt_item_file_scan">Analyse de fichier</string>
   <string name="opt_item_procs_clean">Gestion des processus</string>
-  <string name="opt_killed_process">%d processus tuées</string>
+  <string name="opt_killed_process">%d processus tués</string>
   <string name="opt_progress_done">Effectué</string>
   <string name="opt_progress_started">Optimisation…</string>
  <!-- opt_quickscan_ok à revoir ? : System clear -->
@@ -2974,7 +2975,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="perm_su_enable_summary">Les applications peuvent obtenir l \'autorisation ROOT</string>
   <string name="permission_mgr">Permissions</string>
   <string name="power_autorun_apps_empty">Aucunes applis démarrant automatiquement</string>
-  <string name="power_autorun_control_desc">Augmenter le nombre de programmes démarrant automatiquement peut augmenter la consommation d\'énergie de votre téléphone</string>
+  <string name="power_autorun_control_desc">Augmenter le nombre d\'applications démarrant automatiquement peut augmenter la consommation d\'énergie de votre téléphone</string>
   <string name="power_autorun_control_title">Démarr. auto.</string>
   <string name="power_autorun_empty">Aucunes applis installées</string>
   <string name="power_battery_history_days">%1$d jours %2$d h%3$d mins</string>
@@ -2987,12 +2988,12 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_center_consume_time">%1$s restants</string>
   <string name="power_center_custom_summary_default">Optimise les réglages, économise la batterie</string>
   <string name="power_center_custom_title">Économiser la batterie</string>
-  <string name="power_center_low_battery_summary_default">Changer de mode lorsque la batterie est faible</string>
-  <string name="power_center_low_battery_summary_dynamic">Quand la batterie restante est inférieure à %1$d%% changer vers %2$s</string>
-  <string name="power_center_low_battery_title">Changer auto.</string>
-  <string name="power_center_on_time_summary_default">Changer de mode à une heure planifiée</string>
-  <string name="power_center_on_time_summary_dynamic">De %1$s à %2$s change vers %3$s</string>
-  <string name="power_center_on_time_title">Planifié</string>
+  <string name="power_center_low_battery_summary_default">Basculer de mode lorsque la batterie est faible</string>
+  <string name="power_center_low_battery_summary_dynamic">Quand la batterie restante est inférieure à %1$d%% basculer vers %2$s</string>
+  <string name="power_center_low_battery_title">Basculer auto.</string>
+  <string name="power_center_on_time_summary_default">Basculer de mode à une heure planifiée</string>
+  <string name="power_center_on_time_summary_dynamic">De %1$s à %2$s basculer vers %3$s</string>
+  <string name="power_center_on_time_title">Planificateur</string>
   <string name="power_center_state_off">Désactivé</string>
   <string name="power_center_state_on">Activé</string>
   <string name="power_center_title">Batterie</string> 
@@ -3082,7 +3083,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_mode_switch_on">Actif</string>
   <string name="power_mode_synchronization">Sync.</string>
   <string name="power_mode_touch_with_ring">Notification sonore au touché</string>
-  <string name="power_mode_touch_with_vibration">Vibrer au touché</string>
+  <string name="power_mode_touch_with_vibration">Vibrer au toucher</string>
   <string name="power_mode_vibration">Vibreur</string>
   <string name="power_mode_vibration_no">Vibreur désactivé</string>
   <string name="power_mode_vibration_silence">Vibrer quand la sonnerie est silencieuse</string>
@@ -3092,7 +3093,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_save_choose_mode">Choisir un profil</string>
   <string name="power_save_low_battery_auto_save_title">Économise l\'énergie lorsque la batterie est faible</string>
   <string name="power_save_low_battery_option_summary">Quand la batterie est sous la limite l\'appareil reviendra au profil le plus récemment utilisé</string>
-  <string name="power_save_low_battery_option_title">Quand la batterie est faible changer vers</string>
+  <string name="power_save_low_battery_option_title">Quand la batterie est faible, basculer vers</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
   <string name="power_save_low_battery_percentage_forty">40%</string>
   <string name="power_save_low_battery_percentage_ten">10%</string>
@@ -3113,13 +3114,13 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_settings_number">Pourcentage</string>
   <string name="power_settings_shape">Graphique</string>
   <string name="power_settings_top">Barre linéaire</string>
-  <string name="power_usage_sort_desc">Trier les programmes par consommation d\'énergie</string>
+  <string name="power_usage_sort_desc">Trier par consommation d\'énergie</string>
   <string name="power_usage_sort_title">Voir la consommation d\'énergie</string>
   <string name="power_used_hours">h</string>
   <string name="power_used_hours_test">8</string>
   <string name="power_used_mins">mins</string>
   <string name="power_used_mins_test">23</string>
-  <string name="power_used_prefix">Énergie utilisée</string>
+  <string name="power_used_prefix">Énergie consommée</string>
  <!-- probablement à NE PAS traduire  :
   <string name="pref_key_last_check_canceled">last_check_canceled</string>
   <string name="pref_key_last_scan_data">lastScanDate</string>
@@ -3151,7 +3152,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="quick_scan_cleaning_title">Nettoyage…</string>
   <string name="quick_scan_doing_title">Analyse…</string>
   <string name="quick_scan_list_loading_hits">Analyse…</string>
-  <string name="quick_scan_result_summary">Le nettoyage va commencer dans %d secs</string>
+  <string name="quick_scan_result_summary">Le nettoyage commencera dans %d secs</string>
   <string name="quick_scan_result_title">%s éléments trouvés</string>
   <string name="realtime_protection">Protection</string>
   <string name="realtime_protection_title">Protection</string>
@@ -3165,7 +3166,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="remove_sms">Supprimer tous les journaux de messages ?</string>
   <string name="residual_cancel">Annuler</string>
   <string name="residual_clean">Nettoyer</string>
-  <string name="residual_tips_hints">%s fichiers résiduels trouvés sur la carte SD</string>
+  <string name="residual_tips_hints">%s fichiers résiduels trouvés</string>
   <string name="restore_default_settings">Rétablir les paramètres par défaut</string>
   <string name="rubbish_cleaning">Nettoyage système</string>
   <string name="save_button">Sauver</string>
@@ -3185,13 +3186,13 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="start_optimize_trash">Démarrage de l\'optimisation du cache des applications…</string>
   <string name="storage_size_content">%1$s utilisés | %2$s disponibles</string>
   <string name="storage_size_title">Stockage</string> 
-  <string name="summary_install_virus">>Vérifier les applis avant l\'installation</string>
+  <string name="summary_install_virus">Vérifier les applis avant l\'installation</string>
   <string name="summary_mms">Bloquer les messages indésirables (ventes, pub., etc.)</string>
   <string name="summary_permission">Protéger ma confidentialité des applis tierces</string>
   <string name="summary_usb">Éviter la propagation des virus via connexion USB</string>
   <string name="summary_virus">%2$d virus trouvés</string>
   <string name="summary_virus_update">Mettre à jour automatiquement les définitions de virus quand connecter via Wi-Fi</string>
-  <string name="system_cache_title">Cache Système</string>
+  <string name="system_cache_title">Cache système</string>
   <string name="title_app_update_no">Mises à jour disponibles pour %d applis</string>
   <string name="title_app_update_yes">Toutes les applis sont à jour</string> 
   <string name="title_data_flow_no">Moniteur de données inactif</string>
@@ -3218,14 +3219,14 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="valuation">Nettoyage recommandé</string>
   <string name="virus_activity_title">Virus</string>
   <string name="virus_button_clear">Nettoyer</string>
-  <string name="virus_scan">Analyse virus</string>
+  <string name="virus_scan">Analyse virale</string>
  <!-- virus_scan_app_solve à vérifier/revoir ? : All the processing -->
   <string name="virus_scan_app_solve">La totalité</string>
   <string name="virus_scan_app_stop">Stopper l\'analyse</string>
   <string name="virus_scan_can_use_wifi">Utiliser les définitions en-ligne pour analyser</string>
   <string name="virus_scan_clear">Nettoyer</string>
   <string name="virus_scan_dangerous">Risque</string>
-  <string name="virus_scan_description">Cette appli présent un risque majeur pour la sécurité de votre téléphone.</string>
+  <string name="virus_scan_description">Cette appli présente un risque majeur pour la sécurité de votre téléphone.</string>
   <string name="virus_scan_file_type_risk_apk">Appli suspecte (apk)</string>
   <string name="virus_scan_file_type_risk_installed">Appli suspecte (installée)</string>
   <string name="virus_scan_file_type_virus_apk">Virus (apk)</string>
@@ -3233,15 +3234,15 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_find">%d risque(s) découvert(s)</string>
   <string name="virus_scan_finish">OK</string>
   <string name="virus_scan_finish_text">OK, les mauvaises choses ont disparues !</string>
-  <string name="virus_scan_guard_provider_missed">Le scanneur de virus a été compromis. Veuillez effectuer une restauration d\'usine de votre téléphone.</string>
+  <string name="virus_scan_guard_provider_missed">Le scanneur de virus est corrompu. Veuillez effectuer une restauration d\'usine de votre téléphone.</string>
   <string name="virus_scan_installed_package">%s (appli installée)</string>
   <string name="virus_scan_is_scanning">Analyse…</string>
   <string name="virus_scan_judge_is_virus">Vérifier les applis avant l\'installation</string>
   <string name="virus_scan_last_risk">Les applications suspectes découvertes lors de l\'analyse récente n\'ont pas été supprimés.</string>
-  <string name="virus_scan_last_scan_date">Analyse la plus récente remonte à %d jours</string>
-  <string name="virus_scan_last_scan_today">"Analyse la plus récente : aujourd\'hui "</string>
-  <string name="virus_scan_last_scan_yesterday">"Analyse la plus récente : hier "</string>
-  <string name="virus_scan_last_time">Analyse la plus récente : %s</string>
+  <string name="virus_scan_last_scan_date">La dernière analyse remonte à %d jours</string>
+  <string name="virus_scan_last_scan_today">"Dernière analyse : aujourd\'hui "</string>
+  <string name="virus_scan_last_scan_yesterday">"Dernière analyse : hier "</string>
+  <string name="virus_scan_last_time">Dernière analyse : %s</string>
   <string name="virus_scan_last_virus">Virus trouvés lors de la dernière analyse.</string>
   <string name="virus_scan_lib_unknow">Dernière MàJ : inconnu</string>
   <string name="virus_scan_lib_update_success">Mise à jour effectuée !</string>

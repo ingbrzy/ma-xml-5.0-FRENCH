@@ -6,10 +6,6 @@
         <item>--%s</item>
         <item>--%s</item>
     </string-array>
-    <string-array name="menu_share_ways">
-        <item>Messagerie</item>
-        <item>Mail</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>Nom</item>
         <item>Surnom</item>
@@ -22,5 +18,11 @@
         <item>Site Internet</item>
         <item>Adresse</item>
         <item>Note</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Petite</item>
+        <item>Par défaut</item>
+        <item>Grande</item>
+        <item>Maximale</item>
     </string-array>
 </resources>
