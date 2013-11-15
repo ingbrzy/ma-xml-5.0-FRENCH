@@ -192,7 +192,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="auto_startup_application_manage">Démarrage</string>
   <string name="auto_startup_count">Démarrage automatique de %d applications</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d'énergie et de données.
-  Autoriser le démarrage automatique ?"</string>
+ Autoriser le démarrage automatique ?"</string>
   <string name="automatic_brightness">Ajuster automatiquement la luminosité</string>
   <string name="available_size">%s disponible</string>
   <string name="awake">Durée de fonctionnement de l\'appareil</string>
@@ -2462,6 +2462,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_priority_changed" formatted="false">Ancienne valeur de priorité=%s, nouvelle valeur=%s</string>
   <string name="wifi_configured_ap_list">"Liste des points d'accès mémorisés"</string>
   <string name="wifi_priority_label">Priorité</string>
+  <string name="wifi_priority_settings_label">Paramètres de priorité</string>
   <string name="wifi_available_title">Se connecter au Wi-Fi</string>
   <string name="wifi_signal_found_msg">Point d\'accès Wi-Fi disponible, se connecter maintenant ?</string>
   <string name="wifi_quick_toggle_summary">Activer le Wi-Fi</string>
@@ -2914,7 +2915,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="opt_disabled_autorun">%d démarr. auto. d\'appli(s) désactivé(s)</string>
   <string name="opt_done_desc">Fini</string>
   <string name="opt_freed_ram">%dMo de mémoire vive libérés</string>
-  <string name="opt_garbage_size">Taille du cache :</string>
+  <string name="opt_garbage_size">Taille totale :</string>
   <string name="opt_item_app_perm">Gestion des permissions</string>
   <string name="opt_item_autorun">Démarr. auto.</string>
   <string name="opt_item_cache_clean">Nettoyage cache</string>
@@ -2957,6 +2958,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="optimize_tips_cache">iconLes fichiers cache sont générés par des processus qui les nécessitent seulement temporairement (ex : miniatures d\'images, etc.).</string>
   <string name="optimize_tips_residual">iconLes résidus sont des fichiers (ex : des vidéos, fonds d\'écran, musique, etc) qui ont été téléchargés sur la carte SD de votre appareil par des applications qui ont depuis été désinstallés. Comme certains de ces fichiers peuvent peut-être encore vous être utile, nous vous recommandons d\'utiliser la fonctionnalité Avancée lors du nettoyage des fichiers résiduels.</string>
   <string name="optimize_tips_title">Aide</string>
+  <!-- optimize_title_ad "Fichiers pub.", trouver mieux, plusieurs occurrences -->
   <string name="optimize_title_ad">Fichiers pub.</string>
   <string name="optimize_title_apk">Fichiers apk</string>
   <string name="optimize_title_cache">Cache</string>
@@ -3000,9 +3002,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_chooser_mine_title">Personnalisé</string>
   <string name="power_chooser_sleep_summary">Désactiver toutes les fonctions (téléphone, messages, internet) à l\'exception du réveil</string>
   <string name="power_chooser_sleep_title">Veille</string>
- <!-- à traduire : 
-  <string name="power_chooser_smart_summary">Save current settings, clear processes at lock screen</string>
- -->
+ <!-- power_chooser_smart_summary à revoir ? Save current settings, clear processes at lock screen -->
+  <string name="power_chooser_smart_summary">Sauvegarder les paramètres actuels, vider les processus quand verrouillé</string>
   <string name="power_chooser_smart_title">Mode par défaut</string>
   <string name="power_chooser_standby_summary">Désactiver les fonctions Internet</string>
   <string name="power_chooser_standby_title">Mode marathon</string>
@@ -3106,7 +3107,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_save_on_time_option_summary">A la fin de ce délai l\'appareil reviendra au profil le plus récemment utilisé</string>
   <string name="power_save_on_time_option_title">Pendant cette période</string>
   <string name="power_save_on_time_start_time_summary">Démarrer</string>
-  <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
+  <string name="power_save_on_time_start_time_title">%1$d : %2$d</string>
   <string name="power_save_on_time_title">Planifié</string>
   <string name="power_settings_category_title">Indicateur de batterie</string>
   <string name="power_settings_number">Pourcentage</string>
@@ -3218,9 +3219,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_activity_title">Virus</string>
   <string name="virus_button_clear">Nettoyer</string>
   <string name="virus_scan">Analyse virus</string>
- <!-- à traduire : 
-  <string name="virus_scan_app_solve">All the processing</string>
- -->
+ <!-- virus_scan_app_solve à vérifier/revoir ? : All the processing -->
+  <string name="virus_scan_app_solve">La totalité</string>
   <string name="virus_scan_app_stop">Stopper l\'analyse</string>
   <string name="virus_scan_can_use_wifi">Utiliser les définitions en-ligne pour analyser</string>
   <string name="virus_scan_clear">Nettoyer</string>

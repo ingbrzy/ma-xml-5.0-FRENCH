@@ -64,4 +64,10 @@
         <item>25 minutes</item>
         <item>30 minutes</item>
     </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Une fois/item>
+        <item>Quotidiennement</item>
+        <item>Du lundi au vendredi</item>
+        <item>Personnalisé</item>
+    </string-array>
 </resources>

@@ -492,10 +492,19 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Trop de processus en arrière-plan.</item>
     </string-array>
     <string-array name="score_suggests">
-        <item>Activez l\'anti-spam</item>
+        <item>Veuillez activer l\'anti-spam</item>
         <item>Veuillez activer le gestionnaire de permissions</item>
         <item>Veuillez effectuer un nettoyage</item>
         <item>Veuillez mettre à jour la base de définition de virus</item>
         <item>Veuillez contrôler le nombre d\'applications en arrière-plan</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Fort</item>
+        <item>Moyen</item>
+        <item>Léger</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Natif</item>
     </string-array>
 </resources>
