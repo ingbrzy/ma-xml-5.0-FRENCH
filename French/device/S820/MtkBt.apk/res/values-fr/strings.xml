@@ -84,7 +84,7 @@
   <string name="app_label">Bluetooth</string>
   <string name="app_description">Package profil Bluetooth</string>
   <string name="bt_base_activity_busy_message">Chargement en cours. Veuillez patienter…</string>
-  <string name="bt_base_activity_service_disconnected">Service déconnecté!</string>
+  <string name="bt_base_activity_service_disconnected">Service déconnecté !</string>
   <string name="bt_base_profile_feature_disabled">Impossible d\'utiliser la fonction Bluetooth désactivée.</string>
   <string name="bt_share_mgmt_tab_in_title">Télécharger</string>
   <string name="bt_share_mgmt_tab_out_title">Charger</string>

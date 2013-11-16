@@ -23,11 +23,11 @@
     <string name="bluetooth_hid_connected_notify_message">Sélectionner pour déconnecter la connexion avec %1$s</string>
     <string name="bluetooth_hid_connect_request_notify_message">Sélectionner pour accepter ou non la requête de connexion de %1$s</string>
     <string name="bluetooth_hid_connect_ok">Clavier sans fil %1$s connecté avec succès !</string>
-    <string name="bluetooth_hid_connect_fail">"Echec de la connexion de l'appareil d'entrée sans-fil %1$s !"</string>
+    <string name="bluetooth_hid_connect_fail">"Échec de la connexion de l'appareil d'entrée sans-fil %1$s !"</string>
     <string name="bluetooth_hid_disconnect_ok">"Réussite de la déconnexion de l'appareil d'entrée sans-fil %1$s !"</string>
-    <string name="bluetooth_hid_disconnect_fail">"Echec de la déconnexion de l'appareil d'entrée sans-fil %1$s !"</string>
+    <string name="bluetooth_hid_disconnect_fail">"Échec de la déconnexion de l'appareil d'entrée sans-fil %1$s !"</string>
     <string name="bluetooth_hid_unplug_ok">"Réussite du débranchement de l'appareil d'entrée sans-fil %1$s !"</string>
-    <string name="bluetooth_hid_unplug_fail">"Echec du débranchement de l'appareil d'entrée sans-fil %1$s !"</string>
+    <string name="bluetooth_hid_unplug_fail">"Échec du débranchement de l'appareil d'entrée sans-fil %1$s !"</string>
     <string name="bluetooth_hid_disconnect_confirm">Voulez-vous déconnecter le clavier sans fil %1$s ?</string>
     <string name="bluetooth_hid_unplug_confirm">Voulez-vous débranchez le clavier sans fil %1$s ?</string>
     <string name="bluetooth_hid_auth_confirm">Voulez-vous accepter la requête %1$s du clavier sans fil ?</string>
@@ -79,12 +79,12 @@
     <string name="bluetooth_pan_GN_connect_ok">Connexion du réseau groupe Ad-hoc avec %1$s réussie !</string>
     <string name="bluetooth_pan_GN_connect_fail">Echec de la connexion du réseau groupe Ad-hoc avec %1$s !</string>
     <string name="bluetooth_pan_NAP_connect_ok">"Connexion des points d'accès réseau avec %1$s réussie !"</string>
-    <string name="bluetooth_pan_NAP_connect_fail">"Echec de la connexion des points d'accès réseau avec %1$s !"</string>
+    <string name="bluetooth_pan_NAP_connect_fail">"Échec de la connexion des points d'accès réseau avec %1$s !"</string>
     <string name="bluetooth_pan_NAP_unavailable">"Service points d'accès réseau de %1$s indisponible"</string>
     <string name="bluetooth_pan_GN_disconnect_ok">Déconnexion du réseau groupe Ad-hoc de %1$s réussie !</string>
     <string name="bluetooth_pan_GN_disconnect_fail">Echec de la déconnexion du réseau groupe Ad-hoc de %1$s !</string>
     <string name="bluetooth_pan_NAP_disconnect_ok">"Déconnexion des points d'accès réseau de %1$s réussie !"</string>
-    <string name="bluetooth_pan_NAP_disconnect_fail">"Echec de la déconnexion des points d'accès réseau de %1$s !"</string>
+    <string name="bluetooth_pan_NAP_disconnect_fail">"Échec de la déconnexion des points d'accès réseau de %1$s !"</string>
     <string name="bluetooth_pan_GN_disconnect_ind">Réseau groupe Ad-hoc de %1$s déconnecté !</string>
     <string name="bluetooth_pan_NAP_disconnect_ind">"Points d'accès réseau de %1$s déconnectés !"</string>
     <string name="bluetooth_pan_server_settings">Sélection du service PAN Bluetooth</string>
@@ -110,7 +110,7 @@
     <string name="app_label">Bluetooth</string>
     <string name="app_description">Package profil Bluetooth</string>
     <string name="bt_base_activity_busy_message">Chargement en cours. Veuillez patienter…</string>
-    <string name="bt_base_activity_service_disconnected">Service déconnecté!</string>
+    <string name="bt_base_activity_service_disconnected">Service déconnecté !</string>
     <string name="bt_base_profile_feature_disabled">"Impossible d'utiliser la fonction Bluetooth désactivée."</string>
     <string name="bt_share_mgmt_tab_in_title">Télécharger</string>
     <string name="bt_share_mgmt_tab_out_title">Charger</string>
@@ -203,7 +203,7 @@ Poursuive l’envoi ?"</string>
     <string name="bluetooth_ftp_cancel">Annuler</string>
     <string name="bluetooth_ftp_date">date</string>
     <string name="bluetooth_ftp_size">taille</string>
-    <string name="bluetooth_ftp_service_busy">Le service FTP est occupe</string>
+    <string name="bluetooth_ftp_service_busy">Le service FTP est occupé</string>
     <string name="bluetooth_device_context_transfer_files">Transférer les fichiers</string>
     <string name="bluetooth_ftp_profile_summary_connected">Connecté au transfert des fichiers</string>
     <string name="bluetooth_ftp_profile_summary_not_connected">Pas connecté</string>
@@ -250,7 +250,7 @@ Poursuive l’envoi ?"</string>
     <string name="simap_connected_notify_title">%1$s est connecté à votre carte SIM</string>
     <string name="simap_connected_notify_message">Choisir pour déconnecter</string>
     <string name="simap_disconnect_title">Se déconnecter de la SIM distante</string>
-    <string name="simap_disconnect_message">Se déonnecter de %1$s ?</string>
+    <string name="simap_disconnect_message">Se déconnecter de %1$s ?</string>
     <string name="simap_disconnect_yes">Oui</string>
     <string name="simap_disconnect_no">Non</string>
     <string name="bluetooth_simap_server_settings">Réglages SIM distant</string>

@@ -10,7 +10,7 @@
     <string name="wait">Veuillez patienter…</string>
     <string name="no_storage">"Veuillez insérer une carte SD avant d'utiliser l'appareil photo."</string>
     <string name="not_enough_space">Votre carte SD est pleine.</string>
-    <string name="preparing_sd">Préparation de la carte SD…</string>
+    <string name="preparing_sd">Préparation du stockage…</string>
     <string name="access_sd_fail">"Impossible d'accéder à la carte SD."</string>
     <string name="confirm_restore_message">"Voulez-vous restaurer les paramètres par défaut de l'appareil photo ?"</string>
     <string name="review_play">Lire</string>
@@ -26,7 +26,7 @@
     <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
     <string name="pref_camera_recordlocation_entry_on">Activé</string>
     <string name="pref_video_quality_title">Qualité vidéo</string>
-    <string name="pref_video_time_lapse_frame_interval_title">Intervalle de temps</string>
+    <string name="pref_video_time_lapse_frame_interval_title">Laps de temps</string>
     <string name="pref_camera_settings_category">Paramètres appareil photo</string>
     <string name="pref_camcorder_settings_category">Mode Caméra</string>
     <string name="pref_camera_power_shutter_title">Bouton marche</string>
@@ -79,7 +79,7 @@
     <string name="no_video_to_share">Aucune vidéo à partager.</string>
     <string name="pano_too_fast_prompt">Trop rapide</string>
     <string name="pano_dialog_prepare_preview">Préparation vue panoramique…</string>
-    <string name="pano_dialog_panorama_failed">"Impossible d'enregistrer le panoramique."</string>
+    <string name="pano_dialog_panorama_failed">"Impossible d'enregistrer le panorama"</string>
     <string name="pano_dialog_title">Panoramique</string>
     <string name="pano_capture_indication">Capture vue panoramique…</string>
     <string name="pano_dialog_waiting_previous">Vue panoramique précédente en attente</string>
@@ -243,7 +243,7 @@ Sortez du cadre quelques instants."</string>
     <string name="crop_saved">Image rognée enregistrée dans %s.</string>
     <string name="no_albums_alert">Aucun album disponible.</string>
     <string name="empty_album">Aucune image/vidéo disponible.</string>
-    <string name="picasa_posts">Posts</string>
+    <string name="picasa_posts">Publications</string>
     <string name="make_available_offline">Consulter hors connexion</string>
     <string name="sync_picasa_albums">Actualiser</string>
     <string name="done">OK</string>

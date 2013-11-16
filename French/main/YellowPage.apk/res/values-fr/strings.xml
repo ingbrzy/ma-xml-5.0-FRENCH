@@ -102,7 +102,7 @@ Montant total : %3$s RMB"</string>
   <string name="remind_user_suspect_number_message">"Les malfaiteurs peuvent usurper l'identité d'autres personnes pour frauder, en cas de doute rappelez pour vérifier l'identité de l'appelant. Les banques, les sociétés d'e-commerce etc. ne vous demanderont jamais votre mot de passe ou vos informations bancaires."</string>
   <string name="remind_user_suspect_number_title">Méfiez-vous des appels frauduleux</string>
   <string name="scan">Scanner</string>
-  <string name="selected_category_format">%1$s(%2$d on marqué, appuyez pour approuver)</string>
+  <string name="selected_category_format">%1$s (%2$d l\'ont marqué, appuyez pour approuver)</string>
   <string name="service_unavailiable">Votre réseau actuel n\'est pas bon, veuillez réessayer plus tard</string>
   <string name="smart_antispam">Identifier les numéros inconnus automatiquement</string>
   <string name="title_about_yellow_page">À propos</string>

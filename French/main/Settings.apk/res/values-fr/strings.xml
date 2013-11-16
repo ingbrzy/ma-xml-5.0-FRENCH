@@ -405,8 +405,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_pairing_accept">Se connecter</string>
   <string name="bluetooth_pairing_decline">Annuler</string>
   <string name="bluetooth_pairing_device_down_error_message">"Impossible d'établir la communication avec %1$s."</string>
-  <string name="bluetooth_pairing_error_message">"Impossible d'associer à %1$s."</string>
-  <string name="bluetooth_pairing_pin_error_message">"Impossible d'établir l'association avec %1$s en raison d'un code PIN ou d'une clé d'accès incorrects."</string>
+  <string name="bluetooth_pairing_error_message">Un problème est survenu lors de l\'association à %1$s.</string>
+  <string name="bluetooth_pairing_pin_error_message">Un problème est survenu lors de l\'association à %1$s, car la clé d\'accès ou le code secret saisi est incorrect.</string>
   <string name="bluetooth_pairing_rejected_error_message">Association refusée par %1$s</string>
   <string name="bluetooth_pairing_request">Demande d\'association Bluetooth</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Connexion Internet locale partagée</string>
@@ -2684,7 +2684,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="miracast_menu_searching">Recherche</string>
   <string name="miracast_menu_teardown">Démonter</string>
   <string name="miracast_menu_connect">Démarr. la diffusion</string>
-  <string name="miracast_menu_disconnect">Stopper la diffusion</string>
+  <string name="miracast_menu_disconnect">Arrêter la diffusion</string>
   <string name="miracast_menu_forget">Retirer l\'écran</string>
   <string name="miracast_menu_rename">Renommer l\'écran</string>
   <string name="miracast_setup_save">Sauver</string>
@@ -2721,13 +2721,13 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="act_call">Bloquer les appels immédiatement</string>
   <string name="act_del_ms">Ne pas afficher</string>
   <string name="act_del_ms_summary">Les messages bloqués ne seront pas affichés</string>
-  <string name="act_hangup_call">Ne pas enregistrer les appels bloqués</string>
+  <string name="act_hangup_call">Ne pas journaliser les appels bloqués</string>
   <string name="act_hangup_call_summary">Les appels bloqués n\'apparaitront pas dans le journal</string>
-  <string name="act_ignore_call">Ne pas enregistrer les appels indésirables</string>
+  <string name="act_ignore_call">Ne pas journaliser les appels indésirables</string>
   <string name="act_ignore_ms">Ignorer les notifications</string>
   <string name="act_ms">Journal des messages</string>
   <string name="act_mute_call">Appels indésirables muets</string>
-  <string name="act_mute_call_summary">Les appels entrants provenant de numéros bloqués ne seront pas affiché mais ils seront loggués</string>
+  <string name="act_mute_call_summary">Les appels entrants provenant de numéros bloqués ne seront pas affiché mais ils seront journalisés</string>
   <string name="act_mute_ms">Notifications muettes</string>
   <string name="act_mute_ms_summary">Les notifications sont désactivées mais les messages seront toujours affichables</string>
   <string name="action_settings">Paramètres</string>
@@ -2739,11 +2739,11 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="anti_spam">Anti-spam</string>
   <string name="anti_stranger_summary">Bloque les appels provenant ne provenant pas de contacts</string>
   <string name="anti_stranger_title">Bloquer les numéros inconnus</string>
-  <string name="apk_status_damage">Corrompue</string>
+  <string name="apk_status_damage">Corrompu</string>
   <string name="apk_status_duplicate">En double</string>
   <string name="apk_status_install">Installé</string>
   <string name="apk_status_installed_old">Ancienne version</string>
-  <string name="apk_status_uninstalled">Non installée</string>
+  <string name="apk_status_uninstalled">Non installé</string>
   <string name="app_log_tab_title">Journal de permissions</string>
   <string name="app_manage_tab_title">Applications</string>
   <string name="app_name">Sécurité</string>
@@ -2847,7 +2847,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="fw_clear_blacklist">Effacer la liste noire</string>
   <string name="fw_clear_whitelist">Effacer la liste blanche</string>
   <string name="fw_edit_keyword">Modifier le mot clé</string>
-  <string name="fw_end_time">>Heure de fin</string>
+  <string name="fw_end_time">à</string>
   <string name="fw_import_blacklist">Importer liste noire</string>
   <string name="fw_import_blacklist_confirm">%d numéros sélectionnes, êtes-vous sûr de vouloir les importés dans la liste noire ?</string>
   <string name="fw_import_ms">Importer journal d\'appels et messages</string>
@@ -2856,9 +2856,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="fw_in_blacklist">%s est déjà dans la liste noire.</string>
   <string name="fw_in_whitelist">%s est déjà dans la liste blanche.</string>
   <string name="fw_keyword_filter">Filtrer par mots clés</string>
-  <string name="fw_keyword_filter_summary">Bloque les messages qui contiennent les mots clés sélectionnés</string>
+  <string name="fw_keyword_filter_summary">Les messages contenant les mots clés listés seront bloqués</string>
   <string name="fw_keyword_list">Liste de mot clés</string>
-  <string name="fw_keyword_list_hint">Les mots clés listés ici seront utilisés pour filtrer les messages entrants</string>
+  <string name="fw_keyword_list_hint">Les mots clés seront utilisés pour filtrer les messages entrants</string>
   <string name="fw_log_inf">Journal</string>
   <string name="fw_menu_new_blacklist_title">Ajouter à la liste noire</string>
   <string name="fw_menu_new_manual">Ajouter un numéro</string>
@@ -2868,6 +2868,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="fw_ms" formatted="false">Heure du message : %s (%d)</string>
   <string name="fw_ms_filtered">SMS filtrés.</string>
   <string name="fw_ms_imported">SMS importés.</string>
+ <!-- fw_ms_muted trop long ? a vérifier/changer -->
   <string name="fw_ms_muted">SMS mis en sourdine.</string>
   <string name="fw_ms_rejected">SMS bloqués.</string>
   <string name="fw_no_effect">Le Mode Privé n\'est pas actif. Voulez-vous l\'activer maintenant ?</string>
@@ -2891,12 +2892,12 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="last_check_canceled">Analyse recommandée : la précédente a été annulée avant la fin</string>
   <string name="last_check_date_today">Dernière analyse : aujourd\'hui</string>
   <string name="last_check_date_yesterday">Dernière analyse : hier</string>
-  <string name="last_check_never_checked">Analyse recommandée (première fois)</string>
+  <string name="last_check_never_checked">Analyse recommandée (1ère fois)</string>
   <string name="last_checked_date">Analyse recommandée : la dernière remonte à 30 jours</string>
   <string name="last_checked_date2">La dernière analyse remonte à %d jours</string>
   <string name="last_checked_date_mark">pts</string>
   <string name="last_checked_default">Analyse recommandée : la dernière remonte à %s</string>
-  <string name="mark_number_dialog_maintitle">Bloquer et signaler le numéro</string>
+  <string name="mark_number_dialog_maintitle">Bloquer et marquer le numéro</string>
   <string name="mark_number_dialog_subtitle">Développé en partie par Sogou</string>
   <string name="mem_lock">Verrouiller</string>
   <string name="mem_unlock">Déverrouiller</string>
@@ -2906,7 +2907,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="menu_item_about_title">À propos</string>
   <string name="mms_log_tab_title">Journal des messages</string>
   <string name="need_check">Certains éléments peuvent êtres optimisés…</string>
- <!-- network_assistant à vérifier, moniteur réseaux ? -->
+ <!-- network_assistant à vérifier/changer, moniteur réseaux ? -->
   <string name="network_assistant">Usage des données</string>
   <string name="new_bw_list_button">Ajouter un contact</string>
   <string name="number_add_hint">Saisir un numéro</string>
@@ -3021,14 +3022,14 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_customizer_delete">Supprimer</string>
   <string name="power_customizer_my_mode">Personnalisé</string>
   <string name="power_customizer_ok">OK</string>
-  <string name="power_customizer_save">Sauver</string>
+  <string name="power_customizer_save">Enregistrer</string>
   <string name="power_customizer_sleep_mode">Veille</string>
   <string name="power_customizer_smart_mode">Par défaut</string>
   <string name="power_customizer_standby_mode">Marathon</string>
   <string name="power_customizer_user_define_mode">Nom du profil :</string>
   <string name="power_customizer_user_define_name">Personnalisé</string>
   <string name="power_customizer_user_define_summary">Paramètres définis par l\'utilisateur</string>
-  <string name="power_dialog_auto_clean_memory_summary">Quand l\'appareil est verrouillé, nettoyer les processus mis en cache qui sont gourmands en énergie</string>
+  <string name="power_dialog_auto_clean_memory_summary">Quand l\'appareil est verrouillé, nettoyer les processus, mis en cache, gourmands en énergie</string>
   <string name="power_dialog_auto_clean_memory_title">Nettoyer la mémoire automatiquement</string>
   <string name="power_dialog_cancel">Annuler</string>
   <string name="power_dialog_cpu_state_balance">Équilibré</string>
@@ -3107,7 +3108,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_save_on_time_end_time_title">%1$d : %2$d</string>
   <string name="power_save_on_time_option_summary">A la fin de ce délai l\'appareil reviendra au profil le plus récemment utilisé</string>
   <string name="power_save_on_time_option_title">Pendant cette période</string>
-  <string name="power_save_on_time_start_time_summary">Démarrer</string>
+  <string name="power_save_on_time_start_time_summary">Début</string>
   <string name="power_save_on_time_start_time_title">%1$d : %2$d</string>
   <string name="power_save_on_time_title">Planifié</string>
   <string name="power_settings_category_title">Indicateur de batterie</string>
@@ -3169,7 +3170,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="residual_tips_hints">%s fichiers résiduels trouvés</string>
   <string name="restore_default_settings">Rétablir les paramètres par défaut</string>
   <string name="rubbish_cleaning">Nettoyage système</string>
-  <string name="save_button">Sauver</string>
+  <string name="save_button">Enregistrer</string>
   <string name="scan_done">Analyse effectuée</string>
   <string name="scanning_virus">Analyse…</string>
   <string name="score">Score</string>
@@ -3222,7 +3223,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan">Analyse virale</string>
  <!-- virus_scan_app_solve à vérifier/revoir ? : All the processing -->
   <string name="virus_scan_app_solve">La totalité</string>
-  <string name="virus_scan_app_stop">Stopper l\'analyse</string>
+  <string name="virus_scan_app_stop">Arrêter l\'analyse</string>
   <string name="virus_scan_can_use_wifi">Utiliser les définitions en-ligne pour analyser</string>
   <string name="virus_scan_clear">Nettoyer</string>
   <string name="virus_scan_dangerous">Risque</string>
@@ -3261,7 +3262,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_parpare">Démarrage…</string>
   <string name="virus_scan_risk_button_name">Risque</string>
   <string name="virus_scan_risk_list_empty">Aucun risque détecté.</string>
-  <string name="virus_scan_risk_title">%d applis suspectes détectées</string>
+  <string name="virus_scan_risk_title">%d appli(s) suspecte(s) détectée(s)</string>
   <string name="virus_scan_safe">Vider</string>
   <string name="virus_scan_settings">Paramètres</string>
   <string name="virus_scan_settings_title">Paramètres des définitions de virus</string>
@@ -3277,7 +3278,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_viruslib_version">Définitions de virus version : %s</string>
   <string name="virus_scanner_lib_update_success">Les définitions de virus ont été mis à jour automatiquement. ^_^</string>
   <string name="virus_scanner_module">Tencent</string>
-  <string name="virus_scanner_stop_title">Stopper l\'analyse</string>
+  <string name="virus_scanner_stop_title">Arrêter l\'analyse</string>
   <string name="virus_single_app_file_date">Date de création :</string>
   <string name="virus_single_app_install_date">Date d\'install. :</string>
   <string name="virus_single_riskapk_title">Détails de l\'appli suspecte</string>

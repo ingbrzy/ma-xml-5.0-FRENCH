@@ -136,7 +136,7 @@
   <string name="mimetype">Type MIME</string>
   <string name="model">Modèle</string>
   <string name="no_save">"Ne pas sauvegarder"</string>
-  <string name="no_storage">Veuillez installer une carte SD avant d\'utiliser l\'appareil photo.</string>
+  <string name="no_storage">Veuillez insérer une carte SD avant d\'utiliser l\'appareil photo.</string>
   <string name="no_thumbnail">Aucune vignette</string>
   <string name="not_enough_space">Mémoire insuffisante</string>
   <string name="not_selectable_in_scene_mode">Non sélectionnable en mode scène</string>
@@ -322,7 +322,7 @@
   <string name="pref_camera_sound_title_entry_on">Activé</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>
-  <string name="pref_camera_touchafaec_title">Touch AF/AEC</string>
+  <string name="pref_camera_touchafaec_title">Mise au point tactile</string>
   <string name="pref_camera_video_duration_entry_10">10 minutes</string>
   <string name="pref_camera_video_duration_entry_120">2 heures</string>
   <string name="pref_camera_video_duration_entry_30">30 minutes</string>
@@ -415,9 +415,9 @@
   <string name="set_label_local_albums">Albums en local</string>
   <string name="share">Partager</string>
   <string name="show_all">Afficher tout</string>
-  <string name="show_images_only">Afficher les Images</string>
+  <string name="show_images_only">Images uniquement</string>
   <string name="show_on_map">Afficher sur la carte</string>
-  <string name="show_videos_only">Afficher les vidéos</string>
+  <string name="show_videos_only">Vidéos uniquement</string>
   <string name="simple_mode_button_text_audio_capture">Fermer la capture audio</string>
   <string name="simple_mode_button_text_color_effect">Fermer les filtres</string>
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
@@ -440,7 +440,7 @@
   <string name="times">Heures</string>
   <string name="title">Titre</string>
   <string name="toast_burst_snap_finished_end">Photos prises</string>
-  <string name="toast_burst_snap_finished_start">Rafale fini</string>
+  <string name="toast_burst_snap_finished_start">Rafale finie</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Le mode rafale n\'est pas supporté lorsque la capture audio est activée.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Le mode rafale n\'est pas supporté lorsque le HDR est activé.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Le mode rafale n\'est pas supporté quand l\'ISO n\'est défini sur \'auto\'."</string>

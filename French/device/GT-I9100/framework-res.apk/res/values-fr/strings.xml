@@ -260,7 +260,7 @@
   <string name="SC_BAOICxH">Tous les appels internationaux sortants sauf vers le pays d\'origine</string>
   <string name="SC_BAIC">Tous les appels entrants</string>
   <string name="SC_BAICr">Tous les appels entrants en itinérance</string>
-  <string name="SC_BA_ALL">Toutes les retsrictions d\'appel</string>
+  <string name="SC_BA_ALL">Toutes les restrictions d\'appel</string>
   <string name="SC_BA_MO">Tous les appels sortants</string>
   <string name="SC_BA_MT">Tous les appels entrants</string>
   <string name="classVoice">Pour tous les services voix</string>
@@ -908,7 +908,7 @@
   <string name="relationTypeReferredBy">Recommandé par</string>
   <string name="relationTypeRelative">Proche</string>
   <string name="relationTypeSister">Soeur</string>
-  <string name="relationTypeSpouse">Epouse</string>
+  <string name="relationTypeSpouse">Épouse</string>
   <string name="sipAddressTypeCustom">Personnaliser</string>
   <string name="sipAddressTypeHome">Domicile</string>
   <string name="sipAddressTypeWork">Pro.</string>

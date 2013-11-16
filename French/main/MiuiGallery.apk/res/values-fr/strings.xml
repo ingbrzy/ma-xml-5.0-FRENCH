@@ -338,7 +338,7 @@
   <string name="qsbk_save">QSBK</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="redeye">Yeux rouges</string>
-  <string name="redeye_tooltip">Touchez pour supprimer les yeux rouges</string>
+  <string name="redeye_tooltip">Appuyer sur yeux rouges pour les effacer</string>
   <string name="remove_hidden_album">Ne plus masquer</string>
   <string name="remove_recent_album">Supprimer des albums favoris</string>
   <string name="rename_failed">Échec du renommage</string>
@@ -465,7 +465,7 @@
   <string name="tint">Coloration</string>
   <string name="title">Titre</string>
   <string name="to_count">%d total</string>
-  <string name="too_many_recipients">Le message a trop de destinataires(%1$s), le nombre total autorisé est de %2$s.</string>
+  <string name="too_many_recipients">Le message a trop de destinataires (%1$s), le nombre total autorisé est de %2$s.</string>
   <string name="try_to_send">Tentative d\'envoi</string>
   <string name="turn_left">Faire pivoter à gauche</string>
   <string name="turn_right">Faire pivoter à droite</string>

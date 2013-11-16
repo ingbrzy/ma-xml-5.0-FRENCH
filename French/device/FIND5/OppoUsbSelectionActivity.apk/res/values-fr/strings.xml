@@ -9,9 +9,9 @@
     <string name="usb_storage">Stockage de masse</string>
     <string name="usb_storage_detail">Utiliser votre téléphone comme stockage de masse</string>
     <string name="usb_adb">Stockage multimédia(MTP)</string>
-    <string name="usb_selection">Sélectionner pour modifier le paramètrage USB</string>
+    <string name="usb_selection">Sélectionner pour modifier le paramétrage USB</string>
     <string name="usb_adb_detail">"Synchroniser avec l'assistant OPPO"</string>
     <string name="usb_internet">Liaison USB</string>
     <string name="usb_internet_detail">Partager la connexion mobile avec votre PC</string>
-    <string name="usb_selection_processing">Veuillez patientez…</string>
+    <string name="usb_selection_processing">Veuillez patienter…</string>
 </resources>

@@ -715,7 +715,7 @@
   <string name="relationTypeReferredBy">Recommandé par</string>
   <string name="relationTypeRelative">Proche</string>
   <string name="relationTypeSister">Soeur</string>
-  <string name="relationTypeSpouse">Epouse</string>
+  <string name="relationTypeSpouse">Épouse</string>
   <string name="sipAddressTypeCustom">Personnaliser</string>
   <string name="sipAddressTypeHome">Domicile</string>
   <string name="sipAddressTypeWork">Pro.</string>

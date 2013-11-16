@@ -29,8 +29,8 @@
     <string name="cannot_start_camera_msg">"Appareil photo non disponible
 pendant appel"</string>
     <string name="cannot_start_camcorder_msg">"Impossible d'enregistrer des vidéos pendant un appel"</string>
-    <string name="finish_multi_camera_msg">"Impossiblededémarrercamératandisquelacaméraestdéjàencoursd'exécution"</string>
-    <string name="finish_multi_camcorder_msg">"Impossiblededémarrercamératandisquelacaméraestdéjàencoursd'exécution"</string>
+    <string name="finish_multi_camera_msg">"Impossible de démarrer caméra tandis qu'elle est déjà en cours d'exécution"</string>
+    <string name="finish_multi_camcorder_msg">"Impossible de démarrer caméra tandis qu'elle est déjà en cours d'exécution"</string>
     <string name="image_stitching_fail">Échec</string>
     <string name="SM_SINGLE">Cliché unique</string>
     <string name="SM_CONTINUOUS">Rafale</string>
@@ -90,7 +90,7 @@ pendant appel"</string>
     <string name="F_FACE">Détect. portrait</string>
     <string name="F_PANFOCUS">Panorama</string>
     <string name="Q_SUPER_FINE">Excellente</string>
-    <string name="Q_FINE">Elevée</string>
+    <string name="Q_FINE">Élevée</string>
     <string name="T_TWO">2 sec</string>
     <string name="T_FIVE">5 sec</string>
     <string name="T_TEN">10 sec</string>
@@ -164,7 +164,7 @@ pendant appel"</string>
     <string name="Title_VideoQuality">Qualité vidéo</string>
     <string name="Title_AudioRecording">Enreg. audio</string>
     <string name="Title_Storage">Stockage</string>
-    <string name="Title_DefaultLayout">Miseenpagepardéfaut</string>
+    <string name="Title_DefaultLayout">Mise en page par défaut</string>
     <string name="Title_Reset">Réinitialiser</string>
     <string name="Title_Mode">Mode</string>
     <string name="Title_Back">Retour</string>
@@ -220,15 +220,17 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="user_profile_title">Profil utilisateur</string>
     <string name="preview_file_received_title">Prévisualiser le fichier reçu</string>
     <string name="network_title">Recevoir des photos si appareil photo inutilisé</string>
+ <!-- à traduire :
     <string name="network_title_chn">Share shot while WLAN Direct connected</string>
+ -->
     <string name="done">OK</string>
     <string name="add_photo_title">Ajouter photo</string>
     <string name="wifi_dialog_title">Partage</string>
     <string name="wifi_dialog_text">Connexion Wi-Fi requise</string>
-    <string name="wifi_dialog_text_chn">WLAN connection required</string>
+    <string name="wifi_dialog_text_chn">Connexion Wi-Fi requise</string>
     <string name="wifi_direct_dialog_title">Partage</string>
     <string name="wifi_direct_dialog_text">La fonction de partage vous permet de partager des photos avec les autres utilisateurs via Wi-Fi Direct. Connexion Wi-Fi Direct requise</string>
-    <string name="wifi_direct_dialog_text_chn">WLAN Direct connection required</string>
+    <string name="wifi_direct_dialog_text_chn">Connexion Wi-Fi Direct requise</string>
     <string name="wifi_dialog_yes">OK</string>
     <string name="wifi_dialog_no">Annuler</string>
     <string name="sharing_devices">Périphériques de partage</string>
@@ -294,7 +296,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="SPEED_4X_SLOWER">4x plus lent</string>
     <string name="SPEED_8X_SLOWER">8x plus lent</string>
     <string name="recording_timelapse_seconds">secondes</string>
-    <string name="Title_EffectRecorder">Enregistreureffet</string>
+    <string name="Title_EffectRecorder">Enregistreur effet</string>
     <string name="ER_EFFECT_NONE">Aucun(e)</string>
     <string name="ER_EFFECT_NOEFFECT">Aucun effet</string>
     <string name="ER_EFFECT_SQUEEZE">Déformer</string>

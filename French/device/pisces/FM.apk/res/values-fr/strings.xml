@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="FMRecording_reach_storage_threshold">L\'enregistrement a cessé. Votre espace de stockage de carte SD est faible.</string>
-  <string name="access_sd_fail">"Impossible d'accéder à la mémoire de stockage USB."</string>
+  <string name="access_sd_fail">"Impossible d'accéder à la mémoire de stockage."</string>
   <string name="alert_dialog_cancel">Annuler</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_invalid_frequency">Fréquence non valide !</string>

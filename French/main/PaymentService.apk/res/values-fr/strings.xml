@@ -4,14 +4,14 @@
 %1$s</string>
   <string name="app_name">Service de paiement</string>
   <string name="balance">Solde : %1$s MiCredits</string>
-  <string name="balance_giftcard_payment">%1$s MiCredits（%2$s MiCredit carte-cadeau）</string>
+  <string name="balance_giftcard_payment">%1$s MiCredits (%2$s MiCredit carte-cadeau)</string>
   <string name="balance_payment">%1$s MiCredits</string>
   <string name="bankcall_bank_account">Carte bancaire :</string>
   <string name="bankcall_call_hint">"Vous allez recevoir une demande de règlement d'Union (020-96585). Veuillez suivre les instructions pour compléter la transaction."</string>
   <string name="bankcall_card">Carte bancaire</string>
   <string name="bankcall_card_hint">Entrez votre numéro de carte</string>
   <string name="bankcall_card_type">%1$s-%2$s</string>
-  <string name="bankcall_card_type_tailnum">%1$s-%2$s (Carte # %3$s)</string>
+  <string name="bankcall_card_type_tailnum">%1$s-%2$s (Carte #%3$s)</string>
   <string name="bankcall_city">Ville</string>
   <string name="bankcall_credit_card">Carte de crédit</string>
   <string name="bankcall_debit_card">Carte de débit</string>
@@ -79,8 +79,8 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="error_network_title">Erreur réseau</string>
   <string name="error_server_title">Erreur serveur</string>
   <string name="error_server_summary">Erreur du serveur, veuillez réessayer plus tard</string>
-  <string name="error_too_frequent_visits_summary">"Vous essayez de visiter trop souvent. 
-Veuillez réessayer après cinq minutes"</string>
+  <string name="error_too_frequent_visits_summary">"Vous avez effectué trop d\'opérations sur le compte. 
+Veuillez réessayer dans cinq minutes"</string>
   <string name="error_too_frequent_visits_title">Avertissement !</string>
   <string name="error_user_id_mismatch_summary">Veuillez vérifier les détails de votre compte et essayer à nouveau</string>
   <string name="error_user_id_mismatch_title">Erreur d\'authentification !</string>
@@ -217,7 +217,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_pay_money_wrong">Payment error occured</string>
   <string name="linkpay_pay_result">Payment results</string>
   <string name="linkpay_pay_way">Payment</string>
-  <string name="linkpay_payment_alert">Welcome to th China Unicom payments service. Service will be activated after SMS verification.</string>
+  <string name="linkpay_payment_alert">Welcome to the China Unicom payments service. Service will be activated after SMS verification.</string>
   <string name="linkpay_payment_faild">Payment failed!</string>
   <string name="linkpay_paymoney">Payments:</string>
   <string name="linkpay_please_choose_paycard_type">Select card type</string>
@@ -287,7 +287,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_you_not_unicon">Your SIM card is currently unavailable for SMS payment services!</string>
   <string name="linkpay_you_will_pay">Amount to pay</string>
   <string name="linkpay_yuan">Yuan</string>
-  <string name="linkpay_zhifubao">支付宝</string>
+  <string name="linkpay_zhifubao">Alipay</string>
  <!-- -->
   
   <string name="lockpassword_choose_your_pattern_header">Choisissez votre schéma</string>
@@ -385,7 +385,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_success_pay_title">Paiement de %1$s MiCredit(s) effectué</string>
   <string name="progress_success_recharge_summary">Balance du compte : %1$s MiCredits</string>
   <string name="progress_success_recharge_title">Recharge de %1$s MiCredits effectuée</string>
-  <string name="progress_voucher_creating">Mise à jour MiCredit…</string>
+  <string name="progress_voucher_creating">Ajout de MiCredits sur votre compte, veuillez patienter…</string>
   <string name="progress_warning_check">"Pas encore mis à jour !  
 Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt : 

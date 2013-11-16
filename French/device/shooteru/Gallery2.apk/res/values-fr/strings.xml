@@ -7,8 +7,8 @@
   <string name="video_camera_label">Caméra</string>
   <string name="wait">Veuillez patienter…</string>
   <string name="no_storage">Veuillez insérer une carte SD avant d\'utiliser l\'appareil photo.</string>
-  <string name="preparing_sd">Préparation de la carte SD…</string>
-  <string name="access_sd_fail">Impossible d\'accéder à la carte SD.</string>
+  <string name="preparing_sd">Préparation du stockage…</string>
+  <string name="access_sd_fail">"Impossible d'accéder à la mémoire de stockage."</string>
   <string name="review_cancel">ANNULER</string>
   <string name="review_ok">OK</string>
   <string name="time_lapse_title">Enregistrement mode time lapse</string>
@@ -21,11 +21,11 @@
   <string name="pref_video_quality_title">Qualité vidéo</string>
   <string name="pref_video_quality_entry_high">Élevée</string>
   <string name="pref_video_quality_entry_low">Faible</string>
-  <string name="pref_video_time_lapse_frame_interval_title">Intervalle de temps</string>
+  <string name="pref_video_time_lapse_frame_interval_title">Laps de temps</string>
   <string name="pref_camera_settings_category">Paramètres appareil photo</string>
   <string name="pref_camcorder_settings_category">Mode Caméra</string>
   <string name="pref_camera_picturesize_title">Taille d\'image</string>
-  <string name="pref_camera_picturesize_entry_8mp">8 mégapixels</string>
+  <string name="pref_camera_picturesize_entry_8mp">8 M pixels</string>
   <string name="pref_camera_picturesize_entry_5mp">5 M pixels</string>
   <string name="pref_camera_picturesize_entry_3mp">3 M pixels</string>
   <string name="pref_camera_picturesize_entry_2mp">2 M pixels</string>
@@ -78,7 +78,7 @@
   <string name="video_reach_size_limit">Taille maximale atteinte.</string>
   <string name="pano_too_fast_prompt">Trop rapide</string>
   <string name="pano_dialog_prepare_preview">Préparation vue panoramique…</string>
-  <string name="pano_dialog_panorama_failed">Impossible d\'enregistrer le panoramique.</string>
+  <string name="pano_dialog_panorama_failed">"Impossible d'enregistrer le panorama"</string>
   <string name="pano_dialog_title">Panoramique</string>
   <string name="pano_capture_indication">Capture vue panoramique…</string>
   <string name="pano_dialog_waiting_previous">Vue panoramique précédente en attente</string>
@@ -342,7 +342,7 @@ D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux image
   <string name="crop_saved">Image rognée enregistrée dans %s.</string>
   <string name="no_albums_alert">Aucun album disponible.</string>
   <string name="empty_album">Aucune image/vidéo disponible.</string>
-  <string name="picasa_posts">Posts</string>
+  <string name="picasa_posts">Publications</string>
   <string name="make_available_offline">Consulter hors connexion</string>
   <string name="sync_picasa_albums">Actualiser</string>
   <string name="sequence_in_set">%1$d élément(s) sur %2$d :</string>
@@ -427,7 +427,7 @@ D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux image
   <string name="pref_camera_coloreffect_entry_none">Aucun</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sépia</string>
-  <string name="pref_camera_coloreffect_entry_negative">Negatif</string>
+  <string name="pref_camera_coloreffect_entry_negative">Négatif</string>
   <string name="pref_camera_coloreffect_entry_solarize">Solariser</string>
   <string name="pref_camera_coloreffect_entry_emboss">Relief</string>
   <string name="pref_camera_coloreffect_entry_sketch">Croquis</string>

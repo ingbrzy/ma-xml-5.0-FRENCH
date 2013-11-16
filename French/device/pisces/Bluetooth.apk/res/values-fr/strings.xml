@@ -65,7 +65,7 @@
   <string name="localPhoneName">Mon nom</string>
   <string name="map_datasource_mms_name">MMS</string>
   <string name="map_datasource_sms_name">SMS</string>
-  <string name="map_datasource_smsmms_name">SMS and MMS</string>
+  <string name="map_datasource_smsmms_name">SMS et MMS</string>
   <string name="map_provider_smsmms_name">Messagerie</string>
   <string name="miui_transfer_history_title">Historique de transfert Bluetooth</string>
   <string name="miui_transfer_inbound_title">Entrant</string>
