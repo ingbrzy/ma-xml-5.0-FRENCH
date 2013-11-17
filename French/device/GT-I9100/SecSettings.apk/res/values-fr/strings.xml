@@ -495,7 +495,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="wifi_more">Plus</string>
   <string name="wifi_setup_wps">Configuration auto (WPS)</string>
   <string name="wifi_show_advanced">Afficher les options avancées</string>
-  <string name="wifi_wps_pin">"Entrer le PIN à partir du point d'accès"</string>
+  <string name="wifi_wps_pin">"Saisir le PIN à partir du point d'accès"</string>
   <string name="wifi_wps_pin_output">"Entrez le code PIN %1$s sur le point d'accès"</string>
   <string name="wifi_wps_failed">Impossible de démarrer WPS. Réessayez</string>
   <string name="wifi_wps_button_message">"Appuyez sur la touche WPS de votre point d'accès Wi-Fi dans 2 minutes"</string>
@@ -2032,7 +2032,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="samsung_unlock">Déverrouillage Samsung</string>
   <string name="security_unlock">Déverrouillage de la sécurité</string>
   <string name="lockscreen_wallpaper">Écran de verrouillage</string>
-  <string name="both_wallpaper">Écrans daccueil et de verrouillage</string>
+  <string name="both_wallpaper">"Écrans d accueil et de verrouillage"</string>
   <string name="chooser_wallpaper">"Sélectionner un fond d'écran à partir de"</string>
   <string name="driving_mode_settings_title">Paramètres du Profil Voiture</string>
   <string name="driving_mode_settings_summary">Sélectionnez les applications pour lesquelles utiliser TTS lorsque le Profil Voiture est activé</string>
@@ -2074,7 +2074,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="user_name_title">Nom</string>
   <string name="user_restrictions_heading">Restrictions de contenu</string>
   <string name="user_market_requires_pin">PIN requis</string>
-  <string name="user_max_content_rating">Evaluation du contenu</string>
+  <string name="user_max_content_rating">Évaluation du contenu</string>
   <string name="user_system_apps_heading">Applications système</string>
   <string name="user_market_apps_heading">Applications installées</string>
   <string name="user_discard_user_menu">Ignorer</string>
@@ -2118,7 +2118,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="introduction_message">"La fonction de contrôle à distance peut réduire le risque de perte de vos informations personnelles car elle vous permet de verrouiller votre mobile égaré et d'effacer à distance les données correspondantes. Par ailleurs, grâce à la fonction de traçage du mobile, vous pouvez retrouver votre mobile égaré"</string>
   <string name="remote_controls_message">"Pour activer le contrôle à distance, vous devez enregistrer un compte Samsung et cocher l'option Services de localisation Google ci-dessous"</string>
   <string name="account_registration">Enregistrement du compte</string>
-  <string name="add_samsung_account_summary">Pour activer le contrôle à distance, créez uncompte Samsung</string>
+  <string name="add_samsung_account_summary">Pour activer le contrôle à distance, créez un compte Samsung</string>
   <string name="add_google_account_summary">Pour activer le contrôle à distance, créez un compte Google</string>
   <string name="location_consent">Accepter la localisation</string>
   <string name="hint_recipient">Destinataire</string>
@@ -2281,7 +2281,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="torch_light">Lampe de poche</string>
   <string name="torch_light_summary">Allumer la lampe</string>
   <string name="torch_light_popup_title">"Activer la lumière d'assistance"</string>
-  <string name="torch_light_popup_message">"Eteignez la lumière d'assistance lorsque vous n'en avez plus besoin"</string>
+  <string name="torch_light_popup_message">"Éteignez la lumière d'assistance lorsque vous n'en avez plus besoin"</string>
   <string name="torch_light_notification_title">"Lumière d'assistance allumée"</string>
   <string name="torch_light_notification_message">"Appuyer pour désactiver l'assistance lumineuse"</string>
   <string name="easy_access_category">Accès rapide</string>
@@ -3092,13 +3092,13 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="easy_mode_alert_dialog_body">"Le mode Démarrage remplace les widgets de votre écran d\'accueil par des widgets simples. Les widgets actuels seront restaurés en désactivant le mode Démarrage.
 Appuyez sur OK pour continuer"</string>
   <string name="easy_mode_off_alert_dialog_title">Retour au mode basique</string>
-  <string name="easy_mode_off_alert_dialog_body">"Vous revenez vivre au mode de base. Tout mode de l'écran change au cours Easy Mode ne seront pas maintenues une fois demenager. Files articles suivants nLes rester sur place. N? Installe apps n? Photos, notes et modifications n? fait a l'aide apps Ntap sur OK pour continuer"</string>
+  <string name="easy_mode_off_alert_dialog_body">"Vous revenez vivre au mode de base. Tout mode de l'écran change au cours Easy Mode ne seront pas maintenues une fois déménager. Files articles suivants nLes rester sur place. N? Installe apps n? Photos, notes et modifications n? fait a l'aide apps Ntap sur OK pour continuer"</string>
   <string name="easymode_help_1">"Les widgets simples sont automatiquement ajoutés à votre écran d'accueil"</string>
   <string name="easymode_help_apps">Applications Favorites</string>
   <string name="easymode_help_contacts">Contacts Favoris</string>
   <string name="easymode_help_clock_alarm">Horloge et alarme</string>
   <string name="easymode_help_dialer">Clavier</string>
-  <string name="easymode_help_2">"Les modifications apportees sur les écrans d'accueil ne sera pas conserve"</string>
+  <string name="easymode_help_2">"Les modifications apportées sur les écrans d'accueil ne sera pas conserve"</string>
   <string name="mode_change">Changer de mode</string>
   <string name="mode_change_title">"Mode Écran d'accueil"</string>
   <string name="standard_mode">Mode basique</string>
@@ -3110,7 +3110,7 @@ Appuyez sur OK pour continuer"</string>
   <string name="starter_mode_popup_body">"Le mode basique sera appliqué à vos écrans d'accueil. Les modifications que vous avez apportées au mode facile vont être enregistrées et seront disponibles lorsque vous reviendrez à ce mode"</string>
   <string name="easy_mode_title">"Sélectionnez l'aspect de votre écran d'accueil"</string>
   <string name="lock_screen_options">"Options de l'écran de verrouillage"</string>
-  <string name="lock_screen_options_summary">"Personnaliser les raccourcis, les messages, les horloges et bien plus encore à afficher sur l'écran verouillé"</string>
+  <string name="lock_screen_options_summary">"Personnaliser les raccourcis, les messages, les horloges et bien plus encore à afficher sur l'écran verrouillé"</string>
   <string name="lock_screen_options_summary_no_ticker">"Personnaliser les raccourcis, les horloges et bien plus encore à afficher sur l'écran verrouillé"</string>
   <string name="lock_screen_options_summary_kor">"Personnalisez les horloges de l'écran de verrouillage et bien plus pour le verrouillage simple"</string>
   <string name="quick_note_title">"Popup Note sur l'écran de verrouillage"</string>
@@ -3125,7 +3125,7 @@ Vous pouvez télécharger PC Kies sur http://www.samsung.com/kies et l\'installe
   <string name="wakeup_in_lockscreen_summary">"Activer la fonction Commande de réveil lorsque l'écran est verrouillé par glissement ou par mouvement"</string>
   <string name="wakeup_in_lockscreen_summary_nomotion">Utiliser la commande de réveil lorsque le verrouillage par glissement est activé</string>
   <string name="guide_tap_area">Appuyez sur la zone indiquée</string>
-  <string name="guide_wifi_security_credential">"Pour vous connecter à un réseau sécurisé, vous devrez peut-être entrer un mot de passe ou d'autres informations de connexion"</string>
+  <string name="guide_wifi_security_credential">"Pour vous connecter à un réseau sécurisé, vous devrez peut-être saisir un mot de passe ou d'autres informations de connexion"</string>
   <string name="guide_wifi_select_ap_summary">Appuyez sur le réseau auquel vous souhaitez vous connecter</string>
   <string name="guide_wifi_no_ap_summary">Aucun réseau Wi-Fi trouvé. Changez de lieu ou réessayez ultérieurement</string>
   <string name="guide_wifi_connected_automatically">Connexion automatique au réseau enregistré. Pour consulter les informations sur le réseau, appuyez sur le nom du réseau</string>

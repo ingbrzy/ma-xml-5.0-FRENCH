@@ -21,7 +21,7 @@
   <string name="keyguard_password_wrong_puk_code">Code PUK incorrect !</string>
   <string name="keyguard_password_enter_new_pin_code">Entrez le nouveau code PIN</string>
   <string name="keyguard_password_Confirm_pin_code">Confirmer le nouveau code PIN</string>
-  <string name="invalidPuk">Entrer 8 chiffres.</string>
+  <string name="invalidPuk">Saisir 8 chiffres.</string>
   <string name="sim_permanently_locked">Saisie du code PUK incorrect plus de 10 fois, la carte SIM est définitivement verrouillée.</string>
   <string name="pin_length_indicate">(4-8 chiffres)</string>
   <string name="puk_length_indicate">(8 chiffres)</string>
@@ -93,9 +93,9 @@
   <string name="MMRejectCause5">Échec d\'appel - MM #5</string>
   <string name="MMRejectCause6">Téléphone non autorisé - MM #6</string>
   <string name="usbint_notification_title">Internet via USB actif</string>
-  <string name="wifi_display_bt_off_wfd_on">Le bluetooth sera désactivé si vous allumez l\'écran sans fil. Voulez-vous continuer ?</string>
+  <string name="wifi_display_bt_off_wfd_on">Le Bluetooth sera désactivé si vous allumez l\'écran sans fil. Voulez-vous continuer ?</string>
   <string name="wifi_display_wfd_off_bt_on">L\'affichage sans fil sera désactivé si vous activez le Bluetooth. Voulez-vous continuer ?</string>
-  <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Vous serez déconnecté du réseau wifi actuel si vous vous connectez à un appareil d\'affichage sans fil. Voulez-vous continuer ?</string>
+  <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Vous serez déconnecté du réseau Wi-Fi actuel si vous vous connectez à un appareil d\'affichage sans fil. Voulez-vous continuer ?</string>
   <string name="day_month_year_wday" formatted="false">%s %s %s, %s</string>
   <string name="day_year_month_wday" formatted="false">%s %s %s, %s</string>
   <string name="VideoView_error_text_invalid_connection">Erreur 403 : accès refusé.</string>
@@ -233,11 +233,10 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="press_color_to_apply">Appuyez sur la couleur pour appliquer</string>
   <string name="permlab_receiveDmRegisterSms">recevoir les SMS DM Register</string>
   <string name="permdesc_receiveDmRegisterSms">Permet à l\'application de recevoir et de traiter les messages SMS DM Register. Aucune application hormis DM APP ne devrait utiliser ceci.</string>
-  
-  <!-- à traduire :
+
+ <!-- à traduire :
   <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
   <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>
   <string name="recip_unsupport_selection">Sorry, you can not move the caret to the start when there are recipients in RecipientsView.</string>
-  -->  
-  
+ -->  
 </resources>

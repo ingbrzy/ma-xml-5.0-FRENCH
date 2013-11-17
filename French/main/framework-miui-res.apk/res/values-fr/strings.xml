@@ -47,7 +47,7 @@
   <string name="experimental_validate_username">ID Xiaomi</string>
   <string name="experimental_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
   <string name="find_device_check_sim">Vérification de la carte SIM…</string>
-  <string name="find_device_sim_change_instructions">"Votre appareil a été verrouillé. Veuillez insérer la carte SIM ou entrer votre mot de passe Xiaomi"</string>
+  <string name="find_device_sim_change_instructions">"Votre appareil a été verrouillé. Veuillez insérer la carte SIM ou saisir votre mot de passe Xiaomi"</string>
   <string name="find_device_sim_change_instructions_no_network">"Votre appareil a été verrouillé, veuillez insérer la carte SIM d'origine"</string>
   <string name="find_device_turn_off_flight_mode">Désactiver le Mode Avion</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Votre appareil a été verrouillé, veuillez désactiver le mode Avion"</string>
@@ -197,7 +197,7 @@ Réessayer dans %d secondes."</string>
   <string name="send_sms_for_sync_notice">Le système enverra un SMS d\'activation, voulez-vous continuer ?</string>
   <string name="send_sms_for_sync_title">Envoyez un SMS pour activer la Synchronisation</string>
   <string name="share">Partager</string>
-  <string name="short_pincode_error_msg">Veuillez entrer de 4 à 8 chiffres</string>
+  <string name="short_pincode_error_msg">Veuillez saisir de 4 à 8 chiffres</string>
   <string name="short_pukcode_error_msg">Veuillez saisir au moins 8 chiffres</string>
   <string name="shutdown_confirm_title">Êtes-vous sur de vouloir éteindre votre téléphone ?</string>
   <string name="sim_account_name">SIM</string>

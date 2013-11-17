@@ -94,7 +94,7 @@
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Créer</string>
   <string name="eq_preset_format">Préréglage utilisateur %d</string>
-  <string name="eq_preset_hint">Veuillez entrer le nom du préréglage</string>
+  <string name="eq_preset_hint">Veuillez saisir le nom du préréglage</string>
   <string name="eq_preset_rename">Renommer</string>
   <string name="eq_preset_select">Choisir un préréglage</string>
   <string name="eq_rb">R &amp; B</string>

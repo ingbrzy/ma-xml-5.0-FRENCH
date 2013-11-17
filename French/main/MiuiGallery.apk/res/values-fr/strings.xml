@@ -106,7 +106,7 @@
   <string name="cloudfolder_already_exists">Le dossier MiCloud existe déjà</string>
   <string name="cloudfolder_cannot_start_with">"Le nom du dossier ne peut pas commencer par '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Le nom du dossier ne peut contenir '%s'"</string>
-  <string name="cloudfolder_name_cannot_empty">Veuillez entrer un nom de dossier.</string>
+  <string name="cloudfolder_name_cannot_empty">Veuillez saisir un nom de dossier.</string>
   <string name="cloudfolder_name_reserved">Le nom du dossier est réservé.</string>
   <string name="comfirm_delete_current_album">Supprimer l\'album actuel ?</string>
   <string name="confirm">OK</string>
@@ -166,7 +166,7 @@
   <string name="email_picker_title">Ajouter un Mail partagé</string>
   <string name="empty_album">Aucune image/vidéo disponible.</string>
   <string name="enable_cloud_for_sharing">Activez l\'album MiCloud pour voir les photos partagées.</string>
-  <string name="enter_email_hint">"Entrer une adresse Mail "</string>
+  <string name="enter_email_hint">"Saisir une adresse Mail "</string>
   <string name="error_album_not_exist">"L'album n'existe pas."</string>
   <string name="error_cloud_not_active">L\'album MiCloud n\'est pas en service</string>
   <string name="error_invalid_link">Le lien est non valide ou a expiré, veuillez demander au propriétaire de l\'album de créer un nouveau lien de partage.</string>

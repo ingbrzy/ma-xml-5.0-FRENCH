@@ -110,7 +110,7 @@ Connectez-le car il fait office d'antenne radio"</string>
     <string name="memory_full">Mémoire saturée</string>
     <string name="cancel_recording">"Annuler l'enregistrement ?"</string>
     <string name="change_frequency">Modifier la fréquence</string>
-    <string name="enter_frequency">Entrer une fréquence</string>
+    <string name="enter_frequency">Saisir une fréquence</string>
     <string name="saved_go_to_myfiles">Enregistré dans %s. Accéder aux Fichiers enregistrés à lire. Lire maintenant ?</string>
     <string name="dont_show_again">Ne plus afficher</string>
     <string name="toast_max_favorite">Nombre maximum de stations favorites (12) atteint. Supprimez certaines stations favorites</string>

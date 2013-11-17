@@ -109,10 +109,10 @@
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Saisissez le mot de passe</string>
-  <string name="input_captcha_hint">Entrer le captcha</string>
-  <string name="input_vcode_hint">Entrer le code de vérification</string>
-  <string name="input_vcode_prompt">Veuillez entrer le code de vérification</string>
-  <string name="int_phone_user_notice">Lors de l\'enregistrement d\'un numéro hors de Chine veuillez entrer votre code de pays, par exemple +33xxxxxxxxx</string>
+  <string name="input_captcha_hint">Saisir le captcha</string>
+  <string name="input_vcode_hint">Saisir le code de vérification</string>
+  <string name="input_vcode_prompt">Veuillez saisir le code de vérification</string>
+  <string name="int_phone_user_notice">Lors de l\'enregistrement d\'un numéro hors de Chine veuillez saisir votre code de pays, par exemple +33xxxxxxxxx</string>
   <string name="internet_comm">Services de messagerie</string>
   <string name="internet_message">Messagerie MiCloud</string>
   <string name="login">Se connecter</string>
@@ -230,7 +230,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="user_agreement_p4">Règles de confidentialité</string>
   <string name="user_agreement_p5">"En vous inscrivant, vous acceptez les"</string>
   <string name="vcode">Code de vérification</string>
-  <string name="vcode_prompt_long">Veuillez entrer le code de vérification généré par Xiaomi</string>
+  <string name="vcode_prompt_long">Veuillez saisir le code de vérification généré par Xiaomi</string>
  <!-- vcode_notification_title à revoir ? original : Your login verification is incomplete -->
   <string name="vcode_notification_title">La vérification de compte n\'est pas complétée.</string>
   <string name="wipe_data_dialog_title">Certains éléments n\'ont pas été synchronisés.</string>

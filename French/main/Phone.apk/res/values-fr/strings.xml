@@ -42,7 +42,7 @@
   <string name="answer_widget_sliding_horizontal_miui">Coulissement horizontal</string>
   <string name="answer_widget_sliding_vertical_miui">Coulissement vertical</string>
   <string name="answer_widget_title_miui">Geste de réponse</string>
-  <string name="antispam_marked_count">Signalé par %1$d utilisateurs MIUI</string>
+  <string name="antispam_marked_count">Marqué par %1$d utilisateurs MIUI</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Numéro inconnu détecté</string>
   <string name="antispam_provider">Identifié par %s</string>
@@ -398,7 +398,7 @@
   <string name="enable_disable_administrative">Administration</string>
   <string name="enable_disable_advertisements">Annonces</string>
   <string name="enable_disable_atr">Infos trafic locales</string>
-  <string name="enable_disable_cell_bc_sms">Message Cell Broadcast</string>
+  <string name="enable_disable_cell_bc_sms">Diffusion cellulaire par SMS</string>
   <string name="enable_disable_emergency_broadcast">Diffusion des services d\'urgence</string>
   <string name="enable_disable_eo">Offres d\'emploi</string>
   <string name="enable_disable_international">Internationales</string>
@@ -428,8 +428,8 @@
   <string name="enable_telocation_title_miui">Utiliser ma localisation</string>
   <string name="enforce_proximity_summary_miui">Empêche les erreurs de manipulation lorsque le téléphone est inactif</string>
   <string name="enforce_proximity_title_miui">Forcer le capteur de proximité</string>
-  <string name="enterName">Entrer le nom :</string>
-  <string name="enterNumber">Entrer le numéro de téléphone :</string>
+  <string name="enterName">Saisir le nom :</string>
+  <string name="enterNumber">Saisir le numéro de téléphone :</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin2_text_miui">PIN2</string>
   <string name="enter_pin_text">Code PIN de la carte SIM :</string>
@@ -541,7 +541,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="label_cdp">Déloquer le PIN de la SIM d\'entreprise</string>
   <string name="label_ndp">Code PIN de déblocage du réseau SIM</string>
   <string name="label_nsdp">Déloquer le PIN de la SIM de sous-réseau</string>
-  <string name="label_puk">Entrer le code PUK</string>
+  <string name="label_puk">Saisir le code PUK</string>
   <string name="label_puk2_code">Saisissez la clé PUK2.</string>
   <string name="label_puk2_code_miui">Saisir le code PUK2</string>
   <string name="label_puk_code_miui">Saisir le code PUK</string>
@@ -733,7 +733,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="phone_in_ecm_call_notification_text">Connexion des données désactivée</string>
   <string name="phone_in_ecm_notification_title">Mode de rappel d\'urgence</string>
   <string name="phone_info_divider">"  |  "</string>
-  <string name="phone_numbers">Entrer les numéros de téléphone</string>
+  <string name="phone_numbers">Saisir les numéros de téléphone</string>
   <string name="pick_outgoing_call_phone_type">Passer un appel</string>
   <string name="pick_outgoing_sip_phone">Utiliser un compte de téléphonie par Internet :</string>
   <string name="pin2_attempts">"Tentatives restantes : "</string>
@@ -770,8 +770,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="preferred_network_mode_cdma_summary">Mode réseau préféré : CDMA</string>
   <string name="preferred_network_mode_dialogtitle">Mode réseau préféré</string>
   <string name="preferred_network_mode_evdo_only_summary">Mode réseau préféré : EvDo uniquement</string>
-  <!-- preferred_network_mode_global_summary string correcte ? a vérifier. -->
-  <string name="preferred_network_mode_global_summary">Mode réseau préféré : CDMA/EvDo/GSM/WCDMA</string>
+  <string name="preferred_network_mode_global_summary">Mode réseau préféré : général</string>
   <string name="preferred_network_mode_gsm_only_summary">Mode réseau préféré : GSM uniquement</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Mode réseau préféré : GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Mode réseau préféré : CDMA/LTE/EVDO</string>
@@ -1106,7 +1105,7 @@ Veuillez contacter votre opérateur si le problème persiste."</string>
   <string name="wild_prompt_str">Remplacer le caractère générique par</string>
   <string name="xdivert_active">Actif</string>
   <string name="xdivert_button">Réglage du X-Divert</string>
-  <string name="xdivert_enternumber_error">Entrer le numéro de téléphone pour les deux abonnements</string>
+  <string name="xdivert_enternumber_error">Saisir le numéro de téléphone pour les deux abonnements</string>
   <string name="xdivert_imsi_not_read">Initialisation de la SIM, veuillez patienter et réessayer</string>
   <string name="xdivert_not_active">Non actif</string>
   <string name="xdivert_not_supported">X-Divert non pris en charge par le CDMA</string>

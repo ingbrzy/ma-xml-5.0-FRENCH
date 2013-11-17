@@ -104,7 +104,7 @@
   <string name="recommend">Recommandés</string>
   <string name="recommend_comment_hint">Raison (facultatif)</string>
   <string name="recommend_vote_title">Sondage de l\'équipe MIUI Beta</string>
-  <string name="refuse_recommend_reason">Veuillez entrer une raison</string>
+  <string name="refuse_recommend_reason">Veuillez saisir une raison</string>
   <string name="sdcard_has_no_space_dialog_body">La carte SD ne dispose pas d\'assez d\'espace libre, plus d\'espace est nécessaire pour cette opération</string>
   <string name="sdcard_has_no_space_dialog_title">La mémoire disponible sur la carte SD est faible</string>
   <string name="sdcard_is_not_present_dialog_body">La carte SD n\'a pas été montée ou est illisible, veuillez réessayer</string>

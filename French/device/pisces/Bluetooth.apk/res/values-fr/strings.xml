@@ -4,7 +4,7 @@
   <string name="airplane_error_msg">"Bluetooth ne peut être utilisé en mode Avion."</string>
   <string name="airplane_error_title">Mode Avion</string>
   <string name="app_name">Partage Bluetooth</string>
-  <string name="auth_notif_message">Entrer la clé de session de %1$s</string>
+  <string name="auth_notif_message">Saisir la clé de session de %1$s</string>
   <string name="auth_notif_ticker">Demande d\'authentification OBEX</string>
   <string name="auth_notif_title">Clé de session</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
@@ -89,13 +89,13 @@
   <string name="pbap_acceptance_timeout_message">Délai d\'acceptation de la connexion à %1$s écoulé</string>
   <string name="pbap_authentication_timeout_message">Délai d\'attente dépassé pour la saisie de la clé de session avec "%1$s"</string>
   <string name="pbap_session_key_dialog_header">Clé de session Bluetooth requise</string>
-  <string name="pbap_session_key_dialog_title">Entrer la clé de session de %1$s</string>
-  <string name="permdesc_bluetoothMap">Autorise l\'application d\'accéder au profil du fournisseur de contenu de message d\'accès bluetooth et de l\'utiliser pour envoyer des messages à MAP messages aux clients.</string>
+  <string name="pbap_session_key_dialog_title">Saisir la clé de session de %1$s</string>
+  <string name="permdesc_bluetoothMap">Autorise l\'application d\'accéder au profil du fournisseur de contenu de message d\'accès Bluetooth et de l\'utiliser pour envoyer des messages à MAP messages aux clients.</string>
   <string name="permdesc_bluetoothShareManager">Permet à l\'application d\'accéder au gestionnaire BluetoothShare et de l\'utiliser pour le transfert de fichiers.</string>
   <string name="permdesc_bluetoothWhitelist">Permet à l\'application d\'ajouter temporairement un appareil Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l\'utilisateur ne soit nécessaire.</string>
   <string name="permdesc_fm_receiver">Autorise l\'application d\'accéder aux fonctions du récepteur FM.</string>
   <string name="permdesc_handoverStatus">Permet la réception d\'informations concernant l\'état du transfert via Bluetooth.</string>
-  <string name="permlab_bluetoothMap">Accéder au profil du fournisseur de contenu de message d\'accès bluetooth.</string>
+  <string name="permlab_bluetoothMap">Accéder au profil du fournisseur de contenu de message d\'accès Bluetooth.</string>
   <string name="permlab_bluetoothShareManager">Accéder au gestionnaire de téléchargement</string>
   <string name="permlab_bluetoothWhitelist">Ajouter des appareils Bluetooth à la liste blanche.</string>
   <string name="permlab_fm_receiver">Accéder au récepteur FM</string>
@@ -132,7 +132,7 @@
   <string name="status_running">Le transfert de fichier est en cours.</string>
   <string name="status_success">Le transfert de fichiers s\'est déroulé correctement.</string>
   <string name="status_unknown_error">Erreur inconnue.</string>
-  <string name="title_bt_mse_settings">Paramètres de MAP bluetooth avancée</string>
+  <string name="title_bt_mse_settings">Paramètres de MAP Bluetooth avancée</string>
   <string name="transfer_clear_dlg_msg">Tous les éléments de la liste seront effacés.</string>
   <string name="transfer_clear_dlg_title">Effacer</string>
   <string name="transfer_menu_clear">Effacer de la liste</string>

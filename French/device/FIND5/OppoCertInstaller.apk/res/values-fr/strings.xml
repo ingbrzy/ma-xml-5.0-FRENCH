@@ -39,14 +39,14 @@
     <string name="wifi_wapi_cert_delet_subdir">Sélectionne plusieurs certificats</string>
     <string name="wifi_wapi_as_cert">Certificat AS</string>
     <string name="wifi_wapi_user_cert">Certificat utilisateur</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Veuillez entrer le nom du répertoire que vous voulez créer</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Veuillez saisir le nom du répertoire que vous voulez créer</string>
     <string name="wifi_wapi_cert_mgmt_subdir_exist">Veuillez choisir un autre nom pour le répertoire, celui-ci existe déjà</string>
     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Erreur lors de la création du répertoire !</string>
-    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Veuillez entrer le nom de certificat AS</string>
+    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Veuillez saisir le nom de certificat AS</string>
     <string name="wifi_wapi_cert_mgmt_as_dont_exist">"La Carte SD n'as pas de certificat AS, veuillez vérifier !"</string>
     <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">"Le format du certificat AS est incorrect ! Veuillez en installer un correct"</string>
     <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">"Le format du certificat d'utilisateur est incorrect ! Veuillez en installer un correct"</string>
-    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">"Veuillez entrer le nom de certificat d'utilisateur"</string>
-    <string name="wifi_wapi_cert_mgmt_user_dont_exist">"Veuillez entrer le nom de certificat d'utilisateur"</string>
+    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">"Veuillez saisir le nom de certificat d'utilisateur"</string>
+    <string name="wifi_wapi_cert_mgmt_user_dont_exist">"Veuillez saisir le nom de certificat d'utilisateur"</string>
     <string name="error_title" />
 </resources>

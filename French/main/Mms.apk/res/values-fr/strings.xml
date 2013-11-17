@@ -173,7 +173,7 @@
   <string name="menu_edit">Modifier</string>
   <string name="menu_forward">Transférer</string>
   <string name="menu_lock">Verrouiller</string>
-  <string name="menu_new_manual">Entrer le numéro manuellement</string>
+  <string name="menu_new_manual">Saisir le numéro manuellement</string>
   <string name="menu_pick_from_contact">Sélectionner à partir des contacts</string>
   <string name="menu_preferences">Paramètres</string>
   <string name="menu_unlock">Déverrouiller</string>
@@ -237,7 +237,7 @@
   <string name="new_message">Nouveau message</string>
   <string name="new_message_arrived">Nouveau message</string>
   <string name="new_phrase">Nouveau message rapide</string>
-  <string name="new_phrase_hint">Entrer les phrases couramment utilisées</string>
+  <string name="new_phrase_hint">Saisir les phrases couramment utilisées</string>
   <string name="nickname_placeholder">Surnom</string>
   <string name="no">Annuler</string>
   <string name="no_block_button_msg">"Ne pas bloquer les messages de ce numéro"</string>

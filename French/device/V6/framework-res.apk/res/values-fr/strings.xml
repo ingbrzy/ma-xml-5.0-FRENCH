@@ -709,7 +709,7 @@
   <string name="keyguard_password_enter_puk_prompt">Code PUK</string>
   <string name="keyguard_password_enter_pin_prompt">Nouveau code PIN</string>
   <string name="keyguard_password_entry_touch_hint"><font size="17">"Appuyez pour saisir mot passe"</font></string>
-  <string name="keyguard_password_enter_password_code">Entrer le mot de passe de déverrouillage</string>
+  <string name="keyguard_password_enter_password_code">Saisir le mot de passe de déverrouillage</string>
   <string name="keyguard_password_enter_pin_password_code">Saisissez le code PIN pour déverrouiller le clavier.</string>
   <string name="keyguard_password_wrong_pin_code">Code PIN incorrect</string>
   <string name="keyguard_label_text">Pour débloquer le clavier, appuyez sur "Menu" puis sur 0.</string>

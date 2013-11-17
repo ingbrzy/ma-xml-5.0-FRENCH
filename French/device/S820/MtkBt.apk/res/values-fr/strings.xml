@@ -26,7 +26,7 @@
   <string name="bt_opps_push_toast_invalid_request">Demande de partage non valide de l\'appareil distant.</string>
   <string name="permlab_bluetoothWhitelist">Ajouter des appareils Bluetooth à la liste blanche.</string>
   <string name="permdesc_bluetoothWhitelist">Permet à l\'application d\'ajouter temporairement un appareil Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l\'utilisateur ne soit nécessaire.</string>
-  <string name="permlab_handoverStatus">Recevoir des messages concernant les transferts Bluetoot</string>
+  <string name="permlab_handoverStatus">Recevoir des messages concernant les transferts Bluetooth</string>
   <string name="permdesc_handoverStatus">Permet la réception d\'informations concernant l\'état du transfert via Bluetooth.</string>
   <string name="bluetooth_pan_GN_authorize_confirm_title">Accepter la requête d\'autorisation réseau groupe Ad-hoc</string>
   <string name="bluetooth_pan_NAP_authorize_confirm_title">Accepter la requête d\'autorisation points d\'accès réseau</string>
@@ -51,14 +51,14 @@
   <string name="bluetooth_pan_NAP_connected_notify_title">Points d\'accès réseau Bluetooth connecté</string>
   <string name="bluetooth_pan_NAP_connected_notify_message">Choisissez de déconnecter les points d\'accès réseau de %1$s</string>
   <string name="bluetooth_pan_GN_connect_ok">Connexion du réseau groupe Ad-hoc avec %1$s réussie !</string>
-  <string name="bluetooth_pan_GN_connect_fail">Echec de la connexion du réseau groupe Ad-hoc avec %1$s !</string>
+  <string name="bluetooth_pan_GN_connect_fail">Échec de la connexion du réseau groupe Ad-hoc avec %1$s !</string>
   <string name="bluetooth_pan_NAP_connect_ok">Connexion des points d\'accès réseau avec %1$s réussie !</string>
-  <string name="bluetooth_pan_NAP_connect_fail">Echec de la connexion des points d\'accès réseau avec %1$s !</string>
+  <string name="bluetooth_pan_NAP_connect_fail">Échec de la connexion des points d\'accès réseau avec %1$s !</string>
   <string name="bluetooth_pan_NAP_unavailable">Service points d\'accès réseau de %1$s indisponible</string>
   <string name="bluetooth_pan_GN_disconnect_ok">Déconnexion du réseau groupe Ad-hoc de %1$s réussie !</string>
-  <string name="bluetooth_pan_GN_disconnect_fail">Echec de la déconnexion du réseau groupe Ad-hoc de %1$s !</string>
+  <string name="bluetooth_pan_GN_disconnect_fail">Échec de la déconnexion du réseau groupe Ad-hoc de %1$s !</string>
   <string name="bluetooth_pan_NAP_disconnect_ok">Déconnexion des points d\'accès réseau de %1$s réussie !</string>
-  <string name="bluetooth_pan_NAP_disconnect_fail">Echec de la déconnexion des points d\'accès réseau de %1$s !</string>
+  <string name="bluetooth_pan_NAP_disconnect_fail">Échec de la déconnexion des points d\'accès réseau de %1$s !</string>
   <string name="bluetooth_pan_GN_disconnect_ind">Réseau groupe Ad-hoc de %1$s déconnecté !</string>
   <string name="bluetooth_pan_NAP_disconnect_ind">Points d\'accès réseau de %1$s déconnectés !</string>
   <string name="bluetooth_pan_server_settings">Sélection du service PAN Bluetooth</string>

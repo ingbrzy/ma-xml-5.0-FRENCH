@@ -77,12 +77,12 @@
     <string name="bluetooth_pan_NAP_connected_notify_title">"Points d'accès réseau Bluetooth connecté"</string>
     <string name="bluetooth_pan_NAP_connected_notify_message">"Choisissez de déconnecter les points d'accès réseau de %1$s"</string>
     <string name="bluetooth_pan_GN_connect_ok">Connexion du réseau groupe Ad-hoc avec %1$s réussie !</string>
-    <string name="bluetooth_pan_GN_connect_fail">Echec de la connexion du réseau groupe Ad-hoc avec %1$s !</string>
+    <string name="bluetooth_pan_GN_connect_fail">Échec de la connexion du réseau groupe Ad-hoc avec %1$s !</string>
     <string name="bluetooth_pan_NAP_connect_ok">"Connexion des points d'accès réseau avec %1$s réussie !"</string>
     <string name="bluetooth_pan_NAP_connect_fail">"Échec de la connexion des points d'accès réseau avec %1$s !"</string>
     <string name="bluetooth_pan_NAP_unavailable">"Service points d'accès réseau de %1$s indisponible"</string>
     <string name="bluetooth_pan_GN_disconnect_ok">Déconnexion du réseau groupe Ad-hoc de %1$s réussie !</string>
-    <string name="bluetooth_pan_GN_disconnect_fail">Echec de la déconnexion du réseau groupe Ad-hoc de %1$s !</string>
+    <string name="bluetooth_pan_GN_disconnect_fail">Échec de la déconnexion du réseau groupe Ad-hoc de %1$s !</string>
     <string name="bluetooth_pan_NAP_disconnect_ok">"Déconnexion des points d'accès réseau de %1$s réussie !"</string>
     <string name="bluetooth_pan_NAP_disconnect_fail">"Échec de la déconnexion des points d'accès réseau de %1$s !"</string>
     <string name="bluetooth_pan_GN_disconnect_ind">Réseau groupe Ad-hoc de %1$s déconnecté !</string>
@@ -92,7 +92,7 @@
     <string name="bluetooth_pan_nap_enable_summary">"Sélectionnez l'activation ou la désactivation du service NAP"</string>
     <string name="bluetooth_pan_gn_enable_title">Réseau groupe Ad-hoc</string>
     <string name="bluetooth_pan_gn_enable_summary">"Sélectionnez l'activation ou la désactivation du service GN"</string>
-    <string name="bluetooth_pbap_server">Accès répertoiore Bluetooth</string>
+    <string name="bluetooth_pbap_server">Accès répertoire Bluetooth</string>
     <string name="bluetooth_pbap_server_authorize_notify_ticker">"PBAP Bluetooth en cours d'autorisation de la demande"</string>
     <string name="bluetooth_pbap_server_auth_chall_notify_ticker">"PBAP Bluetooth en cours d'authentification de la demande"</string>
     <string name="bluetooth_pbap_server_authorize_notify_message">Sélectionnez cette option pour permettre la connexion PBAP</string>
@@ -106,7 +106,7 @@
     <string name="bluetooth_pbap_server_auth_chall_notify_title">"PBAP Bluetooth en cours d'authentification de la demande"</string>
     <string name="bluetooth_pbap_server_auth_chall_message">"PBAP en cours d'authentification de %1$s"</string>
     <string name="bluetooth_pbap_server_authorize_decline">Refuser</string>
-    <string name="bluetooth_pbap_server_authorize_alwaysallowed">Toulours autorisé ?</string>
+    <string name="bluetooth_pbap_server_authorize_alwaysallowed">Toujours autorisé ?</string>
     <string name="app_label">Bluetooth</string>
     <string name="app_description">Package profil Bluetooth</string>
     <string name="bt_base_activity_busy_message">Chargement en cours. Veuillez patienter…</string>
@@ -156,14 +156,14 @@ Poursuive l’envoi ?"</string>
     <string name="bluetooth_ftp_client_activated_notify_ticker">Le client FTP via Bluetooth est activé</string>
     <string name="bluetooth_ftp_client_activated_notify_title">%s est connecté via FTP</string>
     <string name="bluetooth_ftp_client_activated_notify_message">Cliquer pour afficher le client FTP via Bluetooth</string>
-    <string name="bluetooth_ftp_client_connection_failed">Echec de la connexion.</string>
+    <string name="bluetooth_ftp_client_connection_failed">Échec de la connexion.</string>
     <string name="bluetooth_ftp_client_disconnected">Connexion FTP perdue</string>
     <string name="bluetooth_ftp_client_transferring">Transfert en cours</string>
     <string name="bluetooth_ftp_client_sending">Envoi du fichier : %s</string>
     <string name="bluetooth_ftp_client_getting">Obtention du fichier : %s</string>
     <string name="bluetooth_ftp_client_transfer_finished">Transfert terminé</string>
     <string name="bluetooth_ftp_client_transfer_unfinished">Transfert non terminé</string>
-    <string name="bluetooth_ftp_client_browse_failed">Echec de la navigation du ou des fichiers</string>
+    <string name="bluetooth_ftp_client_browse_failed">Échec de la navigation du ou des fichiers</string>
     <string name="bluetooth_ftp_client_set_path_failed_title">Échec de modification de chemin</string>
     <string name="bluetooth_ftp_client_set_path_failed_message">Pour modifier le chemin en %s</string>
     <string name="bluetooth_ftp_client_root_folder">Dossier racine</string>
@@ -227,7 +227,7 @@ Poursuive l’envoi ?"</string>
     <string name="bluetooth_map_server_connect_notify_title">%1$s accède à vos messages</string>
     <string name="bluetooth_map_server_connect_notify_message">Sélectionner la déconnexion de %1$s</string>
     <string name="bluetooth_map_server_disconnect_title">"Déconnecter l'accès à distance aux messages"</string>
-    <string name="bluetooth_map_server_disconnect_message">Déconnecter %1$s?</string>
+    <string name="bluetooth_map_server_disconnect_message">Déconnecter %1$s ?</string>
     <string name="bluetooth_map_server_yes">Oui</string>
     <string name="bluetooth_map_server_no">Non</string>
     <string name="bluetooth_map_server_settings">"Réglages d'accès à distance aux messages"</string>
@@ -250,7 +250,7 @@ Poursuive l’envoi ?"</string>
     <string name="simap_connected_notify_title">%1$s est connecté à votre carte SIM</string>
     <string name="simap_connected_notify_message">Choisir pour déconnecter</string>
     <string name="simap_disconnect_title">Se déconnecter de la SIM distante</string>
-<string name="simap_disconnect_message">Se déconnecter de %1$s ?</string>
+    <string name="simap_disconnect_message">Se déconnecter de %1$s ?</string>
     <string name="simap_disconnect_yes">Oui</string>
     <string name="simap_disconnect_no">Non</string>
     <string name="bluetooth_simap_server_settings">Réglages SIM distant</string>
@@ -260,7 +260,6 @@ Poursuive l’envoi ?"</string>
     <string name="bluetooth_simap_server_sim_index_summary_sim1">SIM1</string>
     <string name="bluetooth_simap_server_sim_index_summary_sim2">SIM2</string>
     <string name="permdesc_bluetoothWhitelist">Permet à l\'application d\'ajouter temporairement un appareil Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l\'utilisateur ne soit nécessaire.</string>
-    <string name="permlab_handoverStatus">Recevoir des messages concernant les transferts Bluetoot</string>
+    <string name="permlab_handoverStatus">Recevoir des messages concernant les transferts Bluetooth</string>
     <string name="permdesc_handoverStatus">Permet la réception d\'informations concernant l\'état du transfert via Bluetooth.</string>
-  
 </resources>
