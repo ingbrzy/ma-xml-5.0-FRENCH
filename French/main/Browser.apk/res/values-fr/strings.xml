@@ -333,7 +333,7 @@
   <string name="pref_accessibility_title">Accessibilité</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Lors de la saisie dans la barre d\'adresse, les combinaisons de lettres ordinaires peuvent être saisies en seule touche</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Saisie rapide d\'URL</string>
-  <string name="pref_allow_apptabs">Autoriser plusieurs onglets par app</string>
+  <string name="pref_allow_apptabs">Autoriser plusieurs onglets par appli</string>
   <string name="pref_autofill_enabled">Saisie auto du formulaire</string>
   <string name="pref_autofill_enabled_summary">Remplir les formulaires Web en un seul geste</string>
   <string name="pref_autofill_profile_editor">Texte de saisie automatique</string>
@@ -585,7 +585,7 @@
   <string name="tab_bookmarks">Favoris</string>
   <string name="tab_closed">Onglet fermé.</string>
   <string name="tab_history">Historique</string>
-  <string name="tab_most_visited">Les plus visités</string>
+  <string name="tab_most_visited">Les + visités</string>
   <string name="tab_opened_background">Onglet ouvert en arrière-plan.</string>
   <string name="tab_opened_background_in_incognito">Nouvel onglet privé ouvert</string>
   <string name="tab_quicklinks">Liens rapides</string>

@@ -250,7 +250,7 @@
     <string name="access_sd_fail">"Impossible d'accéder à la mémoire de stockage."</string>
     <string name="review_cancel">ANNULER</string>
     <string name="review_ok">OK</string>
-    <string name="time_lapse_title">Enregistrement mode time lapse</string>
+    <string name="time_lapse_title">Enregistrement mode Intervalle temps</string>
     <string name="pref_camera_id_title">Sélectionner caméra</string>
     <string name="pref_camera_id_entry_back">Arrière</string>
     <string name="pref_camera_id_entry_front">Avant</string>
@@ -260,7 +260,7 @@
     <string name="pref_video_quality_title">Qualité vidéo</string>
     <string name="pref_video_quality_entry_high">Élevée</string>
     <string name="pref_video_quality_entry_low">Faible</string>
-    <string name="pref_video_time_lapse_frame_interval_title">Laps de temps</string>
+    <string name="pref_video_time_lapse_frame_interval_title">"Intervalle de temps"</string>
     <string name="pref_camera_settings_category">Paramètres appareil photo</string>
     <string name="pref_camcorder_settings_category">Mode Caméra</string>
     <string name="pref_camera_picturesize_title">"Taille d'image"</string>

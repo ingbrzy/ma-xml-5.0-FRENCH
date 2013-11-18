@@ -345,7 +345,7 @@
   <string name="wait">Veuillez patienter…</string>
   <string name="white_balance">Balance des blancs</string>
   <string name="width">Largeur</string>
-  <string name="pref_video_time_lapse_frame_interval_title">Laps de temps</string>
+  <string name="pref_video_time_lapse_frame_interval_title">"Intervalle de temps"</string>
   <string name="cannot_connect_camera">Impossible d\'établir une connexion avec l\'appareil photo.</string>
   <string name="open">Enregistrer</string>
   <string name="skip">Ne pas enregistrer</string>

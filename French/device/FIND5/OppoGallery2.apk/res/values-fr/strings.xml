@@ -413,7 +413,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="pref_camera_sound_title">Son de l\'appareil photo</string>
   <string name="pref_camera_time_lapse_entry_off">Désactivé</string>
   <string name="pref_camera_time_lapse_entry_on">Activé</string>
-  <string name="pref_camera_time_lapse_title">Laps de temps</string>
+  <string name="pref_camera_time_lapse_title">Intervalle de temps</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>
   <string name="pref_camera_touchafaec_title">Mise au point tactile</string>
@@ -457,7 +457,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="pref_video_time_lapse_frame_interval_entry_2500">2.5s</string>
   <string name="pref_video_time_lapse_frame_interval_entry_3000">3s</string>
   <string name="pref_video_time_lapse_frame_interval_entry_5000">5s</string>
-  <string name="pref_video_time_lapse_frame_interval_title">Laps de temps</string>
+  <string name="pref_video_time_lapse_frame_interval_title">Intervalle de temps</string>
   <string name="preparing_sd">Préparation du stockage…</string>
   <string name="process_caching_requests">Demandes de mise en cache en cours de traitement</string>
   <string name="redeye">Yeux rouges</string>
@@ -542,7 +542,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="temperature">Chaud</string>
   <string name="time">Heure</string>
   <string name="time_lapse_error">Taille de vidéo non valide pour l\'enregistrement accéléré.</string>
-  <string name="time_lapse_title">Enregistrement mode time lapse</string>
+  <string name="time_lapse_title">Enregistrement mode Intervalle temps</string>
   <string name="times">Heures</string>
   <string name="tint">Coloration</string>
   <string name="title">Titre</string>

@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <!-- à traduire : 
     <string name="app_name">Ascend Tools</string>
     <string name="market_name">My APP</string>
     <string name="preferences_application_title">Application</string>
     <string name="application_version">Huawei Ascend Tools 3.1</string>
     <string name="application_copyright">"Copyright © genokolar@gmail.com 2012 
 http://weibo.com/geno"</string>
-    <string name="zuozhe">Made by genokolar@gmail.com</string>
+    <string name="zuozhe">Conçu par genokolar@gmail.com</string>
+   <!-- à traduire : 
     <string name="power_title">power</string>
-    <string name="reboot">Reboot</string>
+   -->
+    <string name="reboot">Redémarrer</string>
     <string name="recovery">Recovery</string>
-    <string name="shutdown">Shutdown</string>
-    <string name="fastboot">Fastboot</string>
-    <string name="reboot_summary">Reboot your phone</string>
-    <string name="recovery_summary">Enter recovery mode</string>
-    <string name="shutdown_summary">Fast turn off the phone</string>
-    <string name="fastboot_summary">Enter fastboot mode</string>
-    <string name="toast_error">Can not be executed</string>
+    <string name="shutdown">Éteindre</string>
+    <string name="fastboot">Démma. rapide</string>
+    <string name="reboot_summary">Redémarre le téléphone</string>
+    <string name="recovery_summary">Redémarre en mode recovery</string>
+    <string name="shutdown_summary">Éteint rapidement le téléphone</string>
+    <string name="fastboot_summary">Redémarre en mode fastboot</string>
+    <string name="toast_error">Ne peut être exécutée</string>
+   <!-- à traduire : 
     <string name="do_message">Doing</string>
-    <string name="ota_notfound_message">Not found update.zip</string>
-    <string name="recovery_notfound_message">Not found recovery.img</string>
-    <string name="boot_notfound_message">Not found boot.img</string>
-    <string name="ota_message">Wait a moment, running...</string>
+   -->
+    <string name="ota_notfound_message">update.zip introuvable</string>
+    <string name="recovery_notfound_message">recovery.img introuvable</string>
+    <string name="boot_notfound_message">boot.img introuvable</string>
+    <string name="ota_message">Veuillez patienter...</string>
+   <!-- à traduire : 
     <string name="recovery_message">"Flash recovery
 But you need verify it youself"</string>
     <string name="boot_message">"Flash boot
@@ -139,5 +143,5 @@ restore？"</string>
     <string name="googlefw_summary">Lite Google framework</string>
     <string name="camera_focus_sound">Camera Focus Sound</string>
     <string name="camera_focus_sound_summary">Enable/Disable Camera Focus Sound</string>
- -->
+   -->
 </resources>

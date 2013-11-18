@@ -144,7 +144,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="apn_type">Type d\'APN</string>
   <string name="apn_user">Nom d\'utilisateur</string>
   <string name="app_disable_dlg_text">Si vous désactivez une application intégrée, cela peut provoquer des dysfonctionnements d\'autres applications.</string>
-  <string name="app_disable_dlg_title">Désactiver l\'app intégrée ?</string>
+  <string name="app_disable_dlg_title">Désactiver l\'appli intégrée ?</string>
   <string name="app_disable_notifications_dlg_text">Si vous désactivez les notifications de cette application, vous risquez de manquer des alertes et des mises à jour importantes.</string>
   <string name="app_disable_notifications_dlg_title">Désactiver les notifications ?</string>
   <string name="app_factory_reset">Désinstaller les mises à jour</string>
@@ -1300,7 +1300,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="no_device_admins">Aucun administrateur disponible.</string>
   <string name="no_media_button_receiver">Non</string>
   <string name="no_nearby_wifi">Aucun réseau Wi-Fi proche détecté</string>
-  <string name="no_running_services">Pas de services en cours</string>
+  <string name="no_running_services">Aucun service en cours</string>
   <string name="no_services">Inactif</string>
   <string name="noise_suppression">Suppression du bruit</string>
   <string name="normal_date_format">Format régional (%s)</string>
@@ -1559,14 +1559,14 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="proxy_error_invalid_exclusion_list">"Le format de la liste d'exclusion spécifiée n'est pas correct. Séparez les noms de domaine à exclure par une virgule."</string>
   <string name="proxy_error_invalid_host">"Le nom d'hôte saisi n'est pas valide."</string>
   <string name="proxy_error_invalid_port">"Le port indiqué n'est pas valide."</string>
-  <string name="proxy_exclusionlist_hint">ex : sodu76.liamsi.yakou.com</string>
+  <string name="proxy_exclusionlist_hint">"example.com,mycomp.test.com,localhost"</string>
   <string name="proxy_exclusionlist_label">Ignorer le proxy pour</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Nom d\'hôte du proxy</string>
   <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Port du proxy</string>
   <string name="proxy_settings_label">Paramètres proxy</string>
-  <string name="proxy_settings_title">Paramètres proxy</string>
+  <string name="proxy_settings_title">Proxy</string>
   <string name="proxy_warning_limited_support">Le proxy HTTP est utilisé par le navigateur, mais ne peut pas l\'être par les autres applications.</string>
   <string name="quick_launch_assign_application">Attribuer l\'application</string>
   <string name="quick_launch_clear_cancel_button">Annuler</string>
@@ -1675,7 +1675,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
 
 Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="rssi_label">RSSI :</string>
-  <string name="running_process_item_removed_user_label">Utilisateur retiré</string>
+  <string name="running_process_item_removed_user_label">Utilisateur supprimé</string>
   <string name="running_process_item_user_label">Utilisateur : %1$s</string>
   <string name="running_processes_item_description_p_p">%1$d processus et %2$d services</string>
   <string name="running_processes_item_description_p_s">%1$d processus et %2$d service</string>
@@ -1966,7 +1966,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="summary_font_size">%1$s</string>
   <string name="supplicant_state_label">État suppliant :</string>
   <string name="sync_active">Synchronisation activée</string>
-  <string name="sync_automatically">Synchro auto des données des apps</string>
+  <string name="sync_automatically">Synchro auto</string>
   <string name="sync_calendar">Agenda</string>
   <string name="sync_contacts">Contacts</string>
   <string name="sync_disabled">Synchronisation désactivée</string>
@@ -2270,7 +2270,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="volume_alarm_mute">Couper le son des alarmes</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Volume</string>
-  <string name="volume_media_description">Musique, vidéo, jeux et autres médias</string>
+  <string name="volume_media_description">Musique, vidéo, jeux et autres fichiers multimédias</string>
   <string name="volume_media_mute">Couper le son de la musique et des autres médias</string>
   <string name="volume_notification_description">Notifications</string>
   <string name="volume_notification_mute">Couper le son des notifications</string>
@@ -2373,7 +2373,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_display_paired_devices">Affichages associés</string>
   <string name="wifi_display_search_for_devices">Rechercher affichages</string>
   <string name="wifi_display_searching_for_devices">Recherche en cours…</string>
-  <string name="wifi_display_settings_empty_list_wifi_display_disabled">L\'affichage sans fil est désactivé, car la connexion Wi-Fi est inactive.</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">L\'affichage sans fil est désactivé, car le Wi-Fi n\'est pas activé.</string>
   <string name="wifi_display_settings_empty_list_wifi_display_off">Pour voir les appareils, activez l\'affichage sans fil.</string>
   <string name="wifi_display_settings_title">Affichage sans fil</string>
   <string name="wifi_display_status_available">Disponible</string>
@@ -2468,7 +2468,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_quick_toggle_summary">Activer le Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Enregistré.</string>
-  <string name="wifi_required_info_text">Pour terminer la configuration de votre tablette, vous devez disposer d\'un accès Wi-Fi. Une fois la configuration effectuée, vous pouvez choisir d\'utiliser un forfait de données pour mobile ou un réseau Wi-Fi.</string>
+  <string name="wifi_required_info_text">Pour terminer la configuration de votre tablette, vous devez disposer d\'un accès Wi-Fi. Une fois la configuration effectuée, vous pouvez choisir d\'utiliser un réseau de données mobile ou le Wi-Fi.</string>
   <string name="wifi_save">Enregistrer</string>
   <string name="wifi_secured_first_item">Sécurisé par %1$s.</string>
   <string name="wifi_secured_second_item">, sécurisé par %1$s.</string>

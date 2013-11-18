@@ -394,7 +394,7 @@
   <string name="wifi_security">Sécurité :</string>
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
-  <string name="pref_video_time_lapse_frame_interval_title">Laps de temps</string>
+  <string name="pref_video_time_lapse_frame_interval_title">"Intervalle de temps"</string>
   <string name="pref_scan_qrcode_title">Scanner code QR</string>
   <string name="pref_scan_qrcode_entry_off">Désactivé</string>
   <string name="pref_scan_qrcode_entry_on">Activé</string>

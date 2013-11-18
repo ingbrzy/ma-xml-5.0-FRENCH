@@ -29,7 +29,7 @@
   <string name="add_xiaomi_account_dialog_btn">Utiliser un compte Xiaomi</string>
   <string name="add_xiaomi_account_dialog_msg">Pour une meilleure expérience pensez à utiliser votre compte Xiaomi pour synchroniser et récupérer vos contacts, et pour les gérer à partir de votre ordinateur.</string>
   <string name="add_xiaomi_account_dialog_title">Choisir le compte de synchronisation</string>
-  <string name="aggregation_suggestion_edit_dialog_message">Basculer vers l\'édition du contact sélectionné ? Les informations que vous avez entrées jusqu\'à présent seront copiées.</string>
+  <string name="aggregation_suggestion_edit_dialog_message">"Modifier le contact sélectionné ? Les informations saisies jusqu\'ici seront copiées."</string>
   <string name="aggregation_suggestion_edit_dialog_title">Éditer les contacts sélectionnés</string>
   <string name="aggregation_suggestion_join_dialog_message">Associer ce contact au contact sélectionné ?</string>
   <string name="all_list_empty">Aucun contact</string>
@@ -143,7 +143,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="clearFrequentsConfirmation">"Cette opération efface la liste des personnes que vous contactez le plus souvent dans les applications Contacts et Téléphone, et oblige vos applications de messagerie électronique à apprendre à nouveau les adresses que vous utilisez le plus souvent."</string>
   <string name="clearFrequentsConfirmation_title">Effacer les contacts fréquents ?</string>
   <string name="clearFrequentsProgress_title">Suppression des contacts fréquents</string>
-  <string name="clear_default">Effacer par défaut</string>
+  <string name="clear_default">Effacer les valeurs par défaut</string>
   <string name="clear_digits">effacer le numéro de téléphone</string>
   <string name="click_close">Appuyez pour fermer</string>
   <string name="close_dial_pad">fermer le pavé de numérotation</string>
@@ -539,7 +539,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="menu_select_none">Tout désélectionner</string>
   <string name="menu_sendSMS">Envoyer un SMS au contact</string>
   <string name="menu_sendTextMessage">Envoyer un SMS</string>
-  <string name="menu_set_ring_tone">Sonnerie appelant enregistrée</string>
+  <string name="menu_set_ring_tone">Définir sonnerie</string>
   <string name="menu_settings">Paramètres</string>
   <string name="menu_share">Partager</string>
   <string name="menu_show_all_calls">Afficher tous les appels</string>
@@ -572,7 +572,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="nickname_editor_title">Modifier le Pseudo</string>
   <string name="nickname_picker_name_column">Nom du contact</string>
   <string name="nickname_picker_nickname_column">Titre</string>
-  <string name="noAccounts">Vous avez besoin d\'un compte pour créer des groupes</string>
+  <string name="noAccounts">Vous devez posséder un compte pour créer des groupes.</string>
   <string name="noContactHelpTextAccountsInfo">Synchroniser les contacts Xiaomi, Google et Exchange.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données sauvegardées dans le compte Xiaomi et MiTalk</string>
   <string name="noContacts">Aucun contact</string>
@@ -1023,7 +1023,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="t9_search_guide">Entrez le numéro ou recherchez des contacts avec l\'index T9.</string>
   <string name="take_new_photo">Prendre une autre photo</string>
   <string name="take_photo">Prendre une photo</string>
-  <string name="titleJoinContactDataWith">Rejoindre le contact</string>
+  <string name="titleJoinContactDataWith">Joindre les contacts</string>
   <string name="title_other_devices">Autres périphériques disponibles</string>
   <string name="title_paired_devices">Périphériques appareillé</string>
   <string name="toast_call_detail_error">Impossible de consulter les détails de l\'appel demandé.</string>
