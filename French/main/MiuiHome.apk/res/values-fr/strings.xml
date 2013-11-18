@@ -97,10 +97,10 @@
   <string name="menu_wallpaper">Fond d\'écran</string>
   <string name="menu_workspace_preview">Vue d\'ensemble</string>
   <string name="out_of_space">Espace saturé sur cette page</string>
-  <string name="permdesc_install_shortcut">Permet à l\'application d\'ajouter des raccourcis sans l'intervention de l\'utilisateur.</string>
+  <string name="permdesc_install_shortcut">Permet à l\'application d\'ajouter des raccourcis sans l\'intervention de l\'utilisateur.</string>
   <string name="permdesc_install_widget">Permet à l\'application d\'ajouter des widgets sans votre intervention.</string>
-  <string name="permdesc_read_settings">Permet à l\'application de lire les paramètres et raccourcis de la page d'accueil.</string>
-  <string name="permdesc_uninstall_shortcut">Permet à l\'application de supprimer les raccourcis sans l'intervention de l\'utilisateur.</string>
+  <string name="permdesc_read_settings">Permet à l\'application de lire les paramètres et raccourcis de la page d\'accueil.</string>
+  <string name="permdesc_uninstall_shortcut">Permet à l\'application de supprimer les raccourcis sans l\'intervention de l\'utilisateur.</string>
   <string name="permdesc_write_settings">Permet à l\'application de modifier les paramètres et les raccourcis de la page d\'accueil.</string>
   <string name="permlab_install_shortcut">Installer des raccourcis</string>
   <string name="permlab_install_widget">Installer des widgets</string>
