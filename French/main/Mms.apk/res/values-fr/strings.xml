@@ -369,7 +369,7 @@
   <string name="send_signature_confirm_dialog_message">Vous n\'avez pas écrit de contenu, voulez-vous l\'envoyer ?</string>
   <string name="send_signature_confirm_dialog_title">Confirmer l\'envoi</string>
   <string name="send_sms">Envoyer un message</string>
-  <string name="send_to">À : </string>
+  <string name="send_to">À :</string>
   <string name="send_to_count">%1$s message(s) envoyé(s)</string>
   <string name="send_to_index_contact">Envoi de %1$s sur %2$s…</string>
   <string name="sent_label">"Date d'envoi : "</string>

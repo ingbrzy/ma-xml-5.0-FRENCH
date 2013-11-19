@@ -39,7 +39,7 @@
   <string name="lable_polling_off">Interrogation éteinte</string>
   <string name="lable_provide_local_information">Fournir des informations locales</string>
   <string name="lable_timer_management">Gestion minuterie</string>
-  <string name="lable_perform_card_apdu">Effectuer APDU carte </string>
+  <string name="lable_perform_card_apdu">Effectuer APDU carte</string>
   <string name="lable_power_on_card">Allumer la carte</string>
   <string name="lable_power_off_card">Éteindre la carte</string>
   <string name="lable_get_reader_status">Obtenir l\'état du lecteur</string>

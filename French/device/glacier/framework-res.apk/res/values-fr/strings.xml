@@ -811,7 +811,7 @@ Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
   <string name="factorytest_not_system">L\'action FACTORY_TEST est uniquement prise en charge pour les paquets de données installés dans in/system/app.</string>
   <string name="factorytest_no_action">Impossible de trouver un paquet proposant l\'action FACTORY_TEST.</string>
   <string name="factorytest_reboot">Redémarrer</string>
-  <string name="js_dialog_title">La page "%s" indique : </string>
+  <string name="js_dialog_title">La page "%s" indique :</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_dialog_before_unload">Voulez-vous quitter cette page ?
 
@@ -1207,7 +1207,7 @@ pour le compte "%s"</string>
   <string name="issued_to">Délivré à :</string>
   <string name="common_name">Nom commun :</string>
   <string name="org_name">Organisation :</string>
-  <string name="org_unit">Unité organisationnelle : </string>
+  <string name="org_unit">Unité organisationnelle :</string>
   <string name="issued_by">Émis par :</string>
   <string name="validity_period">Validité :</string>
   <string name="issued_on">Date d\'émission :</string>

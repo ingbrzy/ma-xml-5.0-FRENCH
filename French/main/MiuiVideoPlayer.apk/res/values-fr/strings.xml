@@ -45,7 +45,7 @@
   <string name="top_status_local_media">Médias locaux</string>
   <string name="top_status_online_media">Médias en ligne</string>
   <string name="video_info_audio_bitrate_label">Débit audio :</string>
-  <string name="video_info_audio_coding_label">Format de codage audio : </string>
+  <string name="video_info_audio_coding_label">Format de codage audio :</string>
   <string name="video_info_audio_null">Aucun</string>
   <string name="video_info_frame_rate_label">Images par secondes :</string>
   <string name="video_info_length_label">Longueur :</string>

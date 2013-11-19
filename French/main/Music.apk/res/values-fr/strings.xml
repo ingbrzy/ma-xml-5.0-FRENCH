@@ -244,7 +244,7 @@
   <string name="sdcard_missing_message_nosdcard">Carte SD indisponible.</string>
   <string name="search_hint">Recherchez musique</string>
   <string name="search_settings_description">Artistes, albums et morceaux</string>
-  <string name="search_suggestion">Suggestions de recherche : </string>
+  <string name="search_suggestion">Suggestions de recherche :</string>
   <string name="search_title">Rechercher</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_folder">Choix des dossiers</string>

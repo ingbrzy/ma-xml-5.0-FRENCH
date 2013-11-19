@@ -93,7 +93,7 @@
   <string name="cloud_backup_window_title">Sauvegarder dans le cloud</string>
   <string name="cloud_home_title">Cloud</string>
   <string name="cloud_item_info_summary">" (Local %1$s | Cloud %2$s)"</string>
-  <string name="cloud_last_backup">Dernière sauvegarde : </string>
+  <string name="cloud_last_backup">Dernière sauvegarde :</string>
   <string name="cloud_no_backup">Aucune sauvegarde dans le cloud</string>
   <string name="cloud_restore_guide">Appuyez sur Démarrer la restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
   <string name="cloud_restore_title">Restaurer des données sauvegardées</string>

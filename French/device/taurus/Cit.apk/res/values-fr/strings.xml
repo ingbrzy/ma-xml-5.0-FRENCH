@@ -9,7 +9,7 @@
   <string name="cit_ac_charger_in">Le chargeur est connecté</string>
   <string name="cit_ac_charger_out">Le chargeur est déconnecté</string>
   <string name="cit_accelermeter_sensor_check_summary">L\'écran affichera l\'accélération dans les 3 dimensions X, Y, Z (Note : si le téléphone est tourné, les valeurs changeront en fonction de l\'orientation de l\'écran</string>
-  <string name="cit_accelermeter_sensor_check_title">Test de l\'accéléromètre </string>
+  <string name="cit_accelermeter_sensor_check_title">Test de l\'accéléromètre</string>
   <string name="cit_audio_loopback_check_one_title">Test micro du récepteur</string>
   <string name="cit_audio_loopback_check_summary_first">Le test va effectuer le rebouclage du micro principal</string>
   <string name="cit_audio_loopback_check_summary_second">Retourner le téléphone et tester le rebouclage des autres micros</string>
@@ -261,7 +261,7 @@
   <string name="cit_vibrator_short">vibration courte</string>
   <string name="cit_vibrator_show_advanced">Options avancées</string>
   <string name="cit_wifi_address_check_summary">Le test affichera l\'état actuel de la connexion Wi-Fi</string>
-  <string name="cit_wifi_address_check_title">Test IP Wi-Fi </string>
+  <string name="cit_wifi_address_check_title">Test IP Wi-Fi</string>
   <string name="cit_wifi_address_error">Impossible d\'obtenir une adresse Wi-Fi, vérifiez la connexion Wi-Fi est activée, et essayez à nouveau</string>
   <string name="cit_wifi_ap_scan_check_summary">Le test affichera une liste de tous les points d\'accès Wi-Fi disponibles</string>
   <string name="cit_wifi_ap_scan_check_title">Test de recherche des points d\'accès Wi-Fi</string>

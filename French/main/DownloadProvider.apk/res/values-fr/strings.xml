@@ -16,8 +16,8 @@
     <string name="permlab_accessAllDownloads">Accéder à tous les téléchargements système</string>
     <string name="permdesc_accessAllDownloads">Permet à l\'application de connaître et de modifier tous les téléchargements initiés par les programmes du système.</string>
     <string name="download_unknown_title">&lt;Sans_titre></string>
-    <string name="notification_filename_separator">, </string>
-    <string name="notification_filename_extras"> et %d autres</string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" et %d autres"</string>
     <string name="notification_download_complete">Téléchargement terminé.</string>
     <string name="notification_download_failed">Échec du téléchargement</string>
     <string name="notification_need_wifi_for_size">La taille du téléchargement exige une connexion Wi-Fi</string>

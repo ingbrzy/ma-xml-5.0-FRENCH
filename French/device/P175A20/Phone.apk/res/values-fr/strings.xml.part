@@ -243,7 +243,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="simlock_enterpin2code">Saisissez le code PIN2</string>
   <string name="simlock_enterpincode">Saisissez le code PIN</string>
   <string name="simlock_enterpuk2code">Saisissez le code PUK2</string>
-  <string name="simlock_enterpukcode">Saisissez le code PUK </string>
+  <string name="simlock_enterpukcode">Saisissez le code PUK</string>
   <string name="simlock_entersimmelock">Saisissez verrouillage SIM ME</string>
   <string name="simlock_firstsim">pour la première SIM</string>
   <string name="simlock_for">pour</string>

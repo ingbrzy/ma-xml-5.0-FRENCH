@@ -809,7 +809,7 @@ Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_not_system">L\'action FACTORY_TEST est uniquement prise en charge pour les paquets de données installés dans in/system/app.</string>
     <string name="factorytest_no_action">Impossible de trouver un paquet proposant l\'action FACTORY_TEST.</string>
     <string name="factorytest_reboot">Redémarrer</string>
-    <string name="js_dialog_title">La page "%s" indique : </string>
+    <string name="js_dialog_title">La page "%s" indique :</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">Voulez-vous quitter cette page ?
 
@@ -820,9 +820,9 @@ Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</
     <string name="double_tap_toast">Conseil : Appuyez deux fois pour faire un zoom avant ou arrière.</string>
     <string name="autofill_this_form">Saisie auto</string>
     <string name="setup_autofill">Conf. saisie auto</string>
-    <string name="autofill_address_name_separator"> </string>
+    <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_name_format">$1$2$3</string>
-    <string name="autofill_address_summary_separator">, </string>
+    <string name="autofill_address_summary_separator">", "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
     <string name="autofill_province">Province</string>
     <string name="autofill_postal_code">Code postal</string>
@@ -980,7 +980,7 @@ Voulez-vous la fermer ?</string>
     <string name="ringtone_unknown">Sonnerie inconnue</string>
     <string name="wifi_available_sign_in">Connectez-vous au réseau Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled">Impossible de se connecter au Wi-Fi.</string>
-    <string name="wifi_watchdog_network_disabled_detailed"> dispose d\'une mauvaise connexion Internet.</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" dispose d'une mauvaise connexion internet."</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">Lancer le Wi-Fi Direct. Cela désactive le fonctionnement du Wi-Fi client ou via un point d\'accès.</string>
     <string name="wifi_p2p_failed_message">Impossible d\'activer le Wi-Fi Direct.</string>
@@ -1048,8 +1048,8 @@ Voulez-vous la fermer ?</string>
     <string name="hardware">Matériel</string>
     <string name="select_keyboard_layout_notification_title">Sélectionnez la disposition du clavier</string>
     <string name="select_keyboard_layout_notification_message">Appuyez ici pour sélectionner une disposition de clavier.</string>
-    <string name="fast_scroll_alphabet"> ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
-    <string name="fast_scroll_numeric_alphabet"> 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="candidates_style">candidats</string>
     <string name="ext_media_checking_notification_title">Préparation de la mémoire de stockage USB</string>
     <string name="ext_media_checking_notification_message">Recherche d\'erreurs</string>
@@ -1207,7 +1207,7 @@ pour le compte "%s"</string>
     <string name="issued_to">Délivré à :</string>
     <string name="common_name">Nom commun :</string>
     <string name="org_name">Organisation :</string>
-    <string name="org_unit">Unité organisationnelle : </string>
+    <string name="org_unit">Unité organisationnelle :</string>
     <string name="issued_by">Émis par :</string>
     <string name="validity_period">Validité :</string>
     <string name="issued_on">Date d\'émission :</string>
@@ -1220,7 +1220,7 @@ pour le compte "%s"</string>
     <string name="activity_chooser_view_dialog_title_default">Sélectionnez une activité</string>
     <string name="share_action_provider_share_with">Partager avec</string>
     <string name="status_bar_device_locked">Appareil verrouillé</string>
-    <string name="list_delimeter">, </string>
+    <string name="list_delimeter">", "</string>
     <string name="sending">Envoi en cours…</string>
     <string name="launchBrowserDefault">Lancer le navigateur ?</string>
     <string name="SetupCallDefault">Prendre l\'appel ?</string>

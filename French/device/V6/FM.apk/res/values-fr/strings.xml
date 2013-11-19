@@ -19,7 +19,7 @@
     <string name="dlg_progress_text">Balayer les chaînes…</string>
     <string name="dlg_addedit_station_name">Nom :</string>
     <string name="dlg_addedit_station_freq">Fréquence :</string>
-    <string name="dlg_addedit_title_edit">Modifier la chaîne </string>
+    <string name="dlg_addedit_title_edit">Modifier la chaîne</string>
     <string name="default_station_name">Nouvelle chaîne</string>
     <string name="dlg_delete_confirm_title">Confirmer la suppression de station</string>
     <string name="dlg_delete_confirm_text">Êtes-vous sûr de vouloir supprimer cette station?</string>

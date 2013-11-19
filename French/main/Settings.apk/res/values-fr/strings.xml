@@ -704,7 +704,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="device_additional_status_summary">Numéro de téléphone, Signal, IMEI, etc.</string>
   <string name="device_admin_add_title">Administrateur de l\'appareil</string>
   <string name="device_admin_settings_title">Paramètres de gestion de l\'appareil</string>
-  <string name="device_admin_status">Cet administrateur est actif et permet à l\'application %1$s d\'effectuer les opérations suivantes : </string>
+  <string name="device_admin_status">Cet administrateur est actif et permet à l\'application %1$s d\'effectuer les opérations suivantes :</string>
   <string name="device_admin_title">Gestion de l\'appareil</string>
   <string name="device_admin_warning">L\'activation de cet administrateur permettra à l\'application %1$s d\'effectuer les opérations suivantes :</string>
   <string name="device_cpu">CPU</string>
@@ -801,7 +801,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dolby_bassboost_high">Élevée</string>
   <string name="dolby_bassboost_low">Faible</string>
   <string name="dolby_bassboost_normal">Standard</string>
-  <string name="dolby_bassboost_title">Amplificateur de basses : </string>
+  <string name="dolby_bassboost_title">Amplificateur de basses :</string>
   <string name="dolby_dialogue_enhancer">Amélioration des dialogues</string>
   <string name="dolby_effects">Effets Dolby</string>
   <string name="dolby_eq_enter_alert_msg">Souhaitez-vous ouvrir l\'égaliseur Dolby ?</string>
@@ -820,7 +820,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dolby_roomsize_low">Petite salle</string>
   <string name="dolby_roomsize_normal">Salle normale</string>
   <string name="dolby_roomsize_summary">Son Surround disponible avec les écouteurs</string>
-  <string name="dolby_roomsize_title">Mode Surround : </string>
+  <string name="dolby_roomsize_title">Mode Surround :</string>
   <string name="dolby_surround_virtualizer">Virtualiseur de son Surround</string>
   <string name="dolby_volume_leveler">Nivellement du volume</string>
   <string name="drive_mode">Mode Voiture</string>
@@ -922,7 +922,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Petite</string>
-  <string name="font_size_summary">Modifier la taille du texte dans les applications suivantes : </string>
+  <string name="font_size_summary">Modifier la taille du texte dans les applications suivantes :</string>
   <string name="force_hw_ui">Forcer le rendu GPU</string>
   <string name="force_hw_ui_summary">Forcer l\'utilisation du GPU pour le dessin 2D</string>
   <string name="force_msaa">Forcer MSAA 4x</string>
@@ -1004,7 +1004,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="help_url_users"></string>
   <string name="help_url_vpn"></string>
   <string name="help_url_wifi"></string>
-  <string name="hidden_ssid_label">SSID caché : </string>
+  <string name="hidden_ssid_label">SSID caché :</string>
   <string name="history_details_title">Informations sur l\'historique</string>
   <string name="home_key">Touche Accueil</string>
   <string name="ime_security_warning">Ce mode de saisie est susceptible d\'enregistrer le texte que vous saisissez, y compris vos données personnelles telles que les mots de passe et les numéros de carte de paiement. Il provient de l\'application %1$s. Voulez-vous vraiment l\'activer ?</string>
@@ -1031,9 +1031,9 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="install_unknown_applications">Autoriser l\'installation d\'applications issues de sources inconnues</string>
   <string name="insufficient_storage">Espace de stockage insuffisant.</string>
   <string name="intent_sender_account_label">Compte :</string>
-  <string name="intent_sender_action_label">Action : </string>
-  <string name="intent_sender_data_label">Données : </string>
-  <string name="intent_sender_resource_label">Ressource : </string>
+  <string name="intent_sender_action_label">Action :</string>
+  <string name="intent_sender_data_label">Données :</string>
+  <string name="intent_sender_resource_label">Ressource :</string>
   <string name="intent_sender_sendbroadcast_text">Envoyer broadcast</string>
   <string name="intent_sender_startactivity_text">Démarrer activité</string>
   <string name="internal_format">Formater le stockage interne</string>
@@ -1167,7 +1167,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lockpattern_tutorial_continue_label">Suivant</string>
   <string name="lte_ram_dump_off">Désactiver le vidage de la mémoire RAM du LTE</string>
   <string name="lte_ram_dump_on">Activer le vidage de la mémoire RAM du LTE</string>
-  <string name="macaddr_label">Adresse MAC : </string>
+  <string name="macaddr_label">Adresse MAC :</string>
   <string name="main_running_process_description">Processus principal en cours d\'utilisation.</string>
   <string name="man_add_application">Ajouter manuellement des applications</string>
   <string name="manage_device_admin">Administrateurs de l\'appareil</string>
@@ -1268,9 +1268,9 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
 5) Accéder à l\'appareil monté : "mtpfs /media/mtp" via Nautilus; même répertoire local
 6) Désinstaller l\'appareil "fusermount -u /media/mtp"
 Remarque : pour environnement Ubuntu 8.04"</string>
-  <string name="msd_install_retry_mac">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
-  <string name="msd_install_retry_windows_vista">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
-  <string name="msd_install_retry_windows_xp">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit : </string>
+  <string name="msd_install_retry_mac">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit :</string>
+  <string name="msd_install_retry_windows_vista">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit :</string>
+  <string name="msd_install_retry_windows_xp">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit :</string>
   <string name="msd_install_status_done">Pilote déjà installé</string>
   <string name="msd_install_status_undo">Installer le pilote</string>
   <string name="msd_install_succeed">Pilote installé</string>
@@ -1607,7 +1607,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="radio_controls_title">Plus…</string>
   <string name="radio_info_band_mode_label">Choisir une bande radio</string>
   <string name="radio_info_call_redirect_label">Redirection des appels :</string>
-  <string name="radio_info_call_status_label">État de l\'appel : </string>
+  <string name="radio_info_call_status_label">État de l\'appel :</string>
   <string name="radio_info_cellinfo_label">Infos sur la cellule :</string>
   <string name="radio_info_current_network_label">Réseau actuel :</string>
   <string name="radio_info_data_attempts_label">Tentatives :</string>
@@ -1621,7 +1621,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="radio_info_neighboring_location_label">CID voisin :</string>
   <string name="radio_info_network_type_label">Type de réseau :</string>
   <string name="radio_info_phone_number_label">Numéro de téléphone :</string>
-  <string name="radio_info_ping_hostname">Nom de l\'hôte du ping (www.google.com) : </string>
+  <string name="radio_info_ping_hostname">Nom de l\'hôte du ping (www.google.com) :</string>
   <string name="radio_info_ping_ipaddr">Adr. IP ping :</string>
   <string name="radio_info_ppp_received_label">PPP reçus :</string>
   <string name="radio_info_ppp_resets_label">Nombre de réinitialisations PPP depuis le démarrage :</string>
@@ -1789,7 +1789,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="security_relative">Sécurité</string>
   <string name="security_settings_billing_desc">Cette application peut engendrer des frais :</string>
   <string name="security_settings_desc">Cette application peut accéder aux éléments suivants de votre téléphone :</string>
-  <string name="security_settings_desc_multi">Cette application peut accéder aux éléments de votre téléphone répertoriés ci-dessous. Afin d\'améliorer les performances et de réduire l\'utilisation de la mémoire, certaines autorisations sont accordées à %1$s, car elle s\'exécute au sein du même processus que les applications %2$s : </string>
+  <string name="security_settings_desc_multi">Cette application peut accéder aux éléments de votre téléphone répertoriés ci-dessous. Afin d\'améliorer les performances et de réduire l\'utilisation de la mémoire, certaines autorisations sont accordées à %1$s, car elle s\'exécute au sein du même processus que les applications %2$s :</string>
   <string name="security_settings_premium_sms_desc">Envoyer un SMS premium</string>
   <string name="security_settings_summary">Définir les paramètres de l\'option Ma position et de verrouillage</string>
   <string name="security_settings_title">Sécurité</string>
@@ -1885,7 +1885,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_lock_settings_category">Configurer verrouillage carte SIM</string>
   <string name="sim_lock_settings_title">Verrouillage de la SIM</string>
   <string name="sim_management_title">Gestion SIM</string>
-  <string name="sim_pin_attempts">Tentatives restantes : </string>
+  <string name="sim_pin_attempts">Tentatives restantes :</string>
   <string name="sim_pin_change">Modifier code PIN carte SIM</string>
   <string name="sim_pin_disabled">PIN1 désactivé !</string>
   <string name="sim_pin_enabled">PIN1 activé !</string>
@@ -2622,7 +2622,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_wps_failed_tkip">La configuration de sécurité du routeur sans fil (TKIP) n\'est pas compatible.</string>
   <string name="wifi_wps_failed_wep">La configuration de sécurité du routeur sans fil (WEP) n\'est pas compatible.</string>
   <string name="wifi_wps_in_progress">La configuration WPS est déjà en cours et peut prendre jusqu\'à deux minutes.</string>
-  <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton "Configuration Wi-Fi protégée" de votre routeur. Celui-ci peut s\'appeler "WPS" ou contenir ce symbole : </string>
+  <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton "Configuration Wi-Fi protégée" de votre routeur. Celui-ci peut s\'appeler "WPS" ou contenir ce symbole :</string>
   <string name="wifi_wps_onstart_pin">Saisissez le code %1$s sur votre routeur Wi-Fi. La configuration peut prendre jusqu\'à deux minutes.</string>
   <string name="wifi_wps_overlap_error">Autre session protégée Wi-Fi détectée. Réessayez dans quelques minutes</string>
   <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS…</string>
@@ -2997,7 +2997,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_center_on_time_title">Planificateur</string>
   <string name="power_center_state_off">Désactivé</string>
   <string name="power_center_state_on">Activé</string>
-  <string name="power_center_title">Batterie</string> 
+  <string name="power_center_title">Batterie</string>
   <string name="power_chooser_check_box_summary">Choisissez un profil de gestion d\'énergie pour prolonger la vie de la batterie</string>
   <string name="power_chooser_check_box_title">Économiser la batterie</string>
   <string name="power_chooser_mine_summary">Sauvegarder les paramètres système d\'origine</string>
@@ -3186,7 +3186,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="start_optimize_protection">Démarrage de l\'optimisation de la protection en temps réel…</string>
   <string name="start_optimize_trash">Démarrage de l\'optimisation du cache des applications…</string>
   <string name="storage_size_content">%1$s utilisés | %2$s disponibles</string>
-  <string name="storage_size_title">Stockage</string> 
+  <string name="storage_size_title">Stockage</string>
   <string name="summary_install_virus">Vérifier les applis avant l\'installation</string>
   <string name="summary_mms">Bloquer les messages indésirables (ventes, pub., etc.)</string>
   <string name="summary_permission">Protéger ma confidentialité des applis tierces</string>
@@ -3195,7 +3195,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="summary_virus_update">Mettre à jour automatiquement les définitions de virus quand connecter via Wi-Fi</string>
   <string name="system_cache_title">Cache système</string>
   <string name="title_app_update_no">Mises à jour disponibles pour %d applis</string>
-  <string name="title_app_update_yes">Toutes les applis sont à jour</string> 
+  <string name="title_app_update_yes">Toutes les applis sont à jour</string>
   <string name="title_data_flow_no">Moniteur de données inactif</string>
   <string name="title_data_flow_yes">Moniteur de données actif</string>
   <string name="title_install_virus_no">Moniteur d\'installations inactif</string>

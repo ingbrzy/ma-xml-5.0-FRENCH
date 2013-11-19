@@ -154,11 +154,11 @@ Vous risquez cependant de recevoir de nombreuses données Push lors de la réact
   <string name="normal_date_format">Format régional (%s)</string>
   <string name="display_preview_label">Aperçu :</string>
   <string name="display_font_size_label">Taille de police :</string>
-  <string name="intent_sender_data_label">Données : </string>
+  <string name="intent_sender_data_label">Données :</string>
   <string name="intent_sender_sendbroadcast_text">Envoyer broadcast</string>
-  <string name="intent_sender_action_label">Action : </string>
+  <string name="intent_sender_action_label">Action :</string>
   <string name="intent_sender_startactivity_text">"Démarrer activité"</string>
-  <string name="intent_sender_resource_label">Ressource : </string>
+  <string name="intent_sender_resource_label">Ressource :</string>
   <string name="intent_sender_account_label">Compte :</string>
   <string name="proxy_settings_title">Paramètres proxy</string>
   <string name="proxy_clear_text">Effacer</string>
@@ -510,7 +510,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="error_saving">"Impossible d'enregistrer le réseau"</string>
   <string name="wifi_wps_setup_title">Configuration Wi-Fi protégée</string>
   <string name="wifi_wps_setup_msg">Démarrage de la configuration WPS…</string>
-  <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton "Configuration Wi-Fi protégée" de votre routeur. Celui-ci peut s\'appeler "WPS" ou contenir ce symbole : </string>
+  <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton "Configuration Wi-Fi protégée" de votre routeur. Celui-ci peut s\'appeler "WPS" ou contenir ce symbole :</string>
   <string name="wifi_wps_onstart_pin">"Saisissez le code %1$s sur votre routeur Wi-Fi. La configuration peut prendre jusqu'à deux minutes."</string>
   <string name="wifi_wps_complete">Configuration WPS réussie. Connexion au réseau en cours…</string>
   <string name="wifi_wps_connected">Connecté au réseau Wi-Fi %s</string>
@@ -549,7 +549,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="wifi_disabled_password_failure">"Problème d'authentification."</string>
   <string name="wifi_not_in_range">Hors de portée</string>
   <string name="wifi_wps_available_first_item">WPS disponible</string>
-  <string name="wifi_wps_available_second_item"> (WPS disponible)</string>
+  <string name="wifi_wps_available_second_item">" (WPS disponible)"</string>
   <string name="wifi_secured_first_item">Sécurisé par %1$s.</string>
   <string name="wifi_secured_second_item">, sécurisé par %1$s.</string>
   <string name="wifi_secured">Sécurisé</string>
@@ -1017,7 +1017,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sd_format_sd">Formater la carte SD</string>
   <string name="sd_format_summary">"Effacer les données de la mémoire de stockage USB interne (ex : musique, photos)"</string>
   <string name="sd_format_summary_sd">Supprime toutes les données de la carte SD, y compris la musique et les photos</string>
-  <string name="read_only"> (Lecture seule)</string>
+  <string name="read_only">" (Lecture seule)"</string>
   <string name="dlg_confirm_unmount_title">Désinstaller mémoire USB ?</string>
   <string name="dlg_confirm_unmount_text">Si vous désinstallez la mémoire de stockage USB, certaines applications en cours d\'utilisation seront fermées. Elles risquent de rester indisponibles jusqu\'à ce que la mémoire de stockage USB soit réinstallée.</string>
   <string name="dlg_error_unmount_title"></string>
@@ -1692,7 +1692,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="add_device_admin">Activer</string>
   <string name="device_admin_add_title">Administrateur de l\'appareil</string>
   <string name="device_admin_warning">"L'activation de cet administrateur permettra à l'application %1$s d'effectuer les opérations suivantes :"</string>
-  <string name="device_admin_status">Cet administrateur est actif et permet à l\'application %1$s d\'effectuer les opérations suivantes : </string>
+  <string name="device_admin_status">Cet administrateur est actif et permet à l\'application %1$s d\'effectuer les opérations suivantes :</string>
   <string name="untitled_apn">Sans nom</string>
   <string name="sound_category_sound_title">Paramètres généraux</string>
   <string name="sound_category_calls_and_notification_title">Sonnerie et notifications</string>

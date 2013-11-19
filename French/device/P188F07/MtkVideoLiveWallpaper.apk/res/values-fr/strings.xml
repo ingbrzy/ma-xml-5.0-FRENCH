@@ -10,9 +10,7 @@
 
     <!-- Video Live Wallpaper -->
     <string name="vlw">"Fond d'écran vidéo"</string>
-    <string name="vlw_desc">
-        "Configurer la vidéo comme fond d'écran live."
-    </string>
+    <string name="vlw_desc">"Configurer la vidéo comme fond d'écran live."</string>
 
     <!-- VideoScene -->
     <!-- Text for error alert when a video container is not valid for progressive download/playback. -->
