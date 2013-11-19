@@ -3,7 +3,7 @@
   <string name="cit_ac_charger_in">Le chargeur est connecté</string>
   <string name="cit_ac_charger_out">Le chargeur est déconnecté</string>
   <string name="cit_accelermeter_sensor_check_summary">L\'écran affichera l\'accélération dans les 3 dimensions X, Y, Z (Note : si le téléphone est tourné, les valeurs changeront en fonction de l\'orientation de l\'écran</string>
-  <string name="cit_accelermeter_sensor_check_title">Test de l\'accéléromètre /string>
+  <string name="cit_accelermeter_sensor_check_title">Test de l\'accéléromètre</string>
   <string name="cit_audio_loopback_check_one_title">Test micro du récepteur</string>
   <string name="cit_audio_loopback_check_summary_first">Le test va effectuer le rebouclage du micro principal</string>
   <string name="cit_audio_loopback_check_summary_second">Retourner le téléphone et tester le rebouclage des autres micros</string>
