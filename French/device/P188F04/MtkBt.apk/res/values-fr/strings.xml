@@ -43,7 +43,7 @@
     <string name="bt_opp_cancel_task_message">Annuler ce transfert ?</string>
     <string name="bt_opp_cancel_task_yes">Oui</string>
     <string name="bt_opp_cancel_task_no">Non</string>
-    <string name="bt_opp_canceling_task_message">Annulation du transfert en cours, veuillez patienter...</string>
+    <string name="bt_opp_canceling_task_message">Annulation du transfert en cours, veuillez patienter…</string>
     <string name="bt_opps_confirm_push_title">Bluetooth - Objet entrant</string>
     <string name="bt_opps_confirm_push_message">Fichier entrant :%1$s (%2$s) à partir de %3$s. Accepter ?</string>
     <string name="bt_opps_confirm_push_yes">Accepter</string>

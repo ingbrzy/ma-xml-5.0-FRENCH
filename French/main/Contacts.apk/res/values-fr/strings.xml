@@ -1082,4 +1082,52 @@ Pour ajouter un contact à la liste de favoris :
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Supprimer les données</string>
   <string name="zero_items_selected">Aucun élément sélectionné</string>
+  <string name="account_unactivated">Compte non activé.</string>
+  <string name="resource_account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard./string>
+  <string name="resource_account_current">Compte : %1$s</string>
+  <string name="resource_account_fail_to_add">Impossible d\'ajouter le compte !</string>
+  <string name="resource_account_login">Connexion</string>
+  <string name="resource_account_login_before_action">Veuillez vous connecter à un votre compte Xiaomi.</string>
+  <string name="resource_account_login_title">Connexion</string>
+  <string name="resource_account_switch">Changer de compte</string> 
+  <string name="resource_comment_loading_list">Chargement des commentaires…</string>
+  <string name="resource_comment_score_count">%1$s utilisateurs</string>
+ <!-- à traduire : 
+  <string name="resource_exchange">Redeem</string>
+ -->
+  <string name="resource_exchange_confirm">Confirmer</string>
+  <string name="resource_exchange_empty_format">Veuillez saisir un code !</string>
+  <string name="resource_exchange_has_bought">Vous avez déjà acheté ce thème.</string>
+  <string name="resource_exchange_has_expired">Ce code a expiré.</string>
+  <string name="resource_exchange_has_used">Ce code a déjà été utilisé.</string>
+  <string name="resource_exchange_hint">Saisissez votre code</string>
+  <string name="resource_exchange_purchase_unkown_error">Une erreur inconnue s\'est produite. Veuillez vous connecter via http://market.xiaomi.com pour voir l\'état de votre paiement.</string>
+  <string name="resource_exchange_share_code_content">Vous avez reçu un code pour %1$s sur le magasin de thèmes MIUI. Votre code MiCredit est : %2$s. Appuyer %3$s pour l\'utiliser maintenant.</string>
+ <!-- resource_exchange_share_code_dlg_content à revoir? : "pour %1$s est : %2$s" ?? -->
+  <string name="resource_exchange_share_code_dlg_content">Code acheté avec succès pour %1$s est : %2$s. Vous pouvez maintenant le partager avec des amis.</string>
+  <string name="resource_exchange_share_code_dlg_title">Envoyer un code</string>
+  <string name="resource_exchange_success">Transaction réussie</string>
+  <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème</string>
+  <string name="resource_exchange_universal_finish">Utilisez ce code pour télécharger un thème depuis le magasin de thèmes MIUI.</string>
+  <string name="resource_exchange_universal_goon">Ce code peut être utilisé pour télécharger n\'importe-quel thème depuis le magasin de thèmes MIUI.</string>
+ <!-- à traduire : 
+  <string name="resource_exchange_window_title">Redeem code</string>
+ -->
+  <string name="resource_exchange_wrong_format_by_local">Code saisi non valide</string>
+  <string name="resource_exchange_wrong_format_by_server">Le code n\'a pas pu être validé. Veuillez vérifier votre code.</string>
+  <string name="resource_hint">Alerte</string>
+  <string name="resource_menu_refresh">Actualiser</string>
+  <string name="resource_present">Cadeau</string>
+  <string name="resource_purchase_getting_order">Récupération des informations de paiement…</string>
+  <string name="resource_purchase_verifying_payment">Vérification des informations de paiement…</string>
+  <string name="resource_purchase_waiting_payment">En attente d\'informations de paiement…</string>
+  <string name="resource_ringtone_volume_mute">Sonnerie mise en sourdine</string>
+  <string name="resource_save_to_note">Sauvegarder vers Notes</string>
+  <string name="resource_send">Envoyer</string>
+  <string name="resource_unable_to_access">"Nous sommes désolés
+le contenu que vous recherchez n\'est actuellement pas disponible dans votre région."</string>
+  <string name="resource_unknow_error">Une erreur inconnue s\'est produite.</string>
+  <string name="resource_user_know">OK</string>
+  <string name="to_activate_the_account">Veuillez activer votre compte Xiaomi</string>
+
 </resources>

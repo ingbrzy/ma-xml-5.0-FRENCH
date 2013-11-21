@@ -171,7 +171,7 @@
   <string name="cit_tool_bluetooth_off">Désactiver le Bluetooth</string>
   <string name="cit_tool_bluetooth_on">Activer le Bluetooth</string>
   <string name="cit_tool_log">Journal</string>
-  <string name="cit_tool_log_bugreport">Signaler un Bug</string>
+  <string name="cit_tool_log_bugreport">Signaler un bug</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
   <string name="cit_tool_log_file_not_exist">%s n\'existe pas</string>
   <string name="cit_tool_log_generate_bugreport">Génération de rapport de bug…</string>

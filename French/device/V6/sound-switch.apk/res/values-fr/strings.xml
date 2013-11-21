@@ -25,7 +25,7 @@ http://weibo.com/geno"</string>
     <string name="ota_notfound_message">update.zip introuvable</string>
     <string name="recovery_notfound_message">recovery.img introuvable</string>
     <string name="boot_notfound_message">boot.img introuvable</string>
-    <string name="ota_message">Veuillez patienter...</string>
+    <string name="ota_message">Veuillez patienter…</string>
    <!-- à traduire : 
     <string name="recovery_message">"Flash recovery
 But you need verify it youself"</string>

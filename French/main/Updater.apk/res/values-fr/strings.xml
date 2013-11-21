@@ -155,6 +155,7 @@
   <string name="update_success">Félicitations, la mise à jour est appliquée avec succès !</string>
   <string name="update_success_body">Le système a été correctement mis à jour vers %s</string>
   <string name="update_success_title">Félicitations. Mise à jour terminée</string>
+  <string name="updater_finish_download">Téléchargement de la ROM terminé</string>
   <string name="upgrade_close">Fermer</string>
   <string name="upgrade_kernel">Le noyau actuel nécessite une mise à jour</string>
   <string name="upgrade_kernel_msg">"La version du noyau actuel ne correspond pas à la ROM MIUI. Vous avez besoin de mettre à jour le noyau manuellement. Veuillez-vous référer au tutoriel de mise à niveau : "</string>

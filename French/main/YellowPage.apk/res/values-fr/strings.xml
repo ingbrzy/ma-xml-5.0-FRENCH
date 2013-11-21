@@ -27,6 +27,8 @@
   <string name="expresss_inquiry_all_logistics">Tous</string>
   <string name="express_inquiry_button_text">Suivre</string>
   <string name="express_inquiry_data_owner">Information de suivi fournies par %s</string>
+  <string name="express_inquiry_delete_warning_multiple">Supprimer les %d éléments sélectionnés ?</string>
+  <string name="express_inquiry_delete_warning_single">Supprimer l\'élément sélectionné ?</string>
  <!-- balance_inquiry_default_sp_name remplacer "opérateur"? original : Operator -->
   <string name="balance_inquiry_default_sp_name">Opérateur</string>
   <string name="expresss_inquiry_frequently_used_logistics">Fréquents</string>

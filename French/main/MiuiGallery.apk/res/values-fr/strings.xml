@@ -14,6 +14,7 @@
   <string name="add_to_cloud_file_exist_message">La photo existe déjà dans l\'album sélectionné.</string>
   <string name="add_to_cloud_file_not_exist_message">Le fichier n\'existe pas.</string>
   <string name="add_to_cloud_folder">Ajouter au dossier MiCloud</string>
+  <string name="add_to_cloud_image_limit_exceeded_message">Quota d\'images dépassé.</string>
   <string name="add_to_cloud_local_space_full_message">"Le stockage est plein ou n'est pas encore prêt."</string>
   <string name="add_to_cloud_space_full_message">L\'album MiCloud est plein.</string>
   <string name="add_to_cloud_successfully_message">Ajouté à l\'album MiCloud.</string>
@@ -35,6 +36,7 @@
   <string name="album_share_subtitle_requesting">Téléchargement les informations de l\'album…</string>
   <string name="album_share_title_new_album">Nouvel album partagé</string>
   <string name="albums">Albums</string>
+  <!-- albumset_page_title_separator à vérifier : mettre entre guillemets ? -->
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Avis d\'information</string>
   <string name="alert_message_initial_cloud">Le système va automatiquement télécharger les anciennes et nouvelles photos ainsi que les captures d\'écran seulement lorsqu\'il y a une connexion Wi-Fi.</string>
@@ -63,6 +65,8 @@
   <string name="browse_category">Parcourir les photos</string>
   <string name="by_email">Mail</string>
   <string name="by_sms">SMS</string>
+  <!-- by_others à vérifier : bonne traduction ? -->
+  <string name="by_others">Par autres</string>
   <string name="camera_connected">Appareil photo connecté.</string>
   <string name="camera_disconnected">Appareil photo déconnecté.</string>
   <string name="camera_folder_display_name">Appareil photo</string>
@@ -221,9 +225,9 @@
   <string name="height">Hauteur</string>
   <string name="highlight">Reflets</string>
   <string name="home_my_captured_items">photo(s) au total</string>
-  <string name="how_many_pics">%d Photos</string>
-  <string name="how_many_sub_folders">%d Dossiers</string>
-  <string name="how_many_videos">%d Vidéos</string>
+  <string name="how_many_pics">%d photos</string>
+  <string name="how_many_sub_folders">%d dossiers</string>
+  <string name="how_many_videos">%d vidéos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_quota_fulfiled">"Impossible de créer l'image, le quota d'images a atteint sa limite."</string>
   <string name="immomo_camera">Immomo</string>
@@ -237,7 +241,7 @@
   <string name="internal_miui_capture_screen_folder_display_name">Captures d\'écran internes</string>
   <string name="internal_sd_card">Carte SD interne</string>
   <string name="invalid_invition_url">URL d\'invitation non valide.</string>
-  <string name="invalid_recipient_message">"Corrigez les erreurs de destinataires ou ils ne recevront pas le message"</string>
+  <string name="invalid_recipient_message">Corrigez les erreurs de destinataires ou ils ne recevront pas le message</string>
   <string name="iso">ISO</string>
   <string name="kick_owner_user_positive_button_text">Supprimer</string>
   <string name="kick_owner_user_title">Supprimer ce membre ?</string>
@@ -254,6 +258,7 @@
   <string name="lomoish">Lomographie</string>
   <string name="maker">Auteur</string>
   <string name="manual">Manuel</string>
+  <string name="marked_by_others">%d personnes l\'ont marqué</string>
   <string name="me">moi</string>
   <string name="menu_item_sort">Trier</string>
   <string name="menu_item_sort_date_asc">Par date ascendante</string>
@@ -327,7 +332,7 @@
   <string name="photoeditor_name">Photo Studio</string>
   <string name="photos">Photo(s)</string>
   <string name="pick_too_many_recipients">Trop de destinataires</string>
-  <string name="posterize">Posterisation</string>
+  <string name="posterize">Postérisation</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="projection">Projection</string>
   <string name="public_url_descript">N\'importe qui peut accéder à votre album à l\'aide de cette URL</string>
@@ -476,7 +481,7 @@
   <string name="unpublishing">Annulation de la publication, veuillez patienter…</string>
   <string name="untagged">Aucun tag</string>
   <string name="user_alias_self">Soi</string>
-  <string name="video_err">"Impossible de lire la vidéo."</string>
+  <string name="video_err">Impossible de lire la vidéo.</string>
   <string name="view_sharers">Afficher les partageurs</string>
   <string name="vignette">Vignette</string>
   <string name="wallpaper">Fond d\'écran</string>

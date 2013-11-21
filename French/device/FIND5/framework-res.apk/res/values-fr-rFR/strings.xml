@@ -91,7 +91,7 @@
 <string name="usb_adb_detail">Synchroniser avec PC suite</string>
 <string name="usb_internet">Liaison USB</string>
 <string name="usb_internet_detail">Partager le réseau mobile de votre téléphone avec un PC</string>
-<string name="usb_selection_processing">"Veuillez patienter..."</string>
+<string name="usb_selection_processing">"Veuillez patienter…"</string>
 <string name="does_change_perms">Les autorisations de cette app. ont changées, modifier ou pas?</string>
 <string name="lodingcvs">chargement csv</string>
 <string name="status_gps">GPS</string>
@@ -134,7 +134,7 @@
 <string name="poweron_password_inputhint">Vous devez saisir plus de 4 bit</string>
 <string name="poweron_password_wronghint">Vous avez * chance(s) encore</string>
 <string name="poweron_password_shutdown">Le système va s\'éteindre</string>
-<string name="poweron_password_jumphint">Veuillez patienter...</string>
+<string name="poweron_password_jumphint">Veuillez patienter…</string>
 <string name="lockscreen_charging_hint">Chargement</string>
 <string name="lockscreen_unknown_song">Chanson inconnue</string>
 <string name="lockscreen_unknown_singer">Chanteur inconnu</string>
@@ -167,7 +167,7 @@
 <string name="oppo_power_netdate_mode_text">NetData</string>
 <string name="oppo_internal_sd_name">Stockage du téléphone</string>
 <string name="oppo_external_sd_name">Carte SD</string>
-<string name="more_string">%1$s plus...</string>
+<string name="more_string">%1$s plus…</string>
 <string name="permission_security_title">Alerte de sécurité</string>
 <string name="permission_security_label">" essaie de "</string>
 <string name="permission_settings_prompt">"Veuillez définir les options dans Paramètres -&gt; Sécurité -&gt; Confidentialité"</string>
