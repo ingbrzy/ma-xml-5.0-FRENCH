@@ -16,7 +16,8 @@
   <string name="album_search_online_descript">En ligne | %1$d x %2$d</string>
   <string name="album_select">Veuillez sélectionner une pochette d\'album</string>
   <string name="albums_title">Albums</string>
-  <string name="albumsongseparator">""</string>
+  <string name="albumsongseparator">"
+"</string>
   <string name="all_tracks">Chansons</string>
   <string name="android_album_settings">Utiliser la pochette intégrée</string>
   <string name="android_album_summary">Afficher automatiquement la pochette de l\'album pourrait entraîner des erreurs</string>
@@ -187,7 +188,8 @@
   <string name="no_effect">Pas d\'effet</string>
   <string name="no_song_downloaded">La chanson ne peut pas être téléchargée</string>
   <string name="not_selected">Veuillez sélectionner une chanson</string>
-  <string name="notification_artist_album">"%2$s %1$s"</string>
+  <string name="notification_artist_album">"%2$s
+%1$s"</string>
   <string name="online_search_hint">Rechercher des musiques en ligne</string>
   <string name="online_title">En ligne</string>
   <string name="other_settings">Autres</string>
