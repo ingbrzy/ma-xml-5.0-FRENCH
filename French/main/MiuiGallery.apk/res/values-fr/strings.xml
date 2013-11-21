@@ -27,7 +27,7 @@
   <string name="album_share_exit_confirm">Êtes-vous certain de vouloir quitter l\'album partagé ?</string>
   <string name="album_share_kicked">Vous avez été retiré de %1$s</string>
   <string name="album_share_stat_content">Nouvelles invitations de partage d\'albums</string>
-  <string name="album_share_subtitle_accepting">Acceptation de  l\'invitation de %1$s…</string>
+  <string name="album_share_subtitle_accepting">Acceptation de l\'invitation de %1$s…</string>
   <string name="album_share_subtitle_denying">Refus de l\'invitation de %1$s…</string>
   <string name="album_share_subtitle_invited">Partagé par %1$s, accepter ou ignorer ?</string>
   <string name="album_share_subtitle_normal">Partagé par %1$s</string>

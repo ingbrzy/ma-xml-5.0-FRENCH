@@ -1083,7 +1083,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="wipe_data">Supprimer les données</string>
   <string name="zero_items_selected">Aucun élément sélectionné</string>
   <string name="account_unactivated">Compte non activé.</string>
-  <string name="resource_account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard./string>
+  <string name="resource_account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
   <string name="resource_account_current">Compte : %1$s</string>
   <string name="resource_account_fail_to_add">Impossible d\'ajouter le compte !</string>
   <string name="resource_account_login">Connexion</string>
@@ -1129,5 +1129,4 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_unknow_error">Une erreur inconnue s\'est produite.</string>
   <string name="resource_user_know">OK</string>
   <string name="to_activate_the_account">Veuillez activer votre compte Xiaomi</string>
-
 </resources>

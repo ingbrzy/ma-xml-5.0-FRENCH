@@ -232,7 +232,7 @@
     <string name="permgrouplab_developmentTools">Outils de développement</string>
     <string name="permgroupdesc_developmentTools">Ces fonctionnalités sont destinées uniquement aux développeurs d\'applications.</string>
     <string name="permgrouplab_storage">Stockage</string>
-    <string name="permgroupdesc_storage">Accéder à la  mémoire de stockage USB</string>
+    <string name="permgroupdesc_storage">Accéder à la mémoire de stockage USB</string>
     <string name="permlab_statusBar">Désactivation ou modification de la barre d\'état</string>
     <string name="permdesc_statusBar">Permet à l\'application de désactiver la barre d\'état, ou d\'ajouter et de supprimer des icônes système.</string>
     <string name="permlab_statusBarService">barre d\'état</string>

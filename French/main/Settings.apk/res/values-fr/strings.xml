@@ -2439,7 +2439,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_p2p_disconnect_message">Si vous vous déconnectez, votre connexion avec %1$s prendra fin.</string>
   <string name="wifi_p2p_disconnect_multiple_message">Si vous vous déconnectez, votre connexion avec %1$s et %2$s autres appareils prendra fin.</string>
   <string name="wifi_p2p_disconnect_title">Déconnecter ?</string>
-  <string name="wifi_p2p_failed_connect_message">"Impossible de se connecter."</string>
+  <string name="wifi_p2p_failed_connect_message">Impossible de se connecter.</string>
   <string name="wifi_p2p_failed_rename_message">Échec du changement de nom de l\'appareil.</string>
   <string name="wifi_p2p_menu_advanced">Paramètres avancés</string>
   <string name="wifi_p2p_menu_create_group">Créer un groupe</string>
@@ -2949,7 +2949,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="optimize_apk_list_empty_content">Aucun fichier apk trouvé.</string>
   <string name="optimize_cache_header_left">Fichiers cache : %d</string>
   <string name="optimize_cache_list_empty_content">Aucun fichier cache trouvé.</string>
-  <string name="optimize_done">"Ok, c\'est fini !"</string>
+  <string name="optimize_done">Ok, c\'est fini !</string>
   <string name="optimize_large_file_header_left">Fichiers volumineux : %d</string>
   <string name="optimize_large_file_list_empty_content">Aucun fichier volumineux trouvé.</string>
   <string name="optimize_now">Démarrer</string>

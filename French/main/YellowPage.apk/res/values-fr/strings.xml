@@ -72,7 +72,7 @@
   <string name="payment_back">Annuler</string>
   <string name="payment_failed_common_problems">Un problème est survenu lors du paiement.</string>
   <string name="payment_unknown_status_summary">Vérifiez votre connexion réseau et réessayez.</string>
-  <string name="payment_unknown_status_title">"Erreur du statut de paiement"</string>
+  <string name="payment_unknown_status_title">Erreur du statut de paiement</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="provider_tag">Source de données</string>
   <string name="recharge_actual_price">Prix :</string>
@@ -99,7 +99,7 @@
   <string name="recharge_user_confirm_summary">"Vous serez facturé %1$s pour %2$s RMB
 Montant total : %3$s RMB"</string>
   <string name="recharge_user_confirm_title">Confirmer</string>
-  <string name="remind_another_time">"Ne pas demander pour ce numéro</string>
+  <string name="remind_another_time">Ne pas demander pour ce numéro</string>
   <string name="remind_user_confirm">OK</string>
   <string name="remind_user_suspect_number_message">"Les malfaiteurs peuvent usurper l'identité d'autres personnes pour frauder, en cas de doute rappelez pour vérifier l'identité de l'appelant. Les banques, les sociétés d'e-commerce etc. ne vous demanderont jamais votre mot de passe ou vos informations bancaires."</string>
   <string name="remind_user_suspect_number_title">Méfiez-vous des appels frauduleux</string>

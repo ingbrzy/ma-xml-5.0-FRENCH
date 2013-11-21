@@ -328,7 +328,7 @@ d MMMM"</string>
     <string name="permgrouplab_display">"Interface utilisateur d'une autre application"</string>
     <string name="permgroupdesc_display">"Effet sur l'interface utilisateur d'autres applications"</string>
     <string name="permgrouplab_storage">Stockage</string>
-    <string name="permgroupdesc_storage">"Accéder à la  mémoire de stockage USB"</string>
+    <string name="permgroupdesc_storage">"Accéder à la mémoire de stockage USB"</string>
     <string name="permgrouplab_accessibilityFeatures">"Fonctionnalités d'accessibilité"</string>
     <string name="permgroupdesc_accessibilityFeatures">"Fonctionnalités pouvant être requises dans le cadre des technologies d'assistance"</string>
     <string name="capability_title_canRetrieveWindowContent">"Récupérer le contenu d'une fenêtre"</string>

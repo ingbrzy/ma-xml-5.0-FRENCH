@@ -147,7 +147,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="hfb_tariff">Tarif information</string>
   <string name="hfb_trans_error_label">No previous transactions found</string>
   <string name="hfb_trans_result_progress_label">Searching for previous transactions...</string>
-  <string name="hfb_umpay_info">Call * 10658008 for  China Mobile Communications accounts to pay via SMS</string>
+  <string name="hfb_umpay_info">Call * 10658008 for China Mobile Communications accounts to pay via SMS</string>
   <string name="hfb_upgrade_download_fail">Failed to download update, please try again later</string>
   <string name="hfb_upgrade_download_sucess">New version downloaded successfully!</string>
  <!-- -->

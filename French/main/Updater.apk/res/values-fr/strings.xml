@@ -94,7 +94,7 @@
   <string name="no_updates_found">Vous utilisez déjà la dernière version</string>
   <string name="no_updates_warning">Aucune mise à jour n\'a été trouvée pour votre téléphone</string>
   <string name="no_updates_warning2">L\'application vous préviendra pour toute mise à jour</string>
-  <string name="not_recommend">"Déconseillée"</string>
+  <string name="not_recommend">Déconseillée</string>
   <string name="paused_queued_for_network">En attente d\'une connexion réseau</string>
   <string name="paused_queued_for_wifi">En attente d\'une connexion Wi-Fi</string>
   <string name="previous">Précédent</string>

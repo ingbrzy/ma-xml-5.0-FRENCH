@@ -30,7 +30,7 @@
   <string name="permdesc_handoverStatus">Permet la réception d\'informations concernant l\'état du transfert via Bluetooth.</string>
   <string name="bluetooth_pan_GN_authorize_confirm_title">Accepter la requête d\'autorisation réseau groupe Ad-hoc</string>
   <string name="bluetooth_pan_NAP_authorize_confirm_title">Accepter la requête d\'autorisation points d\'accès réseau</string>
-  <string name="bluetooth_pan_GN_authorize_confirm">Souhaitez-vous accepter la requête d\'autorisation réseau groupe Ad-hoc  provenant de %1$s?</string>
+  <string name="bluetooth_pan_GN_authorize_confirm">Souhaitez-vous accepter la requête d\'autorisation réseau groupe Ad-hoc provenant de %1$s?</string>
   <string name="bluetooth_pan_NAP_authorize_confirm">Souhaitez-vous accepter la requête d\'autorisation points d\'accès réseau provenant de %1$s?</string>
   <string name="bluetooth_pan_GN_connected_confirm_title">Déconnecter le réseau groupe Ad-hoc</string>
   <string name="bluetooth_pan_NAP_connected_confirm_title">Déconnecter les points d\'accès réseau</string>
@@ -40,7 +40,7 @@
   <string name="bluetooth_pan_no">Refuser</string>
   <string name="bluetooth_pan_GN_authorize_notify_ticker">Requête d\'autorisation réseau groupe Ad-hoc Bluetooth</string>
   <string name="bluetooth_pan_GN_authorize_notify_title">Autorisation réseau groupe Ad-hoc Bluetooth</string>
-  <string name="bluetooth_pan_GN_authorize_notify_message">Choisissez d\'accepter la requête d\'autorisation réseau groupe Ad-hoc  provenant de %1$s</string>
+  <string name="bluetooth_pan_GN_authorize_notify_message">Choisissez d\'accepter la requête d\'autorisation réseau groupe Ad-hoc provenant de %1$s</string>
   <string name="bluetooth_pan_NAP_authorize_notify_ticker">Requête d\'autorisation points d\'accès réseau Bluetooth</string>
   <string name="bluetooth_pan_NAP_authorize_notify_title">Autorisation points d\'accès réseau Bluetooth</string>
   <string name="bluetooth_pan_NAP_authorize_notify_message">Choisissez d\'accepter la requête d\'autorisation points d\'accès réseau provenant de %1$s</string>

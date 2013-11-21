@@ -4,7 +4,7 @@
   <string name="access_token_expired_warning">Votre compte Weibo a expiré, veuillez le rattacher</string>
   <string name="access_token_invalid_warning">Votre compte Weibo est non valide, veuillez le rattacher</string>
   <string name="account">Compte</string>
-  <string name="account_dspt">"Les comptes Xiaomi permettent de synchroniser et sauvegarder vos messages, contacts, photos, etc."</string>
+  <string name="account_dspt">Un compte Xiaomi permet de synchroniser et sauvegarder vos messages, contacts, photos, etc.</string>
   <string name="account_hint_text">Mail ou Numéro de téléphone</string>
   <string name="account_name">Compte : %1$s</string>
   <string name="activate_phone_failed_notif_title">Échec de l\'activation du service MiCloud</string>
@@ -93,7 +93,7 @@
   <string name="failed_to_send_activate_email">Impossible d\'envoyer un mail d\'activation</string>
   <string name="find_device">Localiser l\'appareil</string>
   <string name="find_device_check_phone_error_title">Impossible d\'activer la localisation de l\'appareil</string>
-  <string name="find_device_disabled_notice">"Vous pouvez l\'activée via Paramètres > MiCloud"</string>
+  <string name="find_device_disabled_notice">Vous pouvez l\'activée via Paramètres > MiCloud</string>
   <string name="find_device_disabled_title">Localisation de l\'appareil désactivée</string>
   <string name="find_device_disabling">Désactivation…</string>
   <string name="find_device_enabling">Activation…</string>
@@ -224,11 +224,11 @@ Vous pouvez faire autre chose…"</string>
   <string name="update_contacts_description">Met à jour vos contacts téléphoniques et d\'autres informations</string>
   <string name="updated_contacts">%s contacts mis à jour</string>
   <string name="updated_nothing">Rien à synchroniser.</string>
-  <string name="user_agreement_p1">"En vous connectant, vous acceptez les"</string>
+  <string name="user_agreement_p1">En vous connectant, vous acceptez les</string>
   <string name="user_agreement_p2">Conditions d\'utilisation de Xiaomi</string>
   <string name="user_agreement_p3"> et </string>
   <string name="user_agreement_p4">Règles de confidentialité</string>
-  <string name="user_agreement_p5">"En vous inscrivant, vous acceptez les"</string>
+  <string name="user_agreement_p5">En vous inscrivant, vous acceptez les</string>
   <string name="vcode">Code de vérification</string>
   <string name="vcode_prompt_long">Veuillez saisir le code de vérification généré par Xiaomi</string>
  <!-- vcode_notification_title à revoir ? original : Your login verification is incomplete -->

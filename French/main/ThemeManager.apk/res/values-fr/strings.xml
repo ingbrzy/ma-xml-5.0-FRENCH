@@ -266,7 +266,7 @@
   <string name="resource_exchange_share_code_dlg_content">Code acheté avec succès pour %1$s est : %2$s. Vous pouvez maintenant le partager avec des amis.</string>
   <string name="resource_exchange_share_code_dlg_title">Envoyer un code</string>
   <string name="resource_exchange_success">Transaction réussie</string>
-  <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème/string>
+  <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème</string>
   <string name="resource_exchange_universal_finish">Utilisez ce code pour télécharger un thème depuis le magasin de thèmes MIUI.</string>
   <string name="resource_exchange_universal_goon">Ce code peut être utilisé pour télécharger n\'importe-quel thème depuis le magasin de thèmes MIUI.</string>
  <!-- à traduire : 
