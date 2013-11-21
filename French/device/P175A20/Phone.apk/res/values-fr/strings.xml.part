@@ -15,7 +15,7 @@
   <string name="auto_reject_title_video">Appels vidéo</string>
   <string name="auto_reject_title_voice">Appels vocaux</string>
   <string name="buttonTxtContinue">Continuer</string>
-  <string name="callDurationFormat">%1$s mins %2$s secs</string>
+  <string name="callDurationFormat">%1$s min %2$s s</string>
   <string name="callFailed_cdma_notEmergency">Services d\'urgence uniquement</string>
   <string name="callFailed_cdma_reorder">CDMA : re-trier</string>
   <string name="callFailed_dsac_vt_bear_not_authorized">Configuration de l\'appel vidéo impossible. Le service visiophone n\'est pas activé sur cette carte SIM, appeler via appel vocal ?</string>

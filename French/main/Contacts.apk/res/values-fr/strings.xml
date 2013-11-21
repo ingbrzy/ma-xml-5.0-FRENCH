@@ -57,7 +57,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="callAgain">Renouveler l\'appel</string>
   <string name="callBack">Rappeler</string>
   <string name="callDetailTitle">Détails de l\'appel</string>
-  <string name="callDetailsDurationFormat" formatted="false">%1$s min %2$s sec</string>
+  <string name="callDetailsDurationFormat" formatted="false">%1$s min %2$s s</string>
   <string name="callShortcutActivityTitle">Choisissez un numéro à appeler</string>
   <string name="call_assistant">Appel de %s</string>
   <string name="call_callback">Rappel automatique</string>

@@ -2979,9 +2979,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_autorun_control_desc">Augmenter le nombre d\'applications démarrant automatiquement peut augmenter la consommation d\'énergie de votre téléphone</string>
   <string name="power_autorun_control_title">Démarr. auto.</string>
   <string name="power_autorun_empty">Aucunes applis installées</string>
-  <string name="power_battery_history_days">%1$d jours %2$d h%3$d mins</string>
-  <string name="power_battery_history_hours">%1$d h %2$d mins</string>
-  <string name="power_battery_history_minutes">%1$d mins</string>
+  <string name="power_battery_history_days">%1$d jours %2$d h%3$d min</string>
+  <string name="power_battery_history_hours">%1$d h %2$d min</string>
+  <string name="power_battery_history_minutes">%1$d min</string>
   <string name="power_battery_history_zero_minutes">0 min</string>
   <string name="power_center_battery_full">La batterie est chargée</string>
   <string name="power_center_charge_time">La charge terminera dans %1$s</string>
@@ -3055,7 +3055,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_dialog_vibration_title">Vibrer</string>
   <string name="power_mgr">Énergie</string>
   <string name="power_mode_airplane_mode">Mode avion</string>
-  <string name="power_mode_auto_clean_memery_lock_screen">Verrouiller l\'écran après %1$d mins</string>
+  <string name="power_mode_auto_clean_memery_lock_screen">Verrouiller l\'écran après %1$d min</string>
   <string name="power_mode_auto_clean_memory">Nettoyer la mémoire automatiquement</string>
   <string name="power_mode_auto_clean_memory_in_five_minutes">Après 5 minutes</string>
   <string name="power_mode_auto_clean_memory_in_one_minute">Après 1 minute</string>
@@ -3119,7 +3119,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_usage_sort_title">Voir la consommation d\'énergie</string>
   <string name="power_used_hours">h</string>
   <string name="power_used_hours_test">8</string>
-  <string name="power_used_mins">mins</string>
+  <string name="power_used_mins">min</string>
   <string name="power_used_mins_test">23</string>
   <string name="power_used_prefix">Énergie consommée</string>
  <!-- probablement à NE PAS traduire  :
@@ -3153,7 +3153,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="quick_scan_cleaning_title">Nettoyage…</string>
   <string name="quick_scan_doing_title">Analyse…</string>
   <string name="quick_scan_list_loading_hits">Analyse…</string>
-  <string name="quick_scan_result_summary">Le nettoyage commencera dans %d secs</string>
+  <string name="quick_scan_result_summary">Le nettoyage commencera dans %d sec</string>
   <string name="quick_scan_result_title">%s éléments trouvés</string>
   <string name="realtime_protection">Protection</string>
   <string name="realtime_protection_title">Protection</string>
