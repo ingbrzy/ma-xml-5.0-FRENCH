@@ -29,15 +29,15 @@
         <item quantity="one">"Le mot de passe doit comporter au moins un caractère autre qu\'une lettre."</item>
     </plurals>
     <plurals name="power_center_battery_day">
-        <item quantity="other">%d jours</item>
-        <item quantity="one">%d jour</item>
+        <item quantity="other">"%d jours "</item>
+        <item quantity="one">"%d jour "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
+        <item quantity="other">"%d h "</item>
+        <item quantity="one">"%d h "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
+        <item quantity="other">"%d min "</item>
+        <item quantity="one">"%d min "</item>
     </plurals>
 </resources>

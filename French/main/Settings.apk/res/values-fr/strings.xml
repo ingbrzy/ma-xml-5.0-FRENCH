@@ -2979,7 +2979,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_autorun_control_desc">Augmenter le nombre d\'applications démarrant automatiquement peut augmenter la consommation d\'énergie de votre téléphone</string>
   <string name="power_autorun_control_title">Démarr. auto.</string>
   <string name="power_autorun_empty">Aucunes applis installées</string>
-  <string name="power_battery_history_days">%1$d jours %2$d h%3$d min</string>
+  <string name="power_battery_history_days">%1$d jours %2$d h %3$d min</string>
   <string name="power_battery_history_hours">%1$d h %2$d min</string>
   <string name="power_battery_history_minutes">%1$d min</string>
   <string name="power_battery_history_zero_minutes">0 min</string>
