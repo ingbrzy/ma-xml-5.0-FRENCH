@@ -38,7 +38,7 @@
   <string name="menu_settings">Paramètres</string>
   <string name="menu_view_record_list">Liste des enregistrements</string>
   <string name="message_file_size_error">L\'enregistrement a atteint la taille d\'enregistrement maximum supportée par %s</string>
-  <string name="minute">%d minute</string>
+  <string name="minute">%d minute(s)</string>
   <string name="no_file">Aucun enregistrement</string>
   <string name="notification_playback">Lecture de l\'enregistrement…</string>
   <string name="notification_recording">Enregistrement…</string>
@@ -71,7 +71,7 @@
   <string name="rename_illegal">Nom de l\'enregistrement incorrect, veuillez le renommer :</string>
   <string name="sd_card_not_available">La carte SD n\'est pas disponible</string>
   <string name="search_for_recordings_in_folders">Rechercher les dossiers pour les enregistrements</string>
-  <string name="second">%d secondes</string>
+  <string name="second">%d seconde(s)</string>
   <string name="send_to">Envoyer à</string>
   <string name="sound_recorder_settings">Paramètres d\'enregistrement</string>
   <string name="start_recording">"Démarrer l'enregistrement"</string>

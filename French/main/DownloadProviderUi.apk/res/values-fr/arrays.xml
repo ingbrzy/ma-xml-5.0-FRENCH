@@ -2,22 +2,22 @@
 <resources>
     <string-array name="prefEntries_max_bytes_limit">
         <item>Illimité</item>
-        <item>1Go</item>
-        <item>200Mo</item>
-        <item>100Mo</item>
-        <item>50Mo</item>
-        <item>20Mo</item>
-        <item>10Mo</item>
-        <item>5Mo</item>
-        <item>2Mo</item>
-        <item>1Mo</item>
-        <item>500Ko</item>
-        <item>200Ko</item>
+        <item>500 Mo</item>
+        <item>200 Mo</item>
+        <item>100 Mo</item>
+        <item>50 Mo</item>
+        <item>20 Mo</item>
+        <item>10 Mo</item>
+        <item>5 Mo</item>
+        <item>2 Mo</item>
+        <item>1 Mo</item>
+        <item>500 Ko</item>
+        <item>200 Ko</item>
         <item>Toujours via Wi-Fi</item>
     </string-array>
     <string-array name="prefValues_max_bytes_limit">
         <item>2147483647</item>
-        <item>1048576000</item>
+        <item>524288000</item>
         <item>209715200</item>
         <item>104857600</item>
         <item>52428800</item>

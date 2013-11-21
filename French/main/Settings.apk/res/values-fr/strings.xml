@@ -2790,7 +2790,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="context_new_contact">Nouveau contact</string>
   <string name="custom_mark_category">Personnalisé</string>
   <string name="deep_clean_tips_cache">iconCertaines applications utilisent des fichiers de cache pour stocker des ressources, téléchargées, supplémentaires (ex : paroles de chansons, musique, images, etc.). Soyez prudent lorsque vous nettoyez ces fichiers.</string>
-  <string name="deep_clean_tips_large_file">iconLe Nettoyeur indique les fichiers volumineux (plus grand que 10Mo) qui sont actuellement stockées sur votre appareil. Vous pouvez seulement décider si oui ou non vous avez encore besoin d\'eux.</string>
+  <string name="deep_clean_tips_large_file">iconLe Nettoyeur indique les fichiers volumineux (plus grand que 10 Mo) qui sont actuellement stockées sur votre appareil. Vous pouvez seulement décider si oui ou non vous avez encore besoin d\'eux.</string>
   <string name="deep_clean_tips_residual">iconLes résidus sont des fichiers (ex : des vidéos, fonds d\'écran, musique, etc) qui ont été téléchargés sur la carte SD de votre appareil par des applications qui ont depuis été désinstallés. Soyez prudent lorsque vous nettoyez, certains de ces fichiers peuvent peut-être encore vous être utiles.</string>
   <string name="deep_clean_title_cache">Cache</string>
   <string name="deep_clean_title_large_file">Fichiers volumineux</string>
@@ -2916,7 +2916,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="opt_clean_garbage">Nettoyé : %d Mo</string>
   <string name="opt_disabled_autorun">%d démarr. auto. d\'appli(s) désactivé(s)</string>
   <string name="opt_done_desc">Terminé</string>
-  <string name="opt_freed_ram">%dMo de mémoire vive libérés</string>
+  <string name="opt_freed_ram">%d Mo de mémoire vive libérés</string>
   <string name="opt_garbage_size">Taille totale :</string>
   <string name="opt_item_app_perm">Gestion des permissions</string>
   <string name="opt_item_autorun">Démarr. auto.</string>

@@ -163,7 +163,7 @@
   <string name="download_default_path_txt">Définir comme chemin de téléchargement par défaut et ne plus me demander</string>
   <string name="download_dialog_default_path_invalid">Chemin de téléchargement non valide, le chemin de téléchargement par défaut sera utilisé</string>
   <string name="download_dialog_file_length_hint_txt">Taille du fichier :</string>
-  <string name="download_dialog_file_length_lessthan1kb">Moins de 1Ko</string>
+  <string name="download_dialog_file_length_lessthan1kb">Moins de 1 Ko</string>
   <string name="download_dialog_file_length_nolength_error_txt">Échec du calcul de la taille du fichier</string>
   <string name="download_dialog_file_length_nolength_txt">Calcul de la taille du fichier</string>
   <string name="download_failed">Le téléchargement a échoué</string>
@@ -197,7 +197,7 @@
   <string name="empty_history">Aucun historique de navigation</string>
   <string name="empty_snapshots_folder">Aucune page enregistrée</string>
   <string name="error_console_eval_button_text">Évaluer</string>
-  <string name="error_console_eval_text_hint">Evaluer le JavaScript</string>
+  <string name="error_console_eval_text_hint">Évaluer le JavaScript</string>
   <string name="error_console_header_text_maximized">Console JavaScript</string>
   <string name="error_console_header_text_minimized">Afficher la console JavaScript</string>
   <string name="exit_browser_warning">Quitter le navigateur ?</string>
