@@ -10,7 +10,7 @@
     <string name="burst_shot_disabled">Rafale désactivée</string>
     <string name="change_to_phone_memory">Mémoire insuffisante. La mémoire du téléphone a été définie comme emplacement de stockage par défaut</string>
     <string name="change_to_device_memory">Espace insuffisant sur la carte SD. Le périphérique de stockage a été défini comme système de stockage par défaut</string>
-    <string name="video_reach_size_limit">"Taille maximum d'enregistrement atteinte"</string>
+    <string name="video_reach_size_limit">"Taille maximale d'enregistrement atteinte"</string>
     <string name="video_reach_time_limit">"Durée d'enregistrement maximale atteinte"</string>
     <string name="processing_msg">En cours…</string>
     <string name="panorama_processing_msg">Veuillez patienter pendant la création du panorama</string>

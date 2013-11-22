@@ -295,6 +295,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="usb_notification_ptp_info">Accéder aux photos à partir de l\'ordinateur</string>
   <string name="usb_notification_ptp_ticker_text">Périphérique USB connecté (mode photos)</string>
   <string name="usb_ptp_text">Photos</string>
+  <string name="usb_share_net_info">Partage de connexion par USB</string>
   <string name="usb_storage_error_message">Il y a un problème lors de l\'utilisation de la carte SD pour le stockage de masse USB.</string>
   <string name="usb_storage_message">Vous êtes connecté à votre ordinateur par l\'USB. Appuyer sur le bouton ci-dessous si vous souhaitez copier des fichiers entre votre ordinateur et la mémoire de stockage USB de votre appareil Android.</string>
   <string name="usb_storage_notification_message">Sélectionnez cette option pour copier des fichiers vers/depuis votre ordinateur.</string>

@@ -238,7 +238,7 @@
   <string name="wallpaper_settings">Paramètres du fond d\'écran</string>
   <string name="account_info">Mon compte</string>
   <string name="account_unactivated">Compte non activé.</string>
-  <!-- apply_theme_with_ringtones : vérifier longueur -->
+ <!-- apply_theme_with_ringtones : vérifier longueur -->
   <string name="apply_theme_with_ringtones">Appliquer le thème avec les sonneries</string>
   <string name="basic_info">Informations</string>
   <string name="payment_info">MiCredits</string>
@@ -251,9 +251,8 @@
   <string name="resource_account_switch">Changer de compte</string> 
   <string name="resource_comment_loading_list">Chargement des commentaires…</string>
   <string name="resource_comment_score_count">%1$s utilisateurs</string>
- <!-- à traduire : 
-  <string name="resource_exchange">Redeem</string>
- -->
+ <!-- resource_exchange & resource_exchange_window_title à revoir ? -->
+  <string name="resource_exchange">Activer un code</string>
   <string name="resource_exchange_confirm">Confirmer</string>
   <string name="resource_exchange_empty_format">Veuillez saisir un code !</string>
   <string name="resource_exchange_has_bought">Vous avez déjà acheté ce thème.</string>
@@ -269,9 +268,7 @@
   <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème</string>
   <string name="resource_exchange_universal_finish">Utilisez ce code pour télécharger un thème depuis le magasin de thèmes MIUI.</string>
   <string name="resource_exchange_universal_goon">Ce code peut être utilisé pour télécharger n\'importe-quel thème depuis le magasin de thèmes MIUI.</string>
- <!-- à traduire : 
-  <string name="resource_exchange_window_title">Redeem code</string>
- -->
+  <string name="resource_exchange_window_title">Activer un code</string>
   <string name="resource_exchange_wrong_format_by_local">Code saisi non valide</string>
   <string name="resource_exchange_wrong_format_by_server">Le code n\'a pas pu être validé. Veuillez vérifier votre code.</string>
   <string name="resource_hint">Alerte</string>
