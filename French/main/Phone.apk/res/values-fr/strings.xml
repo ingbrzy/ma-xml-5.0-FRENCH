@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="ContactScreen">Ajouter/modifier des contacts SIM</string>
+  <string name="ContactScreen">Gérer les contacts SIM</string>
   <string name="ExportContactScreen">Exporter des contacts du téléphone vers la carte SIM</string>
   <string name="absent_num">Numéro absent</string>
   <string name="accessibility_call_muted">Son coupé</string>
@@ -10,14 +10,15 @@
   <string name="add_fdn_contact">Ajouter un numéro autorisé</string>
   <string name="add_sip_account">Ajouter un compte</string>
   <string name="add_vm_number_str">Ajouter un numéro</string>
-  <string name="add_zero_prefix">Ajouter le préfixe 0 tout en composant le numéro de téléphone mobile</string>
+  <string name="add_zero_prefix">Ajouter le préfixe 0 pour les numéros de téléphones mobiles</string>
   <string name="adding_fdn_contact">Ajout du numéro autorisé…</string>
   <string name="additional_cdma_call_settings">Autres paramètres d\'appel CDMA</string>
   <string name="additional_gsm_call_settings">Autres paramètres</string>
   <string name="administrative_disable">Option "Administration" désactivée</string>
   <string name="administrative_enable">Option "Administration" activée</string>
   <string name="advanced_settings">Paramètres facultatifs</string>
-  <string name="advanced_settings_container">conteneur de paramètres avancés</string>
+ <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
+  <string name="advanced_settings_container">conteneur de paramètres avancés</string> -->
   <string name="advanced_settings_hide">▽ Appuyer ici pour tout masquer</string>
   <string name="advanced_settings_show">▷ Appuyer ici pour tout afficher</string>
   <string name="advertisements_disable">Option "Annonces" désactivée</string>
@@ -58,7 +59,8 @@
   <string name="audio_mode_wired_headset">Écouteurs filaires</string>
   <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Nom d\'utilisateur utilisé pour l\'authentification</string>
-  <string name="auth_username_title">Nom d\'utilisateur d\'authentification</string>
+  <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
+  <string name="auth_username_title">Nom d\'utilisateur d\'authentification</string> -->
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
   <string name="auto_answer_delay_entries_delay_3s_miui">3s</string>
   <string name="auto_answer_delay_entries_delay_5s_miui">5s</string>
@@ -307,9 +309,7 @@
   <string name="default_contacts_countrycode_hint_miui">Par exemple : 86</string>
   <string name="default_contacts_countrycode_miui">Code pays des contacts par défaut</string>
   <string name="default_contacts_countrycode_sum_miui">Définir le code de pays par défaut de vos contacts : %s</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Non défini&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Supprimer</string>
   <string name="deleteAllSimEntries">Supprimer tous les contacts de la carte SIM</string>
   <string name="deleteSimContacts">Suppression des contacts de la carte SIM…</string>
@@ -364,10 +364,12 @@
   <string name="disable_pin_ok">Code PIN de la carte SIM désactivé.</string>
   <string name="disable_sim_pin">Désactiver le code PIN de la carte SIM</string>
   <string name="disable_sim_pin_miui">Désactiver le code PIN de la carte SIM</string>
-  <string name="display_name">Afficher le nom</string>
+  <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
+  <string name="display_name">Afficher le nom</string> -->
   <string name="display_name_summary">&lt;Identique au nom d\'utilisateur&gt;</string>
   <string name="display_name_title">Nom affiché</string>
-  <string name="domain_address">Adresse Sip</string>
+  <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
+  <string name="domain_address">Adresse Sip</string> -->
   <string name="domain_address_title">Serveur</string>
   <string name="doneButton">OK</string>
   <string name="dtmf_tone_enable_title">Numérotation sonore</string>
@@ -721,7 +723,8 @@ Il est possible que vous deviez vous déplacer vers une zone disposant d'une mei
 Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="other_settings">Autres paramètres d\'appel</string>
   <string name="other_settings_miui">Autres paramètres d\'appel</string>
-  <string name="password">Mot de passe</string>
+ <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
+  <string name="password">Mot de passe</string> -->
   <string name="password_title">Mot de passe</string>
   <string name="pause_prompt_no">Non</string>
   <string name="pause_prompt_str">Envoi des tonalités\n</string>
@@ -757,7 +760,8 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="pin_progress_unlock_icc_miui">Déblocage de la carte SIM…</string>
   <string name="place_a_call1">Abonnement 1</string>
   <string name="place_a_call2">Abonnement 2</string>
-  <string name="port">Port</string>
+ <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
+  <string name="port">Port</string> -->
   <string name="port_title">N° de port</string>
   <string name="pref_custom_location_summary_miui">Personnaliser l\'attribution régionale et l\'attribution du numéro</string>
   <string name="pref_custom_location_title_miui">Personnaliser l\'attribution</string>
@@ -800,7 +804,8 @@ Appuyez sur OK pour continuer."</string>
   <string name="progress_dialog_exiting_ecm">Sortie du mode de rappel d\'urgence…</string>
   <string name="prompt">Demander</string>
   <string name="prompt_user">Demander à l\'utilisateur</string>
-  <string name="proxy_address">Adresse du proxy</string>
+  <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
+  <string name="proxy_address">Adresse du proxy</string> -->
   <string name="proxy_address_title">Adresse de proxy sortant</string>
   <string name="pstn_phone">Appel de mobile</string>
   <string name="puk2_blocked">Le PUK2 est définitivement bloqué.</string>
@@ -897,10 +902,12 @@ Appuyez sur OK pour continuer."</string>
   <string name="sendSms">Envoyer un SMS</string>
   <string name="send_button">Envoyer</string>
   <string name="send_keepalive">Envoyer Keep Alive</string>
-  <string name="send_keepalive_title">Envoyer un keep-alive</string>
+ <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
+  <string name="send_keepalive_title">Envoyer un keep-alive</string> -->
   <string name="separate_from_conference_miui">Appel simple</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Le type de réseau préféré n\'est disponible que lorsque des données sont désactivées</string>
-  <string name="set_primary">Définir principal</string>
+ <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
+  <string name="set_primary">Définir principal</string> -->
   <string name="set_primary_summary">Utilisé pour les appels sortants</string>
   <string name="set_primary_title">Définir comme compte principal</string>
   <string name="set_smsc_address_error_miui">Impossible d\'obtenir le numéro du centre SMS, veuillez recommencer plus tard.</string>
@@ -945,10 +952,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="sip_accounts">Comptes d\'appels Internet (SIP)</string>
   <string name="sip_accounts_title">Comptes</string>
   <string name="sip_add_account_tip_text">Veuillez ajouter un compte SIP pour utiliser les appels Internet</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Toujours envoyer</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Pour tous les appels quand un réseau de données est disponible</string>
   <string name="sip_call_options_entry_2">Seulement pour les appels Internet</string>
   <string name="sip_call_options_entry_3">Demander à chaque fois</string>
@@ -1044,7 +1048,8 @@ La prochaine période démarre dans %4$d jours (%5$s)."</string>
   <string name="throttle_time_frame_subtext">"%1$d ٪ du cycle écoulé
 La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="title_data_settings">Paramètres des données</string>
-  <string name="transport">Protocole</string>
+ <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
+  <string name="transport">Protocole</string> -->
   <string name="transport_title">Type de transport</string>
   <string name="tty_mode_entries_full_miui">TTY complet</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1068,7 +1073,8 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="updating_fdn_contact">Mise à jour du numéro autorisé…</string>
   <string name="updating_settings">Mise à jour des paramètres…</string>
   <string name="updating_title">Paramètres d\'appel</string>
-  <string name="username">Nom d\'utilisateur</string>
+ <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
+  <string name="username">Nom d\'utilisateur</string> -->
   <string name="username_title">Nom d\'utilisateur</string>
   <string name="ussdRunning">Exécution du code USSD…</string>
   <string name="vibrate_on_ring_title">Mode Vibreur lorsque le tél. sonne</string>
