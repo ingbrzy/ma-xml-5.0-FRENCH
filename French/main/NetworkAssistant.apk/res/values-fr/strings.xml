@@ -168,10 +168,8 @@
   <string name="network_control_service_notification_title_nettype_mobile">mobile</string>
   <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
   <string name="running_apps_activity_title">Applis en cours d\'exécution</string>
- <!-- à traduire : 
-  <string name="network_control_service_notification_title_mutiple">%1$d apps have been denied for %2$s connection</string>
-  <string name="network_control_service_notification_title_single">%1$s has been denied for %2$s connection</string>
-  <string name="pref_connect_settings_monitor_running_app">Show network denied app when running</string>
-  <string name="pref_connect_settings_monitor_running_app_summary">Show notification when network denied app is running</string>
- -->
+  <string name="network_control_service_notification_title_mutiple">Connexion %2$s bloquée pour %1$d applis</string>
+  <string name="network_control_service_notification_title_single">Connexion %2$s bloquée pour %1$s</string>
+  <string name="pref_connect_settings_monitor_running_app">Afficher les notifications</string>
+  <string name="pref_connect_settings_monitor_running_app_summary">Affiche un notification quand une appli est bloquée du réseau</string>
 </resources>

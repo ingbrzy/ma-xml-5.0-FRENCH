@@ -67,8 +67,8 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="error_common_summary">Erreur système, veuillez réessayer plus tard</string>
   <string name="error_common_title">Erreur système</string>
   <string name="error_expired_summary">Votre commande a expiré</string>
-  <string name="error_frozen_summary">Votre compte a été verrouillé</string>
-  <string name="error_frozen_title">Compte verrouillé !</string>
+  <string name="error_frozen_summary">Votre compte a été gelé</string>
+  <string name="error_frozen_title">Compte gelé !</string>
   <string name="error_giftcard_summary">Impossible d\'obtenir les informations de la carte-cadeau</string>
   <string name="error_has_bought_summary">Vous avez déjà acheté ce produit</string>
   <string name="error_has_bought_title">Répéter l\'achat</string>
@@ -90,7 +90,7 @@ Veuillez réessayer dans cinq minutes"</string>
   <string name="forget_password">&lt;u&gt;Réinitialiser le mot de passe&lt;/u&gt;</string>
   <string name="format_date">dd MMM yyyy</string>
   <string name="format_time">dd MMM yyyy hh:mmaa</string>
-  <string name="frozen">(Verrouillé)</string>
+  <string name="frozen">(Gelé)</string>
   <string name="giftcard_acitivity_and_denomination">Carte-cadeau %2$s MiCredit de %1$s</string>
   <string name="giftcard_denom">MiCredit</string>
   <string name="giftcard_denom_available">MiCredit disponible</string>

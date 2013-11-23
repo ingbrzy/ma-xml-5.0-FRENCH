@@ -105,7 +105,7 @@
   <string name="discard_message">Ignorer</string>
   <string name="discard_message_reason">Votre message va être supprimé, car aucun destinataire valide n\'a été spécifié.</string>
   <string name="discard_slideshow">Supprimer le diaporama</string>
-  <string name="dl_failure_notification">Impossible de télécharger le message "%1$s" de %2$s.</string>
+  <string name="dl_failure_notification">Impossible de télécharger le message \"%1$s\" de %2$s.</string>
   <string name="done">OK</string>
   <string name="download">Télécharger</string>
   <string name="download_later">Impossible de télécharger pour le moment. Veuillez réessayer ultérieurement.</string>

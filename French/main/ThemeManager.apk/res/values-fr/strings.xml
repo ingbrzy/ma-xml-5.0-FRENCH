@@ -267,7 +267,7 @@
   <string name="resource_exchange_success">Transaction réussie</string>
   <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème</string>
   <string name="resource_exchange_universal_finish">Utilisez ce code pour télécharger un thème depuis le magasin de thèmes MIUI.</string>
-  <string name="resource_exchange_universal_goon">Ce code peut être utilisé pour télécharger n\'importe-quel thème depuis le magasin de thèmes MIUI.</string>
+  <string name="resource_exchange_universal_goon">Ce code peut être utilisé pour télécharger n\'importe quel thème depuis le magasin de thèmes MIUI.</string>
   <string name="resource_exchange_window_title">Activer un code</string>
   <string name="resource_exchange_wrong_format_by_local">Code saisi non valide</string>
   <string name="resource_exchange_wrong_format_by_server">Le code n\'a pas pu être validé. Veuillez vérifier votre code.</string>

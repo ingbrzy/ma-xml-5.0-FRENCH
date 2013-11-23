@@ -346,8 +346,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="eventLabelsGroup">Événements</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">L\'export vers la carte SIM est terminé</string>
- <!-- export_sim_contact_finish_failure à raccourcir eventuellent ? string originale : Transferred: %1$d Remaining: %2$d -->
-  <string name="export_sim_contact_finish_failure">Stockage SIM plein, terminé : %1$d inachevé : %2$d</string>
+  <string name="export_sim_contact_finish_failure">Transféré : %1$d Restant : %2$d</string>
   <string name="export_sim_contact_finish_success">%d contact(s) copié(s) de la carte SIM</string>
   <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
@@ -1108,7 +1107,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_exchange_success">Transaction réussie</string>
   <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème</string>
   <string name="resource_exchange_universal_finish">Utilisez ce code pour télécharger un thème depuis le magasin de thèmes MIUI.</string>
-  <string name="resource_exchange_universal_goon">Ce code peut être utilisé pour télécharger n\'importe-quel thème depuis le magasin de thèmes MIUI.</string> 
+  <string name="resource_exchange_universal_goon">Ce code peut être utilisé pour télécharger n\'importe quel thème depuis le magasin de thèmes MIUI.</string> 
   <string name="resource_exchange_window_title">Activer un code</string>
   <string name="resource_exchange_wrong_format_by_local">Code saisi non valide</string>
   <string name="resource_exchange_wrong_format_by_server">Le code n\'a pas pu être validé. Veuillez vérifier votre code.</string>

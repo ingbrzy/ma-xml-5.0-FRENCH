@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <!-- à traduire :
-     <string-array name="default_smiley_names">
-        <item>Happy</item>
-        <item>Sad</item>
-        <item>Winking</item>
-        <item>Tongue sticking out</item>
-        <item>Surprised</item>
-        <item>Kissing</item>
-        <item>Yelling</item>
-        <item>Cool</item>
-        <item>Money mouth</item>
-        <item>Foot in mouth</item>
-        <item>Embarrassed</item>
-        <item>Angel</item>
-        <item>Undecided</item>
-        <item>Crying</item>
-        <item>Lips are sealed</item>
-        <item>Laughing</item>
-        <item>Confused</item>
-        <item>Heart</item>
-        <item>Mad</item>
-        <item>Smirk</item>
-        <item>Poker face</item>
-    </string-array>
+ <!-- à traduire ? :
+  <string-array name="default_smiley_names">
+    <item>Happy</item>
+    <item>Sad</item>
+    <item>Winking</item>
+    <item>Tongue sticking out</item>
+    <item>Surprised</item>
+    <item>Kissing</item>
+    <item>Yelling</item>
+    <item>Cool</item>
+    <item>Money mouth</item>
+    <item>Foot in mouth</item>
+    <item>Embarrassed</item>
+    <item>Angel</item>
+    <item>Undecided</item>
+    <item>Crying</item>
+    <item>Lips are sealed</item>
+    <item>Laughing</item>
+    <item>Confused</item>
+    <item>Heart</item>
+    <item>Mad</item>
+    <item>Smirk</item>
+    <item>Poker face</item>
+  </string-array>
  -->
-	<string-array name="prefEntries_ringtone_repeat">
-		<item>1 fois</item>
-		<item>2 fois</item>
-		<item>3 fois</item>
-		<item>5 fois</item>
-		<item>10 fois</item>
-	</string-array>
-	<string-array name="contact_entries">
-		<item>Nom</item>
-		<item>Surnom</item>
-		<item>Téléphone</item>
-		<item>Mail</item>
-		<item>Organisation</item>
-		<item>Messagerie</item>
-		<item>Téléphone SIP</item>
-		<item>Anniversaire</item>
-		<item>Site web</item>
-		<item>Adresse</item>
-		<item>Note</item>
-	</string-array>
-	<string-array name="entries_date_type">
-		<item>Afficher l\'heure de réception</item>
-		<item>"Afficher l\'heure d\'envoi
+  <string-array name="prefEntries_ringtone_repeat">
+    <item>1 fois</item>
+    <item>2 fois</item>
+    <item>3 fois</item>
+    <item>5 fois</item>
+    <item>10 fois</item>
+  </string-array>
+  <string-array name="contact_entries">
+    <item>Nom</item>
+    <item>Surnom</item>
+    <item>Téléphone</item>
+    <item>Mail</item>
+    <item>Organisation</item>
+    <item>Messagerie</item>
+    <item>Téléphone SIP</item>
+    <item>Anniversaire</item>
+    <item>Site web</item>
+    <item>Adresse</item>
+    <item>Note</item>
+  </string-array>
+  <string-array name="entries_date_type">
+    <item>Afficher l\'heure de réception</item>
+    <item>"Afficher l\'heure d\'envoi
 (horodatage du serveur, peut manquer de précision)"</item>
-	</string-array>
-	<string-array name="select_dialog_items">
-		<item>1 seconde</item>
-		<item>2 secondes</item>
-		<item>3 secondes</item>
-		<item>4 secondes</item>
-		<item>5 secondes</item>
-		<item>6 secondes</item>
-		<item>7 secondes</item>
-		<item>8 secondes</item>
-		<item>9 secondes</item>
-		<item>10 secondes</item>
-		<item>Autre</item>
-	</string-array>
-	<string-array name="prefEntries_vibrateWhen">
-		<item>Toujours</item>
-		<item>Seulement en silencieux</item>
-		<item>Jamais</item>
-	</string-array>
+  </string-array>
+  <string-array name="select_dialog_items">
+    <item>1 seconde</item>
+    <item>2 secondes</item>
+    <item>3 secondes</item>
+    <item>4 secondes</item>
+    <item>5 secondes</item>
+    <item>6 secondes</item>
+    <item>7 secondes</item>
+    <item>8 secondes</item>
+    <item>9 secondes</item>
+    <item>10 secondes</item>
+    <item>Autre</item>
+  </string-array>
+  <string-array name="prefEntries_vibrateWhen">
+    <item>Toujours</item>
+    <item>Seulement en silencieux</item>
+    <item>Jamais</item>
+  </string-array>
 </resources>

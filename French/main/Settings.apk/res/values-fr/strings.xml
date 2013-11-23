@@ -1313,16 +1313,15 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="nsd_quick_toggle_summary">Autoriser les applications d\'autres appareils à identifier les applications de celui-ci</string>
   <string name="nsd_quick_toggle_title">Identification du service réseau</string>
   <string name="oem_radio_info_label">Infos/paramètres OEM</string>
- <!-- à traduire : 
-  <string name="oldman_mode_entry_title">senior mode</string>
-  <string name="oldman_mode_entry_name">senior mode settings</string>
-  <string name="oldman_mode_settings_caption">senior mode settings</string>
-  <string name="oldman_mode_enabled_name">enable senior mode</string>
-  <string name="oldman_mode_summary">enable or disable senior mode, will reboot!</string>
-  <string name="oldman_mode_confirm_title">senior mode confirm</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">enable senior mode ?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">disable senior mode ?</string>
- -->
+  <string name="oldman_mode_entry_title">mode sénior</string>
+  <string name="oldman_mode_entry_name">paramètres mode sénior</string>
+  <string name="oldman_mode_settings_caption">paramètres mode sénior</string>
+ <!-- oldman_mode_enabled_name ok ? -->
+  <string name="oldman_mode_enabled_name">activer le mode sénior</string>
+  <string name="oldman_mode_summary">activer ou désactiver le monde sénior, redémarrage requis !</string>
+  <string name="oldman_mode_confirm_title">confirmation mode sénior</string>
+  <string name="oldman_mode_confirm_will_oldman_mode_text">activer le monde sénior ?</string>
+  <string name="oldman_mode_confirm_will_normal_mode_text">désactiver le monde sénior ?</string>
   <string name="onscreen_keyboard_settings_summary">Paramètres du clavier virtuel</string>
   <string name="other_relative">Autres autorisations</string>
   <string name="overlay_display_devices_title">Simul. affich. secondaires</string>
@@ -1798,7 +1797,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_application">Sélectionner une application</string>
   <string name="select_device_admin_msg">Administrateurs de l\'appareil</string>
- <!-- à traduire ;
+ <!-- à traduire :
   <string name="select_ssid_type_title">Reselection among SSID</string>
  -->
   <string name="select_subscription">Sélectionner Abonnement</string>
@@ -3122,22 +3121,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_used_mins">min</string>
   <string name="power_used_mins_test">23</string>
   <string name="power_used_prefix">Énergie consommée</string>
- <!-- probablement à NE PAS traduire  :
-  <string name="pref_key_last_check_canceled">last_check_canceled</string>
-  <string name="pref_key_last_scan_data">lastScanDate</string>
-  <string name="pref_key_latest_optimize_date">latest_optimize_date</string>
-  <string name="pref_key_need_update_app_count">need_update_app_count</string>
-  <string name="pref_key_package_synced">package_synced</string>
-  <string name="pref_key_risk_amount">riskAmount</string>
-  <string name="pref_key_scan_type">scanType</string>
-  <string name="pref_key_virus_amount">virusAmount</string>
-  <string name="pref_key_virus_auto_update_lib">virusAutoUpdate</string>
-  <string name="pref_key_virus_auto_update_lib_time">virusAutoUpdateTime</string>
-  <string name="pref_key_virus_cloud">virusScanCloud</string>
-  <string name="pref_key_virus_install">virusScanInstall</string>
-  <string name="pref_key_virus_is_update">virusScanIsUpdate</string>
-  <string name="pref_key_virus_lib_version">virusLibVersion</string>
- -->
   <string name="process_list_empty_hints">Aucun processus en cache.</string>
   <string name="process_manage_title">%1$d processus stoppés, %2$s de mémoire vide libérés</string>
   <string name="process_manager_actionbar_title">Mémoire utilisée</string>

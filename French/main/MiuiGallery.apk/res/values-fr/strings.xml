@@ -65,8 +65,7 @@
   <string name="browse_category">Parcourir les photos</string>
   <string name="by_email">Mail</string>
   <string name="by_sms">SMS</string>
-  <!-- by_others à vérifier : bonne traduction ? -->
-  <string name="by_others">Par autres</string>
+  <string name="by_others">Autres</string>
   <string name="camera_connected">Appareil photo connecté.</string>
   <string name="camera_disconnected">Appareil photo déconnecté.</string>
   <string name="camera_folder_display_name">Appareil photo</string>
