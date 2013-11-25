@@ -167,8 +167,8 @@ Réessayer dans %d secondes."</string>
   <string name="perm_tigger_toggle_dspt">Permettre aux applications d\'utiliser les boutons du widget de la barre d\'état</string>
   <string name="perm_tigger_toggle_lab">Utiliser les boutons du widget de la barre d\'état</string>
   <string name="perm_use_find_device">Localiser l\'appareil</string>
-  <string name="permdesc_accessNote">Autorise l\'application à lire et modifier vos notes stockées sur votre téléphone. Les applications malicieuses peuvent en profiter pour les envoyer à d\'autres personnes ou les supprimer.</string>
-  <string name="permlab_accessNote">Notes d\'accès</string>
+  <string name="permdesc_accessNote">Permet à l\'application à lire et modifier les notes stockées sur votre téléphone. Les applications malicieuses peuvent en profiter pour les envoyer à d\'autres personnes ou les supprimer.</string>
+  <string name="permlab_accessNote">accès aux notes</string>
   <string name="pin_operation_failed">L\'opération PIN a échoué.</string>
   <string name="pincode_set_to_default_msg">Le code PIN est 1234, veuillez réinitialiser le code PIN ici.</string>
   <string name="private_num">Numéro privé</string>

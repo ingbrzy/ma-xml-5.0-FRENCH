@@ -85,7 +85,6 @@
   <string name="effect_goofy_face_squeeze">Compresser</string>
   <string name="effect_none">Aucun</string>
   <string name="effect_silly_faces">Grimaces</string>
-  <string name="empty">" "</string>
   <string name="error_app_unsupported">Résolution vidéo non supportée par cet encodeur.</string>
   <string name="error_app_unsupported_hfr_720p">Le 720P peut prendre en charge jusqu\'à 90 FPS</string>
   <string name="error_app_unsupported_hfr_codec">Seul l\'encodage vidéo H264 est supporté si le HFR est activé.</string>

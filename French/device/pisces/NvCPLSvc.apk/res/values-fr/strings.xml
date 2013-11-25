@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Services NVIDIA Tegra</string>
-    <string name="permlab_sysfsWrite">"Paramètres d'économie d'énergie"</string>
+    <string name="permlab_sysfsWrite">"paramètres d'économie d'énergie"</string>
     <string name="permdesc_sysfsWrite">"Permet à l'application de modifier les paramètres d'économie d'énergie"</string>
     <string name="nvcplsvc_bind">Client NvCPLSvc</string>
     <string name="nvcplsvc_desc_bind">"Permet à l'application de se lier à NvCPLSv"</string>

@@ -543,7 +543,8 @@
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Rech. ou saisir l\'URL</string>
-  <string name="search_label">Navigateur</string>
+  <!-- Do not translate.  This string is not displayed in UI (no badge is selected for go to). 
+  <string name="search_label">Navigateur</string> -->
   <string name="search_s139">139</string>
   <string name="search_settings_description">Favoris et historique Web</string>
   <string name="search_shipin">Video</string>

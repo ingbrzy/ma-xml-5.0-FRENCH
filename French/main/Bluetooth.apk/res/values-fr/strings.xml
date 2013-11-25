@@ -111,9 +111,9 @@
   <string name="permdesc_bluetoothShareManager">"Permet à l\'application d\'accéder au gestionnaire BluetoothShare et de l\'utiliser pour le transfert de fichiers."</string>
   <string name="permdesc_bluetoothWhitelist">"Permet à l\'application d\'ajouter temporairement un appareil Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l\'utilisateur ne soit nécessaire."</string>
   <string name="permdesc_handoverStatus">"Permet la réception d\'informations concernant l\'état du transfert via Bluetooth."</string>
-  <string name="permlab_bluetoothShareManager">Accéder au gestionnaire de téléchargement</string>
-  <string name="permlab_bluetoothWhitelist">Ajouter des appareils Bluetooth à la liste blanche.</string>
-  <string name="permlab_handoverStatus">Recevoir des messages concernant les transferts Bluetooth</string>
+  <string name="permlab_bluetoothShareManager">accéder au gestionnaire de téléchargement</string>
+  <string name="permlab_bluetoothWhitelist">ajouter des appareils Bluetooth à la liste blanche.</string>
+  <string name="permlab_handoverStatus">recevoir des messages concernant les transferts Bluetooth</string>
   <string name="share_prepare">Préparation du partage Bluetooth</string>
   <string name="start_server">Démarrer le serveur TCP</string>
   <string name="status_bpp_aborted_by_printer">Impression arrêtée par l\'utilisateur</string>

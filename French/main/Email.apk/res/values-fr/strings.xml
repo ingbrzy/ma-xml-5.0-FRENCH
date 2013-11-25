@@ -292,7 +292,6 @@
   <string name="header_label_general_preferences">Paramètres généraux</string>
   <string name="login_failed_ticker">Échec de la connexion au compte %s.</string>
   <string name="login_failed_title">"Impossible de se connecter"</string>
-  <string name="long_string">-----------------------------------------------------------------</string>
   <string name="mailbox_list_account_selector_account_header">Comptes</string>
   <string name="mailbox_list_account_selector_combined_view">Boîte globale</string>
   <string name="mailbox_list_account_selector_mailbox_header_fmt">Dossiers récents (%s)</string>

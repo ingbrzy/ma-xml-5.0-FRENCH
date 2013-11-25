@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Gestionnaire de téléchargement</string>
-    <string name="permlab_downloadManager">Accéder au gestionnaire de téléchargement.</string>
+    <string name="permlab_downloadManager">accéder au gestionnaire de téléchargement.</string>
     <string name="permdesc_downloadManager">Permet à l\'application d\'accéder au gestionnaire de téléchargement et de l\'utiliser pour télécharger des fichiers. Les applications malveillantes peuvent s\'en servir pour entraver les téléchargements et accéder aux informations personnelles.</string>
-    <string name="permlab_downloadManagerAdvanced">Fonctions avancées du gestionnaire de téléchargement.</string>
+    <string name="permlab_downloadManagerAdvanced">fonctions avancées du gestionnaire de téléchargement.</string>
     <string name="permdesc_downloadManagerAdvanced">Permet à l\'application d\'accéder aux fonctions avancées du gestionnaire de téléchargement. Les applications malveillantes peuvent utiliser cette option pour perturber les téléchargements et accéder à des informations personnelles.</string>
-    <string name="permlab_downloadCompletedIntent">Envoyer des notifications de téléchargement.</string>
+    <string name="permlab_downloadCompletedIntent">envoyer des notifications de téléchargement.</string>
     <string name="permdesc_downloadCompletedIntent">Permet à l\'application d\'envoyer des notifications concernant les téléchargements effectués. Les applications malveillantes peuvent s\'en servir pour tromper les autres applications de téléchargement de fichiers.</string>
-    <string name="permlab_seeAllExternal">Voir tous les téléchargements effectués sur la carte SD</string>
+    <string name="permlab_seeAllExternal">voir tous les téléchargements effectués sur la carte SD</string>
     <string name="permdesc_seeAllExternal">Permet à l\'application d\'afficher tous les téléchargements effectués sur la carte SD, quelle que soit l\'application de téléchargement utilisée.</string>
-    <string name="permlab_downloadCacheNonPurgeable">Réserver un espace dans le cache de téléchargement</string>
-    <string name="permdesc_downloadCacheNonPurgeable">Autorise l\'application à télécharger des fichiers dans le cache de téléchargement et empêche leur effacement automatique par le gestionnaire de téléchargement.</string>
-    <string name="permlab_downloadWithoutNotification">Télécharger les fichiers sans m\'avertir</string>
-    <string name="permdesc_downloadWithoutNotification">Autorise l\'application à télécharger des fichiers via le gestionnaire de téléchargement sans afficher de notification à l\'utilisateur.</string>
-    <string name="permlab_accessAllDownloads">Accéder à tous les téléchargements système</string>
+    <string name="permlab_downloadCacheNonPurgeable">réserver un espace dans le cache de téléchargement</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"Permet à l'application de télécharger des fichiers dans le cache de téléchargement et empêche leur suppression automatique par le gestionnaire de téléchargement."</string>
+    <string name="permlab_downloadWithoutNotification">télécharger les fichiers sans m\'avertir</string>
+    <string name="permdesc_downloadWithoutNotification">"Permet à l'application de télécharger des fichiers via le gestionnaire de téléchargement sans afficher de notification à l'attention de l'utilisateur."</string>
+    <string name="permlab_accessAllDownloads">accéder à tous les téléchargements système</string>
     <string name="permdesc_accessAllDownloads">Permet à l\'application de connaître et de modifier tous les téléchargements initiés par les programmes du système.</string>
     <string name="download_unknown_title">&lt;Sans_titre></string>
     <string name="notification_filename_separator">", "</string>

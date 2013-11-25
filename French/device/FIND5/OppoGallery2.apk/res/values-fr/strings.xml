@@ -97,7 +97,6 @@
   <string name="effect_goofy_face_squeeze">Compresser</string>
   <string name="effect_none">Aucun</string>
   <string name="effect_silly_faces">Grimaces</string>
-  <string name="empty">" "</string>
   <string name="empty_album">Aucune image/vidéo disponible</string>
   <string name="err_app_unsupport_ae_bracket_code">Pas de support de Bracketing auto pour cette application</string>
   <string name="error_app_unsupported">Résolution vidéo non supportée par cet encodeur.</string>
@@ -277,7 +276,6 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="pref_camera_flashmode_entry_off">Désactivé</string>
   <string name="pref_camera_flashmode_entry_on">Activé</string>
   <string name="pref_camera_flashmode_entry_red_eye_reduction">Réduction des yeux rouges</string>
-  <string name="pref_camera_flashmode_no_flash">no_flash</string>
   <string name="pref_camera_flashmode_title">Mode Flash</string>
   <string name="pref_camera_focusmode_entry_auto">Auto</string>
   <string name="pref_camera_focusmode_entry_continuous">Focus continu</string>

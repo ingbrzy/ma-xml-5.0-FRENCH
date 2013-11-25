@@ -15,8 +15,8 @@
   <string name="serviceProvisioned">Service mis en service.</string>
   <string name="serviceUnknown">Problème de connexion ou code MMI non valide.</string>
   <string name="cfServiceNotForwarded">Non transmis</string>
-  <string name="permlab_receiveCbSms">Recevoir SMS CB</string>
-  <string name="permdesc_receiveCbSms">Permet à une application de recevoir et traiter des messages SMS CB. Des applications malveillantes peuvent surveiller vos messages et les supprimer sans que vous les voyez.</string>
+  <string name="permlab_receiveCbSms">recevoir SMS CB</string>
+  <string name="permdesc_receiveCbSms">Permet à l\'application de recevoir et traiter des messages SMS CB. Des applications malveillantes peuvent surveiller vos messages et les supprimer sans que vous les voyez.</string>
   <string name="keyguard_password_enter_puk_code">Entrez le code PUK</string>
   <string name="keyguard_password_wrong_puk_code">Code PUK incorrect !</string>
   <string name="keyguard_password_enter_new_pin_code">Entrez le nouveau code PIN</string>

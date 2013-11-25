@@ -102,11 +102,11 @@
   <string name="permdesc_read_settings">Permet à l\'application de lire les paramètres et raccourcis de la page d\'accueil.</string>
   <string name="permdesc_uninstall_shortcut">Permet à l\'application de supprimer les raccourcis sans l\'intervention de l\'utilisateur.</string>
   <string name="permdesc_write_settings">Permet à l\'application de modifier les paramètres et les raccourcis de la page d\'accueil.</string>
-  <string name="permlab_install_shortcut">Installer des raccourcis</string>
-  <string name="permlab_install_widget">Installer des widgets</string>
-  <string name="permlab_read_settings">Lire les paramètres et les raccourcis de la page d\'accueil</string>
-  <string name="permlab_uninstall_shortcut">Désinstaller des raccourcis</string>
-  <string name="permlab_write_settings">Accéder en écriture aux paramètres et aux raccourcis de la page d\'accueil</string>
+  <string name="permlab_install_shortcut">installer des raccourcis</string>
+  <string name="permlab_install_widget">installer des widgets</string>
+  <string name="permlab_read_settings">lire les paramètres et les raccourcis de la page d\'accueil</string>
+  <string name="permlab_uninstall_shortcut">désinstaller des raccourcis</string>
+  <string name="permlab_write_settings">accéder en écriture aux paramètres et aux raccourcis de la page d\'accueil</string>
   <string name="photo_adjust">Éditer la photo</string>
   <string name="photo_confirm">Confirmer</string>
   <string name="photo_load_failed">Impossible de charger la photo !</string>

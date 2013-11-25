@@ -24,9 +24,9 @@
   <string name="bt_oppc_push_toast_unknown_device">périphérique inconnu</string>
   <string name="bt_opps_toast_storage_unavailable">Pas de carte SD ou pas assez d\'espace de stockage pour les fichiers entrants.</string>
   <string name="bt_opps_push_toast_invalid_request">Demande de partage non valide de l\'appareil distant.</string>
-  <string name="permlab_bluetoothWhitelist">Ajouter des appareils Bluetooth à la liste blanche.</string>
+  <string name="permlab_bluetoothWhitelist">ajouter des appareils Bluetooth à la liste blanche.</string>
   <string name="permdesc_bluetoothWhitelist">Permet à l\'application d\'ajouter temporairement un appareil Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l\'utilisateur ne soit nécessaire.</string>
-  <string name="permlab_handoverStatus">Recevoir des messages concernant les transferts Bluetooth</string>
+  <string name="permlab_handoverStatus">recevoir  des messages concernant les transferts Bluetooth</string>
   <string name="permdesc_handoverStatus">Permet la réception d\'informations concernant l\'état du transfert via Bluetooth.</string>
   <string name="bluetooth_pan_GN_authorize_confirm_title">Accepter la requête d\'autorisation réseau groupe Ad-hoc</string>
   <string name="bluetooth_pan_NAP_authorize_confirm_title">Accepter la requête d\'autorisation points d\'accès réseau</string>
