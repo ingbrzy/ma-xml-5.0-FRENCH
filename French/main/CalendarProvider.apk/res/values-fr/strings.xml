@@ -7,7 +7,7 @@
   <string name="calendar_info_events_dirty">Événements : %1$d ; non sauvegardés : %2$d</string>
   <string name="calendar_info_no_calendars">Aucun agenda</string>
   <string name="calendar_storage">Stockage de l\'agenda</string>
-  <string name="debug_tool_delete_button">Supprimer maintenant</string>
+  <string name="debug_tool_delete_button">Supprimer</string>
   <string name="debug_tool_email_sender_picker">Sélectionnez un programme pour envoyer votre fichier</string>
   <string name="debug_tool_email_subject">Base de données Calendar en pièce jointe</string>
   <string name="debug_tool_email_body">En pièce jointe tous les éléments de mon agenda. Merci de ne pas diffuser ces informations sensibles.</string>
