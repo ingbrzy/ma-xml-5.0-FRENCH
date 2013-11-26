@@ -95,6 +95,10 @@ Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le conte
   <string name="advanced_settings_summary">Activer d\'autres paramètres</string>
   <string name="airplane_mode">Mode Avion</string>
   <string name="alarm_volume_title">Alarme</string>
+ <!-- à traduire :
+  <string name="alert_show_screensaver_when_not_charging_msg">Power will be consumed more quickly if showing screensaver when not charging. Do you want to disable this option?</string>
+  <string name="alert_show_screensaver_when_not_charging_title">Screensave when not charging</string>
+ -->
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Autoriser</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Une fois le widget créé, %1$s peut accéder à toutes les données qu\'il affiche.</string>
@@ -1244,6 +1248,13 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="misc_files">Fichiers divers</string>
   <string name="misc_files_selected_count">%1$d fichiers sélectionnés sur %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s sur %2$s</string>
+  <string name="miui_screensaver_show_time">Durée</string>
+  <string name="miui_screensaver_show_time_select_title">Configurer la durée</string>
+  <string name="miui_screensaver_state_off">Désactivé</string>
+  <string name="miui_screensaver_state_on">Désactivé</string>
+  <string name="miui_screensaver_title">Écran de veille</string>
+  <!-- miui_screensaver_usage a vérifier : reformuler ? -->
+  <string name="miui_screensaver_usage">"Une fois activé, les photos dans l'album de l'écran de veille seront affichées répétitivement, 5secondes après que l'écran ce soit éteint.</string>
   <string name="mms_vibrate_abbreviation">Messages</string>
   <string name="model_number">Numéro du modèle</string>
   <string name="move_app">Déplacer</string>
@@ -1313,6 +1324,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="nsd_quick_toggle_summary">Autoriser les applications d\'autres appareils à identifier les applications de celui-ci</string>
   <string name="nsd_quick_toggle_title">Identification du service réseau</string>
   <string name="oem_radio_info_label">Infos/paramètres OEM</string>
+  <string name="only_when_charging">Seulement pendant la charge</string>
   <string name="oldman_mode_entry_title">mode sénior</string>
   <string name="oldman_mode_entry_name">paramètres mode sénior</string>
   <string name="oldman_mode_settings_caption">paramètres mode sénior</string>
@@ -1502,6 +1514,8 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="pico_not_installed">Non installée</string>
   <string name="pico_voice_summary_female">Femme</string>
   <string name="pico_voice_summary_male">Homme</string>
+  <!-- picture_source à vérifier/reformuler -->
+  <string name="picture_source">Photo source</string>
   <string name="ping_test_label">Effectuer un test de ping</string>
   <string name="please_select_phase2">Authentification phase 2</string>
   <string name="please_type_passphrase">Entrez le mot de passe Wi-Fi</string>
@@ -2730,6 +2744,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="act_mute_ms">Notifications muettes</string>
   <string name="act_mute_ms_summary">Les notifications sont désactivées mais les messages seront toujours affichables</string>
   <string name="action_settings">Paramètres</string>
+  <string name="activate_miui_screensaver">Activer l'écran de veille</string>
   <string name="add_blacklist">Ajouter à la liste noire</string>
   <string name="add_button">Ajouter</string>
   <string name="add_whitelist">Ajouter à la liste blanche</string>

@@ -276,6 +276,8 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="toast_rotation_locked">Écran verrouillé en orientation paysage</string>
   <string name="torch_activity_hint">Vous pouvez allumer la torche en maintenant la touche [icon] quand l\'écran est verrouillé</string>
   <string name="torch_activity_name">Torche</string>
+  <string name="torch_closed">Torche désactivée</string>
+  <string name="torch_opened">Torche activée</string>
   <string name="usb_accessory_confirm_prompt">Ouvrir %1$s lors de la connexion de cet accessoire USB ?</string>
   <string name="usb_accessory_permission_prompt">"Autoriser l\'application %1$s à accéder à l\'accessoire USB ?"</string>
   <string name="usb_accessory_uri_prompt">Aucune application installée compatible avec accessoire USB. En savoir plus sur %1$s</string>

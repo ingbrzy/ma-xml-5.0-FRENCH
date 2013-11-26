@@ -24,6 +24,7 @@
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Erreur interne de l\'application</string>
   <string name="error_app_internal_title">Erreur du Dictaphone</string>
+  <string name="error_filename_illegal_char">Le nom du fichier contient des caractères non autorisés.</string>
   <string name="error_filename_too_long">Nom de fichier trop long</string>
   <string name="error_mediadb_new_record">Impossible d\'enregistrer les fichiers audio enregistrés</string>
   <string name="error_sdcard_access">Impossible d\'accéder au stockage externe ou interne</string>
