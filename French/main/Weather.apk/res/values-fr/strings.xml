@@ -9,7 +9,9 @@
     <string name="act_find_city_hot_title">Villes populaires</string>
     <string name="act_find_city_null_data">Aucun résultat.</string>
     <string name="act_find_city_title">Ajouter un lieu</string>
+   <!-- à traduire :
     <string name="act_init_dialog_finish">Global weather info has been added.</string>
+   -->
     <string name="act_set_city_find_side_error">Impossible de vous géolocaliser.</string>
     <string name="act_set_city_find_side_on">Open location</string>
     <string name="act_set_city_find_side">Géolocalisation…</string>
@@ -37,12 +39,14 @@
     <string name="app_name">Météo</string>
     <string name="app_nohave_net">Aucun réseau de données disponible</string>
     <string name="app_unquiet_net">Mauvaise connexion réseau</string>
+   <!-- à traduire :
     <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
     <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
     <string name="aqi_details_good">All the people may free activities in the outdoor.</string>
     <string name="aqi_details_hazardous">Everyone should avoid all physical activity outdoors; people with heart or lung disease, older adults, and children should remain indoors and keep activity levels low.</string>
     <string name="aqi_details_light_pollution">People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion.</string>
     <string name="aqi_details_unhealthy">People with heart or lung disease, older adults, and children should avoid prolonged or heavy exertion; everyone else should reduce prolonged or heavy exertion.</string>
+   -->
     <string name="aqi_quality_index_dangerous">dangereux</string>
     <string name="aqi_quality_index_good">bon</string>
     <string name="aqi_quality_index_hazardous">risqué</string>

@@ -41,6 +41,7 @@
   <string name="express_inquiry_serial_number_prefix">"Numéro de série : "</string>
   <string name="balance_inquiry_title">Consultation du solde</string>
   <string name="login_before_recharging">Vous devez vous connecter avant de pouvoir recharger.</string>
+  <string name="login_before_use">Vous devez vous connecter avant de pouvoir l\'utiliser.</string>
   <string name="login_ok">Se connecter</string>
   <string name="mark_number_custom_dialog_maintitle">Accepter ou corriger la marque</string>
   <string name="mark_number_dialog_maintitle">Marquer comme numéro de spam et l\'envoyer</string>

@@ -238,7 +238,7 @@
   <string name="input_cloudfolder_name">Nom du dossier MiCloud</string>
   <string name="internal_camera_folder_display_name">Photos de la caméra</string>
   <string name="internal_miui_capture_screen_folder_display_name">Captures d\'écran internes</string>
-  <string name="internal_sd_card">Carte SD interne</string>
+  <string name="internal_sd_card">Stockage interne</string>
   <string name="invalid_invition_url">URL d\'invitation non valide.</string>
   <string name="invalid_recipient_message">Corrigez les erreurs de destinataires ou ils ne recevront pas le message</string>
   <string name="iso">ISO</string>

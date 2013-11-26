@@ -620,7 +620,7 @@
     <string name="permdesc_sdcardRead">Permet à l\'application de tester une autorisation pour la mémoire de stockage USB qui sera ensuite proposée sur les futurs appareils.</string>
     <string name="permlab_sdcardWrite">modifier ou supprimer le contenu de la mémoire USB</string>
     <string name="permdesc_sdcardWrite">Permet à l\'application de modifier le contenu de la mémoire de stockage USB.</string>
-    <string name="permlab_mediaStorageWrite">modifier/Supprimer contenu mémoire interne</string>
+    <string name="permlab_mediaStorageWrite">modifier/supprimer contenu mémoire interne</string>
     <string name="permdesc_mediaStorageWrite">Permet à l\'application de modifier le contenu de la mémoire de stockage multimédia interne.</string>
     <string name="permlab_cache_filesystem">accéder au système de fichiers en cache</string>
     <string name="permdesc_cache_filesystem">Permet à l\'application d\'obtenir des droits en lecture/écriture concernant le système de fichiers du cache.</string>
