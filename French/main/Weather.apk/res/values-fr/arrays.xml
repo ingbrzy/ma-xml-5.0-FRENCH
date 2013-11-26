@@ -1,88 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="send_item">
-        <item>Text message</item>
+        <item>Message texte</item>
         <item>Email</item>
     </string-array>
-    <string-array name="act_weather_main_listview_json_key">
-        <item>wind1</item>
-        <item>紫外线指数</item>
-        <item>穿衣指数</item>
-        <item>舒适度指数</item>
-        <item>洗车指数</item>
-        <item>晾晒指数</item>
-        <item>晨练指数</item>
-        <item>旅游指数</item>
-    </string-array>
     <string-array name="act_weather_main_listview_key">
-        <item>Wind speed:</item>
-        <item>UV index:　</item>
+        <item>Vitesse du vent :</item>
+        <item>Indice UV :</item>
         <item>Clothing:</item>
         <item>Comfort:</item>
         <item>Car wash index:</item>
         <item>Drying index:</item>
-        <item>Morning exercise:</item>
-        <item>Leisure:</item>
+        <item>Exercice du matin :</item>
+        <item>Loisir :</item>
     </string-array>
     <string-array name="weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rain storms</item>
-        <item>Rain storm</item>
-        <item>Heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Showers</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snow storm</item>
-        <item>Patches of snow fall</item>
-        <item>Heavy snow fall</item>
-        <item>Snow fall</item>
-        <item>Light snow fall</item>
-        <item>Strong sand storm</item>
-        <item>Sand storm</item>
-        <item>Light sand storms</item>
-        <item>Sand storm</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
+        <item>Clair</item>
+        <item>Nuageux</item>
+        <item>Brumeux</item>
+        <item>Brumeux</item>
+        <item>Violents orages</item>
+        <item>Pluie torrentielle</item>
+        <item>Forte pluie</item>
+        <item>Averses</item>
+        <item>Orage</item>
+        <item>Forte pluie</item>
+        <item>Pluie</item>
+        <item>Averses</item>
+        <item>Neige fondue</item>
+        <item>Tempête de neige</item>
+        <item>Fortes chutes de neige</item>
+        <item>Fortes chutes de neige</item>
+        <item>Chutes de neige</item>
+        <item>Légères chutes de neige</item>
+        <item>Forte tempête de sable</item>
+        <item>Tempête de sable</item>
+        <item>Légère tempête de sable</item>
+        <item>Tempête de sable</item>
+        <item>Grêle</item>
+        <item>Poussière</item>
+        <item>Brume</item>
     </string-array>
     <string-array name="weather_details_key">
-        <item>Unavailable</item>
-        <item>Suitable</item>
-        <item>Good</item>
-        <item>Avoid if possible</item>
-        <item>Not recommended</item>
-        <item>Ideal</item>
-        <item>Moderate</item>
-        <item>Weak</item>
-        <item>Medium</item>
-        <item>Strong</item>
-        <item>Very strong</item>
-        <item>Cool</item>
-        <item>Comfortable</item>
-        <item>Very hot</item>
-        <item>Hot</item>
-        <item>Warm</item>
-        <item>Cool</item>
-        <item>Cooler</item>
-        <item>Cold</item>
-        <item>Freezing</item>
-        <item>High</item>
-        <item>Middle</item>
-        <item>Low</item>
-        <item>Clear skies</item>
-        <item>Cloudy</item>
-        <item>Rain</item>
-        <item>Sand storm</item>
-        <item>Snow</item>
-        <item>Relatively suitable conditions</item>
-        <item>Suitable conditions</item>
-        <item>Cloudy</item>
+        <item>Indisponible</item>
+        <item>Convenable</item>
+        <item>Bon</item>
+        <item>Évitez si possible</item>
+        <item>Non recommandé</item>
+        <item>Idéal</item>
+        <item>Modéré</item>
+        <item>Faible</item>
+        <item>Moyen</item>
+        <item>Fort</item>
+        <item>Très fort</item>
+        <item>Frais</item>
+        <item>Agréable</item>
+        <item>Très chaud</item>
+        <item>Chaud</item>
+        <item>Torride</item>
+        <item>Frais</item>
+        <item>Très Frais</item>
+        <item>Froid</item>
+        <item>Gel</item>
+        <item>Élevé</item>
+        <item>Moyen</item>
+        <item>Base</item>
+        <item>Ciel clair</item>
+        <item>Nuageux</item>
+        <item>Pluie</item>
+        <item>Tempête de sable</item>
+        <item>Neige</item>
+        <item>Conditions météo. relativement convenables</item>
+        <item>Conditions météo. convenables</item>
+        <item>Nuageux</item>
         <item>Less than ideal</item>
         <item>Ideal conditions</item>
         <item>Poor conditions</item>

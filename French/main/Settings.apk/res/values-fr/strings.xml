@@ -95,10 +95,8 @@ Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le conte
   <string name="advanced_settings_summary">Activer d\'autres paramètres</string>
   <string name="airplane_mode">Mode Avion</string>
   <string name="alarm_volume_title">Alarme</string>
- <!-- à traduire :
-  <string name="alert_show_screensaver_when_not_charging_msg">Power will be consumed more quickly if showing screensaver when not charging. Do you want to disable this option?</string>
-  <string name="alert_show_screensaver_when_not_charging_title">Screensave when not charging</string>
- -->
+  <string name="alert_show_screensaver_when_not_charging_msg">Afficher l\'écran de veille lorsque le téléphone n\'est pas en charge engendra une consommation d\'énergie excessive. Voulez-vous désactiver cette option ?</string>
+  <string name="alert_show_screensaver_when_not_charging_title">Écran de veille lorsque non en charge</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Autoriser</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Une fois le widget créé, %1$s peut accéder à toutes les données qu\'il affiche.</string>
@@ -2744,7 +2742,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="act_mute_ms">Notifications muettes</string>
   <string name="act_mute_ms_summary">Les notifications sont désactivées mais les messages seront toujours affichables</string>
   <string name="action_settings">Paramètres</string>
-  <string name="activate_miui_screensaver">Activer l'écran de veille</string>
+  <string name="activate_miui_screensaver">Activer l\'écran de veille</string>
   <string name="add_blacklist">Ajouter à la liste noire</string>
   <string name="add_button">Ajouter</string>
   <string name="add_whitelist">Ajouter à la liste blanche</string>

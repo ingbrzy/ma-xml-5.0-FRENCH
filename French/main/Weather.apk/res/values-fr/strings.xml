@@ -11,26 +11,23 @@
     <string name="act_find_city_title">Ajouter un lieu</string>
     <string name="act_init_dialog_finish">Global weather info has been added.</string>
     <string name="act_set_city_find_side_error">Impossible de vous géolocaliser.</string>
-	
-    <string name="act_set_city_find_side_on">Open location</string
-	
+    <string name="act_set_city_find_side_on">Open location</string>
     <string name="act_set_city_find_side">Géolocalisation…</string>
     <string name="act_set_city_re_find_side">Géolocalisation…</string>
     <string name="act_weather_aqi_share">Partager</string>
-	
     <string name="act_weather_aqi_title">Indice de qualité de l\'air</string>
     <string name="act_weather_cycle_low_temp">low</string>
     <string name="act_weather_cycle_update">Actualisation…</string>
-    <string name="act_weather_find_city_connect_net">connect net then try again</string>
-    <string name="act_weather_find_city_search_online">click me to search online</string>
+    <string name="act_weather_find_city_connect_net">connectez-vous à un réseau puis réessayez</string>
+    <string name="act_weather_find_city_search_online">appuyer pour rechercher en-ligne</string>
     <string name="act_weather_find_city_searching">Recherche…</string>
     <string name="act_weather_main_aqi_index">Qualité de l\'air : %s</string>
     <string name="act_weather_main_data_null">Aucune donnée météo, appuyer pour actualiser</string>
     <string name="act_weather_range_select">Sélectionner une ville</string>
-    <string name="act_weather_range_title">Surrounding weather forecast</string>
+    <string name="act_weather_range_title">Prévisions météorologiques locales</string>
     <string name="act_weather_update_time">%s actualisé</string>
     <string name="add_city">Ajouter un lieu</string>
-    <string name="alert_message_delete">Supprimmer le(s) %d élément(s) sélectionné(s) ?</string>
+    <string name="alert_message_delete">Supprimer le(s) %d élément(s) sélectionné(s) ?</string>
     <string name="alert_provider_message">You need to enable location access via your mobile network.</string>
     <string name="alert_provider_title">Location notification</string>
     <string name="alert_title_delete">Supprimer</string>
@@ -52,9 +49,7 @@
     <string name="aqi_quality_index_light_pollution">pollution légère</string>
     <string name="aqi_quality_index_moderate">modéré</string>
     <string name="aqi_quality_index_pure">excellent</string>
-	
-    <string name="aqi_quality_index_unhealthy">unhealthy</string>
-	
+    <string name="aqi_quality_index_unhealthy">nocif</string>
     <string name="button_allow">Autoriser</string>
     <string name="button_not_allow">Refuser</string>
     <string name="cancel">Annuler</string>
@@ -70,11 +65,11 @@
     <string name="install_tencent">Get Weibo app</string>
     <string name="loading_weather">Chargement…</string>
     <string name="local_city">Villes locales</string>
-    <string name="location_allow_err">Failed to locate.</string>
+    <string name="location_allow_err">Impossible de vous géolocaliser.</string>
     <string name="location_management">Lieux</string>
-    <string name="location_notification">Weather notifications</string>
+    <string name="location_notification">Notifications météo</string>
     <string name="menu_about">À Propos</string>
-    <string name="menu_around">Surrounding</string>
+    <string name="menu_around">Alentour</string>
     <string name="menu_delete">Supprimer</string>
     <string name="menu_location">Lieux</string>
     <string name="menu_main">Index</string>
@@ -84,25 +79,27 @@
     <string name="menu_send_sms">Envoyer</string>
     <string name="menu_settings">Paramètres</string>
     <string name="menu_share">Partager</string>
-    <string name="menu_trend">Trend</string>
+    <string name="menu_trend">Tendance</string>
     <string name="save_screen_shot_failed">Erreur lors de l\'enregistrement de la capture d\'écran.</string>
     <string name="selected_format">%d élément(s) sélectionné(s)</string>
     <string name="send_sms_notification_summary">"Send today's weather data to your contacts via text message"</string>
     <string name="send_sms_notification">Forward weather notifications</string>
-    <string name="send_weather_sms_cycle">%1$s weather forecast：%2$s</string>
+    <string name="send_weather_sms_cycle">%1$s prévisions météo :%2$s</string>
     <string name="send_weather_sms_error">Aucune donnée météorologique</string>
     <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
     <string name="settings_weather_about">À Propos</string>
-    <string name="settings_weather_animation">Animation météo</string>
-    <string name="settings_weather_play_ani_summary">Play animation in the main interface</string>
-    <string name="settings_weather_play_ani_title">Play animation</string>
+    <string name="settings_weather_animation">Animations météo</string>
+    <string name="settings_weather_play_ani_summary">Lire l\'animation dans la fenêtre principale</string>
+    <string name="settings_weather_play_ani_title">Lire l\'animation</string>
     <string name="settings_weather_pre_title">Météo</string>
-    <string name="settings_weather_preview">Preview weather animation</string>
+    <string name="settings_weather_preview">Prévisualisation d\'animation météo</string>
     <string name="settings_weather_title">Paramètres</string>
     <string name="share_aqi_content">"\#MIUI weather#
+Aujourd'hui à %1$s la qualité de l'air est : %2$s, %3$s. %4$s %5$s."</string>
     <string name="share_content">\#MIUI weather#</string>
     <string name="share_qq">Partager par Tencent Weibo</string>
     <string name="share_sina">Partager par Sina Weibo</string>
     <string name="share_weather_content">"\#MIUI weather#
-    <string name="share_weather_title">Share weather data</string>
+Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
+    <string name="share_weather_title">Partager les données météo</string>
 </resources>
