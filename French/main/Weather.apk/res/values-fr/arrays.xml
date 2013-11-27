@@ -105,9 +105,9 @@
     </string-array>
     <string-array name="weather_sms_content">
         <item>N\'oubliez pas de porter une protection solaire.</item>
-        <item>Ce sera nuageux aujourd'hui.</item>
+        <item>"Ce sera nuageux aujourd'hui."</item>
         <item>The weather will get worse, it is not recommended to stay indoors for a while.</item>
-        <item>Si vous allez à l'extérieur, faite attention à la circulation. Si vous conduisez, soyez prudent :)</item>
+        <item>"Si vous allez à l'extérieur, faite attention à la circulation. Si vous conduisez, soyez prudent :)"</item>
         <item>"Il pleut fortement, n'oubliez pas d'emporter un parapluie."</item>
         <item>"Il pleut fortement, n'oubliez pas d'emporter un parapluie."</item>
         <item>"Il pleut fortement, n'oubliez pas d'emporter un parapluie."</item>
