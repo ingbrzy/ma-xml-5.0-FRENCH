@@ -982,8 +982,8 @@ Appuyez sur OK pour continuer."</string>
   <string name="stk_cc_ss_to_ussd_error">La requête SS a été modifiée en requête USSD.</string>
   <string name="stock_quotes_disable">Option "Cours de bourse" désactivée</string>
   <string name="stock_quotes_enable">Option "Cours de bourse" activée</string>
-  <string name="sub1LineNumber">Numéro de l\'abonnement 1:</string>
-  <string name="sub2LineNumber">Numéro de l\'abonnement 2:</string>
+  <string name="sub1LineNumber">Numéro de l\'abonnement 1 :</string>
+  <string name="sub2LineNumber">Numéro de l\'abonnement 2 :</string>
   <string name="sub_1">SUB 1</string>
   <string name="sub_2">SUB 2</string>
   <string name="sub_one">Gérer le 1er abonnement</string>

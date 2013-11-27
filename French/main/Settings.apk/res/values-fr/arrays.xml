@@ -407,7 +407,7 @@ Vous pouvez maintenant transférer des fichiers"</item>
     <string-array name="startup_hips_action">
         <item>Autoriser</item>
         <item>Refuser</item>
-    </string-array>	
+    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Aucune</item>
         <item>Lancer les applications récentes</item>
@@ -468,7 +468,7 @@ Vous pouvez maintenant transférer des fichiers"</item>
     <string-array name="power_dialog_sleep_items">
         <item>15 secondes</item>
         <item>30 secondes</item>
-        <item>1 minutes</item>
+        <item>1 minute</item>
         <item>2 minutes</item>
         <item>5 minutes</item>
         <item>10 minutes</item>

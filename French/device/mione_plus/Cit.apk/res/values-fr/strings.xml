@@ -164,7 +164,7 @@
   <string name="cit_sim_state_ready">Carte SIM OK</string>
   <string name="cit_sim_state_unkown">Erreur de statut inconnu</string>
   <string name="cit_start_calibration">Commencer le calibrage</string>
-  <string name="cit_stop_calibration">Arrêter la calibrage</string>
+  <string name="cit_stop_calibration">Arrêter le calibrage</string>
   <string name="cit_tool">Outils</string>
   <string name="cit_tool_bluetooth">Outils de test du Bluetooth</string>
   <string name="cit_tool_bluetooth_mode">Mode de test du Bluetooth</string>

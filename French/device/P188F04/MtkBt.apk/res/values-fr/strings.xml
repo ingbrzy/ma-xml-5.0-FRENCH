@@ -56,12 +56,12 @@
     <string name="bt_opps_push_toast_invalid_request">"Demande de partage non valide de l'appareil distant."</string>
     <string name="bluetooth_pan_GN_authorize_confirm_title">"Accepter la requête d'autorisation réseau groupe Ad-hoc"</string>
     <string name="bluetooth_pan_NAP_authorize_confirm_title">"Accepter la requête d'autorisation points d'accès réseau"</string>
-    <string name="bluetooth_pan_GN_authorize_confirm">"Souhaitez-vous accepter la requête d'autorisation réseau groupe Ad-hoc provenant de %1$s?"</string>
-    <string name="bluetooth_pan_NAP_authorize_confirm">"Souhaitez-vous accepter la requête d'autorisation points d'accès réseau provenant de %1$s?"</string>
+    <string name="bluetooth_pan_GN_authorize_confirm">"Souhaitez-vous accepter la requête d'autorisation réseau groupe Ad-hoc provenant de %1$s ?"</string>
+    <string name="bluetooth_pan_NAP_authorize_confirm">"Souhaitez-vous accepter la requête d'autorisation points d'accès réseau provenant de %1$s ?"</string>
     <string name="bluetooth_pan_GN_connected_confirm_title">Déconnecter le réseau groupe Ad-hoc</string>
     <string name="bluetooth_pan_NAP_connected_confirm_title">"Déconnecter les points d'accès réseau"</string>
-    <string name="bluetooth_pan_GN_connected_confirm">Souhaitez-vous déconnecter le réseau groupe Ad-hoc de %1$s?</string>
-    <string name="bluetooth_pan_NAP_connected_confirm">"Souhaitez-vous déconnecter les points d'accès réseau de %1$s?"</string>
+    <string name="bluetooth_pan_GN_connected_confirm">Souhaitez-vous déconnecter le réseau groupe Ad-hoc de %1$s ?</string>
+    <string name="bluetooth_pan_NAP_connected_confirm">"Souhaitez-vous déconnecter les points d'accès réseau de %1$s ?"</string>
     <string name="bluetooth_pan_yes">Autoriser</string>
     <string name="bluetooth_pan_no">Refuser</string>
     <string name="bluetooth_pan_GN_authorize_notify_ticker">"Requête d'autorisation réseau groupe Ad-hoc Bluetooth"</string>
@@ -227,7 +227,7 @@ Poursuive l’envoi ?"</string>
     <string name="bluetooth_map_server_connect_notify_title">%1$s accède à vos messages</string>
     <string name="bluetooth_map_server_connect_notify_message">Sélectionner la déconnexion de %1$s</string>
     <string name="bluetooth_map_server_disconnect_title">"Déconnecter l'accès à distance aux messages"</string>
-    <string name="bluetooth_map_server_disconnect_message">Déconnecter %1$s?</string>
+    <string name="bluetooth_map_server_disconnect_message">Déconnecter %1$s ?</string>
     <string name="bluetooth_map_server_yes">Oui</string>
     <string name="bluetooth_map_server_no">Non</string>
     <string name="bluetooth_map_server_settings">"Réglages d'accès à distance aux messages"</string>
@@ -262,5 +262,4 @@ Poursuive l’envoi ?"</string>
     <string name="permdesc_bluetoothWhitelist">Permet à l\'application d\'ajouter temporairement un appareil Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l\'utilisateur ne soit nécessaire.</string>
     <string name="permlab_handoverStatus">recevoir des messages concernant les transferts Bluetooth</string>
     <string name="permdesc_handoverStatus">Permet la réception d\'informations concernant l\'état du transfert via Bluetooth.</string>
-  
 </resources>

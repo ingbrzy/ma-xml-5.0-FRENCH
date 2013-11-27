@@ -170,5 +170,5 @@
   <string name="network_control_service_notification_title_mutiple">Connexion %2$s bloquée pour %1$d applis</string>
   <string name="network_control_service_notification_title_single">Connexion %2$s bloquée pour %1$s</string>
   <string name="pref_connect_settings_monitor_running_app">Afficher les notifications</string>
-  <string name="pref_connect_settings_monitor_running_app_summary">Affiche un notification quand une appli est bloquée du réseau</string>
+  <string name="pref_connect_settings_monitor_running_app_summary">Affiche une notification quand une appli est bloquée du réseau</string>
 </resources>
