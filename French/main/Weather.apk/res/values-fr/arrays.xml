@@ -135,7 +135,7 @@
         <item>Min.~Max. : %.</item>
         <item>"N'oubliez pas d'emporter un parapluie !"</item>
         <item></item>
-        <item>"Si vous faites sécher du linge à l'extérieur, n'oubliez pas de les rentrés plus tard ! :)"</item>
+        <item>"Si vous faites sécher du linge à l'extérieur, n'oubliez pas de le rentrer plus tard ! :)"</item>
         <item>"Si possible, ne conduisez pas. La sécurité d'abord."</item>
         <item>Conduisez prudemment !</item>
         <item>Soyez prudent, ça glisse.</item>
@@ -157,7 +157,7 @@
         <item>Mettez un cache-oreille si vous en avez ! :)</item>
         <item>Allez courir !</item>
         <item>Allez courir et profitez du soleil ! :)</item>
-        <item>"C'est une bonne journée pour faire sécher les vêtements !"</item>
+        <item>"C'est une bonne journée pour faire sécher votre linge !"</item>
         <item>"Il commence à faire froid, n'oubliez pas d'emporter une veste !"</item>
     </string-array>
     <string-array name="weather_info_uv">
@@ -244,21 +244,21 @@
         <item>0</item>
         <item>Indisponible</item>
         <item>28</item>
-        <item>"Accrochez vos vêtements à sécher dans l'après-midi."</item>
+        <item>"Accrochez votre linge à sécher dans l'après-midi."</item>
         <item>29</item>
-        <item>Accrochez vos vêtements à sécher tout moment.</item>
+        <item>Accrochez votre linge à sécher tout moment.</item>
         <item>30</item>
-        <item>Nuageux mais avec des températures chaudes, vos vêtements sécheront quand même.</item>
+        <item>Nuageux mais avec des températures chaudes, votre linge séchera quand même.</item>
         <item>1</item>
-        <item>Le temps est approprié pour le séchage des vêtements.</item>
+        <item>Le temps est approprié pour le séchage de linge.</item>
         <item>3</item>
         <item>Il pleuvra par intermittence tout au long de la journée.</item>
         <item>5</item>
         <item>Bonnes conditions de séchage.</item>
         <item>4</item>
-        <item>"Séchez vos vêtements à l'intérieur."</item>
+        <item>"Séchez votre linge à l'intérieur."</item>
         <item>31</item>
-        <item>"Séchez vos vêtements à l'intérieur."</item>
+        <item>"Séchez votre linge à l'intérieur."</item>
     </string-array>
     <string-array name="weather_info_travel">
         <item>0</item>
