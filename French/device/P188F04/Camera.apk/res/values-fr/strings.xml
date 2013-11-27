@@ -381,7 +381,7 @@
   <string name="web_url_apk_warning">Le code QR sélectionné contient une application qui peut contenir un risque, veuillez plutôt rechercher via le PlayStore</string>
   <string name="web_url_warning">Le site code QR Internet peut entraîner un risque, le navigateur MIUI va scanner le code QR en toute sécurité pour vous.</string>
   <string name="website_details">"Détails du site web : "</string>
-  <string name="wechat_details">Détails WeChat :</string>
+  <string name="wechat_details">"Weixin : "</string>
   <string name="white_balance">Balance des blancs</string>
   <string name="width">Largeur</string>
   <string name="wifi_connect_fail">Délai de connexion dépassé ou échec du réseau Wi-Fi</string>
