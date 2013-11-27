@@ -73,7 +73,7 @@
         <item>Conditions météo. relativement convenables</item>
         <item>Conditions météo. convenables</item>
         <item>Nuageux</item>
-        <item>Moins qu\idéal</item>
+        <item>Moins qu\'idéal</item>
         <item>Conditions idéales</item>
         <item>Mauvaises conditions</item>
         <item>Conditions moyennes</item>
@@ -93,20 +93,20 @@
         <item>"Il bruine dehors, n'oubliez pas d'emporter un parapluie !"</item>
         <item>"Il y a un mélange de pluie et de neige à l'extérieur, n'oubliez pas d'emporter un parapluie !"</item>
         <item>"Il neige fortement, n'oubliez pas d'emporter un chapeau et une écharpe !"</item>
-        <item>"Il va neiger aujourd\'hui, n'oubliez pas de mettre un chapeau et une écharpe !"</item>
+        <item>"Il va neiger aujourd'hui, n'oubliez pas de mettre un chapeau et une écharpe !"</item>
         <item>"Il neige a lot, n'oubliez pas de mettre un chapeau et une écharpe !"</item>
         <item>"Il neige un peu, n'oubliez pas de mettre un chapeau et une écharpe !"</item>
         <item>"Il y a de légères chutes de neige, n'oubliez pas de mettre un chapeau et une écharpe."</item>
-        <item>Il y a une très forte tempête de sable, n\'oubliez pas de porter un masque.</item>
+        <item>"Il y a une très forte tempête de sable, n'oubliez pas de porter un masque."</item>
         <item>"Il pleut un peu, n'oubliez pas d'emporter un parapluie."</item>
-        <item>Il y a une très forte tempête de sable, n\'oubliez pas de porter un masque.</item>
-        <item>Il y a une très forte tempête de sable, n\'oubliez pas de porter un masque.</item>
+        <item>"Il y a une très forte tempête de sable, n'oubliez pas de porter un masque."</item>
+        <item>"Il y a une très forte tempête de sable, n'oubliez pas de porter un masque."</item>
         <item>"Ce n'est pas tous les jours que vous voyez la grêle ! Marchez avec précaution !"</item>
     </string-array>
     <string-array name="weather_sms_content">
-        <item>N\'oubliez pas de porter une protection solaire.</item>
-        <item>"Ce sera nuageux aujourd'hui."</item>
-        <item>The weather will get worse, it is not recommended to stay indoors for a while.</item>
+        <item>"N'oubliez pas de porter une protection solaire."</item>
+        <item>"Le temps sera nuageux aujourd'hui."</item>
+        <item>"Le temps va se dégrader, il n'est pas recommandé de rester à l'intérieur pendant un certain temps."</item>
         <item>"Si vous allez à l'extérieur, faite attention à la circulation. Si vous conduisez, soyez prudent :)"</item>
         <item>"Il pleut fortement, n'oubliez pas d'emporter un parapluie."</item>
         <item>"Il pleut fortement, n'oubliez pas d'emporter un parapluie."</item>
@@ -118,39 +118,39 @@
         <item>"Il bruine dehors, n'oubliez pas d'emporter un parapluie !"</item>
         <item>"Il y a un mélange de pluie et de neige à l'extérieur, n'oubliez pas d'emporter un parapluie !"</item>
         <item>"Il neige fortement !"</item>
-        <item>Il va neiger aujourd\'hui, n\'oubliez pas de mettre un chapeau et une écharpe !</item>
+        <item>"Il va neiger aujourd'hui, n'oubliez pas de mettre un chapeau et une écharpe !"</item>
         <item>"Il neige fortement, n'oubliez pas de mettre un chapeau et une écharpe !"</item>
         <item>"Il neige un peu, n'oubliez pas de mettre un chapeau et une écharpe !"</item>
         <item>"Il neige, n'oubliez pas de mettre un chapeau et une écharpe !"</item>
-        <item>Il y a une très forte tempête de sable, n\'oubliez pas de porter un masque.</item>
-        <item>Il y a une très forte tempête de sable, n\'oubliez pas de porter un masque.</item>
-        <item>Il y a une tempête de sable très forte, n\'oubliez pas de porter un masque.</item>
-        <item>Il y a une tempête de sable très forte, n\'oubliez pas de porter un masque.</item>
+        <item>"Il y a une très forte tempête de sable, n'oubliez pas de porter un masque."</item>
+        <item>"Il y a une très forte tempête de sable, n'oubliez pas de porter un masque."</item>
+        <item>"Il y a une tempête de sable très forte, n'oubliez pas de porter un masque."</item>
+        <item>"Il y a une tempête de sable très forte, n'oubliez pas de porter un masque."</item>
         <item>"Ce n'est pas tous les jours que vous voyez la grêle ! Marchez avec précaution !"</item>
-        <item>La qualité de l\'air est mauvaise, n\'oubliez pas de porter un masque.</item>
-        <item>La qualité de l\'air est mauvaise, essayez de rester à l\'intérieur.</item>
+        <item>"La qualité de l'air est mauvaise, n'oubliez pas de porter un masque."</item>
+        <item>"La qualité de l'air est mauvaise, essayez de rester à l'intérieur."</item>
     </string-array>
     <string-array name="weather_sms_addons">
         <item>"Prévision journalière pour @: $."</item>
         <item>Min.~Max. : %.</item>
         <item>"N'oubliez pas d'emporter un parapluie !"</item>
         <item></item>
-        <item>"If you're drying clothes outside, remember to take them in later! :)"</item>
-        <item>"Si possible, ne conduisez pas. La sécurité d'abord."</item>
+        <item>"Si vous faites sécher du linge à l'extérieur, n'oubliez pas de les rentrés plus tard ! :)"</item>
+        <item>Si possible, ne conduisez pas. La sécurité d'abord.</item>
         <item>Conduisez prudemment !</item>
         <item>Soyez prudent, ça glisse.</item>
         <item></item>
-        <item>"Faites attention à l'extérieur."</item>
+        <item>Faites attention à l'extérieur.</item>
         <item>Ne sortez pas à moins que vous en ayez besoin.</item>
-        <item>Sortez la crème de protection solaire et la paire de lunettes :)</item>
-        <item>Sortez la crème de protection solaire et la paire de lunettes :)</item>
-        <item>Il y a du vent dehors, n\'oubliez pas de mettre une veste.</item>
-        <item>La qualité de l\'air est mauvaise, n\'oubliez pas de porter un masque.</item>
-        <item>N\'oubliez pas d\'emporter une veste.</item>
-        <item>N\'oubliez pas de porter un masque :)</item>
-        <item>N\'oubliez pas d\'emporter des gants et un chapeau.</item>
-        <item>"Il fait chaud dehors !"</item>
-        <item>"Il fait chaud dehors !"</item>
+        <item>Sortez la crème solaire et la paire de lunettes :)</item>
+        <item>Sortez la crème solaire et la paire de lunettes :)</item>
+        <item>"Il y a du vent dehors, n'oubliez pas de mettre une veste."</item>
+        <item>"La qualité de l'air est mauvaise, n'oubliez pas de porter un masque."</item>
+        <item>"N'oubliez pas d'emporter une veste."</item>
+        <item>"N'oubliez pas de porter un masque :)"</item>
+        <item>"N'oubliez pas d'emporter des gants et un chapeau."</item>
+        <item>Il fait chaud dehors !</item>
+        <item>Il fait chaud dehors !</item>
         <item>Habillez-vous chaudement !</item>
         <item>Une vague de froid arrive…</item>
         <item>Habillez-vous chaudement !</item>
@@ -160,130 +160,128 @@
         <item>"C'est une bonne journée pour faire sécher les vêtements !"</item>
         <item>"Il commence à faire froid, n'oubliez pas d'emporter une veste !"</item>
     </string-array>
-   <!-- à traduire : 
     <string-array name="weather_info_uv">
         <item>0</item>
         <item>Indisponible</item>
         <item>6</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Utilisez une crème solaire, mettez un chapeau et une paire de lunettes, si vous sortez.</item>
         <item>7</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Utilisez une crème solaire, mettez un chapeau et une paire de lunettes, si vous sortez.</item>
         <item>8</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Utilisez une crème solaire, mettez un chapeau et une paire de lunettes, si vous sortez.</item>
         <item>9</item>
-        <item>Avoid the sun if possible. Use sunscreen if you need to go out!</item>
+        <item>Évitez le soleil si possible. Utilisez une crème solaire si vous avez besoin de sortir !</item>
         <item>10</item>
-        <item>Avoid sun if possible. Use sunscreen if you need to go out!</item>
+        <item>Évitez le soleil si possible. Utilisez une crème solaire si vous avez besoin de sortir !</item>
     </string-array>
     <string-array name="weather_info_dress">
         <item>0</item>
         <item>Indisponible</item>
         <item>11</item>
-        <item>Light jacket</item>
+        <item>Veste légère</item>
         <item>12</item>
-        <item>Light jacket</item>
+        <item>Veste légère</item>
         <item>13</item>
-        <item>Summer clothing</item>
+        <item>Vêtements d\'été</item>
         <item>14</item>
-        <item>Summer clothing</item>
+        <item>Vêtements d\'été</item>
         <item>15</item>
-        <item>Light jacket</item>
+        <item>Veste légère</item>
         <item>16</item>
-        <item>Remember to bring additional layers!</item>
+        <item>Pensez à emporter une veste !</item>
         <item>17</item>
-        <item>Bring a jacket!</item>
+        <item>Mettez une veste !</item>
         <item>18</item>
-        <item>Bundle up!</item>
+        <item>Habillez-vous chaudement !</item>
         <item>19</item>
-        <item>Bundle up!</item>
+        <item>Habillez-vous chaudement !</item>
     </string-array>
     <string-array name="weather_info_msport">
         <item>0</item>
         <item>Indisponible</item>
         <item>1</item>
-        <item>"It's a good day for morning exercises!"</item>
+        <item>"C'est une bonne journée pour faire des exercices matinaux !"</item>
         <item>2</item>
-        <item>Bring additional layers!</item>
+        <item>Pensez à emporter une veste !</item>
         <item>3</item>
-        <item>Weather is not ideal; bring additional layers!</item>
+        <item>Le temps n\'est pas idéal; pensez à emporter une veste !</item>
         <item>4</item>
-        <item>Exercise indoors!</item>
+        <item>Exercices à l\'intérieur !</item>
     </string-array>
     <string-array name="weather_info_comfort">
         <item>0</item>
         <item>Indisponible</item>
         <item>20</item>
-        <item>Temperature will be stable</item>
+        <item>La température sera stable</item>
         <item>21</item>
-        <item>Cool and comfortable</item>
+        <item>Frais et confortable</item>
         <item>22</item>
-        <item>Temperature will be volatile</item>
+        <item>Température sera instable</item>
         <item>23</item>
-        <item>Clear skies, uncomfortable conditions</item>
+        <item>Ciel clair, conditions inconfortables</item>
         <item>24</item>
-        <item>Hot and humid! :(</item>
+        <item>Chaud et humide ! :(</item>
     </string-array>
     <string-array name="weather_info_wcar">
         <item>0</item>
         <item>Indisponible</item>
         <item>1</item>
-        <item>"It's a good day to wash your car!"</item>
+        <item>"C'est une bonne journée pour laver votre voiture !"</item>
         <item>2</item>
-        <item>"It's a good day to wash your car!"</item>
+        <item>"C'est une bonne journée pour laver votre voiture !"</item>
         <item>3</item>
-        <item>"It's going to rain, so hold off on washing your car."</item>
+        <item>"Il va pleuvoir, donc évitez de laver votre voiture."</item>
         <item>25</item>
-        <item>"It's going to rain, so hold off on washing your car."</item>
+        <item>"Il va pleuvoir, donc évitez de laver votre voiture."</item>
         <item>26</item>
-        <item>There is a sand storm in the forecast, so hold off on washing your car.</item>
+        <item>Il y a une tempête de sable prévue, donc évitez de laver votre voiture.</item>
         <item>27</item>
-        <item>"It's going to snow, so hold off on washing your car."</item>
+        <item>"Il va neiger, donc évitez de laver votre voiture."</item>
         <item>4</item>
-        <item>Hold off on washing your car.</item>
+        <item>Évitez de laver votre voiture."item>
     </string-array>
     <string-array name="weather_info_hung">
         <item>0</item>
         <item>Indisponible</item>
         <item>28</item>
-        <item>Hang your clothes to dry in the afternoon.</item>
+        <item>Accrochez vos vêtements à sécher dans l'après-midi.</item>
         <item>29</item>
-        <item>Hang your clothes to dry any time.</item>
+        <item>Accrochez vos vêtements à sécher tout moment.</item>
         <item>30</item>
-        <item>Cloudy but with the hot temperatures, your clothes will still dry.</item>
+        <item>Nuageux mais avec des températures chaudes, vos vêtements sécheront quand même.</item>
         <item>1</item>
-        <item>The weather is suitable for drying clothes.</item>
+        <item>Le temps est approprié pour le séchage des vêtements.</item>
         <item>3</item>
-        <item>It will rain intermittently throughout the day.</item>
+        <item>Il pleuvra par intermittence tout au long de la journée.</item>
         <item>5</item>
-        <item>Good drying conditions.</item>
+        <item>Bonnes conditions de séchage.</item>
         <item>4</item>
-        <item>Dry your clothing indoors.</item>
+        <item>Séchez vos vêtements à l'intérieur.</item>
         <item>31</item>
-        <item>Dry your clothing indoors.</item>
+        <item>Séchez vos vêtements à l'intérieur.</item>
     </string-array>
     <string-array name="weather_info_travel">
         <item>0</item>
         <item>Indisponible</item>
         <item>32</item>
-        <item>Clear and sunny with good temperatures.</item>
+        <item>Clair et ensoleillé avec de bonnes températures.</item>
         <item>2</item>
-        <item>Mild and stable temperatures.</item>
+        <item>Températures douces et stables.</item>
         <item>1</item>
-        <item>Mild and stable temperatures.</item>
+        <item>Températures douces et stables.</item>
         <item>3</item>
-        <item>"Today's weather will be volatile."</item>
+        <item>La météo du jour sera instable.</item>
         <item>33</item>
-        <item>"Today's weather will be volatile."</item>
+        <item>La météo du jour sera instable.</item>
         <item>34</item>
-        <item>Clear skies, mild wind.</item>
+        <item>Ciel clair, vent doux.</item>
     </string-array>
     <string-array name="weather_info_fl">
         <item></item>
-        <item>Wear layers!</item>
+        <item>Portez plusieurs couches !</item>
         <item>微风</item>
-        <item>Comfortable</item>
+        <item>Agréable</item>
         <item>暂缺</item>
-        <item>Unavailable</item>
+        <item>Indisponible</item>
     </string-array>
-   -->
 </resources>

@@ -23,7 +23,7 @@
     <string name="dialog_alert_title">Attention</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Impossible de lire cette vidéo en streaming sur cet appareil.</string>
     <string name="selectTextMode">Sélectionner le texte</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="status_bar_notification_info_overflow">999</string>
     <string name="month_long_standalone_january">janvier</string>
     <string name="month_long_standalone_february">février</string>
     <string name="month_long_standalone_march">mars</string>

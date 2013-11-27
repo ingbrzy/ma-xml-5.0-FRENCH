@@ -23,7 +23,7 @@
     <string name="dialog_alert_title">Attention</string>
     <string name="VideoView_error_text_invalid_progressive_playback">"Cette vidéo n'est pas valide pour être diffusée sur ce périphérique"</string>
     <string name="selectTextMode">Sélectionner texte</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="status_bar_notification_info_overflow">999</string>
     <string name="zzzzz_tw_cursor_handle_clipboard">Presse-papiers</string>
     <string name="dlg_brightness_title">Luminosité</string>
     <string name="dlg_how_to_chang_IME_msg">Si vous définissez un mode de saisie autre que Samsung AZERTY, le dock du clavier risque de ne pas fonctionner correctement</string>

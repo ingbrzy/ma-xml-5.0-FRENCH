@@ -234,7 +234,7 @@
   <string name="geolocation_settings_page_summary_not_allowed">"Ce site n'a actuellement pas accès à vos données de localisation."</string>
   <string name="geolocation_settings_page_title">Supprimer l\'accès</string>
   <string name="go_home">Page d\'accueil</string>
-  <string name="google_bookmarks">"Google :"</string>
+  <string name="google_bookmarks">"Google : "</string>
   <string name="goto_dot">OK</string>
   <string name="have_sent_bookmark_to_home_screen">Favori ajouté à la page d\'accueil</string>
   <string name="history">Historique</string>

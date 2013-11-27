@@ -127,8 +127,8 @@
   <string name="HIPS_Perm_PhoneID_Number">Obtenir votre numéro de téléphone</string>
   <string name="HIPS_Perm_PromptAll">Tout accepter</string>
   <string name="HIPS_Perm_ROOT">ROOT</string>
+  <string name="HIPS_Perm_ROOT_Desc_Stable">Non disponible dans la version stable de MIUI</string>
   <string name="HIPS_Perm_ROOT_Desc">Gérer les autorisations ROOT</string>
-  <string name="HIPS_Perm_ROOT_Desc_Stable">Non disponible dans la version Stable MIUI</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s applications sont autorisées à obtenir la permission ROOT</string>
   <string name="HIPS_Perm_ROOT_Title">Obtenir la permission ROOT</string>
   <string name="HIPS_Perm_RejectAll">Tout refuser</string>
@@ -179,7 +179,7 @@
   <string name="Privacy_App_Uninstall">Désinstaller</string>
   <string name="Privacy_Perm_Count">Autorisé : %1$d Refusé : %2$d</string>
   <string name="Su_Enable_Dialog">%1$s tente d\'obtenir la permission ROOT qui est désactivée par défaut pour assurer la sécurité du système. Si vous avez besoin de l\'activer, veuillez aller dans les paramètres puis dans la gestion des permissions.</string>
-  <string name="Su_Unavailable">La Permission ROOT est désactivée dans la version stable de MIUI. Veuillez installer une version BETA de MIUI pour activer la permission ROOT.</string>
+  <string name="Su_Unavailable">La permission ROOT est désactivée dans la version stable de MIUI. Veuillez installer une version bêta de MIUI pour activer la permission ROOT.</string>
   <string name="SysOpt_Boost_AutoStart">Permission de démarrage automatique</string>
   <string name="SysOpt_Boost_AutoStart_Group">Démarrer automatiquement</string>
   <string name="SysOpt_Boost_Boot">Démarrer</string>

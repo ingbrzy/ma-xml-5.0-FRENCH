@@ -248,7 +248,7 @@
   <string name="resource_account_login">Connexion</string>
   <string name="resource_account_login_before_action">Veuillez vous connecter à un votre compte Xiaomi.</string>
   <string name="resource_account_login_title">Connexion</string>
-  <string name="resource_account_switch">Changer de compte</string> 
+  <string name="resource_account_switch">Changer de compte</string>
   <string name="resource_comment_loading_list">Chargement des commentaires…</string>
   <string name="resource_comment_score_count">%1$s utilisateurs</string>
  <!-- resource_exchange & resource_exchange_window_title à revoir ? -->
