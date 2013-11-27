@@ -264,8 +264,8 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Désactiver</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activer</string>
   <string name="pref_camera_skinToneEnhancement_title">Amélioration de la teinte de peau</string>
-  <string name="pref_camera_sound_entry_off">off</string>
-  <string name="pref_camera_sound_entry_on">on</string>
+  <string name="pref_camera_sound_entry_off">Désactivé</string>
+  <string name="pref_camera_sound_entry_on">Activé</string>
   <string name="pref_camera_sound_title">Son de l\'appareil photo</string>
   <string name="pref_camera_sound_title_entry_off">Désactivé</string>
   <string name="pref_camera_sound_title_entry_on">Activé</string>
@@ -479,4 +479,8 @@
   <string name="accessibility_scroll_button_slider">Camera-Video-Switcher</string>
   <string name="accessibility_show_setting_panel_button">SettingButton</string>
   -->
+  <string name="wechat_details">"Weixin : "</string>
+  <string name="pref_camera_scenemode_entry_backlight_portrait">Portrait rétro-éclairé</string>
+  <string name="pref_camera_auto_scene_title">Reconnaitre scène auto.</string>
+  <string name="auto_scene_exit_button_text">Quitter le mode scène</string>
 </resources>

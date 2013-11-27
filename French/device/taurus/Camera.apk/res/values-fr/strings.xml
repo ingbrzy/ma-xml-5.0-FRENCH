@@ -313,8 +313,8 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Désactiver</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activer</string>
   <string name="pref_camera_skinToneEnhancement_title">Amélioration de la teinte de peau</string>
-  <string name="pref_camera_sound_entry_off">off</string>
-  <string name="pref_camera_sound_entry_on">on</string>
+  <string name="pref_camera_sound_entry_off">Désactivé</string>
+  <string name="pref_camera_sound_entry_on">Activé</string>
   <string name="pref_camera_sound_title">Son de l\'appareil photo</string>
   <string name="pref_camera_sound_title_entry_off">Désactivé</string>
   <string name="pref_camera_sound_title_entry_on">Activé</string>
