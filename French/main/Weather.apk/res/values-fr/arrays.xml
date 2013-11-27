@@ -136,11 +136,11 @@
         <item>"N'oubliez pas d'emporter un parapluie !"</item>
         <item></item>
         <item>"Si vous faites sécher du linge à l'extérieur, n'oubliez pas de les rentrés plus tard ! :)"</item>
-        <item>Si possible, ne conduisez pas. La sécurité d'abord.</item>
+        <item>"Si possible, ne conduisez pas. La sécurité d'abord."</item>
         <item>Conduisez prudemment !</item>
         <item>Soyez prudent, ça glisse.</item>
         <item></item>
-        <item>Faites attention à l'extérieur.</item>
+        <item>"Faites attention à l'extérieur."</item>
         <item>Ne sortez pas à moins que vous en ayez besoin.</item>
         <item>Sortez la crème solaire et la paire de lunettes :)</item>
         <item>Sortez la crème solaire et la paire de lunettes :)</item>
@@ -244,7 +244,7 @@
         <item>0</item>
         <item>Indisponible</item>
         <item>28</item>
-        <item>Accrochez vos vêtements à sécher dans l'après-midi.</item>
+        <item>"Accrochez vos vêtements à sécher dans l'après-midi."</item>
         <item>29</item>
         <item>Accrochez vos vêtements à sécher tout moment.</item>
         <item>30</item>
@@ -256,9 +256,9 @@
         <item>5</item>
         <item>Bonnes conditions de séchage.</item>
         <item>4</item>
-        <item>Séchez vos vêtements à l'intérieur.</item>
+        <item>"Séchez vos vêtements à l'intérieur."</item>
         <item>31</item>
-        <item>Séchez vos vêtements à l'intérieur.</item>
+        <item>"Séchez vos vêtements à l'intérieur."</item>
     </string-array>
     <string-array name="weather_info_travel">
         <item>0</item>
