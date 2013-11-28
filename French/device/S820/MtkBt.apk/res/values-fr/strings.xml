@@ -35,7 +35,7 @@
   <string name="bluetooth_pan_GN_connected_confirm_title">Déconnecter le réseau groupe Ad-hoc</string>
   <string name="bluetooth_pan_NAP_connected_confirm_title">Déconnecter les points d\'accès réseau</string>
   <string name="bluetooth_pan_GN_connected_confirm">Souhaitez-vous déconnecter le réseau groupe Ad-hoc de %1$s ?</string>
-  <string name="bluetooth_pan_NAP_connected_confirm">Souhaitez-vous déconnecter les points d\'accès réseau de %1$s?</string>
+  <string name="bluetooth_pan_NAP_connected_confirm">Souhaitez-vous déconnecter les points d\'accès réseau de %1$s ?</string>
   <string name="bluetooth_pan_yes">Autoriser</string>
   <string name="bluetooth_pan_no">Refuser</string>
   <string name="bluetooth_pan_GN_authorize_notify_ticker">Requête d\'autorisation réseau groupe Ad-hoc Bluetooth</string>

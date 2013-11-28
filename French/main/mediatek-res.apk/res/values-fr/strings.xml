@@ -186,8 +186,8 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="sim_missing_slot2">Emplacement 2 : pas de carte SIM détectée</string>
   <string name="sim_missing">Aucune carte SIM détectée</string>
   <string name="sim_missing_detail">Veuillez vérifier si la carte SIM est prête</string>
-  <string name="wap_push_setting_noti_ticker">Accepter le service Auto-push ou pas ?</string>
-  <string name="wap_push_setting_noti_title">Accepter le service Auto-push ou pas?</string>
+  <string name="wap_push_setting_noti_ticker">Accepter le service Auto-push ?</string>
+  <string name="wap_push_setting_noti_title">Accepter le service Auto-push ?</string>
   <string name="wap_push_setting_noti_text">Veuillez appuyer pour sélectionner</string>
   <string name="url_dialog_choice_title">Messages</string>
   <string name="url_dialog_choice_message">Ceci va ouvrir le navigateur, continuer ?</string>
