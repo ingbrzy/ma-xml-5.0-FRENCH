@@ -514,4 +514,53 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>1 heure</item>
         <item>Illimité</item>
     </string-array>
+<resources>
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Les 4 premiers chiffres</item>
+        <item>Les 4 derniers chiffres</item>
+        <item>Ne pas afficher</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Une fois</item>
+        <item>Toujours</item>
+        <item>Jamais</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (mode auto)</item>
+        <item>WCDMA seulement</item>
+        <item>GSM seulement</item>
+    </string-array>
+    <string-array name="network_use_entry">
+        <item>Maison seulement</item>
+        <item>Maison + itinérance</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>"Utiliser l'heure du réseau"</item>
+        <item>"Utiliser l'heure du GPS"</item>
+        <item>Désactivé</item>
+    </string-array>
+    <string-array name="hdmi_video_mode_entries">
+        <item>Plein écran</item>
+        <item>Meilleur ajustement</item>
+        <item>Taille originale</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Toujours</item>
+        <item>Éteindre si inactif depuis plus de 5 min</item>
+        <item>Éteindre si inactif depuis plus de 10 min</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>Bouton-poussoir</item>
+        <item>Code PIN client</item>
+    </string-array>
+    <string-array name="wifi_ap_max_connection_entries">
+        <item>1 utilisateur</item>
+        <item>2 utilisateurs</item>
+        <item>3 utilisateurs</item>
+        <item>4 utilisateurs</item>
+        <item>5 utilisateurs</item>
+        <item>6 utilisateurs</item>
+        <item>7 utilisateurs</item>
+        <item>8 utilisateurs</item>
+    </string-array>
 </resources>
