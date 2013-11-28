@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="add_alarm">Ajouter alarme</string>
+  <string name="add_alarm">Ajouter une alarme</string>
   <string name="alarm_alert">Sonnerie</string>
   <string name="alarm_alert_alert_silenced">Alarme interrompue après %d minutes.</string>
   <string name="alarm_alert_dismiss_text">Quitter</string>

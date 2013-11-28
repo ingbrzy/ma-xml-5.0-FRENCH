@@ -283,7 +283,7 @@ Obtenez de l\'espace gratuit %1$s"</string>
   <string name="upload_failed">Échec du téléchargement !</string>
   <string name="upload_file_toolarge_message">Les fichiers %1$d allant au-delà de 300 Mo ne peuvent pas être partagés. Veuillez vérifier la gestion de transfert pour plus de détails.</string>
   <string name="uploading">Envoi…</string>
-  <string name="used">Utilisé</string>
+  <string name="used">"Utilisé "</string>
   <string name="user_guide">Guide de l\'utilisateur</string>
   <string name="user_guide_download_other_version">"Télécharger MiDrive pour PC ou Mac"</string>
   <string name="user_guide_kuaipan_copy">"Utilisez MiDrive pour accéder à vos fichiers sur plusieurs appareils"</string>

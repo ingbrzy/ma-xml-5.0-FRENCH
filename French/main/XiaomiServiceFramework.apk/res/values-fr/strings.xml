@@ -5,7 +5,7 @@
   <string name="access_token_invalid_warning">Votre compte Weibo est non valide, veuillez le rattacher</string>
   <string name="account">Compte</string>
   <string name="account_dspt">Un compte Xiaomi permet de synchroniser et sauvegarder vos messages, contacts, photos, etc.</string>
-  <string name="account_hint_text">Mail ou Numéro de téléphone</string>
+  <string name="account_hint_text">Mail ou numéro de téléphone</string>
   <string name="account_name">Compte : %1$s</string>
   <string name="activate_phone_failed_notif_title">Échec de l\'activation du service MiCloud</string>
   <string name="activate_phone_send_sms_fail">Échec de l\'envoi du SMS d\'activation, impossible d\'ouvrir le service de synchronisation</string>
@@ -77,7 +77,7 @@
   <string name="dirty_mms_count">%d message(s)</string>
   <string name="dirty_note_count">%d note(s)</string>
   <string name="disable_find_device_error">Erreur : %1$s</string>
-  <string name="disable_micloud">&lt;u&gt;Désactiver MiCloud&lt;/u&gt;</string>
+  <string name="disable_micloud"><u>Désactiver MiCloud</u></string>
   <string name="email_already_be_used">Adresse mail déjà associée avec un autre compte.</string>
   <string name="enableAll">Tout activer</string>
   <string name="enable_find_device_error">Erreur : %1$s</string>
@@ -174,7 +174,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="mili_center">MiCredit</string>
   <string name="my_xiaomi_account">Compte Xiaomi</string>
   <string name="next">Suivant</string>
-  <string name="nobind">Ne pas associer</string>
+  <string name="nobind">Non associé</string>
   <string name="noRemind">Ne pas rappeler</string>
   <string name="other_settings">Autres paramètres</string>
   <string name="password">Mot de passe</string>

@@ -113,16 +113,16 @@
   <string name="cloudfolder_name_reserved">Le nom du dossier est réservé.</string>
   <string name="comfirm_delete_current_album">Supprimer l\'album actuel ?</string>
   <string name="confirm">OK</string>
-  <string name="confirm_delete">Confirmer la suppression de %s élément(s) ?</string>
+  <string name="confirm_delete">Confirmer la suppression de %s ?</string>
   <string name="confirm_delete_album" formatted="false">Êtes-vous sûr de vouloir supprimer %s albums (contenant %s éléments) ?</string>
-  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s image(s) in %s album(s), êtes-vous sur de vouloir les supprimer ?</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s image(s) dans %s album(s), êtes-vous sur de vouloir les supprimer ?</string>
   <string name="confirm_delete_folders_and_pictures">Êtes-vous sûr de vouloir supprimer %s ?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s dossiers (incluant %s)</string>
   <string name="confirm_delete_including_null">0 élément</string>
   <string name="confirm_delete_items">%s éléments</string>
-  <string name="confirm_delete_pictures">%s images</string>
+  <string name="confirm_delete_pictures">%s image(s)</string>
   <string name="confirm_delete_system_album">%s est un album système, êtes-vous sûr de vouloir le supprimer ?</string>
-  <string name="confirm_delete_videos">%s vidéos</string>
+  <string name="confirm_delete_videos">%s vidéo(s)</string>
   <string name="contact_photo">Photo du contact</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_copy">Copier</string>
@@ -224,9 +224,9 @@
   <string name="height">Hauteur</string>
   <string name="highlight">Reflets</string>
   <string name="home_my_captured_items">photo(s) au total</string>
-  <string name="how_many_pics">%d photos</string>
-  <string name="how_many_sub_folders">%d dossiers</string>
-  <string name="how_many_videos">%d vidéos</string>
+  <string name="how_many_pics">%d photo(s)</string>
+  <string name="how_many_sub_folders">%d dossier(s)</string>
+  <string name="how_many_videos">%d vidéo(s)</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_quota_fulfiled">"Impossible de créer l'image, le quota d'images a atteint sa limite."</string>
   <string name="immomo_camera">Immomo</string>

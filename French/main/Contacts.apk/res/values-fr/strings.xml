@@ -909,7 +909,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="scanning">Recherche de périphériques…</string>
   <string name="scanning_sdcard_failed_message">Échec de la recherche sur la carte SD (Raison : %s)</string>
   <string name="scanning_sdcard_failed_title">"Recherche impossible sur la carte SD"</string>
-  <string name="sdcard_not_mounted_dialog_message">"Carte SD non disponible, veuillez en ajouter une."</string>
+  <string name="sdcard_not_mounted_dialog_message">"Veuillez insérer une carte SD.
+ "</string>
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
   <string name="sdcard_status_changed_dialog_message">"L'application va fermer. Veuillez la rouvrir pour actualiser les ressources."</string>
   <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>

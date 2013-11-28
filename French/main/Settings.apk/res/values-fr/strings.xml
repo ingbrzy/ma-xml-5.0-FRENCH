@@ -445,7 +445,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_sap_remember_choice">"Ne plus me demander"</string>
   <string name="bluetooth_sap_request">Requête SAP</string>
   <string name="bluetooth_scan_for_devices">Recherche d\'appareils</string>
-  <string name="bluetooth_search_for_devices">Rechercher appareils</string>
+  <string name="bluetooth_search_for_devices">Rechercher des appareils</string>
   <string name="bluetooth_searching_for_devices">Recherche…</string>
   <string name="bluetooth_settings">Bluetooth</string>
   <string name="bluetooth_settings_summary">Gérer les connexions, configurer le nom et l\'identification de l\'appareil</string>
