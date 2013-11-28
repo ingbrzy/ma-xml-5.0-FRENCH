@@ -1809,9 +1809,6 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_application">Sélectionner une application</string>
   <string name="select_device_admin_msg">Administrateurs de l\'appareil</string>
- <!-- à traduire :
-  <string name="select_ssid_type_title">Reselection among SSID</string>
- -->
   <string name="select_subscription">Sélectionner Abonnement</string>
   <string name="selinux_status">État SELinux</string>
   <string name="selinux_status_disabled">Désactivé</string>
@@ -1903,11 +1900,9 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_pin_toggle">Verrouiller la carte SIM</string>
   <string name="sim_pins_dont_match">"Les codes PIN ne correspondent pas."</string>
   <string name="sim_reenter_new">Confirmez le nouveau code PIN</string>
-  <string name="sim_status_title">État SIM</string>
   <string name="skip_button_label">Annuler</string>
   <string name="skip_label">Ignorer</string>
   <string name="skip_step">Ignorer cette étape</string>
-  <string name="slot_status_title">Information IMEI</string>
   <string name="small_font">Petite</string>
   <string name="sms_delivered_sound_dialog_title">Choisissez le son de l\'accusé de réception</string>
   <string name="sms_delivered_sound_title">Accusé de réception</string>
@@ -2811,7 +2806,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="video_call_summary">Configurez la sonnerie par défaut de vos appels vidéo entrants</string>
   <string name="Phone_vibrate_summary">Le téléphone vibre lors des appels entrants</string>
   <string name="vibrate_title">Vibrer</string>
-  <string name="audio_profile_settings_title">Profils audio</string>
   <!--Add Strings for MTK AboutPhone Settings -->
   <!-- Gemini AboutPhone status sim status title -->
   <string name="sim_status_title">Etat SIM</string>
@@ -3066,7 +3060,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_ap_client_block_title">"Bloquer"</string>
   <string name="wifi_ap_client_details_title">Détails</string>
   <string name="wifi_wps_fail_error">Échec de la configuration Wi-Fi protégée, réessayez.</string>
-  <string name="wifi_tether_setting_title">Réglages de base</string>
   <string name="wifi_tether_wps_connect_title">"Connexion WPS"</string>
   <string name="wifi_tether_wps_connect_summary">Mode de configuration Wi-Fi protégé sélectionné en cours</string>
   <string name="wifi_tether_wps_pin_error">PIN invalide</string>

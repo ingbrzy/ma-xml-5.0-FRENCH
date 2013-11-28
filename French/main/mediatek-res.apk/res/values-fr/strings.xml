@@ -121,7 +121,7 @@
   <string name="dismiss">Rejeter</string>
   <string name="keyguard_wrong_code_input">Code incorrect.</string>
   <string name="keyguard_code_length_prompt">Entrez entre 4 et 8 chiffres.</string>
-  <string name="keyguard_code_donnot_mismatch">"Ne correspondent pas."</string>
+  <string name="keyguard_code_donnot_mismatch">Ne correspondent pas.</string>
   <string name="for_text">pour</string>
   <string name="keyguard_internal_call">Appel interne</string>
   <string name="keyguard_not_set">Non défini</string>
