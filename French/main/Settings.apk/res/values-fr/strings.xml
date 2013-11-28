@@ -3009,7 +3009,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="mtk_datausage_overview_tab">"Vue d'ensemble"</string>
   <string name="mtk_datausage_overview_wifi_total">Total</string>
   <string name="mtk_datausage_overview_mobile_title">MOBILE</string>
-  <string name="mtk_datausage_overview_mobile_usage">%s sur %s</string>
+  <string name="mtk_datausage_overview_mobile_usage" formatted="false">%s sur %s</string>
   <string name="mtk_datausage_overview_mobile_usage_warning">Hors limite %s</string>
   <string name="display_personalize">Personnaliser</string>
   <string name="display_default">"Affichage"</string>
