@@ -104,7 +104,7 @@
   <string name="contact_title">Contacts</string>
   <string name="current_account">Connecté en tant que : %s</string>
   <string name="current_sim">Carte SIM actuelle</string>
-  <string name="customization">&lt;u&gt;Personnaliser&lt;/u&gt;</string>
+  <string name="customization"><u>Personnaliser</u></string>
   <string name="customization_under_wifi_prompt">Uniquement supporté via une connexion Wi-Fi</string>
   <string name="data_no_enough_space">Pas assez d\'espace libre dans la mémoire interne, libérez de l\'espace et essayez à nouveau</string>
   <string name="data_no_enough_space_message">La restauration a peut-être échoué, veuillez libérer un peu d\'espace de stockage interne et essayer à nouveau</string>

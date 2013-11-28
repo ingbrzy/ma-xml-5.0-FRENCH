@@ -119,7 +119,7 @@
   <string name="confirm_delete_folders_and_pictures">Êtes-vous sûr de vouloir supprimer %s ?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s dossiers (incluant %s)</string>
   <string name="confirm_delete_including_null">0 élément</string>
-  <string name="confirm_delete_items">%s éléments</string>
+  <string name="confirm_delete_items">%s élément(s)</string>
   <string name="confirm_delete_pictures">%s image(s)</string>
   <string name="confirm_delete_system_album">%s est un album système, êtes-vous sûr de vouloir le supprimer ?</string>
   <string name="confirm_delete_videos">%s vidéo(s)</string>

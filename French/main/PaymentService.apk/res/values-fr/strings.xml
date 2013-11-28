@@ -305,13 +305,13 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points. Veuillez réessayer :</string>
   <string name="lockpattern_recording_inprogress">Ôtez le doigt lorsque vous avez terminé.</string>
   <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage :</string>
-  <string name="lockpattern_retry_text">&lt;u&gt;Réinitialiser le schéma de verrouillage&lt;/u&gt;</string>
+  <string name="lockpattern_retry_text"><u>Réinitialiser le schéma de verrouillage</u></string>
   <string name="lockpattern_settings_help_how_to_record">Comment dessiner un schéma de déverrouillage :</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Réessayer dans %d secondes.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Trop de tentatives échouées !&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Annuler</string>
   <string name="lockpattern_tutorial_continue_label">Suivant</string>
-  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Schéma oublié ?&lt;/u&gt;</string>
+  <string name="lockscreen_forgot_pattern_button_text"><u>Schéma oublié ?</u></string>
   <string name="login">Connexion</string>
   <string name="memu_refresh">Actualiser</string>
   <string name="mibi_license_message">Service MiCredit de Xiaomi. En appuyant sur OK, vous acceptez être en accord avec le %1$s.</string>
