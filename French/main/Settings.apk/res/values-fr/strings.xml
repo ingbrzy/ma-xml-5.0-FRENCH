@@ -897,7 +897,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="error_apn_empty">"L'APN est obligatoire."</string>
   <string name="error_mcc_not3">Le champ MCC doit contenir 3 chiffres.</string>
   <string name="error_mnc_not23">Le champ MNC doit contenir 2 ou 3 chiffres.</string>
-  <string name="error_name_empty">"Le champ "Nom" est obligatoire."</string>
+  <string name="error_name_empty">Le champ \"Nom\" est obligatoire.</string>
   <string name="error_title"></string>
   <string name="external_code_size_label">Application sur USB</string>
   <string name="external_data_size_label">Données sur USB</string>
@@ -2824,9 +2824,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="enable_app_permission_title">Le gestionnaire de permissions est actif</string>
   <string name="enable_firewall">Filtrer les appels indésirables</string>
   <string name="examination_score_100">Analyse non requise, tout à l\'air dans l\'ordre !</string>
-  <string name="examination_score_60_0">Oops! Vous devriez optimiser votre téléphone…</string>
-  <string name="examination_score_80_100">Certains éléments peuvent êtres optimisés…</string>
-  <string name="examination_score_80_60">Certains éléments peuvent êtres optimisés…</string>
+  <string name="examination_score_60_0">Vous devriez optimiser votre téléphone</string>
+  <string name="examination_score_80_100">Certains éléments peuvent êtres optimisés</string>
+  <string name="examination_score_80_60">Certains éléments peuvent êtres optimisés</string>
   <string name="examination_score_has_virus">Applications suspectes détectées…</string>
   <string name="finish_checking_memory">Finalisation de la vérification de l\'état de la mémoire…</string>
   <string name="finish_checking_protection">Finalisation de la vérification de la protection en temps réel…</string>
@@ -3011,7 +3011,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_center_state_on">Activé</string>
   <string name="power_center_title">Batterie</string>
   <string name="power_chooser_check_box_summary">Choisissez un profil de gestion d\'énergie pour prolonger la vie de la batterie</string>
-  <string name="power_chooser_check_box_title">Économiser la batterie</string>
+  <string name="power_chooser_check_box_title">Appliquer les paramètres</string>
   <string name="power_chooser_mine_summary">Sauvegarder les paramètres système d\'origine</string>
   <string name="power_chooser_mine_title">Personnalisé</string>
   <string name="power_chooser_sleep_summary">Désactiver toutes les fonctions (téléphone, messages, internet) à l\'exception du réveil</string>
@@ -3021,7 +3021,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_chooser_smart_title">Mode par défaut</string>
   <string name="power_chooser_standby_summary">Désactiver les fonctions Internet</string>
   <string name="power_chooser_standby_title">Mode marathon</string>
-  <string name="power_chooser_title">Économiser la batterie</string>
+  <string name="power_chooser_title">Batterie</string>
   <string name="power_chooser_user_define_summary">Créer une configuration personnalisée pour batterie</string>
   <string name="power_chooser_user_define_title">Ajouter profil perso.</string>
   <string name="power_consume_other">Autres</string>
@@ -3067,7 +3067,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_dialog_vibration_title">Vibrer</string>
   <string name="power_mgr">Énergie</string>
   <string name="power_mode_airplane_mode">Mode avion</string>
-  <string name="power_mode_auto_clean_memery_lock_screen">Verrouiller l\'écran après %1$d min</string>
+  <string name="power_mode_auto_clean_memery_lock_screen">après %1$d min</string>
   <string name="power_mode_auto_clean_memory">Nettoyer la mémoire automatiquement</string>
   <string name="power_mode_auto_clean_memory_in_five_minutes">Après 5 minutes</string>
   <string name="power_mode_auto_clean_memory_in_one_minute">Après 1 minute</string>
@@ -3089,8 +3089,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_mode_select_desc">Choisissez le mode qui répond à vos besoins</string>
   <string name="power_mode_select_title">Mode d\'alimentation</string>
   <string name="power_mode_sleep">Veille</string>
-  <string name="power_mode_sleep_in_minutes">Veille après %1$d minutes d\'inactivité</string>
-  <string name="power_mode_sleep_in_seconds">Veille après %1$d secondes d\'inactivité</string>
+  <string name="power_mode_sleep_in_minutes">après %1$d minutes d\'inactivité</string>
+  <string name="power_mode_sleep_in_seconds">après %1$d secondes d\'inactivité</string>
   <string name="power_mode_sleep_never">Jamais</string>
   <string name="power_mode_switch_off">Inactif</string>
   <string name="power_mode_switch_on">Actif</string>
@@ -3098,9 +3098,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_mode_touch_with_ring">Notification sonore au touché</string>
   <string name="power_mode_touch_with_vibration">Vibrer au toucher</string>
   <string name="power_mode_vibration">Vibreur</string>
-  <string name="power_mode_vibration_no">Vibreur désactivé</string>
+  <string name="power_mode_vibration_no">Désactivé</string>
   <string name="power_mode_vibration_silence">Vibrer quand la sonnerie est silencieuse</string>
-  <string name="power_mode_vibration_yes">Vibreur activé</string>
+  <string name="power_mode_vibration_yes">Activé</string>
   <string name="power_mode_wifi">Wi-Fi</string>
   <string name="power_perm_logs_empty">Aucun journal</string>
   <string name="power_save_choose_mode">Choisir un profil</string>
@@ -3284,4 +3284,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_single_virusapk_title">Détails du virus</string>
   <string name="whitelist_tab_title">Liste blanche</string>
   <string name="work_done">OK</string>
+  <string name="cleaner_support_hints">Propulsé par Clean Master</string>
+  <string name="virus_scan_unknown_virus_name">Inconnu</string>
+ <!-- à traduire
+  <string name="virus_scan_is_cloud_scanning">Kontrola Cloudu...</string>
+ -->
 </resources>

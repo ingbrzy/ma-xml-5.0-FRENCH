@@ -558,7 +558,7 @@
   <string name="wifi_connect_ap_summary">Spécifier le type de connexion réseau</string>
   <string name="wifi_connect_type_title">Type auto-connexion</string>
   <string name="select_ssid_type_title">Type de connexion réseau</string>
-  <string name="data_connection_dialog_title">Modifier de connexion de donnée</string>
+  <string name="data_connection_dialog_title">Modifier la connexion de donnée</string>
   <string name="wifi_failover_gprs_content">"Le Wi-Fi n'est pas disponible, essayer de ce connecter au réseau mobile ?"</string>  
   <string name="change_data_conn_title">Modifier la connexion de données</string>
   <string name="change_data_conn_message">"%1$s n'est pas disponible, modifier la connexion de données par défaut pour %2$s ?"</string>
