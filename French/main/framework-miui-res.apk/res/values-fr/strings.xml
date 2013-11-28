@@ -126,7 +126,7 @@ Réessayer dans %d secondes."</string>
   <string name="lunar_yue"/>
   <string name="lunar_zheng"/>
   <string name="memory_clear_nothing_result">Pas de mémoire à libérer</string>
-  <string name="memory_clear_result">"%1$s libérés | %2$s disponible"</string>
+  <string name="memory_clear_result">"%1$so libérés | %2$so disponible"</string>
   <string name="minutes">%d minutes</string>
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_device_name">Android</string>
