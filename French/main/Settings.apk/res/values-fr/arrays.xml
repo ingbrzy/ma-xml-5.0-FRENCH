@@ -514,7 +514,6 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>1 heure</item>
         <item>Illimité</item>
     </string-array>
-<resources>
     <string-array name="gemini_sim_info_number_display_format_entries">
         <item>Les 4 premiers chiffres</item>
         <item>Les 4 derniers chiffres</item>
