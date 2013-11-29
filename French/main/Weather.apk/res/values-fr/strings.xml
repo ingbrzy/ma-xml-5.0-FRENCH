@@ -14,7 +14,7 @@
     <string name="act_set_city_find_side_error">Impossible de vous géolocaliser.</string>
     <string name="act_set_city_find_side_on">Géolocalisation</string>
     <string name="act_set_city_find_side">Géolocalisation…</string>
-    <string name="act_set_city_re_find_side">Géolocalisation…</string>
+    <string name="act_set_city_re_find_side">Nouvelle tentative de géolocalisation…</string>
     <string name="act_weather_aqi_share">Partager</string>
     <string name="act_weather_aqi_title">Indice de qualité de l\'air</string>
     <string name="act_weather_cycle_low_temp">min.</string>
@@ -26,7 +26,7 @@
     <string name="act_weather_main_data_null">Aucune donnée météo, appuyer pour actualiser</string>
     <string name="act_weather_range_select">Sélectionner une ville</string>
     <string name="act_weather_range_title">Prévisions météorologiques locales</string>
-    <string name="act_weather_update_time">%s actualisé</string>
+    <string name="act_weather_update_time">Actualisé à %s</string>
     <string name="add_city">Ajouter un lieu</string>
     <string name="alert_message_delete">Supprimer le(s) %d élément(s) sélectionné(s) ?</string>
     <string name="alert_provider_message">Vous devez activer la géolocalisation via le réseau mobile.</string>
@@ -68,12 +68,12 @@
     <string name="loading_weather">Chargement…</string>
     <string name="local_city">Villes locales</string>
     <string name="location_allow_err">Impossible de vous géolocaliser.</string>
-    <string name="location_management">Lieux</string>
+    <string name="location_management">Géolocalisation</string>
     <string name="location_notification">Notifications de géolocalisation</string>
     <string name="menu_about">À Propos</string>
     <string name="menu_around">Alentours</string>
     <string name="menu_delete">Supprimer</string>
-    <string name="menu_location">Lieux</string>
+    <string name="menu_location">Géolocalisation</string>
     <string name="menu_main">Index</string>
     <string name="menu_notification">Notifications</string>
     <string name="menu_reload">Actualiser</string>
@@ -104,11 +104,11 @@ Aujourd'hui à %1$s la qualité de l'air est : %2$s, %3$s. %4$s %5$s."</string>
     <string name="share_weather_content">"\#MIUI weather#
 Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
     <string name="share_weather_title">Partager les données météo</string>
-<string name="sina_share_pendding">Envoi en cours...</string>
+<string name="sina_share_pendding">Envoi en cours…</string>
 <string name="sina_share_success">Envoyé avec succès !</string>
 <string name="sina_share_fail">Échec de l\'envoi !</string>
-<string name="sina_token_expired_warning">Compte Weibo expiré, veuillez réassocier</string>
-<string name="sina_token_invalid_warning">Compte Weibo non valide, veuillez réassocier</string>
+<string name="sina_token_expired_warning">Jeton de sécurité du compte Weibo expiré, veuillez le réassocier</string>
+<string name="sina_token_invalid_warning">Jeton de sécurité du compte Weibo non valide, veuillez le réassocier</string>
 <string name="weather_notification">Notifications météo</string>
 <string name="sms_notification">Partager par SMS</string>
 <string name="widget_loading">Aucun donnée météo</string>
