@@ -68,10 +68,9 @@
     <string name="enable_notification">Open location notification</string>
    -->
     <string name="first_start_network_toast_text">Accès au réseau pour obtenir les prévisions météorologiques.</string>
-    <string name="format_date_md">MM/d kk:mm</string>
-    <string name="format_date_trend_md">MM/d</string>
+    <string name="format_date_md">d/MM kk:mm</string>
+    <string name="format_date_trend_md">d/MM</string>
     <string name="format_date_week">EEE</string>
-   <!-- format_date_wmd format de date à changer ? : à vérifier -->
     <string name="format_date_wmd">EEE d MMM</string>
    <!-- à traduire/vérifier longueur traduction :
     <string name="install_tencent">Get Weibo app</string>

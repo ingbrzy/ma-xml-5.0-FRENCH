@@ -5,7 +5,7 @@
   <string name="audio_db_album_name">Enregistrements audio</string>
   <string name="audio_db_artist_name">Vos enregistrements</string>
   <string name="audio_db_playlist_name">Mes enregistrements</string>
-  <string name="audio_db_title_format">dd/MM/yyyy HH:mm:ss</string>
+  <string name="audio_db_title_format">dd/MM/yyyy H:mm:ss</string>
   <string name="back">Retour</string>
   <string name="button_ok">OK</string>
   <string name="call_record">Enregistrer l\'appel (%d)</string>

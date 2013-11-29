@@ -14,7 +14,7 @@
   <string name="audio_db_album_name">Enregistrements FM</string>
   <string name="audio_db_artist_name">Mes enregistrements FM</string>
   <string name="audio_db_playlist_name">Enregistrements FM</string>
-  <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+  <string name="audio_db_title_format">dd-MM-yyyy H:mm:ss</string>
   <string name="audio_type_mono">Mono</string>
   <string name="audio_type_stereo">Stéréo</string>
   <string name="auto_select_af">Fréquence de remplacement</string>
