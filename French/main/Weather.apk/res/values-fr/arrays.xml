@@ -158,17 +158,17 @@
         <item>Allez courir !</item>
         <item>Allez courir et profitez du soleil ! :)</item>
         <item>"C'est une bonne journée pour faire sécher votre linge !"</item>
-        <item>"Il commence à faire froid, n'oubliez pas d'emporter une veste !"</item>
+        <item>"Ça va se rafraîchir, n'oubliez pas d'emporter une veste !"</item>
     </string-array>
     <string-array name="weather_info_uv">
         <item>0</item>
         <item>Indisponible</item>
         <item>6</item>
-        <item>Utilisez une crème solaire, mettez un chapeau et une paire de lunettes, si vous sortez.</item>
+        <item>Utilisez, si vous sortez, une crème solaire, mettez un chapeau et une paire de lunettes.</item>
         <item>7</item>
-        <item>Utilisez une crème solaire, mettez un chapeau et une paire de lunettes, si vous sortez.</item>
+        <item>Utilisez, si vous sortez, une crème solaire, mettez un chapeau et une paire de lunettes.</item>
         <item>8</item>
-        <item>Utilisez une crème solaire, mettez un chapeau et une paire de lunettes, si vous sortez.</item>
+        <item>Utilisez, si vous sortez, une crème solaire, mettez un chapeau et une paire de lunettes.</item>
         <item>9</item>
         <item>Évitez le soleil si possible. Utilisez une crème solaire si vous avez besoin de sortir !</item>
         <item>10</item>
@@ -216,9 +216,9 @@
         <item>21</item>
         <item>Frais et confortable</item>
         <item>22</item>
-        <item>Température sera instable</item>
+        <item>Température variable</item>
         <item>23</item>
-        <item>Ciel clair, conditions inconfortables</item>
+        <item>Ciel clair, conditions variables</item>
         <item>24</item>
         <item>Chaud et humide ! :(</item>
     </string-array>
@@ -278,7 +278,7 @@
     </string-array>
     <string-array name="weather_info_fl">
         <item></item>
-        <item>Portez plusieurs couches !</item>
+        <item>Portez plusieurs épaisseurs !</item>
         <item>微风</item>
         <item>Agréable</item>
         <item>暂缺</item>

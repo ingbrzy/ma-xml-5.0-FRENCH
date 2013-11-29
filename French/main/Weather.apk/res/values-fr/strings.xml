@@ -9,20 +9,15 @@
     <string name="act_find_city_hot_title">Villes populaires</string>
     <string name="act_find_city_null_data">Aucun résultat.</string>
     <string name="act_find_city_title">Ajouter un lieu</string>
-   <!-- à traduire :
-    <string name="act_init_dialog_finish">Global weather info has been added.</string>
-   -->
+   <!-- act_init_dialog_finish à revoir ? infos météo globales ajoutées ? -->
+    <string name="act_init_dialog_finish">Infos météo ajoutées.</string>
     <string name="act_set_city_find_side_error">Impossible de vous géolocaliser.</string>
-   <!-- à traduire :
-    <string name="act_set_city_find_side_on">Open location</string>
-   -->
+    <string name="act_set_city_find_side_on">Géolocalisation</string>
     <string name="act_set_city_find_side">Géolocalisation…</string>
     <string name="act_set_city_re_find_side">Géolocalisation…</string>
     <string name="act_weather_aqi_share">Partager</string>
     <string name="act_weather_aqi_title">Indice de qualité de l\'air</string>
-   <!-- à traduire  ?
-    <string name="act_weather_cycle_low_temp">low</string>
-   -->
+    <string name="act_weather_cycle_low_temp">min.</string>
     <string name="act_weather_cycle_update">Actualisation…</string>
     <string name="act_weather_find_city_connect_net">connectez-vous à un réseau puis réessayez</string>
     <string name="act_weather_find_city_search_online">appuyer pour rechercher en-ligne</string>
@@ -43,14 +38,12 @@
     <string name="app_name">Météo</string>
     <string name="app_nohave_net">Aucun réseau de données disponible</string>
     <string name="app_unquiet_net">Mauvaise connexion réseau</string>
-   <!-- à traduire :
-    <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
-    <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
-    <string name="aqi_details_good">All the people may free activities in the outdoor.</string>
-    <string name="aqi_details_hazardous">Everyone should avoid all physical activity outdoors; people with heart or lung disease, older adults, and children should remain indoors and keep activity levels low.</string>
-    <string name="aqi_details_light_pollution">People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion.</string>
-    <string name="aqi_details_unhealthy">People with heart or lung disease, older adults, and children should avoid prolonged or heavy exertion; everyone else should reduce prolonged or heavy exertion.</string>
-   -->
+    <string name="aqi_details_dangerous">Les personnes ayant une maladie cardiaque ou pulmonaire, les personnes âgées et les enfants doivent éviter toute activité physique en plein air, tout le monde devrait éviter de faire des efforts intenses ou prolongés.</string>
+    <string name="aqi_details_fine">Les personnes particulièrement sensibles devraient envisager d\'éviter de faire des efforts intenses ou prolongés.</string>
+    <string name="aqi_details_good">Toutes les personnes peuvent pratiquer des activités en plein air.</string>
+    <string name="aqi_details_hazardous">Tout le monde doit éviter toute activité physique à l\'extérieur, les gens avec une maladie cardiaque ou pulmonaire, les personnes âgées, et les enfants doivent rester à l'intérieur et maintenir une faible activité.</string>
+    <string name="aqi_details_light_pollution">Les personnes ayant une maladie cardiaque ou pulmonaire, les personnes âgées, et les enfants devraient éviter de faire des efforts intenses ou prolongés.</string>
+    <string name="aqi_details_unhealthy">Les personnes ayant une maladie cardiaque ou pulmonaire, les personnes âgées et les enfants doivent éviter les efforts intenses ou prolongés, tout le monde devrait éviter de faire des efforts intenses ou prolongés.</string>
     <string name="aqi_quality_index_dangerous">dangereux</string>
     <string name="aqi_quality_index_good">bon</string>
     <string name="aqi_quality_index_hazardous">risqué</string>
@@ -62,26 +55,23 @@
     <string name="button_not_allow">Refuser</string>
     <string name="cancel">Annuler</string>
     <string name="enable_gps">GPS</string>
-   <!-- à traduire :
-    <string name="enable_notification_city">Have opened %s weather notification, system notification will be sent when unexpected weather such as rain, snow and temperature change happens.</string>
-    <string name="enable_notification_summary">Notify me if the forecast changes</string>
-    <string name="enable_notification">Open location notification</string>
-   -->
+    <string name="enable_notification_city">%s notifications météo affichées, des notifications seront affichées lors conditions météo défavorables (pluie, neige ou forte variations de températures).</string>
+    <string name="enable_notification_summary">Affiche une notification si les conditions météorologiques changent défavorablement</string>
+    <string name="enable_notification">Notifications météo défavorable</string>
     <string name="first_start_network_toast_text">Accès au réseau pour obtenir les prévisions météorologiques.</string>
     <string name="format_date_md">d/MM kk:mm</string>
     <string name="format_date_trend_md">d/MM</string>
     <string name="format_date_week">EEE</string>
     <string name="format_date_wmd">EEE d MMM</string>
-   <!-- à traduire/vérifier longueur traduction :
-    <string name="install_tencent">Get Weibo app</string>
-   -->
+   <!-- install_tencent à vérifier longueur traduction :    -->
+    <string name="install_tencent">Téléch. l\'appli Weibo</string>
     <string name="loading_weather">Chargement…</string>
     <string name="local_city">Villes locales</string>
     <string name="location_allow_err">Impossible de vous géolocaliser.</string>
     <string name="location_management">Lieux</string>
-    <string name="location_notification">Notifications météo</string>
+    <string name="location_notification">Notifications de géolocalisation</string>
     <string name="menu_about">À Propos</string>
-    <string name="menu_around">Alentour</string>
+    <string name="menu_around">Alentours</string>
     <string name="menu_delete">Supprimer</string>
     <string name="menu_location">Lieux</string>
     <string name="menu_main">Index</string>
@@ -94,10 +84,8 @@
     <string name="menu_trend">Tendance</string>
     <string name="save_screen_shot_failed">Erreur lors de l\'enregistrement de la capture d\'écran.</string>
     <string name="selected_format">%d élément(s) sélectionné(s)</string>
-   <!-- à traduire :
-    <string name="send_sms_notification_summary">"Send today's weather data to your contacts via text message"</string>
-    <string name="send_sms_notification">Forward weather notifications</string>
-   -->
+    <string name="send_sms_notification_summary">Envoie la météo du jour à vos contacts par SMS"</string>
+    <string name="send_sms_notification">Partager la météo</string>
     <string name="send_weather_sms_cycle">%1$s prévisions météo :%2$s</string>
     <string name="send_weather_sms_error">Aucune donnée météorologique</string>
     <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
@@ -116,4 +104,18 @@ Aujourd'hui à %1$s la qualité de l'air est : %2$s, %3$s. %4$s %5$s."</string>
     <string name="share_weather_content">"\#MIUI weather#
 Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
     <string name="share_weather_title">Partager les données météo</string>
+<string name="sina_share_pendding">Envoi en cours...</string>
+<string name="sina_share_success">Envoyé avec succès !</string>
+<string name="sina_share_fail">Échec de l'envoi !</string>
+<string name="sina_token_expired_warning">Compte Weibo expiré, veuillez réassocier</string>
+<string name="sina_token_invalid_warning">Compte Weibo non valide, veuillez réassocier</string>
+<string name="weather_notification">Notifications météo</string>
+<string name="sms_notification">Partager par SMS</string>
+<string name="widget_loading">Aucun donnée météo</string>
+<string name="trend_weather_today">Aujourd\'hui</string>
+<string name="trend_weather_tomorrow">Demain</string>
+<string name="tip_weather">Notifications météo MIUI</string>
+<string name="tip_weather_info_title_1">%1$s une différence de température de %2$d dégrées est prévue</string>
+<string name="tip_weather_info_content_1">Habillez-vous chaudement !</string>
+<string name="tip_weather_info_title_2">%1$s aujourd\'hui la température estimée sera de %2$s</string>
 </resources>
