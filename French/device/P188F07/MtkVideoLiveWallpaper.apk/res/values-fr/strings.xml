@@ -9,7 +9,7 @@
     <string name="VideoScene_error_sdcard_unmounted">Carte SD non installée</string>
     <string name="VideoScene_info_wait_sdcard">En attente de la préparation de la carte SD</string>
     <string name="VideoScene_error_media_not_found">"Le fichier multimédia n'existe plus"</string>
-    <string name="VideoScene_error_be_set">Désolé, la vidéo ne peut être utilisée en fond d'écran</string>
+    <string name="VideoScene_error_be_set">"Désolé, la vidéo ne peut être utilisée en fond d'écran"</string>
     <string name="VideoEditor_error_title">Impossible de lire la vidéo</string>
     <string name="VideoEditor_error_button">OK</string>
     <string name="VideoEditor_error_no_video_selected">Aucune vidéo sélectionnée</string>
