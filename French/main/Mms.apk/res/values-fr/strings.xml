@@ -223,7 +223,7 @@
   <string name="mx_auto_resend_sms">Envoyer en tant que SMS</string>
   <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_btn_enable">Activer</string>
-  <string name="mx_btn_enable_now">Activer MiMessaging</string>
+  <string name="mx_btn_enable_now">Activer</string>
   <string name="mx_count_dspt">Depuis l\'activation, MIUI a envoyé %1$d message(s) cloud pour vous (%2$s)</string>
   <string name="mx_current_status">Statut : En ligne</string>
   <string name="mx_dspt">Envoyer des messages via internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
@@ -259,8 +259,7 @@
   <string name="phrase_confirm_delete_message">La phrase sélectionnée sera supprimée</string>
   <string name="phrase_empty">Aucune phrase</string>
   <string name="phrase_from">De %1s</string>
- <!-- phrase_list_title à vérifier, usage de la variable toujours d'actualité ?) -->
-  <string name="phrase_list_title" formatted="false">Phrases (%1$d)</string>
+  <string name="phrase_list_title">Réponses rapides</string>
   <string name="pick_too_many_recipients">Trop de destinataires</string>
   <string name="play">Lire</string>
   <string name="pref_advanced_settings_title">Paramètres avancés</string>
@@ -302,7 +301,7 @@
   <string name="pref_title_mms_read_reports">Confirmation de lecture</string>
   <string name="pref_title_mms_retrieval_during_roaming">Récupération en itinérance</string>
   <string name="pref_title_new_message_popup">Pop-up de nouveau message</string>
-  <string name="pref_title_notification_body_enabled">Voir un aperçu</string>
+  <string name="pref_title_notification_body_enabled">Afficher un aperçu</string>
   <string name="pref_title_ringtone_repeat">Nombre de rappels</string>
   <string name="pref_title_show_recent_contacts">Afficher les contacts récents</string>
   <string name="pref_title_sms_delete">Limite pour les SMS</string>
@@ -328,9 +327,8 @@
   <string name="received_label">"Date de réception : "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Destinataire : "</string>
- <!-- à traduire : 
-  <string name="refill_now">Refill</string>
- -->
+ <!-- refill_now à vérifier: correct ? original : Refill (miuiandroid) Refill Now (miui china) -->
+  <string name="refill_now">Recharger</string>
   <string name="refresh">Actualiser</string>
   <string name="refresh_failed">La mise à jour a échouée</string>
   <string name="refreshing">Actualisation…</string>
@@ -463,4 +461,5 @@
   <string name="sp_mark_as_read_title">Tout marquer comme lu</string>
   <string name="sp_mark_as_read">Marquer tous les messages comme lu ?</string>
   <string name="sp_mark_as_read_progress">En cours…</string>
+  
 </resources>

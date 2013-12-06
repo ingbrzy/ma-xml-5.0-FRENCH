@@ -364,7 +364,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="fail_reason_could_not_initialize_exporter">Impossible de démarrer le programme d\'exportation : \"%s\".</string>
   <string name="fail_reason_could_not_open_file" formatted="false">"Impossible d'ouvrir "%s" : %s
 (Raison : %2$s)"</string>
-  <string name="fail_reason_error_occurred_during_export">Une erreur s\'est produite lors de l\'exportation : "%s".</string>
+  <string name="fail_reason_error_occurred_during_export">Une erreur s\'est produite lors de l\'exportation : \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Impossible de collecter des métadonnées contenues dans le ou les fichiers vCard."</string>
   <string name="fail_reason_failed_to_read_files">"Impossible d'importer un ou plusieurs fichiers (%s)."</string>
   <string name="fail_reason_io_error">Erreur E/S</string>
@@ -1020,7 +1020,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="strequentList">Favoris</string>
   <string name="success_message_import_from_account">Importé avec succès</string>
   <string name="summary_kind_title">Résumé</string>
-  <string name="t9_search_guide">Entrez le numéro ou recherchez des contacts avec l\'index T9.</string>
+  <string name="t9_search_guide">Saisir un numéro ou rechercher des contacts avec le T9.</string>
   <string name="take_new_photo">Prendre une autre photo</string>
   <string name="take_photo">Prendre une photo</string>
   <string name="titleJoinContactDataWith">Joindre les contacts</string>
@@ -1101,9 +1101,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_exchange_has_used">Ce code a déjà été utilisé.</string>
   <string name="resource_exchange_hint">Saisissez votre code</string>
   <string name="resource_exchange_purchase_unkown_error">Une erreur inconnue s\'est produite. Veuillez vous connecter via http://market.xiaomi.com pour voir l\'état de votre paiement.</string>
-  <string name="resource_exchange_share_code_content">Vous avez reçu un code pour %1$s sur le magasin de thèmes MIUI. Votre code MiCredit est : %2$s. Appuyer %3$s pour l\'utiliser maintenant.</string>
- <!-- resource_exchange_share_code_dlg_content à revoir? : "pour %1$s est : %2$s" ?? -->
-  <string name="resource_exchange_share_code_dlg_content">Code acheté avec succès pour %1$s est : %2$s. Vous pouvez maintenant le partager avec des amis.</string>
+  <string name="resource_exchange_share_code_content">Vous avez reçu un code cadeau pour le thème MIUI \"%1$s\". Votre code est : %2$s. Appuyer sur %3$s pour l\'utiliser maintenant.</string>
+  <string name="resource_exchange_share_code_dlg_content">Code cadeau, pour le thème \"%1$s\", acheté avec succès. Le code est : %2$s. Vous pouvez le partager avec un ami.</string>
   <string name="resource_exchange_share_code_dlg_title">Envoyer un code</string>
   <string name="resource_exchange_success">Transaction réussie</string>
   <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème</string>

@@ -3,7 +3,7 @@
   <string name="account">Compte</string>
   <string name="account_delete_dlg_instructions_fmt">Le compte "%s" va être supprimé de votre messagerie.</string>
   <string name="account_delete_dlg_title">Supprimer le compte</string>
-  <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte "%s"."</string>
+  <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dupliquer le compte</string>
   <string name="account_error">Échec de la récupération des informations du compte.</string>
   <string name="account_folder_list_summary_drafts">Brouillons</string>
@@ -212,6 +212,7 @@
   <string name="cc">Cc :</string>
   <string name="choose_attachment_dialog_title">Choisir une pièce jointe</string>
   <string name="choosertitle_sharevia">Partager via</string>
+  <string name="cleared_trusted_senders_message">Les images intégrées ne seront pas affichés automatiquement.</string>
   <string name="close_action">Fermer</string>
   <string name="completed_no_file">Fichier introuvable.</string>
   <string name="compose_action">Composer</string>
@@ -239,10 +240,10 @@
   <string name="debug_force_one_minute_refresh_label">Forcer l\'actualisation toutes les minutes pour les comptes POP/IMAP</string>
   <string name="debug_title">Débogage</string>
   <string name="debug_version_fmt">Version : %s</string>
-  <string name="default_signature">Envoyé depuis mon Mi Phone</string>
+  <string name="default_signature">Envoyé depuis mon MiPhone</string>
   <string name="delete_action">Supprimer</string>
   <string name="delete_quick_response_action">Supprimer</string>
-  <string name="destination_format">%1$s "%2$s\</string>
+  <string name="destination_format">%1$s \"%2$s\"</string>
   <string name="device_admin_description">Active les stratégies de sécurité spécifiées par le serveur.</string>
   <string name="device_admin_label">Mail</string>
   <string name="dialog_first_wifi">Les fichiers volumineux ne seront transférés qu\'au moyen d\'une connexion Wi-Fi.</string>
@@ -394,11 +395,11 @@ Cc : %4$s
   <string name="message_view_invite_maybe">" Peut-être"</string>
   <string name="message_view_invite_text">Allez-vous participer ?</string>
   <string name="message_view_invite_title">Invitation de Google Agenda</string>
-  <string name="message_view_invite_toast_maybe">"Vous avez répondu "Peut-être" à cette invitation."</string>
+  <string name="message_view_invite_toast_maybe">"Vous avez répondu \"Peut-être\" à cette invitation."</string>
   <string name="message_view_invite_toast_no">"Vous avez refusé cette invitation."</string>
   <string name="message_view_invite_toast_yes">"Vous avez accepté cette invitation."</string>
   <string name="message_view_invite_view">Afficher dans l\'agenda</string>
-  <string name="message_view_load_attachment_failed_toast">"Impossible de charger la pièce jointe "%s"."</string>
+  <string name="message_view_load_attachment_failed_toast">"Impossible de charger la pièce jointe \"%s\"."</string>
   <string name="message_view_message_details_dialog_title">Détails du message</string>
   <string name="message_view_move_to_newer">Suivant</string>
   <string name="message_view_move_to_older">Précédents</string>
@@ -415,7 +416,7 @@ Cc : %4$s
   <string name="more_than_999">&gt; 999</string>
   <string name="move_action">Déplacer</string>
   <string name="move_to_folder_dialog_title">Déplacer vers</string>
-  <string name="multiple_new_message_notification_item">"<b>%1$s</b> %2$s"</string>
+  <string name="multiple_new_message_notification_item"><b>%1$s</b>"  %2$s"</string>
   <string name="newer_action">Plus récent</string>
   <string name="next_action">Suivant</string>
   <string name="notification_multiple_new_messages_fmt">%1$d nouveaux messages</string>

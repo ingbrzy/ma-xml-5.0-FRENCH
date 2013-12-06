@@ -102,8 +102,8 @@
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Égaliseur</string>
   <string name="equalizer_delete">Supprimer</string>
-  <string name="equalizer_delete_success">Profil égaliseur supprimé avec succès</string>
-  <string name="equalizer_save_success">Le profil de l\'égalisateur a été sauvegardé</string>
+  <string name="equalizer_delete_success">Profil d\'égalisation supprimé</string>
+  <string name="equalizer_save_success">Profil d\'égalisation sauvegardé</string>
   <string name="fade_effect_settings">Fondu entre les morceaux</string>
   <string name="fade_effect_summary">Activer le fondu entre chaque morceaux joués</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>

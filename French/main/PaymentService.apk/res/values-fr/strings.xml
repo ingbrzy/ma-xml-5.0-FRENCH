@@ -89,7 +89,7 @@ Veuillez réessayer dans cinq minutes"</string>
   <string name="fee">%1$s MiCredit</string>
   <string name="forget_password">&lt;u&gt;Réinitialiser le mot de passe&lt;/u&gt;</string>
   <string name="format_date">dd MMM yyyy</string>
-  <string name="format_time">dd MMM yyyy hh:mmaa</string>
+  <string name="format_time">dd MMM yyyy H:mm</string>
   <string name="frozen">(Gelé)</string>
   <string name="giftcard_acitivity_and_denomination">Carte-cadeau %2$s MiCredit de %1$s</string>
   <string name="giftcard_denom">MiCredit</string>

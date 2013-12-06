@@ -1252,7 +1252,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="miui_screensaver_state_on">Désactivé</string>
   <string name="miui_screensaver_title">Écran de veille</string>
   <!-- miui_screensaver_usage a vérifier : reformuler ? -->
-  <string name="miui_screensaver_usage">"Une fois activé, les photos dans l'album de l'écran de veille seront affichées répétitivement, 5secondes après que l'écran ce soit éteint.</string>
+  <string name="miui_screensaver_usage">"Une fois activé, les photos dans l'album de l'écran de veille seront affichées répétitivement, 5 secondes après que l'écran ce soit éteint.</string>
   <string name="mms_vibrate_abbreviation">Messages</string>
   <string name="model_number">Numéro du modèle</string>
   <string name="move_app">Déplacer</string>
@@ -1326,7 +1326,6 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="oldman_mode_entry_title">mode sénior</string>
   <string name="oldman_mode_entry_name">paramètres mode sénior</string>
   <string name="oldman_mode_settings_caption">paramètres mode sénior</string>
- <!-- oldman_mode_enabled_name ok ? -->
   <string name="oldman_mode_enabled_name">activer le mode sénior</string>
   <string name="oldman_mode_summary">activer ou désactiver le monde sénior, redémarrage requis !</string>
   <string name="oldman_mode_confirm_title">confirmation mode sénior</string>
@@ -1512,8 +1511,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="pico_not_installed">Non installée</string>
   <string name="pico_voice_summary_female">Femme</string>
   <string name="pico_voice_summary_male">Homme</string>
-  <!-- picture_source à vérifier/reformuler -->
-  <string name="picture_source">Photo source</string>
+  <string name="picture_source">Source photo</string>
   <string name="ping_test_label">Effectuer un test de ping</string>
   <string name="please_select_phase2">Authentification phase 2</string>
   <string name="please_type_passphrase">Entrez le mot de passe Wi-Fi</string>
@@ -3096,7 +3094,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_connect_type_title">Type auto-connexion</string>
   <string name="select_ssid_type_title">Type de connexion réseau</string>
   <string name="data_connection_dialog_title">Modifier la connexion de donnée</string>
-  <string name="wifi_failover_gprs_content">"Le Wi-Fi n'est pas disponible, essayer de ce connecter au réseau mobile ?"</string>  
+  <string name="wifi_failover_gprs_content">"Le Wi-Fi n'est pas disponible, essayer de ce connecter au réseau mobile ?"</string>
   <string name="change_data_conn_title">Modifier la connexion de données</string>
   <string name="change_data_conn_message">"%1$s n'est pas disponible, modifier la connexion de données par défaut pour %2$s ?"</string>
  
@@ -3718,7 +3716,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_virus_list_empty">Aucun virus détecté.</string>
   <string name="virus_scan_virus_title">%d virus détecté(s) !</string>
   <string name="virus_scan_viruslib_version">Définitions de virus version : %s</string>
-  <string name="virus_scanner_lib_update_success">Les définitions de virus ont été mis à jour automatiquement. ^_^</string>
+  <string name="virus_scanner_lib_update_success">Les définitions de virus ont été mis à jour automatiquement.</string>
   <string name="virus_scanner_module">Tencent</string>
   <string name="virus_scanner_stop_title">Arrêter l\'analyse</string>
   <string name="virus_single_app_file_date">Date de création :</string>
@@ -3734,5 +3732,11 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_unknown_virus_name">Inconnu</string>
  <!-- à traduire
   <string name="virus_scan_is_cloud_scanning">Kontrola Cloudu...</string>
+ -->
+  <string name="bt_hci_snoop_log">Activer l\'observation HCI Bluetooth</string>
+  <string name="bt_hci_snoop_log_summary">Enregistrer tous les paquets HCI Bluetooth dans un fichier</string>
+ <!-- à traduire :
+  <string name="bt_trace_log">Enable Bluetooth Trace log</string>
+  <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
  -->
 </resources>

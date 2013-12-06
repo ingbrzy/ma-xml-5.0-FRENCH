@@ -83,7 +83,7 @@
   <string name="msg_callactive">Tx FM n\'est pas supportée lors d\'un appel voix</string>
   <string name="msg_do_not_support_fm">La FM n\'est pas pris en charge sur cet appareil.</string>
   <string name="msg_headsetpluggedin">Déconnecter les écouteurs avant d\'utiliser Tx FM</string>
-  <string name="msg_noantenna_message">Connecter les écouteurs avant usage</string>
+  <string name="msg_noantenna_message">Pour améliorer la qualité de réception, connecter les écouteurs</string>
   <string name="msg_scanning">Recherche de toutes les stations FM</string>
   <string name="msg_scanning_pty">Recherche de %s</string>
   <string name="msg_search_title">FM - %1$s</string>

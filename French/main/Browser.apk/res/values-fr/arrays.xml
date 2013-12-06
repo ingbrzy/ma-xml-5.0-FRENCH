@@ -14,8 +14,7 @@
         <item>Désactivés</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Page d\'accueil</item>
-        <item>Sites les plus visités</item>
+        <item>Le navigateur ouvrira cette page</item>
         <item>Personnalisée</item>
     </string-array>
     <string-array name="pref_text_size_choices">

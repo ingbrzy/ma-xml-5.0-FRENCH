@@ -283,5 +283,7 @@
   <string name="resource_unable_to_access">"Nous sommes désolés
 le contenu que vous recherchez n\'est actuellement pas disponible dans votre région."</string>
   <string name="resource_unknow_error">Une erreur inconnue s\'est produite.</string>
+  <string name="resource_user_know">OK</string>
   <string name="to_activate_the_account">Veuillez activer votre compte Xiaomi</string>
+  <string name="settings">Paramètres</string>
 </resources>

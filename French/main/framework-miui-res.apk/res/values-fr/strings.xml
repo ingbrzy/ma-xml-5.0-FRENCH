@@ -5,13 +5,9 @@
   <string name="activating">Activation…</string>
   <string name="alwaysUsePrompt">Définir par défaut (ne plus demander)</string>
   <string name="android_lockscreen_glogin_instructions">Pour déverrouiller, connectez-vous avec votre compte</string>
-  <string name="anniversary_of_lifting_martial_law"/>
-  <string name="anti_aggression_day"/>
   <string name="app_no_notification">aucune notification</string>
   <string name="app_notificaiton_on_notificationBar">Barre de notifications</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Barre d\'état et de notification</string>
-  <string name="arbor_day">Journée de l\'arbre</string>
-  <string name="armed_forces_day"/>
   <string name="autumn_begins">Début de l\'Automne</string>
   <string name="autumn_equinox">Équinoxe d\'Automne</string>
   <string name="callNoAnswerTimeFormat">A sonné %s fois</string>
@@ -20,16 +16,12 @@
   <string name="caller_info_name_delimiter">Ou</string>
   <string name="check_phone_error_title">Impossible d\'ouvrir la Synchronisation</string>
   <string name="check_phone_io_error">Erreur réseau</string>
-  <string name="childrens_day">Journée de l\'enfant</string>
-  <string name="chinese_youth_day">Journée de la jeunesse</string>
-  <string name="christmas_day">Jour de Noël</string>
   <string name="clear_and_bright">Clair et lumineux</string>
   <string name="cold_dews">Rosée froide</string>
   <string name="contact_carrier_message">Veuillez contacter votre opérateur pour toute question</string>
   <string name="day_of_month">" %d"</string>
   <string name="days">jours</string>
   <string name="delete">Supprimer</string>
-  <string name="double_seventh_day">Tanabata</string>
   <string name="device_hongmi">Téléphone Hongmi</string>
   <string name="device_xiaomi">Téléphone Xiaomi</string>
   <string name="emergency_call_string">Appel d\'urgence</string>
@@ -54,7 +46,6 @@
   <string name="firewall_setting">Pare-feu</string>
   <string name="first_back_long_press_message">"Souhaitez-vous activer la fonction d'appui-long sur la touche retour pour tuer le processus en cours et ses services de base ? Activer via Paramètres &gt; Système &gt; Touches"</string>
   <string name="fm_record_smaple_prefix_miui">Enregistrement FM</string>
-  <string name="fools_day">Poisson d\'avril</string>
   <string name="force_exit_message">L\'application "%1$s" a été fermée</string>
   <string name="forget_password_string">MDP oublié ?</string>
   <string name="global_action_privacy_mode_dialog_message">En mode privé les appels, notes, photos et SMS sont cachés et le lanceur ne pourra pas passer en mode édition. Vous pouvez définir le mot de passe pour protéger le mode privé dans les paramètres de contrôle d’accès</string>
@@ -80,9 +71,6 @@
   <string name="input_puk_code">Code PUK</string>
   <string name="input_puk_code_to_unlock">Déverrouiller le périphérique</string>
   <string name="insects_awaken">Réveil des insectes</string>
-  <string name="international_womens_day">Journée de la femme</string>
-  <string name="labour_day">Fête du travail</string>
-  <string name="lantern_festival">Fête des Lanternes</string>
   <string name="light_snow">Légère neige</string>
   <string name="lock_screen_date">EEEE d MMMM</string>
   <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée.</string>
@@ -102,8 +90,9 @@ Réessayer dans %d secondes."</string>
   <string name="lockscreen_transport_prev_description">Titre précédent</string>
   <string name="lockscreen_unlock_sim_via_puk">Entrez le code PUK pour déverrouiller la carte SIM</string>
   <string name="login_website_in_case_forget_password">Veuillez aller sur http://i.xiaomi.com afin de réinitialiser votre mot de passe</string>
-  <string name="lunar_ba"/>
   <string name="lunar_calendar">Calendrier lunaire</string>
+  <!-- lunar_ à traduire éventuellement.. -->
+  <string name="lunar_ba"/>
   <string name="lunar_chu"/>
   <string name="lunar_chu_shi"/>
   <string name="lunar_er"/>
@@ -148,15 +137,10 @@ Réessayer dans %d secondes."</string>
   <string name="month_of_october">oct.</string>
   <string name="month_of_september">sept.</string>
   <string name="multi_select_title">%1$s élément(s) sélectionné(s)</string>
-  <string name="national_day">Journée nationale</string>
-  <string name="national_father_day">Fête des Pères</string>
   <string name="never">Jamais</string>
-  <string name="new_years_day">Jour de l\'An</string>
   <string name="no_sim">Aucune SIM</string>
   <string name="open_wifi_settings">Ouvrir les paramètres Wi-Fi</string>
-  <string name="partys_day">Festival</string>
   <string name="payphone">Téléphone public</string>
-  <string name="peace_day">Journée de la paix</string>
   <string name="perm_auto_backup">Sauvegarde automatique</string>
   <string name="perm_data_update_dspt">Mise à jour des watermark autorisée</string>
   <string name="perm_data_update_lab">Mise à jour des données</string>
@@ -178,7 +162,6 @@ Réessayer dans %d secondes."</string>
   <string name="reboot_confirm">Le téléphone va redémarrer</string>
   <string name="reboot_confirm_title">Êtes-vous sûr de vouloir redémarrer votre téléphone ?</string>
   <string name="reboot_progress">Redémarrage…</string>
-  <string name="retrocession_day"/>
   <string name="return_to_me_message">Veuillez le remettre au propriétaire.</string>
   <string name="reverse_all">Effacer tout</string>
   <string name="safetylegal_activity_unreachable">Votre téléphone n\'est pas connecté à un service de données. Pour afficher ces informations maintenant, allez à %s de n\'importe quel ordinateur connecté à Internet.</string>
@@ -216,21 +199,11 @@ Réessayer dans %d secondes."</string>
   <string name="summer_begins">Début de l\'été</string>
   <string name="summer_solstice">Solstice d\'été</string>
   <string name="sync_one_time_sync">Toucher pour synchroniser (%1$s)</string>
-  <string name="teachers_day">Journée des enseignants</string>
   <string name="text_pastelist">Presse-papier</string>
-  <string name="the_armys_day">Jour de l\'Armée</string>
-  <string name="the_double_ninth_festival">Fête de Chung Yeung</string>
-  <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
-  <string name="the_laba_rice_porridge_festival">Festival de la bouillie de riz</string>
-  <string name="the_mid_autumn_festival">Festival de mi-automne</string>
   <string name="the_rains">Eaux de pluie</string>
-  <string name="the_spring_festival">Nouvel an chinois</string>
   <string name="toast_lockscreen_glogin_empty_password">Mot de passe requis.</string>
   <string name="today">Aujourd\'hui</string>
   <string name="tomorrow">Demain</string>
-  <string name="tw_childrens_day"/>
-  <string name="tw_youth_day"/>
-  <string name="united_nations_day"/>
   <string name="unknown">Numéro inconnu</string>
   <string name="unknown_caller">Appelant inconnu</string>
   <string name="unlock_string">OK</string>
@@ -249,7 +222,6 @@ Réessayer dans %d secondes."</string>
   <string name="v5_select_all">Tout sélectionner</string>
   <string name="v5_time_picker_label_hour">H</string>
   <string name="v5_time_picker_label_minute">Min</string>
-  <string name="valentines_day">Saint Valentin</string>
   <string name="vernal_equinox">Équinoxe de printemps</string>
   <string name="volume_alarm">Alarme</string>
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
@@ -270,4 +242,42 @@ Réessayer dans %d secondes."</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Impossible d\'envoyer un message en mode privé.</string>
   <string name="grant_permissions_account">Autoriser l\'accès au compte</string>
   <string name="grant_permissions_apps">Autoriser l\'accès aux applis</string>
+  <string name="easter">Pâques</string>
+  
+  <string name="the_double_ninth_festival">Fête de Chung Yeung</string>
+  <string name="the_dragon_boat_festival">Fête du Dragon Boat</string>
+  <string name="the_laba_rice_porridge_festival">Fête de la bouillie de riz</string>
+  <string name="the_mid_autumn_festival">Fête de mi-automne</string>
+  <string name="lantern_festival">Fête des Lanternes</string>
+  <string name="the_spring_festival">Nouvel an chinois</string>
+  
+  <!-- _day's à vérifier : pourquoi certains traduits et d'autres non : "/> ? -->
+  <string name="arbor_day">Journée de l\'arbre</string>
+  <string name="childrens_day">Journée de l\'enfant</string>
+  <string name="chinese_youth_day">Journée de la jeunesse</string>
+  <string name="christmas_day">Jour de Noël</string>
+  <string name="double_seventh_day">Tanabata</string>
+  <string name="fools_day">Poisson d\'avril</string>
+  <string name="international_womens_day">Journée de la femme</string>
+  <string name="labour_day">Fête du travail</string>
+  <string name="national_day">Journée nationale</string>
+  <string name="national_father_day">Fête des Pères</string>
+  <string name="new_years_day">Jour de l\'An</string>
+  <string name="partys_day">Festival</string>
+  <string name="peace_day">Journée de la paix</string>
+  <string name="teachers_day">Journée des enseignants</string>
+  <string name="the_armys_day">Jour de l\'Armée</string>
+  <string name="valentines_day">Saint Valentin</string>
+  
+  <string name="good_friday"/>
+  <string name="anniversary_of_lifting_martial_law"/>
+  <string name="anti_aggression_day"/>
+  <string name="day_following_good_friday"/>
+  <string name="the_first_weekday_after_christmas"/>
+  <string name="hksar_establishment_day"/>
+  <string name="armed_forces_day"/>
+  <string name="retrocession_day"/>
+  <string name="tw_childrens_day"/>
+  <string name="tw_youth_day"/>
+  <string name="united_nations_day"/>
 </resources>

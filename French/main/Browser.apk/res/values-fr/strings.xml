@@ -498,7 +498,9 @@
   <string name="quicklink_user_define_webpage_url">Lien</string>
   <string name="quicklinks_group_default_subtitle">Vide</string>
   <string name="quicklinks_management">Liens rapides</string>
+ <!-- quicklinks_most_visited et quicklinks_most_visited_title à vérifier contexte -->
   <string name="quicklinks_most_visited">Ajouter les sites les plus visités sur la page d\'accueil</string>
+  <string name="quicklinks_most_visited_title">Ajouter un lien sur page d\'accueil</string>
   <string name="quicklinks_most_visited_subtitle">Afficher les sites récemment visités dans \"Nouvel onglet\"</string>
   <string name="readmode_already_add_to_bookshelf">Ajouté à l\'étagère</string>
   <string name="readmode_battery">Batterie</string>
@@ -559,11 +561,9 @@
   <string name="security_warning">Avertissement de sécurité</string>
   <string name="select_dot">Sélectionner le texte</string>
   <string name="selection_all">Tout sélectionner</string>
-  <string name="send_bookmark_to_home_screen">Envoyer à l\'écran d\'accueil</string>
-  <string name="send_to_desktop">Envoyer au bureau</string>
- <!-- à traduire...
-  <string name="send_to_popular">popular</string>
- -->
+  <string name="send_bookmark_to_home_screen">Ajouter à l\'écran d\'accueil</string>
+  <string name="send_to_desktop">Ajouter au bureau</string>
+  <string name="send_to_popular">Ajouter aux liens rapides</string>
   <string name="set_as_homepage">Définir comme page d\'accueil</string>
   <string name="share_link">Partager le lien</string>
   <string name="share_page">Partager la page</string>

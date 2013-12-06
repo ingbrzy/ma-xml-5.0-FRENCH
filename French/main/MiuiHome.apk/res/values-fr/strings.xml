@@ -17,7 +17,7 @@
   <string name="chooser_wallpaper">Sélectionner à partir de…</string>
   <string name="confirm_btn_label">OK</string>
   <string name="default_folder_title_game">Jeux</string>
-  <string name="default_folder_title_recommend">Recommandés</string>
+  <string name="default_folder_title_recommend">Autres applis</string>
   <string name="default_folder_title_security">Système et Sécurité</string>
   <string name="default_folder_title_tools">Outils</string>
   <string name="default_name">Par défaut</string>
@@ -50,14 +50,14 @@
   <string name="free_style_exit_tip">Glissez vers le haut avec deux doigts pour quitter MiSpace</string>
   <string name="free_style_londing_text">Préparation de MiSpace…</string>
   <string name="gadget_clear_button_label">Nettoyeur</string>
-  <string name="gadget_clock_12_label">Horloge 1x2</string>
+  <string name="gadget_clock_12_label">Horloge 2x1</string>
   <string name="gadget_clock_22_label">Horloge 2x2</string>
-  <string name="gadget_clock_24_label">Horloge 2x4</string>
+  <string name="gadget_clock_24_label">Horloge 4x2</string>
   <string name="gadget_error_text">Problème de chargement du widget</string>
   <string name="gadget_google_search_label">Recherche Google</string>
   <string name="gadget_load_error">Erreur de chargement du widget…</string>
   <string name="gadget_photo_22_label">Photo 2x2</string>
-  <string name="gadget_photo_24_label">Cadre photo 2x4</string>
+  <string name="gadget_photo_24_label">Cadre photo 4x2</string>
   <string name="gadget_photo_44_label">Cadre photo 4x4</string>
   <string name="gadget_weather_app_not_installed">MIUI Météo n\'est pas installé</string>
   <string name="gadget_weather_aqi_title">Qualité de l\'air</string>
@@ -69,8 +69,8 @@
   <string name="gadget_weather_low_temp">Basse température</string>
   <string name="gadget_weather_theme_type">Type de widget</string>
   <string name="gadget_weather_time_format">EEE d MMM</string>
-  <string name="gadget_weather_title_14">Météo 1x4</string>
-  <string name="gadget_weather_title_24">Météo 2x4</string>
+  <string name="gadget_weather_title_14">Météo 4x1</string>
+  <string name="gadget_weather_title_24">Météo 4x2</string>
   <string name="global_search_hint">Rechercher</string>
   <string name="group_folder">Nouveau dossier</string>
   <string name="group_live_folders">Dossiers</string>
@@ -175,7 +175,7 @@
   <string name="title_select_shortcut">Sélectionner un raccourci</string>
   <string name="toggle_select_title">Choix de l\'interrupteur</string>
   <string name="toggle_title">Interrupteur</string>
-  <string name="transformation_type_classic">Ancien</string>
+  <string name="transformation_type_classic">Classique</string>
   <string name="transformation_type_classic_no_overshoot">Classique (sans rebond)</string>
   <string name="transformation_type_crossfade">Fondu enchaîné</string>
   <string name="transformation_type_cube">Cube 3D</string>

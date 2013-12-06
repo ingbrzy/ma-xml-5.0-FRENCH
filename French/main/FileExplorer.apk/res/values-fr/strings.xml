@@ -108,7 +108,7 @@
   <string name="file_too_large">"Le fichier est trop volumineux et ne peut être envoyé"</string>
   <string name="finished">Terminé</string>
   <string name="folder_exist">Le fichier existe déjà</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href="%1$s"&gt;Appuyez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Appuyez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
   <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres, des lettres de l\'alphabet. Les majuscules et les minuscules sont différenciées.</string>
   <string name="ftp_anonymous_login">FTP anonyme</string>
   <string name="ftp_invalid_username_or_password">Erreur d\'authentification</string>

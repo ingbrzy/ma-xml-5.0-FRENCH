@@ -124,7 +124,6 @@
   <string name="preferences_category_general_title">Général</string>
   <string name="preferences_clear_search_history_summary">Supprimer toutes les recherches effectuées</string>
   <string name="preferences_clear_search_history_title">Effacer l\'historique de recherche</string>
-  <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">Rappel par défaut</string>
   <string name="preferences_default_reminder_title">Rappel par défaut</string>
   <string name="preferences_general_title">"Paramètres d\'affichage de l\'agenda"</string>
@@ -136,7 +135,6 @@
   <string name="preferences_title">Paramètres</string>
   <string name="preferences_use_home_tz_descrip">"Afficher les agendas et les événements dans votre fuseau horaire habituel, même en  déplacement"</string>
   <string name="preferences_use_home_tz_title">Mon fuseau horaire</string>
-  <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">1er jour de la semaine :</string>
   <string name="preferences_week_start_day_title">1er jour de la semaine :</string>
   <string name="presence_label">Ma disponibilité</string>
