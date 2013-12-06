@@ -212,7 +212,7 @@
   <string name="cc">Cc :</string>
   <string name="choose_attachment_dialog_title">Choisir une pièce jointe</string>
   <string name="choosertitle_sharevia">Partager via</string>
-  <string name="cleared_trusted_senders_message">Les images intégrées ne seront pas affichés automatiquement.</string>
+  <string name="cleared_trusted_senders_message">Les images intégrées ne seront pas affichées automatiquement.</string>
   <string name="close_action">Fermer</string>
   <string name="completed_no_file">Fichier introuvable.</string>
   <string name="compose_action">Composer</string>

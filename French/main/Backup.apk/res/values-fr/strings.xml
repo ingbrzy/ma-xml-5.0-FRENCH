@@ -110,7 +110,6 @@
   <string name="data_no_enough_space_message">La restauration a peut-être échoué, veuillez libérer un peu d\'espace de stockage interne et essayer à nouveau</string>
   <string name="date_format">dd/MM/yyyy H:mm:ss</string>
   <string name="delete">Supprimer</string>
-  <string name="delete">Supprimer</string>
   <string name="delete_backup_process">Suppression de sauvegarde(s)…</string>
   <string name="delete_failed_backup_confirm">La sauvegarde est corrompue, impossible de la restaurée</string>
   <string name="dir_date_format">dd-MM-yyyy_H-mm-ss</string>
