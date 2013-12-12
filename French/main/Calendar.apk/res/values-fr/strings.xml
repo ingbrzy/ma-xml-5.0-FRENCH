@@ -52,7 +52,7 @@
   <string name="day_view">Jour</string>
   <string name="day_view_new_event_hint">+ Nouvel événement</string>
   <string name="delete_label">Supprimer</string>
-  <string name="delete_recurring_event_title">"Supprimer l\'événement "%s" ?"</string>
+  <string name="delete_recurring_event_title">"Supprimer l\'événement \"%s\" ?"</string>
   <string name="delete_this_event_title">Supprimer cet événement ?</string>
   <string name="description_label">Description</string>
   <string name="directory_searching_fmt">Recherche en cours dans %s…</string>
@@ -112,7 +112,7 @@
   <string name="no_calendars_found">"Avant d\'ajouter un événement, vous devez ajouter au moins un compte Google Agenda à votre appareil et activer la visibilité de cet agenda. Pour cela, appuyez sur "Ajouter un compte", ou sur "Annuler" si vous pensez qu\'au moins un agenda est activé (vérifiez que c\'est bien le cas). Si vous venez d\'ajouter un compte, patientez jusqu\'à la fin de la synchronisation, puis réessayez."</string>
   <string name="no_syncable_calendars">"Pas d\'agenda"</string>
   <string name="no_title_label">(Sans titre)</string>
-  <string name="not_synced">Non synchronisé</string>
+  <string name="not_synced">non synchronisé</string>
   <string name="prefDialogTitle_vibrateWhen">Vibreur</string>
   <string name="preferences_about_title">À propos</string>
   <string name="preferences_alerts_popup_title">Notification par pop-up</string>

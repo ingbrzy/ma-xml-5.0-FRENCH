@@ -503,4 +503,12 @@
   <string name="video_download_start">Démarrer le téléchargement de la vidéo</string>
   <string name="video_download_in_process">La vidéo est en cours de téléchargement</string>
   <string name="video_not_exist">La vidéo n\'existe pas</string>
+  <string name="confirm_download">"Veuillez télécharger %s. Ce message ne sera pas affiché de nouveau."</string>
+  <string name="delete_smb_file_fail">Impossible de supprimer le ficher smb</string>
+  <string name="download">Télécharger</string>
+  <string name="download_fail">Échec du téléchargement !</string>
+  <string name="download_fail_confirm_continue">Téléchargement de %s échoué. Continuer ?</string>
+  <string name="file_not_exist_message">Fichier inexistant.</string>
+  <string name="make_download_dir_fail">Impossible de créer un dossier !</string>
+  <string name="new_device_tips">Nouveau périph. trouvé. Appuyer pour afficher</string>
 </resources>

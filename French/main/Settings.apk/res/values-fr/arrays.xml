@@ -562,4 +562,15 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>7 utilisateurs</item>
         <item>8 utilisateurs</item>
     </string-array>
+    <string-array name="preferred_app_entries">
+       <item>Lanceur</item>
+       <item>Numéroteur</item>
+       <item>SMS</item>
+       <item>Navigateur</item>
+       <item>Appareil photo</item>
+       <item>Albums</item>
+       <item>Musique</item>
+       <item>Vidéo</item>
+       <item>E-mail</item>
+   </string-array>
 </resources>

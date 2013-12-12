@@ -8,7 +8,7 @@
   <string name="ac_set_apps_title">Protéger les applications</string>
   <string name="accelerometer_summary_off">Changer automatiquement d\'orientation lors de la rotation du téléphone</string>
   <string name="accelerometer_summary_on">Changer automatiquement d\'orientation lors de la rotation du téléphone</string>
-  <string name="accelerometer_title">Rotation automatique de l\'écran</string>
+  <string name="accelerometer_title">Rotation auto de l\'écran</string>
   <string name="access_control_app_entry_multiple">Ouvrir %s</string>
   <string name="access_control_app_entry_single">Ouvrir l\'application sélectionnée</string>
   <string name="access_control_need_password">%s a été protégé</string>
@@ -382,8 +382,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_hid_profile_summary_connected">Connecté au périphérique d\'entrée</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utiliser comme entrée</string>
   <string name="bluetooth_incoming_pairing_msg">De :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Associer à cet appareil ?</string>
-  <string name="bluetooth_is_discoverable">Identifiable par tous appareils Bluetooth à proximité (%1$s)</string>
-  <string name="bluetooth_is_discoverable_always">Identifiable par appareils Bluetooth à proximité</string>
+  <string name="bluetooth_is_discoverable">Visible par tous appareils Bluetooth à proximité (%1$s)</string>
+  <string name="bluetooth_is_discoverable_always">Visible par appareils Bluetooth à proximité</string>
   <string name="bluetooth_lock_voice_dialing">Bloquer les appels par reconnaissance vocale</string>
   <string name="bluetooth_lock_voice_dialing_summary">Désactiver les appels via le Bluetooth lorsque l\'écran est verrouillé</string>
   <string name="bluetooth_map_connection_permission_request">Requête de connexion de carte</string>
@@ -393,13 +393,13 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_menu_advanced">Paramètres avancés</string>
   <string name="bluetooth_name_not_set">Aucun nom n\'a été défini. Utilisation du nom du compte…</string>
   <string name="bluetooth_no_devices_found">Aucun appareil Bluetooth détecté.</string>
-  <string name="bluetooth_not_discoverable">Rendre le périphérique identifiable</string>
-  <string name="bluetooth_not_visible_to_other_devices">Non identifiable par d\'autres appareils Bluetooth</string>
+  <string name="bluetooth_not_discoverable">Rendre le périphérique visible</string>
+  <string name="bluetooth_not_visible_to_other_devices">Non visible par d\'autres appareils Bluetooth</string>
   <string name="bluetooth_notif_message">Appuyez pour associer l\'appareil à %1$s.</string>
   <string name="bluetooth_notif_ticker">Demande d\'association Bluetooth</string>
   <string name="bluetooth_notif_title">Demande d\'association</string>
   <string name="bluetooth_on_time">Wi-Fi/temps</string>
-  <string name="bluetooth_only_visible_to_paired_devices">Identifiable uniquement par les appareils associés</string>
+  <string name="bluetooth_only_visible_to_paired_devices">Visible uniquement par les appareils associés</string>
   <string name="bluetooth_opp_profile_summary_connected">Connexion au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Connexion au serveur de transfert de fichiers non établie</string>
   <string name="bluetooth_opp_profile_summary_use_for">Utiliser pour le transfert de fichiers</string>
@@ -462,7 +462,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_turning_on">Activation du Bluetooth…</string>
   <string name="bluetooth_unknown"></string>
   <string name="bluetooth_untether_blank">Le partage connexion avec %1$s va être annulé.</string>
-  <string name="bluetooth_visibility">Identifiable</string>
+  <string name="bluetooth_visibility">Visible</string>
   <string name="bluetooth_visibility_timeout">Durée de visibilité</string>
   <string name="bluetooth_visibility_timeout_summary">Définir la durée de visibilité du périphérique</string>
   <string name="breathing_light_color_menu_title">Couleur de la LED</string>
@@ -1044,7 +1044,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="internal_media_format_desc">Effacer toute la mémoire interne ? Vous perdrez toutes les données telles que la musique et les photos</string>
   <string name="internal_media_format_final_desc">"Effacer le stockage interne supprimera tous les fichiers stockés, vous ne pouvez pas inverser cette action ! Le téléphone redémarrera après effacement du stockage interne."</string>
   <string name="internal_media_format_title">Effacer la mémoire interne</string>
-  <string name="internal_memory">Stockage interne</string>
+  <string name="internal_memory">Mémoire de stockage interne</string>
   <string name="internal_storage">Stockage interne</string>
   <string name="invalid_location">"L'emplacement d'installation n'est pas valide."</string>
   <string name="invalid_size_value">"Impossible de calculer la taille du package."</string>
@@ -1151,7 +1151,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points. Veuillez réessayer :</string>
   <string name="lockpattern_recording_inprogress">Ôtez le doigt lorsque vous avez terminé.</string>
   <string name="lockpattern_recording_intro_footer">Appuyez sur Menu pour obtenir de l\'aide.</string>
-  <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage :</string>
+  <string name="lockpattern_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
   <string name="lockpattern_restart_button_text">Redessiner</string>
   <string name="lockpattern_retry_button_text">Réessayer</string>
   <string name="lockpattern_settings_change_lock_pattern">Modifier le schéma de déverrouillage</string>
@@ -1160,7 +1160,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lockpattern_settings_enable_summary">Dessiner un schéma pour déverrouiller l\'écran</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrer au toucher</string>
   <string name="lockpattern_settings_enable_title">Schéma obligatoire</string>
-  <string name="lockpattern_settings_enable_visible_pattern_title">Rendre visible le schéma</string>
+  <string name="lockpattern_settings_enable_visible_pattern_title">Faire apparaître le schéma</string>
   <string name="lockpattern_settings_help_how_to_record">Comment dessiner un schéma de déverrouillage :</string>
   <string name="lockpattern_settings_title">Schéma de déverrouillage</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Réessayer dans %d secondes.</string>
@@ -1310,7 +1310,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="no_media_button_receiver">Non</string>
   <string name="no_nearby_wifi">Aucun réseau Wi-Fi proche détecté</string>
   <string name="no_running_services">Aucun service en cours</string>
-  <string name="no_services">Inactif</string>
+  <string name="no_services">Inactifs</string>
   <string name="noise_suppression">Suppression du bruit</string>
   <string name="normal_date_format">Format régional (%s)</string>
   <string name="not_installed">Non installée</string>
@@ -1612,7 +1612,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="radioInfo_service_off">Signal radio désactivé</string>
   <string name="radioInfo_service_out">Hors-service</string>
   <string name="radioInfo_unknown">inconnu</string>
-  <string name="radio_controls_summary">Configurer le Wi-Fi, le mode Bluetooth, le mode Avion, les réseaux mobiles et le VPN</string>
+  <string name="radio_controls_summary">Gérer le Wi-Fi, le Bluetooth, le mode Avion, les réseaux mobiles et les VPN</string>
   <string name="radio_controls_title">Plus…</string>
   <string name="radio_info_band_mode_label">Choisir une bande radio</string>
   <string name="radio_info_call_redirect_label">Redirection des appels :</string>
@@ -1912,7 +1912,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sms_title">SMS</string>
   <string name="sort_order_alpha">Trier par nom</string>
   <string name="sort_order_size">Trier par taille</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Sonnerie d\'appel et vibration</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Sonnerie et vibreur pour les appels</string>
   <string name="sound_category_calls_and_notification_title">Sonnerie et notifications</string>
   <string name="sound_category_notification_title">Notifications</string>
   <string name="sound_category_sound_title">Paramètres généraux</string>
@@ -2121,7 +2121,7 @@ Faire confiance à cette application ?"</string>
   <string name="upload_debug_log_summary">Envoyer le journal de débogage lorsqu\'une connexion Wi-Fi est disponible afin de permettre à l\'équipe de développer une ROM plus stable</string>
   <string name="upload_debug_log_title">Envoyer journal de débogage</string>
   <string name="usage_log">Statistiques d\'utilisation de l\'application</string>
-  <string name="usage_name_percent">"%1$s - %2$s%%"</string>
+  <string name="usage_name_percent">%1$s - %2$s%%</string>
   <string name="usage_stats_label">Données statistiques</string>
   <string name="usage_time_label">Temps d\'utilisation</string>
   <string name="usage_type_audio">Audio</string>
@@ -2155,16 +2155,16 @@ Faire confiance à cette application ?"</string>
   <string name="usb_title">USB</string>
   <string name="use_default_tts_settings_summary">Remplacer les paramètres de l\'application par les paramètres ci-dessous</string>
   <string name="use_default_tts_settings_title">Utiliser mes paramètres</string>
-  <string name="use_location_summary">Autoriser Google à utiliser votre position pour améliorer vos résultats de recherche ainsi que d\'autres services</string>
+  <string name="use_location_summary">Autoriser Google à utiliser votre position pour améliorer vos résultats de recherche et autres services Google</string>
   <string name="use_location_title">Localisation et recherche</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utiliser la langue du système</string>
   <string name="user_account_title">Compte pour contenu</string>
   <string name="user_add_user_menu">Ajouter utilisateur</string>
-  <string name="user_add_user_message_long">"Vous pouvez partager cet appareil avec d\'autres personnes en créant des utilisateurs supplémentaires. Chaque utilisateur dispose de son propre espace, où il peut personnaliser ses propres applications, ses fonds d\'écran, et autres. Chacun peut également modifier les paramètres d\'une tablette, tels que le Wi-Fi, qui affectent tous les utilisateurs.
+  <string name="user_add_user_message_long">"Vous pouvez partager cet appareil avec d'autres personnes en créant des utilisateurs. Chaque utilisateur dispose de son propre espace, où il peut personnaliser, entre autres, ses applications et son fond d'écran. Chacun peut également modifier les paramètres de la tablette, tels que le Wi-Fi, qui affectent tous les utilisateurs.
 
-Lorsque vous créez un nouvel utilisateur, celui-ci doit suivre une procédure d\'installation.
+Lorsque vous créez un utilisateur, celui-ci doit suivre une procédure de configuration.
 
-N\'importe quel utilisateur peut accepter des autorisations mises à jour pour les applications au nom de tous les autres."</string>
+N'importe quel utilisateur peut accepter, au nom de tous les autres, des autorisations mises à jour relatives aux applications."</string>
   <string name="user_add_user_message_short">"Lorsque vous créez un nouvel utilisateur, celui-ci doit suivre une procédure d\'installation.
 
 N\'importe quel utilisateur peut accepter des autorisations mises à jour pour les applications au nom de tous les autres."</string>
@@ -2192,7 +2192,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="user_dict_settings_context_menu_delete_title">Supprimer</string>
   <string name="user_dict_settings_context_menu_edit_title">Modifier</string>
   <string name="user_dict_settings_edit_dialog_title">Modifier le mot</string>
-  <string name="user_dict_settings_empty_text">"Votre dictionnaire personnel ne contient aucun mot. Ajoutez un mot en appuyant sur le bouton "+"."</string>
+  <string name="user_dict_settings_empty_text">"Votre dictionnaire personnel ne contient aucun mot. Ajoutez un mot en appuyant sur le bouton d'ajout (\"+\")."</string>
   <string name="user_dict_settings_more_languages">Plus de langues…</string>
   <string name="user_dict_settings_summary"></string>
   <string name="user_dict_settings_titlebar">Dictionnaire personnel</string>
@@ -2307,7 +2307,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="vpn_missing_cert">Certificat manquant. Veuillez modifier le profil.</string>
   <string name="vpn_mppe">Chiffrement PPP (MPPE)</string>
   <string name="vpn_name">Nom</string>
-  <string name="vpn_no_ca_cert">"(ne pas valider le serveur)"</string>
+  <string name="vpn_no_ca_cert">(ne pas valider le serveur)</string>
   <string name="vpn_no_network">Aucune connexion réseau. Veuillez réessayer ultérieurement.</string>
   <string name="vpn_no_server_cert">(certificat reçu du serveur)</string>
   <string name="vpn_not_used">(non utilisé)</string>
@@ -2349,14 +2349,14 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_advanced_mac_address_title">Adresse MAC</string>
   <string name="wifi_advanced_settings_label">Paramètres IP</string>
   <string name="wifi_advanced_titlebar">Paramètres Wi-Fi avancés</string>
-  <string name="wifi_and_mobile_skipped_message">"AVERTISSEMENT : Le téléphone ne sera pas en mesure de vérifier que votre logiciel est à jour."</string>
+  <string name="wifi_and_mobile_skipped_message">"AVERTISSEMENT : Vous ne pourrez vérifier que vos logiciels sont à jour sur votre téléphone que lorsque vous disposerez d'une connexion à Internet."</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Connexion automatique</string>
   <string name="wifi_cancel">Annuler</string>
   <string name="wifi_certificate">Certificat Wi-Fi</string>
   <string name="wifi_config_info">Configuration du Wi-Fi</string>
   <string name="wifi_connect">Se connecter</string>
-  <string name="wifi_connect_failed_message">Connexion impossible du téléphone à ce réseau Wi-Fi gratuit.</string>
+  <string name="wifi_connect_failed_message">Connexion impossible du téléphone à ce réseau Wi-Fi.</string>
   <string name="wifi_context_menu_change_password">Modifier mot de passe</string>
   <string name="wifi_context_menu_change_wapi_certificate">Changer le certificat WAPI</string>
   <string name="wifi_context_menu_connect">Se connecter au réseau Wi-Fi</string>
@@ -2369,7 +2369,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_display_details">Paramètres d\'affichage</string>
   <string name="wifi_display_disconnect_text">Cette opération va mettre fin à votre connexion avec :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="wifi_display_disconnect_title">Voulez-vous vraiment vous déconnecter ?</string>
-  <string name="wifi_display_no_devices_found">Aucun affichage sans fil détecté à proximité.</string>
+  <string name="wifi_display_no_devices_found">Aucun appareil détecté à proximité.</string>
   <string name="wifi_display_options_done">OK</string>
   <string name="wifi_display_options_forget">Supprimer</string>
   <string name="wifi_display_options_name">Nom</string>
@@ -3730,13 +3730,19 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="work_done">OK</string>
   <string name="cleaner_support_hints">Propulsé par Clean Master</string>
   <string name="virus_scan_unknown_virus_name">Inconnu</string>
- <!-- à traduire
-  <string name="virus_scan_is_cloud_scanning">Kontrola Cloudu...</string>
- -->
   <string name="bt_hci_snoop_log">Activer l\'observation HCI Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Enregistrer tous les paquets HCI Bluetooth dans un fichier</string>
  <!-- à traduire :
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
  -->
+  <string name="preferred_app_settings">Paramètres applis par défaut</string>
+  <string name="preferred_app_settings_default">Par défaut</string>
+  <string name="preferred_app_settings_reset">Réinitialiser</string>
+  <string name="preferred_app_settings_reset_message">Êtes-vous sur de vouloir restaurer l\'application par défaut ?</string>
+  <string name="preferred_application_title">Préférée %s</string>
+  <string name="preferred_application_warning_message">Remplacer l\'appli %1$s par défaut peut augmenter la consommation énergétique, réduire les performances et peut mettre vos données personnelles en danger. L\'utilisation de l\'appli %2$s par défaut est recommandée.</string>
+  <string name="preferred_application_warning_replace">Remplacer</string>
+  <string name="preferred_application_warning_title">Remplacer %s par défaut</string>
+  <string name="preferred_application_warning_use_system">Utiliser %s par défaut</string>
 </resources>
