@@ -1252,7 +1252,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="miui_screensaver_state_on">Désactivé</string>
   <string name="miui_screensaver_title">Écran de veille</string>
   <!-- miui_screensaver_usage a vérifier : reformuler ? -->
-  <string name="miui_screensaver_usage">"Une fois activé, les photos dans l'album de l'écran de veille seront affichées répétitivement, 5 secondes après que l'écran ce soit éteint.</string>
+  <string name="miui_screensaver_usage">"Une fois activé, les photos dans l'album de l'écran de veille seront affichées répétitivement, 5 secondes après que l'écran ce soit éteint."</string>
   <string name="mms_vibrate_abbreviation">Messages</string>
   <string name="model_number">Numéro du modèle</string>
   <string name="move_app">Déplacer</string>
@@ -3382,7 +3382,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="opt_killed_process">%d processus tués</string>
   <string name="opt_progress_done">Effectué</string>
   <string name="opt_progress_started">Optimisation…</string>
- <!-- opt_quickscan_ok à revoir ? : System clear -->
   <string name="opt_quickscan_ok">Nettoyage système</string>
   <string name="opt_reject_all">Bloquer tous les appels</string>
   <string name="opt_reject_blacklist">Bloquer les appels provenant de numéros sur la liste noire</string>
