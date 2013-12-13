@@ -205,9 +205,7 @@ sur [ %1$s ] "</string>
   <string name="voice_match">Couplage automatique</string>
   <string name="wait_for_upload">En attente, envoi en cours</string>
   <string name="wait_for_upload_to_download">En attente, téléchargement en cours. Veuillez patienter, les fichiers seront téléchargés automatiquement</string>
- <!--  à traduire
-  <string name="wait_for_upload_to_restore">Waiting for restore to upload to MiDrive, please wait</string>
- -->
+  <string name="wait_for_upload_to_restore">En attente de reprise de l\'envoi vers MiDrive.</string>
   <string name="wait_login">En attente d\'identification</string>
   <string name="wait_net">En attente du réseau</string>
   <string name="wait_sdcard">En attente de la carte SD</string>

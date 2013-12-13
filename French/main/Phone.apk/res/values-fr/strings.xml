@@ -456,11 +456,11 @@
   <string name="fdn_contact_updated">Mise à jour du numéro autorisé effectuée</string>
   <string name="fdn_disabled">Liste de numéros autorisés désactivée</string>
   <string name="fdn_disabled_miui">Numérotation fixe désactivée</string>
-  <string name="fdn_enable_puk2_requested">Le mot de passe est incorrect. Veuillez modifier le code PIN2, puis réessayer.</string>
+  <string name="fdn_enable_puk2_requested">Le mot de passe est incorrect. Le code PIN2 est verrouillé. Veuillez le modifier, puis réessayer.</string>
   <string name="fdn_enable_puk2_requested_miui">PIN2 verrouillé ! Veuillez changer le code PIN2 et réessayer</string>
   <string name="fdn_enabled">La liste de numéros autorisés est activée.</string>
   <string name="fdn_enabled_miui">FDN activé</string>
-  <string name="fdn_failed">L\'opération FDN a échoué.</string>
+  <string name="fdn_failed">Échec de l\'opération liée aux numéros autorisés.</string>
   <string name="fdn_invalid_number">Le numéro autorisé n\'a pas été mis à jour, car il ne doit pas comporter plus de 20 chiffres.</string>
   <string name="fdn_miui">Numérotation fixe</string>
   <string name="fdn_summary_miui">Les options ci-dessus sont désactivées si le FDN est activé</string>
@@ -811,7 +811,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="puk2_blocked">Le PUK2 est définitivement bloqué.</string>
   <string name="puk2_requested">Mot de passe incorrect. Carte SIM verrouillée. Clé PUK2 requise.</string>
   <string name="puk_lock_warning_miui">"Veuillez noter que cette carte SIM sera inutilisable en cas de nouvel échec !"</string>
-  <string name="puk_requested">Mot de passe incorrect. La carte SIM est verrouillée ! Clé PUK2 requise.</string>
+  <string name="puk_requested">Mot de passe incorrect. La carte SIM est verrouillée ! Clé PUK requise.</string>
   <string name="puk_unlock_failed">Échec du déverrouillage du code PUK.</string>
   <string name="puk_unlock_success">Code PUK déverrouillé avec succès.</string>
   <string name="puk_unlocked">Votre carte SIM a été déverrouillée. Votre téléphone est en cours de déverrouillage…</string>

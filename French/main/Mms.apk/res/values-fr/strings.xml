@@ -215,7 +215,6 @@
   <string name="mx_activate_int_hint_server">L\'activation de la messagerie cloud par le serveur a échoué, un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_popup_msg">MiMessaging permet aux utilisateurs MIUI de s\'envoyer des messages sans utiliser de crédit SMS.</string>
-  <!-- mx_activate_int_popup_msg & mx_activate_popup_msg à vérifier : les deux phrases apparaissent en même temps ? -->
   <string name="mx_activate_popup_msg">MiMessaging permet aux utilisateurs MIUI de s\'envoyer des messages sans utiliser de crédit SMS.</string>
   <string name="mx_activation_done">La messagerie MiCloud est maintenant activée</string>
   <string name="mx_auto_resend_mms">Renvoyer le MMS</string>
