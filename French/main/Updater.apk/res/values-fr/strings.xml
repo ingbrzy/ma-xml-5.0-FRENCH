@@ -21,7 +21,7 @@
   <string name="best_update">2. Meilleure mise à jour</string>
   <string name="boot_recovery">Redémarrer dans le Recovery</string>
   <string name="cancel_download_buton_text">Annuler</string>
-  <string name="check_update">Rechercher des mises à jour</string>
+  <string name="check_update">Rech. des mises à jour</string>
   <string name="check_update_policy">Vérifier les mises à jour</string>
   <string name="check_update_when_wifi_available">Uniquement en connexion Wi-Fi</string>
   <string name="checking_for_updates">Vérification des mises à jour…</string>

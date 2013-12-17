@@ -192,10 +192,10 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="auto_restore_summary">Lors de la réinstallation d\'une application restaurer les paramètres et les données sauvegardées</string>
   <string name="auto_restore_title">Restaurer automatiquement</string>
   <string name="auto_startup_application_manage">Démarrage</string>
-  <string name="auto_startup_count">Démarrage automatique de %d applications</string>
+  <string name="auto_startup_count">Démarrage automatique de %d application(s)</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d'énergie et de données.
  Autoriser le démarrage automatique ?"</string>
-  <string name="automatic_brightness">Ajuster automatiquement la luminosité</string>
+  <string name="automatic_brightness">Ajuster automatiquement la luminosité de l\'écran</string>
   <string name="available_size">%s disponible</string>
   <string name="awake">Durée de fonctionnement de l\'appareil</string>
   <string name="back_key">Touche Retour</string>
@@ -699,7 +699,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="details_title">Informations sur l\'utilisation</string>
   <string name="dev_settings_warning_message">Ces paramètres sont en cours de développement. Ils peuvent endommager votre appareil et les applications qui s\'y trouvent, ou provoquer leur dysfonctionnement.</string>
   <string name="dev_settings_warning_title">Activer les paramètres de développement ?</string>
-  <string name="development_enable">Activer le développement</string>
+  <string name="development_enable">Activer les options développeur</string>
   <string name="development_settings_summary">Définir les options pour le développement de l\'application</string>
   <string name="development_settings_title">Options de développeur</string>
   <string name="device_additional_status">Infos d\'état supplémentaires</string>
@@ -735,9 +735,8 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dirac_mode_in_ear">"Écouteurs intra-auriculaires Xiaomi"</string>
   <string name="dirac_mode_off">Dirac désactivé</string>
   <string name="dirac_mode_piston_100">Casque Piston Xiaomi</string>
-  <!-- améliorateur à remplacer, plusieurs occurrences -->
-  <string name="dirac_switch_title">Utiliser l\'améliorateur MiSound</string>
-  <string name="dirac_switch_summary">Toujours utiliser l\'améliorateur MiSound lors l\'utilisation d\'enceintes</string>
+  <string name="dirac_switch_title">Utiliser l\'égaliseur MiSound</string>
+  <string name="dirac_switch_summary">Toujours utiliser l\'égaliseur MiSound lors l\'utilisation d\'enceintes</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Désact. superpos. matérielle</string>
   <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition de l\'écran</string>
@@ -1251,8 +1250,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="miui_screensaver_state_off">Désactivé</string>
   <string name="miui_screensaver_state_on">Désactivé</string>
   <string name="miui_screensaver_title">Écran de veille</string>
-  <!-- miui_screensaver_usage a vérifier : reformuler ? -->
-  <string name="miui_screensaver_usage">"Une fois activé, les photos dans l'album de l'écran de veille seront affichées répétitivement, 5 secondes après que l'écran ce soit éteint."</string>
+  <string name="miui_screensaver_usage">Une fois activé, les photos de l\'album défileront 5 secondes après extinction de l\'écran.</string>
   <string name="mms_vibrate_abbreviation">Messages</string>
   <string name="model_number">Numéro du modèle</string>
   <string name="move_app">Déplacer</string>
@@ -1289,7 +1287,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="multi_sim_settings_summary">Mettre en place des paramètres multi-Sim pour voix, données et SMS</string>
   <string name="multi_sim_settings_title">Paramètres multi-SIM</string>
   <string name="multi_touch_points_category_title">Tactile multi-point</string>
-  <string name="multi_touch_points_preference">Redémarrez pour activer</string>
+  <string name="multi_touch_points_preference">Activer (redémarrage requis)</string>
   <string name="musicfx_title">Effets musicaux</string>
   <string name="nearby_wifi">Connexions Wi-Fi proches</string>
   <string name="network_detail">Détails du réseau %s</string>
@@ -1538,7 +1536,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="pref_volume_wake_title">Éveil par les touches volume</string>
   <string name="preference_change_password_title">Modifier le mot de passe</string>
   <string name="preferred_launcher_title">Lanceur préféré</string>
-  <string name="preferred_launcher_warning_message">Remplacer le lanceur par défaut peut entrainer une hausse de l\'utilisation de ressources. Êtes-vous sur de vouloir continuer ?</string>
+  <string name="preferred_launcher_warning_message">Remplacer le lanceur par défaut peut entrainer une hausse de l\'utilisation de ressources. Êtes-vous sûr de vouloir continuer ?</string>
   <string name="preferred_launcher_warning_replace">Remplacer le lanceur</string>
   <string name="preferred_launcher_warning_title">Remplacement du lanceur par défaut</string>
   <string name="preferred_launcher_warning_use_system">Conserver le lanceur</string>
@@ -1568,9 +1566,9 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="proxy_error_invalid_exclusion_list">"Le format de la liste d'exclusion spécifiée n'est pas correct. Séparez les noms de domaine à exclure par une virgule."</string>
   <string name="proxy_error_invalid_host">"Le nom d'hôte saisi n'est pas valide."</string>
   <string name="proxy_error_invalid_port">"Le port indiqué n'est pas valide."</string>
-  <string name="proxy_exclusionlist_hint">"example.com,mycomp.test.com,localhost"</string>
+  <string name="proxy_exclusionlist_hint">"exemple.com,mycomp.test.com,localhost"</string>
   <string name="proxy_exclusionlist_label">Ignorer le proxy pour</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
+  <string name="proxy_hostname_hint">proxy.exemple.com</string>
   <string name="proxy_hostname_label">Nom d\'hôte du proxy</string>
   <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Port du proxy</string>
@@ -1630,7 +1628,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="radio_info_neighboring_location_label">CID voisin :</string>
   <string name="radio_info_network_type_label">Type de réseau :</string>
   <string name="radio_info_phone_number_label">Numéro de téléphone :</string>
-  <string name="radio_info_ping_hostname">Nom de l\'hôte du ping (www.google.com) :</string>
+  <string name="radio_info_ping_hostname">Nom de l\'hôte du ping (www.google.fr) :</string>
   <string name="radio_info_ping_ipaddr">Adr. IP ping :</string>
   <string name="radio_info_ppp_received_label">PPP reçus :</string>
   <string name="radio_info_ppp_resets_label">Nombre de réinitialisations PPP depuis le démarrage :</string>
@@ -1907,7 +1905,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sms_over_ims_off">Désactiver SMS over IMS</string>
   <string name="sms_over_ims_on">Activer SMS over IMS</string>
   <string name="sms_received_sound_dialog_title">Choisir le son des SMS reçus</string>
-  <string name="sms_received_sound_title">Notification de SMS</string>
+  <string name="sms_received_sound_title">Notification SMS</string>
   <string name="sms_summary">Sélectionnez l\'abonnement pour l\'envoi de SMS</string>
   <string name="sms_title">SMS</string>
   <string name="sort_order_alpha">Trier par nom</string>
@@ -3129,11 +3127,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="open_wifi_connect_title">Connexion au réseau ouvert %1$s</string>
   <string name="open_wifi_connect_summary">Appuyer pour gérer</string>
   <string name="restrict_background_data_title">Données en arrière-plan restreintes</string>
- <!-- à traduire : 
-  <string name="restrict_background_data_dialog_summary">"Applications run Background can't receive message, are you sure to restrict Background data?"</string>
-  <string name="restrict_background_data_notification_summary">"Applications can't connect to network if background data restricted"</string>
- -->
-  <string name="miracast_settings_category">Paramètres d\affichage sans fil</string>
+  <string name="restrict_background_data_dialog_summary">Les applications en arrière-plan ne pourront plus accéder au données, êtes-vous sûr de vouloir désactiver les données en arrière-plan ?</string>
+  <string name="restrict_background_data_notification_summary">Les applications ne pourront pas ce connecter au réseaux si les données en arrière-plan sont désactivées</string>
+  <string name="miracast_settings_category">Paramètres d\'affichage sans fil</string>
   <string name="miracast_display_category">Écrans</string>
   <string name="miracast_menu_search">Recherche</string>
   <string name="miracast_menu_searching">Recherche</string>
@@ -3204,8 +3200,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="app_manage_tab_title">Applications</string>
   <string name="app_name">Sécurité</string>
   <string name="app_uninstall_residual">Nettoyer les fichiers résiduels de désinstallation ?</string>
-  <string name="auto_start_summary">%1$d applis démar. automatiquement</string>
-  <string name="auto_start_title">Gestion démar. auto.</string>
+  <string name="auto_start_summary">%1$d appli(s) démarre(nt) automatiquement</string>
+  <string name="auto_start_title">Gérer les applis démarrant auto.</string>
   <string name="battery_desc_other_apps">Énergie totale consommée par les autres applis</string>
   <string name="black_white_list_tab_title">Filtres</string>
   <string name="blacklist_tab_title">Liste noire</string>
@@ -3215,12 +3211,12 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="button_text_cancel">Annuler</string>
   <string name="button_text_delete">Supprimer</string>
   <string name="button_text_done">OK</string>
-  <string name="button_text_fix">Fix</string>
-  <string name="button_text_security">Sécurité</string>
+  <string name="button_text_fix">Corriger</string>
+  <string name="button_text_security">OK</string>
   <string name="button_text_view">Afficher</string>
-  <string name="cache_garbage">Fichiers en cache</string>
+  <string name="cache_garbage">Fichiers cache</string>
   <string name="cache_list_empty_hints">Aucun fichier en cache.</string>
-  <string name="cache_manage_title">%1$d fichier(s) en cache nettoyé(s), %2$s d\'espace de stockage libéré</string>
+  <string name="cache_manage_title">%1$d fichier(s) en cache, %2$s d\'espace de stockage peut être libéré</string>
   <string name="cache_manager_actionbar_title">Cache système</string>
   <string name="call_log_tab_title">Journal d\'appels</string>
   <string name="calllog">Journal d\'appels</string>
@@ -3284,7 +3280,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="firewall_log">Journal pare-feu</string>
   <string name="firewall_settings">Paramètres NPD</string>
   <string name="firewall_settings_tab_title">Règles</string>
-  <string name="free_ram">Mémoire utilisée</string>
+  <string name="free_ram">Mémoire</string>
   <string name="fw_action_settings">Paramètres de filtrage</string>
   <string name="fw_add_keyword">Ajouter un mot clé</string>
   <string name="fw_add_keyword_existing">Le mot clé \"%s\" existe déjà</string>
@@ -3363,8 +3359,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="menu_item_about_title">À propos</string>
   <string name="mms_log_tab_title">Journal des messages</string>
   <string name="need_check">Certains éléments peuvent êtres optimisés…</string>
- <!-- network_assistant à vérifier/changer, moniteur réseaux ? -->
-  <string name="network_assistant">Usage des données</string>
+  <string name="network_assistant">Moniteur données</string>
   <string name="new_bw_list_button">Ajouter un contact</string>
   <string name="number_add_hint">Saisir un numéro</string>
   <string name="opt_accept_whitelist">Accepter les numéros de la liste blanche</string>
@@ -3396,16 +3391,16 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="opt_state_pause">Pause</string>
   <string name="opt_state_running">Optimisation…</string>
   <string name="opt_virus_scan">Analyser maintenant</string>
-  <string name="opt_virus_suggest">Nombre de fichiers suspects : %d, vous devriez faire une analyse de virus</string>
+  <string name="opt_virus_suggest">Nombre de fichier(s) suspect(s) : %d, vous devriez faire une analyse de virus</string>
   <string name="opt_waiting">En attente</string>
-  <string name="optimize_ad_header_left">Fichiers pub. : %d</string>
+  <string name="optimize_ad_header_left">Fichier(s) pub. : %d</string>
   <string name="optimize_ad_list_empty_content">Aucun fichier pub. trouvé.</string>
   <string name="optimize_apk_header_left">Fichiers apk : %d</string>
   <string name="optimize_apk_list_empty_content">Aucun fichier apk trouvé.</string>
-  <string name="optimize_cache_header_left">Fichiers cache : %d</string>
+  <string name="optimize_cache_header_left">Fichier(s) cache : %d</string>
   <string name="optimize_cache_list_empty_content">Aucun fichier cache trouvé.</string>
   <string name="optimize_done">Ok, c\'est fini !</string>
-  <string name="optimize_large_file_header_left">Fichiers volumineux : %d</string>
+  <string name="optimize_large_file_header_left">Fichier(s) volumineux : %d</string>
   <string name="optimize_large_file_list_empty_content">Aucun fichier volumineux trouvé.</string>
   <string name="optimize_now">Démarrer</string>
   <string name="optimize_residual_header_left">Résidus : %d</string>
@@ -3423,17 +3418,17 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="optimizing">Optimisation</string>
   <string name="optimizing_virus">Suppression des virus…</string>
   <string name="perm_app_enable">Surveiller les demandes d\'autorisation</string>
-  <string name="perm_app_header">Gestion. de permissions</string>
+  <string name="perm_app_header">Gestionnaire de permissions</string>
   <string name="perm_app_title">Gérer les permissions</string>
   <string name="perm_log_empty">Journal vide</string>
   <string name="perm_manage_tab_title">Permissions</string>
   <string name="perm_mian_name">Permission</string>
-  <string name="perm_su_enable_summary">Les applications peuvent obtenir l \'autorisation ROOT</string>
+  <string name="perm_su_enable_summary">Autoriser les applications à demander l \'accès ROOT</string>
   <string name="permission_mgr">Permissions</string>
-  <string name="power_autorun_apps_empty">Aucunes applis démarrant automatiquement</string>
+  <string name="power_autorun_apps_empty">Aucune appli démarrant automatiquement</string>
   <string name="power_autorun_control_desc">Augmenter le nombre d\'applications démarrant automatiquement peut augmenter la consommation d\'énergie de votre téléphone</string>
-  <string name="power_autorun_control_title">Démarr. auto.</string>
-  <string name="power_autorun_empty">Aucunes applis installées</string>
+  <string name="power_autorun_control_title">Démarrage automatique</string>
+  <string name="power_autorun_empty">Aucune appli installée</string>
   <string name="power_battery_history_days">%1$d jours %2$d h %3$d min</string>
   <string name="power_battery_history_hours">%1$d h %2$d min</string>
   <string name="power_battery_history_minutes">%1$d min</string>
@@ -3444,9 +3439,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_center_consume_time">%1$s restants</string>
   <string name="power_center_custom_summary_default">Optimise les réglages, économise la batterie</string>
   <string name="power_center_custom_title">Économiser la batterie</string>
-  <string name="power_center_low_battery_summary_default">Basculer de mode lorsque la batterie est faible</string>
-  <string name="power_center_low_battery_summary_dynamic">Quand la batterie restante est inférieure à %1$d%% basculer vers %2$s</string>
-  <string name="power_center_low_battery_title">Basculer auto.</string>
+  <string name="power_center_low_battery_summary_default">Basculer de mode lorsque le niveau de charge de la batterie est faible</string>
+  <string name="power_center_low_battery_summary_dynamic">Quand la batterie restante est inférieure \nà %1$d%% basculer vers %2$s</string>
+  <string name="power_center_low_battery_title">Basculer automatiquement</string>
   <string name="power_center_on_time_summary_default">Basculer de mode à une heure planifiée</string>
   <string name="power_center_on_time_summary_dynamic">De %1$s à %2$s basculer vers %3$s</string>
   <string name="power_center_on_time_title">Planificateur</string>
@@ -3459,7 +3454,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_chooser_mine_title">Personnalisé</string>
   <string name="power_chooser_sleep_summary">Désactiver toutes les fonctions (téléphone, messages, internet) à l\'exception du réveil</string>
   <string name="power_chooser_sleep_title">Veille</string>
- <!-- power_chooser_smart_summary à revoir ? Save current settings, clear processes at lock screen -->
   <string name="power_chooser_smart_summary">Sauvegarder les paramètres actuels, vider les processus quand verrouillé</string>
   <string name="power_chooser_smart_title">Mode par défaut</string>
   <string name="power_chooser_standby_summary">Désactiver les fonctions Internet</string>
@@ -3529,8 +3523,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_mode_screen_brightness">Luminosité</string>
   <string name="power_mode_screen_brightness_automatic">Automatique : %1$d%%</string>
   <string name="power_mode_screen_brightness_manual">Manuel : %1$d%%</string>
-  <string name="power_mode_select_desc">Choisissez le mode qui répond à vos besoins</string>
-  <string name="power_mode_select_title">Mode d\'alimentation</string>
+  <string name="power_mode_select_desc">Choisissez le profil qui répond à vos besoins</string>
+  <string name="power_mode_select_title">Profil d\'alimentation</string>
   <string name="power_mode_sleep">Veille</string>
   <string name="power_mode_sleep_in_minutes">après %1$d minutes d\'inactivité</string>
   <string name="power_mode_sleep_in_seconds">après %1$d secondes d\'inactivité</string>
@@ -3547,25 +3541,25 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_mode_wifi">Wi-Fi</string>
   <string name="power_perm_logs_empty">Aucun journal</string>
   <string name="power_save_choose_mode">Choisir un profil</string>
-  <string name="power_save_low_battery_auto_save_title">Économise l\'énergie lorsque la batterie est faible</string>
-  <string name="power_save_low_battery_option_summary">Quand la batterie est sous la limite l\'appareil reviendra au profil le plus récemment utilisé</string>
-  <string name="power_save_low_battery_option_title">Quand la batterie est faible, basculer vers</string>
+  <string name="power_save_low_battery_auto_save_title">Basculement automatique</string>
+  <string name="power_save_low_battery_option_summary">Si le niveau de charge dépasse le seuil défini, l\'appareil reviendra au profil précédent.</string>
+  <string name="power_save_low_battery_option_title">Basculer vers le profil :</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
   <string name="power_save_low_battery_percentage_forty">40%</string>
   <string name="power_save_low_battery_percentage_ten">10%</string>
   <string name="power_save_low_battery_percentage_thirty">30%</string>
   <string name="power_save_low_battery_percentage_twenty">20%</string>
-  <string name="power_save_low_battery_seekbar_title">La batterie est faible lorsque l\'énergie restante est inférieure à : %1$d%%</string>
-  <string name="power_save_low_battery_title">Économise l\'énergie lorsque la batterie est faible</string>
-  <string name="power_save_on_time_auto_save_title">Planifié</string>
+  <string name="power_save_low_battery_seekbar_title">Basculer automatiquement lorsque le niveau de charge est inférieur à : %1$d%%</string>
+  <string name="power_save_low_battery_title">Basculement automatique</string>
+  <string name="power_save_on_time_auto_save_title">Planification</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Fin</string>
   <string name="power_save_on_time_end_time_title">%1$d : %2$d</string>
-  <string name="power_save_on_time_option_summary">A la fin de ce délai l\'appareil reviendra au profil le plus récemment utilisé</string>
+  <string name="power_save_on_time_option_summary">À la fin de ce délai l\'appareil reviendra au profil le plus récemment utilisé</string>
   <string name="power_save_on_time_option_title">Pendant cette période</string>
   <string name="power_save_on_time_start_time_summary">Début</string>
   <string name="power_save_on_time_start_time_title">%1$d : %2$d</string>
-  <string name="power_save_on_time_title">Planifié</string>
+  <string name="power_save_on_time_title">Planification</string>
   <string name="power_settings_category_title">Indicateur de batterie</string>
   <string name="power_settings_number">Pourcentage</string>
   <string name="power_settings_shape">Graphique</string>
@@ -3578,11 +3572,12 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_used_mins_test">23</string>
   <string name="power_used_prefix">Énergie consommée</string>
   <string name="process_list_empty_hints">Aucun processus en cache.</string>
-  <string name="process_manage_title">%1$d processus stoppés, %2$s de mémoire vide libérés</string>
+  <string name="process_manage_title">%1$d processus stoppé(s), %2$s de mémoire vide libéré(s)</string>
   <string name="process_manager_actionbar_title">Mémoire utilisée</string>
   <string name="protection_adb">Débogage USB</string>
-  <string name="protection_category_dangerous_title">Risques (%d)</string>
-  <string name="protection_category_recommend_title">Optimisation recommandée (%d)</string>
+  <string name="protection_category_dangerous_title">Risque(s) (%d)</string>
+  <string name="protection_category_recommend_title">Optimisation(s) recommandée(s) (%d)</string>
+  <!-- protection_category_security_title à revoir/remplacer -->
   <string name="protection_category_security_title">Nettoyage (%d)</string>
   <string name="protection_perm">Paramètres permissions</string>
   <string name="protection_sms">Filtre SMS</string>
@@ -3629,9 +3624,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="summary_install_virus">Vérifier les applis avant l\'installation</string>
   <string name="summary_mms">Bloquer les messages indésirables (ventes, pub., etc.)</string>
   <string name="summary_permission">Protéger ma confidentialité des applis tierces</string>
-  <string name="summary_usb">Éviter la propagation des virus via connexion USB</string>
+  <string name="summary_usb">Éviter la propagation de virus via la connexion USB</string>
   <string name="summary_virus">%2$d virus trouvés</string>
-  <string name="summary_virus_update">Mettre à jour automatiquement les définitions de virus quand connecter via Wi-Fi</string>
+  <string name="summary_virus_update">Mettre à jour automatiquement les définitions de virus quand connecté via Wi-Fi</string>
   <string name="system_cache_title">Cache système</string>
   <string name="title_app_update_no">Mises à jour disponibles pour %d applis</string>
   <string name="title_app_update_yes">Toutes les applis sont à jour</string>
@@ -3659,11 +3654,11 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="valuation">Nettoyage recommandé</string>
   <string name="virus_activity_title">Virus</string>
   <string name="virus_button_clear">Nettoyer</string>
-  <string name="virus_scan">Analyse virale</string>
+  <string name="virus_scan">Antivirus</string>
  <!-- virus_scan_app_solve à vérifier/revoir ? : All the processing -->
   <string name="virus_scan_app_solve">La totalité</string>
   <string name="virus_scan_app_stop">Arrêter l\'analyse</string>
-  <string name="virus_scan_can_use_wifi">Utiliser les définitions en-ligne pour analyser</string>
+  <string name="virus_scan_can_use_wifi">Utiliser les définitions en ligne pour analyser</string>
   <string name="virus_scan_clear">Nettoyer</string>
   <string name="virus_scan_dangerous">Risque</string>
   <string name="virus_scan_description">Cette appli présente un risque majeur pour la sécurité de votre téléphone.</string>
@@ -3677,8 +3672,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_guard_provider_missed">Le scanneur de virus est corrompu. Veuillez effectuer une restauration d\'usine de votre téléphone.</string>
   <string name="virus_scan_installed_package">%s (appli installée)</string>
   <string name="virus_scan_is_scanning">Analyse…</string>
-  <string name="virus_scan_judge_is_virus">Vérifier les applis avant l\'installation</string>
-  <string name="virus_scan_last_risk">Les applications suspectes découvertes lors de l\'analyse récente n\'ont pas été supprimés.</string>
+  <string name="virus_scan_judge_is_virus">Vérifier les applications avant l\'installation</string>
+  <string name="virus_scan_last_risk">Applis suspectes, détectées lors de la dernière analyse, non supprimées !</string>
   <string name="virus_scan_last_scan_date">La dernière analyse remonte à %d jours</string>
   <string name="virus_scan_last_scan_today">"Dernière analyse : aujourd\'hui "</string>
   <string name="virus_scan_last_scan_yesterday">"Dernière analyse : hier "</string>
@@ -3692,7 +3687,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_list_item_risk">Risque</string>
   <string name="virus_scan_list_item_virus">Virus</string>
   <string name="virus_scan_list_loading_hits">Analyse…</string>
-  <string name="virus_scan_monitoring">Moniteur d\'install.</string>
+  <string name="virus_scan_monitoring">Moniteur d\'installations</string>
   <string name="virus_scan_never_scaned">Analyse recommandée</string>
   <string name="virus_scan_not_found_risk">Aucun risque trouvé</string>
   <string name="virus_scan_not_found_virus">Aucun virus trouvé</string>
@@ -3705,13 +3700,13 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_safe">Vider</string>
   <string name="virus_scan_settings">Paramètres</string>
   <string name="virus_scan_settings_title">Paramètres des définitions de virus</string>
-  <string name="virus_scan_start">Rechercher des virus</string>
+  <string name="virus_scan_start">Analyse antivirus</string>
   <string name="virus_scan_stop">Pause</string>
   <string name="virus_scan_support">Propulsé par Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (apk)</string>
   <string name="virus_scan_update_lib">Mettre à jour auto. les définitions de virus</string>
   <string name="virus_scan_update_now">Mettre à jour maintenant</string>
-  <string name="virus_scan_use_cloud">Définitions de virus dans le cloud</string>
+  <string name="virus_scan_use_cloud">Définitions de virus en ligne</string>
   <string name="virus_scan_virus_list_empty">Aucun virus détecté.</string>
   <string name="virus_scan_virus_title">%d virus détecté(s) !</string>
   <string name="virus_scan_viruslib_version">Définitions de virus version : %s</string>
@@ -3738,7 +3733,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="preferred_app_settings">Paramètres applis par défaut</string>
   <string name="preferred_app_settings_default">Par défaut</string>
   <string name="preferred_app_settings_reset">Réinitialiser</string>
-  <string name="preferred_app_settings_reset_message">Êtes-vous sur de vouloir restaurer l\'application par défaut ?</string>
+  <string name="preferred_app_settings_reset_message">Êtes-vous sûr de vouloir restaurer toutes les applications par défaut ?</string>
   <string name="preferred_application_title">Préférée %s</string>
   <string name="preferred_application_warning_message">Remplacer l\'appli %1$s par défaut peut augmenter la consommation énergétique, réduire les performances et peut mettre vos données personnelles en danger. L\'utilisation de l\'appli %2$s par défaut est recommandée.</string>
   <string name="preferred_application_warning_replace">Remplacer</string>

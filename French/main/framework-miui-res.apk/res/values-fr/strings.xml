@@ -8,16 +8,12 @@
   <string name="app_no_notification">aucune notification</string>
   <string name="app_notificaiton_on_notificationBar">Barre de notifications</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Barre d\'état et de notification</string>
-  <string name="autumn_begins">Début de l\'Automne</string>
-  <string name="autumn_equinox">Équinoxe d\'Automne</string>
   <string name="callNoAnswerTimeFormat">A sonné %s fois</string>
   <string name="call_record_or">ou</string>
   <string name="call_record_sample_prefix_miui">Enregistrement d\'appel</string>
   <string name="caller_info_name_delimiter">Ou</string>
   <string name="check_phone_error_title">Impossible d\'ouvrir la Synchronisation</string>
   <string name="check_phone_io_error">Erreur réseau</string>
-  <string name="clear_and_bright">Clair et lumineux</string>
-  <string name="cold_dews">Rosée froide</string>
   <string name="contact_carrier_message">Veuillez contacter votre opérateur pour toute question</string>
   <string name="day_of_month">" %d"</string>
   <string name="days">jours</string>
@@ -50,17 +46,10 @@
   <string name="forget_password_string">MDP oublié ?</string>
   <string name="global_action_privacy_mode_dialog_message">En mode privé les appels, notes, photos et SMS sont cachés et le lanceur ne pourra pas passer en mode édition. Vous pouvez définir le mot de passe pour protéger le mode privé dans les paramètres de contrôle d’accès</string>
   <string name="global_action_toggle_privacy_mode">Mode privé</string>
-  <string name="grain_buds">Bourgeons de céréales</string>
-  <string name="grain_in_ear">Grain à l\'oreille</string>
-  <string name="grain_rain">Pluie de grain</string>
-  <string name="great_cold">Grand Froid</string>
-  <string name="great_heat">Grande chaleur</string>
   <string name="group_name_contacts">Contacts</string>
   <string name="group_name_coworkers">Collègues</string>
   <string name="group_name_family">Famille</string>
   <string name="group_name_friends">Amis</string>
-  <string name="heavy_snow">Fortes chutes de neige</string>
-  <string name="hoar_frost_falls">Givre</string>
   <string name="hours">%d heures</string>
   <string name="incorrect_pincode">Code PIN incorrect</string>
   <string name="incorrect_pincode_remaining_attempts">Code PIN incorrect, %d tentatives restantes</string>
@@ -70,8 +59,6 @@
   <string name="input_pin_code_to_unlock">Déverrouiller le périphérique</string>
   <string name="input_puk_code">Code PUK</string>
   <string name="input_puk_code_to_unlock">Déverrouiller le périphérique</string>
-  <string name="insects_awaken">Réveil des insectes</string>
-  <string name="light_snow">Légère neige</string>
   <string name="lock_screen_date">EEEE d MMMM</string>
   <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée.</string>
   <string name="lockscreen_access_pattern_cleared">Schéma effacé.</string>
@@ -91,7 +78,7 @@ Réessayer dans %d secondes."</string>
   <string name="lockscreen_unlock_sim_via_puk">Entrez le code PUK pour déverrouiller la carte SIM</string>
   <string name="login_website_in_case_forget_password">Veuillez aller sur http://i.xiaomi.com afin de réinitialiser votre mot de passe</string>
   <string name="lunar_calendar">Calendrier lunaire</string>
-  <!-- lunar_ à traduire éventuellement.. -->
+  <!-- lunar_ à traduire éventuellement..
   <string name="lunar_ba"/>
   <string name="lunar_chu"/>
   <string name="lunar_chu_shi"/>
@@ -114,6 +101,7 @@ Réessayer dans %d secondes."</string>
   <string name="lunar_yi"/>
   <string name="lunar_yue"/>
   <string name="lunar_zheng"/>
+   -->
   <string name="memory_clear_nothing_result">Pas de mémoire à libérer</string>
   <string name="memory_clear_result">"%1$so libérés | %2$so disponible"</string>
   <string name="minutes">%d minutes</string>
@@ -182,7 +170,7 @@ Réessayer dans %d secondes."</string>
   <string name="share">Partager</string>
   <string name="short_pincode_error_msg">Veuillez saisir de 4 à 8 chiffres</string>
   <string name="short_pukcode_error_msg">Veuillez saisir au moins 8 chiffres</string>
-  <string name="shutdown_confirm_title">Êtes-vous sur de vouloir éteindre votre téléphone ?</string>
+  <string name="shutdown_confirm_title">Êtes-vous sûr de vouloir éteindre votre téléphone ?</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">La carte SIM actuelle n\'est pas activée. Un SMS international est requis pour activer ce service. Désirez-vous l\'activer maintenant ?</string>
   <string name="sim_changed_reactivate_notice">La carte SIM actuelle n\'est pas activée. Un SMS est nécessaire pour activer le service de Synchronisation Xiaomi. Le réactiver maintenant ?</string>
@@ -190,17 +178,10 @@ Réessayer dans %d secondes."</string>
   <string name="sim_locked">Carte SIM verrouillée</string>
   <string name="sim_not_ready">Carte SIM en cours d\'utilisation, veuillez réessayer plus tard.</string>
   <string name="sim_unavailable">Carte SIM indisponible</string>
-  <string name="slight_cold">Léger froid</string>
-  <string name="slight_heat">Légère chaleur</string>
   <string name="solar_calendar">Calendrier solaire</string>
   <string name="speaker">Haut-parleur</string>
-  <string name="spring_begins">Début de printemps</string>
-  <string name="stopping_the_heat">Arrêt de la chaleur</string>
-  <string name="summer_begins">Début de l\'été</string>
-  <string name="summer_solstice">Solstice d\'été</string>
   <string name="sync_one_time_sync">Toucher pour synchroniser (%1$s)</string>
   <string name="text_pastelist">Presse-papier</string>
-  <string name="the_rains">Eaux de pluie</string>
   <string name="toast_lockscreen_glogin_empty_password">Mot de passe requis.</string>
   <string name="today">Aujourd\'hui</string>
   <string name="tomorrow">Demain</string>
@@ -222,7 +203,6 @@ Réessayer dans %d secondes."</string>
   <string name="v5_select_all">Tout sélectionner</string>
   <string name="v5_time_picker_label_hour">H</string>
   <string name="v5_time_picker_label_minute">Min</string>
-  <string name="vernal_equinox">Équinoxe de printemps</string>
   <string name="volume_alarm">Alarme</string>
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
   <string name="volume_icon_description_incall">Appel</string>
@@ -231,9 +211,6 @@ Réessayer dans %d secondes."</string>
   <string name="volume_icon_description_ringer">Sonnerie</string>
   <string name="volume_ring_description">Volume de la sonnerie et des notifications</string>
   <string name="wake_alarm_message">Mettre l\'alarme en pause et rappeler dans %s</string>
-  <string name="white_dews">Blanc de rosée</string>
-  <string name="winter_begins">L\'hiver commence</string>
-  <string name="winter_solstice">Solstice d\'hiver</string>
   <string name="yesterday">Hier</string>
   <string name="yellow_page_unable_send_sms">Impossible d\'envoyer le SMS.</string>
   <string name="yellow_page_module_sms_sent">Message envoyé.</string>
@@ -242,42 +219,67 @@ Réessayer dans %d secondes."</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Impossible d\'envoyer un message en mode privé.</string>
   <string name="grant_permissions_account">Autoriser l\'accès au compte</string>
   <string name="grant_permissions_apps">Autoriser l\'accès aux applis</string>
+
+  <string name="autumn_begins">Début de l\'Automne</string>
+  <string name="autumn_equinox">Équinoxe d\'Automne</string>
+  <string name="clear_and_bright">Clair et lumineux</string>
+  <string name="grain_rain">Pluie de grain</string>
+  <string name="great_cold">Grand Froid</string>
+  <string name="great_heat">Grande chaleur</string>
+  <string name="heavy_snow">Fortes chutes de neige</string>
+  <string name="hoar_frost_falls">Givre</string>
+  <string name="light_snow">Légère neige</string>
+  <string name="slight_cold">Léger froid</string>
+  <string name="slight_heat">Légère chaleur</string>
+  <string name="spring_begins">Début de printemps</string>
+  <string name="stopping_the_heat">Arrêt de la chaleur</string>
+  <string name="summer_begins">Début de l\'été</string>
+  <string name="summer_solstice">Solstice d\'été</string>
+  <string name="vernal_equinox">Équinoxe de printemps</string>
+  <string name="winter_begins">L\'hiver commence</string>
+  <string name="winter_solstice">Solstice d\'hiver</string>
+
+  <string name="cold_dews">Rosée froide</string>
   <string name="easter">Pâques</string>
-  
-  <string name="the_double_ninth_festival">Fête de Chung Yeung</string>
-  <string name="the_dragon_boat_festival">Fête du Dragon Boat</string>
-  <string name="the_laba_rice_porridge_festival">Fête de la bouillie de riz</string>
-  <string name="the_mid_autumn_festival">Fête de mi-automne</string>
-  <string name="lantern_festival">Fête des Lanternes</string>
+  <string name="grain_buds">Bourgeons de céréales</string>
+  <string name="grain_in_ear">Grain à l\'oreille</string>
+  <string name="insects_awaken">Réveil des insectes</string>
+  <string name="lantern_festival">Fête des lanternes</string>
+  <string name="the_double_ninth_festival">Fête du double neuf</string>
+  <string name="the_dragon_boat_festival">Fête des bateaux-dragons</string>
+  <string name="the_laba_rice_porridge_festival">Fête de Laba</string>
+  <string name="the_mid_autumn_festival">Fête de la mi-automne</string>
+  <string name="the_rains">Eaux de pluie</string>
   <string name="the_spring_festival">Nouvel an chinois</string>
-  
+  <string name="white_dews">Blanc de rosée</string>
+
   <!-- _day's à vérifier : pourquoi certains traduits et d'autres non : "/> ? -->
   <string name="arbor_day">Journée de l\'arbre</string>
   <string name="childrens_day">Journée de l\'enfant</string>
   <string name="chinese_youth_day">Journée de la jeunesse</string>
   <string name="christmas_day">Jour de Noël</string>
-  <string name="double_seventh_day">Tanabata</string>
+  <string name="double_seventh_day">Fête des étoiles</string>
   <string name="fools_day">Poisson d\'avril</string>
   <string name="international_womens_day">Journée de la femme</string>
   <string name="labour_day">Fête du travail</string>
   <string name="national_day">Journée nationale</string>
   <string name="national_father_day">Fête des Pères</string>
   <string name="new_years_day">Jour de l\'An</string>
-  <string name="partys_day">Festival</string>
+  <string name="partys_day">Fête</string>
   <string name="peace_day">Journée de la paix</string>
   <string name="teachers_day">Journée des enseignants</string>
   <string name="the_armys_day">Jour de l\'Armée</string>
+  <string name="united_nations_day">Journée des Nations unies</string>
   <string name="valentines_day">Saint Valentin</string>
-  
-  <string name="good_friday"/>
+
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
-  <string name="day_following_good_friday"/>
-  <string name="the_first_weekday_after_christmas"/>
-  <string name="hksar_establishment_day"/>
   <string name="armed_forces_day"/>
+  <string name="day_following_good_friday"/>
+  <string name="good_friday"/>
+  <string name="hksar_establishment_day"/>
   <string name="retrocession_day"/>
+  <string name="the_first_weekday_after_christmas"/>
   <string name="tw_childrens_day"/>
   <string name="tw_youth_day"/>
-  <string name="united_nations_day"/>
 </resources>

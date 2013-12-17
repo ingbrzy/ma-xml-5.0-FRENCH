@@ -55,6 +55,7 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Désolé, le format vidéo sélectionné n\'est pas valide pour la diffusion sur cet appareil</string>
   <string name="vp_VideoView_error_text_unknown">Désolé, le format vidéo sélectionné ne peut pas être lu</string>
   <string name="vp_VideoView_error_title">Erreur de lecture vidéo !</string>
+ <!-- remplacer améliorateur ? : -->
   <string name="menu_item_enable_audio_enhance">"Activer l'améliorateur de son"</string>
   <string name="menu_item_disable_audio_enhance">"Désactiver l'améliorateur de son"</string>
   <string name="toast_message_set_misound">Veuillez configurer MiSound…</string>

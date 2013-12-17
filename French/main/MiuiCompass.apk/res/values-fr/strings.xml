@@ -7,7 +7,7 @@
   <string name="calibrate_failed_no_location">L\'étalonnage a échoué : Impossible d\'obtenir la latitude et longitude actuelles</string>
   <string name="calibrate_failed_timeout">Échec de l\'étalonnage : délai d\'attente du serveur écoulé</string>
   <string name="calibrate_success">Étalonnage complet</string>
-  <string name="cannot_get_location">Lieu inconnu</string>
+  <string name="cannot_get_location">Inconnue</string>
   <string name="dialog_calibrat_altitude">Calibrage de l\'altitude via la connexion Internet</string>
   <string name="dialog_title_no_network">Aucun réseau trouvé, connectez-vous au Wi-Fi ou activez la connexion de données</string>
   <string name="direction_east">E</string>

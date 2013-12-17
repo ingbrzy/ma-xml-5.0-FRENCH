@@ -114,7 +114,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_delete">Confirmer la suppression de %s ?</string>
   <string name="confirm_delete_album" formatted="false">Êtes-vous sûr de vouloir supprimer %s albums (contenant %s éléments) ?</string>
-  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s image(s) dans %s album(s), êtes-vous sur de vouloir les supprimer ?</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s image(s) dans %s album(s), êtes-vous sûr de vouloir les supprimer ?</string>
   <string name="confirm_delete_folders_and_pictures">Êtes-vous sûr de vouloir supprimer %s ?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s dossiers (incluant %s)</string>
   <string name="confirm_delete_including_null">0 élément</string>
@@ -144,9 +144,9 @@
   <string name="defalt_local_mobile">Mobile</string>
   <string name="delete">Supprimer</string>
   <string name="delete_fail_too_many_items">Échec de la suppression, trop d\'éléments sélectionnés</string>
-  <string name="delete_file">Êtes-vous sur de vouloir supprimer %1$d fichier(s) sélectionné(s) ?</string>
-  <string name="delete_files_and_folders">Êtes-vous sur de vouloir supprimer %1$d fichier(s) et %2$d dossier(s) sélectionnés ?</string>
-  <string name="delete_folder">Êtes-vous sur de vouloir supprimer %1$d dossier(s) sélectionné(s) ?</string>
+  <string name="delete_file">Êtes-vous sûr de vouloir supprimer %1$d fichier(s) sélectionné(s) ?</string>
+  <string name="delete_files_and_folders">Êtes-vous sûr de vouloir supprimer %1$d fichier(s) et %2$d dossier(s) sélectionnés ?</string>
+  <string name="delete_folder">Êtes-vous sûr de vouloir supprimer %1$d dossier(s) sélectionné(s) ?</string>
   <string name="deleting_files">Suppression des fichiers…</string>
   <string name="demo_video_folder_display_name">Vidéo de démo</string>
   <string name="deny">Rejeter</string>

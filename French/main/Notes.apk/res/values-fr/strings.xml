@@ -4,10 +4,11 @@
   <string name="alert_action_edit_anyway">Continuer l\'édition</string>
   <string name="alert_edit_action_delete">Supprimer</string>
   <string name="alert_edit_action_update">Mise à jour</string>
-  <string name="alert_message_delete_folders">Supprimer les %1$s dossiers sélectionnés ?</string>
-  <string name="alert_message_delete_folders_notes">Supprimer les %1$s dossiers et %2$s notes sélectionnés ?</string>
+  <string name="alert_message_delete_folders">Supprimer %1$s dossier(s) sélectionné(s) ?</string>
+  <string name="alert_message_delete_folders_notes">Supprimer %1$s dossier(s) et %2$s note(s) sélectionné(s) ?</string>
   <string name="alert_message_delete_note">Êtes-vous sûr de vouloir supprimer cette note ?</string>
-  <string name="alert_message_delete_notes">Êtes-vous sûr de vouloir supprimer les %1$s notes sélectionnées ?</string>
+  <!-- avec une note sélectionnée alert_message_delete_notes s'affiche au lieu de alert_message_delete_note ...-->
+  <string name="alert_message_delete_notes">Êtes-vous sûr de vouloir supprimer %1$s note(s) sélectionnée(s) ?</string>
   <string name="alert_message_discard_changes">Ignorer toutes les modifications ?</string>
   <string name="alert_message_edit_anyway">La note contient un contenu non supporté, l\'éditer pourrait engendrer une perte de données.</string>
   <string name="alert_title_edit_anyway">Confirmer l\'édition de la note qui pourrait engendrer une perte de données.</string>

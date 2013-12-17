@@ -163,7 +163,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="notifications_off_text">Appuyez ici pour réactiver les notifications.</string>
   <string name="notifications_off_title">Notifications désactivées</string>
   <string name="recent_apps_key">Touche des applications récentes</string>
-  <string name="recent_apps_key_show">Afficher la touche des applications récentes</string>
+  <string name="recent_apps_key_show">Afficher la touche</string>
   <string name="return_to_incall_screen">Appuyez pour revenir à l\'appel</string>
   <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
   <string name="screen_button_disabled_message">Les touches du bas de l\'écran sont désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
@@ -218,7 +218,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_no_recent_apps">Aucune application récente.</string>
   <string name="status_bar_notification_inspect_item_title">Informations sur l\'application</string>
   <string name="status_bar_recent_guide_all">Glisser vers le haut pour fermer, glisser vers le bas pour verrouiller</string>
-  <string name="status_bar_recent_guide_bottom">Glisser vers le bas pour déverrouiller</string>
+  <string name="status_bar_recent_guide_bottom">Glisser vers le bas pour verrouiller</string>
   <string name="status_bar_recent_guide_top">Glisser vers le haut pour fermer</string>
   <string name="status_bar_recent_inspect_item_title">Informations sur l\'application</string>
   <string name="status_bar_recent_memory_info">%1$so / %2$so</string>

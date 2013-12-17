@@ -559,7 +559,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="name_given">Prénom</string>
   <string name="name_middle">2e prénom</string>
   <string name="name_phonetic">Nom phonétique</string>
-  <string name="name_phonetic_family">Phonétique du nom de famille</string>
+  <string name="name_phonetic_family">Phonétique du nom</string>
   <string name="name_phonetic_given">Phonétique du prénom</string>
   <string name="name_phonetic_middle">Phonétique 2e prénom</string>
   <string name="name_prefix">Titre</string>
