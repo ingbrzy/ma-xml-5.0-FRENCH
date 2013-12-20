@@ -457,9 +457,10 @@
   <string name="sp_conversation_title">Messages de notification</string>
   <string name="title_collapse_sp_messages">Combiner les messages opérateur</string>
   <string name="pref_collapse_sp_messages_summary">Combine les messages envoyés par l\'opérateur sous la même entrée</string>
-  <string name="sp_mark_as_read_title">Tout marquer comme lu</string>
-  <string name="sp_mark_as_read">Marquer tous les messages comme lu ?</string>
+  <string name="sp_mark_as_read_title">Tout marquer comme lus</string>
+  <string name="sp_mark_as_read">Marquer tous les messages comme lus ?</string>
   <string name="sp_mark_as_read_progress">En cours…</string>
+  <!-- à traduire :
   <string name="feedback_description_hint">Please enter your feedback here</string>
   <string name="feedback_submit">Submit</string>
   <string name="pref_key_mx_feedback">Submit feedback</string>
@@ -470,4 +471,5 @@ Report bugs and send feedback directly to Xiaomi."</string>
   <string name="toast_feedback_finish">Your report will be sent automatically when you connect to a Wi-Fi network</string>
   <string name="toast_feedback_max">Only 3 reports may be submitted per day</string>
   <string name="toast_feedback_start">Sending feedback data…</string>
+  -->
 </resources>

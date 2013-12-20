@@ -443,21 +443,27 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="detail_consume_amount">Montant</string>
   <string name="detail_consume_name">Article</string>
   <string name="detail_consume_order">ID commande</string>
+ <!-- à traduire : date ? 
   <string name="detail_consume_time">Time</string>
+ -->
   <string name="detail_consume_title">Historique de paiements</string>
   <string name="detail_giftcard_activity">Promotion</string>
   <string name="detail_giftcard_expired_time">Date d\'expiration </string>
-  <string name="detail_giftcard_theme">Buy themes</string>
-  <string name="detail_giftcard_title">Gift card details</string>
-  <string name="detail_giftcard_total">Gift card total</string>
+  <string name="detail_giftcard_theme">Acheter des thèmes</string>
+  <string name="detail_giftcard_title">Détails de la carte cadeau</string>
+  <string name="detail_giftcard_total">Total de la carte cadeau</string>
   <string name="detail_pay_account">ID paiement</string>
   <string name="detail_recharge_account">ID recharge</string>
   <string name="detail_recharge_amount">Montant</string>
   <string name="detail_recharge_method">Méthode</string>
-  <string name="detail_recharge_order">Top-up Order No:</string>
+  <string name="detail_recharge_order">Commande No :</string>
+ <!-- à traduire : date ?
   <string name="detail_recharge_time">Time</string>
+ -->
   <string name="detail_recharge_title">Historique de recharges</string>
+ <!-- à traduire : 
   <string name="scan_prompt_number">Scan %1$s prepaid card number</string>
   <string name="scan_prompt_password">Scan %1$s prepaid card password</string>
   <string name="scan_prompt_voucher">Scan MiCredit password</string>
+ -->
  </resources>

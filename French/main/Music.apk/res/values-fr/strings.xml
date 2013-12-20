@@ -290,15 +290,12 @@
   <string name="find_ktv">Découvrir KTV</string>
   <string name="high_quality">Haute qualité</string>
   <string name="i_know">OK</string>
-  <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
-  <string name="ktv_alert_title">Only supported devices can add songs</string>
+  <string name="ktv_alert_title">Uniquement les appareils supportés peuvent ajouter des chansons</string>
   <string name="ktv_and_room">%1$s %2$s</string>
-  <string name="ktv_connected_alert_message">The songs you select will be added to the playlist named My KTV</string>
   <string name="ktv_connected_alert_titel">Connecté à %1$s</string>
   <string name="ktv_disconnect_alert_titel">Se déconnecter de %1$s ?</string>
   <string name="ktv_song_vod_fail">Impossible d\'ajouter %1$s</string>
   <string name="ktv_song_vod_success">%1$s ajouté</string>
-  <string name="ktv_unbind_message">"Failed to connect with KTV console. Make sure you're scanning the correct QR code."</string>
   <string name="login">Connexion</string>
   <string name="login_first">Veuillez vous connecter à votre compte Xiaomi en premier.</string>
   <string name="normal_quality">Qualité normale</string>
@@ -309,10 +306,9 @@
   <string name="playlist_my_ktv">Mon KTV</string>
   <string name="request_fail">Requête échouée !</string>
   <string name="requesting">Requête…</string>
-  <string name="scan_barcode_to_connect">"Align the KTV console's QR code in the frame to scan"</string>
   <string name="server_error">Une erreur s\'est produite coté serveur !</string>
   <string name="synchronize_guide_toast">Pour activer la synchronisation, aller à Paramètres &gt; Sync playlists</string>
-  <string name="synchronize_to_baidu_cloud">Backup online songs in your playlists using Baidu Cloud</string>
+  <string name="synchronize_to_baidu_cloud">Sauvegardez des chansons en ligne dans vos playlists en utilisant Baidu Cloud</string>
   <string name="track_bit_rate_hd">Haut</string>
   <string name="track_bit_rate_standard">Normal</string>
   <string name="track_bit_rate_uhd">Très haut</string>
@@ -324,4 +320,10 @@
   <string name="vip_recommend_summary">Écoutez ou téléchargez les musiques de vos artistes préférés à 320 kbps depuis Baidu Music.</string>
   <string name="vip_recommend_title">Musique de qualité élevée</string>
   <string name="where_is_barcode">Où est le code QR ?</string>
+ <!-- à traduire : 
+  <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
+  <string name="ktv_connected_alert_message">The songs you select will be added to the playlist named My KTV</string>
+  <string name="ktv_unbind_message">"Failed to connect with KTV console. Make sure you're scanning the correct QR code."</string>
+  <string name="scan_barcode_to_connect">"Align the KTV console's QR code in the frame to scan"</string>
+ -->
 </resources>
