@@ -285,7 +285,7 @@
   <string name="not_login">Connexion</string>
   <string name="choose_stream_quality">Sélectionner la qualité du flux</string>
   <string name="choose_download_quality">Sélectionner la qualité du téléchargement</string>
-  <string name="disconnect">Déconnexion/string>
+  <string name="disconnect">Déconnexion</string>
   <string name="download_completed">Téléchargé</string>
   <string name="find_ktv">Découvrir KTV</string>
   <string name="high_quality">Haute qualité</string>
