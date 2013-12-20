@@ -511,4 +511,8 @@
   <string name="file_not_exist_message">Fichier inexistant.</string>
   <string name="make_download_dir_fail">Impossible de créer un dossier !</string>
   <string name="new_device_tips">Nouveau périph. trouvé. Appuyer pour afficher</string>
+  <string name="confirm_delete_this_picture">Supprimer l\'image sélectionnée ?</string>
+  <string name="confirm_delete_this_video">Supprimer la vidéo sélectionnée ?</string>
+ <!-- loading_members à vérifier, chargement de la liste des membres ? -->
+  <string name="loading_members">Chargement des membres…</string>
 </resources>

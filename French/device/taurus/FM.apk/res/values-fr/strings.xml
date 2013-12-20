@@ -101,6 +101,7 @@
   <string name="preset_tune">Ajustement</string>
   <string name="presetlist_autoselect_title">Confirmer la sélection auto</string>
   <string name="radio_text_string">Ceci est un message radio dont le texte demande un défilement</string>
+  <string name="record_completed">Enregistrement terminé</string>
   <string name="record_error_file_removed">Enregistrement arrêté. Le fichier enregistré a été supprimé.</string>
   <string name="record_error_unknown">Enregistrement stoppé. Erreur inconnue pendant l\'enregistrement</string>
   <string name="record_fail">Échec d\'enregistrement</string>

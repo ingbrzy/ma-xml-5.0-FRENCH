@@ -460,5 +460,14 @@
   <string name="sp_mark_as_read_title">Tout marquer comme lu</string>
   <string name="sp_mark_as_read">Marquer tous les messages comme lu ?</string>
   <string name="sp_mark_as_read_progress">En cours…</string>
-  
+  <string name="feedback_description_hint">Please enter your feedback here</string>
+  <string name="feedback_submit">Submit</string>
+  <string name="pref_key_mx_feedback">Submit feedback</string>
+  <string name="pref_summary_mx_feedback">"Help improve MIUI!
+
+Report bugs and send feedback directly to Xiaomi."</string>
+  <string name="toast_description_required">Feedback is required to submit</string>
+  <string name="toast_feedback_finish">Your report will be sent automatically when you connect to a Wi-Fi network</string>
+  <string name="toast_feedback_max">Only 3 reports may be submitted per day</string>
+  <string name="toast_feedback_start">Sending feedback data…</string>
 </resources>

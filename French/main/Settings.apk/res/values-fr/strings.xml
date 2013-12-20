@@ -3095,8 +3095,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_failover_gprs_content">"Le Wi-Fi n'est pas disponible, essayer de ce connecter au réseau mobile ?"</string>
   <string name="change_data_conn_title">Modifier la connexion de données</string>
   <string name="change_data_conn_message">"%1$s n'est pas disponible, modifier la connexion de données par défaut pour %2$s ?"</string>
- 
- 
   <string name="accessibility_screen_magnification_enable">Gestes pour zoomer</string>
   <string name="hdmi_3dplay_settings_title">HDMI</string>
   <string name="hdmi_3dplay_control_text">Activer la 3D</string>
@@ -3423,7 +3421,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="perm_log_empty">Journal vide</string>
   <string name="perm_manage_tab_title">Permissions</string>
   <string name="perm_mian_name">Permission</string>
-  <string name="perm_su_enable_summary">Autoriser les applications à demander l \'accès ROOT</string>
+  <string name="perm_su_enable_summary">Autoriser les applications à demander l\'accès ROOT</string>
   <string name="permission_mgr">Permissions</string>
   <string name="power_autorun_apps_empty">Aucune appli démarrant automatiquement</string>
   <string name="power_autorun_control_desc">Augmenter le nombre d\'applications démarrant automatiquement peut augmenter la consommation d\'énergie de votre téléphone</string>
@@ -3552,7 +3550,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_save_low_battery_seekbar_title">Basculer automatiquement lorsque le niveau de charge est inférieur à : %1$d%%</string>
   <string name="power_save_low_battery_title">Basculement automatique</string>
   <string name="power_save_on_time_auto_save_title">Planification</string>
-  <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Fin</string>
   <string name="power_save_on_time_end_time_title">%1$d : %2$d</string>
   <string name="power_save_on_time_option_summary">À la fin de ce délai l\'appareil reviendra au profil le plus récemment utilisé</string>
@@ -3567,9 +3564,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_usage_sort_desc">Trier par consommation d\'énergie</string>
   <string name="power_usage_sort_title">Voir la consommation d\'énergie</string>
   <string name="power_used_hours">h</string>
-  <string name="power_used_hours_test">8</string>
   <string name="power_used_mins">min</string>
-  <string name="power_used_mins_test">23</string>
   <string name="power_used_prefix">Énergie consommée</string>
   <string name="process_list_empty_hints">Aucun processus en cache.</string>
   <string name="process_manage_title">%1$d processus stoppé(s), %2$s de mémoire vide libéré(s)</string>
@@ -3739,4 +3734,22 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="preferred_application_warning_replace">Remplacer</string>
   <string name="preferred_application_warning_title">Remplacer %s par défaut</string>
   <string name="preferred_application_warning_use_system">Utiliser %s par défaut</string>
+  <string name="button_text_quick_scan">Start scan</string>
+  <string name="deep_clean_tips_cache_content">"Some apps use cache files to download additional resources. Be careful when cleaning up these files."</string>
+  <string name="deep_clean_tips_cache_title">Cached files</string>
+  <string name="deep_clean_tips_large_file_content">Large files (10MB+) which take up space on your device.</string>
+  <string name="deep_clean_tips_large_file_title">Large files</string>
+  <string name="deep_clean_tips_residual_content">"Residual files downloaded to SD card by apps that have since been uninstalled"</string>
+  <string name="deep_clean_tips_residual_title">Residual files</string>
+  <string name="optimize_tips_ad_content">Images, text and other ad-related content via third-party providers stored on your phone.</string>
+  <string name="optimize_tips_ad_title">Ad files</string>
+  <string name="optimize_tips_apk_content">"Used to install apps on your device, however they don't do anything once you've already installed the app."</string>
+  <string name="optimize_tips_apk_title">Apps</string>
+  <string name="optimize_tips_cache_content">Temporary files created by apps and processes (e.g. thumbnails).</string>
+  <string name="optimize_tips_cache_title">Cache</string>
+  <string name="optimize_tips_residual_content">Residual content created by apps which have been uninstalled. Some files may still be required, we recommended you use the advanced cleanup feature to remove these files.</string>
+  <string name="optimize_tips_residual_title">Residual content</string>
+  <string name="perm_app_manage_empty">No monitored apps</string>
+  <string name="perm_root_manage_empty">No apps with ROOT permission</string>
+  <string name="quick_scan_done_title">Scan completed!</string>
 </resources>

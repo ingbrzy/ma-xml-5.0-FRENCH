@@ -219,6 +219,7 @@ Réessayer dans %d secondes."</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Impossible d\'envoyer un message en mode privé.</string>
   <string name="grant_permissions_account">Autoriser l\'accès au compte</string>
   <string name="grant_permissions_apps">Autoriser l\'accès aux applis</string>
+  <string name="v5_date_time_picker_dialog_title">Régler l\'heure de rappel</string>
 
   <string name="autumn_begins">Début de l\'Automne</string>
   <string name="autumn_equinox">Équinoxe d\'Automne</string>

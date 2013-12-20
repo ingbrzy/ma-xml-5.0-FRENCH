@@ -666,7 +666,6 @@ Pour ajouter un contact à la liste de favoris :
   <string name="percent_sign">%</string>
   <string name="percentage">%s %%</string>
   <string name="phoneLabelsGroup">Téléphone</string>
-  <string name="phone_info_divider">"  |  "</string>
   <string name="phone_primary">Principal</string>
   <string name="photoPickerNotFoundText">Aucune image disponible</string>
   <string name="photo_package_activity_title">Lot de photos</string>
@@ -1020,7 +1019,6 @@ Pour ajouter un contact à la liste de favoris :
   <string name="strequentList">Favoris</string>
   <string name="success_message_import_from_account">Importé avec succès</string>
   <string name="summary_kind_title">Résumé</string>
-  <string name="t9_search_guide">Saisir un numéro ou rechercher des contacts avec le T9.</string>
   <string name="take_new_photo">Prendre une autre photo</string>
   <string name="take_photo">Prendre une photo</string>
   <string name="titleJoinContactDataWith">Joindre les contacts</string>
@@ -1125,4 +1123,17 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_unknow_error">Une erreur inconnue s\'est produite.</string>
   <string name="resource_user_know">OK</string>
   <string name="to_activate_the_account">Veuillez activer votre compte Xiaomi</string>
+  <string name="login_before_recharging">Veuillez vous identifier pour pouvoir recharger.</string>
+  <string name="login_ok">Connexion</string>
+  <string name="refresh">Actualiser</string>
+  <string name="t9_search_guide">Saisir un numéro ou rechercher des contacts avec le T9.</string>
+  <string name="t9_search_guide_pinyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
+  <string name="t9_search_guide_zhuyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
+  <string name="yellowPageNavigationIconLabel">Annuaire</string>
+  <string name="yellowPageNavigationLabel">Annuaire</string>
+  <string name="yellowpage_navigation_no_content">Aucun résultat</string>
+  <string name="yellowpage_navigation_search_city_name_hint">Recherche par ville</string>
+  <string name="yellowpage_navigation_search_hint">Recherche</string>
+  <string name="yellowpage_navigation_search_offline_hint">Réseau indisponible</string>
+  <string name="yellowpage_navigation_search_select_city">Veuillez sélectionner une ville</string>
 </resources>

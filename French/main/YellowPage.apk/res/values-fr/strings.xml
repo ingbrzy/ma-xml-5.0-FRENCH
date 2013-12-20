@@ -74,7 +74,6 @@
   <string name="payment_failed_common_problems">Un problème est survenu lors du paiement.</string>
   <string name="payment_unknown_status_summary">Vérifiez votre connexion réseau et réessayez.</string>
   <string name="payment_unknown_status_title">Erreur du statut de paiement</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="provider_tag">Source de données</string>
   <string name="recharge_actual_price">Prix :</string>
   <string name="recharge_charge_range">Prix : ¥%1$s-%2$s</string>
@@ -129,4 +128,19 @@ Montant total : %3$s RMB"</string>
   <string name="express_inquiry_no_history">Pas d\'historique</string>
   <string name="express_inquiry_internal_failure">"Une erreur est survenue.
 Veuillez vérifier le numéro de suivi"</string>
+  <string name="provider">Identifié par %s</string>
+  <string name="order_empty_hint">Aucune commande</string>
+  <string name="order_id">Ref. commande : %s</string>
+  <string name="order_merchant_title">Mes commandes - %s</string>
+  <string name="order_price">%s</string>
+  <string name="order_status">%s</string>
+  <string name="navigation_search_all_cities">Toutes les villes</string>
+  <string name="navigation_search_automatically_positioned_city">Ville actuelle</string>
+  <string name="navigation_search_hot_cities">Populaire</string>
+ <!-- navigation_search_no_city_list à revoir : No City data found! -->  
+  <string name="navigation_search_no_city_list">Aucune donnée trouvée !</string>
+  <string name="navigation_search_positioning">Localisation…</string>
+  <string name="navigation_search_positioning_failed">Impossible de localiser la ville</string>
+  <string name="express_inquiry_data_owner_prefix">Infos de suivi fourni par</string>
+  <string name="express_inquiry_data_owner_suffix"/>
 </resources>
