@@ -78,7 +78,7 @@
   <string name="qm_vip_call_button_title">Autoriser les appels des exceptions</string>
   <string name="qm_vip_call_setting_title">Paramètres des exceptions</string>
   <string name="qm_vip_call_summary_contact">Tous les contacts</string>
-  <string name="qm_vip_call_summary_custom">%d exceptions</string>
+  <string name="qm_vip_call_summary_custom">%d exception(s)</string>
   <string name="qm_vip_call_summary_none">Toucher pour configurer</string>
   <string name="qm_vip_list_contact">Tous les contacts</string>
   <string name="qm_vip_list_custom">Liste d\'exceptions</string>

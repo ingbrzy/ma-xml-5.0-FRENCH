@@ -778,7 +778,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dndm_vip_call_button_title">Autoriser les appels des exceptions</string>
   <string name="dndm_vip_call_setting_title">Paramètres des exceptions</string>
   <string name="dndm_vip_call_summary_contact">Tous les contacts</string>
-  <string name="dndm_vip_call_summary_custom">%d exceptions</string>
+  <string name="dndm_vip_call_summary_custom">%d exception(s)</string>
   <string name="dndm_vip_call_summary_none">Touchez pour configurer</string>
   <string name="dndm_vip_list_contact">Tous les Contacts</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
@@ -1476,7 +1476,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="perm_su_disabled_in_stable_desc">"Donner l'autorisation ROOT aux applications tierces peut provoquer des instabilités système, la perte de données personnelles et système, ou des dommages matériels. Veuillez passer à la version de développement de MIUI pour permettre la permission ROOT."</string>
   <string name="perm_su_disabled_in_stable_download">Télécharger MIUI</string>
   <string name="perm_su_enable_content">"L'activer permettra aux applications de demander la permission ROOT.
-  Donner cette autorisation aux applications peut provoquer des instabilités système, la perte de données personnelles et système, ou des dommages matériels, veuillez être prudent. Souhaitez-vous l'activer ?"</string>
+Donner cette autorisation aux applications peut provoquer des instabilités système, la perte de données ou des dommages matériels, veuillez être prudent. Souhaitez-vous l'activer ?"</string>
   <string name="perm_su_enable_dialog">%1$s cherche à obtenir la permission ROOT système qui est désactivée par défaut pour garantir la sécurité du système. Si vous en avez besoin allez dans les paramètres du gestionnaire d\'autorisation.</string>
   <string name="perm_su_enable_title">Autorisation ROOT</string>
   <string name="perm_su_switch">Autorisation ROOT</string>
@@ -3213,7 +3213,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="button_text_security">OK</string>
   <string name="button_text_view">Afficher</string>
   <string name="cache_garbage">Fichiers cache</string>
-  <string name="cache_list_empty_hints">Aucun fichier en cache.</string>
+  <string name="cache_list_empty_hints">Aucun fichier en cache</string>
   <string name="cache_manage_title">%1$d fichier(s) en cache, %2$s d\'espace de stockage peut être libéré</string>
   <string name="cache_manager_actionbar_title">Cache système</string>
   <string name="call_log_tab_title">Journal d\'appels</string>
@@ -3340,8 +3340,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="item_virus_lib">Mettre à jour auto. les définitions de virus</string>
   <string name="just_checked">Aucun problème détecté !</string>
   <string name="last_check_canceled">Analyse recommandée : la précédente a été annulée avant la fin</string>
-  <string name="last_check_date_today">Dernière analyse : aujourd\'hui</string>
-  <string name="last_check_date_yesterday">Dernière analyse : hier</string>
+  <string name="last_check_date_today">"Dernière analyse : aujourd\'hui "</string>
+  <string name="last_check_date_yesterday">"Dernière analyse : hier "</string>
   <string name="last_check_never_checked">Analyse recommandée (1ère fois)</string>
   <string name="last_checked_date">Analyse recommandée : la dernière remonte à 30 jours</string>
   <string name="last_checked_date2">La dernière analyse remonte à %d jours</string>
@@ -3392,17 +3392,17 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="opt_virus_suggest">Nombre de fichier(s) suspect(s) : %d, vous devriez faire une analyse de virus</string>
   <string name="opt_waiting">En attente</string>
   <string name="optimize_ad_header_left">Fichier(s) pub. : %d</string>
-  <string name="optimize_ad_list_empty_content">Aucun fichier pub. trouvé.</string>
+  <string name="optimize_ad_list_empty_content">Aucun fichier pub. trouvé</string>
   <string name="optimize_apk_header_left">Fichiers apk : %d</string>
-  <string name="optimize_apk_list_empty_content">Aucun fichier apk trouvé.</string>
+  <string name="optimize_apk_list_empty_content">Aucun fichier apk trouvé</string>
   <string name="optimize_cache_header_left">Fichier(s) cache : %d</string>
-  <string name="optimize_cache_list_empty_content">Aucun fichier cache trouvé.</string>
+  <string name="optimize_cache_list_empty_content">Aucun fichier cache trouvé</string>
   <string name="optimize_done">Ok, c\'est fini !</string>
   <string name="optimize_large_file_header_left">Fichier(s) volumineux : %d</string>
-  <string name="optimize_large_file_list_empty_content">Aucun fichier volumineux trouvé.</string>
+  <string name="optimize_large_file_list_empty_content">Aucun fichier volumineux trouvé</string>
   <string name="optimize_now">Démarrer</string>
   <string name="optimize_residual_header_left">Résidus : %d</string>
-  <string name="optimize_residual_list_empty_content">Aucun résidu trouvé.</string>
+  <string name="optimize_residual_list_empty_content">Aucun résidu trouvé</string>
   <string name="optimize_tips_ad">iconLes fichiers publicitaires sont des images, texte et d\'autres données liées aux publicités que les fournisseurs de services tiers stockent sur votre téléphone.</string>
   <string name="optimize_tips_apk">iconLes fichiers .apk sont utilisés pour installer des applications sur votre appareil, mais ils ne sont d\aucune utilité, sauf à occuper de l\'espace, une fois que vous avez installé l\'application.</string>
   <string name="optimize_tips_cache">iconLes fichiers cache sont générés par des processus qui les nécessitent seulement temporairement (ex : miniatures d\'images, etc.).</string>
@@ -3534,8 +3534,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_mode_touch_with_vibration">Vibrer au toucher</string>
   <string name="power_mode_vibration">Vibreur</string>
   <string name="power_mode_vibration_no">Désactivé</string>
-  <string name="power_mode_vibration_silence">Vibrer quand la sonnerie est silencieuse</string>
-  <string name="power_mode_vibration_yes">Activé</string>
+  <string name="power_mode_vibration_silence">Quand la sonnerie est silencieuse</string>
+  <string name="power_mode_vibration_yes">Toujours vibrer</string>
   <string name="power_mode_wifi">Wi-Fi</string>
   <string name="power_perm_logs_empty">Aucun journal</string>
   <string name="power_save_choose_mode">Choisir un profil</string>
@@ -3566,7 +3566,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_used_hours">h</string>
   <string name="power_used_mins">min</string>
   <string name="power_used_prefix">Énergie consommée</string>
-  <string name="process_list_empty_hints">Aucun processus en cache.</string>
+  <string name="process_list_empty_hints">Aucun processus en cache</string>
   <string name="process_manage_title">%1$d processus stoppé(s), %2$s de mémoire vide libéré(s)</string>
   <string name="process_manager_actionbar_title">Mémoire utilisée</string>
   <string name="protection_adb">Débogage USB</string>
@@ -3678,7 +3678,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_lib_update_success">Mise à jour effectuée !</string>
   <string name="virus_scan_lib_update_time">Dernière MàJ : %s</string>
   <string name="virus_scan_link_wifi_to_update_lib">Mettre à jour automatiquement</string>
-  <string name="virus_scan_list_empty_content">Aucun élément suspect détecté.</string>
+  <string name="virus_scan_list_empty_content">Aucun élément suspect détecté</string>
   <string name="virus_scan_list_item_risk">Risque</string>
   <string name="virus_scan_list_item_virus">Virus</string>
   <string name="virus_scan_list_loading_hits">Analyse…</string>
@@ -3690,9 +3690,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_package_label_unknown">inconnu</string>
   <string name="virus_scan_parpare">Démarrage…</string>
   <string name="virus_scan_risk_button_name">Risque</string>
-  <string name="virus_scan_risk_list_empty">Aucun risque détecté.</string>
+  <string name="virus_scan_risk_list_empty">Aucun risque détecté</string>
   <string name="virus_scan_risk_title">%d appli(s) suspecte(s) détectée(s)</string>
-  <string name="virus_scan_safe">Vider</string>
+  <string name="virus_scan_safe">Sûr</string>
   <string name="virus_scan_settings">Paramètres</string>
   <string name="virus_scan_settings_title">Paramètres des définitions de virus</string>
   <string name="virus_scan_start">Analyse antivirus</string>
@@ -3702,7 +3702,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_update_lib">Mettre à jour auto. les définitions de virus</string>
   <string name="virus_scan_update_now">Mettre à jour maintenant</string>
   <string name="virus_scan_use_cloud">Définitions de virus en ligne</string>
-  <string name="virus_scan_virus_list_empty">Aucun virus détecté.</string>
+  <string name="virus_scan_virus_list_empty">Aucun virus détecté</string>
   <string name="virus_scan_virus_title">%d virus détecté(s) !</string>
   <string name="virus_scan_viruslib_version">Définitions de virus version : %s</string>
   <string name="virus_scanner_lib_update_success">Les définitions de virus ont été mis à jour automatiquement.</string>

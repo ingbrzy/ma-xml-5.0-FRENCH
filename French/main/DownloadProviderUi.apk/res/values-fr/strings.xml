@@ -55,11 +55,11 @@
   <string name="open_download">Ouvrir</string>
   <string name="pause_download">Pause</string>
   <string name="pause_download_when_wifi_disconnected">Télécharger uniquement via Wi-Fi</string>
-  <string name="paused_by_app">Mis en pause manuellement</string>
-  <string name="paused_queued_for_wifi">En attente d\'une connexion Wi-Fi</string>
+  <string name="paused_by_app">Mis en pause</string>
+  <string name="paused_queued_for_wifi">Attente connexion Wi-Fi</string>
   <string name="paused_unknown">Erreur inconnue</string>
-  <string name="paused_waiting_for_network">En attente d\'une connexion réseau</string>
-  <string name="paused_waiting_to_retry">En attente d\'une nouvelle tentative</string>
+  <string name="paused_waiting_for_network">Attente connexion réseau</string>
+  <string name="paused_waiting_to_retry">Attente nouvelle tentative</string>
   <string name="prefDefault_max_bytes_limit">52428800</string>
   <string name="pref_dialog_title_max_bytes_limit">Limite de taille de fichier</string>
  <!-- pref_download_settings_title à revoir ? text original : Data usage -->
