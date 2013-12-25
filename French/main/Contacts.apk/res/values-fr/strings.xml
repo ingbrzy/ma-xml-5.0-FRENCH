@@ -107,6 +107,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="callrecordview_menu_delete_confirm">Confirmer %s ?</string>
   <string name="callrecordview_menu_delete_missed">Effacer les appels manqués du journal d\'appels</string>
   <string name="callrecordview_menu_delete_new">Effacer les nouveaux contacts du journal d\'appels</string>
+  <string name="callrecordview_menu_delete_sim">Effacer %s entrées du journal d\'appels</string>
   <string name="callrecordview_menu_delete_one">Retirer du journal d\'appels</string>
   <string name="callrecordview_menu_delete_stranger">Effacer les numéros inconnus du journal d\'appels</string>
   <string name="callrecordview_menu_edit_call_note">Éditer note d\'appel</string>
@@ -118,6 +119,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="callrecordview_menu_show_called">Afficher les appels sortants</string>
   <string name="callrecordview_menu_show_missed">Afficher les appels manqués</string>
   <string name="callrecordview_menu_show_new">Nouveaux contacts</string>
+  <string name="callrecordview_menu_show_sim">%s appels</string>
   <string name="callrecordview_menu_show_stranger">Afficher les appels inconnus</string>
   <string name="callrecordview_menu_show_title">Filtre du journal d\'appels</string>
   <string name="cancel_confirmation_dialog_message">Voulez-vous annuler les modifications ?</string>
@@ -351,6 +353,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
+  <string name="export_to_sim2">Exporter vers la carte SIM 2</string>
   <string name="export_to_sim_title">Export vers la carte SIM…</string>
   <string name="export_vcard_description">Exporter au format vCard (carte de visite) vers la carte SD</string>
   <string name="exporting_contact_failed_message">"Échec de l'exportation des données des contacts. (Raison : %s)"</string>
@@ -427,6 +430,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="import_from_other_phone">Importer à partir d\'un autre téléphone</string>
   <string name="import_from_sdcard">Importer depuis la carte SD</string>
   <string name="import_from_sim">Importer depuis la carte SIM</string>
+  <string name="import_from_sim2">Importer depuis la carte SIM 2</string>
   <string name="import_multiple_vcard_string">Importer plusieurs fichiers de carte de visite</string>
   <string name="import_name">nom</string>
   <string name="import_one_vcard_string">Importer le fichier de carte de visite</string>
@@ -508,6 +512,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="menu_call">Appeler le contact</string>
   <string name="menu_callNumber">Appel de %s</string>
   <string name="menu_call_ip_number">Composer appel IP (compose %s)</string>
+  <string name="menu_dial_ip_number">Composer appel IP</string>
   <string name="menu_clear_frequents">Effacer les contacts fréquents</string>
   <string name="menu_contacts_filter">Contacts à afficher</string>
   <string name="menu_copy">Copier</string>
@@ -630,6 +635,7 @@ Pour ajouter un contact à la liste de favoris :
 • Sauvegardez vos contacts en toute sécurité."</string>
   <string name="no_contact_details">Aucune autre information n\'est disponible pour ce contact.</string>
   <string name="no_contact_in_other_phone">Il n\'y a pas de contact dans votre téléphone</string>
+  <string name="no_connection_dialog_title">Échec de la connexion Bluetooth</string>
   <string name="no_contacts_dialog_message">Il n\'y a personne dans vos contacts. Ils sont peut-être stockés dans la carte SIM, veuillez importer les informations de la carte SIM dans le téléphone.</string>
   <string name="no_contacts_dialog_title">Aucun contact trouvé</string>
   <string name="no_contacts_selected">Aucun contact sélectionné</string>
@@ -1091,7 +1097,6 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_account_switch">Changer de compte</string>
   <string name="resource_comment_loading_list">Chargement des commentaires…</string>
   <string name="resource_comment_score_count">%1$s utilisateurs</string>
- <!-- resource_exchange & resource_exchange_window_title à revoir ? -->
   <string name="resource_exchange">Activer un code</string>
   <string name="resource_exchange_confirm">Confirmer</string>
   <string name="resource_exchange_empty_format">Veuillez saisir un code !</string>
@@ -1141,4 +1146,24 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="yellowpage_navigation_search_result_service_error">Service actuellement indisponible</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Une erreur inconnue s\'est produite !</string>
   <string name="yellowpage_navigation_search_select_city">Veuillez sélectionner une ville</string>
+  <string name="imei_invalid">IMEI non valide</string>
+  <string name="has_double_phone_number">Impossible de sauvegarder 2 fois le même type de numéro, veuillez vérifier.</string>
+  <string name="phone_book_busy">Le carnet d\'adresses est occupé, veuillez réessayez plus tard.</string>
+  <string name="sim_invalid">Impossible de sauver un contact quand la carte SIM n\'est pas valide.</string>
+  <string name="cannot_insert_null_number">Impossible de sauvegarder le contact, le nom et le numéro sont vides.</string>
+  <string name="AirPlane_mode_on">Impossible de sauvegarder un contact quand le mode avion est actif.</string>
+  <string name="FDNEnabled">Impossible de sauvegarder un contact quand la restriction d\'appels est active.</string>
+  <string name="sim_invalid_number">Impossible de sauvegarder un numéro non valide.</string>
+  <string name="email_invalid">Impossible de sauvegarder un email non valide.</string>
+  <string name="email_2g_invalid">Impossible de sauvegarder un email sur la SIM 2G, sélectionnez la carte SIM 3G.</string>
+  <string name="sim_invalid_fix_number">Impossible de sauvegarder un numéro fixe non valide.</string>
+  <string name="AirPlane_mode_on_edit">Impossible d\'éditer un contact quand le mode avion est actif.</string>
+  <string name="msg_loading_sim_contacts_toast">Chargement des contacts SIM en arrière-plan, veuillez patienter.</string>
+  <string name="fix_number_too_long">Numéro fixe trop long.</string>
+  <string name="name_too_long">Nom trop long.</string>
+  <string name="storage_full">Espace de stockage plein.</string>
+  <string name="number_too_long">Numéro trop long.</string>
+  <string name="generic_failure">Échec général.</string>
+  <string name="email_too_long">Email trop long.</string>
+  <string name="error_save_usim_contact_email_lost">Impossible de sauvegarder l\'email car le stockage USIM pour les emails est complet.</string>
 </resources>
