@@ -198,7 +198,9 @@
   <string name="event_info_where">"Où : "</string>
   <string name="event_show_more">Afficher</string>
   <string name="lunar_date">Date lunaire</string>
+ <!-- show_all_lunar à revoir -->
   <string name="show_all_lunar">Afficher lunaire</string>
+  <string name="show_almanac">Afficher l\'almanach</string>
   <string name="time_zone">Fuseau horaire</string>
   <string name="widget_events">Événements à venir</string>
   <string name="widget_no_events">Aucun événement à venir</string>

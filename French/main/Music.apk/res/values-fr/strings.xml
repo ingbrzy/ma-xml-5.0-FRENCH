@@ -301,6 +301,7 @@
   <string name="normal_quality">Qualité normale</string>
   <string name="pay_service_guide_dowload">Qualité du téléchargement</string>
   <string name="pay_service_guide_listen">Qualité du flux</string>
+  <string name="pay_service_guide_new">Haute qualité maintenant disponible</string>
   <string name="payment_fail">Paiement échoué !</string>
   <string name="payment_success">Paiement effectué !</string>
   <string name="playlist_my_ktv">Mon KTV</string>

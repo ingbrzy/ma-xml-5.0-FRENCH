@@ -201,6 +201,9 @@
   <string name="flip">Retourner</string>
   <string name="flip_tooltip">Faire glisser la photo pour la retourner</string>
   <string name="focal_length">Longueur focale</string>
+ <!-- à traduire :
+  <string name="folder_holder_file">File placeholder</string>
+ -->
   <string name="frame_black">Noir</string>
   <string name="frame_button">Cadre</string>
   <string name="frame_classic">Ancien</string>

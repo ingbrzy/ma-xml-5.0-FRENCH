@@ -1037,6 +1037,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="today">Aujourd\'hui</string>
   <string name="type_incoming">Appel entrant</string>
   <string name="type_missed">Appel manqué</string>
+  <string name="type_mx_msg">Messagerie Cloud</string>
   <string name="type_outgoing">Appel sortant</string>
   <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Messagerie vocale</string>
@@ -1135,5 +1136,9 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="yellowpage_navigation_search_city_name_hint">Recherche par ville</string>
   <string name="yellowpage_navigation_search_hint">Recherche</string>
   <string name="yellowpage_navigation_search_offline_hint">Réseau indisponible</string>
+  <string name="yellowpage_navigation_search_result_network_error">Impossible de se connecter au réseau</string>
+  <string name="yellowpage_navigation_search_result_no_more">Aucun autre résultat</string>
+  <string name="yellowpage_navigation_search_result_service_error">Service actuellement indisponible</string>
+  <string name="yellowpage_navigation_search_result_unknown_error">Une erreur inconnue s\'est produite !</string>
   <string name="yellowpage_navigation_search_select_city">Veuillez sélectionner une ville</string>
 </resources>

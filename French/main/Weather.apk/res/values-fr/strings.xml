@@ -118,4 +118,7 @@ Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
 <string name="tip_weather_info_title_1">%1$s une différence de température de %2$d dégrées est prévue</string>
 <string name="tip_weather_info_content_1">Habillez-vous chaudement !</string>
 <string name="tip_weather_info_title_2">%1$s aujourd\'hui la température estimée sera de %2$s</string>
+<string name="menu_more">Détails</string>
+<string name="menu_add">Ajouter une ville</string>
+<string name="act_weather_cycle_link_china">Chinese Weather Network</string>
 </resources>

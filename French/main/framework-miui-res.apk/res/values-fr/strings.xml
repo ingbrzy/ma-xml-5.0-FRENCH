@@ -220,6 +220,8 @@ Réessayer dans %d secondes."</string>
   <string name="grant_permissions_account">Autoriser l\'accès au compte</string>
   <string name="grant_permissions_apps">Autoriser l\'accès aux applis</string>
   <string name="v5_date_time_picker_dialog_title">Régler l\'heure de rappel</string>
+  <string name="text_copied">Texte copié vers le presse-papier</string>
+  <string name="text_cut">Texte coupé</string>
 
   <string name="autumn_begins">Début de l\'Automne</string>
   <string name="autumn_equinox">Équinoxe d\'Automne</string>
