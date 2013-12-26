@@ -64,14 +64,14 @@
   <string name="autofill_profile_successful_save">Texte de saisie automatique enregistré.</string>
   <string name="autofill_setup_dialog_message">Le navigateur peut remplir automatiquement les formulaires Web similaires à celui-ci. Voulez-vous créer un texte de saisie automatique ?</string>
   <string name="autofill_setup_dialog_negative_toast">Vous pourrez définir un texte de saisie automatique en accédant à Navigateur &gt; Paramètres &gt; Général.</string>
-  <string name="autologin_bar_error">"Connexion impossible."</string>
+  <string name="autologin_bar_error">Connexion impossible.</string>
   <string name="autologin_bar_hide_text">Masquer</string>
   <string name="autologin_bar_login_text">Connexion</string>
   <string name="autologin_bar_text">Se connecter à l\'aide du compte</string>
   <string name="back">Retour</string>
   <string name="block">Bloquer</string>
   <string name="bookmark_add_to">Ajouter à</string>
-  <string name="bookmark_cannot_save_url">"Impossible d'ajouter cette URL aux favoris."</string>
+  <string name="bookmark_cannot_save_url">Impossible d'ajouter cette URL aux favoris.</string>
   <string name="bookmark_folder_needs_title">Le dossier doit être nommé</string>
   <string name="bookmark_list_view">Liste</string>
   <string name="bookmark_needs_title">Vous devez attribuer un nom à votre favori.</string>
@@ -83,7 +83,7 @@
   <string name="bookmark_this_page_to_readmodelist">Ajouter cette page à la liste de lecture des favoris</string>
   <string name="bookmark_thumbnail_view">Vignettes</string>
   <string name="bookmark_title">Nom du favori</string>
-  <string name="bookmark_to_readmodelist_not_saved">"Impossible d'enregistrer la liste de lecture des favoris."</string>
+  <string name="bookmark_to_readmodelist_not_saved">Impossible d'enregistrer la liste de lecture des favoris.</string>
   <string name="bookmark_to_readmodelist_saved">Enregistré dans liste de lecture des favoris.</string>
   <string name="bookmark_url">URL</string>
   <string name="bookmark_url_not_valid">"Cette URL n'est pas valide."</string>
@@ -348,7 +348,8 @@
   <string name="pref_content_auto_light_mode">Luminosité auto</string>
   <string name="pref_content_autofit">Ajust. auto des pages</string>
   <string name="pref_content_autofit_summary">Configurer les pages Web pour qu\'elles s\'ajustent à l\'écran</string>
-  <string name="pref_content_block_popups">Bloquer les pop-up</string>
+  <string name="pref_content_block_float_popups">Bloquer les pop-ups flottants</string>
+  <string name="pref_content_block_popups">Bloquer les pop-ups</string>
   <string name="pref_content_fontsize_setting">Paramètres de police</string>
   <string name="pref_content_homepage">Définir la page d\'accueil</string>
   <string name="pref_content_javascript">Activer JavaScript</string>
@@ -379,7 +380,7 @@
   <string name="pref_development_cpu_upload_path">Activer le chemin de téléchargement du Cpu</string>
   <string name="pref_development_error_console">Afficher la console JavaScript</string>
   <string name="pref_development_hardware_accel">Activer le rendu OpenGL</string>
-  <string name="pref_development_hardware_accel_skia">Activer HW Accelerated Skia</string>
+  <string name="pref_development_hardware_accel_skia">Activer l\'accél. matérielle Skia</string>
   <string name="pref_development_nav_dump">Activer nav cache dump</string>
   <string name="pref_development_normal_rendering">Rendu normal</string>
   <string name="pref_development_reset_prelogin">Réinitialiser préconnexion</string>

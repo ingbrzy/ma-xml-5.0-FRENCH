@@ -42,7 +42,7 @@
     <string name="dlg_rds_settings_alternative_frequency">Fréquence alternative</string>
     <string name="sound_mode">Mode audio</string>
     <string name="toast_in_call">"Impossible d'activer la radio FM lorsqu'un appel est en cours."</string>
-    <string name="empty_list">Pas de stations</string>
+    <string name="empty_list">Aucune station</string>
     <string name="fm_recorder_name">Enregistreur FM</string>
     <string name="toast_fm_not_stated">Radio non indiquée</string>
     <string name="toast_fm_recorder_internal_error">Erreur lors de l\'enregistrement radio !</string>
@@ -102,8 +102,9 @@
     <string name="toast_sleep_mode">Arrêter FM dans %s</string>
     <string name="toast_sleep_mode_exit">Mode veille annulé.</string>
     <string name="alert_message_delete_station">Êtes-vous sûr de vouloir supprimer la station sélectionnée ?</string>
+    <string name="toast_recorder_file_removed_error">Enregistrement stoppé ! Le fichier d\'enregistrement a été supprimé</string>
     <!-- à traduire :
     <string name="FMR_Force_Stereomono_text">Force Set:</string>
-    <string name="FMR_Freq_tune">Tune</string>
-    -->
+	-->
+    <string name="FMR_Freq_tune">Régler</string>
 </resources>

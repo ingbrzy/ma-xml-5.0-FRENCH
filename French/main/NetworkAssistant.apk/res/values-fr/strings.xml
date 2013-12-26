@@ -140,6 +140,7 @@
   <string name="text_day"></string>
   <string name="text_done">OK</string>
   <string name="text_save">Enregistrer</string>
+  <string name="traffic_bought">Trafic acheté</string>
   <string name="traffic_none">Aucun</string>
   <string name="traffic_remain">Restant</string>
   <string name="traffic_settings_error">Il y a une erreur dans vos paramètres de trafic mensuel. Selon vos paramètres et votre opérateur, votre trafic mensuel est de : %1$s et le trafic restant est de : %2$s.</string>

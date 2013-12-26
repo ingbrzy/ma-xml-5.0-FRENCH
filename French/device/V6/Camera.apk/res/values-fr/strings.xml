@@ -452,7 +452,7 @@
   <string name="visit_cloud_album">Visiter l\'album cloud</string>
   <string name="wait">Veuillez patienter…</string>
   <string name="web_url_apk_warning">Le code QR sélectionné contient une application qui peut contenir un risque, veuillez plutôt rechercher via le PlayStore</string>
-  <string name="web_url_warning">Le site code QR Internet peut entraîner un risque, le navigateur MIUI va scanner le code QR en toute sécurité pour vous.</string>
+  <string name="web_url_warning">Le site web du code QR peut entraîner un risque, le navigateur MIUI va scanner le code QR pour vous.</string>
   <string name="website_details">"Détails du site web : "</string>
   <string name="weixin_details">"Détails Weixin : "</string>
   <string name="white_balance">Balance des blancs</string>
@@ -466,4 +466,16 @@
   <string name="wifi_security">Sécurité :</string>
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
+  <string name="cannot_connect_camera">Impossible de se connecter à l\'appareil photo.</string>
+  <string name="access_phone_fail_no_product">Impossible d \'accéder au stockage interne.</string>
+  <string name="access_sd_fail_no_product">Impossible d\'accéder à la carte SD.</string>
+  <string name="pref_video_continuous_focus">Focus continu</string>
+  <string name="pref_video_continuous_focus_entry_off">Désactivé</string>
+  <string name="pref_video_continuous_focus_entry_on">Activé</string>
+  <string name="pref_camera_coloreffect_title_simple_mode">Filtre</string>
+  <string name="find_wechat_qrcode">Trouver un code QR WeChat</string>
+  <string name="wechat_details">Détails WeChat :</string>
+  <string name="pref_scan_qrcode_title">Scanner un code QR</string>
+  <string name="pref_scan_qrcode_entry_off">Désactivé</string>
+  <string name="pref_scan_qrcode_entry_on">Activé</string>
 </resources>

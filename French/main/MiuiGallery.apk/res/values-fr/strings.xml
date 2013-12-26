@@ -518,4 +518,10 @@
   <string name="confirm_delete_this_video">Supprimer la vidéo sélectionnée ?</string>
  <!-- loading_members à vérifier, chargement de la liste des membres ? -->
   <string name="loading_members">Chargement des membres…</string>
+  <string name="confirm_download_video_message">Téléchargement requis ! Le téléchargement démarrera lorsqu\'une connexion Wi-Fi sera disponible.</string>
+  <string name="confirm_download_video_title">Télécharger la vidéo</string>
+  <string name="image_download_item_title">Télécharger l\'image (%s)</string>
+  <string name="loading_image">Téléchargement de l\'image…</string>
+  <string name="loading_suspend">Téléchargement mis en attente : il redémarrera lorsqu\'une connexion Wi-Fi sera disponible.</string>
+  <string name="loading_video">Téléchargement de la vidéo…</string>
 </resources>
