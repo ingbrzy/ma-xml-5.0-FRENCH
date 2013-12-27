@@ -154,7 +154,7 @@
   <string name="no_encrypt_password">Aucun chiffrement de mot de passe</string>
   <string name="no_network">Erreur réseau\nVérifiez la connexion du réseau et réessayez</string>
   <string name="note_title">Notes</string>
-  <string name="nothing_searched">Aucun résultat trouvé</string>
+  <string name="nothing_searched">Aucun résultat</string>
   <string name="progress_backup_hint">"Sauvegarde : "</string>
   <string name="progress_restore_hint">"Restauration : "</string>
   <string name="prompt_reading">Lecture…</string>

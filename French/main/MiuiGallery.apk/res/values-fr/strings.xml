@@ -112,7 +112,7 @@
   <string name="cloudfolder_name_reserved">Le nom du dossier est réservé.</string>
   <string name="comfirm_delete_current_album">Supprimer l\'album actuel ?</string>
   <string name="confirm">OK</string>
-  <string name="confirm_delete">Confirmer la suppression de %s ?</string>
+  <string name="confirm_delete">Supprimer %s élément(s) ?</string>
   <string name="confirm_delete_album" formatted="false">Êtes-vous sûr de vouloir supprimer %s albums (contenant %s éléments) ?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s image(s) dans %s album(s), êtes-vous sûr de vouloir les supprimer ?</string>
   <string name="confirm_delete_folders_and_pictures">Êtes-vous sûr de vouloir supprimer %s ?</string>
@@ -225,7 +225,7 @@
   <string name="has_invalid_recipient">Destinataire(s) non valide(s) : %1$s</string>
   <string name="height">Hauteur</string>
   <string name="highlight">Reflets</string>
-  <string name="home_my_captured_items">photo(s) au total</string>
+  <string name="home_my_captured_items">Photo(s) capturée(s)</string>
   <string name="how_many_pics">%d photo(s)</string>
   <string name="how_many_sub_folders">%d dossier(s)</string>
   <string name="how_many_videos">%d vidéo(s)</string>
@@ -461,7 +461,7 @@
   <string name="tab_wallpaper_text">Accueil</string>
   <string name="tags">Tags</string>
   <string name="temperature">Chaud</string>
-  <string name="tencent_mobile_qq_img_save">QQ2012</string>
+  <string name="tencent_mobile_qq_img_save">QQ 2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
   <string name="there_is_no_image">Aucune image.</string>
@@ -470,7 +470,7 @@
   <string name="times">Heures</string>
   <string name="tint">Coloration</string>
   <string name="title">Titre</string>
-  <string name="to_count">%d total</string>
+  <string name="to_count">%d au total</string>
   <string name="too_many_recipients">Le message a trop de destinataires (%1$s), le nombre total autorisé est de %2$s.</string>
   <string name="try_to_send">Tentative d\'envoi</string>
   <string name="turn_left">Faire pivoter à gauche</string>

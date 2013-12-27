@@ -3753,4 +3753,5 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="perm_app_manage_empty">Aucune appli surveillée</string>
   <string name="perm_root_manage_empty">Aucune appli avec la permission ROOT</string>
   <string name="quick_scan_done_title">Analyse terminée !</string>
+  <string name="virus_scan_is_cloud_scanning">Cloud scanning…</string>
 </resources>

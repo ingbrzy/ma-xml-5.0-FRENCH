@@ -433,7 +433,7 @@
   <string name="spaceIsLow_content">La mémoire de stockage USB est pleine. Définissez la qualité sur une valeur plus basse ou supprimez des images ou d\'autres types de fichiers.</string>
   <string name="success_message_import_from_account">Importé avec succès</string>
   <string name="tags">Tags</string>
-  <string name="tap_to_exposure">Appuyez pour passer en exposition manuelle.</string>
+  <string name="tap_to_exposure">Appuyez pour ajuster l\'exposition manuellement</string>
   <string name="tap_to_focus">Appuyez pour faire le focus</string>
   <string name="time">Heure</string>
   <string name="time_lapse_error">Taille de vidéo non valide pour l\'enregistrement accéléré.</string>

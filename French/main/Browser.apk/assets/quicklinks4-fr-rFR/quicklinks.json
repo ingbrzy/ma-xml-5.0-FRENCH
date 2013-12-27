@@ -96,7 +96,6 @@
             "movable": true,
             "position": 7
         },
-
         {
             "title":"CNN",
             "url":"http://www.cnn.com/",
@@ -146,7 +145,6 @@
             "movable": true,
             "position": 11
         },
-
         {
             "title":"Weather Channel",
             "url":"http://fr.weather.com/",

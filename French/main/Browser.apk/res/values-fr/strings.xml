@@ -638,4 +638,8 @@
   <string name="webstorage_origin_summary_mb_stored">Mo stockés sur votre téléphone</string>
   <string name="webstorage_outofspace_notification_text">Appuyez pour libérer de l\'espace.</string>
   <string name="webstorage_outofspace_notification_title">Espace de stockage du navigateur saturé</string>
+  <string name="miui_quicksearch_enable_pref_summary">Activer la Recherche rapide</string>
+  <string name="miui_quicksearch_enable_pref_title">Notifications Recherche rapide</string>
+  <string name="miui_search_notification_message">Ouvrir la Recherche rapide</string>
+  <string name="miui_search_notification_title">Recherche rapide</string>
 </resources>

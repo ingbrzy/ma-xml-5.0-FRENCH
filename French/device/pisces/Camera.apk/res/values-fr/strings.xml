@@ -469,15 +469,18 @@
   <string name="pref_camera_multilevel_entry_high">Plus que normal</string>
   <string name="pref_camera_multilevel_entry_higher">Élevé</string>
   <string name="pref_camera_multilevel_entry_highest">Le plus élevé</string>
-  <!-- à traduire : c'est pas "Mesurer" je pense... 
-  <string name="pref_camera_whitebalance_entry_measure">Measure</string>
-  -->
-  <!-- à traduire ou non ?...
-  <string name="accessibility_flash_mode_button">FlashButton</string>
-  <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
-  <string name="accessibility_scroll_button_slider">Camera-Video-Switcher</string>
-  <string name="accessibility_show_setting_panel_button">SettingButton</string>
-  -->
+  <string name="tap_to_exposure">Appuyez pour ajuster l\'exposition manuellement</string>
+  <string name="pref_camera_whitebalance_entry_measure">Mesurer</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">>Basculer entre la l\'appareil photo et la vidéo (actuellement sur %s)</string>
+  <string name="accessibility_camera_flashmode">Toujours utiliser le flash</string>
+  <string name="accessibility_camera_auto_flashmode">Flash automatique</string>
+  <string name="accessibility_camera_flash_closemode">Pas de Flash</string>
+  <string name="accessibility_more_ptions_closed">Plus d\'options désactivées</string>
+  <string name="accessibility_more_ptions_opened">Plus d\'options activées</string>
+  <string name="accessibility_open_more_ptions">Activer plus d\'options</string>
+  <string name="accessibility_close_more_ptions">Désactiver plus d\'options</string>
+  <string name="accessibility_skin_beautify_closed">Rehausseur de teint peau désactivé</string>
+  <string name="accessibility_skin_beautify_opened">Rehausseur de teint peau activé</string>
   <string name="wechat_details">"Weixin : "</string>
   <string name="pref_camera_scenemode_entry_backlight_portrait">Portrait rétro-éclairé</string>
   <string name="pref_camera_auto_scene_title">Reconnaitre scène auto.</string>
