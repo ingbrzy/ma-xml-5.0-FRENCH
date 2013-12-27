@@ -71,7 +71,7 @@
   <string name="back">Retour</string>
   <string name="block">Bloquer</string>
   <string name="bookmark_add_to">Ajouter à</string>
-  <string name="bookmark_cannot_save_url">Impossible d'ajouter cette URL aux favoris.</string>
+  <string name="bookmark_cannot_save_url">Impossible d\'ajouter cette URL aux favoris.</string>
   <string name="bookmark_folder_needs_title">Le dossier doit être nommé</string>
   <string name="bookmark_list_view">Liste</string>
   <string name="bookmark_needs_title">Vous devez attribuer un nom à votre favori.</string>
@@ -83,7 +83,7 @@
   <string name="bookmark_this_page_to_readmodelist">Ajouter cette page à la liste de lecture des favoris</string>
   <string name="bookmark_thumbnail_view">Vignettes</string>
   <string name="bookmark_title">Nom du favori</string>
-  <string name="bookmark_to_readmodelist_not_saved">Impossible d'enregistrer la liste de lecture des favoris.</string>
+  <string name="bookmark_to_readmodelist_not_saved">Impossible d\'enregistrer la liste de lecture des favoris.</string>
   <string name="bookmark_to_readmodelist_saved">Enregistré dans liste de lecture des favoris.</string>
   <string name="bookmark_url">URL</string>
   <string name="bookmark_url_not_valid">"Cette URL n'est pas valide."</string>
