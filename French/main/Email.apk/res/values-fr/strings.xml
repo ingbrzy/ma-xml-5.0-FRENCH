@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account">Compte</string>
-  <string name="account_delete_dlg_instructions_fmt">Le compte "%s" va être supprimé de votre messagerie.</string>
+  <string name="account_delete_dlg_instructions_fmt">Le compte \"%s\" va être supprimé de votre messagerie.</string>
   <string name="account_delete_dlg_title">Supprimer le compte</string>
   <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dupliquer le compte</string>

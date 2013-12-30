@@ -1134,14 +1134,22 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="deactivate_all">Annuler tout</string>
   <string name="change_password">Changer de mot de passe d\'interdiction</string>
   <string name="call_barring_sum">Réglages d\'interdiction d\'appel vocal</string>
-  <string name="lable_disable">""Désactivé""</string>
-  <string name="lable_enable">""Activer""</string>
+  <string name="lable_disable">Désactiver</string>
+  <string name="lable_enable">Activer</string>
   <string name="old_password_label">Ancien mot de passe (4 chiffres)</string>
   <string name="new_password_label">Nouveau mot de passe (4 chiffres)</string>
-  <string name="invalid_password">Tapez un mot de passe de 4 chiffres.</string>
+  <string name="invalid_password">Veuillez saisir 4 chiffres.</string>
   <string name="confirm_password_label">Confirmer le nouveau mot de passe</string>
   <string name="mismatch_password">Les mots de passe saisis ne correspondent pas. Veuillez essayer de nouveau.</string>
   <string name="password_changed">Mot de passe modifié avec succès</string>
   <string name="enter_callbarring_password">"Entrez un mot de passe d'interdiction d'appel (4 chiffres)"</string>
   <string name="wrong_password">Erreur de mot de passe</string>
-</resources>
+  <string name="sim_slot_alert_title">Conseil carte SIM</string>
+  <string name="sim_slot_alert_message">Insérez la carte SIM %s dans la fente 1 pour profiter du réseau 3G haut-débit.</string>
+  <string name="sim_slot_alert_shutdown">Éteindre</string>
+  <string name="sim_slot_alert_cancel">Annuler</string>
+  <string name="oldman_answer_call_button_text">répondre</string>
+  <string name="oldman_reject_call_button_text">rejeter</string>
+  <string name="oldman_end_call_button_text">fin</string>
+  <string name="oldman_dialpad_button_text">compositeur</string>
+ </resources>
