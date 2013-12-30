@@ -188,4 +188,8 @@
         <item>En silencieux</item>
         <item>Jamais</item>
     </string-array>
+    <string-array name="widget_style_list">
+        <item>Arrière-plan transparent noir</item>
+        <item>Arrière-plan blanc</item>
+    </string-array>
 </resources>

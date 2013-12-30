@@ -3584,7 +3584,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="quick_scan_doing_title">Analyse…</string>
   <string name="quick_scan_list_loading_hits">Analyse…</string>
   <string name="quick_scan_result_summary">Le nettoyage commencera dans %d sec</string>
-  <string name="quick_scan_result_title">%s éléments trouvés</string>
+  <string name="quick_scan_result_title">%s d\'éléments trouvés</string>
   <string name="realtime_protection">Protection</string>
   <string name="realtime_protection_title">Protection</string>
   <string name="remove">Supprimer</string>
@@ -3722,10 +3722,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_unknown_virus_name">Inconnu</string>
   <string name="bt_hci_snoop_log">Activer l\'observation HCI Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Enregistrer tous les paquets HCI Bluetooth dans un fichier</string>
- <!-- à traduire :
-  <string name="bt_trace_log">Enable Bluetooth Trace log</string>
-  <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
- -->
   <string name="preferred_app_settings">Paramètres applis par défaut</string>
   <string name="preferred_app_settings_default">Par défaut</string>
   <string name="preferred_app_settings_reset">Réinitialiser</string>
@@ -3753,5 +3749,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="perm_app_manage_empty">Aucune appli surveillée</string>
   <string name="perm_root_manage_empty">Aucune appli avec la permission ROOT</string>
   <string name="quick_scan_done_title">Analyse terminée !</string>
+ <!-- à traduire :
+  <string name="bt_trace_log">Enable Bluetooth Trace log</string>
+  <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
   <string name="virus_scan_is_cloud_scanning">Cloud scanning…</string>
+ -->
 </resources>

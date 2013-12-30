@@ -132,7 +132,7 @@
   <string name="id3_edit_failed">Impossible de modifier les informations ID3</string>
   <string name="id3_modify_confirm_check">Confirmer les modifications ID3 ?</string>
   <string name="id3_modify_confirm_text">Enregistrer</string>
-  <string name="impunity_declaration">La musique en ligne que vous êtes sur le point d\'utiliser provient du Service de Musique en Ligne Baidu. Appuyez sur "Confirmer" pour accepter ses conditions et l\'utiliser ou appuyez sur "Annuler" pour quitter.</string>
+  <string name="impunity_declaration">La musique en ligne que vous êtes sur le point d\'utiliser provient du service de musique en ligne Baidu. Appuyez sur "Confirmer" pour accepter ses conditions et l\'utiliser ou appuyez sur "Annuler" pour quitter.</string>
   <string name="impunity_declaration_title">Déclaration</string>
   <string name="keep_quit_position_settings">Mémoriser la dernière position</string>
   <string name="keep_quit_position_summary">Restaurer la piste à la dernière position connue au redémarrage de l\'application</string>
@@ -180,7 +180,7 @@
   <string name="music_picker_title">Sélectionner un titre</string>
   <string name="music_settings">Paramètres</string>
   <string name="network_error">Aucune connexion réseau, veuillez vérifier vos paramètres réseau</string>
-  <string name="new_albums">Nouveaux Albums</string>
+  <string name="new_albums">Nouveaux albums</string>
   <string name="new_equalizer_name_template">Nouveau profil EQ %d</string>
   <string name="new_playlist">Nouvelle playlist</string>
   <string name="new_playlist_name_template">Playlist %d</string>

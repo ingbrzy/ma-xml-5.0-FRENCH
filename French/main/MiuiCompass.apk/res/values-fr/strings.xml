@@ -16,12 +16,12 @@
   <string name="direction_west">O</string>
   <string name="getting_location">Localisation en cours…</string>
   <string name="guide_toast">Il peut y avoir des interférences de champ magnétique, veuillez étalonner la boussole en utilisant le geste suivant.</string>
-  <string name="latitude">LAT</string>
+  <string name="latitude">Latitude</string>
   <string name="location_east">E</string>
   <string name="location_north">N</string>
   <string name="location_south">S</string>
   <string name="location_west">O</string>
-  <string name="longitude">LON</string>
+  <string name="longitude">Longitude</string>
   <string name="menu_calibrate">Calibrer</string>
   <string name="menu_calibrate_altitude">Calibrer l\'altitude</string>
   <string name="pressure">%.1f</string>
