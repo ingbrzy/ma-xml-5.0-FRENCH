@@ -5,7 +5,7 @@
     <string name="toast_fm_not_stated">Radio non indiquée</string>
     <string name="toast_fm_recorder_internal_error">Erreur lors de l\'enregistrement radio !</string>
     <string name="toast_fm_recorder_storage_full">Espace de stockage plein, impossible d\'enregistrer !</string>
-    <string name="title_select_station">Sélectionnez la Station - %s</string>
+    <string name="title_select_station">Sélectionner la Station - %s</string>
     <string name="set">Définir</string>
     <string name="menu_select_station">Sélectionner la station</string>
     <string name="menu_sleep">Mise en veille de l\'écran</string>
@@ -92,7 +92,7 @@
     <string name="audio_db_album_name">"Enregistrements FM "</string>
     <string name="audio_db_playlist_name">"Enregistrements FM "</string>
     <string name="test_prompt">Choisir un Test</string>
-    <string name="test_run">Exécutez le Test</string>
+    <string name="test_run">Exécuter le Test</string>
     <string name="set_rmmsi_delta">Configurer RMSSI Delta</string>
     <string name="set_sigth">Configurer le Signal Th</string>
     <string name="enter_rssi">Saisir RMSSI Delta</string>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <!-- à traduire
     <string name="app_name">Location Engineer Mode</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
@@ -194,5 +193,4 @@
     <string name="connection_off">Connection (OFF)</string>
     <string name="connection_on">Connection (ON)</string>
     <string name="cell_info">Current Cell Information</string>
- -->
 </resources>
