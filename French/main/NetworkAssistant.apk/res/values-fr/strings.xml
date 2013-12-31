@@ -2,6 +2,7 @@
 <resources>
   <string name="about">À propos</string>
   <string name="adjust_module_miss">Module d\'utilisation des données manquant</string>
+  <string name="adjust_no_network_update_data_fail">Échec de l\'actualisation des données, veuillez réessayer après avoir vérifié vos paramètres réseau.</string>
   <string name="adjust_traffic_auto_adjust_hint">Régulièrement, le système demande des informations à l\'opérateur et ajuste les données. Il est nécessaire de définir les informations de l\'opérateur</string>
   <string name="adjust_traffic_auto_adjust_open_hint">L\'ajustement automatique est activé, le trafic de données sera mis à jour automatiquement</string>
   <string name="adjust_traffic_auto_adjust_title">Ajustement automatique du trafic</string>
@@ -173,19 +174,18 @@
   <string name="network_control_service_notification_title_single">Connexion %2$s bloquée pour %1$s</string>
   <string name="pref_connect_settings_monitor_running_app">Afficher les notifications</string>
   <string name="pref_connect_settings_monitor_running_app_summary">Affiche une notification quand une appli est bloquée du réseau</string>
+  <string name="notify_traffic_settings_format">"%s n\'a pas été configuré pour votre forfait de données ? Configurer maintenant ?</string>
+  <string name="notify_carrier_settings_format">"%s n\'a pas été configuré pour votre forfait voix/SMS. Configurer maintenant ?"</string>
+  <string name="yesterday_mobile_format">%s Trafic d\'hier</string>
+  <string name="today_mobile_format">%s Trafic d\'aujourd\'hui</string>
+  <string name="this_month_mobile_format">%s Trafic du mois</string>
+  <string name="yesterday_wlan">Trafic Wi-Fi d\'hier</string>
+  <string name="today_wlan">Trafic Wi-Fi d\'aujourd\'hui</string>
+  <string name="this_month_wlan">Trafic Wi-Fi du mois</string>
+  <string name="yesterday_total_traffic_format">%s Trafic d\'hier</string>
+  <string name="today_total_traffic_format">%s Trafic d\'aujourd\'hui</string>
+  <string name="this_month_total_traffic_format">%s Trafic du mois</string>
  <!-- à traduire :
-  <string name="notify_traffic_settings_format">"%s haven't been configured your data plan. Configure now?"</string>
-  <string name="notify_carrier_settings_format">"%s haven't been configured your service provider.Configure now?"</string>
-  <string name="yesterday_mobile_format">%s Traffic of yesterday</string>
-  <string name="today_mobile_format">%s Traffic of today</string>
-  <string name="this_month_mobile_format">%s Traffic of the month</string>
-  <string name="yesterday_wlan">Yesterday WLAN</string>
-  <string name="today_wlan">Today WLAN</string>
-  <string name="this_month_wlan">This month WLAN</string>
-  <string name="yesterday_total_traffic_format">%s Traffic of yesterday</string>
-  <string name="today_total_traffic_format">%s Traffic of today</string>
-  <string name="this_month_total_traffic_format">%s Traffic of the month</string>
   <string name="another_sim_card_adjusting">Another SIM card is adjusting.</string>
-  <string name="adjust_no_network_update_data_fail">Update data fail.Please try again after checking the settings of network.</string>
  -->
 </resources>
