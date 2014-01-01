@@ -43,7 +43,7 @@
   <string name="no_file">Aucun enregistrement</string>
   <string name="notification_playback">Lecture de l\'enregistrement…</string>
   <string name="notification_recording">Enregistrement…</string>
-  <string name="notification_stopped">L\'enregistrement a cessé</string>
+  <string name="notification_stopped">Enregistrement stoppé</string>
   <string name="notification_warning">Espace libre faible (moins de %d minutes)</string>
   <string name="open_file_explorer">Ouvrez l\'explorateur de fichiers</string>
   <string name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>
@@ -61,7 +61,7 @@
   <string name="preference_silent_mode_summary">Activer pour permettre les enregistrements en silencieux</string>
   <string name="record_list">Liste des enregistrements</string>
   <string name="record_loading">Chargement de l\'enregistrement, veuillez patienter.</string>
-  <string name="record_name_hour">.</string>
+  <string name="record_name_hour">h</string>
   <string name="record_picker_title">Choisissez l\'enregistrement</string>
   <string name="record_saving">Sauvegarde de l\'enregistrement en cours, merci de patienter !</string>
   <string name="recording">Enregistrement…</string>

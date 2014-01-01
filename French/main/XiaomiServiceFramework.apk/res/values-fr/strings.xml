@@ -238,4 +238,40 @@ Vous pouvez faire autre chose…"</string>
   <string name="wrong_captcha">Code captcha incorrect</string>
   <string name="wrong_vcode">Code de vérification incorrect</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
+  <string name="enable_sync">Activer la synch.</string>
+  <string name="enable_sync_dspt">Synch. désactivé</string>
+  <string name="micloud_account_details">Détails du compte</string>
+  <string name="micloud_app_data">MiCloud app backups</string>
+  <string name="micloud_data_loading">Chargement…</string>
+  <string name="micloud_full_influence_dspt">"Toutes les photos, vidéos, notes et applis seront sauvegardés sur MiCloud.
+
+Si vous perdez ou endommagez votre téléphone, vos données seront toujours en sécurité.
+
+Lorsque votre compte MiCloud est plein, vos anciennes données ne seront pas supprimés. Cependant, tout nouveau contenu que vous ajoutez (ex : photos, vidéos, notes ou applis) ne sera pas sauvegardé.
+
+Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou acheter de l'espace de stockage supplémentaire."</string>
+ <!-- micloud_full_influence_title à vérifier ? -->
+  <string name="micloud_full_influence_title">Lorsque votre MiCloud est plein</string>
+  <string name="micloud_gallery_image">Images MiCloud</string>
+  <string name="micloud_gallery_video">Vidéos MiCloud</string>
+  <string name="micloud_none">Aucun</string>
+  <string name="micloud_space_full_influence">Qu\'advient-il si je n\'ai plus d\'espace ?</string>
+  <string name="micloud_storage_space">Espace de stockage MiCloud</string>
+  <string name="micloud_title_dspt" formatted="false">"Espace total %s
+ utilisé %s | restant %s"</string>
+  <string name="micloud_title_full_dspt">Limite de stockage atteinte !</string>
+  <string name="micloud_user_base_info">Informations utilisateur</string>
+  <string name="micloud_user_email">E-mail</string>
+  <string name="micloud_user_id">Xiaomi ID</string>
+  <string name="micloud_user_name">Nom d\'utilisateur</string>
+  <string name="micloud_user_phone">Numéro de téléphone</string>
+  <string name="micloud_user_space_usage">Espace utilisé</string>
+  <string name="micloud_warn_full_msg">Vous avez atteint votre limite de stockage !</string>
+  <string name="micloud_warn_full_sum">Les nouveaux éléments ne seront pas synchronisés avec votre compte MiCloud.</string>
+  <string name="micloud_warn_full_title">Espace de stockage MiCloud plein !</string>
+  <string name="micloud_warn_low_sum">Espace de stockage rempli à 90%.</string>
+  <string name="micloud_warn_low_title">Espace de stockage faible !</string>
+  <string name="micloud_web_discription_01">Connectez-vous à http://i.xiaomi.com</string>
+  <string name="micloud_web_discription_02">pour stocker et accéder à vos fichiers depuis n\'importe où</string>
+  <string name="micloud_welcome_skip_login">Passer l\'inscription</string>
 </resources>

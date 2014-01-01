@@ -321,6 +321,19 @@
   <string name="vip_recommend_summary">Écoutez ou téléchargez les musiques de vos artistes préférés à 320 kbps depuis Baidu Music.</string>
   <string name="vip_recommend_title">Musique de qualité élevée</string>
   <string name="where_is_barcode">Où est le code QR ?</string>
+  <string name="data_usage_warning">Alerte usage de données !</string>
+  <string name="data_usage_warning_summary">L\'utilisation de votre connexion mobile pour écouter de la musique de haute qualité augmente de manière significative votre usage de données.</string>
+  <string name="enabled">Activé</string>
+  <string name="expired">Expiré</string>
+  <string name="higher_quality_music">Musique de haute qualité</string>
+  <string name="higher_quality_music_summary">Écoutez et téléchargez la musique de haute qualité</string>
+  <string name="menu_higher_quality_music">Musique haute qualité (accès mensuel)</string>
+  <string name="music_quality">Qualité musique</string>
+  <string name="valid_period">"Valable à partir du : "</string>
+  <string name="vip_bought">"Vous avez déjà acheté un accès à la musique de haute qualité"</string>
+  <string name="vip_expired">Votre accès à musique haute qualité a expiré</string>
+  <string name="vip_rebuy">Renouveler</string>
+  <string name="vip_recommend_rebuy">Renouveler l\'accès VIP pour 30 jours coûte 5 MiCredits</string> 
  <!-- à traduire : 
   <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
   <string name="ktv_connected_alert_message">The songs you select will be added to the playlist named My KTV</string>

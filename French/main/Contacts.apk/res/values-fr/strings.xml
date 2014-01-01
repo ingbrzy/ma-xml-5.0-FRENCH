@@ -1137,6 +1137,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="t9_search_guide_zhuyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
   <string name="yellowPageNavigationIconLabel">Annuaire</string>
   <string name="yellowPageNavigationLabel">Annuaire</string>
+  <string name="yellowpage_navigation_menu_order">Ma commande</string>
   <string name="yellowpage_navigation_no_content">Aucun résultat</string>
   <string name="yellowpage_navigation_search_city_name_hint">Recherche par ville</string>
   <string name="yellowpage_navigation_search_hint">Recherche</string>

@@ -7,8 +7,8 @@
   <string name="alert_message_delete_folders">Supprimer %1$s dossier(s) sélectionné(s) ?</string>
   <string name="alert_message_delete_folders_notes">Supprimer %1$s dossier(s) et %2$s note(s) sélectionné(s) ?</string>
   <string name="alert_message_delete_note">Êtes-vous sûr de vouloir supprimer cette note ?</string>
-  <!-- avec une note sélectionnée alert_message_delete_notes s'affiche au lieu de alert_message_delete_note ...-->
-  <string name="alert_message_delete_notes">Êtes-vous sûr de vouloir supprimer %1$s note(s) sélectionnée(s) ?</string>
+  <!-- BUG: avec une seule note sélectionnée alert_message_delete_notes s'affiche au lieu de alert_message_delete_note... -->
+  <string name="alert_message_delete_notes">Êtes-vous sûr de vouloir supprimer\nles %1$s note(s) sélectionnée(s) ?</string>
   <string name="alert_message_discard_changes">Ignorer toutes les modifications ?</string>
   <string name="alert_message_edit_anyway">La note contient un contenu non supporté, l\'éditer pourrait engendrer une perte de données.</string>
   <string name="alert_title_edit_anyway">Confirmer l\'édition de la note qui pourrait engendrer une perte de données.</string>
@@ -87,7 +87,7 @@
   <string name="search_setting_description">Rechercher du texte dans les notes</string>
   <string name="select_account_prompt">Activer la synchronisation de notes</string>
   <string name="snippet_image_stub">[Image]</string>
-  <string name="snippet_image_template">[%1$s]</string>
+  <string name="snippet_image_template">[Image %1$s]</string>
   <string name="success_sdcard_export">Export réussi</string>
   <string name="time_picker_dialog_title">Réglage du rappel</string>
   <string name="toast_folder_privacy_mode">"Impossible de modifier le dossier en mode privé"</string>

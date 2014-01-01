@@ -229,7 +229,7 @@ Superflu"</string>
   <string name="sd_size_label">Mémoire de la carte SD</string>
   <string name="search_hint">Rechercher Mes fichiers</string>
   <string name="search_title">Rechercher Mes fichiers</string>
-  <string name="send_to_midrive">Envoyer à MiDrive</string>
+  <string name="send_to_midrive">MiDrive</string>
   <string name="send_to_midrive_failed_message">L\'envoi à MiDrive a échoué. Le contenu n\'est pas pris en charge</string>
   <string name="server_control_advanced_settings">Paramètres avancés</string>
   <string name="server_control_charset">Codage de transfert</string>

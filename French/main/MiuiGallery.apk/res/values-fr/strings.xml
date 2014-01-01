@@ -70,7 +70,7 @@
   <string name="camera_folder_display_name">Appareil photo</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Fond d\'écran</string>
-  <string name="camera_view_none_message">Les photos prises seront affichées ici.</string>
+  <string name="camera_view_none_message">Les photos et vidéos prises seront affichées ici.</string>
   <string name="can_modified">Autoriser le partageur à ajouter des images</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_hint">L\'opération a été annulée</string>
@@ -298,7 +298,7 @@
   <string name="no_location">Aucun lieu</string>
   <string name="no_map_app">Aucune application de cartographie installée</string>
   <string name="no_network_connected">Aucune connexion réseau disponible</string>
-  <string name="no_picture_or_video">Pas de photos ou de vidéos</string>
+  <string name="no_picture_or_video">Aucun fichier</string>
   <string name="no_storage_disable_cloud_albums">Les albums du MiCloud sont désactivés, veuillez réessayer lorsque le stockage externe sera disponible.</string>
   <string name="no_such_item">"Impossible de trouver l'élément."</string>
   <string name="no_thumbnail">Aucune vignette</string>
@@ -524,4 +524,8 @@
   <string name="loading_image">Téléchargement de l\'image…</string>
   <string name="loading_suspend">Téléchargement mis en attente : il redémarrera lorsqu\'une connexion Wi-Fi sera disponible.</string>
   <string name="loading_video">Téléchargement de la vidéo…</string>
+  <string name="external_usb_device_hm">Stockage externe USB</string>
+  <string name="internal_sd_card_hm">Stockage interne</string>
+  <string name="item_not_sync">Cet élément n'a pas été synchronisé sur le cloud et ne peut pas être téléchargé</string>
+  <string name="move">Déplacer</string>
 </resources>
