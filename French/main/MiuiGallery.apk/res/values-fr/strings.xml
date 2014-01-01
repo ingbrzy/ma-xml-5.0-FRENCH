@@ -526,6 +526,6 @@
   <string name="loading_video">Téléchargement de la vidéo…</string>
   <string name="external_usb_device_hm">Stockage externe USB</string>
   <string name="internal_sd_card_hm">Stockage interne</string>
-  <string name="item_not_sync">Cet élément n'a pas été synchronisé sur le cloud et ne peut pas être téléchargé</string>
+  <string name="item_not_sync">Cet élément n\'a pas été synchronisé sur le cloud et ne peut pas être téléchargé</string>
   <string name="move">Déplacer</string>
 </resources>
