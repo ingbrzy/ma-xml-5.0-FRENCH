@@ -93,6 +93,6 @@
     <item quantity="one">%d jour restant</item>
   </plurals>
   <plurals name="Nvip_expired_remind">
-    <item quantity="other">Votre accès à la haute qualité de musique est sur ​​le point d'expirer (%d jours restants)</item>
+    <item quantity="other">Votre accès à la haute qualité de musique est sur ​​le point d\'expirer (%d jours restants)</item>
   </plurals>
 </resources>
