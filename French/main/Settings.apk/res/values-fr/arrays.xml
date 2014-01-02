@@ -572,4 +572,9 @@ Vous pouvez maintenant transférer des fichiers"</item>
        <item>Musique</item>
        <item>E-mail</item>
    </string-array>
+   <string-array name="sim_slot">
+       <item>(non spécifié)</item>
+       <item>Sim Slot 1</item>
+       <item>Sim Slot 2</item>
+   </string-array>
 </resources>

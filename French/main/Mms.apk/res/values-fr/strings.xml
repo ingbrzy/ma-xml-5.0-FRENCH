@@ -326,7 +326,6 @@
   <string name="received_label">"Date de réception : "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Destinataire : "</string>
- <!-- refill_now à vérifier: correct ? original : Refill (miuiandroid) Refill Now (miui china) -->
   <string name="refill_now">Recharger</string>
   <string name="refresh">Actualiser</string>
   <string name="refresh_failed">La mise à jour a échouée</string>
@@ -460,7 +459,7 @@
   <string name="sp_mark_as_read_title">Tout marquer comme lus</string>
   <string name="sp_mark_as_read">Marquer tous les messages comme lus ?</string>
   <string name="sp_mark_as_read_progress">En cours…</string>
-  <!-- à traduire :
+ <!-- à traduire :
   <string name="feedback_description_hint">Please enter your feedback here</string>
   <string name="feedback_submit">Submit</string>
   <string name="pref_key_mx_feedback">Submit feedback</string>
@@ -471,5 +470,5 @@ Report bugs and send feedback directly to Xiaomi."</string>
   <string name="toast_feedback_finish">Your report will be sent automatically when you connect to a Wi-Fi network</string>
   <string name="toast_feedback_max">Only 3 reports may be submitted per day</string>
   <string name="toast_feedback_start">Sending feedback data…</string>
-  -->
+ -->
 </resources>

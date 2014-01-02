@@ -3197,7 +3197,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="apk_status_uninstalled">Non installé</string>
   <string name="app_log_tab_title">Journal de permissions</string>
   <string name="app_manage_tab_title">Applications</string>
-  <string name="app_name">Sécurité</string>
+  <string name="app_name">Centre de sécurité</string>
   <string name="app_uninstall_residual">Nettoyer les fichiers résiduels de désinstallation ?</string>
   <string name="auto_start_summary">%1$d appli(s) démarre(nt) automatiquement</string>
   <string name="auto_start_title">Gérer les applis démarrant auto.</string>

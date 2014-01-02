@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Readme</string>
-    <string name="loading_userbook">Chargement...</string>
+    <string name="loading_userbook">Chargement…</string>
     <string name="bakc_key_toast_txt">Appuyez une seconde fois pour quitter</string>
 </resources>

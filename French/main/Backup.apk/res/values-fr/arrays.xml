@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="backup_dialog_content_type">
-    <item>"Données Wi-Fi"</item>
-    <item>"Tous les programmes"</item>
+    <item>Données Wi-Fi</item>
+    <item>Tous les programmes</item>
   </string-array>
   <string-array name="system_package_label">
     <item>Navigateur</item>
@@ -14,37 +14,37 @@
     <item>Météo</item>
   </string-array>
   <string-array name="system_data_label">
-    <item>"Contacts"</item>
-    <item>"Journal d\'appels"</item>
-    <item>"Messages"</item>
-    <item>"Messages multimédias"</item>
-    <item>"Paramètres système"</item>
-    <item>"Paramètres Wi-Fi"</item>
-    <item>"Disposition du bureau"</item>
-    <item>"Paramètres d\'alarme"</item>
-    <item>"Notes"</item>
-    <item>"Ne pas déranger"</item>
-    <item>"Compte"</item>
+    <item>Contacts</item>
+    <item>Journal d\'appels</item>
+    <item>Messages</item>
+    <item>Messages multimédias</item>
+    <item>Paramètres système</item>
+    <item>Paramètres Wi-Fi</item>
+    <item>Disposition du bureau</item>
+    <item>Paramètres d\'alarme</item>
+    <item>Notes</item>
+    <item>Ne pas déranger</item>
+    <item>Compte</item>
   </string-array>
   <string-array name="app_type_desc">
-    <item>"Données"</item>
-    <item>"Application"</item>
-    <item>"Application et données"</item>
+    <item>Données</item>
+    <item>Application</item>
+    <item>Application et données</item>
   </string-array>
   <string-array name="cloud_data_label">
-    <item>"Contacts"</item>
-    <item>"Journal d\'appels"</item>
-    <item>"Messages"</item>
-    <item>"Paramètres Wi-Fi"</item>
-    <item>"Notes"</item>
+    <item>Contacts</item>
+    <item>Journal d\'appels</item>
+    <item>Messages</item>
+    <item>Paramètres Wi-Fi</item>
+    <item>Notes</item>
   </string-array>
   <string-array name="cloud_account_data">
-    <item>"Contacts"</item>
-    <item>"Paramètres Wi-Fi"</item>
-    <item>"Notes"</item>
+    <item>Contacts</item>
+    <item>Paramètres Wi-Fi</item>
+    <item>Notes</item>
   </string-array>
   <string-array name="cloud_sim_data">
-    <item>"Journal d\'appels"</item>
-    <item>"Messages"</item>
+    <item>Journal d\'appels</item>
+    <item>Messages</item>
   </string-array>
 </resources>
