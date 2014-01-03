@@ -1156,7 +1156,7 @@
     <string name="lockscreen_transport_stop_description">"Bouton d'arrêt"</string>
     <string name="emergency_calls_only">"Appels d'urgence uniquement"</string>
     <string name="lockscreen_sim_error_message_short">Carte non valide</string>
-    <string name="lockscreen_sim_error_message">"Carte SIM n'est pas valide."</string>
+    <string name="lockscreen_sim_error_message">"La carte SIM n'est pas valide."</string>
     <string name="lockscreen_network_locked_message">Réseau bloqué</string>
     <string name="lockscreen_perso_locked_message">SIM / RUIM est verrouillé Perso</string>
     <string name="lockscreen_sim_puk_locked_message">La carte SIM est verrouillée par le code PUK</string>
@@ -1572,7 +1572,7 @@ Voulez-vous la fermer ?"</string>
     <string name="ime_action_done">OK</string>
     <string name="ime_action_previous">Préc.</string>
     <string name="ime_action_default">Exécuter</string>
-    <string name="managed_roaming_title">Géré itinérance</string>
+    <string name="managed_roaming_title">"Gestion de l'itinérance"</string>
     <string name="managed_roaming_dialog_content">Réseau avec service limité détecté. Lancer une recherche réseau ?</string>
     <string name="managed_roaming_dialog_ok_button">Oui</string>
     <string name="managed_roaming_dialog_cancel_button">Non</string>

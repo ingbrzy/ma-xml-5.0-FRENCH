@@ -202,10 +202,7 @@
   <string name="flip_tooltip">Faire glisser la photo pour la retourner</string>
   <string name="focal_length">Longueur focale</string>
  <!-- à traduire :
- miuiandroid:
-  <string name="folder_holder_file">File placeholder</string>
- xiaomi
-  <string name="folder_holder_file">should delete this file later</string>
+  <string name="folder_holder_file">File placeholder</string>  xiaomi : should delete this file later
  -->
   <string name="frame_black">Noir</string>
   <string name="frame_button">Cadre</string>

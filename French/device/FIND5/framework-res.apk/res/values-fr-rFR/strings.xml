@@ -7,7 +7,7 @@
 <string name="keyguard_password_puk_failed">Opération PUK échoué !</string>
 <string name="keyguard_pin_accepted">Code accepté</string>
 <string name="lockscreen_sim_error_message_short">Carte non valide</string>
-<string name="lockscreen_sim_error_message">"Carte SIM n'est pas valide."</string>
+<string name="lockscreen_sim_error_message">"La carte SIM n'est pas valide."</string>
 <string name="lockscreen_perso_locked_message">SIM / RUIM est verrouillé Perso</string>
 <string name="lockscreen_sim_pin_blocked">PIN1 bloqué. Entrez le code PUK1 pour débloquer PIN1</string>
 <string name="lockscreen_ruim_pin_blocked">PIN1 bloqué. Entrez le code PUK1 pour débloquer PIN1</string>
