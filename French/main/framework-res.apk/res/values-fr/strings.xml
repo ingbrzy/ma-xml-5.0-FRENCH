@@ -736,7 +736,7 @@
     <string name="lockscreen_instructions_when_pattern_disabled">Appuyez sur "Menu" pour déverrouiller le téléphone.</string>
     <string name="lockscreen_pattern_instructions">Dessinez un schéma pour déverrouiller le téléphone</string>
     <string name="lockscreen_emergency_call">Appel d\'urgence</string>
-	<string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Vous avez mal entré votre mot de passe %d fois. Après %d tentatives infructueuses de plus il vous sera demandé de déverrouiller votre téléphone avec vos détails de compte. 
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Vous avez mal entré votre mot de passe %d fois. Après %d tentatives infructueuses de plus il vous sera demandé de déverrouiller votre téléphone avec vos détails de compte. 
   
 Réessayer dans %d secondes."</string>
     <string name="lockscreen_return_to_call">Retour à l\'appel</string>
@@ -1233,4 +1233,32 @@ pour le compte "%s"</string>
     <string name="default_audio_route_category_name">Système</string>
     <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
     <string name="media_route_chooser_grouping_done">OK</string>
+    <string name="progress_erasing_internal">Effacement du stockage interne…</string>
+    <string name="progress_unmounting_internal">Démontage du stockage interne…</string>
+    <string name="managed_roaming_title">"Gestion de l'itinérance"</string>
+    <string name="managed_roaming_dialog_content">Réseau avec service limité détecté. Lancer une recherche réseau ?</string>
+    <string name="managed_roaming_dialog_ok_button">Oui</string>
+    <string name="managed_roaming_dialog_cancel_button">Non</string>
+    <string name="lockscreen_sim_pin_blocked">PIN1 bloqué. Entrez le code PUK1 pour débloquer PIN1</string>
+    <string name="lockscreen_ruim_pin_blocked">PIN1 bloqué. Entrez le code PUK1 pour débloquer PIN1</string>
+    <string name="lockscreen_sim_error_message_short">Carte non valide</string>
+    <string name="lockscreen_sim_error_message">"La carte SIM n'est pas valide."</string>
+    <string name="lockscreen_perso_locked_message">SIM / RUIM est verrouillé Perso</string>
+    <string name="keyguard_password_wrong_puk_code">Code PUK incorrect !</string>
+    <string name="keyguard_password_pin_failed">Opération PIN échoué !</string>
+    <string name="keyguard_password_puk_failed">Opération PUK échoué !</string>
+    <string name="keyguard_pin_accepted">Code accepté</string>
+    <string name="keyguard_password_enter_puk_code_for_subscription">"Entrez le code PUK et le nouveau code PIN pour l'abonnement"</string>
+    <string name="keyguard_password_enter_pin_code_for_subscription">"Entrez le code PIN pour l'abonnement"</string>
+    <string name="enablePin">Échec. Activer SIM / RUIM LOCK</string>
+    <string name="pinpuk_attempts">"
+Essais restants :"</string>
+   <!-- à traduire et vérifier dans les autres frameworks
+    <string name="stkCcUssdToDial">USSD request is modified to DIAL request.</string>
+    <string name="stkCcUssdToSs">USSD request is modified to SS request.</string>
+    <string name="stkCcUssdToUssd">USSD request is modified to new USSD request.</string>
+    <string name="stkCcSsToDial">SS request is modified to DIAL request.</string>
+    <string name="stkCcSsToUssd">SS request is modified to USSD request.</string>
+    <string name="stkCcSsToSs">SS request is modified to new SS request.</string>
+   -->
 </resources>

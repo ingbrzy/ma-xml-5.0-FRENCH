@@ -202,7 +202,10 @@
   <string name="flip_tooltip">Faire glisser la photo pour la retourner</string>
   <string name="focal_length">Longueur focale</string>
  <!-- à traduire :
+ miuiandroid:
   <string name="folder_holder_file">File placeholder</string>
+ xiaomi
+  <string name="folder_holder_file">should delete this file later</string>
  -->
   <string name="frame_black">Noir</string>
   <string name="frame_button">Cadre</string>
@@ -229,7 +232,6 @@
   <string name="how_many_pics">%d photo(s)</string>
   <string name="how_many_sub_folders">%d dossier(s)</string>
   <string name="how_many_videos">%d vidéo(s)</string>
-  <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_quota_fulfiled">"Impossible de créer l'image, le quota d'images a atteint sa limite."</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importation terminée</string>

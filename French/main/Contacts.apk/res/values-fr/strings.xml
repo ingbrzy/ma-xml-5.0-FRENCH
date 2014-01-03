@@ -1167,4 +1167,5 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="generic_failure">Échec général.</string>
   <string name="email_too_long">Email trop long.</string>
   <string name="error_save_usim_contact_email_lost">Impossible de sauvegarder l\'email car le stockage USIM pour les emails est complet.</string>
+  <string name="sim_contact_invalid">Contact SIM non valide</string>
 </resources>

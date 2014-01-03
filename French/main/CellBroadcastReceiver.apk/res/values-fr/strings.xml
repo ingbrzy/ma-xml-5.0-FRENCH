@@ -8,6 +8,7 @@
     <string name="menu_delete_all">Supprimer les diffusions</string>
     <string name="message_options">Options relatives aux messages</string>
     <string name="menu_view_details">Afficher les détails</string>
+    <string name="menu_view">Afficher la diffusion</string>
     <string name="menu_delete">Supprimer la diffusion</string>
     <string name="view_details_title">Détails de l\'alerte</string>
     <string name="confirm_delete_broadcast">Supprimer cette diffusion ?</string>

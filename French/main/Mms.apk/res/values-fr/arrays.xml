@@ -68,4 +68,12 @@
     <item>Seulement en silencieux</item>
     <item>Jamais</item>
   </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Via message</item>
+        <item>Via message Cloud</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Via message</item>
+        <item>Via message Cloud</item>
+    </string-array>
 </resources>

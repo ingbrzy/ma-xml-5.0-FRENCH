@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Désinstaller \"%1$s\" et %2$d autres applis ?</item>
+        <item quantity="one">Désinstaller \"%s\" ?</item>
+        <item quantity="two">Désinstaller \"%s\" et 1 autre appli ?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%1$ applis désinstallées</item>
+        <item quantity="one">Appli désinstallée</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">Impossible de désinstaller \"%1$s\" et %2$d autres applis</item>
+        <item quantity="one">Impossible de désinstaller \"%s\"</item>
+        <item quantity="two">Impossible de désinstaller \"%s\" et 1 autre appli</item>
+    </plurals>
+</resources>

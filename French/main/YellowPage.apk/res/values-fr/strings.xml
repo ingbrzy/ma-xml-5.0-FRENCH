@@ -59,7 +59,11 @@
   <string name="packages_pay">Acheter</string>
   <string name="packages_pay_confirm">Confirmer l\'achat</string>
  <!-- à traduire :
+ miuiandroid:
   <string name="packages_title">Preferential flow of packages</string>
+ xiaomi:
+  <string name="packages_title">Mobile data packages</string>
+  
  -->
   <string name="select_package_before_buy">Veuillez sélectionner le package que vous souhaitez acheter</string>
   <string name="packages_select_to_buy_title">Vous choisissez d\'acheter :</string>
