@@ -335,7 +335,7 @@
   <string name="posterize">Postérisation</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="projection">Projection</string>
-  <string name="public_url_descript">N\'importe qui peut accéder à votre album à l\'aide de l'\URL :</string>
+  <string name="public_url_descript">N\'importe qui peut accéder à votre album à l\'aide de l\'URL :</string>
   <string name="publish_failed">Impossible de publier.</string>
   <string name="publish_succeeded">Album publié</string>
   <string name="publishing">Publication en cours, veuillez patienter…</string>
