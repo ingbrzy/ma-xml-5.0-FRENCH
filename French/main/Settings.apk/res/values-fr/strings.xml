@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_settings">À propos du téléphone</string>
   <string name="about_settings_summary">Informations légales, état et version du logiciel</string>
@@ -1090,7 +1090,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="location_access_title">Accès à ma position</string>
   <string name="location_neighborhood_level">Autoriser l\'envoi anonyme d\'informations de localisation à Google. Permet aussi aux applications autorisées d\'utiliser les données du Wi-Fi ou des réseaux mobiles afin de déterminer votre position approximative.</string>
   <string name="location_neighborhood_level_wifi">Position déterminée par le Wi-Fi</string>
-  <string name="location_network_based">"Service de localisation Google"</string>
+  <string name="location_network_based">Localis. via Wi-Fi et réseaux mobiles</string>
   <string name="location_settings_title">Services de localisation</string>
   <string name="location_sources_heading">Sources de localisation</string>
   <string name="location_street_level">Autoriser les applications à utiliser le GPS pour vous localiser</string>
@@ -2009,17 +2009,6 @@ Le code PIN est peut-être incorrect."</string>
   <string name="title_font_size">Taille de la police</string>
   <string name="total_size">%s au total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_title">Toucher</string>
-  <string name="touch_sensitive_title">Mode gants</string>
- <!-- à traduire : 
-  <string name="touch_sensitive_summary">Enable sensitive touch to support operate mobile phone when wearing gloves, Prevent pocket dials will turn on</string>
-  -->
-  <string name="touch_sensitive_turn_off_title">Désactiver le mode gants</string>
- <!-- à traduire : 
-  <string name="touch_sensitive_turn_off_summary">Do you want to turn off Prevent pocket dials?</string>
- -->
-  <string name="touch_sensitive_turn_off_confirm">Confirmer</string>
-  <string name="touch_sensitive_turn_off_cancel">Annuler</string>
   <string name="track_frame_time">Rendu GPU du profil</string>
   <string name="track_frame_time_summary">Mesurer la durée du rendu dans adb shell dumpsys gfxinfo</string>
   <string name="trackball_settings">Boule de commande</string>
@@ -3757,7 +3746,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_scan_notify_text_location_on">Pour améliorer la précision et à d\'autres fins, le service de localisation de Google et d\'autres applications peuvent rechercher des réseaux Wi-Fi à proximité, même lorsque le Wi-Fi est désactivé. Vous pouvez modifier ce paramètre dans Options avancées &gt; Recherche toujours disponible.</string>
   <string name="wifi_scan_notify_text_location_off">Les applications peuvent rechercher des réseaux à proximité, même lorsque le Wi-Fi est désactivé. Vous pouvez modifier ce paramètre dans Avancé &gt; Recherche toujours disponible.</string>
   <string name="wifi_scan_notify_remember_choice">Ne plus afficher</string>
-  <string name="wifi_empty_list_user_restricted">Vous n\'avez pas l\'autorisation de modifier le réseau Wi‑Fi.</string>
+  <string name="wifi_empty_list_user_restricted">Vous n\'avez pas l\'autorisation de modifier le réseau Wi-Fi.</string>
   <string name="wifi_ssid_hint">Saisissez le SSID</string>
   <string name="wifi_scan_always_turnon_message">Pour améliorer la précision de la position et à d\'autres fins, %1$s souhaite activer la recherche de réseaux, même lorsque le Wi-Fi est désactivé.\n\nDonner cette autorisation à toutes les applications souhaitant activer la recherche de réseaux ?</string>
   <string name="wifi_scan_always_confirm_allow">Autoriser</string>
@@ -3820,7 +3809,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="app_not_supported_in_limited">Cette application n\'accepte pas les profils limités.</string>
   <string name="app_sees_restricted_accounts">Cette application peut accéder à vos comptes.</string>
   <string name="restriction_wifi_config_title">Wi-Fi et données mobiles</string>
-  <string name="restriction_wifi_config_summary">Autoriser les modifications des paramètres du Wi‑Fi et des données mobiles</string>
+  <string name="restriction_wifi_config_summary">Autoriser les modifications des paramètres du Wi-Fi et des données mobiles</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_bluetooth_config_summary">Autoriser les modifications des associations et des paramètres Bluetooth</string>
   <string name="restriction_nfc_enable_title">NFC</string>
@@ -3831,4 +3820,23 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wizard_finish">Terminer</string>
   <string name="user_image_take_photo">Prendre une photo</string>
   <string name="user_image_choose_photo">Sélectionner une photo dans la galerie</string>
+  <string name="user_profile_confirm_remove_message">L\'espace et les données de ce profil vont être supprimés de ce téléphone. Cette action est irréversible.</string>
+  <string name="restriction_nfc_enable_summary">Autoriser l\'échange de données lorsque le téléphone est en contact avec un autre appareil</string>
+ <!-- system_storage à vérifier ? : Systeme storage = Stockage système?? -->
+  <string name="system_storage">Mémoire interne</string>
+ <!-- à traduire :
+  <string name="bt_trace_log">Enable Bluetooth Trace log</string>
+  <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
+ -->
+  <string name="touch_title">Toucher</string>
+  <string name="touch_sensitive_title">Mode gants</string>
+ <!-- à traduire : 
+  <string name="touch_sensitive_summary">Enable sensitive touch to support operate mobile phone when wearing gloves, Prevent pocket dials will turn on</string>
+  -->
+  <string name="touch_sensitive_turn_off_title">Désactiver le mode gants</string>
+ <!-- à traduire : 
+  <string name="touch_sensitive_turn_off_summary">Do you want to turn off Prevent pocket dials?</string>
+ -->
+  <string name="touch_sensitive_turn_off_confirm">Confirmer</string>
+  <string name="touch_sensitive_turn_off_cancel">Annuler</string>
 </resources>

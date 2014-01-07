@@ -159,7 +159,7 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Documentaire</string>
   <string name="done">OK</string>
-  <string name="doodle">Gribouillage</string>
+  <string name="doodle">Dessin</string>
   <string name="doodle_tooltip">Dessiner sur la photo pour gribouiller</string>
   <string name="duotone">Deux tons</string>
   <string name="duration">Durée</string>
@@ -459,7 +459,7 @@
   <string name="tab_lockscreen_text">Verrouillage</string>
   <string name="tab_wallpaper_text">Accueil</string>
   <string name="tags">Tags</string>
-  <string name="temperature">Chaud</string>
+  <string name="temperature">Chaleur</string>
   <string name="tencent_mobile_qq_img_save">QQ 2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>

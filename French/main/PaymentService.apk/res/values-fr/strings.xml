@@ -460,7 +460,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
  <!-- detail_recharge_time correct ? original : Time -->
   <string name="detail_recharge_time">Date</string>
   <string name="detail_recharge_title">Historique de recharges</string>
-  <string name="scan_prompt_number">Analyse du numéro de carte prépayé %1$s</string>
-  <string name="scan_prompt_password">Analyse du numéro de carte prépayé %1$s</string>
+  <string name="scan_prompt_number">Analyse du numéro de la carte prépayée %1$s</string>
+  <string name="scan_prompt_password">Analyse du code de la carte prépayée %1$s</string>
   <string name="scan_prompt_voucher">Analyse du code MiCredit</string>
  </resources>
