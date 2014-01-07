@@ -33,7 +33,6 @@ Si l\'appareil est utilisé par plusieurs personnes, l’utilisation de ce racco
   <string name="accessibility_long_press_timeout_preference_title">Délai de pression</string>
   <string name="accessibility_long_press_timeout_title">Durée de l\'appui prolongé</string>
   <string name="accessibility_menu_item_settings">Paramètres</string>
-  <string name="accessibility_no_services_installed">Aucun service installé</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Marche/arrêt pour raccrocher</string>
   <string name="accessibility_power_button_ends_call_title">Touche Marche/Arrêt raccroche</string>
   <string name="accessibility_screen_magnification_summary">"Lorsque cette fonctionnalité est activée, vous pouvez effectuer des zooms avant et arrière en appuyant trois fois sur l\'écran.
@@ -52,7 +51,6 @@ Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le conte
   <string name="accessibility_script_injection_disallowed">Non autorisé</string>
   <string name="accessibility_script_injection_security_warning_summary">Voulez-vous que les applications installent des scripts de Google pour rendre leur contenu Web plus accessible ?</string>
   <string name="accessibility_script_injection_title">Améliorer l\'accessibilité Web</string>
-  <string name="accessibility_service_default_description">Aucune description fournie</string>
   <string name="accessibility_service_disable_warning_summary">Si vous appuyez sur "OK", %1$s sera arrêté.</string>
   <string name="accessibility_service_disable_warning_title">Arrêter %1$s ?</string>
   <string name="accessibility_service_no_apps_message">TalkBack fournit des informations audio aux personnes malvoyantes. Voulez-vous l\'installer gratuitement depuis le Play Store ?</string>
@@ -1090,7 +1088,6 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="local_backup_password_toast_validation_failure">Échec de la définition du mot de passe de secours.</string>
   <string name="location_access_summary">Permettre aux applications ayant demandé votre autorisation d\'utiliser vos informations de localisation</string>
   <string name="location_access_title">Accès à ma position</string>
-  <string name="location_gps">Satellites GPS</string>
   <string name="location_neighborhood_level">Autoriser l\'envoi anonyme d\'informations de localisation à Google. Permet aussi aux applications autorisées d\'utiliser les données du Wi-Fi ou des réseaux mobiles afin de déterminer votre position approximative.</string>
   <string name="location_neighborhood_level_wifi">Position déterminée par le Wi-Fi</string>
   <string name="location_network_based">"Service de localisation Google"</string>
@@ -1829,7 +1826,6 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="set_voice_error">Erreur dans la sélection d\'abonnement vocal. L\'abonnement n\'est pas actif.</string>
   <string name="settings_backup">Sauvegarder les paramètres</string>
   <string name="settings_backup_summary">Sauvegarder mes paramètres</string>
-  <string name="settings_button">Paramètres</string>
   <string name="settings_label">Paramètres</string>
   <string name="settings_label_launcher">Paramètres</string>
   <string name="settings_license_activity_loading">Chargement…</string>
@@ -3768,9 +3764,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_scan_always_confirm_deny">Refuser</string>
   <string name="mvno_type">Type MVNO</string>
   <string name="mvno_match_data">Valeur MVNO</string>
-  <string name="location_network_based">Localis. via Wi-Fi et réseaux mobiles</string>
-  <string name="location_neighborhood_level">Autoriser applis à utiliser localisation Google pour estimer position plus rapidement. Infos localisation anonymes envoyées à Google.</string>
-  <string name="location_neighborhood_level_wifi">Position déterminée par le Wi-Fi</string>
   <string name="location_gps">Satellites GPS</string>
   <string name="filter_apps_disabled">Désactivées</string>
   <string name="app_ops_settings">Fonctionnement des applications</string>
@@ -3782,11 +3775,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="clear_adb_keys">Annuler les autorisations relatives au débogage USB</string>
   <string name="adb_keys_warning_message">Voulez-vous vraiment désactiver l\'accès au débogage USB de tous les ordinateurs précédemment autorisés ?</string>
   <string name="accessibility_no_services_installed">Aucun service installé</string>
-  <string name="accessibility_service_no_apps_title">Vous avez besoin d\'un lecteur d\'écran ?</string>
-  <string name="accessibility_service_no_apps_message">TalkBack fournit des commentaires audio aux personnes malvoyantes. Voulez-vous l\'installer gratuitement depuis l\'Android Market ?</string>
   <string name="accessibility_service_default_description">Aucune description fournie</string>
   <string name="settings_button">Paramètres</string>
-  <string name="power_usage_summary_title">Batterie</string>
   <string name="tts_engine_network_required">Une connexion réseau est nécessaire pour la synthèse vocale dans cette langue.</string>
   <string name="credential_storage_type">Type de stockage</string>
   <string name="credential_storage_type_hardware">Intégré au matériel</string>
@@ -3841,12 +3831,4 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wizard_finish">Terminer</string>
   <string name="user_image_take_photo">Prendre une photo</string>
   <string name="user_image_choose_photo">Sélectionner une photo dans la galerie</string>
- <!-- à traduire :
-  <string name="bt_trace_log">Enable Bluetooth Trace log</string>
-  <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
-  <string name="location_street_level">Let apps use GPS on your phone to pinpoint your location</string>
-  <string name="user_profile_confirm_remove_message">"This profile's space and data will disappear from this phone. You can't undo this action."</string>
-  <string name="restriction_nfc_enable_summary">Allow data exchange when the phone touches another device</string>
-  <string name="system_storage">System storage</string>
- -->
 </resources>
