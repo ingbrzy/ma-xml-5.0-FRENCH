@@ -1220,7 +1220,6 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="description_direction_down_right">Down Right</string>
   <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
   <string name="set_sub_global_activate_failed">Activate global failed</string>
-  <string name="set_sub_global_activate_failed">Activate global failed</string>
   <string name="set_sub_global_deactivate_failed">Deactivate global failed</string>
   <string name="set_sub_not_supported_phone_in_call">Activate or Deactivate subscription is not allowed while phone in call.</string>
  </resources>
