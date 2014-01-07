@@ -1118,7 +1118,7 @@ pour le compte "%s"</string>
     <string name="no_matches">Aucune correspondance</string>
     <string name="find_on_page">Rechercher sur la page</string>
     <string name="action_mode_done">OK</string>
-    <string name="progress_unmounting">Démontage du stockage USB…</string>
+    <string name="progress_unmounting">Désinstallation de la mémoire de stockage USB en cours…</string>
     <string name="progress_erasing">Effacement de la mémoire de stockage USB en cours…</string>
     <string name="format_error">Impossible d\'effacer la mémoire de stockage USB.</string>
     <string name="media_bad_removal">La carte SD a été retirée sans avoir été désinstallée.</string>
@@ -1234,7 +1234,7 @@ pour le compte "%s"</string>
     <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
     <string name="media_route_chooser_grouping_done">OK</string>
     <string name="progress_erasing_internal">Effacement du stockage interne…</string>
-    <string name="progress_unmounting_internal">Démontage du stockage interne…</string>
+    <string name="progress_unmounting_internal">Désinstallation de la mémoire de stockage interne en cours…</string>
     <string name="managed_roaming_title">"Gestion de l'itinérance"</string>
     <string name="managed_roaming_dialog_content">Réseau avec service limité détecté. Lancer une recherche réseau ?</string>
     <string name="managed_roaming_dialog_ok_button">Oui</string>

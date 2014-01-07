@@ -16,6 +16,6 @@
   <string name="managed_roaming_dialog_content">Réseau avec service limité détecté. Lancer une recherche réseau ?</string>
   <string name="managed_roaming_dialog_ok_button">Oui</string>
   <string name="managed_roaming_dialog_cancel_button">Non</string>
-  <string name="progress_unmounting_internal">Démontage du stockage interne…</string>
+  <string name="progress_unmounting_internal">Désinstallation de la mémoire de stockage interne en cours…</string>
   <string name="progress_erasing_internal">Effacement du stockage interne…</string>
 </resources>

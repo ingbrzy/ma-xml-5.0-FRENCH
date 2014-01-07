@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_detail">Compte Xiaomi :
-%1$s</string>
+  <string name="account_detail">"Compte Xiaomi :
+%1$s"</string>
   <string name="app_name">Service de paiement</string>
   <string name="balance">Solde : %1$s MiCredits</string>
   <string name="balance_giftcard_payment">%1$s MiCredits (%2$s MiCredit carte-cadeau)</string>
@@ -98,7 +98,7 @@ Veuillez réessayer dans cinq minutes"</string>
   <string name="giftcard_denom_frozen">MiCredit gelé</string>
   <string name="giftcard_empty">Pas de carte-cadeau</string>
   <string name="giftcard_expire">Expire le %1$s</string>
-  <string name="giftcard_hint">"Les MiCredits reçus par carte-cadeau seront dépensés en premier automatiquement."</string>
+  <string name="giftcard_hint">Les MiCredits reçus par carte-cadeau seront\ndépensés en premier automatiquement.</string>
   <!-- les 2 phrases suivantes à revoir éventuellement) -->
   <string name="giftcard_push_notification_prime_title">Vous avez reçu un certificat de cadeau</string>
   <string name="giftcard_push_notification_sub_title">%1$s : don de %2$s MiCredit.</string>
@@ -322,9 +322,9 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">La recharge par SMS a échoué</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">La méthode de recharge par SMS coûte plus cher, donc &lt;font color=red&gt;%1$d RMB = %1$d MiCredit&lt;/font&gt;</string>
+  <string name="msg_picker_hint_1_2">La méthode de recharge par SMS coûte plus cher, donc &lt;font color=red&gt;%1$d RMB = %2$d MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
-  <string name="msg_picker_hint_2_2">Pour chaque recharge par SMS les opérateurs chargent 0.1 RMB de frais de service</string>
+  <string name="msg_picker_hint_2_2">Pour chaque recharge par SMS les opérateurs chargent %1$s RMB de frais de service</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Recharge maximum de %1$s RMB par mois uniquement</string>
   <string name="msg_send_no_net_error">Échec de l\'envoi du message : Impossible de se connecter au fournisseur réseau.</string>
@@ -444,9 +444,8 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="detail_consume_amount">Montant</string>
   <string name="detail_consume_name">Article</string>
   <string name="detail_consume_order">ID commande</string>
- <!-- à traduire : date ? 
-  <string name="detail_consume_time">Time</string>
- -->
+ <!-- detail_consume_time correct ? original : Time --> 
+  <string name="detail_consume_time">Date</string>
   <string name="detail_consume_title">Historique de paiements</string>
   <string name="detail_giftcard_activity">Promotion</string>
   <string name="detail_giftcard_expired_time">Date d\'expiration </string>
@@ -458,13 +457,10 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="detail_recharge_amount">Montant</string>
   <string name="detail_recharge_method">Méthode</string>
   <string name="detail_recharge_order">Commande No :</string>
- <!-- à traduire : date ?
-  <string name="detail_recharge_time">Time</string>
- -->
+ <!-- detail_recharge_time correct ? original : Time -->
+  <string name="detail_recharge_time">Date</string>
   <string name="detail_recharge_title">Historique de recharges</string>
- <!-- à traduire : 
-  <string name="scan_prompt_number">Scan %1$s prepaid card number</string>
-  <string name="scan_prompt_password">Scan %1$s prepaid card password</string>
-  <string name="scan_prompt_voucher">Scan MiCredit password</string>
- -->
+  <string name="scan_prompt_number">Analyse du numéro de carte prépayé %1$s</string>
+  <string name="scan_prompt_password">Analyse du numéro de carte prépayé %1$s</string>
+  <string name="scan_prompt_voucher">Analyse du code MiCredit</string>
  </resources>

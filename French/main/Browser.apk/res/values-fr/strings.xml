@@ -242,7 +242,7 @@
   <string name="history_most_visited">Les plus visités</string>
   <string name="history_saved_webpage">Enregistrer la page Web</string>
   <string name="history_track">Historique</string>
-  <string name="homepage_base">http://www.google.fr/webhp?client={CID}&amp;source=android-home</string>
+  <string name="homepage_base">https://www.google.fr/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">La page d\'accueil a été définie.</string>
   <string name="http">http://</string>
   <string name="import_bookmark">Importer les favoris</string>
@@ -539,7 +539,6 @@
   <string name="save_to_bookmarks">Ajouter aux favoris</string>
   <string name="saving_snapshot">Enregistrement en cours…</string>
   <string name="search">Rechercher</string>
-  <string name="search_139">Search 139</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">OK</string>
@@ -553,7 +552,7 @@
   <string name="search_s139">139</string>
   <string name="search_settings_description">Favoris et historique Web</string>
   <string name="search_shipin">Video</string>
-  <string name="search_sogou">Segou</string>
+  <string name="search_sogou">Sogou</string>
   <string name="search_taobao">Taobao</string>
   <string name="search_the_web">Rechercher sur le Web</string>
   <string name="search_tupian">Image</string>

@@ -27,8 +27,6 @@
     <string name="hour_minute_24" formatted="false">%-k:%M</string>
     <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
-    <string name="twelve_hour_time_format">h:mm a</string>
-    <string name="twenty_four_hour_time_format">H:mm</string>
     <string name="numeric_date" formatted="false">%d/%m/%Y</string>
     <string name="numeric_date_format">dd/MM/yyyy</string>
     <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
@@ -194,12 +192,10 @@
     <string name="silent_mode_vibrate">Sonnerie en mode vibreur</string>
     <string name="silent_mode_ring">Sonnerie activée</string>
     <string name="shutdown_progress">Arrêt en cours…</string>
-    <string name="reboot_progress">Redémarrage…</string>
     <string name="shutdown_confirm">"Votre téléphone va s'éteindre."</string>
     <string name="shutdown_confirm_question">"Voulez-vous éteindre l'appareil ?"</string>
     <string name="reboot_safemode_title">Redémarrer en mode sans échec</string>
     <string name="reboot_safemode_confirm">Voulez-vous redémarrer en mode sans échec ? Cette opération aura pour effet de désactiver toutes les applications tierces que vous avez installées. Elles seront réactivées au prochain redémarrage.</string>
-    <string name="reboot_confirm">Votre téléphone va redémarrer.</string>
     <string name="recent_tasks_title">Récentes</string>
     <string name="no_recent_tasks">Aucune application récente</string>
     <string name="global_actions">Options du téléphone</string>
@@ -215,7 +211,6 @@
     <string name="global_actions_airplane_mode_on_status">Le mode Avion est activé.</string>
     <string name="global_actions_airplane_mode_off_status">Le mode Avion est désactivé.</string>
     <string name="safeMode">Mode sécurisé</string>
-    <string name="factoryMode">Mode usine</string>
     <string name="android_system_label">Système Android</string>
     <string name="permgrouplab_costMoney">Services payants</string>
     <string name="permgroupdesc_costMoney">Effectuer des opérations payantes</string>
@@ -294,8 +289,6 @@
     <string name="permlab_sendSms">envoi de messages SMS</string>
     <string name="permdesc_sendSms">"Permet à l'application d'envoyer des messages SMS. Cette autorisation peut entraîner des frais inattendus. Les applications malveillantes peuvent générer des frais en envoyant des messages sans votre consentement."</string>
     <string name="permlab_sendSmsNoConfirmation">envoyer des SMS sans confirmation</string>
-    <string name="permdesc_sendSmsNoConfirmation">"Permet à l'application d'envoyer des messages SMS. Cette autorisation peut entraîner des frais inattendus. Les applications malveillantes peuvent générer des frais en envoyant des messages sans votre consentement."</string>
-    <string name="permlab_readSms">voir les messages texte (SMS ou MMS)</string>
     <string name="permdesc_readSms">"Permet à l'application de lire les SMS stockés sur votre téléphone ou sur la carte SIM. Cette autorisation lui permet de lire tous les SMS, indépendamment de leur contenu ou de leur caractère confidentiel."</string>
     <string name="permlab_writeSms">modifier les messages texte (SMS ou MMS)</string>
     <string name="permdesc_writeSms">"Permet à l'application de modifier les SMS stockés sur votre téléphone ou sur votre carte SIM. Des applications malveillantes peuvent exploiter cette fonctionnalité pour supprimer vos messages."</string>
@@ -513,7 +506,7 @@
     <string name="permdesc_accessMtp">"Permet l'accès au pilote MTP du noyau à des fins de mise en œuvre du protocole USB MTP."</string>
     <string name="permlab_hardware_test">tests du matériel</string>
     <string name="permdesc_hardware_test">"Permet à l'application de contrôler différents périphériques à des fins de test matériel."</string>
-    <string name="permlab_callPhone">appel direct des numéros de téléphone</string>
+    <string name="permlab_callPhone">appeler directement des numéros de téléphone</string>
     <string name="permdesc_callPhone">"Permet à l'application d'appeler des numéros de téléphone sans votre intervention. Cette autorisation peut entraîner des frais ou des appels imprévus et ne permet pas à l'application d'appeler des numéros d'urgence. Les applications malveillantes peuvent générer des frais en passant des appels sans votre consentement."</string>
     <string name="permlab_callPrivileged">appel direct de tout numéro de téléphone</string>
     <string name="permdesc_callPrivileged">"Permet à l'application d'appeler n'importe quel numéro de téléphone, y compris les numéros d'urgence, sans votre intervention. Des applications malveillantes peuvent passer des appels inutiles et interdits aux services d'urgence."</string>
@@ -533,8 +526,6 @@
     <string name="permdesc_wakeLock">"Permet à l'application d'empêcher le téléphone de passer en mode veille."</string>
     <string name="permlab_devicePower">éteindre ou allumer le téléphone</string>
     <string name="permdesc_devicePower">"Permet à l'application d'éteindre et d'allumer le téléphone."</string>
-    <string name="permlab_nvidiaCPUPower">ajuster le CPU Nvidia Tegra</string>
-    <string name="permdesc_nvidiaCPUPower">"Permet de régler les paramètres du CPU NVIDIA Tegra via l'application. Cela peut consommer de l'énergie supplémentaire."</string>
     <string name="permlab_factoryTest">"Exécution en mode Test d'usine"</string>
     <string name="permdesc_factoryTest">"Permet d'exécuter une application en mode test fabricant de faible niveau en autorisant ainsi l'accès au téléphone. Cette fonctionnalité est uniquement disponible lorsque le téléphone est en mode test fabricant."</string>
     <string name="permlab_setWallpaper">"configurer le fond d'écran"</string>
@@ -820,11 +811,9 @@ Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_reboot">Redémarrer</string>
     <string name="js_dialog_title">La page \"%s\" indique :</string>
     <string name="js_dialog_title_default">JavaScript</string>
-    <string name="js_dialog_before_unload">"Voulez-vous quitter cette page ?
+    <string name="js_dialog_before_unload">"%s
 
-%s
-
-Appuyez sur \"OK\" pour continuer ou \"Annuler\" pour rester sur la page actuelle."</string>
+Voulez-vous vraiment quitter cette page ?"</string>
     <string name="save_password_label">Confirmer</string>
     <string name="double_tap_toast">Conseil : Appuyez deux fois pour faire un zoom avant ou arrière.</string>
     <string name="autofill_this_form">Saisie auto</string>
@@ -929,7 +918,7 @@ Appuyez sur \"OK\" pour continuer ou \"Annuler\" pour rester sur la page actuell
     <string name="noApplications">Aucune application ne peut effectuer cette action.</string>
     <string name="aerr_title" />
     <string name="aerr_application">"L'application \"%1$s\" s'est arrêtée."</string>
-    <string name="aerr_process">"Malheureusement, le processus %1$s s'est arrêté."</string>
+    <string name="aerr_process">"Le processus %1$s s'est interrompu."</string>
     <string name="anr_title" />
     <string name="anr_activity_application">"L'application %2$s ne répond pas.
 
@@ -1005,7 +994,6 @@ Voulez-vous la fermer ?"</string>
     <string name="wifi_p2p_enter_pin_message">Saisissez le code PIN requis :</string>
     <string name="wifi_p2p_show_pin_message">Code PIN :</string>
     <string name="wifi_p2p_frequency_conflict_message">"Le téléphone sera déconnecté du réseau Wi-Fi tant qu'il sera connecté à l'appareil %1$s."</string>
-    <string name="p2p_wifi_frequency_conflict_message">La connexion Wi-Fi directe va être interompue. Voulez-vous continuer ?</string>
     <string name="select_character">Insérer un caractère</string>
     <string name="sms_control_title">Envoi de messages SMS</string>
     <string name="sms_control_message">"&lt;b>%1$s&lt;/b> envoie un grand nombre de SMS. Autorisez-vous cette application à poursuivre l'envoi des messages ?"</string>
@@ -1122,7 +1110,6 @@ pour le compte \"%s\""</string>
     <string name="vpn_lockdown_connecting">VPN permanent en cours de connexion…</string>
     <string name="vpn_lockdown_connected">VPN permanent connecté</string>
     <string name="vpn_lockdown_error">Erreur du VPN permanent</string>
-    <string name="vpn_lockdown_reset">"Appuyez sur l'écran pour réinitialiser la connexion."</string>
     <string name="upload_file">Sélectionner un fichier</string>
     <string name="no_file_chosen">Aucun fichier sélectionné</string>
     <string name="reset">Réinitialiser</string>
@@ -1141,10 +1128,8 @@ pour le compte \"%s\""</string>
     <string name="no_matches">Aucune correspondance</string>
     <string name="find_on_page">Rechercher sur la page</string>
     <string name="action_mode_done">OK</string>
-    <string name="progress_unmounting">Démontage du stockage USB…</string>
-    <string name="progress_unmounting_internal">Démontage du stockage interne…</string>
+    <string name="progress_unmounting">Désinstallation de la mémoire de stockage USB en cours…</string>
     <string name="progress_erasing">Effacement de la mémoire de stockage USB en cours…</string>
-    <string name="progress_erasing_internal">Effacement du stockage interne…</string>
     <string name="format_error">"Impossible d'effacer la mémoire de stockage USB."</string>
     <string name="media_bad_removal">La carte SD a été retirée sans avoir été désinstallée.</string>
     <string name="media_checking">Vérification de la mémoire de stockage USB…</string>
@@ -1316,11 +1301,72 @@ Veuillez réessayer dans %d secondes."</string>
  Veuillez réessayer dans %d secondes."</string>
     <string name="kg_text_message_separator">" — "</string>
     <string name="kg_reordering_delete_drop_target_text">Supprimer</string>
-    <string name="safe_media_volume_warning">"Augmenter le volume au-dessus du niveau de sécurité ?
+    <string name="safe_media_volume_warning">"Augmenter le volume au-dessus du niveau recommandé ?
 L'écoute à un volume élevé pendant des périodes prolongées peut endommager votre audition."</string>
     <string name="continue_to_enable_accessibility">"Pour activer l'accessibilité, appuyez de manière prolongée avec deux doigts."</string>
     <string name="accessibility_enabled">"L'accessibilité a bien été activée."</string>
     <string name="enable_accessibility_canceled">Accessibilité annulée.</string>
     <string name="user_switched">Utilisateur actuel : %1$s</string>
     <string name="owner_name">Propriétaire</string>
+    <string name="enablePin">Unsuccessful. Enable SIM/RUIM Lock.</string>
+    <string name="permgrouplab_screenlock">Écran de verrouillage</string>
+    <string name="permgroupdesc_screenlock">"Modifier le comportement de l'écran de verrouillage sur votre appareil"</string>
+    <string name="permgrouplab_accessibilityFeatures">"Fonctionnalités d'accessibilité"</string>
+    <string name="permgroupdesc_accessibilityFeatures">"Fonctionnalités pouvant être requises dans le cadre des technologies d'assistance"</string>
+    <string name="capability_title_canRetrieveWindowContent">"Récupérer le contenu d'une fenêtre"</string>
+    <string name="capability_desc_canRetrieveWindowContent">"Inspecter le contenu d'une fenêtre avec laquelle vous interagissez."</string>
+    <string name="capability_title_canRequestTouchExploration">Activer la fonctionnalité Explorer au toucher</string>
+    <string name="capability_desc_canRequestTouchExploration">"Les éléments sélectionnés sont énoncés à voix haute. Vous pouvez explorer l'écran à l'aide de gestes."</string>
+    <string name="capability_title_canRequestEnhancedWebAccessibility">"Activer l'accessibilité Web améliorée"</string>
+    <string name="capability_desc_canRequestEnhancedWebAccessibility">Vous pouvez installer des scripts pour rendre le contenu des applications plus accessible.</string>
+    <string name="capability_title_canRequestFilterKeyEvents">Observer le texte que vous saisissez</string>
+    <string name="capability_desc_canRequestFilterKeyEvents">Inclut des données personnelles telles que les numéros de cartes de paiement et les mots de passe.</string>
+    <string name="permlab_sendRespondViaMessageRequest">envoyer des réponses par message</string>
+    <string name="permdesc_sendRespondViaMessageRequest">"Permet à l'application d'envoyer à d'autres applications de SMS/MMS des demandes pour gérer les réponses par message pour les appels entrants."</string>
+    <string name="permlab_getTopActivityInfo">"Récupérer des informations sur l'application actuelle"</string>
+    <string name="permdesc_getTopActivityInfo">"Permet à l'application autorisée de récupérer des informations confidentielles à propos de l'application exécutée au premier plan sur l'écran."</string>
+    <string name="permlab_getAppOpsStats">récupérer les statistiques de fonctionnement des applications</string>
+    <string name="permdesc_getAppOpsStats">"Permet à l'application de récupérer les statistiques de fonctionnement des applications recueillies. Les applications standards ne doivent pas utiliser cette fonctionnalité."</string>
+    <string name="permlab_updateAppOpsStats">modifier les statistiques de fonctionnement des applications</string>
+    <string name="permdesc_updateAppOpsStats">"Permet à l'application de modifier les statistiques de fonctionnement des applications collectées. Les applications standards ne doivent pas utiliser cette fonctionnalité."</string>
+    <string name="permlab_cameraDisableTransmitLed">"désactiver l'indicateur d'émission LED lorsque la caméra est en cours d'utilisation"</string>
+    <string name="permdesc_cameraDisableTransmitLed">"Permet à une application système préinstallée de désactiver l'indicateur LED d'utilisation de la caméra."</string>
+    <string name="permlab_accessNotifications">accéder aux notifications</string>
+    <string name="permdesc_accessNotifications">"Permet aux applications de récupérer, d'examiner et d'autoriser les notifications, y compris celles envoyées par d'autres applications."</string>
+    <string name="permlab_bindNotificationListenerService">"s'associer à l'interface de niveau supérieur d'un service d'écoute des notifications"</string>
+    <string name="permdesc_bindNotificationListenerService">"Permet à l'application de s'associer à l'interface de niveau supérieur d'un service d'écoute des notifications. Ne devrait jamais être nécessaire pour les applications normales."</string>
+    <string name="keyguard_password_wrong_puk_code">Code PUK incorrect !</string>
+    <string name="keyguard_password_pin_failed">Opération PIN échoué !</string>
+    <string name="keyguard_password_puk_failed">Opération PUK échoué !</string>
+    <string name="keyguard_pin_accepted">Code accepté</string>
+    <string name="pinpuk_attempts">"
+Essais restants :"</string>
+    <string name="lockscreen_sim_error_message_short">Carte non valide</string>
+    <string name="lockscreen_sim_error_message">"La carte SIM n'est pas valide."</string>
+    <string name="lockscreen_perso_locked_message">SIM / RUIM est verrouillé Perso</string>
+    <string name="lockscreen_airplane_mode_on">Mode avion</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d sur %3$d.</string>
+    <string name="js_dialog_before_unload_title">Quitter la page</string>
+    <string name="js_dialog_before_unload_positive_button">Quitter cette page</string>
+    <string name="js_dialog_before_unload_negative_button">Rester sur cette page</string>
+    <string name="app_running_notification_title">"%1$s en cours d'exécution"</string>
+    <string name="app_running_notification_text">"Appuyez ici pour en savoir plus ou arrêter l'application."</string>
+    <string name="notification_listener_binding_label">"Outil d'écoute des notifications"</string>
+    <string name="vpn_lockdown_config">Appuyer pour configurer</string>
+    <string name="progress_nomediapresent">Aucun média amovible disponible…</string>
+    <string name="wireless_display_route_description">Affichage sans fil</string>
+    <string name="error_message_title">Erreur</string>
+    <string name="app_no_restricted_accounts">Les comptes des profils limités ne sont pas acceptés pour cette application.</string>
+    <string name="app_not_found">Aucune application trouvée pour gérer cette action.</string>
+    <string name="revoke">Révoquer</string>
+    <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
+    <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
+    <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
+    <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
+    <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
+    <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
+    <string name="msim_kg_sim_pin_msg_format" formatted="false">SUB:%d : %s.</string>
+    <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
+    <string name="permission_remember_choice">Mémoriser</string>
+    <string name="permission">Permission</string>
 </resources>

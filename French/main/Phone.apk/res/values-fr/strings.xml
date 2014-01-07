@@ -182,6 +182,7 @@
   <string name="cancel_call">Annuler</string>
   <string name="card_01">Carte 1</string>
   <string name="card_02">Carte 2</string>
+  <string name="card_03">Carte 3</string>
   <string name="card_title_MOcall_forwarding">Transfère d\'appel sortant</string>
   <string name="card_title_MTcall_forwarding">Appel entrant transféré</string>
   <string name="card_title_call_deflected">Appel dévié</string>
@@ -759,6 +760,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="pin_progress_unlock_icc_miui">Déblocage de la carte SIM…</string>
   <string name="place_a_call1">Abonnement 1</string>
   <string name="place_a_call2">Abonnement 2</string>
+  <string name="place_a_call3">Abonnement 3</string>
  <!--  translatable="false" in CM ! https://github.com/CyanogenMod/android_packages_apps_Phone/blob/cm-10.1/res/values/strings.xml
   <string name="port">Port</string> -->
   <string name="port_title">N° de port</string>
@@ -789,6 +791,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
 Appuyez sur OK pour continuer."</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
+  <string name="preferred_network_type_td_scdma_miui">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G privilégiée</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automatique</string>
   <string name="preferred_network_type_pref_entries_global_miui">Global</string>
@@ -914,6 +917,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="set_smsc_address_title_miui">Définir le numéro du centre SMS</string>
   <string name="set_sub_1">Abonnement 1 :</string>
   <string name="set_sub_2">Abonnement 2 :</string>
+  <string name="set_sub_3">Abonnement 3 :</string>
   <string name="set_sub_activate_failed">Activation échouée</string>
   <string name="set_sub_activate_not_supported">L\'activation n\'est pas prise en charge</string>
   <string name="set_sub_activate_success">L\'activation a réussi</string>
@@ -985,6 +989,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="sub2LineNumber">Numéro de l\'abonnement 2 :</string>
   <string name="sub_1">SUB 1</string>
   <string name="sub_2">SUB 2</string>
+  <string name="sub_3">SUB 3</string>
   <string name="sub_one">Gérer le 1er abonnement</string>
   <string name="sub_two">Gérer le 2e abonnement</string>
   <string name="subone">Abonnement 1</string>
@@ -1152,4 +1157,70 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="oldman_reject_call_button_text">rejeter</string>
   <string name="oldman_end_call_button_text">fin</string>
   <string name="oldman_dialpad_button_text">compositeur</string>
+  
+  
+  
+  <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
+  <string name="retry">Retry</string>
+  <string name="call_lost_title">Call Lost</string>
+  <string name="enter_input">Input Required. Try again!!</string>
+  <string name="modify_call_prompt_yes">Yes</string>
+  <string name="modify_call_prompt_no">No</string>
+  <string name="modify_call_failure_str">"Modify Call request failed
+"</string>
+  <string name="modify_call_option_title">Which type of call?</string>
+  <string name="modify_call_option_vt">VT</string>
+  <string name="modify_call_option_vt_tx">Video transmit</string>
+  <string name="modify_call_option_vt_rx">Video receive</string>
+  <string name="modify_call_option_voice">Voice Only</string>
+  <string name="accept_modify_call_request_prompt">Accept modify call request?</string>
+  <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
+  <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
+  <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
+  <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
+"</string>
+  <string name="preferred_network_mode_td_scdma_only_summary">Preferred network mode: TD-SCDMA only</string>
+  <string name="preferred_network_mode_td_scdma_wcdma_summary">Preferred network mode: TD-SCDMA / WCDMA</string>
+  <string name="preferred_network_mode_td_scdma_lte_summary">Preferred network mode: TD-SCDMA / LTE</string>
+  <string name="preferred_network_mode_td_scdma_gsm_summary">Preferred network mode: TD-SCDMA / GSM</string>
+  <string name="preferred_network_mode_td_scdma_gsm_lte_summary">Preferred network mode: TD-SCDMA/GSM/LTE</string>
+  <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/GSM/WCDMA</string>
+  <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Preferred network mode: TD-SCDMA/WCDMA/LTE</string>
+  <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Preferred network mode: TD-SCDMA/GSM/WCDMA/LTE</string>
+  <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
+  <string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
+  <string name="sub1">Subscription 1</string>
+  <string name="sub1_summary">Manage Subscription 1</string>
+  <string name="sub2">Subscription 2</string>
+  <string name="sub2_summary">Manage Subscription 2</string>
+  <string name="sub3">Subscription 3</string>
+  <string name="sub3_summary">Manage Subscription 3</string>
+  <string name="onscreenModifyCallText">Modify Call</string>
+  <string name="onscreenSwitchText">Switch Subscription</string>
+  <string name="onscreenAddParticipant">Add Participant</string>
+  <string name="managed_roaming_title">Managed Roaming</string>
+  <string name="managed_roaming_title_sub1">Managed Roaming (SUB1)</string>
+  <string name="managed_roaming_title_sub2">Managed Roaming (SUB2)</string>
+  <string name="managed_roaming_title_sub3">Managed Roaming (SUB3)</string>
+  <string name="managed_roaming_dialog_content">Network with Limited Service found. Do you want to initiate a Network Search?</string>
+  <string name="managed_roaming_dialog_ok_button">Yes</string>
+  <string name="managed_roaming_dialog_cancel_button">No</string>
+  <string name="remove_ims_account">Remove account</string>
+  <string name="ims_menu_discard">Discard</string>
+  <string name="ims_menu_save">Save</string>
+  <string name="use_ims_default_title">Use IMS Always</string>
+  <string name="call_type_title">IMS Call type</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Reset default app</string>
+  <string name="description_target_answer_video">Answer with Video</string>
+  <string name="description_target_answer_tx_video">Answer with TX Video</string>
+  <string name="description_target_answer_rx_video">Answer with RX Video</string>
+  <string name="description_direction_up_right">Up Right</string>
+  <string name="description_direction_up_left">Up Left</string>
+  <string name="description_direction_down_left">Down Left</string>
+  <string name="description_direction_down_right">Down Right</string>
+  <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
+  <string name="set_sub_global_activate_failed">Activate global failed</string>
+  <string name="set_sub_global_activate_failed">Activate global failed</string>
+  <string name="set_sub_global_deactivate_failed">Deactivate global failed</string>
+  <string name="set_sub_not_supported_phone_in_call">Activate or Deactivate subscription is not allowed while phone in call.</string>
  </resources>

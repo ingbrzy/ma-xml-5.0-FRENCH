@@ -5,7 +5,7 @@
 * anzu: Sony Xperia Arc S jb-4.1
 * aries: Xiaomi MI2/MI2-S jb-4.1
 * C8690: Newman N2  jb-4.1
-* cancro: Xiaomi MI3 (WCDMA) jb-4.?
+* cancro: Xiaomi MI3 (WCDMA) jb-4.3
 * CRESPO: Google-Samsung Nexus S jb-4.2
 * endeavoru: HTC One X jb-4.1
 * FIND5: OPPO Find 5 jb-4.1
@@ -29,7 +29,7 @@
 * mione_plus: Xiaomi MI One Series jb-4.1
 * mx2: Meizu MX2 jb-4.1
 * nozomi: Sony Xperia S jb-4.1
-* P175A20: ZTE V970M 
+* P175A20: ZTE V970M jb-4.?
 * P188F04: ZTE V987 jb-4.2
 * P188F07: ZTE V967S jb-4.2
 * p760: LG L9 jb-4.2

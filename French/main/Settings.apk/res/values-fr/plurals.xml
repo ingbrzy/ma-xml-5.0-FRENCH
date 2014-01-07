@@ -28,6 +28,10 @@
         <item quantity="other">Le mot de passe doit comporter au moins %d caractères autres que des lettres.</item>
         <item quantity="one">"Le mot de passe doit comporter au moins un caractère autre qu\'une lettre."</item>
     </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="one">"%d application peut lire les notifications."</item>
+        <item quantity="other">"%d applications peuvent lire les notifications."</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d jours "</item>
         <item quantity="one">"%d jour "</item>

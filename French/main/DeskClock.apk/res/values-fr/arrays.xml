@@ -38,7 +38,7 @@
         <item>5</item>
         <item>Inactif</item>
     </string-array>
-	<string-array name="alarm_repeat_type">
+    <string-array name="alarm_repeat_type">
         <item>Une fois</item>
         <item>Tous les jours</item>
         <item>"Jours ouvrés "</item>

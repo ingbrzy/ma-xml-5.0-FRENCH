@@ -70,7 +70,7 @@
   <string name="camera_folder_display_name">Appareil photo</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Fond d\'écran</string>
-  <string name="camera_view_none_message">Les photos et vidéos prises seront affichées ici.</string>
+  <string name="camera_view_none_message">Les photos et vidéos prises s\'afficheront ici.</string>
   <string name="can_modified">Autoriser le partageur à ajouter des images</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_hint">L\'opération a été annulée</string>
@@ -335,7 +335,7 @@
   <string name="posterize">Postérisation</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="projection">Projection</string>
-  <string name="public_url_descript">N\'importe qui peut accéder à votre album à l\'aide de cette URL</string>
+  <string name="public_url_descript">N\'importe qui peut accéder à votre album à l\'aide de l'\URL :</string>
   <string name="publish_failed">Impossible de publier.</string>
   <string name="publish_succeeded">Album publié</string>
   <string name="publishing">Publication en cours, veuillez patienter…</string>
@@ -414,7 +414,7 @@
   <string name="share_by_email_start">Tentative de partage de %1$s en arrière-plan</string>
   <string name="share_by_email_successfully">Partage de %1$s via Mail réussi</string>
   <string name="share_current_album">Partager l\'album actuel</string>
-  <string name="share_public_url_text">J\'ai partagé l\'album %1$s. Parcourir %2$s</string>
+  <string name="share_public_url_text">J\'ai partagé l\'album %1$s. Lien : %2$s</string>
   <string name="share_user_name">Nom</string>
   <string name="sharer_quota_fulfiled">"Impossible d'ajouter un partageur, le quota de partageurs a atteint sa limite."</string>
   <string name="sharer_status_accepted">Accepté</string>
@@ -480,7 +480,7 @@
   <string name="unpublish_succeeded">Album non publié !</string>
   <string name="unpublishing">Annulation de la publication, veuillez patienter…</string>
   <string name="untagged">Aucun tag</string>
-  <string name="user_alias_self">Soi</string>
+  <string name="user_alias_self">Moi</string>
   <string name="video_err">Impossible de lire la vidéo.</string>
   <string name="view_sharers">Afficher les partageurs</string>
   <string name="vignette">Vignette</string>

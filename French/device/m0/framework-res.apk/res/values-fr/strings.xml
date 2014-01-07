@@ -1348,7 +1348,7 @@ pour le compte %s"</string>
     <string name="no_matches">Aucune correspondance</string>
     <string name="find_on_page">Rech. sur page</string>
     <string name="action_mode_done">OK</string>
-    <string name="progress_unmounting">Démontage du stockage USB…</string>
+    <string name="progress_unmounting">Désinstallation de la mémoire de stockage USB en cours…</string>
     <string name="progress_unmounting_sd">Démontage de la carte SD…</string>
     <string name="progress_erasing">Formatage du stockage USB…</string>
     <string name="progress_erasing_sd">Formatage de la carte SD…</string>

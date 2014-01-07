@@ -197,9 +197,9 @@
   <string name="event_hide_more">Masquer</string>
   <string name="event_info_descrip">"Description : "</string>
   <string name="event_info_repeat">"Récurrence : "</string>
-  <string name="event_info_when">"Quand : "</string>
-  <string name="event_info_where">"Où : "</string>
-  <string name="event_show_more">Afficher</string>
+  <string name="event_info_when">"Date : "</string>
+  <string name="event_info_where">"Endroit : "</string>
+  <string name="event_show_more">Plus d\'options…</string>
   <string name="lunar_date">Date lunaire</string>
  <!-- show_all_lunar à revoir -->
   <string name="show_all_lunar">Afficher lunaire</string>

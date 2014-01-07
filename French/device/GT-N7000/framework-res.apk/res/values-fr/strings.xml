@@ -1099,7 +1099,7 @@ pour le compte %s"</string>
   <string name="no_matches">Aucune correspondance</string>
   <string name="find_on_page">Rech. sur page</string>
   <string name="action_mode_done">OK</string>
-  <string name="progress_unmounting">Démontage du stockage USB…</string>
+  <string name="progress_unmounting">Désinstallation de la mémoire de stockage USB en cours…</string>
   <string name="progress_erasing">Formatage du stockage USB…</string>
   <string name="format_error">Échec du formatage de la carte SD</string>
   <string name="media_bad_removal">Carte SD retirée sans avoir été démontée</string>

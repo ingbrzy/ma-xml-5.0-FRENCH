@@ -929,7 +929,7 @@ Appuyez sur \"OK\" pour continuer ou \"Annuler\" pour rester sur la page actuell
     <string name="noApplications">Aucune application ne peut effectuer cette action.</string>
     <string name="aerr_title" />
     <string name="aerr_application">"L'application \"%1$s\" s'est arrêtée."</string>
-    <string name="aerr_process">"Malheureusement, le processus %1$s s'est arrêté."</string>
+    <string name="aerr_process">"Le processus %1$s s'est interrompu."</string>
     <string name="anr_title" />
     <string name="anr_activity_application">"L'application %2$s ne répond pas.
 
@@ -1141,8 +1141,8 @@ pour le compte \"%s\""</string>
     <string name="no_matches">Aucune correspondance</string>
     <string name="find_on_page">Rechercher sur la page</string>
     <string name="action_mode_done">OK</string>
-    <string name="progress_unmounting">Démontage du stockage USB…</string>
-    <string name="progress_unmounting_internal">Démontage du stockage interne…</string>
+    <string name="progress_unmounting">Désinstallation de la mémoire de stockage USB en cours…</string>
+    <string name="progress_unmounting_internal">Désinstallation de la mémoire de stockage interne en cours…</string>
     <string name="progress_erasing">Effacement de la mémoire de stockage USB en cours…</string>
     <string name="progress_erasing_internal">Effacement du stockage interne…</string>
     <string name="format_error">"Impossible d'effacer la mémoire de stockage USB."</string>
@@ -1316,7 +1316,7 @@ Veuillez réessayer dans %d secondes."</string>
  Veuillez réessayer dans %d secondes."</string>
     <string name="kg_text_message_separator">" — "</string>
     <string name="kg_reordering_delete_drop_target_text">Supprimer</string>
-    <string name="safe_media_volume_warning">"Augmenter le volume au-dessus du niveau de sécurité ?
+    <string name="safe_media_volume_warning">"Augmenter le volume au-dessus du niveau recommandé ?
 L'écoute à un volume élevé pendant des périodes prolongées peut endommager votre audition."</string>
     <string name="continue_to_enable_accessibility">"Pour activer l'accessibilité, appuyez de manière prolongée avec deux doigts."</string>
     <string name="accessibility_enabled">"L'accessibilité a bien été activée."</string>

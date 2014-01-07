@@ -1218,7 +1218,7 @@ pour le compte "%s""</string>
     <string name="no_matches">Aucune correspondance</string>
     <string name="find_on_page">Rechercher sur la page</string>
     <string name="action_mode_done">OK</string>
-    <string name="progress_unmounting">Démontage du stockage USB…</string>
+    <string name="progress_unmounting">Désinstallation de la mémoire de stockage USB en cours…</string>
     <string name="progress_erasing">Effacement de la mémoire de stockage USB en cours…</string>
     <string name="format_error">"Impossible d'effacer la mémoire de stockage USB."</string>
     <string name="media_bad_removal">La carte SD a été retirée sans avoir été désinstallée.</string>
