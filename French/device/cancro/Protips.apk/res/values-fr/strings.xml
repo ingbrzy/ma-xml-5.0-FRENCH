@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_name">Astuces de l\'écran d\'accueil</string>
+    <string name="pager_footer">%1$d sur %2$d</string>
+    <string name="tts_pause">.</string>
+</resources>

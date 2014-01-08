@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>Accéder à toutes vos applications\n Appuyez sur le lanceur d\'applications. @drawable/all_apps</item>
+        <item>Faites glisser les applications vers votre écran d\'accueil.\n Appuyez sur une application du lanceur d\'applications jusqu\'à ce qu\'elle vibre.</item>
+        <item>Organiser l\'écran d\'accueil\n Appuyez sur un élément et maintenez. Lorsqu\'il vibre, placez-le à l\'endroit souhaité.</item>
+        <item>Supprimer un élément\n Appuyez sur l\'élément et maintenez. Lorsqu\'il vibre, déplacez-le vers la corbeille. @drawable/trash</item>
+        <item>>Écrans d\'accueil multiples\n Faites glisser l\'écran vers la droite/gauche. Déplacez les icônes d\'un écran à l\'autre.</item>
+        <item>Supprimer un widget\n Appuyez dessus et maintenez. Quand il vibre, déplacez-le vers la corbeille.</item>
+    </string-array>
+<!-- à traduire :
+    <string-array name="tips2">
+        <item>"Home is a garden 
+Touch &amp; hold an empty spot 
+To grow new icons"</item>
+        <item>"Phone isn’t waterproof 
+Do not immerse in water 
+or other fluids"</item>
+        <item>"Want some more home screens? 
+Swipe left and right to find them 
+(No theft required)"</item>
+        <item>"Little Home screen dots 
+What could they possibly do? 
+Touch &amp; hold to learn."</item>
+        <item>"Status bar icons 
+To discover their secrets 
+Pull the windowshade"</item>
+        <item>"There is a trick to 
+Dragging items twixt Home screens 
+Pause at the edges"</item>
+        <item>"Touch Market for apps 
+Like a box of chocolates 
+Each one a surprise"</item>
+        <item>"Oh, and by the way: 
+Ceci n’est pas une trombone 
+I am an Android"</item>
+    </string-array>
+-->
+</resources>

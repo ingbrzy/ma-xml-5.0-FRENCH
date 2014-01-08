@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Rapport de bug enregistré</string>
+    <string name="bugreport_finished_text">Appuyer ici pour partager votre rapport de bug</string>
+    <string name="bugreport_confirm">"Les rapports de bug contiennent des données des fichiers journaux du système, y compris des informations personnelles et privées. Ne partagez les rapports de bug qu\'avec les applications et les personnes que vous estimez fiables."</string>
+    <string name="bugreport_confirm_repeat">Afficher ce message la prochaine fois</string>
+</resources>
