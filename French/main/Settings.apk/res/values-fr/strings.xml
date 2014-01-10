@@ -584,7 +584,7 @@ Pour continuer d\'utiliser votre téléphone, vous devez rétablir la configurat
   <string name="cryptkeeper_return_to_call">Retour à l\'appel</string>
   <string name="current_backup_pw_prompt">Saisissez le mot de passe actuel utilisé pour les sauvegardes complètes.</string>
   <string name="current_input_method">Par défaut</string>
-  <string name="data_size_label">Données</string>
+  <string name="data_size_label">"Données "</string>
   <string name="data_summary">Sélectionner abonnement pour les données d\'appel</string>
   <string name="data_title">Appel de données</string>
   <string name="data_usage_app_restrict_background">Limiter données en arrière-plan</string>
@@ -3823,20 +3823,45 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="user_profile_confirm_remove_message">L\'espace et les données de ce profil vont être supprimés de ce téléphone. Cette action est irréversible.</string>
   <string name="restriction_nfc_enable_summary">Autoriser l\'échange de données lorsque le téléphone est en contact avec un autre appareil</string>
  <!-- system_storage à vérifier ? : Systeme storage = Stockage système?? -->
-  <string name="system_storage">Mémoire interne</string>
+  <string name="system_storage">Mémoire interne</string>  
+  <string name="empty_folder_title">Dossier vide (%d)</string>
+  <string name="list_sub_view_item_view">Détail</string>
+  <string name="list_sub_view_item_clean">Nettoyer</string>
+  <string name="list_sub_view_item_install">Installer</string>
+  <string name="list_sub_view_item_lock">Verrouiller</string>
+  <string name="list_sub_view_item_unlock">Déverrouiller</string>
+  <string name="power_save_on_time_goout_title">Restaurer vers</string>
+  <string name="power_save_choose_recovery_mode">Sélectionnez un mode</string>
+  <string name="power_new_choose_mode">Sélectionnez un mode</string>
+ <!-- à traduire
+  <string name="power_save_low_battery_option_recovery_title">If battery recovers, basculement vers</string>
+  <string name="power_save_on_time_option_recovery_title">Heure planifiée atteinte, basculement vers</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Can’t delete,
+Your device is set to switch to this configuration when battery recovers. You need to change your battery settings before you can delete this configuration."</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">"Can’t delete,
+Your device is set to switch to this configuration when time is up to scheduled period. You need to change your battery settings before you can delete this configuration."</string>
+ -->
+  <string name="power_mode_chooser_button_text">Appliquer</string>
+  <string name="perm_support_hints">Propulsé par LBE</string>
+  <string name="menu_item_about_summary">Version : %s</string>
+  <string name="menu_item_shortcut">Créer des raccourcis</string>
+  <string name="menu_item_shortcut_uninstall">Supp. des raccourcis</string>
+  <string name="menu_item_shortcut_title">Ajouter un raccourci</string>
+  <string name="menu_item_shortcut_summary">Place des fonctions fréquemment utilisées sur l\'accueil</string>
+  <string name="menu_item_settings_title">Paramètres</string>
+  <string name="activity_title_create_shortcut">Raccourci</string>
+  <string name="activity_title_settings">Paramètres</string>
+  <string name="toast_shortcut_install">Raccourci créé</string>
+  <string name="toast_shortcut_uninstall">Raccourci supprimé</string>
  <!-- à traduire :
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
+  <string name="touch_sensitive_summary">Enable sensitive touch to support operate mobile phone when wearing gloves, Prevent pocket dials will turn on</string>
+  <string name="touch_sensitive_turn_off_summary">Do you want to turn off Prevent pocket dials?</string>
  -->
   <string name="touch_title">Toucher</string>
   <string name="touch_sensitive_title">Mode gants</string>
- <!-- à traduire : 
-  <string name="touch_sensitive_summary">Enable sensitive touch to support operate mobile phone when wearing gloves, Prevent pocket dials will turn on</string>
-  -->
   <string name="touch_sensitive_turn_off_title">Désactiver le mode gants</string>
- <!-- à traduire : 
-  <string name="touch_sensitive_turn_off_summary">Do you want to turn off Prevent pocket dials?</string>
- -->
   <string name="touch_sensitive_turn_off_confirm">Confirmer</string>
   <string name="touch_sensitive_turn_off_cancel">Annuler</string>
 </resources>

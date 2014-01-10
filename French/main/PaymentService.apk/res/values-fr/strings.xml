@@ -342,6 +342,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="onemore_click_exit">Appuyer encore pour quitter</string>
   <string name="order_price">%1$s MiCredits</string>
   <string name="password_error">Veuillez saisir votre mot de passe</string>
+  <string name="password_forget">Mot de passe oublié ?</string>
   <string name="password_hint">Veuillez saisir votre mot de passe Xiaomi :</string>
   <string name="pay_record_empty">Aucun historique de paiement</string>
   <string name="pay_record_typeall">Tous</string>

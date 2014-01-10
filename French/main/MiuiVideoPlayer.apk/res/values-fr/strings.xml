@@ -23,7 +23,7 @@
   <string name="menu_item_media_info_label">Afficher les infos du média</string>
   <string name="menu_item_orientation_auto_sensor_action">Activer la rotation</string>
   <string name="menu_item_orientation_fixed_by_videosize_action">Désactiver la rotation</string>
-  <string name="menu_item_screen_shot">Captures d\'écran</string>
+  <string name="menu_item_screen_shot">Capture d\'écran</string>
   <string name="menu_item_sub_title">Sous titres</string>
   <string name="menu_item_switch_width_height_label">Changer la proportion</string>
   <string name="menu_wh_item_adapt_height_label">Ajuster la hauteur</string>

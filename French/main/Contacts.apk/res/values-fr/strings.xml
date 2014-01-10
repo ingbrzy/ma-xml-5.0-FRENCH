@@ -292,7 +292,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="device_version_header_bluetooth">activez le Bluetooth</string>
   <string name="device_version_header_no_bluetooth">Importer les contacts de la carte SIM</string>
   <string name="device_version_title">Sélectionnez la version de mobile</string>
-  <string name="dial">numéroter</string>
+  <string name="dial">Numéroter</string>
   <string name="dialerDialpadHintText">Composez pour ajouter un appel</string>
   <string name="dialerIconLabel">Récents</string>
   <string name="dialerKeyboardHintText">Utilisez le clavier pour composer le numéro</string>
@@ -868,10 +868,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_online">%1$s en ligne</string>
  <!-- resource_pack_confirm et resource_pack_warning à vérifier/Revoir ? -->
   <string name="resource_pack_confirm">Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d\'acheter les articles restants individuellement, souhaitez-vous continuer ?</string>
- <!-- à traduire 
-  <string name="resource_pack_discount_info">%1$s Saved!</string>  Économisé(s?) ?
-  <string name="resource_pack_price_info">%1$s Original</string
- -->
+  <string name="resource_pack_discount_info">Économisé : %1$s</string>
+  <string name="resource_pack_price_info">Original : %1$s</string>
   <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restant, veuillez les acheter individuellement.</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
@@ -1168,4 +1166,15 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="email_too_long">Email trop long.</string>
   <string name="error_save_usim_contact_email_lost">Impossible de sauvegarder l\'email car le stockage USIM pour les emails est complet.</string>
   <string name="sim_contact_invalid">Contact SIM non valide</string>
+  <string name="group_name">Mes groupes</string>
+  <string name="resource_import_failed">Échec de l\'importation</string>
+  <string name="resource_ringtone_playing_error">erreur de lecture</string>
+  <string name="resource_download_trial">Période d\'essai gratuite</string>
+  <string name="resource_apply_trial">Essayer maintenant</string>
+  <string name="resource_on_trial">Essai en cours de \"%1$s\"</string>
+  <string name="resource_trial_time">(%1$d minutes)</string>
+  <string name="resource_trial_end_title">Période d\'essai terminée</string>
+  <string name="resource_trial_end_message">La période d\'essai de \"%1$s\" est terminée. S\'il vous à plu, vous pouvez l\'acheter.</string>
+  <string name="resource_trial_end_restore">Terminer l\'essai</string>
+  <string name="resource_trial_end_purchase">Acheter</string>
 </resources>

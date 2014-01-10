@@ -98,7 +98,7 @@
   <string name="favorite_ringtone">Sonnerie</string>
   <string name="favorite_screen_cap">Captures d\'écran</string>
   <string name="file_cleanup">Nettoyage de fichier</string>
-  <string name="file_info_canread">Lisible :</string>
+  <string name="file_info_canread">Accessible en lecture :</string>
   <string name="file_info_canwrite">Accessible en écriture :</string>
   <string name="file_info_ishidden">Caché :</string>
   <string name="file_info_location">Chemin d\'accès :</string>
