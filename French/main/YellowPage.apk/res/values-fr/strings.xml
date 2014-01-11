@@ -146,7 +146,7 @@ Veuillez vérifier le numéro de suivi"</string>
   <string name="general_favorite_title">Favoris</string>
   <string name="general_no_yellow_page">Liste vide</string>
   <string name="general_menu_favorite">Favoris</string>
-  <string name="general_menu_unfavorite">Supprimer des supprimé</string>
+  <string name="general_menu_unfavorite">Supprimer des favoris</string>
   <string name="general_menu_delete_recent">Supprimer des récents</string>
   <string name="general_cancel_favorite_ok">Favori supprimé</string>
   <string name="general_delete_recent_ok">Récent supprimé</string>
