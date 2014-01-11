@@ -209,10 +209,18 @@
   <string name="widget_no_events">Aucun événement à venir</string>
   <string name="widget_select_style">Sélectionner le style de widget</string>
   <string name="activity_summary">Loterie 10 yuan</string>
-  <string name="activity_title">Cadeaux nouvel an MIUI</string>
   <string name="work_day_indication">" "</string>
   <string name="rest_day_indication">" "</string>
- <!-- à traduire :
+ <!-- à traduire éventuellement :
+  <string name="event_lunar_month">月</string>
+  <string name="huangli_good_type">宜</string>
+  <string name="huangli_bad_type">忌</string>
+  <string name="chongsha">冲煞</string>
+  <string name="wuxing">五行</string>
+  <string name="xingxiu">星宿</string>
+  <string name="taishen">胎神</string>
+  <string name="pengzu">彭祖</string>
+  <string name="zhushen">诸神</string>
   <string name="gou_piao_event_title">Train reminders %s</string>
   <string name="gou_piao_item1">Remind me of times for trains</string>
   <string name="gou_piao_item2">For telephone bookings call 12306</string>

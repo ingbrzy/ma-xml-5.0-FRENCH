@@ -58,9 +58,6 @@
   <string name="network_unavaliable">Réseau indisponible, veuillez vérifier vos paramètres réseau</string>
   <string name="packages_pay">Acheter</string>
   <string name="packages_pay_confirm">Confirmer l\'achat</string>
- <!-- à traduire :
-  <string name="packages_title">Preferential flow of packages</string>  xiaomi: Mobile data packages
- -->
   <string name="select_package_before_buy">Veuillez sélectionner le package que vous souhaitez acheter</string>
   <string name="packages_select_to_buy_title">Vous choisissez d\'acheter :</string>
   <string name="packages_pay_hint">Envoyer un SMS (gratuit)</string>
@@ -143,4 +140,17 @@ Veuillez vérifier le numéro de suivi"</string>
   <string name="navigation_search_positioning_failed">Impossible de localiser la ville</string>
   <string name="express_inquiry_data_owner_prefix">Infos de suivi fourni par</string>
   <string name="express_inquiry_data_owner_suffix"/>
+  <string name="balance_inquiry_send_sms_summmary">Vérifiez votre solde</string>
+  <string name="general_yellow_page_title">Général</string>
+  <string name="general_recent_title">Récent</string>
+  <string name="general_favorite_title">Favoris</string>
+  <string name="general_no_yellow_page">Liste vide</string>
+  <string name="general_menu_favorite">Favoris</string>
+  <string name="general_menu_unfavorite">Supprimer des supprimé</string>
+  <string name="general_menu_delete_recent">Supprimer des récents</string>
+  <string name="general_cancel_favorite_ok">Favori supprimé</string>
+  <string name="general_delete_recent_ok">Récent supprimé</string>
+ <!-- à traduire :
+  <string name="packages_title">Preferential flow of packages</string>  xiaomi: Mobile data packages
+ -->
 </resources>

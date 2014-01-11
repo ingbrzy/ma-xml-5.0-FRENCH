@@ -5,11 +5,9 @@
   <string name="app_label">Téléchargements</string>
   <string name="button_sort_by_date">Trier par date</string>
   <string name="button_sort_by_size">Trier par taille</string>
-  <string name="cancel_download_notice">Ignorer l\'avis de téléchargement</string>
   <string name="cancel_running_download">Annuler</string>
   <string name="confirm_delete_downloads_message">%d téléchargements vont être supprimés</string>
   <string name="confirm_delete_the_download_item_message">Veuillez confirmer la suppression du téléchargement</string>
-  <string name="confirm_disable_download_only_in_wifi_message">Désactiver "Télécharger via Wi-Fi uniquement" sera susceptible de générer des frais supplémentaires de données. Êtes-vous sûr de vouloir le désactiver ?</string>
   <string name="delete_download">Supprimer</string>
   <string name="delete_downloads_records">Supprimer les téléchargements</string>
   <string name="delete_the_downloaded_file">Supprimez les fichiers téléchargés.</string>
@@ -25,7 +23,6 @@
   <string name="dialog_queued_body">"Ce fichier est en attente de téléchargement, et n\'est donc pas encore disponible."</string>
   <string name="dialog_title_not_available">Téléchargement impossible</string>
   <string name="dialog_title_queued_body">Fichier en attente</string>
-  <string name="disable_download_only_in_wifi_title">Désactiver "Télécharger via Wi-Fi uniquement"</string>
   <string name="download_complete">Téléchargé</string>
   <string name="download_error">Échec</string>
   <string name="download_error_insufficient_space">Espace insuffisant</string>
@@ -49,19 +46,15 @@
   <string name="keep_queued_download">Conserver</string>
   <string name="menu_enter_edit_mode">Éditeur</string>
   <string name="menu_preferences">Paramètres</string>
-  <string name="might_lead_to_mobile_charge">"Après l\'avoir désactivé il n\'y aura pas d\'avertissement de téléchargement, ce qui peut mener à une augmentation du trafic mobile"</string>
   <string name="missing_title">&lt;Inconnu&gt;</string>
   <string name="no_downloads">Aucun téléchargement</string>
   <string name="open_download">Ouvrir</string>
   <string name="pause_download">Pause</string>
-  <string name="pause_download_when_wifi_disconnected">Télécharger uniquement via Wi-Fi</string>
   <string name="paused_by_app">Mis en pause</string>
   <string name="paused_queued_for_wifi">Attente connexion Wi-Fi</string>
   <string name="paused_unknown">Erreur inconnue</string>
   <string name="paused_waiting_for_network">Attente connexion réseau</string>
   <string name="paused_waiting_to_retry">Attente nouvelle tentative</string>
-  <string name="prefDefault_max_bytes_limit">52428800</string>
-  <string name="pref_dialog_title_max_bytes_limit">Limite de taille de fichier</string>
  <!-- pref_download_settings_title à revoir ? text original : Data usage -->
   <string name="pref_download_settings_title">Utilisation des données</string>
   <string name="pref_summary_any_bytes_popup">Toujours attendre d\'être connecté via Wi-Fi</string>
@@ -69,7 +62,6 @@
   <string name="pref_summary_max_bytes_limit_format">Message d\'alerte si la taille du fichier dépasse %s</string>
   <string name="pref_title_enable_max_bytes_popup">Téléchargement de données</string>
   <string name="pref_summary_no_limit_popup">La taille de fichier est illimitée</string>
-  <string name="pref_title_max_bytes_limit">Limite de taille de fichier</string>
   <string name="preferences_title">Paramètres</string>
   <string name="remove_download">Supprimer</string>
   <string name="restart_download">Redémarrer</string>

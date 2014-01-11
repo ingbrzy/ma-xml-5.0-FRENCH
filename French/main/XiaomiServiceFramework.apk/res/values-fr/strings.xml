@@ -254,7 +254,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="micloud_gallery_image">Images MiCloud</string>
   <string name="micloud_gallery_video">Vidéos MiCloud</string>
   <string name="micloud_none">Aucun</string>
-  <string name="micloud_space_full_influence">Qu\'advient-il si je n\'ai plus d\'espace ?</string>
+  <string name="micloud_space_full_influence"><u>Qu\'advient-il si je n\'ai plus d\'espace ?</u></string>
   <string name="micloud_storage_space">Espace de stockage MiCloud</string>
   <string name="micloud_title_dspt" formatted="false">"Espace total %s
  utilisé %s | restant %s"</string>

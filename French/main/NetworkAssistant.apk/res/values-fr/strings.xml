@@ -174,6 +174,7 @@
   <string name="network_control_service_notification_title_single">Connexion %2$s bloquée pour %1$s</string>
   <string name="pref_connect_settings_monitor_running_app">Afficher les notifications</string>
   <string name="pref_connect_settings_monitor_running_app_summary">Affiche une notification quand une appli est bloquée du réseau</string>
+ <!-- extra for mi3w at least : -->
   <string name="notify_traffic_settings_format">"%s n\'a pas été configuré pour votre forfait de données ? Configurer maintenant ?</string>
   <string name="notify_carrier_settings_format">"%s n\'a pas été configuré pour votre forfait voix/SMS. Configurer maintenant ?"</string>
   <string name="yesterday_mobile_format">%s Trafic d\'hier</string>

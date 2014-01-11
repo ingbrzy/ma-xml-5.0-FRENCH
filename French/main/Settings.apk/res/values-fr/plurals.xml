@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="show_dev_countdown">
-        <item quantity="other">Plus que %1$d étapes pour devenir un développeur.</item>
-        <item quantity="one">Plus que %1$d étape pour devenir un développeur.</item>
-    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Le mot de passe doit comporter au moins %d lettres.</item>
         <item quantity="one">Le mot de passe doit comporter au moins une lettre.</item>
@@ -28,10 +24,6 @@
         <item quantity="other">Le mot de passe doit comporter au moins %d caractères autres que des lettres.</item>
         <item quantity="one">"Le mot de passe doit comporter au moins un caractère autre qu\'une lettre."</item>
     </plurals>
-    <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="one">"%d application peut lire les notifications."</item>
-        <item quantity="other">"%d applications peuvent lire les notifications."</item>
-    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d jours "</item>
         <item quantity="one">"%d jour "</item>
@@ -43,5 +35,15 @@
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
+    </plurals>
+ <!-- 4.2 & + -->
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Plus que %1$d étapes pour devenir un développeur.</item>
+        <item quantity="one">Plus que %1$d étape pour devenir un développeur.</item>
+    </plurals>
+ <!-- 4.3 & + -->
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="one">"%d application peut lire les notifications."</item>
+        <item quantity="other">"%d applications peuvent lire les notifications."</item>
     </plurals>
 </resources>

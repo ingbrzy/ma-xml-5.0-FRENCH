@@ -5,25 +5,6 @@
     <item quantity="zero">%1$d sélectionné</item>
     <item quantity="one">%1$d sélectionné</item>
   </plurals>
-  <plurals name="number_of_albums_selected">
-    <item quantity="other">%1$d sélectionnés</item>
-    <item quantity="zero">%1$d sélectionné</item>
-    <item quantity="one">%1$d sélectionné</item>
-  </plurals>
-  <plurals name="number_of_groups_selected">
-    <item quantity="other">%1$d sélectionnés</item>
-    <item quantity="zero">%1$d sélectionné</item>
-    <item quantity="one">%1$d sélectionné</item>
-  </plurals>
-  <plurals name="make_albums_available_offline">
-    <item quantity="other">Rendre les albums disponibles hors connexion.</item>
-    <item quantity="one">Rendre l\'album disponible hors connexion.</item>
-  </plurals>
-  <plurals name="number_of_cloudimages">
-    <item quantity="other">%1$d images</item>
-    <item quantity="zero">%1$d image</item>
-    <item quantity="one">%1$d image</item>
-  </plurals>
   <plurals name="number_of_pictures">
       <item quantity="other">%1$d</item>
       <item quantity="zero">%1$d</item>

@@ -30,14 +30,6 @@
         <item>Aujourd\'hui</item>
         <item>Demain</item>
     </string-array>
-    <string-array name="alarm_count_entries">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>Inactif</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Une fois</item>
         <item>Tous les jours</item>

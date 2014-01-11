@@ -7,11 +7,4 @@
         <item>8 secondes</item>
         <item>10 secondes</item>
     </string-array>
-    <string-array name="alert_sound_duration_values">
-        <item>2</item>
-        <item>4</item>
-        <item>6</item>
-        <item>8</item>
-        <item>10</item>
-    </string-array>
 </resources>

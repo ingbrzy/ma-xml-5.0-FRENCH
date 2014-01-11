@@ -480,7 +480,6 @@
   <string name="pref_set_homepage_to">Définir sur</string>
   <string name="pref_setting_title">Paramètres de pagination</string>
   <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
-  <string name="pref_ua_mione_entry">Mi-One</string>
   <string name="pref_ua_string">Choisir l\'User agent</string>
   <string name="pref_ua_title">Gestion de l\'User agent</string>
   <string name="pref_use_instant_search">Recherche instantanée Google</string>
