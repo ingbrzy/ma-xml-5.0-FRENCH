@@ -2654,7 +2654,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="NI_Request_ID">ID du demandeur</string>
   <string name="NI_Request_ClientName">Nom du client</string>
   <string name="agps_str_verify">Vérification</string>
-  <string name="agps_str_notify">"Notifications"</string>
+  <string name="agps_str_notify">Notifications</string>
   <string name="EM_NotifyDialog_title">Notifier EM</string>
   <string name="agps_OK">OK</string>
   <string name="agps_str_allow">Autoriser</string>
@@ -3207,7 +3207,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="cancel_scan">Annuler</string>
   <string name="check_all">Tout sélectionner</string>
   <string name="check_nothing">Tout désélectionner</string>
-  <string name="checking">Vérification</string>
+  <string name="checking">"Analyse : "</string>
   <string name="clean_confirm_title">Supprimer ces fichiers ?</string>
   <string name="cleaner">Nettoyeur</string>
   <string name="clear_all_calllog">Vider le journal d\'appels</string>
@@ -3337,7 +3337,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="mem_unlock">Déverrouiller</string>
   <string name="member_firewall_log" formatted="false">Bloqué : Numéro %d, détails %d</string>
   <string name="menu_edit">Modifier</string>
-  <string name="menu_item_about_content">Sécurité : %s</string>
+  <string name="menu_item_about_content">Centre de sécurité : %s</string>
   <string name="menu_item_about_title">À propos</string>
   <string name="mms_log_tab_title">Journal des messages</string>
   <string name="need_check">Certains éléments peuvent êtres optimisés…</string>
@@ -3432,11 +3432,11 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_center_title">Batterie</string>
   <string name="power_chooser_check_box_summary">Choisissez un profil de gestion d\'énergie pour prolonger la vie de la batterie</string>
   <string name="power_chooser_check_box_title">Appliquer les paramètres</string>
-  <string name="power_chooser_mine_summary">Sauvegarder les paramètres système d\'origine</string>
+  <string name="power_chooser_mine_summary">Sauvegarde les paramètres système d\'origine</string>
   <string name="power_chooser_mine_title">Personnalisé</string>
-  <string name="power_chooser_sleep_summary">Désactiver toutes les fonctions (téléphone, messages, internet) à l\'exception du réveil</string>
+  <string name="power_chooser_sleep_summary">Désactive toutes les fonctions (téléphone, messages, internet) à l\'exception du réveil</string>
   <string name="power_chooser_sleep_title">Veille</string>
-  <string name="power_chooser_smart_summary">Sauvegarder les paramètres actuels, vider les processus quand verrouiller</string>
+  <string name="power_chooser_smart_summary">Sauvegarde les paramètres actuels, vide les processus quand verrouillé</string>
   <string name="power_chooser_smart_title">Mode par défaut</string>
   <string name="power_chooser_standby_summary">Désactiver les fonctions Internet</string>
   <string name="power_chooser_standby_title">Mode marathon</string>
@@ -3823,13 +3823,13 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="user_profile_confirm_remove_message">L\'espace et les données de ce profil vont être supprimés de ce téléphone. Cette action est irréversible.</string>
   <string name="restriction_nfc_enable_summary">Autoriser l\'échange de données lorsque le téléphone est en contact avec un autre appareil</string>
  <!-- system_storage à vérifier ? : Systeme storage = Stockage système?? -->
-  <string name="system_storage">Mémoire interne</string>  
+  <string name="system_storage">Mémoire interne</string>
   <string name="empty_folder_title">Dossier vide (%d)</string>
   <string name="list_sub_view_item_view">Détail</string>
   <string name="list_sub_view_item_clean">Nettoyer</string>
   <string name="list_sub_view_item_install">Installer</string>
-  <string name="list_sub_view_item_lock">Verrouiller</string>
-  <string name="list_sub_view_item_unlock">Déverrouiller</string>
+  <string name="list_sub_view_item_lock">Verrouillé</string>
+  <string name="list_sub_view_item_unlock">Déverrouillé</string>
   <string name="power_save_on_time_goout_title">Restaurer vers</string>
   <string name="power_save_choose_recovery_mode">Sélectionnez un mode</string>
   <string name="power_new_choose_mode">Sélectionnez un mode</string>

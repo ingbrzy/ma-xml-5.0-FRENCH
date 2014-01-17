@@ -105,6 +105,18 @@
   <string name="modify_all">Modifier tous les événements de la série</string>
   <string name="modify_all_following">Modifier cet événement et tous les suivants</string>
   <string name="modify_event">Modifier uniquement cet événement</string>
+  <string name="month_medium_january">Jan</string>
+  <string name="month_medium_february">Fév</string>
+  <string name="month_medium_march">Mars</string>
+  <string name="month_medium_april">Avr</string>
+  <string name="month_medium_may">Mai</string>
+  <string name="month_medium_june">Juin</string>
+  <string name="month_medium_july">Juil</string>
+  <string name="month_medium_august">Août</string>
+  <string name="month_medium_september">Sept</string>
+  <string name="month_medium_october">Oct</string>
+  <string name="month_medium_november">Nov</string>
+  <string name="month_medium_december">Déc</string>
   <string name="month_view">Mois</string>
   <string name="monthly">Tous les mois</string>
   <string name="monthly_on_day">Mensuel (le %s)</string>
@@ -209,6 +221,7 @@
   <string name="widget_no_events">Aucun événement à venir</string>
   <string name="widget_select_style">Sélectionner le style de widget</string>
   <string name="activity_summary">Loterie 10 yuan</string>
+ <!-- work_day_indication rest_day_indication blank space to remove smileys :) :( -->
   <string name="work_day_indication">" "</string>
   <string name="rest_day_indication">" "</string>
  <!-- à traduire éventuellement :

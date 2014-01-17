@@ -1177,4 +1177,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_trial_end_message">La période d\'essai de \"%1$s\" est terminée. S\'il vous à plu, vous pouvez l\'acheter.</string>
   <string name="resource_trial_end_restore">Terminer l\'essai</string>
   <string name="resource_trial_end_purchase">Acheter</string>
+  <string name="callrecordview_menu_batch_delete">Suppression par lots</string>
+  <string name="delete_call_log_selected_title">Supprimer les entrées sélectionnées ?</string>
+  <string name="toast_finish_delete_selected_call_log">Entrées sélectionnées supprimées</string>
 </resources>

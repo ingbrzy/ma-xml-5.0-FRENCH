@@ -63,7 +63,6 @@
     <string name="format_date_trend_md">d/MM</string>
     <string name="format_date_week">EEE</string>
     <string name="format_date_wmd">EEE d MMM</string>
-   <!-- install_tencent à vérifier longueur traduction :    -->
     <string name="install_tencent">Téléch. l\'appli Weibo</string>
     <string name="loading_weather">Chargement…</string>
     <string name="local_city">Villes locales</string>

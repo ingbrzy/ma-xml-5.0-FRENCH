@@ -73,4 +73,7 @@
   <string name="selected_count">%1$d sélectionné(s) sur %2$d</string>
   <string name="xunlei_brand">Propulsé par Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+  <string name="xunlei_switch">Accélérateur de téléchargement Xunlei</string>
+  <string name="turn_off_xunlei_message">Votre vitesse de téléchargement sera, peut-être, réduite.</string>
+  <string name="turn_off_xunlei_title">Désactiver l\'accélérateur Xunlei</string>
 </resources>

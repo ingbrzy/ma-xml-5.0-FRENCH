@@ -1,56 +1,56 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="listTotalPhoneContacts">
-    <item quantity="one">"1 contact avec numéro de téléphone"</item>
-    <item quantity="other">"%d contacts avec numéro de téléphone"</item>
+    <item quantity="one">1 contact avec numéro de téléphone</item>
+    <item quantity="other">%d contacts avec numéro de téléphone</item>
   </plurals>
   <plurals name="listTotalAllContacts">
-    <item quantity="one">"1 contact"</item>
-    <item quantity="other">"%d contacts"</item>
+    <item quantity="one">1 contact</item>
+    <item quantity="other">%d contacts</item>
   </plurals>
   <plurals name="listFoundAllContacts">
-    <item quantity="one">"1 trouvé"</item>
-    <item quantity="other">"%d trouvés"</item>
+    <item quantity="one">1 trouvé</item>
+    <item quantity="other">%d trouvés</item>
   </plurals>
   <plurals name="searchFoundContacts">
-    <item quantity="one">"1 trouvé"</item>
-    <item quantity="other">"%d trouvés"</item>
+    <item quantity="one">1 trouvé</item>
+    <item quantity="other">%d trouvés</item>
   </plurals>
   <plurals name="merge_info">
-    <item quantity="one">"non fusionné"</item>
-    <item quantity="other">"fusionné à partir de %0$d sources"</item>
+    <item quantity="one">non fusionné</item>
+    <item quantity="other">fusionné à partir de %0$d sources</item>
   </plurals>
   <plurals name="num_groups_in_account">
-    <item quantity="one">"1 groupe"</item>
-    <item quantity="other">"%0$d groupes"</item>
+    <item quantity="one">1 groupe</item>
+    <item quantity="other">%0$d groupes</item>
   </plurals>
   <plurals name="num_contacts_in_group">
-    <item quantity="one">"%1$d contact de %2$s"</item>
-    <item quantity="other">"%1$d contacts de %2$s"</item>
+    <item quantity="one">%1$d contact de %2$s</item>
+    <item quantity="other">%1$d contacts de %2$s</item>
   </plurals>
   <plurals name="group_list_num_contacts_in_group">
-    <item quantity="one">"%1$d personne"</item>
-    <item quantity="other">"%1$d personnes"</item>
+    <item quantity="one">%1$d personne</item>
+    <item quantity="other">%1$d personnes</item>
   </plurals>
   <plurals name="group_list_num_numbers_in_group">
-    <item quantity="one">"%1$d numéro"</item>
-    <item quantity="other">"%1$d numéros"</item>
+    <item quantity="one">%1$d numéro</item>
+    <item quantity="other">%1$d numéros</item>
   </plurals>
   <plurals name="notification_voicemail_title">
-    <item quantity="one">"Message vocal"</item>
-    <item quantity="other">"%1$d messages vocaux"</item>
+    <item quantity="one">Message vocal</item>
+    <item quantity="other">%1$d messages vocaux</item>
   </plurals>
   <plurals name="number_of_items_selected">
-    <item quantity="one">"%1$d sélectionné"</item>
-    <item quantity="other">"%1$d sélectionnés"</item>
+    <item quantity="one">%1$d sélectionné</item>
+    <item quantity="other">%1$d sélectionnés</item>
   </plurals>
   <plurals name="group_add_success_toast">
-    <item quantity="one">"%1$d personne a été ajoutée avec succès"</item>
-    <item quantity="other">"%1$d personnes ont été ajoutées avec succès"</item>
+    <item quantity="one">%1$d personne a été ajoutée avec succès</item>
+    <item quantity="other">%1$d personnes ont été ajoutées avec succès</item>
   </plurals>
   <plurals name="smart_group_member_count">
-    <item quantity="one">"1 personne"</item>
-    <item quantity="other">"%d personnes"</item>
+    <item quantity="one">1 personne</item>
+    <item quantity="other">%d personnes</item>
   </plurals>
    <plurals name="numSelectedSimContacts">
        <item quantity="other">" %1$d sélectionnés"</item>

@@ -333,7 +333,7 @@
   <string name="vip_bought">"Vous avez déjà acheté un accès à la musique de haute qualité"</string>
   <string name="vip_expired">Votre accès à musique haute qualité a expiré</string>
   <string name="vip_rebuy">Renouveler</string>
-  <string name="vip_recommend_rebuy">Renouveler l\'accès VIP pour 30 jours coûte 5 MiCredits</string> 
+  <string name="vip_recommend_rebuy">Renouveler l\'accès VIP pour 30 jours coûte 5 MiCredits</string>
  <!-- à traduire : 
   <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
   <string name="ktv_connected_alert_message">The songs you select will be added to the playlist named My KTV</string>

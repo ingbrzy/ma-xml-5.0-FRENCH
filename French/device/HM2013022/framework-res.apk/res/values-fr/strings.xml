@@ -1281,7 +1281,7 @@
   <string name="owner_name">Propriétaire</string>
   <string name="storage_phone">Stockage du téléphone</string>
   <string name="storage_external_usb">Stockage USB externe</string>
-  <string name="zz_keyguard_accessibility_voice_unlock">Déverrouillage vocale.</string>
+  <string name="zz_keyguard_accessibility_voice_unlock">Déverrouillage vocal</string>
   <string name="reboot_title">Redémarrez le téléphone ?</string>
   <string name="reboot_confirm">Votre téléphone va redémarrer.</string>
   <string name="global_action_reboot_summary">Fermez toutes les applications et redémarrer le téléphone</string>
