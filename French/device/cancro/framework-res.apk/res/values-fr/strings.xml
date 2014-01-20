@@ -1369,4 +1369,7 @@ Essais restants :"</string>
     <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
     <string name="permission_remember_choice">Mémoriser</string>
     <string name="permission">Permission</string>
+    <string name="permlab_transmitIr">transmettre des signaux infrarouges</string>
+    <string name="permdesc_transmitIr">Permet à l\'application d\'utiliser l\'émetteur infrarouge du téléphone.</string>
+    <string name="permlab_readSms">voir les messages texte (SMS ou MMS)</string>
 </resources>

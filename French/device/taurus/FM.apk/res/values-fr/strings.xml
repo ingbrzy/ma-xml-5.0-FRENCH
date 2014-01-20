@@ -10,7 +10,6 @@
   <string name="alert_title_new_station">Nouvelle station</string>
   <string name="alert_title_save_station">Mémoriser Station - %s</string>
   <string name="app_name">Radio</string>
-  <string name="aud_output_mode">Mode de sortie audio</string>
   <string name="audio_db_album_name">"Enregistrements FM "</string>
   <string name="audio_db_artist_name">"Enregistrements FM "</string>
   <string name="audio_db_playlist_name">"Enregistrements FM "</string>
@@ -69,7 +68,6 @@
   <string name="menu_record_stop">Arrêter l\'enregistrement</string>
   <string name="menu_rename_list">Renommer la liste</string>
   <string name="menu_reorder_list">Réorganiser la liste</string>
-  <string name="menu_save_station">Sauvegarder la station</string>
   <string name="menu_save_station_list">Ajouter à la liste</string>
   <string name="menu_save_station_presets">Ajouter aux pré-sélections de stations</string>
   <string name="menu_scan_for_preset">Recherche pour pré-sélections</string>
@@ -106,11 +104,9 @@
   <string name="record_error_unknown">Enregistrement stoppé : une erreur inconnue s\'est produite.</string>
   <string name="record_fail">Échec d\'enregistrement</string>
   <string name="record_file_location_format">Enregistrer vers %s</string>
-  <string name="record_sucess">Enregistrement réussi</string>
   <string name="reduce_af">Réduire la fréquence</string>
   <string name="regional_band">Bandes régionales</string>
   <string name="search_dialog_title">Recherche des Stations</string>
-  <string name="sel_audio_output">Sélectionner la sortie Audio</string>
   <string name="sel_band_menu">Sélectionner la bande régionale (réinitialise les pré-sélections)</string>
   <string name="set">Définir</string>
   <string name="set_rmmsi_delta">Configurer RMSSI Delta</string>

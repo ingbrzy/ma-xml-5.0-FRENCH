@@ -185,7 +185,7 @@
   <string name="transformation_type_stack">En cascade</string>
   <string name="uninstall">Désinstaller</string>
   <string name="uninstall_dialog_message">Désinstaller cette application effacera toutes ses données</string>
-  <string name="uninstall_dialog_title_format">Désinstaller "%s"</string>
+  <string name="uninstall_dialog_title_format">Désinstaller \"%s\"</string>
   <string name="unknown_artist_name">Artiste inconnu</string>
   <string name="unnamed_folder_name">Dossier sans nom</string>
   <string name="widget_favorite_contacts_edit">Éditeur</string>

@@ -23,12 +23,12 @@
     <string name="notification_need_wifi_for_size">La taille du téléchargement exige une connexion Wi-Fi</string>
     <string name="notification_paused_in_background">Mis en pause en arrière-plan</string>
     <string name="wifi_required_title">Téléchargement trop volumineux pour l\'opérateur</string>
-    <string name="wifi_required_body" formatted="false">Une connexion Wi-Fi est requise pour télécharger %s. 
-Appuyez sur %s pour lancer le téléchargement la prochaine fois que vous vous connectez à un réseau Wi-Fi.</string>
+    <string name="wifi_required_body" formatted="false">"Une connexion Wi-Fi est requise pour télécharger %s. 
+Appuyez sur %s pour lancer le téléchargement la prochaine fois que vous vous connectez à un réseau Wi-Fi."</string>
     <string name="wifi_recommended_title">Ajouter à la file d\'attente des téléchargements ?</string>
-    <string name="wifi_recommended_body">Ce téléchargement risque de décharger votre batterie, de trop solliciter votre connexion Internet et de vous être facturé par votre opérateur, en fonction de votre forfait.
+    <string name="wifi_recommended_body" formatted="false">"Ce téléchargement risque de décharger votre batterie, de trop solliciter votre connexion Internet et de vous être facturé par votre opérateur, en fonction de votre forfait.
 Appuyez sur "File d\'attente" pour lancer le téléchargement lors de votre prochaine connexion à un réseau Wi-Fi.
-Vous pourrez modifier ce choix dans les réglages de l\'application.</string>
+Vous pourrez modifier ce choix dans les réglages de l\'application."</string>
     <string name="button_queue_for_wifi">File d\'attente</string>
     <string name="button_cancel_download">Annuler</string>
     <string name="button_start_now">Commencer</string>

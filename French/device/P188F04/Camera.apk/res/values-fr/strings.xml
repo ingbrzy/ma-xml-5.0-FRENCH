@@ -372,7 +372,7 @@
   <string name="undo">Annuler</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Caméra</string>
-  <string name="video_err">"Impossible de lire le fichier vidéo."</string>
+  <string name="video_err">Impossible de lire la vidéo.</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Taille maximale atteinte.</string>
   <string name="video_snapshot_hint">Prendre une photo pendant l\'enregistrement vidéo en tapant sur l\'écran de prévisualisation.</string>

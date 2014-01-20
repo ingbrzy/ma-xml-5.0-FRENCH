@@ -91,4 +91,13 @@
     <string name="cmas_opt_out_dialog_text">Vous recevez actuellement les alertes d\'urgence. Voulez-vous continuer à les recevoir ?</string>
     <string name="cmas_opt_out_button_yes">Oui</string>
     <string name="cmas_opt_out_button_no">Non</string>
+   <!-- used at least in cancro 4.1.17 -->
+    <string name="alert_reminder_interval_title">Rappel d\'alerte</string>
+    <string name="cell_broadcast_sms_title">Diffusion cellulaire</string>
+    <string name="category_brazil_settings_title_sub">Paramètres pour le Brésil</string>
+    <string name="cb_settings_sel_sub">Sélectionner un abonnement</string>
+    <string name="summary_manage_subscriptions">Gérer les paramètres de diffusion cellulaire de chaque abonnement</string>
+    <string name="select_subscription_title">Sélectionner un abonnement</string>
+    <string name="subscription1_title">Abonnement 1</string>
+    <string name="subscription2_title">Abonnement 2</string>
 </resources>

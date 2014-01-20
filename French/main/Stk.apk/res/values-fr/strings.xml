@@ -23,6 +23,7 @@
     <string name="default_close_channel_msg">Canal fermé</string>
     <string name="stk_dialog_accept">OUI</string>
     <string name="stk_dialog_reject">NON</string>
+   <!-- extra strings for others phones : -->
     <string name="app_name2">Boîte à outils SIM2</string>
     <string name="htc_set_up_call_default_title">Composer</string>
     <string name="need_uim_to_launch">Veuillez insérer la SIM pour lancer les Services SIM</string>

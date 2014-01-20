@@ -9,7 +9,6 @@
   <string name="auth_notif_message">Saisir la clé de session de %1$s</string>
   <string name="auth_notif_ticker">"Demande d\'authentification OBEX"</string>
   <string name="auth_notif_title">Clé de session</string>
-  <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bpp_authentication_timeout_message">Délai de saisie de la clé écoulé pour %1$s</string>
   <string name="bpp_cancel">Annuler</string>
   <string name="bpp_main">Impression Bluetooth</string>
@@ -33,7 +32,6 @@
   <string name="bt_toast_6">Envoi du fichier à "%1$s" interrompu</string>
   <string name="btopp_live_folder">Reçu par Bluetooth</string>
   <string name="defaultname">Kit mains libres</string>
-  <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">"Supprimer tout l\'enregistrement"</string>
   <string name="delete_record">"Supprimer l\'enregistrement"</string>
   <string name="download_cancel">Arrêter</string>
@@ -62,7 +60,6 @@
   <string name="ftp_notif_title">Requêtes FTP</string>
   <string name="ftp_session_key_dialog_header">Clé de session Bluetooth requise</string>
   <string name="ftp_session_key_dialog_title">Saisir la clé pour %1$s</string>
-  <string name="hello">Bonjour à tous, TestActivity</string>
   <string name="inbound_history_title">Transferts entrants</string>
   <string name="inbound_noti_title">Partage Bluetooth : fichiers reçus</string>
   <string name="incoming_file_confirm_Notification_caption">Voulez-vous recevoir ce fichier ?</string>

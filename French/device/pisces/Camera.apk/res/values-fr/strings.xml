@@ -21,6 +21,7 @@
   <string name="aperture">Ouverture</string>
   <string name="app_details">Détails de l\'application :</string>
   <string name="auto">Automatique</string>
+  <string name="auto_scene_exit_button_text">Quitter le mode scène</string>
   <string name="bg_replacement_message">Placez votre appareil sur une surface stable et veillez à ce qu\'il n\'y ai aucun mouvement derrière vous. Puis sortez de la vision de la caméra.</string>
   <string name="camera_disabled">L\'appareil photo a été désactivé en raison des règles de sécurité.</string>
   <string name="camera_error_title">Erreur de l\'appareil photo.</string>
@@ -184,6 +185,7 @@
   <string name="pref_camera_audio_capture_title">Capture audio</string>
   <string name="pref_camera_auto_focus_title_entry_off">Désactivé</string>
   <string name="pref_camera_auto_focus_title_entry_on">Activé</string>
+  <string name="pref_camera_auto_scene_title">Détecter la scène auto.</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centre pondéré</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Trame moyenne</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesure de spot</string>
@@ -259,12 +261,8 @@
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
   <string name="pref_camera_picture_format_title">Sélectionner le format de l\'image</string>
-  <string name="pref_camera_picturesize_entry_1440x1080">Standard 4:3</string>
-  <string name="pref_camera_picturesize_entry_1440x816">Plein écran 16:9</string>
   <string name="pref_camera_picturesize_entry_3200x1800">Plein écran 16:9</string>
   <string name="pref_camera_picturesize_entry_3200x2400">Standard 4:3</string>
-  <string name="pref_camera_picturesize_entry_3264x1840">Plein écran 16:9</string>
-  <string name="pref_camera_picturesize_entry_3264x2448">Standard 4:3</string>
   <string name="pref_camera_picturesize_entry_4208x2368">Plein écran 16:9</string>
   <string name="pref_camera_picturesize_entry_4208x3120">Standard 4:3</string>
   <string name="pref_camera_picturesize_title">Taille d\'image</string>
@@ -283,6 +281,7 @@
   <string name="pref_camera_scenedetect_title">Détection de scène automatique</string>
   <string name="pref_camera_scenemode_entry_auto">Automatique</string>
   <string name="pref_camera_scenemode_entry_backlight">Rétro-éclairage</string>
+  <string name="pref_camera_scenemode_entry_backlight_portrait">Portrait rétro-éclairé</string>
   <string name="pref_camera_scenemode_entry_beach">Plage</string>
   <string name="pref_camera_scenemode_entry_fireworks">Feux d\'artifice</string>
   <string name="pref_camera_scenemode_entry_flowers">Fleurs</string>

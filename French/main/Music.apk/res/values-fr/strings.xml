@@ -98,7 +98,6 @@
   <string name="eq_preset_hint">Veuillez saisir le nom du préréglage</string>
   <string name="eq_preset_rename">Renommer</string>
   <string name="eq_preset_select">Choisir un préréglage</string>
-  <string name="eq_rb">R &amp; B</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Égaliseur</string>
   <string name="equalizer_delete">Supprimer</string>
@@ -231,7 +230,7 @@
   <string name="retry">Réessayer</string>
   <string name="ringtone_menu">Utiliser comme sonnerie</string>
   <string name="ringtone_not_support">Format de sonnerie non pris en charge</string>
-  <string name="ringtone_set">"%s" a été défini comme sonnerie.</string>
+  <string name="ringtone_set">\"%s\" a été défini comme sonnerie.</string>
   <string name="save">Enregistrer</string>
   <string name="scanning">Analyse de la carte SD…</string>
   <string name="scanning_nosdcard">Analyse du périphérique de stockage USB…</string>

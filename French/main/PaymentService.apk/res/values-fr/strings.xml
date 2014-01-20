@@ -339,7 +339,6 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_telecom_picker_hint_2_1">Votre fournisseur de réseau a été contacté !</string>
   <string name="msg_telecom_picker_hint_2_2">Vous recevrez un texte de confirmation sous peu.</string>
   <string name="msg_telecom_sending">Mise en contact avec votre fournisseur de réseau…</string>
-  <string name="onemore_click_exit">Appuyer encore pour quitter</string>
   <string name="order_price">%1$s MiCredits</string>
   <string name="password_error">Veuillez saisir votre mot de passe</string>
   <string name="password_forget">Mot de passe oublié ?</string>
@@ -436,7 +435,6 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="voucher_edit_hint">Code :</string>
   <string name="voucher_edit_limit">chiffres</string>
   <string name="voucher_error_password">Code de bon MiCredit non valide !</string>
-  <string name="voucher_error_password_empty">Champ vide, veuillez saisir un code !</string>
   <string name="voucher_input_password_prompt">Saisir le code</string>
   <string name="button_confirm">Confirmer</string>
   <string name="button_next">Suivant</string>

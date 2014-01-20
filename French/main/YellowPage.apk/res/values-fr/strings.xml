@@ -1,146 +1,178 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_smart_antispam_summary">À propos de l\'identification de numéros inconnus</string>
-  <string name="about_telephone_fraud">À propos de la fraude téléphonique</string>
-  <string name="agree">Accepter</string>
-  <string name="all_numbers">Tous les numéros</string>
+  <!-- Name of the application -->
   <string name="app_label">Pages jaunes</string>
+  <string name="phone_info_divider">" | "</string>
+
+  <!-- Loading process related -->
+  <string name="check_network">Voir les paramètres réseau</string>
+  <string name="try_again">Réessayer</string>
+  <string name="network_unavaliable">Réseau indisponible, veuillez vérifier vos paramètres réseau</string>
+  <string name="service_unavailiable">Votre réseau actuel n\'est pas bon, veuillez réessayer plus tard</string>
+  <string name="data_error">Désolé, le service n\'est pas disponible, veuillez réessayer plus tard</string>
+
+  <!-- YellowPage related -->
+  <string name="yellow_page_detail_title">À propos</string>
+  <string name="yellow_page_call_log_title">Journal d\'appels</string>
+  <string name="yellow_page_website">Site officiel</string>
+  <string name="menu_copy_text">Copier dans le presse-papier</string>
+  <string name="menu_call_ip_number">Composer un appel IP (composer %s)</string>
+  <string name="toast_text_copied">Texte copié</string>
+  <string name="provider_tag">Source de données</string>
+  <string name="all_numbers">Tous les numéros</string>
+  <string name="provider">Identifié par %s</string>
+
+  <!-- Call log related -->
   <string name="callrecordview_item_newcontact">Nouveau contact</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
-  <string name="callrecordview_item_op_time_missed">Non connecté</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d s</string>
-  <string name="callrecordview_item_op_time_rejected">Rejeté</string>
-  <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Sortant : "</string>
-  <string name="check_network">Voir les paramètres réseau</string>
-  <string name="confirm_delete_all_call_log_title">Confirmer la suppression du journal d\'appels ?</string>
+  <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
+  <string name="callrecordview_item_op_time_missed">Non connecté</string>
+  <string name="callrecordview_item_op_time_rejected">Rejeté</string>
+  <string name="voicemail">Messagerie vocale</string>
+  <string name="menu_delete_one">Retirer l\'élément du journal d\'appels</string>
+  <string name="toast_finish_delete_call_log">Le journal d\'appels a été effacé</string>
   <string name="confirm_delete_call_log_title">Supprimer le journal d\'appels ?</string>
+  <string name="confirm_delete_all_call_log_title">Confirmer la suppression du journal d\'appels ?</string>
+  <string name="contact_detail_calllog_call_record_tips">Enreg. d\'appels</string>
+  <string name="contact_detail_calllog_call_note_tips">Notes d\'appel</string>
+
+  <!-- Yellowpage menu related -->
+  <string name="menu_delete_call_log">Supprimer le journal d\'appels</string>
+  <string name="menu_add_black_list">Ajouter à la liste noire</string>
+  <string name="menu_remove_black_list">Supprimer de la liste noire</string>
+  <string name="menu_about_yellow_page">À propos de cette page</string>
+  <string name="menu_correct_yellow_page">Correction</string>
+  <string name="menu_refresh">Actualiser</string>
   <string name="confirm_to_add_blacklist">Mettre le numéro sélectionné sur liste noire ?</string>
   <string name="confirm_to_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
-  <string name="contact_detail_calllog_call_note_tips">Notes d\'appel</string>
-  <string name="contact_detail_calllog_call_record_tips">Enreg. d\'appels</string>
+
+  <!-- Mark related -->
   <string name="custom_mark_category">Personnalisé</string>
-  <string name="data_error">Désolé, le service n\'est pas disponible, veuillez réessayer plus tard</string>
-  <string name="delete">Supprimer</string>
-  <string name="express_inquiry">Suivi</string>
-  <string name="expresss_inquiry_all_logistics">Tous</string>
-  <string name="express_inquiry_button_text">Suivre</string>
-  <string name="express_inquiry_data_owner">Information de suivi fournies par %s</string>
-  <string name="express_inquiry_delete_warning_multiple">Supprimer les %d éléments sélectionnés ?</string>
-  <string name="express_inquiry_delete_warning_single">Supprimer l\'élément sélectionné ?</string>
- <!-- balance_inquiry_default_sp_name remplacer "opérateur"? original : Operator -->
-  <string name="balance_inquiry_default_sp_name">Opérateur</string>
-  <string name="expresss_inquiry_frequently_used_logistics">Fréquents</string>
-  <string name="express_inquiry_logistics_indication">Entreprise postale</string>
-  <string name="express_inquiry_no_result">Aucun résultat.</string>
-  <string name="express_inqiury_select_logistics">Entreprise postale</string>
- <!-- balance_inquiry_send_sms_hint remplacer "opérateur"? -->
-  <string name="balance_inquiry_send_sms_hint">Une demande de solde sera envoyée par SMS (gratuit) à l\'opérateur</string>
-  <string name="express_inquiry_serial_number_indication">Numéro de suivi</string>
-  <string name="express_inquiry_serial_number_prefix">"Numéro de série : "</string>
-  <string name="balance_inquiry_title">Consultation du solde</string>
-  <string name="login_before_recharging">Vous devez vous connecter avant de pouvoir recharger.</string>
-  <string name="login_before_use">Vous devez vous connecter avant de pouvoir l\'utiliser.</string>
-  <string name="login_ok">Se connecter</string>
-  <string name="mark_number_custom_dialog_maintitle">Accepter ou corriger la marque</string>
   <string name="mark_number_dialog_maintitle">Marquer comme numéro de spam et l\'envoyer</string>
-  <string name="menu_about_yellow_page">À propos de cette page</string>
-  <string name="menu_add_black_list">Ajouter à la liste noire</string>
-  <string name="menu_call_ip_number">Composer un appel IP (composer %s)</string>
-  <string name="menu_copy_text">Copier dans le presse-papier</string>
-  <string name="menu_correct_yellow_page">Correction</string>
-  <string name="menu_delete_call_log">Supprimer le journal d\'appels</string>
-  <string name="menu_delete_one">Retirer l\'élément du journal d\'appels</string>
-  <string name="menu_refresh">Actualiser</string>
-  <string name="menu_remove_black_list">Supprimer de la liste noire</string>
+  <string name="mark_number_custom_dialog_maintitle">Accepter ou corriger la marque</string>
+  <string name="delete">Supprimer</string>
+  <string name="selected_category_format">%1$s (%2$d l\'ont marqué, appuyez pour approuver)</string>
+  <string name="mark_title_null_hint">La saisie ne peut être laissée vide</string>
+
+   <!-- Setting related -->
+  <string name="smart_antispam">Identifier les numéros inconnus automatiquement</string>
+  <string name="turn_on_smart_antispam_hint">Après l\'avoir activé les numéros seront identifiés. Étiqueter les numéros aide à déterminer les appels frauduleux.</string>
+  <string name="turn_on_smart_antispam_title">Identifier les numéros inconnus</string>
+  <string name="turn_on_smart_antispam_summary_on">Identifier les numéros inconnus et envoyer vos marques</string>
+  <string name="turn_on_smart_antispam_summary_off">Uniquement interroger avec la base de données locale</string>
+  <string name="agree">Accepter</string>
+  <string name="user_notice_identify_summary_format">L\'identification des numéros inconnus est un service en ligne, veuillez lire %1$s et %2$s avant de l\'utiliser.</string>
+  <string name="user_notice_yp_detail_summary_format">L\'information partielle sur cette page jaune doit être mise à jour en ligne, veuillez lire %1$s et %2$s, appuyez sur "Accepter" pour valider ou sur "Annuler" pour voir les informations (en cache uniquement).</string>
+  <string name="about_smart_antispam_summary">À propos de l\'identification de numéros inconnus</string>
+  <string name="about_telephone_fraud">À propos de la fraude téléphonique</string>
+
+  <!-- Common web page related -->
+  <string name="title_about_yellow_page">À propos</string>
+
+  <!-- Payment related -->
+  <string name="payment_back">Annuler</string>
+  <string name="payment_failed_common_problems">Un problème est survenu lors du paiement.</string>
+  <string name="payment_unknown_status_title">Erreur du statut de paiement</string>
+  <string name="payment_unknown_status_summary">Vérifiez votre connexion réseau et réessayez.</string>
+
+  <!-- Recharge related -->
+  <string name="recharge_input_phone_title">Entrez un numéro de téléphone (China mobile, China Unicom ou China Telecom)</string>
+  <string name="recharge_select_money_title">Veuillez sélectionner une valeur de recharge</string>
+  <string name="recharge_charge_range">Prix : %1$s-%2$s RMB</string>
+  <string name="recharge_charge_value">Prix : %s RMB</string>
+  <string name="recharge_pay">Recharger maintenant</string>
+  <string name="recharge_pay_hint">Support fourni par Xiaomi</string>
   <string name="mishop_web_payment_title">Panier MiStore</string>
-  <string name="network_unavaliable">Réseau indisponible, veuillez vérifier vos paramètres réseau</string>
+  <string name="recharge_pay_hint_license">Notification de recharge</string>
+  <string name="recharge_title">Recharger</string>
+  <string name="recharge_payment_result_ok_title">%s RMB ajoutés.</string>
+  <string name="recharge_payment_result_ok_summary">Confirmez que ce montant est exact.</string>
+  <string name="recharge_payment_result_failed_title">La recharge a échoué</string>
+  <string name="recharge_payment_result_failed_summary">Veuillez réessayer</string>
+  <string name="recharge_payment_result_progress_summary">Vérification du résultat du paiement…</string>
+  <string name="recharge_phone_number_error">Numéro de téléphone non valide.</string>
+  <string name="recharge_user_confirm_title">Confirmer</string>
+  <string name="recharge_user_confirm_summary">Vous serez facturé %1$s pour %2$s RMB.\n\nMontant total : %3$s RMB</string>
+  <string name="recharge_order_id">ID de commande :</string>
+  <string name="recharge_status_description">État :</string>
+  <string name="recharge_actual_price">Prix :</string>
+  <string name="recharge_order_original_price">%s RMB</string>
+  <string name="recharge_order_actual_price">%s RMB</string>
+  <string name="recharge_order_pay">Commander</string>
+  <string name="recharge_history">Historique des recharges</string>
+  <string name="recharge_history_empty">Pas d\'historique</string>
+
+  <!-- 运营商流量套餐相关 -->
   <string name="packages_pay">Acheter</string>
   <string name="packages_pay_confirm">Confirmer l\'achat</string>
+ <!-- à traduire :
+  <string name="packages_title">Preferential flow of packages</string>  xiaomi: Mobile data packages
+ -->
   <string name="select_package_before_buy">Veuillez sélectionner le package que vous souhaitez acheter</string>
   <string name="packages_select_to_buy_title">Vous choisissez d\'acheter :</string>
   <string name="packages_pay_hint">Envoyer un SMS (gratuit)</string>
   <string name="packages_pay_success">Message envoyé</string>
- <!-- packages_wait_for_op_reply remplacer "opérateur"?  -->
   <string name="packages_wait_for_op_reply">Veuillez attendre le message de confirmation de l\'opérateur</string>
   <string name="packages_select_sim_cards_title">Veuillez sélectionner la carte SIM</string>
   <string name="packages_select_sim_cards_summmary">Le système propose des forfaits data en fonction de votre choix</string>
   <string name="packages_no_package">Aucun forfait data adapté</string>
-  <string name="payment_back">Annuler</string>
-  <string name="payment_failed_common_problems">Un problème est survenu lors du paiement.</string>
-  <string name="payment_unknown_status_summary">Vérifiez votre connexion réseau et réessayez.</string>
-  <string name="payment_unknown_status_title">Erreur du statut de paiement</string>
-  <string name="provider_tag">Source de données</string>
-  <string name="recharge_actual_price">Prix :</string>
-  <string name="recharge_charge_range">Prix : ¥%1$s-%2$s</string>
-  <string name="recharge_charge_value">Prix : ¥%s</string>
-  <string name="recharge_history">Historique des recharges</string>
-  <string name="recharge_input_phone_title">Entrez un numéro de téléphone (China mobile, China Unicom ou China Telecom)</string>
-  <string name="recharge_order_actual_price">¥%s</string>
-  <string name="recharge_order_id">ID de commande :</string>
-  <string name="recharge_order_original_price">%s RMB</string>
-  <string name="recharge_order_pay">Commander</string>
-  <string name="recharge_pay">Recharger maintenant</string>
-  <string name="recharge_pay_hint">Support fourni par Xiaomi</string>
-  <string name="recharge_pay_hint_license">Notification de recharge</string>
-  <string name="recharge_payment_result_failed_summary">Veuillez réessayer</string>
-  <string name="recharge_payment_result_failed_title">La recharge a échoué</string>
-  <string name="recharge_payment_result_ok_summary">Confirmez que ce montant est exact.</string>
-  <string name="recharge_payment_result_ok_title">%s RMB ajoutés.</string>
-  <string name="recharge_payment_result_progress_summary">Vérification du résultat du paiement…</string>
-  <string name="recharge_phone_number_error">Numéro de téléphone non valide.</string>
-  <string name="recharge_select_money_title">Veuillez sélectionner une valeur de recharge</string>
-  <string name="recharge_status_description">État :</string>
-  <string name="recharge_title">Recharger</string>
-  <string name="recharge_user_confirm_summary">"Vous serez facturé %1$s pour %2$s RMB
-Montant total : %3$s RMB"</string>
-  <string name="recharge_user_confirm_title">Confirmer</string>
-  <string name="remind_another_time">Ne pas demander pour ce numéro</string>
-  <string name="remind_user_confirm">OK</string>
-  <string name="remind_user_suspect_number_message">"Les malfaiteurs peuvent usurper l'identité d'autres personnes pour frauder, en cas de doute rappelez pour vérifier l'identité de l'appelant. Les banques, les sociétés d'e-commerce etc. ne vous demanderont jamais votre mot de passe ou vos informations bancaires."</string>
-  <string name="remind_user_suspect_number_title">Méfiez-vous des appels frauduleux</string>
+
+  <!-- Multi modules related -->
+  <string name="login_ok">Se connecter</string>
+  <string name="login_before_use">Vous devez vous connecter avant de pouvoir l\'utiliser.</string>
+
+  <!--  Express inquiry related -->
+  <string name="express_inquiry">Suivi</string>
+  <string name="express_inquiry_serial_number_indication">Numéro de suivi</string>
+  <string name="express_inquiry_logistics_indication">Entreprise postale</string>
+  <string name="express_inquiry_button_text">Suivre</string>
+  <string name="express_inquiry_serial_number_prefix">"Numéro de série : "</string>
+  <string name="express_inquiry_no_result">Aucun résultat.</string>
+  <string name="express_inquiry_internal_failure">Une erreur est survenue.\nVeuillez vérifier le numéro de suivi</string>
+  <string name="express_inquiry_data_owner_prefix">Infos de suivi fourni par</string>
+  <string name="express_inquiry_data_owner_suffix"/>
   <string name="scan">Scanner</string>
-  <string name="selected_category_format">%1$s (%2$d l\'ont marqué, appuyez pour approuver)</string>
-  <string name="service_unavailiable">Votre réseau actuel n\'est pas bon, veuillez réessayer plus tard</string>
-  <string name="smart_antispam">Identifier les numéros inconnus automatiquement</string>
-  <string name="title_about_yellow_page">À propos</string>
-  <string name="toast_finish_delete_call_log">Le journal d\'appels a été effacé</string>
-  <string name="toast_text_copied">Texte copié</string>
-  <string name="try_again">Réessayer</string>
-  <string name="turn_on_smart_antispam_hint">Après l\'avoir activé les numéros seront identifiés. Étiqueter les numéros aide à déterminer les appels frauduleux.</string>
-  <string name="turn_on_smart_antispam_summary_off">Uniquement interroger avec la base de données locale</string>
-  <string name="turn_on_smart_antispam_summary_on">Identifier les numéros inconnus et envoyer vos marques</string>
-  <string name="turn_on_smart_antispam_title">Identifier les numéros inconnus</string>
-  <string name="user_notice_identify_summary_format">L\'identification des numéros inconnus est un service en ligne, veuillez lire %1$s et %2$s avant de l\'utiliser.</string>
-  <string name="user_notice_yp_detail_summary_format">L\'information partielle sur cette page jaune doit être mise à jour en ligne, veuillez lire %1$s et %2$s, appuyez sur "Accepter" pour valider ou sur "Annuler" pour voir les informations (en cache uniquement).</string>
-  <string name="voicemail">Messagerie vocale</string>
-  <string name="yellow_page_call_log_title">Journal d\'appels</string>
-  <string name="yellow_page_detail_title">À propos</string>
-  <string name="yellow_page_website">Site officiel</string>
-  <string name="mark_title_null_hint">La saisie ne peut être laissée vide</string>
-  <string name="recharge_history_empty">Pas d\'historique</string>
+  <string name="express_inqiury_select_logistics">Entreprise postale</string>
+  <string name="expresss_inquiry_frequently_used_logistics">Fréquents</string>
+  <string name="expresss_inquiry_all_logistics">Tous</string>
   <string name="express_inquiry_history">Historique</string>
   <string name="express_inquiry_delivered">Livré</string>
   <string name="express_inquiry_no_history">Pas d\'historique</string>
-  <string name="express_inquiry_internal_failure">"Une erreur est survenue.
-Veuillez vérifier le numéro de suivi"</string>
-  <string name="provider">Identifié par %s</string>
-  <string name="order_empty_hint">Aucune commande</string>
-  <string name="order_id">Ref. commande : %s</string>
-  <string name="order_merchant_title">Mes commandes - %s</string>
-  <string name="order_price">%s</string>
-  <string name="order_status">%s</string>
-  <string name="navigation_search_all_cities">Toutes les villes</string>
+  <string name="express_inquiry_delete_warning_single">Supprimer l\'élément sélectionné ?</string>
+  <string name="express_inquiry_delete_warning_multiple">Supprimer les %d éléments sélectionnés ?</string>
+
+  <!-- Scams numbers related -->
+  <string name="remind_user_suspect_number_title">Méfiez-vous des appels frauduleux</string>
+  <string name="remind_user_suspect_number_message">"Les malfaiteurs peuvent usurper l'identité d'autres personnes pour frauder, en cas de doute rappelez pour vérifier l'identité de l'appelant. Les banques, les sociétés d'e-commerce etc. ne vous demanderont jamais votre mot de passe ou vos informations bancaires."</string>
+  <string name="remind_another_time">Ne pas demander pour ce numéro</string>
+  <string name="remind_user_confirm">OK</string>
+
+  <!-- Balance inquiry related -->
+  <string name="balance_inquiry_title">Consultation du solde</string>
+  <string name="balance_inquiry_default_sp_name">Opérateur</string>
+  <string name="balance_inquiry_send_sms_hint">Une demande de solde sera envoyée par SMS (gratuit) à l\'opérateur</string>
+  <string name="balance_inquiry_send_sms_summmary">Vérifiez votre solde</string>
+
+  <!-- 导航相关 -->
   <string name="navigation_search_automatically_positioned_city">Ville actuelle</string>
-  <string name="navigation_search_hot_cities">Populaire</string>
- <!-- navigation_search_no_city_list à revoir : No City data found! -->  
-  <string name="navigation_search_no_city_list">Aucune donnée trouvée !</string>
   <string name="navigation_search_positioning">Localisation…</string>
   <string name="navigation_search_positioning_failed">Impossible de localiser la ville</string>
-  <string name="express_inquiry_data_owner_prefix">Infos de suivi fourni par</string>
-  <string name="express_inquiry_data_owner_suffix"/>
-  <string name="balance_inquiry_send_sms_summmary">Vérifiez votre solde</string>
+  <string name="navigation_search_no_city_list">Aucune donnée trouvée !</string>
+  <string name="navigation_search_hot_cities">Populaire</string>
+  <string name="navigation_search_all_cities">Toutes les villes</string>
+
+  <!-- Order related -->
+  <string name="order_empty_hint">Aucune commande</string>
+  <string name="order_merchant_title">Mes commandes - %s</string>
+  <string name="order_merchant_title_format">%1$s-%2$s</string>
+  <string name="order_id">Ref. commande : %s</string>
+  <string name="order_status">%s</string>
+  <string name="order_price">%s</string>
+
+  <!-- Frequently used yellowpage related -->
   <string name="general_yellow_page_title">Général</string>
   <string name="general_recent_title">Récent</string>
   <string name="general_favorite_title">Favoris</string>
@@ -150,7 +182,4 @@ Veuillez vérifier le numéro de suivi"</string>
   <string name="general_menu_delete_recent">Supprimer des récents</string>
   <string name="general_cancel_favorite_ok">Favori supprimé</string>
   <string name="general_delete_recent_ok">Récent supprimé</string>
- <!-- à traduire :
-  <string name="packages_title">Preferential flow of packages</string>  xiaomi: Mobile data packages
- -->
 </resources>

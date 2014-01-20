@@ -216,6 +216,7 @@
   <string name="pref_camera_focusmode_entry_normal">Standard</string>
   <string name="pref_camera_focusmode_title">Mise au point</string>
   <string name="pref_camera_hand_night_title">Mode nuit</string>
+  <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Live</string>
   <string name="pref_camera_hdr_type_entry_normal">Normal</string>
   <string name="pref_camera_hdr_type_title">Type HDR</string>
@@ -251,6 +252,7 @@
   <string name="pref_camera_multilevel_entry_low">Moins que normal</string>
   <string name="pref_camera_multilevel_entry_lower">Faible</string>
   <string name="pref_camera_multilevel_entry_lowest">Le plus faible</string>
+  <string name="pref_camera_multilevel_entry_middle">Moyen (par défaut)</string>
   <string name="pref_camera_multilevel_entry_normal">Normal</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">Un visage</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">Deux visages</string>
@@ -261,14 +263,19 @@
   <string name="pref_camera_picture_format_title">Sélectionner le format de l\'image</string>
   <string name="pref_camera_picturesize_entry_1440x1080">Standard 4:3</string>
   <string name="pref_camera_picturesize_entry_1440x816">Plein écran 16:9</string>
+  <string name="pref_camera_picturesize_entry_2560x1920">Standard 4:3</string>
+  <string name="pref_camera_picturesize_entry_2880x1728">Plein écran 16:9</string>
   <string name="pref_camera_picturesize_entry_3200x1800">Plein écran 16:9</string>
   <string name="pref_camera_picturesize_entry_3200x2400">Standard 4:3</string>
   <string name="pref_camera_picturesize_entry_3264x1840">Plein écran 16:9</string>
   <string name="pref_camera_picturesize_entry_3264x2448">Standard 4:3</string>
+  <string name="pref_camera_picturesize_entry_3600x2160">Plein écran 16:9</string>
+  <string name="pref_camera_picturesize_entry_4160x3120">Standard 4:3</string>
   <string name="pref_camera_picturesize_entry_4208x2368">Plein écran 16:9</string>
   <string name="pref_camera_picturesize_entry_4208x3120">Standard 4:3</string>
   <string name="pref_camera_picturesize_title">Taille d\'image</string>
   <string name="pref_camera_picturesize_title_simple_mode">Repère de la caméra</string>
+  <string name="pref_camera_raw_data_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
   <string name="pref_camera_recordlocation_entry_on">Activé</string>
   <string name="pref_camera_recordlocation_title">Enregistrer la position</string>
@@ -322,6 +329,7 @@
   <string name="pref_camera_volumekey_function_entry_exposure">Exposition</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Obturateur</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
+  <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Fonctions des touches de volume</string>
   <string name="pref_camera_watermark_entry_off">Désactivé</string>
   <string name="pref_camera_watermark_entry_on">Activé</string>

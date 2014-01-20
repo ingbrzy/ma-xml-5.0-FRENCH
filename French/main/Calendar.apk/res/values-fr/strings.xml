@@ -3,7 +3,6 @@
   <string name="accessibility_add_attendee">Ajouter un participant</string>
   <string name="accessibility_add_reminder">Ajouter un rappel</string>
   <string name="accessibility_all_day">Toute la journée</string>
-  <string name="accessibility_email_notification">Notifications email</string>
   <string name="accessibility_pick_end_date">Date de fin</string>
   <string name="accessibility_pick_end_time">Heure de fin</string>
   <string name="accessibility_pick_start_date">Date de début</string>
@@ -70,7 +69,6 @@
   <string name="edit_event_to_label">À</string>
   <string name="edit_label">Modifier</string>
   <string name="email_guests_label">Envoyer un mail aux invités</string>
-  <string name="email_organizer_label">Gestionnaire email</string>
   <string name="email_picker_label">Envoyer un mail via</string>
   <string name="email_subject_prefix">"Re : "</string>
   <string name="empty_event">Événement vide non créé.</string>
@@ -81,7 +79,6 @@
   <string name="event_info_reminders_label">Rappels</string>
   <string name="event_info_title">Afficher l\'événement</string>
   <string name="event_info_title_invite">Invitation à une réunion</string>
-  <string name="event_not_found">Événement non trouvé.</string>
   <string name="event_view">Afficher l\'événement</string>
   <string name="every_weekday">Jours ouvrés (lun–ven)</string>
   <string name="gadget_no_events">Aucun événement à venir</string>

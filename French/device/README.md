@@ -29,6 +29,7 @@
 * mione_plus: Xiaomi MI One Series jb-4.1
 * mx2: Meizu MX2 jb-4.1
 * nozomi: Sony Xperia S jb-4.1
+* NX403A: ZTE Nubia Z5S mini jb-4.2
 * P175A20: ZTE V970M jb-4.?
 * P188F04: ZTE V987 jb-4.2
 * P188F07: ZTE V967S jb-4.2
