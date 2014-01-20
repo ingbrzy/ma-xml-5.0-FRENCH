@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="onemore_click_exit">Appuyer encore pour quitter</string>
+  <string name="voucher_error_password_empty">Champ vide, veuillez saisir un code !</string>
+</resources>

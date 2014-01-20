@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="cancel_download_notice">Ignorer l\'avis de téléchargement</string>
+<string name="confirm_disable_download_only_in_wifi_message">Désactiver "Télécharger via Wi-Fi uniquement" sera susceptible de générer des frais supplémentaires de données. Êtes-vous sûr de vouloir le désactiver ?</string>
+<string name="disable_download_only_in_wifi_title">Désactiver "Télécharger via Wi-Fi uniquement"</string>
+<string name="might_lead_to_mobile_charge">"Après l\'avoir désactivé il n\'y aura pas d\'avertissement de téléchargement, ce qui peut mener à une augmentation du trafic mobile"</string>
+<string name="pause_download_when_wifi_disconnected">Télécharger uniquement via Wi-Fi</string>
+<string name="prefDefault_max_bytes_limit">52428800</string>
+<string name="pref_dialog_title_max_bytes_limit">Limite de taille de fichier</string>
+<string name="pref_title_max_bytes_limit">Limite de taille de fichier</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
+  <string name="menu_refresh">Actualiser</string>
+  <string name="resource_comment_account_need_activitied">Veuillez activer votre compte Xiaomi pour utiliser cette fonctionnalité.</string>
+  <string name="resource_switch_account">Changer</string>
+  <string name="ringtone_volume_mute">La sonnerie est actuellement en mode silencieux.</string>
+  <string name="theme_another_import_running">L\'importation est déjà en cours, veuillez patienter et réessayer</string>
+  <string name="theme_import_data">Importation des données du thème</string>
+  <string name="theme_import_fail">Impossible d\'importer %1$s</string>
+  <string name="theme_import_importing">Mise à jour… %1$d restant</string>
+  <string name="theme_import_item_delete_request_button">Supprimer</string>
+  <string name="theme_import_item_delete_request_content">Le thème n\'a pas été mis à jour, vous pourrez l\'utiliser après l\'avoir mis à jour, ou le supprimer.</string>
+  <string name="theme_import_item_delete_request_title">Le thème n\'est pas à jour</string>
+  <string name="theme_import_item_importing">Mise à jour…</string>
+  <string name="theme_import_item_not_exist">L\'élément n\'existe pas</string>
+  <string name="theme_import_item_not_upgraded">Non mis à jour</string>
+  <string name="theme_import_item_reject_use">Le thème est en cours de mise à jour, veuillez patienter…</string>
+  <string name="theme_import_item_waiting">En attente de</string>
+  <string name="theme_import_new_download">Importation depuis la carte SD en cours</string>
+  <string name="theme_import_normal">Mettre à jour le thème</string>
+  <string name="theme_import_oper_complete">Terminé</string>
+  <string name="theme_import_oper_start">Tout mettre à jour</string>
+  <string name="theme_import_oper_stop">Annuler</string>
+  <string name="theme_import_oper_stop_request_content">Le thème doit être mis à jour pour être fonctionnel. Souhaitez-vous annuler la mise à jour ?</string>
+  <string name="theme_import_preparing">Analyse des thèmes locaux…</string>
+  <string name="theme_import_stoping">Arrêt en cours…</string>
+  <string name="theme_importing">Importation du thème en cours…</string>
+  <string name="theme_is_imported">Thème importé.</string>
+  <string name="theme_sdcard_importing">Importation en cours…</string>
+  <string name="theme_upgrade_request_cancel">Annuler</string>
+  <string name="theme_upgrade_request_content">Vos thèmes locaux devraient être convertis pour en améliorer l\'efficacité. Ceci peut prendre quelques minutes et le téléphone pourrait sembler bloqué. Convertir les thèmes maintenant ?</string>
+  <string name="theme_upgrade_request_title">Des mises à jour de thèmes sont disponibles</string>
+  <string name="theme_upgrade_request_yes">OK</string>
+</resources>

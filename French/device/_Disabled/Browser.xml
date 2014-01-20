@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_button_bookmark">Favori</string>
+  <string name="accessibility_button_goto">Atteindre</string>
+  <string name="accessibility_button_larger">Plus grand</string>
+  <string name="accessibility_button_smaller">Plus petit</string>
+  <string name="accessibility_button_tabs">Onglets</string>
+  <string name="export_bookmark">Exporter les favoris</string>
+  <string name="export_bookmark_failure">L\'exportation des favoris vers la carte SD a échoué !</string>
+  <string name="export_bookmark_sucess">L\'exportation des favoris vers la carte SD a été effectuée.</string>
+  <string name="exported_bookmark_file_name">Mes favoris</string>
+  <string name="file_picker_new_folder">Nouveau dossier</string>
+  <string name="file_picker_sdcard_not_found">Aucune carte SD n\'est détectée, vérifiez si l\'appareil est n\'est pas connecté en USB ou en utilisation.</string>
+  <string name="folder_name_too_long">Le nom de dossier est trop long</string>
+  <string name="import_bookmark">Importer les favoris</string>
+  <string name="import_bookmark_failure">Échec de l\'importation des favoris !</string>
+  <string name="import_bookmark_sucess">Favoris importés avec succès</string>
+  <string name="importing_favorite_files">Importation des données…</string>
+  <string name="navigation_button_close">Fermer</string>
+  <string name="navigation_button_newtab">Nouveau</string>
+  <string name="navigation_button_tab">Onglet</string>
+  <string name="navigation_button_view">Voir</string>
+  <string name="please_select_a_file_to_import">Veuillez sélectionner le fichier de données</string>
+  <string name="pref_content_preload_title">Précharger le contenu</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_summary">Cocher cette case pour quitter le navigateur en fermant le dernier onglet. Décocher la case pour afficher la page d\'accueil</string>
+  <string name="pref_fling_on_border_operation">Action du glissement</string>
+  <string name="pref_image_display_control">Contrôle de l\'affichage d\'image</string>
+  <string name="search_139">Search 139</string>
+  <string name="selection_all">Tout sélectionner</string>
+  <string name="send_to_desktop">Ajouter au bureau</string>
+  <string name="tab_closed">Onglet fermé.</string>
+  <string name="tab_opened_background">Onglet ouvert en arrière-plan.</string>
+  <string name="tab_opened_background_in_incognito">Nouvel onglet privé ouvert</string>
+  <string name="webapp_bottom_bar_already_addtodesk">Déjà ajouté sur l\'écran d\'accueil</string>
+</resources>

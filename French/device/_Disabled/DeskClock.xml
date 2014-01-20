@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="alarm_alert_dismiss_text">Quitter</string>
+  <string name="alarm_alert_snooze_text">Répéter</string>
+  <string name="alarm_button_description">Alarmes</string>
+  <string name="alarm_notify_snooze_text">Prochaine alarme à %s. Appuyez pour l\'annuler.</string>
+  <string name="clock_instructions">Sélectionner une horloge</string>
+  <string name="default_ringtone_setting_title">Sonnerie par défaut</string>
+  <string name="desk_clock_button_description">Affichage de l\'horloge</string>
+  <string name="disable_alarm">Désactiver l\'alarme</string>
+  <string name="edit_alarm">Modifier l\'alarme</string>
+  <string name="elapsed_hour">%d heures</string>
+  <string name="enable_alarm">Activer l\'alarme</string>
+  <string name="gallery_button_description">Galerie</string>
+  <string name="hide_clock">Masquer l\'horloge</string>
+  <string name="home_button_description">Lanceur d\'applications</string>
+  <string name="menu_alarmclock_edit">Éditer les alarmes</string>
+  <string name="menu_delete">Supprimer</string>
+  <string name="menu_worldclock_edit">Éditer les horloges</string>
+  <string name="minute_unit">min</string>
+  <string name="music_button_description">Musique</string>
+  <string name="nightmode_button_description">Mode nuit</string>
+  <string name="show_clock">Afficher l\'horloge</string>
+  <string name="snooze_confirm_message">Le rappel a été repoussé à %s. Vous pouvez annuler le rappel.</string>
+  <string name="snooze_confirm_ok">OK</string>
+  <string name="timer_hour">heure(s)</string>
+  <string name="timer_minute">minute(s)</string>
+  <string name="timer_tutorial">Faire coulisser</string>
+  <string name="timezone_search_hint">Chercher une ville pour ajouter une horloge mondiale</string>
+  <string name="volume_button_dialog_title">Effet des boutons</string>
+  <string name="wait_when_operating_data_message">Opération en cours, veuillez patienter.</string>
+  <string name="weather_fetch_failure">"Les informations météo ne sont pas disponibles actuellement."</string>
+  <string name="weekend_alarm_clock">Alarme pour les jours de congés</string>
+</resources>

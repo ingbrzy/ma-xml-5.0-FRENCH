@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="event_not_found">Événement non trouvé.</string>
+  <string name="email_organizer_label">Gestionnaire email</string>
+  <string name="accessibility_email_notification">Notifications email</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="add_to_cloud_file_not_exist_message">Le fichier n\'existe pas.</string>
+  <string name="alert_message_initial_cloud">Le système va automatiquement télécharger les anciennes et nouvelles photos ainsi que les captures d\'écran seulement lorsqu\'il y a une connexion Wi-Fi.</string>
+  <string name="apply_successfully">Album rejoint avec succès</string>
+  <string name="bigscrren_slide_exit">Quitter le diaporama affiché sur la TV</string>
+  <string name="can_modified">Autoriser le partageur à ajouter des images</string>
+  <string name="cant_delete_system_album">%s est un album système et ne peut être supprimé !</string>
+  <string name="click_to_enter_camera">Ouvrir l\'appareil photo</string>
+  <string name="confirm_delete_folders_and_pictures">Êtes-vous sûr de vouloir supprimer %s ?</string>
+  <string name="confirm_delete_folders_including" formatted="false">%s dossiers (incluant %s)</string>
+  <string name="confirm_delete_including_null">0 élément</string>
+  <string name="confirm_delete_items">%s élément(s)</string>
+  <string name="context_menu_new_contact">Nouveau contact</string>
+  <string name="context_menu_view_contact">Voir le contact</string>
+  <string name="delete_fail_too_many_items">Échec de la suppression, trop d\'éléments sélectionnés</string>
+  <string name="empty_album">Aucune image/vidéo disponible.</string>
+  <string name="fail_to_apply">Impossible de joindre album.</string>
+  <string name="landscape_mode">Autoriser le mode paysage</string>
+  <string name="marked_by_others">%d personnes l\'ont marqué</string>
+  <string name="modify_allow_hint">L\'ajout de nouvelles images à l\'album est autorisé</string>
+  <string name="modify_disallow_hint">L\'ajout de nouvelles images à l\'album est refusé</string>
+  <string name="request_qr_code">Demande de code QR, veuillez patienter…</string>
+  <string name="scan_barcode">Scanner le code QR</string>
+  <string name="scan_qr_code">Autoriser les autres scans code QR à voir cet album partagé</string>
+  <string name="scan_qr_code_top_text">Les membres peuvent afficher et ajouter des photos.</string>
+  <string name="screensaver_no_data">Pas d\'image dans l\'album.</string>
+  <string name="send_to_cloud_failed_message">Échec de l\'envoi de l\'élément à l\'album Cloud</string>
+  <string name="share_album_qr_code">Code QR</string>
+  <string name="share_album_share_to">Partager à</string>
+  <string name="share_user_name">Nom</string>
+  <string name="sharer_status_accepted">Accepté</string>
+  <string name="sharer_status_refused">Refusé</string>
+  <string name="sharer_status_waiting">En attente</string>
+  <string name="sharer_status_waitting">en attente</string>
+  <string name="turn_left">Faire pivoter à gauche</string>
+  <string name="turn_right">Faire pivoter à droite</string>
+  <string name="video_download_in_process">La vidéo est en cours de téléchargement</string>
+  <string name="video_download_start">Démarrer le téléchargement de la vidéo</string>
+</resources>
