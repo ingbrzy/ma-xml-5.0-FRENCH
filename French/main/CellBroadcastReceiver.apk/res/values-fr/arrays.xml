@@ -7,4 +7,10 @@
         <item>8 secondes</item>
         <item>10 secondes</item>
     </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Une fois</item>
+        <item>Toutes les 2 minutes</item>
+        <item>Toutes les 15 minutes</item>
+        <item>Désactivé</item>
+    </string-array>
 </resources>

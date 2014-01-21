@@ -35,10 +35,10 @@
   <string name="experimental_validate_username">ID Xiaomi</string>
   <string name="experimental_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
   <string name="find_device_check_sim">Vérification de la carte SIM…</string>
-  <string name="find_device_sim_change_instructions">"Votre appareil a été verrouillé. Veuillez insérer la carte SIM ou saisir votre mot de passe Xiaomi"</string>
-  <string name="find_device_sim_change_instructions_no_network">"Votre appareil a été verrouillé, veuillez insérer la carte SIM d'origine"</string>
+  <string name="find_device_sim_change_instructions">Votre appareil a été verrouillé. Veuillez insérer la carte SIM ou saisir votre mot de passe Xiaomi</string>
+  <string name="find_device_sim_change_instructions_no_network">Votre appareil a été verrouillé, veuillez insérer la carte SIM d\'origine</string>
   <string name="find_device_turn_off_flight_mode">Désactiver le Mode Avion</string>
-  <string name="find_device_turn_off_flight_mode_instructions">"Votre appareil a été verrouillé, veuillez désactiver le mode Avion"</string>
+  <string name="find_device_turn_off_flight_mode_instructions">Votre appareil a été verrouillé, veuillez désactiver le mode Avion</string>
   <string name="firewall_setting">Pare-feu</string>
   <string name="first_back_long_press_message">"Souhaitez-vous activer la fonction d'appui-long sur la touche retour pour tuer le processus en cours et ses services de base ? Activer via Paramètres &gt; Système &gt; Touches"</string>
   <string name="fm_record_smaple_prefix_miui">Enregistrement FM</string>
@@ -157,7 +157,7 @@ Réessayer dans %d secondes."</string>
   <string name="screen_button_notification_title">Les boutons de l\'écran sont désactivés</string>
   <string name="screen_on_proximity_sensor_hint">"Astuce : Appuyez longuement sur le bouton Marche/Arrêt pour quitter le mode \"mauvaise utilisation\". Voir Paramètres &gt; Affichage pour désactiver"</string>
   <string name="screen_on_proximity_sensor_summary">"Pour empêcher toute erreur de manipulation, le téléphone est désactivé !"</string>
-  <string name="screen_on_proximity_sensor_title">"Capteur de proximité obstrué !</string>
+  <string name="screen_on_proximity_sensor_title">Capteur de proximité obstrué !</string>
   <string name="sd_not_available">Carte SD non montée ou indisponible</string>
   <string name="sd_not_available_low_internal_storage">Carte SD non montée ou indisponible, espace disque faible sur le stockage interne</string>
   <string name="sd_not_available_saved_to_internal_storage">Enregistré dans la mémoire interne</string>

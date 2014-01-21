@@ -32,7 +32,7 @@
   <string name="apply_rules_failed_known">OK</string>
   <string name="batch_connect_control">Gérer les connexions des applications</string>
   <string name="cancel_txt">Annuler</string>
-  <string name="cannot_find_sms_cmd">"Impossible de trouver la commande SMS"</string>
+  <string name="cannot_find_sms_cmd">Impossible de trouver la commande SMS</string>
   <string name="carrier_query_number_brand">Marque de service</string>
   <string name="carrier_query_number_carrier">Opérateur</string>
   <string name="carrier_query_number_location">Attribution</string>
@@ -150,8 +150,8 @@
   <string name="traffic_total">%s\nTotal</string>
   <string name="traffic_used_status">%s\nUtilisé</string>
   <string name="unknown">Inconnu</string>
-  <string name="unknown_free_traffic_hint">"Si vous ne connaissez pas votre quota de données, merci de vous renseigner auprès de votre opérateur"</string>
-  <string name="unknown_free_traffic_text">"Je ne connais pas mon quota de données"</string>
+  <string name="unknown_free_traffic_hint">Si vous ne connaissez pas votre quota de données, merci de vous renseigner auprès de votre opérateur.</string>
+  <string name="unknown_free_traffic_text">Je ne connais pas mon quota de données</string>
   <string name="unknown_free_traffic_title">Quota de données inconnu</string>
   <string name="unknown_location">Lieu inconnu</string>
   <string name="unknown_traffic_hint">Quota de données inconnu, voulez-vous le renseigner ?</string>
@@ -175,8 +175,8 @@
   <string name="pref_connect_settings_monitor_running_app">Afficher les notifications</string>
   <string name="pref_connect_settings_monitor_running_app_summary">Affiche une notification quand une appli est bloquée du réseau</string>
  <!-- extra for mi3w at least : -->
-  <string name="notify_traffic_settings_format">"%s n\'a pas été configuré pour votre forfait de données ? Configurer maintenant ?</string>
-  <string name="notify_carrier_settings_format">"%s n\'a pas été configuré pour votre forfait voix/SMS. Configurer maintenant ?"</string>
+  <string name="notify_traffic_settings_format">%s n\'a pas été configuré pour votre forfait de données ? Configurer maintenant ?</string>
+  <string name="notify_carrier_settings_format">%s n\'a pas été configuré pour votre forfait voix/SMS. Configurer maintenant ?</string>
   <string name="yesterday_mobile_format">%s Trafic d\'hier</string>
   <string name="today_mobile_format">%s Trafic d\'aujourd\'hui</string>
   <string name="this_month_mobile_format">%s Trafic du mois</string>

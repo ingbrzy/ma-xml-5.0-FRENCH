@@ -911,9 +911,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="scan_merge">Recherche d\'éventuels contacts en double, veuillez patienter…</string>
   <string name="scanning">Recherche de périphériques…</string>
   <string name="scanning_sdcard_failed_message">Échec de la recherche sur la carte SD (Raison : %s)</string>
-  <string name="scanning_sdcard_failed_title">"Recherche impossible sur la carte SD"</string>
-  <string name="sdcard_not_mounted_dialog_message">"Veuillez insérer une carte SD.
- "</string>
+  <string name="scanning_sdcard_failed_title">Recherche impossible sur la carte SD</string>
+  <string name="sdcard_not_mounted_dialog_message">Veuillez insérer une carte SD.\n</string>
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
   <string name="sdcard_status_changed_dialog_message">"L'application va fermer. Veuillez la rouvrir pour actualiser les ressources."</string>
   <string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
@@ -1052,7 +1051,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="upgrade_out_of_memory_retry">Réessayer</string>
   <string name="upgrade_out_of_memory_uninstall">Désinstaller certaines applications</string>
   <string name="use_photo_as_primary">Utiliser cette photo</string>
-  <string name="use_photo_as_primary2">"Utiliser la photo de contact de %1$s"</string>
+  <string name="use_photo_as_primary2">Utiliser la photo de contact de %1$s</string>
   <string name="user_profile_contacts_list_header">Moi</string>
   <string name="vcard_export_request_rejected_message">Échec de l\'exportation de la carte de visite. Veuillez essayer plus tard.</string>
   <string name="vcard_export_will_start_message">%s sera exporté</string>

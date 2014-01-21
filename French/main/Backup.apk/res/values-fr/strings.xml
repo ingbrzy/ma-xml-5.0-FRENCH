@@ -233,18 +233,18 @@
   <string name="wifi_title">Paramètres Wi-Fi</string>
   <string name="button_continue">Continuer</string>
   <string name="cloud_app_backup_cancel">Annuler la sauvegarde</string>
-  <string name="cloud_app_backup_cancel_prompt_message">"Sauvegarde incomplète, appuyez sur OK pour annuler la sauvegarde"</string>
+  <string name="cloud_app_backup_cancel_prompt_message">Sauvegarde incomplète, appuyez sur OK pour annuler la sauvegarde</string>
   <string name="cloud_app_backup_cancel_prompt_title">Annuler la sauvegarde</string>
-  <string name="cloud_app_invalid_op_when_removing">"Vous ne pouvez pas afficher les données MiCloud lorsqu'elles sont en cours de suppression !"</string>
-  <string name="cloud_app_loading_with_mobile_network_prompt">"Le réseau mobile de données va être utilisé. Souhaitez-vous continuer ?"</string>
+  <string name="cloud_app_invalid_op_when_removing">Vous ne pouvez pas afficher les données MiCloud lorsqu\'elles sont en cours de suppression !</string>
+  <string name="cloud_app_loading_with_mobile_network_prompt">Le réseau mobile de données va être utilisé. Souhaitez-vous continuer ?</string>
   <string name="cloud_app_no_network">Réseau indisponible</string>
   <string name="cloud_app_no_wifi">Wi-Fi indisponible</string>
   <string name="cloud_app_no_wifi_connect">Aucune connexion Wi-Fi disponible</string>
   <string name="cloud_app_remove_cancel">Annuler la suppression</string>
-  <string name="cloud_app_remove_cancel_prompt_message">"Suppression de la sauvegarde incomplète, appuyez sur OK pour annuler"</string>
+  <string name="cloud_app_remove_cancel_prompt_message">Suppression de la sauvegarde incomplète, appuyez sur OK pour annuler</string>
   <string name="cloud_app_remove_cancel_prompt_title">Annuler la suppression</string>
   <string name="cloud_app_restore_cancel">Annuler la restauration</string>
-  <string name="cloud_app_restore_cancel_prompt_message">"Restauration incomplète, appuyez sur OK pour restaurer"</string>
+  <string name="cloud_app_restore_cancel_prompt_message">Restauration incomplète, appuyez sur OK pour restaurer</string>
   <string name="cloud_app_restore_cancel_prompt_title">Annuler la restauration</string>
   <string name="cloud_app_wait_wifi">En attente d\'une connexion Wi-Fi</string>
  <!-- à traduire :

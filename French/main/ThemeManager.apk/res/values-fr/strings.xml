@@ -147,7 +147,7 @@
   <string name="resource_update">MàJ</string>
   <string name="resource_waiting_download">En attente…</string>
   <string name="restore_default_theme_alert">Vous êtes peut-être victime d\'une contrefaçon de thème, veuillez parcourir le market pour l\'acheter ou le re-télécharger.</string>
-  <string name="sdcard_not_mounted_dialog_message">"Carte SD non disponible, veuillez en ajouter une."</string>
+  <string name="sdcard_not_mounted_dialog_message">Carte SD non disponible, veuillez en insérer une.</string>
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
   <string name="selected_resource_file_invalid">Le fichier sélectionné est non valide.</string>
   <string name="short_ringtone_resource">Court(&lt;5s)</string>

@@ -15,7 +15,7 @@
   <string name="accessibility_remove_attendee">Supprimer participant</string>
   <string name="accessibility_remove_reminder">Supprimer le rappel</string>
   <string name="accessibility_repeats">Récurrence</string>
-  <string name="accessibility_sync_cal">"Synchroniser l\'agenda"</string>
+  <string name="accessibility_sync_cal">Synchroniser l\'agenda</string>
   <string name="accounts">Comptes et synchro</string>
   <string name="acct_not_synced">Ce compte n\'est pas synchronisé. Il est possible que vos agendas ne soient pas à jour.</string>
   <string name="acessibility_cal_notification">Notification de l\'agenda</string>
@@ -26,7 +26,7 @@
   <string name="agenda_tomorrow">DEMAIN, %1$s</string>
   <string name="agenda_view">Mon planning</string>
   <string name="agenda_yesterday">HIER, %1$s</string>
-  <string name="alert_title">"Notifications de l\'agenda"</string>
+  <string name="alert_title">Notifications de l\'agenda</string>
   <string name="app_label">Agenda</string>
   <string name="attendees_label">Invités</string>
   <string name="birthday_calendar_display_name">Rappel d\'anniversaire</string>
@@ -34,11 +34,11 @@
   <string name="birthday_notification_text_three_days_later">Il reste 3 jours avant son anniversaire !</string>
   <string name="birthday_notification_text_today">N\'oubliez pas de lui souhaiter un joyeux anniversaire !</string>
   <string name="birthday_notification_title_three_days_later">L\'anniversaire de %1$s arrive bientôt.</string>
-  <string name="birthday_notification_title_today">"Anniversaire de %1$s"</string>
+  <string name="birthday_notification_title_today">Anniversaire de %1$s</string>
   <string name="calendar_refresh">Actualiser</string>
   <string name="change_response_title">Modifier la réponse</string>
   <string name="copy_db">Envoyer la base de données</string>
-  <string name="copy_email">"Copier l\'adresse mail"</string>
+  <string name="copy_email">Copier l\'adresse mail</string>
   <string name="copy_number">Copier le numéro de téléphone</string>
   <string name="create_an_account_desc">"Tirez le meilleur parti de Google Agenda en utilisant un compte Google.
 

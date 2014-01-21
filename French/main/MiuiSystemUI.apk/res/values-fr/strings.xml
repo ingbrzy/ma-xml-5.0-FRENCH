@@ -73,8 +73,8 @@
   <string name="chooseUsbActivity">Sélectionnez une application pour le périphérique USB</string>
   <string name="compat_mode_help_body">Si une application a été conçue pour un écran plus petit, une commande de zoom s\'affiche à côté de l\'horloge.</string>
   <string name="compat_mode_help_header">Zoom de compatibilité</string>
-  <string name="compat_mode_off">"Étirer pour remplir l\'écran"</string>
-  <string name="compat_mode_on">"Zoomer pour remplir l\'écran"</string>
+  <string name="compat_mode_off">Étirer pour remplir l\'écran</string>
+  <string name="compat_mode_on">Zoomer pour remplir l\'écran</string>
   <string name="data_usage_disabled_dialog">"Vous avez atteint le plafond de consommation de données spécifié.
 
 Si vous utilisez des données supplémentaires, celles-ci pourront être facturées par l\'opérateur."</string>
@@ -196,7 +196,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="settings_show_network_speed">Afficher la vitesse de transfert</string>
   <string name="settings_show_notificationBar_notification">Afficher notifs de la barre de notification</string>
   <string name="settings_show_statusBar_notification">Afficher notifs de la barre d\'état</string>
-  <string name="settings_status_bar">"Barre d'état"</string>
+  <string name="settings_status_bar">Barre d\'état</string>
   <string name="settings_toggle">Raccourcis</string>
   <string name="settings_toggle_collapse_after_clicked">Réduire après un appui</string>
   <string name="settings_toggle_layout_style">Style des commutateurs</string>

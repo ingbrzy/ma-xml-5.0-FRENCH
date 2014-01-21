@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="account_bind_prompt">"Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter…"</string>
+  <string name="account_bind_prompt">Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter…</string>
   <string name="add_task">Ajouter une tâche</string>
   <string name="adding_upload_tasks">Ajout de tâches à partager.</string>
   <string name="already_signin_description">Vous êtes déjà connecté</string>
@@ -106,7 +106,7 @@
   <string name="file_info_modified">Mis à jour :</string>
   <string name="file_info_size">Taille :</string>
   <string name="file_loading">Chargement…</string>
-  <string name="file_too_large">"Le fichier est trop volumineux et ne peut être envoyé"</string>
+  <string name="file_too_large">Le fichier est trop volumineux et ne peut être envoyé</string>
   <string name="finished">Terminé</string>
   <string name="folder_exist">Le fichier existe déjà</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Appuyez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
@@ -136,7 +136,7 @@ Superflu"</string>
   <string name="kuaipan_label">MiDrive</string>
   <string name="kuaipan_over_space">Votre MiDrive n\'a plus assez d\'espace libre.</string>
   <string name="kuaipan_prompt">Aide MiDrive</string>
-  <string name="kuaipan_prompt_message">"Le serveur est actuellement indisponible, veuillez réessayer plus tard"</string>
+  <string name="kuaipan_prompt_message">Le serveur est actuellement indisponible, veuillez réessayer plus tard</string>
   <string name="kuaipan_tech_support">Propulsé par kuaipan.cn</string>
   <string name="load_err">Échec du chargement</string>
   <string name="loading">Chargement en cours…</string>
@@ -290,7 +290,7 @@ Obtenez de l\'espace gratuit %1$s"</string>
   <string name="user_guide_kuaipan_copy">Utilisez MiDrive pour accéder à vos fichiers sur plusieurs appareils</string>
   <string name="user_guide_other_version">Télécharger des versions alternatives de MiDrive</string>
   <string name="user_guide_summary">Comment utiliser MiDrive</string>
-  <string name="user_guide_upload_to_kuaipan">"Copier et coller des fichiers sur MiDrive"</string>
+  <string name="user_guide_upload_to_kuaipan">Copier et coller des fichiers sur MiDrive</string>
   <string name="utf8_summary">Codage par défaut</string>
   <string name="utf8_title">UTF-8</string>
   <string name="version_text">version %1$s</string>

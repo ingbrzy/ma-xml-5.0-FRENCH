@@ -13,14 +13,14 @@
   <string name="delete_the_downloaded_file">Supprimez les fichiers téléchargés.</string>
   <string name="deselect_all">Tout désélectionner</string>
   <string name="dialog_cannot_resume">Le téléchargement a été interrompu, et ne peut pas être repris.</string>
-  <string name="dialog_failed_body">"Souhaitez-vous réessayer de télécharger le fichier ultérieurement ou préférez-vous le supprimer de la file d\'attente ?"</string>
+  <string name="dialog_failed_body">Souhaitez-vous réessayer de télécharger le fichier ultérieurement ou préférez-vous le supprimer de la file d\'attente ?</string>
   <string name="dialog_file_already_exists">Impossible de procéder au téléchargement. Le fichier de destination existe déjà.</string>
   <string name="dialog_file_missing_body">Impossible de trouver le fichier téléchargé.</string>
   <string name="dialog_file_missing_title">Échec de l\'ouverture du fichier</string>
-  <string name="dialog_insufficient_space_on_cache">"Impossible de terminer le téléchargement. L\'espace disponible sur la mémoire interne est insuffisant."</string>
-  <string name="dialog_insufficient_space_on_external">"Impossible de terminer le téléchargement. L\'espace disponible sur la carte SD est insuffisant."</string>
-  <string name="dialog_media_not_found">"Impossible de procéder au téléchargement. Le support externe n\'est pas disponible."</string>
-  <string name="dialog_queued_body">"Ce fichier est en attente de téléchargement, et n\'est donc pas encore disponible."</string>
+  <string name="dialog_insufficient_space_on_cache">Impossible de terminer le téléchargement. L\'espace disponible sur la mémoire interne est insuffisant.</string>
+  <string name="dialog_insufficient_space_on_external">Impossible de terminer le téléchargement. L\'espace disponible sur la carte SD est insuffisant.</string>
+  <string name="dialog_media_not_found">Impossible de procéder au téléchargement. Le support externe n\'est pas disponible.</string>
+  <string name="dialog_queued_body">Ce fichier est en attente de téléchargement, et n\'est donc pas encore disponible.</string>
   <string name="dialog_title_not_available">Téléchargement impossible</string>
   <string name="dialog_title_queued_body">Fichier en attente</string>
   <string name="download_complete">Téléchargé</string>
@@ -29,10 +29,10 @@
   <string name="download_in_process">Téléchargement</string>
   <string name="download_info_count_deleted_tasks">%s téléchargement(s) supprimé(s)</string>
   <string name="download_info_start_deleted_tasks">Supprimer les téléchargements</string>
-  <string name="download_no_application_title">"Impossible d\'ouvrir le fichier"</string>
+  <string name="download_no_application_title">Impossible d\'ouvrir le fichier</string>
   <string name="download_paused">Téléchargement mis en pause</string>
   <string name="download_pending">En attente de téléchargement</string>
-  <string name="download_queued">"Ajouté à la file d\'attente"</string>
+  <string name="download_queued">Ajouté à la file d\'attente</string>
   <string name="download_running">En cours…</string>
   <string name="download_share_dialog">Partager via</string>
   <string name="download_success">Terminé</string>
@@ -58,7 +58,7 @@
  <!-- pref_download_settings_title à revoir ? text original : Data usage -->
   <string name="pref_download_settings_title">Utilisation des données</string>
   <string name="pref_summary_any_bytes_popup">Toujours attendre d\'être connecté via Wi-Fi</string>
-  <string name="pref_summary_enable_max_bytes_popup">"Une demande de confirmation apparaît si la taille du téléchargement via le réseau de l\'opérateur dépasse la limite</string>
+  <string name="pref_summary_enable_max_bytes_popup">Une demande de confirmation apparaît si la taille du téléchargement via le réseau de l\'opérateur dépasse la limite</string>
   <string name="pref_summary_max_bytes_limit_format">Message d\'alerte si la taille du fichier dépasse %s</string>
   <string name="pref_title_enable_max_bytes_popup">Téléchargement de données</string>
   <string name="pref_summary_no_limit_popup">La taille de fichier est illimitée</string>
