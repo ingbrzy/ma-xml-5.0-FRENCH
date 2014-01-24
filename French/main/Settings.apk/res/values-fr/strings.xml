@@ -3836,7 +3836,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
  <!-- power_save_low_battery_option_recovery_title power_save_on_time_option_recovery_title power_dialog_delete_dialog_cannot_delete_low_out_battery power_dialog_delete_dialog_cannot_delete_on_out_time
       : vérifier longueur ! -->
   <string name="power_save_low_battery_option_recovery_title">Si le niveau de charge remonte, basculer vers</string>
-  <string name="power_save_on_time_option_recovery_title">Si l'\heure planifiée est atteinte, basculer vers</string>
+  <string name="power_save_on_time_option_recovery_title">Si l\'heure planifiée est atteinte, basculer vers</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Suppression impossible,
 Votre appareil est configuré pour basculer sur ce mode quand le niveau de charge de la batterie remonte. Vous devez modifier vos paramètres de batterie avant de pouvoir supprimer cette configuration."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">"Suppression impossible,
