@@ -162,6 +162,8 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="notification_otg_unknow_out">Périphérique OTG déconnecté</string>
   <string name="notifications_off_text">Appuyez ici pour réactiver les notifications.</string>
   <string name="notifications_off_title">Notifications désactivées</string>
+  <string name="oldman_airplane_mode_text">Avion</string>
+  <string name="oldman_incall_text">en appel</string>
   <string name="recent_apps_key">Touche des applications récentes</string>
   <string name="recent_apps_key_show">Afficher la touche</string>
   <string name="return_to_incall_screen">Appuyez pour revenir à l\'appel</string>

@@ -52,9 +52,41 @@
     <item quantity="one">1 personne</item>
     <item quantity="other">%d personnes</item>
   </plurals>
-   <plurals name="numSelectedSimContacts">
-       <item quantity="other">" %1$d sélectionnés"</item>
-       <item quantity="zero">%1$d sélectionné</item>
-       <item quantity="one">%1$d sélectionné</item>
-   </plurals>
+  <plurals name="numSelectedSimContacts">
+    <item quantity="other">" %1$d sélectionnés"</item>
+    <item quantity="zero">%1$d sélectionné</item>
+    <item quantity="one">%1$d sélectionné</item>
+  </plurals>
+  <plurals name="pick_favorites_list_title">
+    <item quantity="other">%1$d favoris</item>
+    <item quantity="one">%1$d favori</item>
+  </plurals>
+  <plurals name="pick_recent_list_title">
+    <item quantity="other">%1$d contacts récents</item>
+    <item quantity="one">1 contact récent</item>
+  </plurals>
+  <plurals name="hint_search_contacts">
+    <item quantity="other">%1$d contacts</item>
+    <item quantity="one">%1$d contact</item>
+  </plurals>
+  <plurals name="hint_search_phone_numbers">
+    <item quantity="other">%1$d numéros</item>
+    <item quantity="one">%1$d numéro</item>
+  </plurals>
+  <plurals name="hint_search_emails">
+    <item quantity="other">%1$d emails</item>
+    <item quantity="one">1 email</item>
+  </plurals>
+  <plurals name="pick_favorites_contacts_list_title">
+    <item quantity="other">%1$d favoris</item>
+    <item quantity="one">%1$d favori</item>
+  </plurals>
+  <plurals name="pick_recent_contacts_list_title">
+    <item quantity="other">%1$d contacts récents</item>
+    <item quantity="one">%1$d contact récent</item>
+  </plurals>
+  <plurals name="device_import_done_toast">
+    <item quantity="other">%1$d contacts importés</item>
+    <item quantity="one">%1$d contact importé</item>
+  </plurals>
 </resources>

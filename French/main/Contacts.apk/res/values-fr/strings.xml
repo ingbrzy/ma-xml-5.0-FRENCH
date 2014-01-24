@@ -1144,6 +1144,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="yellowpage_navigation_search_result_service_error">Service actuellement indisponible</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Une erreur inconnue s\'est produite !</string>
   <string name="yellowpage_navigation_search_select_city">Veuillez sélectionner une ville</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Ajouté à l\'écran d\'accueil</string>
   <string name="imei_invalid">IMEI non valide</string>
   <string name="has_double_phone_number">Impossible de sauvegarder 2 fois le même type de numéro, veuillez vérifier.</string>
   <string name="phone_book_busy">Le carnet d\'adresses est occupé, veuillez réessayez plus tard.</string>

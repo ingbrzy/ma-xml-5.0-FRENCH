@@ -293,34 +293,34 @@
   <string name="cit_wifi_state_refresh">Réactualiser</string>
   
  <!-- à traduire
-  <string name="cit_audio_lb_mainmic_to_earpiece_title">主麦克到听筒回环测试</string>
-  <string name="cit_audio_lb_backmic_to_speaker_title">后置麦克到扬声器回环测试</string>
-  <string name="cit_audio_lb_topmic_to_speaker_title">顶部麦克到扬声器回环测试</string>
-  <string name="cit_audio_lb_phonecall_title">模拟通话测试</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"主麦克风到听筒回环测试.
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
+  <string name="cit_audio_lb_phonecall_title">Simulation call test</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
 
-做接电话状，对着主麦克风说话，将会从听筒听见声音"</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">"后置麦克风到扬声器回环测试.
+Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
 
-翻转手机，对着次麦克风说话，扬声器将会放出声音"</string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">"顶部麦克风到扬声器回环测试.
+Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
 
-翻转手机，对着次麦克风说话，扬声器将会放出声音"</string>
-  <string name="cit_audio_lb_summary_phonecall">"模拟通话测试.
+ Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+  <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
 
-做接电话状，对着主麦克风说话，将会从听筒听见说话声，环境声音十分小"</string>
-  <string name="cit_tool_bluetooth_dut">进入蓝牙测试模式</string>
-  <string name="cit_tool_bluetooth_le_tx_h">进入蓝牙低功耗TX测试(2.480GHz)模式</string>
-  <string name="cit_tool_bluetooth_le_tx_l">进入蓝牙低功耗TX测试(2.402GHz)模式</string>
-  <string name="cit_tool_bluetooth_not_on">蓝牙未打开！！</string>
-  <string name="cit_tool_bluetooth_tx_h">进入蓝牙单音测试（2.480GHz）模式</string>
-  <string name="cit_tool_bluetooth_tx_l">进入蓝牙单音测试（2.402GHz）模式</string>
-  <string name="cit_tool_modem_cta_test">打开/关闭协议一致性测试</string>
-  <string name="cit_tool_modem_exit_ftm">退出FTM模式</string>
-  <string name="cit_tool_nfc">NFC测试工具</string>
+Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
+  <string name="cit_tool_bluetooth_dut">Enter bluetooth test mode</string>
+  <string name="cit_tool_bluetooth_le_tx_h">Enter bluetooth low-power dissipation (2.480GHz) mode</string>
+  <string name="cit_tool_bluetooth_le_tx_l">Enter bluetooth low-power dissipation (2.402GHz) mode</string>
+  <string name="cit_tool_bluetooth_not_on">BlueTooth function is not on !!</string>
+  <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
+  <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
+  <string name="cit_tool_modem_cta_test">>Open / Close Protocol Conformance Test</string>
+  <string name="cit_tool_modem_exit_ftm">Exit FTM mode</string>
+  <string name="cit_tool_nfc">NFC test tools</string>
   <string name="cit_tool_nfc_st">Nfc ST:</string>
   <string name="cit_tool_nfc_st_confreq">freq:</string>
-  <string name="cit_tool_nfc_st_run">运行</string>
-  <string name="cit_tool_nfc_st_stop">停止</string>
+  <string name="cit_tool_nfc_st_run">Run</string>
+  <string name="cit_tool_nfc_st_stop">Stop</string>
  -->
 </resources>

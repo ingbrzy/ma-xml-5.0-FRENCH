@@ -135,6 +135,7 @@
   <string name="toast_channel_searched">%1$d stations ont été scannées.</string>
   <string name="toast_delete_station">%s MHz a été supprimée.</string>
   <string name="toast_edit_station">Les changements ont été enregistrés</string>
+  <string name="toast_fm_error_startfailed">Enregistrement échoué, une autre application utilise peut-être la fonction d\'enregistrement. Veuillez vérifier et réessayer.</string>
   <string name="toast_fm_not_stated">Radio non indiquée</string>
   <string name="toast_fm_recorder_internal_error">Erreur lors de l\'enregistrement radio !</string>
   <string name="toast_fm_recorder_storage_full">Espace de stockage plein, impossible d\'enregistrer !</string>
@@ -150,6 +151,5 @@
   <string name="turn_off_speaker_phone">Désactiver le haut parleur</string>
   <string name="turn_on_fm">Allumer la radio</string>
   <string name="turn_on_speaker_phone">Activer le haut parleur</string>
-  
   <string name="view_stations_list">Afficher la liste des stations</string>
 </resources>
