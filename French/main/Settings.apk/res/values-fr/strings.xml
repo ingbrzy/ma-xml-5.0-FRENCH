@@ -1012,7 +1012,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="immediately_destroy_activities_summary">Arrêter chaque activité dès que l\'utilisateur la quitte</string>
   <string name="ims_reg_required_off">Désactivation de l\'enregistrement IMS requise</string>
   <string name="ims_reg_required_on">Activation de l\'enregistrement IMS requise</string>
-  <string name="incoming_call_vibrate_abbreviation">Appels</string>
+  <string name="incoming_call_vibrate_abbreviation">"Appels "</string>
   <string name="incoming_call_volume_title">Sonnerie</string>
   <string name="input_method">Mode de saisie</string>
   <string name="input_method_selector">Sélection du mode de saisie</string>
@@ -1249,7 +1249,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="miui_screensaver_state_on">Désactivé</string>
   <string name="miui_screensaver_title">Écran de veille</string>
   <string name="miui_screensaver_usage">Une fois activé, les photos de l\'album défileront 5 secondes après extinction de l\'écran.</string>
-  <string name="mms_vibrate_abbreviation">Messages</string>
+  <string name="mms_vibrate_abbreviation">"Messages "</string>
   <string name="model_number">Numéro du modèle</string>
   <string name="move_app">Déplacer</string>
   <string name="move_app_failed_dlg_text">"Impossible de déplacer l'application. %1$s"</string>
@@ -1313,7 +1313,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="notification_pulse_title">Voyant de notification</string>
   <string name="notification_sound_dialog_title">Notification par défaut</string>
   <string name="notification_sound_title">Notification par défaut</string>
-  <string name="notification_vibrate_abbreviation">Notifications</string>
+  <string name="notification_vibrate_abbreviation">"Notifications "</string>
   <string name="notification_volume_title">Notifications</string>
   <string name="nsd_quick_toggle_summary">Autoriser les applications d\'autres appareils à identifier les applications de celui-ci</string>
   <string name="nsd_quick_toggle_title">Identification du service réseau</string>

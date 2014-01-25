@@ -350,7 +350,7 @@
   <string name="screensaver_activate_mode">Diaporama d\'écran de veille</string>
   <string name="screensaver_activate_only_charging">Activer l\'écran de veille uniquement pendant la charge</string>
   <string name="screensaver_category">Écran de veille</string>
-  <string name="screensaver_path">"Album d\'écran de veille : "</string>
+  <string name="screensaver_path">"Album : "</string>
   <string name="screensaver_path_not_set">Non défini</string>
   <string name="sd_not_available">Carte SD non montée ou indisponible</string>
   <string name="seconds">secondes</string>

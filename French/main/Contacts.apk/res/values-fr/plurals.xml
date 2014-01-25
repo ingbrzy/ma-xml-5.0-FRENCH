@@ -53,7 +53,7 @@
     <item quantity="other">%d personnes</item>
   </plurals>
   <plurals name="numSelectedSimContacts">
-    <item quantity="other">" %1$d sélectionnés"</item>
+    <item quantity="other">%1$d sélectionnés</item>
     <item quantity="zero">%1$d sélectionné</item>
     <item quantity="one">%1$d sélectionné</item>
   </plurals>

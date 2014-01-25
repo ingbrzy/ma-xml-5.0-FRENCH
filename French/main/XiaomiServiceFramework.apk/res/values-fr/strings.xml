@@ -134,7 +134,7 @@
   <string name="micloud_activating_account_notify_info">Vous activez votre compte Xiaomi</string>
   <string name="micloud_activating_account_notify_title">Activation de votre compte Xiaomi…</string>
   <string name="micloud_active_alert_title">Envoyer un SMS</string>
-  <string name="micloud_active_email_sent_1">Mail d\'activation envoyé à :</string>
+  <string name="micloud_active_email_sent_1">"Mail d\'activation envoyé à : "</string>
   <string name="micloud_active_email_visit">Visitez %s</string>
   <string name="micloud_activing_account">Activation de votre compte…</string>
   <string name="micloud_activing_account_delayed">"Il faut probablement 30 secondes pour terminer l'activation. 
