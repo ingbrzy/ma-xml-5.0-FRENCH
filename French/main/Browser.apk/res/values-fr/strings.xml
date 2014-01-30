@@ -287,7 +287,7 @@
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Notification de Wi-Fi disponible</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_title">Si vous utilisez le réseau mobile pour accéder à internet, MIUI vous avertira si une connexion Wi-Fi est disponible à proximité</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Connexion Wi-Fi locale disponible</string>
-  <string name="network_show_wifi_setting_tip_dialog_description">Une connexion Wi-Fi est disponible. Voulez-vous vous connecter ?</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Souhaitez-vous vous connecter ?</string>
   <string name="network_show_wifi_setting_tip_dialog_notshow">Se souvenir de mon choix</string>
   <string name="new_folder">Nouveau dossier</string>
   <string name="new_incognito_tab">Nouvel onglet navigation privée</string>

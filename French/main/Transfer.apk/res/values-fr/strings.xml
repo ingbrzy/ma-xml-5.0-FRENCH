@@ -41,7 +41,7 @@
   <string name="editmode_menu_share">Partager</string>
   <string name="empty_share_history">Pas d\'historique de partage</string>
   <string name="error_bad_file">Fichier corrompu</string>
-  <string name="error_connect_service">Impossible de se connecter au service de transfert.</string>
+  <string name="error_connect_service">Impossible de se connecter au service de transfert</string>
   <string name="error_download">Le téléchargement a échoué</string>
   <string name="error_general">Une erreur globale est survenue</string>
   <string name="error_info_cant_send_folder">Attention ! Les dossiers ne peuvent pas être envoyées !</string>
@@ -216,6 +216,6 @@ sur [ %1$s ] "</string>
   <string name="waitting">En attente…</string>
   <string name="wanna_receive">Recevoir</string>
   <string name="welcome_tip1">Transférez des fichiers rapidement sans utilisation de données mobiles</string>
-  <string name="welcome_tip2">Transférez rapidement des images, des musiques, des contacts et bien plus encore !</string>
+  <string name="welcome_tip2">Partagez des images, des musiques, des contacts et bien plus encore !</string>
   <string name="you_can">OK</string>
 </resources>

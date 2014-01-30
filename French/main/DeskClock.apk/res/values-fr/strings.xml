@@ -29,7 +29,7 @@
   <string name="battery_charging_level">%d %%</string>
   <string name="cancel">Annuler</string>
   <string name="close_alarm">Fermer l\'alarme</string>
-  <string name="common_settings">Paramètres généraux</string>
+  <string name="common_settings">Paramètres</string>
   <string name="confirm_abort">Confirmer</string>
   <string name="control_set_alarm">Régler l\'alarme</string>
   <string name="control_set_alarm_with_existing">Alarme définie : %s</string>

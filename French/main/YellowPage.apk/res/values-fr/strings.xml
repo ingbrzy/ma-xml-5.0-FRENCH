@@ -166,7 +166,7 @@
 
   <!-- Order related -->
   <string name="order_empty_hint">Aucune commande</string>
-  <string name="order_merchant_title">Mes commandes - %s</string>
+  <string name="order_merchant_title">Mes commandes</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_id">Ref. commande : %s</string>
   <string name="order_status">%s</string>

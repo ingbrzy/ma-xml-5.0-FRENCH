@@ -34,7 +34,7 @@
   <string name="backup_items_sysdata_tailer">" fichiers de données système, "</string>
   <string name="backup_new">Nouveau :</string>
   <string name="backup_progress">Sauvegarde…</string>
-  <string name="backup_recently">" (dernière)"</string>
+  <string name="backup_recently">"  (dernière) "</string>
   <string name="backup_report">Rapport de sauvegarde</string>
   <string name="backup_update">Mise à jour</string>
   <string name="batch_delete_backup_confirm">Confirmer la suppression de %d sauvegarde(s) ?</string>
@@ -116,7 +116,7 @@
   <string name="disable_encrypt_title">Désactiver le cryptage</string>
   <string name="enable_encrypt">Activer maintenant</string>
   <string name="enable_encrypt_fail">L\'activation du cryptage a échoué</string>
-  <string name="enable_encrypt_indicator">La sauvegarde n\'est pas chiffrée, appuyez pour activer le chiffrement.</string>
+  <string name="enable_encrypt_indicator">Appuyez pour activer le chiffrement.</string>
   <string name="enable_encrypt_ok">OK</string>
   <string name="enable_encrypt_summery1">"Le système va crypter votre sauvegarde locale sur votre compte Xiaomi, vous devez vous connecter à votre compte Xiaomi lors de la suppression de données ou lors de l\'utilisation d\'autres appareils pour restaurer la sauvegarde."</string>
   <string name="enable_encrypt_summery2">"La nouvelle sauvegarde sera automatiquement chiffrée. Vous devez vous connecter à votre compte Xiaomi lors de la suppression de données ou lors de l\'utilisation d\'autres appareils pour restaurer la sauvegarde."</string>
@@ -164,6 +164,7 @@
   <string name="refresh">Actualiser</string>
   <string name="restore">Restaurer</string>
   <string name="restore_contact">Restaurer les contacts</string>
+ <!-- à vérifier comparer avec original restore_contact_content -->
   <string name="restore_contact_content">La restauration des contacts peut entraîner des doublons, êtes-vous sûr de vouloir faire cela ?\n Remarque : Vous pouvez fusionner les contacts en double dans les paramètres de la liste des contacts</string>
   <string name="restore_contacts_hit">(Remarque : Vous devez restaurer manuellement les contacts créés avant le compte d\'origine)</string>
   <string name="restore_counts">Récupération :</string>

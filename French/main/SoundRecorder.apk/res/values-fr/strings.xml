@@ -68,8 +68,8 @@
   <string name="recording_stopped">Fin de l\'enregistrement</string>
   <string name="rename">Renommer</string>
   <string name="rename_dialog_title">Renommer cet enregistrement</string>
-  <string name="rename_duplicate">Nom de l\'enregistrement en double, veuillez le renommer :</string>
-  <string name="rename_illegal">Nom de l\'enregistrement incorrect, veuillez le renommer :</string>
+  <string name="rename_duplicate">Nom d\'enregistrement saisi déjà existant, veuillez le renommer.</string>
+  <string name="rename_illegal">Nom d\'enregistrement saisi incorrect, veuillez le renommer.</string>
   <string name="sd_card_not_available">La carte SD n\'est pas disponible</string>
   <string name="search_for_recordings_in_folders">Rechercher les dossiers pour les enregistrements</string>
   <string name="second">%d seconde(s)</string>

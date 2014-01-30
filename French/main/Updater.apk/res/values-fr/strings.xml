@@ -13,7 +13,7 @@
   <string name="apply_update_dialog_cancel_button">Annuler</string>
   <string name="apply_update_dialog_update_button">Mettre à jour</string>
   <string name="apply_update_fail">La mise à jour du système a échoué</string>
-  <string name="apply_update_timer">l\'appareil redémarrera dans %d secondes</string>
+  <string name="apply_update_timer">L\'appareil redémarrera dans %d secondes</string>
   <string name="apply_upload_info_message">Appuyez sur "Mettre à jour" pour redémarrer automatiquement le téléphone pour appliquer la mise à jour.</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
   <string name="applying_rom_message">Application de la mise à jour</string>

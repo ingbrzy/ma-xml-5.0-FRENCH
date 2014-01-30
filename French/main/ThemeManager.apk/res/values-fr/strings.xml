@@ -156,7 +156,7 @@
   <string name="theme_batch_update_dlg_content">Voulez-vous mettre à jour maintenant ?</string>
   <string name="theme_batch_update_dlg_content_single">Mettre à jour maintenant ?</string>
   <string name="theme_batch_update_dlg_title">Mise à jour</string>
-  <string name="theme_batch_updating_text">%1$d thème(s) en cours de mise à jour</string>
+  <string name="theme_batch_updating_text">%1$d thème(s) en cours de mise à jour…</string>
   <string name="theme_changed_failed_message">Échec de l\'application du thème %1$s.</string>
   <string name="theme_changed_message">%1$s Appliqué avec succès</string>
   <string name="theme_changing_dialog_title">Application du nouveau thème, veuillez patienter…</string>
