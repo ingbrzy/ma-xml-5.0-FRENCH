@@ -3337,7 +3337,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="mem_unlock">Déverrouiller</string>
   <string name="member_firewall_log" formatted="false">Bloqué : Numéro %d, détails %d</string>
   <string name="menu_edit">Modifier</string>
-  <string name="menu_item_about_content">Centre de sécurité : %s</string>
+  <string name="menu_item_about_content">Version : %s</string>
   <string name="menu_item_about_title">À propos</string>
   <string name="mms_log_tab_title">Journal des messages</string>
   <string name="need_check">Certains éléments peuvent êtres optimisés…</string>
@@ -3552,7 +3552,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_used_prefix">Énergie consommée</string>
   <string name="process_list_empty_hints">Aucun processus en cache</string>
   <string name="process_manage_title">%1$d processus en cours, %2$s peuvent être libérés</string>
-  <string name="process_manager_actionbar_title">Mémoire utilisée</string>
+  <string name="process_manager_actionbar_title">Usage de la mémoire</string>
   <string name="protection_adb">Débogage USB</string>
   <string name="protection_category_dangerous_title">Risque(s) (%d)</string>
   <string name="protection_category_recommend_title">Optimisation(s) recommandée(s) (%d)</string>
@@ -3844,12 +3844,12 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="power_mode_chooser_button_text">Appliquer</string>
   <string name="perm_support_hints">Propulsé par LBE</string>
   <string name="menu_item_about_summary">Version : %s</string>
-  <string name="menu_item_shortcut">Créer des raccourcis</string>
-  <string name="menu_item_shortcut_uninstall">Supp. des raccourcis</string>
-  <string name="menu_item_shortcut_title">Ajouter un raccourci</string>
+  <string name="menu_item_shortcut">Créer un raccourci</string>
+  <string name="menu_item_shortcut_uninstall">Supp. un raccourci</string>
+  <string name="menu_item_shortcut_title">Gérer les raccourcis</string>
   <string name="menu_item_shortcut_summary">Place des fonctions fréquemment utilisées sur l\'accueil</string>
   <string name="menu_item_settings_title">Paramètres</string>
-  <string name="activity_title_create_shortcut">Raccourci</string>
+  <string name="activity_title_create_shortcut">Gérer les raccourcis</string>
   <string name="activity_title_settings">Paramètres</string>
   <string name="toast_shortcut_install">Raccourci créé</string>
   <string name="toast_shortcut_uninstall">Raccourci supprimé</string>

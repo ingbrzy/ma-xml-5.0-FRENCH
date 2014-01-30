@@ -26,7 +26,7 @@
     <string name="act_weather_main_data_null">Aucune donnée météo, appuyer pour actualiser</string>
     <string name="act_weather_range_select">Sélectionner une ville</string>
     <string name="act_weather_range_title">Prévisions météorologiques locales</string>
-    <string name="act_weather_update_time">Actualisé à %s</string>
+    <string name="act_weather_update_time">Dernière màj : %s</string>
     <string name="add_city">Ajouter un lieu</string>
     <string name="alert_message_delete">Supprimer le(s) %d élément(s) sélectionné(s) ?</string>
     <string name="alert_provider_message">Vous devez activer la géolocalisation via le réseau mobile.</string>

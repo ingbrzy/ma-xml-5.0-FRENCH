@@ -41,9 +41,7 @@
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Supprimer des contacts par lot</string>
-  <string name="batch_delete_msg">"Êtes-vous sûr de vouloir supprimer les %d contacts sélectionnés ?
-  
-Si vous utilisez le service de synchronisation de contact, les informations dans le nuage seront également supprimées."</string>
+  <string name="batch_delete_msg">Êtes-vous sûr de vouloir supprimer les %d contacts sélectionnés ? Si vous utilisez le service de synchronisation de contact, les informations dans le cloud seront également supprimées.</string>
   <string name="bluetooth_connection_failed_toast">Connexion Bluetooth interrompue</string>
   <string name="blurbJoinContactDataWith">Sélectionnez le contact que vous souhaitez fusionner avec %s.</string>
   <string name="btn_delete_multi_contacts">Supprimer %d contacts</string>
@@ -342,7 +340,7 @@ Si vous utilisez le service de synchronisation de contact, les informations dans
   <string name="email_mobile">Envoyer un mail à un mobile</string>
   <string name="email_other">Envoyer un mail</string>
   <string name="email_work">Envoyer un mail à une adresse professionnelle</string>
-  <string name="emptyGroup">Ce groupe est vide.</string>
+  <string name="emptyGroup">Ce groupe est vide</string>
   <string name="empty_divider_title">Vous pouvez :</string>
   <string name="enter_contact_name">Saisissez le nom du contact</string>
   <string name="eventLabelsGroup">Événements</string>
@@ -614,7 +612,7 @@ Pour ajouter des contacts, appuyez sur "<font fgcolor="#ffffffff"><b>Menu</b></f
 "<li><font fgcolor="#ffffffff"><b>"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
 "</b></font></li>"
 "</string>
-  <string name="noContactsWithPhoneNumbers">Aucun contact disposant d\'un numéro téléphone.</string>
+  <string name="noContactsWithPhoneNumbers">Aucun contact disposant d\'un numéro téléphone</string>
   <string name="noFavoritesHelpText">"Vous ne disposez d\'aucun favori.
 
 Pour ajouter un contact à la liste de favoris :
@@ -777,7 +775,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="recentCalls_callNumber">Appeler %s</string>
   <string name="recentCalls_deleteAll">Effacer tous les appels</string>
   <string name="recentCalls_editNumberBeforeCall">Modifier le numéro avant l\'appel</string>
-  <string name="recentCalls_empty">Aucun appel.</string>
+  <string name="recentCalls_empty">Aucun appel</string>
   <string name="recentCalls_removeFromRecentList">Supprimer du journal d\'appels</string>
   <string name="recentCalls_shareVoicemail">Partager le message vocal</string>
   <string name="recentCalls_trashVoicemail">Supprimer le message vocal</string>
@@ -936,7 +934,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="set_default">Définir par défaut</string>
   <string name="set_photo_failed_msg">Échec de la mise en place de l\'avatar</string>
   <string name="set_smsc_address_title_miui">Définir le numéro du centre SMS</string>
-  <string name="share_error">Impossible de partager ce contact.</string>
+  <string name="share_error">Impossible de partager ce contact</string>
   <string name="share_via">Partager le contact via</string>
   <string name="share_visible_contacts">Partager les contacts visibles</string>
   <string name="shortcutActivityTitle">Sélectionner le raccourci du contact</string>
@@ -975,7 +973,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="sim_no_contact">Aucun contact sur la carte SIM</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Aucun membre dans le groupe</string>
-  <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
+  <string name="smart_group_action_bar_title">%1$s : %2$s (%3$s)</string>
   <string name="smart_group_company_label">Par société</string>
   <string name="smart_group_company_unavailable">Aucune information sur la société</string>
   <string name="smart_group_frequency_1">Ce mois-ci</string>

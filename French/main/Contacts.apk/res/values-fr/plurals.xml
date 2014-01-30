@@ -45,8 +45,8 @@
     <item quantity="other">%1$d sélectionnés</item>
   </plurals>
   <plurals name="group_add_success_toast">
-    <item quantity="one">%1$d personne a été ajoutée avec succès</item>
-    <item quantity="other">%1$d personnes ont été ajoutées avec succès</item>
+    <item quantity="one">%1$d personne a été ajoutée</item>
+    <item quantity="other">%1$d personnes ont été ajoutées</item>
   </plurals>
   <plurals name="smart_group_member_count">
     <item quantity="one">1 personne</item>

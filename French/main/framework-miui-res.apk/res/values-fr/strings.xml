@@ -5,7 +5,7 @@
   <string name="activating">Activation…</string>
   <string name="alwaysUsePrompt">Définir par défaut (ne plus demander)</string>
   <string name="android_lockscreen_glogin_instructions">Pour déverrouiller, connectez-vous avec votre compte</string>
-  <string name="app_no_notification">aucune notification</string>
+  <string name="app_no_notification">Masquer les notifications</string>
   <string name="app_notificaiton_on_notificationBar">Barre de notifications</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Barre d\'état et de notification</string>
   <string name="callNoAnswerTimeFormat">A sonné %s fois</string>
@@ -42,7 +42,7 @@
   <string name="firewall_setting">Pare-feu</string>
   <string name="first_back_long_press_message">"Souhaitez-vous activer la fonction d'appui-long sur la touche retour pour tuer le processus en cours et ses services de base ? Activer via Paramètres &gt; Système &gt; Touches"</string>
   <string name="fm_record_smaple_prefix_miui">Enregistrement FM</string>
-  <string name="force_exit_message">L\'application "%1$s" a été fermée</string>
+  <string name="force_exit_message">L\'application \"%1$s\" a été fermée</string>
   <string name="forget_password_string">MDP oublié ?</string>
   <string name="global_action_privacy_mode_dialog_message">En mode privé les appels, notes, photos et SMS sont cachés et le lanceur ne pourra pas passer en mode édition. Vous pouvez définir le mot de passe pour protéger le mode privé dans les paramètres de contrôle d’accès</string>
   <string name="global_action_toggle_privacy_mode">Mode privé</string>
@@ -212,11 +212,11 @@ Réessayer dans %d secondes."</string>
   <string name="volume_ring_description">Volume de la sonnerie et des notifications</string>
   <string name="wake_alarm_message">Mettre l\'alarme en pause et rappeler dans %s</string>
   <string name="yesterday">Hier</string>
-  <string name="yellow_page_unable_send_sms">Impossible d\'envoyer le SMS.</string>
-  <string name="yellow_page_module_sms_sent">Message envoyé.</string>
+  <string name="yellow_page_unable_send_sms">Impossible d\'envoyer le SMS</string>
+  <string name="yellow_page_module_sms_sent">Message envoyé</string>
   <string name="yellow_page_sms_send_failed">Échec de l\'envoi du SMS !</string>
   <string name="yellow_page_sms_sending">Envoi en cours…</string>
-  <string name="yellow_page_sms_disabled_in_privacy_mode">Impossible d\'envoyer un message en mode privé.</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">Impossible d\'envoyer un message en mode privé</string>
   <string name="grant_permissions_account">Autoriser l\'accès au compte</string>
   <string name="grant_permissions_apps">Autoriser l\'accès aux applis</string>
   <string name="v5_date_time_picker_dialog_title">Régler l\'heure de rappel</string>

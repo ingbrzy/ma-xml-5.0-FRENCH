@@ -142,10 +142,10 @@
   <string name="file_share_message_description">Je voudrais partager des fichiers avec vous</string>
   <string name="forward_from">Transf. depuis :</string>
   <string name="forward_prefix">"TR : "</string>
-  <string name="found_old_messages">%1$s messages ont été trouvés sur l\'ancien compte. Voulez-vous les télécharger sur votre compte actuel : %2$s ?</string>
-  <string name="found_old_messages_title">Envoi de messages</string>
-  <string name="found_wild_messages">%s messages provenant d\'autres cartes SIM ont été trouvés sur MiCloud, souhaitez-vous les télécharger ?</string>
-  <string name="found_wild_messages_title">Récupérer messages</string>
+  <string name="found_old_messages">Transférer les messages de %1$s vers %2$s ?</string>
+  <string name="found_old_messages_title">Transférer les messages depuis vos autres cartes SIM ?</string>
+  <string name="found_wild_messages">Récupérer les messages depuis vos autres cartes SIM ?</string>
+  <string name="found_wild_messages_title">Récupérer les messages</string>
   <string name="from_label">"De : "</string>
   <string name="group_message">Message groupé</string>
   <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
@@ -343,7 +343,7 @@
   <string name="restore_all_button_msg">Restaurer tous les messages de ce numéro</string>
   <string name="restore_blocked_message">Restaurer les messages bloqués</string>
   <string name="restore_to_phone_memory_failed">Impossible de restaurer vers la mémoire du téléphone !</string>
-  <string name="restored_to_phone_memory">"Restauré vers la mémoire du téléphone"</string>
+  <string name="restored_to_phone_memory">Restauré</string>
   <string name="save">Enregistrer</string>
   <string name="save_ringtone">Enregistrer comme sonnerie</string>
   <string name="save_to_sim">Enregistrer sur la carte SIM</string>
