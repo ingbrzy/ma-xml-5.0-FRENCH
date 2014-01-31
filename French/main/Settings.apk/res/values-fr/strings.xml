@@ -1266,12 +1266,12 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Suivant</string>
   <string name="msd_install_retry_linux">"Si votre ordinateur ne détecte pas votre appareil, essayez ce qui suit :
-1) Utiliser l\'outil d\'installation, "sudo aptitude install mtpfs libfuse-dev libmad0-dev"
-2) Créer le répertoire : mkdir /media/mtp
+1) Utiliser l\'outil d\'installation, \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
+2) Créer le répertoire : \"mkdir /media/mtp \"
 3) Confirmer les permissions du groupe d\'utilisateur
 4) Reconnecter
-5) Accéder à l\'appareil monté : "mtpfs /media/mtp" via Nautilus; même répertoire local
-6) Désinstaller l\'appareil "fusermount -u /media/mtp"
+5) Accéder à l\'appareil monté : \"mtpfs /media/mtp\" via Nautilus; même répertoire local
+6) Désinstaller l\'appareil \"fusermount -u /media/mtp\"
 Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="msd_install_retry_mac">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit :</string>
   <string name="msd_install_retry_windows_vista">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit :</string>
@@ -3223,9 +3223,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="context_ms">Envoyer un SMS</string>
   <string name="context_new_contact">Nouveau contact</string>
   <string name="custom_mark_category">Personnalisé</string>
-  <string name="deep_clean_tips_cache">iconCertaines applications utilisent des fichiers de cache pour stocker des ressources, téléchargées, supplémentaires (ex : paroles de chansons, musique, images, etc.). Soyez prudent lorsque vous nettoyez ces fichiers.</string>
-  <string name="deep_clean_tips_large_file">iconLe Nettoyeur indique les fichiers volumineux (plus grand que 10 Mo) qui sont actuellement stockées sur votre appareil. Vous pouvez seulement décider si oui ou non vous avez encore besoin d\'eux.</string>
-  <string name="deep_clean_tips_residual">iconLes résidus sont des fichiers (ex : des vidéos, fonds d\'écran, musique, etc) qui ont été téléchargés sur la carte SD de votre appareil par des applications qui ont depuis été désinstallés. Soyez prudent lorsque vous nettoyez, certains de ces fichiers peuvent peut-être encore vous être utiles.</string>
   <string name="deep_clean_title_cache">Cache</string>
   <string name="deep_clean_title_large_file">Fichiers volumineux</string>
   <string name="deep_clean_title_residual">Résidus</string>
@@ -3387,10 +3384,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="optimize_now">Démarrer</string>
   <string name="optimize_residual_header_left">Résidus : %d</string>
   <string name="optimize_residual_list_empty_content">Aucun résidu trouvé</string>
-  <string name="optimize_tips_ad">iconLes fichiers publicitaires sont des images, texte et d\'autres données liées aux publicités que les fournisseurs de services tiers stockent sur votre téléphone.</string>
-  <string name="optimize_tips_apk">iconLes fichiers .apk sont utilisés pour installer des applications sur votre appareil, mais ils ne sont d\aucune utilité, sauf à occuper de l\'espace, une fois que vous avez installé l\'application.</string>
-  <string name="optimize_tips_cache">iconLes fichiers cache sont générés par des processus qui les nécessitent seulement temporairement (ex : miniatures d\'images, etc.).</string>
-  <string name="optimize_tips_residual">iconLes résidus sont des fichiers (ex : des vidéos, fonds d\'écran, musique, etc) qui ont été téléchargés sur la carte SD de votre appareil par des applications qui ont depuis été désinstallés. Comme certains de ces fichiers peuvent peut-être encore vous être utile, nous vous recommandons d\'utiliser la fonctionnalité Avancée lors du nettoyage des fichiers résiduels.</string>
   <string name="optimize_tips_title">Aide</string>
   <!-- optimize_title_ad "Fichiers pub.", trouver mieux, plusieurs occurrences -->
   <string name="optimize_title_ad">Fichiers pub.</string>

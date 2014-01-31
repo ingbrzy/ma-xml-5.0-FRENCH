@@ -68,7 +68,7 @@
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
   <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
   <string name="resource_comment_entry_tips">Afficher les commentaires</string>
-  <string name="resource_comment_expand_full_text">Développer intégralement le texte</string>
+  <string name="resource_comment_expand_full_text">Développer le texte▼</string>
   <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
   <string name="resource_comment_good_comments">Positifs</string>
   <string name="resource_comment_invalid">Veuillez toucher les étoiles pour donner une note</string>

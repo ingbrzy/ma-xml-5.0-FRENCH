@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_aqi_no2_title">NO2</string>
-    <string name="act_aqi_pm10_title">PM10</string>
-    <string name="act_aqi_pm25_title">PM2.5</string>
-    <string name="act_aqi_so2_title">SO2</string>
     <string name="act_city_find_gps_error">Sélectionner manuellement une ville dans la liste.</string>
     <string name="act_find_city_hint">Rechercher</string>
     <string name="act_find_city_hot_title">Villes populaires</string>
@@ -63,7 +59,6 @@
     <string name="format_date_trend_md">d/MM</string>
     <string name="format_date_week">EEE</string>
     <string name="format_date_wmd">EEE d MMM</string>
-    <string name="install_tencent">Téléch. l\'appli Weibo</string>
     <string name="loading_weather">Chargement…</string>
     <string name="local_city">Villes locales</string>
     <string name="location_allow_err">Impossible de vous géolocaliser.</string>
@@ -100,10 +95,8 @@
     <string name="share_aqi_content">"\#MIUI weather#
 Aujourd'hui à %1$s la qualité de l'air est : %2$s, %3$s. %4$s %5$s."</string>
     <string name="share_button_text">Partager</string>
-    <string name="share_choice_titile">Partager les données météo</string>
+    <string name="share_choice_titile">Partager</string>
     <string name="share_content">\#MIUI weather#</string>
-    <string name="share_qq">Partager via Tencent Weibo</string>
-    <string name="share_sina">Partager via Sina Weibo</string>
     <string name="share_weather_content">"\#MIUI weather#
 Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
     <string name="share_weather_title">Partager les données météo</string>

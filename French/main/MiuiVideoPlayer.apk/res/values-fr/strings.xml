@@ -9,6 +9,8 @@
   <string name="adjust_position_prev_media_notice">Précédent</string>
   <string name="airkan_control_device_des">Vous pouvez contrôler la lecture vidéo via le bouton du bas</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+  <string name="airkan_tips">"Appuyez ici pour lancer
+la vidéo sur votre box ou TV"</string>
   <string name="airkan_video_playing">Diffusion</string>
   <string name="airkan_video_playing_in">La vidéo est en lecture…</string>
   <string name="app_name">MiVideo</string>

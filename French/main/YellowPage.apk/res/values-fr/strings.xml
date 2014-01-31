@@ -10,6 +10,7 @@
   <string name="network_unavaliable">Réseau indisponible, veuillez vérifier vos paramètres réseau</string>
   <string name="service_unavailiable">Votre réseau actuel n\'est pas bon, veuillez réessayer plus tard</string>
   <string name="data_error">Désolé, le service n\'est pas disponible, veuillez réessayer plus tard</string>
+  <string name="locating_fail">Échec de localisation, veuillez vérifier vos paramètres de localisation ou réessayer</string>
 
   <!-- YellowPage related -->
   <string name="yellow_page_detail_title">À propos</string>
@@ -104,6 +105,8 @@
   <string name="recharge_order_pay">Commander</string>
   <string name="recharge_history">Historique des recharges</string>
   <string name="recharge_history_empty">Pas d\'historique</string>
+  <string name="recharge_my_phone_number">Mon numéro</string>
+  <string name="recharge_unknown_number">Inconnu</string>
 
   <!-- 运营商流量套餐相关 -->
   <string name="packages_pay">Acheter</string>
@@ -155,6 +158,7 @@
   <string name="balance_inquiry_default_sp_name">Opérateur</string>
   <string name="balance_inquiry_send_sms_hint">Une demande de solde sera envoyée par SMS (gratuit) à l\'opérateur</string>
   <string name="balance_inquiry_send_sms_summmary">Vérifiez votre solde</string>
+  <string name="balance_inquiry_send_sms_fail_hint">Impossible d\'envoyer le SMS. Vérifiez le statut de votre carte SIM.</string>
 
   <!-- 导航相关 -->
   <string name="navigation_search_automatically_positioned_city">Ville actuelle</string>
@@ -182,4 +186,9 @@
   <string name="general_menu_delete_recent">Supprimer des récents</string>
   <string name="general_cancel_favorite_ok">Favori supprimé</string>
   <string name="general_delete_recent_ok">Récent supprimé</string>
+  
+  <!-- Nearby yellowpage related -->
+  <string name="nearby_yellow_page_title">Alentours</string>
+  <string name="nearby_no_yellow_page">Aucun résultat proche</string>
+  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
 </resources>
