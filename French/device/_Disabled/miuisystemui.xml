@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="settings_screenshot_notification_disabled">Désact. les notifs de capture d\'écran</string>
+  <string name="settings_expandable_under_keyguard_summary">Ne fonctionne que sur un écran de verrouillage non sécurisé</string>
+  <string name="settings_expanded_view">Notifications en mode étendu</string>
+  <string name="settings_expandable_under_fullscreen">Extensible en plein écran</string>
+  <string name="settings_expandable_under_fullscreen_summary">En glissant vers le bas à partir du haut de l\'écran</string>
+</resources>

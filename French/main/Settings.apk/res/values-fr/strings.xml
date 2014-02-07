@@ -1267,7 +1267,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="msd_install_next">Suivant</string>
   <string name="msd_install_retry_linux">"Si votre ordinateur ne détecte pas votre appareil, essayez ce qui suit :
 1) Utiliser l\'outil d\'installation, \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
-2) Créer le répertoire : \"mkdir /media/mtp \"
+2) Créer le répertoire : \"mkdir /media/mtp\"
 3) Confirmer les permissions du groupe d\'utilisateur
 4) Reconnecter
 5) Accéder à l\'appareil monté : \"mtpfs /media/mtp\" via Nautilus; même répertoire local
@@ -3846,9 +3846,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="activity_title_settings">Paramètres</string>
   <string name="toast_shortcut_install">Raccourci créé</string>
   <string name="toast_shortcut_uninstall">Raccourci supprimé</string>
- <!-- à traduire :
-  <string name="menu_item_notification_title">Show in notification shade</string>
- -->
+  <string name="menu_item_notification_title">Afficher dans la barre de notification</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Erreur</string>
   <string name="menu_item_notification_power_text">Énergie</string>
@@ -3864,10 +3862,10 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="memory_available_suffix">Disponibles</string>
   <string name="scanning_prefix">Analyse : %s</string>
   <string name="cleanning_prefix">Nettoyage : %s</string>
-  <!-- à traduire :
-  <string name="scanning_start_hints">Preparing scanning engine</string>
+  <string name="scanning_start_hints">Préparation du moteur d\'analyse</string>
+ <!-- à traduire :
   <string name="pref_category_title_auto_update_cleanup_db">Cleanup database update settings</string>
-  -->
+ -->
   <string name="pref_title_auto_update_cleanup_db">Mises à jour auto.</string>
   <string name="pref_summary_auto_update_cleanup_db">Dernière MàJ : %s</string>
   <string name="pref_title_manual_check_cleanup_db_update">Vérifier maintenant</string>

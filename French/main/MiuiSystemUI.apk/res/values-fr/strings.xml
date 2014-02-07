@@ -186,14 +186,9 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screenshot_saving_title">Enregistrement de la capture d\'écran…</string>
   <string name="settings_all_app_display_loading">Chargement, veuillez patienter…</string>
   <string name="settings_custom_notification">Notification personnalisée</string>
-  <string name="settings_expandable_under_fullscreen">Extensible en plein écran</string>
-  <string name="settings_expandable_under_fullscreen_summary">En glissant vers le bas à partir du haut de l\'écran</string>
   <string name="settings_expandable_under_keyguard">Extensible sous écran de verr.</string>
-  <string name="settings_expandable_under_keyguard_summary">Ne fonctionne que sur un écran de verrouillage non sécurisé</string>
-  <string name="settings_expanded_view">Notifications en mode étendu</string>
   <string name="settings_notification_bar">Barre de notification</string>
   <string name="settings_notification_icon">Notifications de la barre d\'état</string>
-  <string name="settings_screenshot_notification_disabled">Désact. les notifs de capture d\'écran</string>
   <string name="settings_show_flow_info">Afficher infos. du trafic</string>
   <string name="settings_show_network_speed">Afficher la vitesse de transfert</string>
   <string name="settings_show_notificationBar_notification">Afficher notifs de la barre de notification</string>
@@ -313,4 +308,12 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="user_guide_for_notification">Lors de la réception d\'une notification, vous pouvez faire glisser la barre d\'état vers le bas pour voir le détail</string>
   <string name="user_guide_for_toggle">La liste d\'activation peut défiler horizontalement</string>
   <string name="user_guide_for_toggle_list">Appuyez ici pour modifier les paramètres d\'activation/désactivation</string>
+  <string name="status_bar_and_notification_bar">Notifications et barre d\'état</string>
+  <string name="settings_show_screenshot_notification">Afficher notif. de capture d\'écran</string>
+  <string name="settings_show_carrier">Afficher le nom de l\'opérateur</string>
+  <string name="settings_custom_carrier">Éditer le nom de l\'opérateur</string>
+  <string name="settings_no_carrier">Aucun</string>
+  <string name="settings_show_carrier_summary">Affiché uniquement sur l\'écran de verrouillage</string>
+  <string name="settings_basic_settings">Paramètres basiques</string>
+  <string name="settings_advanced">Paramètres avancés</string>
 </resources>
