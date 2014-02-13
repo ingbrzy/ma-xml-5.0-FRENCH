@@ -180,7 +180,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="prev">Précédent</string>
   <string name="process_result">Détails sync. :</string>
   <string name="quick_login_title">Mot de passe</string>
-  <string name="quick_login_step2_title">Protection de l\'identification</string>
+  <string name="quick_login_step2_title">Vérification en 2 étapes</string>
   <string name="reg_by_email_failure">Échec de l\'inscription : %1$s</string>
   <string name="reg_failed">Échec de l\'inscription</string>
   <string name="reg_success">Inscription réussi</string>

@@ -157,7 +157,9 @@
   <string name="error_album_not_exist">"L'album n'existe pas."</string>
   <string name="error_cloud_not_active">L\'album MiCloud n\'est pas en service</string>
   <string name="error_invalid_link">Le lien est non valide ou a expiré, veuillez demander au propriétaire de l\'album de créer un nouveau lien de partage.</string>
+ <!-- à reformuler : error_repeat_apply You have already been shared with this album  / error_share_with_creator :  You are a member of this album already -->
   <string name="error_repeat_apply">Vous avez déjà été partagé avec cet album</string>
+  <string name="error_share_with_creator">Vous êtes déjà un membre de cet album</string>
   <string name="error_should_not_select_image">Attention : veuillez ne pas sélectionner un fichier image.</string>
   <string name="error_should_not_select_video">Attention : veuillez ne pas sélectionner un fichier vidéo.</string>
   <string name="error_socket_timeout">Délai d\'attente réseau écoulé, veuillez réessayer plus tard</string>

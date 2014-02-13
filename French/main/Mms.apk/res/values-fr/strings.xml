@@ -459,16 +459,14 @@
   <string name="sp_mark_as_read_title">Tout marquer comme lus</string>
   <string name="sp_mark_as_read">Marquer tous les messages comme lus ?</string>
   <string name="sp_mark_as_read_progress">En cours…</string>
- <!-- à traduire :
-  <string name="feedback_description_hint">Please enter your feedback here</string>
-  <string name="feedback_submit">Submit</string>
-  <string name="pref_key_mx_feedback">Submit feedback</string>
-  <string name="pref_summary_mx_feedback">"Help improve MIUI!
-
-Report bugs and send feedback directly to Xiaomi."</string>
-  <string name="toast_description_required">Feedback is required to submit</string>
-  <string name="toast_feedback_finish">Your report will be sent automatically when you connect to a Wi-Fi network</string>
-  <string name="toast_feedback_max">Only 3 reports may be submitted per day</string>
-  <string name="toast_feedback_start">Sending feedback data…</string>
- -->
+  <string name="feedback_description_hint">Veuillez saisir votre rapport, en anglais, ici</string>
+  <string name="feedback_submit">Envoyer</string>
+  <string name="pref_key_mx_feedback">Envoyer un rapport</string>
+  <string name="pref_summary_mx_feedback">"Aidez MIUI à s'améliorer ! 
+  
+Rapportez les erreurs et les bugs directement à XIAOMI."</string>
+  <string name="toast_description_required">Veuillez saisir un message</string>
+  <string name="toast_feedback_finish">Votre rapport sera envoyé lorsque vous vous connecterez à un réseau Wi-Fi</string>
+  <string name="toast_feedback_max">Limite dépassée, maximum 3 rapports par jour</string>
+  <string name="toast_feedback_start">Envoi des données du rapport…</string>
 </resources>

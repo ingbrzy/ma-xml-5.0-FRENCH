@@ -311,9 +311,9 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_and_notification_bar">Notifications et barre d\'état</string>
   <string name="settings_show_screenshot_notification">Afficher notif. de capture d\'écran</string>
   <string name="settings_show_carrier">Afficher le nom de l\'opérateur</string>
+  <string name="settings_show_carrier_summary">Uniquement sur l\'écran de verrouillage</string>
   <string name="settings_custom_carrier">Éditer le nom de l\'opérateur</string>
   <string name="settings_no_carrier">Aucun</string>
-  <string name="settings_show_carrier_summary">Affiché uniquement sur l\'écran de verrouillage</string>
   <string name="settings_basic_settings">Paramètres basiques</string>
   <string name="settings_advanced">Paramètres avancés</string>
 </resources>

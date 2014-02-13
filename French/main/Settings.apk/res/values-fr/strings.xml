@@ -3612,6 +3612,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="title_mms_yes">Filtrage des messages actif</string>
   <string name="title_permission_no">Gestionnaire de permission inactif</string>
   <string name="title_permission_yes">Gestionnaire de permission actif</string>
+  <string name="title_show_notification_no">Masquer les notifications</string>
+  <string name="title_show_notification_yes">Afficher les notifications</string>
   <string name="title_usb_no">Débogage USB actif</string>
   <string name="title_usb_yes">Débogage USB inactif</string>
   <string name="title_virus_no">Virus détecté</string>
@@ -3631,6 +3633,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_app_solve">La totalité</string>
   <string name="virus_scan_app_stop">Arrêter l\'analyse</string>
   <string name="virus_scan_can_use_wifi">Utiliser les définitions en ligne pour analyser</string>
+  <string name="virus_scan_clean_dialog_message">Nettoyage…</string>
   <string name="virus_scan_clear">Nettoyer</string>
   <string name="virus_scan_dangerous">Risque</string>
   <string name="virus_scan_description">Cette appli présente un risque majeur pour la sécurité de votre téléphone.</string>
@@ -3863,9 +3866,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="scanning_prefix">Analyse : %s</string>
   <string name="cleanning_prefix">Nettoyage : %s</string>
   <string name="scanning_start_hints">Préparation du moteur d\'analyse</string>
- <!-- à traduire :
-  <string name="pref_category_title_auto_update_cleanup_db">Cleanup database update settings</string>
- -->
+  <string name="pref_category_title_auto_update_cleanup_db">Paramètres de nettoyage de la base de donnée</string>
   <string name="pref_title_auto_update_cleanup_db">Mises à jour auto.</string>
   <string name="pref_summary_auto_update_cleanup_db">Dernière MàJ : %s</string>
   <string name="pref_title_manual_check_cleanup_db_update">Vérifier maintenant</string>

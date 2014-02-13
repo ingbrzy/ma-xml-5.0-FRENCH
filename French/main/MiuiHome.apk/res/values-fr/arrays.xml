@@ -4,9 +4,9 @@
         <item>Classique</item>
         <item>Classique (sans rebond)</item>
         <item>Fondu</item>
-        <item>En éventail</item>
+        <item>Éventail</item>
         <item>Page</item>
-        <item>En cascade</item>
+        <item>Cascade</item>
         <item>Rotation</item>
         <item>Cube 3D</item>
     </string-array>
@@ -15,6 +15,12 @@
         <item>Centré</item>
         <item>À gauche</item>
         <item>À droite</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Nettoyer</item>
+        <item>Widgets</item>
+        <item>Fond d\'écran</item>
+        <item>Transitions</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Standard</item>

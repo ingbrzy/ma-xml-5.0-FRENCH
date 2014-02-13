@@ -2,4 +2,32 @@
 <resources>
   <string name="onemore_click_exit">Appuyer encore pour quitter</string>
   <string name="voucher_error_password_empty">Champ vide, veuillez saisir un code !</string>
+  
+  
+  <string name="hfb_tariff">Tarif information</string>
+  <string name="hfb_trans_error_label">No previous transactions found</string>
+  <string name="hfb_trans_result_progress_label">Searching for previous transactions...</string>
+  <string name="hfb_umpay_info">Call * 10658008 for China Mobile Communications accounts to pay via SMS</string>
+  <string name="hfb_upgrade_download_fail">Failed to download update, please try again later</string>
+  <string name="hfb_upgrade_download_sucess">New version downloaded successfully!</string>
+  <string name="hfb_sms1_progress_label">SMS sending, please wait...</string>
+  <string name="hfb_sms2_progress_label">payment is being confirmed, please wait...</string>
+  <string name="hfb_sms_error">SMS send failure!</string>
+  <string name="hfb_sms_pay">Note: Click "Confirm payment" to complete purchase and send SMS to 10658008 to complete the purchase. Payments charged at local call rates.</string>
+  <string name="hfb_pay_by_phone_hint">Pay with Chinese phone number</string>
+  <string name="hfb_pad_info">Please follow %1$s SMS confirmation to confirm payment completion. Thank you!</string>
+  <string name="hfb_network_progress">Requesting payment, please wait for network...</string>
+  <string name="hfb_goods_price_value_format">%1$s (Excluding network charges)</string>
+  <string name="hfb_hint">"1. China Mobile, China Mobile e-commerce payment account.
+2. 10658008 is the China Mobile SMS payment service number.
+3. This service supports, M-Zone, Shenzhouxing brands for users on China Mobile Communications tarif. Free trail; you can chargeback cost excluding network provider charges.
+4. In some provinces, "gift" and "return" of calls cannot be used to purchase merchandise, such as; Beijing and Heliongjiang.
+5. China Mobile Communications Customer Service telephone: 400 612 5880 (direct calls, free long distance calls); 125,880 (mobile phone only, 0.3 yuan / min).
+6. If you want to unsubscribe from this sevice please send message to 0000-10658008.</string>
+  <string name="hfb_fail_pad_result">You did not respond to messages, please reply to %1$s from your SMS inbox.</string>
+  <string name="hfb_fail_result">"Failed to complete payment, please try again later or try an alternative payment method. 
+If you need any further support please call Customer Services: 400 612 5880"</string>
+  <string name="hfb_dialog_exit_content">Transaction is not complete，ar you sure you want to exit?</string>
+  <string name="hfb_complete_hint">(Infornation below to help complete your purchase)</string>
+  <string name="hfb_commit">Submit order</string>
 </resources>

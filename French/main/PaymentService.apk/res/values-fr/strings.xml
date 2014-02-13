@@ -107,55 +107,28 @@ Veuillez réessayer dans cinq minutes"</string>
   
  <!-- à traduire, en attentant l'anglais est mieux que le chinois... -->
   <string name="hfb_app_name">UMPay</string>
-  <string name="hfb_commit">Submit order</string>
   <string name="hfb_complete">Purchased successfully!</string>
-  <string name="hfb_complete_hint">(Infornation below to help complete your purchase)</string>
   <string name="hfb_confirm">Confirm</string>
+  <string name="hfb_confirm_code">Verification Code:</string>
   <string name="hfb_customer_service_phone">Customer Services: </string>
   <string name="hfb_customer_service_phone_number">4006125880</string>
-  <string name="hfb_dialog_exit_content">Transaction is not complete，ar you sure you want to exit?</string>
   <string name="hfb_fail_hint">"Failure receiving SMS activation, please contact China Mobile Payment Service Center: 400 612 5880 (direct phone, free long distance calls) 0.3 yuan per minute. "</string>
   <string name="hfb_fail_label">Payment failed!</string>
-  <string name="hfb_fail_pad_result">You did not respond to messages, please reply to %1$s from your SMS inbox.</string>
-  <string name="hfb_fail_result">"Failed to complete payment, please try again later or try an alternative payment method. 
-If you need any further support please call Customer Services: 400 612 5880"</string>
+  <string name="hfb_get_confirm_code">获取验证码</string>
   <string name="hfb_goods_name">Name: </string>
-  <string name="hfb_goods_price_value_format">%1$s (Excluding network charges)</string>
-  <string name="hfb_hint">"1. China Mobile, China Mobile e-commerce payment account.
-2. 10658008 is the China Mobile SMS payment service number.
-3. This service supports, M-Zone, Shenzhouxing brands for users on China Mobile Communications tarif. Free trail; you can chargeback cost excluding network provider charges.
-4. In some provinces, "gift" and "return" of calls cannot be used to purchase merchandise, such as; Beijing and Heliongjiang.
-5. China Mobile Communications Customer Service telephone: 400 612 5880 (direct calls, free long distance calls); 125,880 (mobile phone only, 0.3 yuan / min).
-6. If you want to unsubscribe from this sevice please send message to 0000-10658008.</string>
+  <string name="hfb_goods_name_content">米币</string>
   <string name="hfb_instruct">"Please follow 10658008
 SMS confirmation and click 'purchase complete', thank you!"</string>
   <string name="hfb_main_title">Complete Payment</string>
   <string name="hfb_network_progress">Requesting payment, please wait for network...</string>
   <string name="hfb_order_price">Order total:</string>
   <string name="hfb_other_case">If you did not receive the SMS message from 10658008 please see help tips.</string>
-  <string name="hfb_pad_info">Please follow %1$s SMS confirmation to confirm payment completion. Thank you!</string>
   <string name="hfb_pay_by_phone">Pay by phone:</string>
-  <string name="hfb_pay_by_phone_hint">Pay with Chinese phone number</string>
   <string name="hfb_retry_receive">Retry</string>
   <string name="hfb_return">Back</string>
-  <string name="hfb_sms1_progress_label">SMS sending, please wait...</string>
-  <string name="hfb_sms2_progress_label">payment is being confirmed, please wait...</string>
-  <string name="hfb_sms_error">SMS send failure!</string>
-  <string name="hfb_sms_pay">Note: Click "Confirm payment" to complete purchase and send SMS to 10658008 to complete the purchase. Payments charged at local call rates.</string>
   <string name="hfb_succ_label">Purchase completed</string>
   <string name="hfb_succ_result">"Thank you for using our payment services.
 You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3$s"</string>
-  <string name="hfb_tariff">Tarif information</string>
-  <string name="hfb_trans_error_label">No previous transactions found</string>
-  <string name="hfb_trans_result_progress_label">Searching for previous transactions...</string>
-  <string name="hfb_umpay_info">Call * 10658008 for China Mobile Communications accounts to pay via SMS</string>
-  <string name="hfb_upgrade_download_fail">Failed to download update, please try again later</string>
-  <string name="hfb_upgrade_download_sucess">New version downloaded successfully!</string>
- <!-- -->
-  <string name="label_balance">Solde :</string>
-  <string name="label_order_name">"Nom du produit : "</string>
-  <string name="label_order_price">"Quantité : "</string>
- <!-- à traduire, en attentant l'anglais est mieux que le chinois... -->
   <string name="linkpay_account">Linkpay:</string>
   <string name="linkpay_account_cannot_be_null">Linkpay account is required</string>
   <string name="linkpay_achieve_charge">Complete payment</string>
@@ -291,6 +264,9 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_zhifubao">Alipay</string>
  <!-- -->
   
+  <string name="label_balance">Solde :</string>
+  <string name="label_order_name">"Nom du produit : "</string>
+  <string name="label_order_price">"Quantité : "</string>
   <string name="lockpassword_choose_your_pattern_header">Choisissez votre schéma</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmer votre schéma</string>
   <string name="lockpassword_input_your_pattern_header">Confirmer votre schéma</string>

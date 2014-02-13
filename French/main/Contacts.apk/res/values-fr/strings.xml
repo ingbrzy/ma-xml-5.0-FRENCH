@@ -1145,7 +1145,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Ajouté à l\'écran d\'accueil</string>
   <string name="imei_invalid">IMEI non valide</string>
   <string name="has_double_phone_number">Impossible de sauvegarder 2 fois le même type de numéro, veuillez vérifier.</string>
-  <string name="phone_book_busy">Le carnet d\'adresses est occupé, veuillez réessayez plus tard.</string>
+  <string name="phone_book_busy">Le carnet d\'adresses est occupé, veuillez réessayer plus tard.</string>
   <string name="sim_invalid">Impossible de sauver un contact quand la carte SIM n\'est pas valide.</string>
   <string name="cannot_insert_null_number">Impossible de sauvegarder le contact, le nom et le numéro sont vides.</string>
   <string name="AirPlane_mode_on">Impossible de sauvegarder un contact quand le mode avion est actif.</string>
@@ -1172,10 +1172,14 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_on_trial">Essai en cours de \"%1$s\"</string>
   <string name="resource_trial_time">(%1$d minutes)</string>
   <string name="resource_trial_end_title">Période d\'essai terminée</string>
-  <string name="resource_trial_end_message">La période d\'essai de \"%1$s\" est terminée. S\'il vous à plu, vous pouvez l\'acheter.</string>
+  <string name="resource_trial_end_message">La période d\'essai de \"%1$s\" est terminée. S\'il vous a plu, vous pouvez l\'acheter.</string>
   <string name="resource_trial_end_restore">Terminer l\'essai</string>
   <string name="resource_trial_end_purchase">Acheter</string>
   <string name="callrecordview_menu_batch_delete">Suppression par lots</string>
   <string name="delete_call_log_selected_title">Supprimer les entrées sélectionnées ?</string>
   <string name="toast_finish_delete_selected_call_log">Entrées sélectionnées supprimées</string>
+  <string name="yellowpage_navigation_network_location_enable">Activer</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Plus tard</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">YellowPage fournit des services en fonction de votre emplacement, vous pouvez améliorer la qualité des résultats en activant le service de localisation.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Service de localisation inactif</string>
 </resources>
