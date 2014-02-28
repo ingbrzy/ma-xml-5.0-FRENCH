@@ -38,7 +38,7 @@
   <string name="backup_report">Rapport de sauvegarde</string>
   <string name="backup_update">Mise à jour</string>
   <string name="batch_delete_backup_confirm">Confirmer la suppression de %d sauvegarde(s) ?</string>
-  <string name="button_abandon">Abandonner</string>
+  <string name="button_abandon">Écraser</string>
   <string name="button_backup">Sauvegarder</string>
   <string name="button_cancel">Annuler</string>
   <string name="button_delete">Supprimer</string>
@@ -49,8 +49,8 @@
   <string name="button_return">Retour</string>
   <string name="call_title">Journal d\'appels</string>
   <string name="cancel">Annuler</string>
-  <string name="cancel_backup">Annuler la sauvegarde</string>
-  <string name="cancel_restore">Annuler la restauration</string>
+  <string name="cancel_backup">Annuler</string>
+  <string name="cancel_restore">Annuler</string>
   <string name="cloud_app_backup_date">"Sauvegardés le "</string>
   <string name="cloud_app_backup_pending">En attente…</string>
   <string name="cloud_app_backup_progress">Sauvegarde…</string>
@@ -92,7 +92,7 @@
   <string name="cloud_backup_login">Ouvrir une session avec votre compte Xiaomi</string>
   <string name="cloud_backup_window_title">Sauvegarder dans le cloud</string>
   <string name="cloud_home_title">Cloud</string>
-  <string name="cloud_item_info_summary">" (Local : %1$s | Cloud : %2$s)"</string>
+  <string name="cloud_item_info_summary">" (Local : %1$s | MiCloud : %2$s)"</string>
   <string name="cloud_last_backup">Dernière sauvegarde :</string>
   <string name="cloud_no_backup">Aucune sauvegarde dans le cloud</string>
   <string name="cloud_restore_guide">Appuyez sur Démarrer la restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
@@ -110,7 +110,7 @@
   <string name="data_no_enough_space_message">La restauration a peut-être échoué, veuillez libérer un peu d\'espace de stockage interne et essayer à nouveau</string>
   <string name="date_format">dd/MM/yyyy H:mm:ss</string>
   <string name="delete">Supprimer</string>
-  <string name="delete_backup_process">Suppression de sauvegarde(s)…</string>
+  <string name="delete_backup_process">Suppression…</string>
   <string name="delete_failed_backup_confirm">La sauvegarde est corrompue, impossible de la restaurée</string>
   <string name="dir_date_format">dd-MM-yyyy_H-mm-ss</string>
   <string name="disable_encrypt_title">Désactiver le cryptage</string>
@@ -183,12 +183,12 @@
   <string name="sc_others">Exception de programme</string>
   <string name="sc_precondition_failed">Votre compte Xiaomi n\'a pas été associé à une adresse mail</string>
   <string name="sc_request_timeout">Requête expirée</string>
-  <string name="sc_service_unavailable">Le service cloud n\'est pas disponible</string>
+  <string name="sc_service_unavailable">Le service MiCloud n\'est pas disponible</string>
   <string name="sc_unaccess_password_file">Ne pas stocker les mots de passes Wi-Fi</string>
   <string name="sc_unauthorized">La certification n\'est pas valide</string>
   <string name="sdcard_no_enough_space">Pas assez d\'espace libre sur la carte SD</string>
   <string name="sdcard_no_enough_space_message">La sauvegarde peut échouer, veuillez libérer de la mémoire et réessayez</string>
-  <string name="sdcard_unmounted">Carte SD non montée ou introuvable !</string>
+  <string name="sdcard_unmounted">Carte SD non détectée !</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_backup_item">Éléments à sauvegarder</string>
   <string name="service_stoped">Service arrêté</string>
@@ -227,7 +227,7 @@
   <string name="task_running_restore_hint">Service en cours en arrière-plan, veuillez réessayer !</string>
   <string name="task_service_not_launched">Le service n\'est pas démarré, veuillez patienter !</string>
   <string name="task_stopped_exception">Tâche interrompue</string>
-  <string name="total_num">%d enregistrement(s) au total</string>
+  <string name="total_num">%d au total</string>
   <string name="unit_byte">" octets"</string>
   <string name="unit_piece">" élément(s)"</string>
   <string name="unknown_hint">Inconnu</string>

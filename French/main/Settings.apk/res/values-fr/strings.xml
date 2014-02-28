@@ -3479,7 +3479,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_dialog_vibration_title">Vibrer</string>
   <string name="power_mgr">Énergie</string>
   <string name="power_mode_airplane_mode">Mode avion</string>
-  <string name="power_mode_auto_clean_memery_lock_screen">après %1$d min</string>
+  <string name="power_mode_auto_clean_memery_lock_screen">Après %1$d min</string>
   <string name="power_mode_auto_clean_memory">Nettoyer la mémoire automatiquement</string>
   <string name="power_mode_auto_clean_memory_in_five_minutes">Après 5 minutes</string>
   <string name="power_mode_auto_clean_memory_in_one_minute">Après 1 minute</string>

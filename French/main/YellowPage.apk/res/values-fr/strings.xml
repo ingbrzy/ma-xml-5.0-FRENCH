@@ -11,6 +11,7 @@
   <string name="service_unavailiable">Votre réseau actuel n\'est pas bon, veuillez réessayer plus tard</string>
   <string name="data_error">Désolé, le service n\'est pas disponible, veuillez réessayer plus tard</string>
   <string name="locating_fail">Échec de localisation, veuillez vérifier vos paramètres de localisation ou réessayer</string>
+  <string name="no_more_result">Aucun autre résultat</string>
 
   <!-- YellowPage related -->
   <string name="yellow_page_detail_title">À propos</string>

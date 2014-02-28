@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_app_name">Vidéos</string>
+<!-- à traduire :
+ 3.2.1: miuivideoplayer.apk merged avec miuivideo.apk : toutes les chaines de miuivideo à traduire éventuellemnt - a vérifier
+ -->
+  <string name="about_app_name">Lecteur vidéo</string>
   <string name="about_developer_label">Développeur</string>
   <string name="about_developer_name">XiaoMi digit</string>
   <string name="about_title">À propos</string>

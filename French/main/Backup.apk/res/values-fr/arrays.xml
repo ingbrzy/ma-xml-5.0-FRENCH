@@ -28,8 +28,8 @@
   </string-array>
   <string-array name="app_type_desc">
     <item>Données</item>
-    <item>Application</item>
-    <item>Application et données</item>
+    <item>Applications</item>
+    <item>Applications et données</item>
   </string-array>
   <string-array name="cloud_data_label">
     <item>Contacts</item>

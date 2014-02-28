@@ -70,7 +70,6 @@
   <string name="delete_failed">Suppression échouée</string>
   <string name="delete_file">Êtes-vous sûr de vouloir supprimer ce fichier ?</string>
   <string name="delete_files">Êtes-vous sûr de vouloir supprimer les %1$d fichiers sélectionnés ?</string>
-  <string name="delete_files_and_folders">Êtes-vous sûr de vouloir supprimer les %1$d fichier(s) et %2$d dossier(s) sélectionnés ?</string>
   <string name="delete_folder">Êtes-vous sûr de vouloir supprimer ce dossier ?</string>
   <string name="delete_folders">Êtes-vous sûr de vouloir supprimer les %1$d dossiers sélectionnés ?</string>
   <string name="des_running_trans">Il reste encore %1$d fichiers à transférer</string>
@@ -191,7 +190,8 @@ Superflu"</string>
   <string name="operation_decompressing">Décompression…</string>
   <string name="operation_delete">Supprimer</string>
   <string name="operation_delete_confirm_message">Confirmer la suppression ?</string>
-  <string name="operation_delete_confirm_message_folder">"Supprimer un dossier supprimera tous les fichiers qu\'il contient. "</string>
+  <string name="operation_delete_confirm_message_folder">"Tout le contenu du dossier sera supprimé.
+ "</string>
   <string name="operation_deleting">Suppression en cours…</string>
   <string name="operation_deleting_detail">Suppression de fichiers (%1$d/%2$d)</string>
   <string name="operation_download_link">Générer le lien de téléchargement</string>
@@ -270,8 +270,6 @@ Obtenez de l\'espace gratuit %1$s"</string>
   <string name="trash_box_link">Visitez <b>pan.xiaomi.com</b> pour vider la corbeille</string>
   <string name="trash_box_message1">Vous pouvez supprimer des fichiers non importants pour libérer de l\'espace</string>
   <string name="trash_box_message2">Vous pouvez supprimer des fichiers ou vider la corbeille pour libérer de l\'espace</string>
-  <string name="ui_bar_txt_download_progress">Téléchargement de %1$d fichier(s) en cours…</string>
-  <string name="ui_bar_txt_upload_progress">Envoi de %1$d fichier(s) en cours…</string>
   <string name="ui_filechange_btn_download">Télécharger les fichiers</string>
   <string name="ui_filechange_btn_upload">Envoyer des fichiers</string>
   <string name="ui_main_menu_option_sign_in">Se connecter</string>

@@ -15,8 +15,8 @@
     <string name="act_weather_cycle_link_china">Chinese Weather Network</string>
     <string name="act_weather_cycle_low_temp">min.</string>
     <string name="act_weather_cycle_update">Actualisation…</string>
-    <string name="act_weather_find_city_connect_net">connectez-vous à un réseau puis réessayez</string>
-    <string name="act_weather_find_city_search_online">appuyer pour rechercher en-ligne</string>
+    <string name="act_weather_find_city_connect_net">Connectez-vous à un réseau puis réessayez</string>
+    <string name="act_weather_find_city_search_online">"Appuyer pour rechercher "</string>
     <string name="act_weather_find_city_searching">Recherche…</string>
     <string name="act_weather_main_aqi_index">Qualité de l\'air : %s</string>
     <string name="act_weather_main_data_null">Aucune donnée météo, appuyer pour actualiser</string>
@@ -60,7 +60,7 @@
     <string name="format_date_week">EEE</string>
     <string name="format_date_wmd">EEE d MMM</string>
     <string name="loading_weather">Chargement…</string>
-    <string name="local_city">Villes locales</string>
+    <string name="local_city" />
     <string name="location_allow_err">Impossible de vous géolocaliser.</string>
     <string name="location_management">Géolocalisation</string>
     <string name="location_notification">Notifications de géolocalisation</string>
@@ -106,7 +106,7 @@ Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
     <string name="sina_token_expired_warning">Jeton de sécurité du compte Weibo expiré, veuillez le réassocier</string>
     <string name="sina_token_invalid_warning">Jeton de sécurité du compte Weibo non valide, veuillez le réassocier</string>
     <string name="sms_notification">Partager par SMS</string>
-    <string name="tip_weather">Notifications météo MIUI</string>
+    <string name="tip_weather">Notifications météo</string>
     <string name="tip_weather_info_content_1">Habillez-vous chaudement !</string>
     <string name="tip_weather_info_title_1">%1$s une différence de température de %2$d dégrées est prévue</string>
     <string name="tip_weather_info_title_2">%1$s aujourd\'hui la température estimée sera de %2$s</string>

@@ -310,10 +310,10 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_telecom_order_denom_label">Somme due :</string>
   <string name="msg_telecom_order_goods">%1s MiCredit(s)</string>
   <string name="msg_telecom_order_goods_label">Description du produit :</string>
-  <string name="msg_telecom_picker_hint_1_1">Après avoir appuyé sur Confirmer l\'achat votre téléphone va</string>
-  <string name="msg_telecom_picker_hint_1_2">automatiquement contacter votre fournisseur de service.</string>
-  <string name="msg_telecom_picker_hint_2_1">Votre fournisseur de réseau a été contacté !</string>
-  <string name="msg_telecom_picker_hint_2_2">Vous recevrez un texte de confirmation sous peu.</string>
+  <string name="msg_order_hint_1_1">Après avoir appuyé sur Confirmer l\'achat votre téléphone va</string>
+  <string name="msg_order_hint_1_2">automatiquement contacter votre fournisseur de service.</string>
+  <string name="msg_progress_hint_2_1">Votre fournisseur de réseau a été contacté !</string>
+  <string name="msg_progress_hint_2_2">Vous recevrez un texte de confirmation sous peu.</string>
   <string name="msg_telecom_sending">Mise en contact avec votre fournisseur de réseau…</string>
   <string name="order_price">%1$s MiCredits</string>
   <string name="password_error">Veuillez saisir votre mot de passe</string>
@@ -438,4 +438,14 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="scan_prompt_number">Analyse du numéro de la carte prépayée %1$s</string>
   <string name="scan_prompt_password">Analyse du code de la carte prépayée %1$s</string>
   <string name="scan_prompt_voucher">Analyse du code MiCredit</string>
+  
+ <!-- à traduire :
+  <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
+  <string name="error_cert_date_title">Certificate date error</string>
+  <string name="error_cert_date_summary">"Certificate date error. 
+Please check your local date and try again."</string>
+  
+  
+  
+ -->
  </resources>
