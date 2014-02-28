@@ -117,7 +117,7 @@
   <string name="internet_message">Messagerie MiCloud</string>
   <string name="login">Se connecter</string>
   <string name="login_failed">Échec de la connexion</string>
-  <string name="login_failed">Échec de la déconnexion</string>
+  <string name="logout_failed">Échec de la déconnexion</string>
   <string name="login_instead_reg">Connexion avec ce numéro de téléphone</string>
   <string name="login_notice">Connexion…</string>
   <string name="master_alert_notif_dspt" formatted="false">"Durant cette période, ont été ajoutés : %s contacts téléphoniques, % SMS, %s photos, %s notes et d\'autres données. 
