@@ -4,7 +4,7 @@
     <string name="act_find_city_hint">Rechercher</string>
     <string name="act_find_city_hot_title">Villes populaires</string>
     <string name="act_find_city_null_data">Aucun résultat.</string>
-    <string name="act_find_city_title">Ajouter un lieu</string>
+    <string name="act_find_city_title">Ajouter une ville</string>
     <string name="act_init_dialog_finish">Infos météo ajoutées.</string>
     <string name="act_set_city_find_side">Géolocalisation…</string>
     <string name="act_set_city_find_side_error">Impossible de vous géolocaliser.</string>
@@ -12,7 +12,7 @@
     <string name="act_set_city_re_find_side">Nouvelle tentative de géolocalisation…</string>
     <string name="act_weather_aqi_share">Partager</string>
     <string name="act_weather_aqi_title">Indice de qualité de l\'air</string>
-    <string name="act_weather_cycle_link_china">Chinese Weather Network</string>
+    <string name="act_weather_cycle_link_china">weather.com.cn</string>
     <string name="act_weather_cycle_low_temp">min.</string>
     <string name="act_weather_cycle_update">Actualisation…</string>
     <string name="act_weather_find_city_connect_net">Connectez-vous à un réseau puis réessayez</string>
@@ -56,8 +56,8 @@
     <string name="enable_notification_city">%s notifications météo affichées, des notifications seront affichées lors conditions météo défavorables (pluie, neige ou fortes variations de températures).</string>
     <string name="enable_notification_summary">Affiche une notification si les conditions météorologiques changent défavorablement</string>
     <string name="first_start_network_toast_text">Accès au réseau pour obtenir les prévisions météorologiques.</string>
-    <string name="format_date_md">d/MM kk:mm</string>
-    <string name="format_date_trend_md">d/MM</string>
+    <string name="format_date_md">dd/MM kk:mm</string>
+    <string name="format_date_trend_md">dd/MM</string>
     <string name="format_date_week">EEE</string>
     <string name="format_date_wmd">EEE d MMM</string>
     <string name="loading_weather">Chargement…</string>
