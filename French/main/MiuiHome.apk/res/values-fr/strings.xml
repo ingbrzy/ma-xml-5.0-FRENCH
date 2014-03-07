@@ -2,6 +2,10 @@
 <resources>
   <string name="activity_not_found">Application non installée</string>
   <string name="application_name">Accueil MIUI</string>
+  <string name="apply_as_lock_wallpaper">Appliquer</string>
+  <string name="apply_as_lock_wallpaper_message">"Appliquer ce fond d'écran sur votre écran de verrouillage ?"</string>
+  <string name="lock_screen_failed_message">Échec, non appliqué</string>
+  <string name="lock_screen_success_message">Appliqué</string>
   <string name="aqi_quality_index_dangerous">Dangereux</string>
   <string name="aqi_quality_index_good">Bon</string>
   <string name="aqi_quality_index_hazardous">Aléatoire</string>

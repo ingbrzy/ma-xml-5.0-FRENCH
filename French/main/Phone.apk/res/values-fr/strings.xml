@@ -146,6 +146,7 @@
   <string name="call_lost">L\'appel a été perdu.</string>
   <string name="call_number">À :</string>
   <string name="call_record_button_label">Enregistrement %s</string>
+  <string name="call_record_error_access">"Impossible d'enregistrer en mode Invité"</string>
   <string name="call_record_notification_message_low_space_miui">L\'enregistrement s\'est arrêté en raison de mémoire faible, appuyez pour voir %s.</string>
   <string name="call_record_notification_message_miui">Appuyez pour voir %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Enregistrement arrêté parce que la carte SD est démontée.</string>
@@ -1185,10 +1186,8 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
  -->
   <string name="retry">Réessayer</string>
- <!-- à traduire
-  <string name="call_lost_title">Call Lost</string>
-  <string name="enter_input">Input Required. Try again!!</string>
- -->
+  <string name="call_lost_title">Appel perdu</string>
+  <string name="enter_input">Saisie requise. Réessayez !</string>
   <string name="modify_call_prompt_yes">Oui</string>
   <string name="modify_call_prompt_no">Non</string>
  <!-- à traduire

@@ -1,5 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <!--Sina -->
+  <string name="sina_share_pendding">Envoi…</string>
+  <string name="sina_share_success">Envoyé</string>
+  <string name="sina_share_fail">Échec de l\'envoi</string>
+  <string name="sina_token_expired_warning">Jeton de sécurité du compte Weibo expiré, veuillez le réassocier</string>
+  <string name="sina_token_invalid_warning">Jeton de sécurité du compte Weibo non valide, veuillez le réassocier</string>
+
   <!-- Name of the application -->
   <string name="app_label">Pages jaunes</string>
   <string name="phone_info_divider">" | "</string>
@@ -71,7 +78,11 @@
   <string name="user_notice_yp_detail_summary_format">L\'information partielle sur cette page jaune doit être mise à jour en ligne, veuillez lire %1$s et %2$s, appuyez sur "Accepter" pour valider ou sur "Annuler" pour voir les informations (en cache uniquement).</string>
   <string name="about_smart_antispam_summary">À propos de l\'identification de numéros inconnus</string>
   <string name="about_telephone_fraud">À propos de la fraude téléphonique</string>
-
+ <!-- à traduire :
+  <string name="notify_connect_every_time">Ask for networking permission every time</string>
+ -->
+  <string name="do_not_remind_me">Ne pas me rappeler</string>
+  
   <!-- Common web page related -->
   <string name="title_about_yellow_page">À propos</string>
 
@@ -97,6 +108,7 @@
   <string name="recharge_payment_result_failed_summary">Veuillez réessayer</string>
   <string name="recharge_payment_result_progress_summary">Vérification du résultat du paiement…</string>
   <string name="recharge_phone_number_error">Numéro de téléphone non valide.</string>
+  <string name="recharge_phone_number_empty">Veuillez saisir votre numéro de téléphone</string>
   <string name="recharge_user_confirm_title">Confirmer</string>
   <string name="recharge_user_confirm_summary">Vous serez facturé %1$s pour %2$s RMB.\n\nMontant total : %3$s RMB</string>
   <string name="recharge_order_id">ID de commande :</string>

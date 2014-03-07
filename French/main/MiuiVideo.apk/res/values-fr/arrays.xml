@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <!-- à traduire :
     <string-array name="channel_tabs">
-        <item>Hot</item>
-        <item>Rank</item>
-        <item>Newest</item>
+        <item>Populaire</item>
+        <item>Classement</item>
+        <item>Nouveau</item>
     </string-array>
     <string-array name="channel_featured_tabs">
-        <item>Chosen</item>
-        <item>Rank</item>
-        <item>Newest</item>
+        <item>Sélection</item>
+        <item>Classement</item>
+        <item>Nouveau</item>
     </string-array>
- -->
     <string-array name="home_tabs">
         <item>En ligne</item>
         <item>Local</item>
     </string-array>
     <string-array name="series_detail_tabs">
-        <item>Épisode</item>
+        <item>Épisodes</item>
         <item>Résumé</item>
     </string-array>
 </resources>

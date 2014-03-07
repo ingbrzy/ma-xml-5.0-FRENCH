@@ -11,4 +11,7 @@
   <string name="sub_sync_item_sms_title_wifi_only">Utiliser uniquement le Wi-Fi pour synchroniser les MMS/SMS</string>
   <string name="sync_item_sms_summary">Les SMS lu seront automatiquement synchronisés</string>
   <string name="sync_item_sms_title">Synchroniser SMS</string>
+  <string name="find_device_noise_title">Son de localisation de l\'appareil</string>
+  <string name="sync_item_calllog_title">Synch. journal d\'appels</string>
+  <string name="sync_item_calllog_summary">Synchronise le journal d\'appels émis et reçus sur ce téléphone</string>
 </resources>

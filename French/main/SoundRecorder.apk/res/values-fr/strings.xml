@@ -77,7 +77,6 @@
   <string name="sound_recorder_settings">Paramètres d\'enregistrement</string>
   <string name="start_recording">Démarrer l\'enregistrement</string>
   <string name="status_bar_anti_disturb">Téléphone en silencieux, ajustez le volume pour reprendre.</string>
-  <string name="status_bar_back" />
   <string name="status_bar_recording">Enregistrement…</string>
   <string name="status_bar_recording_pause">L\'enregistrement a été mis en pause.</string>
   <string name="stop_recording">Arrêter l\'enregistrement</string>
@@ -87,4 +86,33 @@
   <string name="toast_uninstall_fileexplorer">L\'application \"Explorateur\" n\'est pas installée !</string>
   <string name="unknown_caller">Appelant inconnu</string>
   <string name="view_list_of_recordings">Voir les enregistrements</string>
+ <!-- à traduire
+  <string name="record_list_fm">FM Recordings</string>
+  <string name="record_list_call">Call Recordings</string>
+  <string name="record_list_cloud">Cloud Recordings</string>
+  <string name="record_list_cloud_fm">Cloud FM Recordings</string>
+  <string name="record_list_cloud_call">Cloud call Recordings</string>
+ -->
+  <string name="cloud_record">%d enregistrement sur MiCloud</string>
+  <string name="loading_recording">Chargement des enregistrements…</string>
+  <string name="status_bar_back">Toucher pour revenir en arrière</string>
+  <string name="access_error">"Impossible d'enregistrer en mode Invité"</string>
+  <string name="record_download">Télécharger</string>
+  <string name="record_download_msg">Veuillez attendre la fin du téléchargement pour lire l\'enregistrement.</string>
+  <string name="record_download_msg_reload">Cet enregistrement n\'existe pas</string>
+  <string name="record_download_complete">Fini</string>
+  <string name="record_download_paused">En pause</string>
+  <string name="record_download_failed">Échoué</string>
+  <string name="record_download_progress">%d%%</string>
+  <string name="record_download_activity">Télécharg. enregistrements</string>
+  <string name="retry">Réessayer</string>
+  <string name="start">Reprendre</string>
+  <string name="record_download_manager">Gestionnaire de téléchargement</string>
+  <string name="record_downloading_notification">Téléchargement…</string>
+  <string name="record_downloading_notification_count">%d téléchargement</string>
+  <string name="record_downloading_notification_complete">Téléchargement effectué</string>
+  <string name="sync_records">Synchroniser avec MiCloud</string>
+  <string name="sync_only_in_wifi">Synchroniser uniquement via Wi-Fi</string>
+  <string name="sync_only_in_wifi_summary">Si vous désactivez cette option le réseau mobile sera utilisé pour synchroniser vos enregistrements.</string>
+  <string name="sync_only_in_wifi_alert">Désactiver cette option peut augmenter votre consommation de données mobile.</string>
 </resources>

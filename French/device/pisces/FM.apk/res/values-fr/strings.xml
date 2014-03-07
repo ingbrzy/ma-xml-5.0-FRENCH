@@ -152,4 +152,5 @@
   <string name="turn_on_fm">Allumer la radio</string>
   <string name="turn_on_speaker_phone">Activer le haut parleur</string>
   <string name="view_stations_list">Afficher la liste des stations</string>
+  <string name="toast_fm_recorder_access_error">"Impossible d'enregistrer en mode Invité"</string>
 </resources>

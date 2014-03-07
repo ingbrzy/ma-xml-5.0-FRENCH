@@ -334,6 +334,7 @@
   <string name="vip_rebuy">Renouveler</string>
   <string name="vip_recommend_rebuy">Renouveler l\'accès VIP pour 30 jours coûte 5 MiCredits</string>
  <!-- à traduire : 
+  <string name="source_from">Source from : %1$s</string>
   <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
   <string name="ktv_connected_alert_message">The songs you select will be added to the playlist named My KTV</string>
   <string name="ktv_unbind_message">"Failed to connect with KTV console. Make sure you're scanning the correct QR code."</string>

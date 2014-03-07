@@ -39,7 +39,7 @@
   <string name="default_alarm_alert">Choisir la sonnerie par défaut</string>
   <string name="default_alarm_title">Sonnerie par défaut</string>
   <string name="default_label">Alarme</string>
-  <string name="delelte_selected_timezone">Voulez-vous vraiment supprimer le(s) fuseau(x) horaire(s) ?</string>
+  <string name="delelte_selected_timezone">Supprimer le(s) fuseau(x) horaire(s) sélectionné(s) ?</string>
   <string name="delete">Supprimer</string>
   <string name="delete_alarm">Supprimer alarme</string>
   <string name="delete_alarm_confirm">Supprimer alarme(s) ?</string>

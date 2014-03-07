@@ -32,7 +32,8 @@
     <string name="app_love_sms_title">Contenu du message</string>
     <string name="app_love_view_title">Aperçu</string>
     <string name="app_name">Météo</string>
-    <string name="app_nohave_net">Aucun réseau de données disponible</string>
+    <string name="network_unavailable">Aucun réseau de données disponible</string>
+    <string name="weather_data_unreachable">Impossible d\'obtenir les prévisions météorologiques. Attendez une ou deux minutes et réessayez.</string>
     <string name="app_unquiet_net">Mauvaise connexion réseau</string>
     <string name="aqi_details_dangerous">Les personnes ayant une maladie cardiaque ou pulmonaire, les personnes âgées et les enfants doivent éviter toute activité physique en plein air, tout le monde devrait éviter de faire des efforts intenses ou prolongés.</string>
     <string name="aqi_details_fine">Les personnes particulièrement sensibles devraient envisager d\'éviter de faire des efforts intenses ou prolongés.</string>
@@ -100,9 +101,9 @@ Aujourd'hui à %1$s la qualité de l'air est : %2$s, %3$s. %4$s %5$s."</string>
     <string name="share_weather_content">"\#MIUI weather#
 Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
     <string name="share_weather_title">Partager les données météo</string>
-    <string name="sina_share_fail">Échec de l\'envoi !</string>
-    <string name="sina_share_pendding">Envoi en cours…</string>
-    <string name="sina_share_success">Envoyé avec succès !</string>
+    <string name="sina_share_fail">Échec de l\'envoi</string>
+    <string name="sina_share_pendding">Envoi…</string>
+    <string name="sina_share_success">Envoyé</string>
     <string name="sina_token_expired_warning">Jeton de sécurité du compte Weibo expiré, veuillez le réassocier</string>
     <string name="sina_token_invalid_warning">Jeton de sécurité du compte Weibo non valide, veuillez le réassocier</string>
     <string name="sms_notification">Partager par SMS</string>

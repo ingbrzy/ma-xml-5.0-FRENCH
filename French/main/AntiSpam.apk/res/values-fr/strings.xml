@@ -33,8 +33,8 @@
   <string name="fw_blocked">Statistiques de blocage</string>
   <string name="fw_blocked_count" formatted="false">Bloqué(s) : %d appel(s) et %d message(s)</string>
   <string name="log_count">(%d)</string>
-  <string name="marked_by_others">%d personnes l\'ont marqué comme</string>
-  <string name="marked_by_user">vous l\'avez marqué comme</string>
+  <string name="marked_by_others">"%d personnes l\'ont marqué comme "</string>
+  <string name="marked_by_user">"Vous l\'avez marqué comme "</string>
   <string name="menu_add">Ajouter</string>
   <string name="menu_add_into_contact">Ajouter à un contact existant</string>
   <string name="menu_add_new_contact">Nouveau contact</string>

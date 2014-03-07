@@ -47,6 +47,7 @@
   <string name="cleanup_complete">Nettoyage réussi</string>
   <string name="cleanup_stopped">Nettoyage interrompu</string>
   <string name="close">Fermer</string>
+  <string name="colon">" : "</string>
   <string name="compress_fail">La compression a échoué, la destination existe déjà</string>
   <string name="compress_message">Compresser vers :</string>
   <string name="compress_title">Compresser</string>

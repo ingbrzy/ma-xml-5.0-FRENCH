@@ -441,11 +441,8 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   
  <!-- à traduire :
   <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
-  <string name="error_cert_date_title">Certificate date error</string>
-  <string name="error_cert_date_summary">"Certificate date error. 
-Please check your local date and try again."</string>
-  
-  
-  
- -->
+  -->
+  <string name="error_cert_date_title">Erreur de date du certificat</string>
+  <string name="error_cert_date_summary">"Erreur de date du certificat. 
+Vérifiez la configuration de la date de votre appareil puis réessayez."</string>
  </resources>

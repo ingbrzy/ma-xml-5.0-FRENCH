@@ -5,4 +5,9 @@
   <string name="settings_expanded_view">Notifications en mode étendu</string>
   <string name="settings_expandable_under_fullscreen">Extensible en plein écran</string>
   <string name="settings_expandable_under_fullscreen_summary">En glissant vers le bas à partir du haut de l\'écran</string>
+ <!-- 4.2.27 :  -->
+  <string name="screenshot_failed_title">Impossible de réaliser une capture d\'écran</string>
+  <string name="status_bar_time_format_12">h:mma</string>
+  <string name="status_bar_time_format_24">H:mm</string>
+ <!-- . . :  -->
 </resources>

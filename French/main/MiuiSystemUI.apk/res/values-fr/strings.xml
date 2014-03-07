@@ -178,7 +178,6 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screen_key_recent_apps">Touche des applications récentes</string>
   <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillée en mode paysage</string>
   <string name="screenshot_failed_text">Impossible enregistrer capture d\'écran. Périphérique de stockage peut-être en cours d\'utilisation.</string>
-  <string name="screenshot_failed_title">Impossible de réaliser une capture d\'écran</string>
   <string name="screenshot_saved_text">Appuyez pour l\'afficher</string>
   <string name="screenshot_saved_title">Capture d\'écran réussie</string>
   <string name="screenshot_saving_text">Enregistrement de la capture d\'écran en cours…</string>
@@ -232,8 +231,6 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Connecté au Wi-Fi</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_style_settings">Paramètres de la barre d\'état</string>
-  <string name="status_bar_time_format_12">h:mma</string>
-  <string name="status_bar_time_format_24">H:mm</string>
   <string name="status_bar_toggle_ac">Contrôle d\'accès</string>
   <string name="status_bar_toggle_auto_brightness">Luminosité automatique</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>

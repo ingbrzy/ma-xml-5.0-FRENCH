@@ -102,7 +102,7 @@
   <string name="callrecordview_menu_delete_accepted">Effacer les appels reçus du journal d\'appels</string>
   <string name="callrecordview_menu_delete_all">Effacer tous les appels</string>
   <string name="callrecordview_menu_delete_called">Effacer les appels émis du journal d\'appels</string>
-  <string name="callrecordview_menu_delete_confirm">Confirmer %s ?</string>
+  <string name="callrecordview_menu_delete_confirm">%s ?</string>
   <string name="callrecordview_menu_delete_missed">Effacer les appels manqués du journal d\'appels</string>
   <string name="callrecordview_menu_delete_new">Effacer les nouveaux contacts du journal d\'appels</string>
   <string name="callrecordview_menu_delete_sim">Effacer %s entrées du journal d\'appels</string>
@@ -1132,10 +1132,9 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="t9_search_guide_zhuyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
   <string name="yellowPageNavigationIconLabel">Annuaire</string>
   <string name="yellowPageNavigationLabel">Annuaire</string>
-  <string name="yellowpage_navigation_menu_order">Ma commande</string>
+  <string name="yellowpage_navigation_menu_order">Mes commandes</string>
   <string name="yellowpage_navigation_no_content">Aucun résultat</string>
   <string name="yellowpage_navigation_search_city_name_hint">Recherche par ville</string>
-  <string name="yellowpage_navigation_search_hint">Recherche</string>
   <string name="yellowpage_navigation_search_offline_hint">Réseau indisponible</string>
   <string name="yellowpage_navigation_search_result_network_error">Impossible de se connecter au réseau</string>
   <string name="yellowpage_navigation_search_result_no_more">Aucun autre résultat</string>
@@ -1177,7 +1176,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_trial_end_purchase">Acheter</string>
   <string name="callrecordview_menu_batch_delete">Suppression par lots</string>
   <string name="delete_call_log_selected_title">Supprimer les entrées sélectionnées ?</string>
-  <string name="toast_finish_delete_selected_call_log">Entrées sélectionnées supprimées</string>
+  <string name="toast_finish_delete_selected_call_log">Entrées supprimées</string>
   <string name="yellowpage_navigation_network_location_enable">Activer</string>
   <string name="yellowpage_navigation_network_location_enable_later">Plus tard</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">YellowPage fournit des services en fonction de votre emplacement, vous pouvez améliorer la qualité des résultats en activant le service de localisation.</string>
