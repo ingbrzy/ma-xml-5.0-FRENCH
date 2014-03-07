@@ -127,7 +127,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="delete">Supprimer</string>
   <string name="login_tip_title">Connectez-vous</string>
   <string name="login_tip_content">Connectez-vous avec votre compte Xiaomi pour synchroniser et mettre à jour les émissions que vous suivez.</string>
-  <string name="declaration_content">Acceptez-vous les conditions d'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs de contenu vidéo ?</string>
+  <string name="declaration_content">"Acceptez-vous les conditions d'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs de contenu vidéo ?"</string>
   <string name="today">"Aujourd\'hui "</string>
   <string name="yestorday">"Hier "</string>
   <string name="di_count_ji">Ep. %d</string>
