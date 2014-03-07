@@ -192,7 +192,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="manage">Gérer</string>
   <string name="finish">Finir</string>
   
-  <!-- FIX; cn to en-->>
+  <!-- FIX; cn to en-->
   <string name="variety">Variety</string>
   <string name="subchannel_all">All</string>
 </resources>
