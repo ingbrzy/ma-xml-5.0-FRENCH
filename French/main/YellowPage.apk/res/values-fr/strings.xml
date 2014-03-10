@@ -146,7 +146,7 @@
   <string name="express_inquiry_serial_number_indication">Numéro de suivi</string>
   <string name="express_inquiry_logistics_indication">Entreprise postale</string>
   <string name="express_inquiry_button_text">Suivre</string>
-  <string name="express_inquiry_serial_number_prefix">"Numéro de série : "</string>
+  <string name="express_inquiry_serial_number_prefix">"Numéro : "</string>
   <string name="express_inquiry_no_result">Aucun résultat.</string>
   <string name="express_inquiry_internal_failure">Une erreur est survenue.\nVeuillez vérifier le numéro de suivi</string>
   <string name="express_inquiry_data_owner_prefix">Infos de suivi fourni par</string>
