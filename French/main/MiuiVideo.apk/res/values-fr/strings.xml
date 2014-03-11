@@ -38,8 +38,8 @@ la vidéo sur votre box ou TV"</string>
   <string name="menu_wh_item_using_4_3_label">Forcer 4:3</string>
   <string name="nowifi_alert_dialog_continue">Continuer</string>
   <string name="nowifi_alert_dialog_exit">Quitter</string>
-  <string name="nowifi_alert_dialog_message">Utilisation du réseau mobile pour diffuser la vidéo, êtes-vous sûr de vouloir continuer ?</string>
-  <string name="nowifi_alert_dialog_title">Alerte de trafic</string>
+  <string name="nowifi_alert_dialog_message">Non connecté à un réseau Wi-Fi, utiliser le réseau mobile pour lire la vidéo ?</string>
+  <string name="nowifi_alert_dialog_title">Alerte trafic</string>
   <string name="temp_play_history_button_label">Afficher l\'historique</string>
   <string name="to_be_play_label_v5">" "</string>
   <string name="toast_back_key_pressed_notice">Réappuyez sur la touche retour pour quitter.</string>
@@ -80,18 +80,17 @@ la vidéo sur votre box ou TV"</string>
   <string name="clearplayhistory">Effacer l\'historique</string>
   <string name="no_playhistory">Aucun historique</string>
   <string name="declaration">Conditions d\'utilisation</string>
-  <string name="have_no_cameravideo">Aucun vidéo</string>
-  <string name="no_video">Aucun vidéo</string>
-  <string name="setting">Paramètres</string>
+  <string name="have_no_cameravideo">Aucune vidéo</string>
+  <string name="no_video">Aucune vidéo</string>
   <string name="video">Vidéo</string>
   <string name="myfavorite_onlylocal">Favoris</string>
   <string name="favorite">Favoris</string>
-  <string name="count_myfavorite">" favoris"</string>
+  <string name="count_myfavorite">" favori(s)"</string>
   <string name="no_myfavorite_advice">" "</string>
   <string name="no_myfavorite">Aucun favori</string>
   <string name="no_favorite">Aucun favori</string>
-  <string name="count_ge">"%d éléments  "</string>
-  <string name="gong_count_xiang">"%d éléments "</string>
+  <string name="count_ge">"%d élément(s) "</string>
+  <string name="gong_count_xiang">"%d élément(s) "</string>
   <string name="search">Recherche</string>
   <string name="video_library">Vidéo</string>
   <string name="director_colon">"Réalisateur : "</string>
@@ -172,8 +171,8 @@ la vidéo sur votre box ou TV"</string>
   <string name="fullscreen_hint_vertical">Pour basculer en plein écran, appuyez sur le bouton ci-dessous</string>
   <string name="fullscreen_hint_horizontal">Pour basculer en plein écran, appuyez sur l\'icône dans le coin supérieur gauche</string>
   <string name="no_comment_tip">"Erreur, veuillez saisir un texte"</string>
-  <string name="update_to_count_ji">Épisode %d disponible</string>
-  <string name="update_to_count_qi">Saison %s disponible</string>
+  <string name="update_to_count_ji">%d épisodes disponibles</string>
+  <string name="update_to_count_qi">%s saison(s) disponible(s)</string>
   <string name="count_ji_quan">%d épisodes (complet)</string>
   <string name="year">" An(s) "</string>
   <string name="month">" mois "</string>
@@ -181,7 +180,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="success_add_myfavorite">Ajouté aux favoris</string>
   <string name="success_cancel_myfavorite">Supprimé des favoris</string>
   <string name="cancel_favorite">Supprimer des favoris</string>
-  <string name="success_to_cancel_myfavorite">Annulé</string>
+  <string name="success_to_cancel_myfavorite">"Suppression de "</string>
   <string name="myfavorite">Favoris</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="live_title">Direct</string>
@@ -191,6 +190,27 @@ la vidéo sur votre box ou TV"</string>
   <string name="live_pending_symbol">" "<CDATA>Chargement </CDATA>" "</string>
   <string name="manage">Gérer</string>
   <string name="finish">Finir</string>
+  <string name="clear_cache_success">Cache effacé</string>
+  <string name="clear_playhistory">Effacer l\'historique</string>
+  <string name="clear_playhistory_tip">L\'historique du lecteur vidéo va être supprimé.</string>
+  <string name="clear_cache_summary">Efface les images en cache des vidéos en ligne</string>
+  <string name="clear_offline_summary">Efface les vidéos en cache</string>
+  <string name="setting">Paramètres</string>
+  <string name="offline_setting">Lecture hors-ligne</string>
+  <string name="play_setting">Lecture</string>
+  <string name="other_setting">Autres</string>
+  <string name="use_cellular_network">Utiliser le réseau cellulaire</string>
+  <string name="use_cellular_network_summary">Autorise l\'utilisation des réseaux mobiles pour télécharger les vidéos</string>
+  <string name="auto_play">Lecture automatique</string>
+  <string name="auto_play_summary">Lire la vidéo pendant le chargement ou lorsque le téléchargement est terminé</string>
+  <string name="continue_to_play_nextset">Lire l\'épisode suivant automatiquement</string>
+  <string name="continue_to_play_nextset_summary">" "</string>
+  <string name="search_result_recommend_hint">Aucun résultat</string>
+  <string name="search_result_recommend_title">Populaire</string>
+  <string name="find_media_count_bu">%d résultats</string>
+  <string name="find_media_searching">Recherche…</string>
+  
+  
   
   <!-- FIX; cn to en-->
   <string name="variety">Variety</string>

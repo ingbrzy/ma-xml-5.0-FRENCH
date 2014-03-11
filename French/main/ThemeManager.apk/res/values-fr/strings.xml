@@ -225,8 +225,8 @@
   <string name="resource_exchange_has_used">Ce code a déjà été utilisé.</string>
   <string name="resource_exchange_hint">Saisissez votre code</string>
   <string name="resource_exchange_purchase_unkown_error">Une erreur inconnue s\'est produite. Veuillez vous connecter via http://market.xiaomi.com pour voir l\'état de votre paiement.</string>
-  <string name="resource_exchange_share_code_content">Vous avez reçu un code pour %1$s sur le magasin de thèmes MIUI. Votre code MiCredit est : %2$s. Appuyer %3$s pour l\'utiliser maintenant.</string>
-  <string name="resource_exchange_share_code_dlg_content">Code pour \"%1$s\" acheté avec succès : %2$s. Vous pouvez maintenant le partager avec des amis.</string>
+  <string name="resource_exchange_share_code_content">Vous avez reçu un code cadeau pour le thème MIUI \"%1$s\". Votre code est : %2$s. Appuyer sur %3$s pour l\'utiliser maintenant.</string>
+  <string name="resource_exchange_share_code_dlg_content">Code cadeau, pour le thème \"%1$s\", acheté avec succès. Le code est : %2$s. Vous pouvez le partager avec un ami.</string>
   <string name="resource_exchange_share_code_dlg_title">Envoyer un code</string>
   <string name="resource_exchange_success">Transaction réussie</string>
   <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème</string>

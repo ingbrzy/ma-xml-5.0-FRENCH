@@ -89,7 +89,7 @@
   <string name="calllog_menu_blacklist">Ajouter à la liste noire</string>
   <string name="calllog_menu_edit_before_call">Modifier avant d\'appeler</string>
   <string name="calllog_menu_send_sms">Envoyer un message</string>
-  <string name="callrecordview_item_newcontact">Nouveau Contact</string>
+  <string name="callrecordview_item_newcontact">Nouveau contact</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$dmin %2$ds</string>
   <string name="callrecordview_item_op_time_missed">Non connecté</string>
   <string name="callrecordview_item_op_time_only_minutes">%dmin</string>
@@ -136,7 +136,7 @@
   <string name="chat_skype">Chatter via Skype</string>
   <string name="chat_yahoo">Chatter via Yahoo</string>
   <string name="check_unsynchronized_accounts">Vérifier les contacts non synchronisés</string>
-  <string name="checkhint">vérifier l\'autre téléphone</string>
+  <string name="checkhint">Vérifier l\'autre téléphone</string>
   <string name="clearCallLogConfirmation">Êtes-vous sûr de vouloir effacer le journal d\'appel ?</string>
   <string name="clearCallLogConfirmation_title">Effacer le journal d\'appels</string>
   <string name="clearCallLogProgress_title">Effacement des appels…</string>
@@ -310,7 +310,7 @@
   <string name="dialog_voicemail_not_ready_message">Pour configurer la messagerie vocale, accédez à Menu &gt; Paramètres.</string>
   <string name="directory_search_label">Répertoire</string>
   <string name="dirty_contacts_notification_description">Le stockage local a %d contacts non synchronisées</string>
-  <string name="dirty_contacts_notification_message">(Désactiver les notifications via les paramètres)</string>
+  <string name="dirty_contacts_notification_message">(Vous pouvez désactiver les notifications via les paramètres)</string>
   <string name="dirty_contacts_notification_title">Synchroniser les contacts qui ne le sont pas encore ?</string>
   <string name="display_all_contacts">Tous les contacts</string>
   <string name="display_more_groups">Autres groupes…</string>
@@ -813,7 +813,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
   <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
   <string name="resource_comment_entry_tips">Afficher les commentaires</string>
-  <string name="resource_comment_expand_full_text">Développer intégralement le texte</string>
+  <string name="resource_comment_expand_full_text">Développer le texte▼</string>
   <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
   <string name="resource_comment_good_comments">Positifs</string>
   <string name="resource_comment_invalid">Veuillez toucher les étoiles pour donner une note</string>
@@ -868,7 +868,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_pack_confirm">Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d\'acheter les articles restants individuellement, souhaitez-vous continuer ?</string>
   <string name="resource_pack_discount_info">Économisé : %1$s</string>
   <string name="resource_pack_price_info">Original : %1$s</string>
-  <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restant, veuillez les acheter individuellement.</string>
+  <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restants, veuillez les acheter individuellement.</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
   <string name="resource_price_unit">MiCredits</string>
@@ -880,7 +880,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_select">Sélectionner</string>
   <string name="resource_selected">Sélection</string>
   <string name="resource_server_alert_dialog_title">Le service est actuellement indisponible</string>
-  <string name="resource_server_out_of_service">Serveur actuellement indisponible, veuillez réessayer plus tard.</string>
+  <string name="resource_server_out_of_service">Serveur indisponible, veuillez réessayer ultérieurement.</string>
   <string name="resource_share_subject">Partage du thème : %1$s</string>
   <string name="resource_share_text">"Je pense que tu pourrais aimer ce thème : %1$s ! Lien : %2$s"</string>
   <string name="resource_share_title">Partager</string>

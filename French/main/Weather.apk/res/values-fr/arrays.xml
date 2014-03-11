@@ -9,9 +9,9 @@
         <item>Indice UV :</item>
         <item>Habillement :</item>
         <item>Bien-être :</item>
-        <item>Indice lavage-auto :</item>
+        <item>Lavage-auto :</item>
         <item>Indice séchage :</item>
-        <item>Exercice du matin :</item>
+        <item>Exercices matinaux :</item>
         <item>Loisir :</item>
     </string-array>
     <string-array name="weather_image">
@@ -70,10 +70,10 @@
         <item>Pluie</item>
         <item>Tempête de sable</item>
         <item>Neige</item>
-        <item>Conditions météo. relativement convenables</item>
-        <item>Conditions météo. convenables</item>
+        <item>Conditions relativement convenables</item>
+        <item>Conditions convenables</item>
         <item>Nuageux</item>
-        <item>Moins qu\'idéal</item>
+        <item>Conditions convenable</item>
         <item>Conditions idéales</item>
         <item>Mauvaises conditions</item>
         <item>Conditions moyennes</item>
@@ -134,12 +134,12 @@
         <item>"Prévision journalière pour @: $."</item>
         <item>Min.~Max. : %.</item>
         <item>"N'oubliez pas d'emporter un parapluie !"</item>
-        <item></item>
+        <item>Essayez de rester au sec ! :)</item>
         <item>"Si vous faites sécher du linge à l'extérieur, n'oubliez pas de le rentrer plus tard ! :)"</item>
         <item>"Si possible, ne conduisez pas. La sécurité d'abord."</item>
         <item>Conduisez prudemment !</item>
         <item>Soyez prudent, ça glisse.</item>
-        <item></item>
+        <item>Soyez prudent, prenez votre temps.</item>
         <item>"Faites attention à l'extérieur."</item>
         <item>Ne sortez pas à moins que vous en ayez besoin.</item>
         <item>Sortez la crème solaire et la paire de lunettes :)</item>

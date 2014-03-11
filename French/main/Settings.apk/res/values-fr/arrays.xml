@@ -586,4 +586,9 @@ Vous pouvez maintenant transférer des fichiers"</item>
        <item>Abonnement 1</item>
        <item>Abonnement 2</item>
    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>Réseau lent en raison d\'un trafic trop important</item>
+        <item>Réseau lent en raison de la faible intensité du signal</item>
+        <item>En mouvement…</item> <!-- à revoir ? <item>Moving…</item> = <item>En mouvement…</item> ? -->
+    </string-array>
 </resources>

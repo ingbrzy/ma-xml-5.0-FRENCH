@@ -17,7 +17,7 @@
         <item>À droite</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Nettoyer</item>
+        <item>Arranger</item>
         <item>Widgets</item>
         <item>Fond d\'écran</item>
         <item>Transitions</item>

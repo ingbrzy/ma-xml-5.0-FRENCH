@@ -140,7 +140,7 @@
   <string name="sort_by_abc">Trier par nom</string>
   <string name="sort_by_frequency">Trier par utilisation</string>
   <string name="sort_by_not_defined">Tri par défaut</string>
-  <string name="start_activity_failed">Impossible de démarrer, veuillez réessayer</string>
+  <string name="start_activity_failed">Impossible de démarrer le lanceur</string>
   <string name="starting_preset_app">Démarrage…</string>
   <string name="status_bar_toggle_ac">Contrôle d\'accès</string>
   <string name="status_bar_toggle_auto_brightness">Luminosité automatique</string>
@@ -174,11 +174,11 @@
   <string name="status_bar_toggle_torch">Torche</string>
   <string name="status_bar_toggle_vibrate">Vibreur</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
+  <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="title_select_live_folder">Choix du dossier</string>
   <string name="title_select_shortcut">Sélectionner un raccourci</string>
   <string name="toggle_select_title">Choix de l\'interrupteur</string>
-  <string name="toggle_title">Interrupteur</string>
+  <string name="toggle_title">Interrupteurs</string>
   <string name="transformation_type_classic">Classique</string>
   <string name="transformation_type_classic_no_overshoot">Classique (sans rebond)</string>
   <string name="transformation_type_crossfade">Fondu enchaîné</string>
@@ -189,7 +189,7 @@
   <string name="transformation_type_stack">En cascade</string>
   <string name="uninstall">Désinstaller</string>
   <string name="uninstall_dialog_message">Désinstaller cette application effacera toutes ses données</string>
-  <string name="uninstall_dialog_title_format">Désinstaller \"%s\"</string>
+  <string name="uninstall_dialog_title_format">Désinstaller %s</string>
   <string name="unknown_artist_name">Artiste inconnu</string>
   <string name="unnamed_folder_name">Dossier sans nom</string>
   <string name="widget_favorite_contacts_edit">Éditeur</string>
@@ -197,7 +197,7 @@
   <string name="widget_favorite_contacts_style">Changer la taille</string>
   <string name="widget_gadget_player">Musique</string>
   <string name="widget_global_search">Recherche</string>
-  <string name="custom_wallpaper_picker">Personnalisé</string>
+  <string name="custom_wallpaper_picker">Parcourir…</string>
   <string name="editing_add_widget_tips">Widgets</string>
   <string name="editing_set_transition_effect_tips">Effets de transition d\'écran</string>
   <string name="editing_set_wallpaper_tips">Fonds d\'écran</string>
@@ -205,9 +205,7 @@
   <string name="gadget_clock_label">Horloge</string>
   <string name="gadget_photo_label">Image</string>
   <string name="gadget_weather_title">Météo</string>
-  <string name="multi_selecting_tips">Appuyez sur les icônes pour démarrer</string>
+  <string name="multi_selecting_tips">Pour sélectionner une appli touchez son icône</string>
   <string name="online_wallpaper">En ligne</string>
- <!-- à traduire :
-  <string name="settings_shortcut">Settings shortcut</string>
- -->
+  <string name="settings_shortcut">Paramètres</string>
 </resources>

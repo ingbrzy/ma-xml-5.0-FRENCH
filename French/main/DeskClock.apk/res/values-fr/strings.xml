@@ -14,7 +14,7 @@
   <string name="alarm_notify_snooze_label">%s (répétition)</string>
   <string name="alarm_notify_text">Répétez ou ignorez l\'alarme.</string>
   <string name="alarm_repeat">Répéter</string>
-  <string name="alarm_screen">Écran d\'alarme</string>
+  <string name="alarm_screen">Écran et sonnerie d\'alarme</string>
   <string name="alarm_settings">Paramètres d\'alarmes</string>
   <string name="alarm_vibrate">Vibreur</string>
   <string name="alarm_volume_summary">Définir le volume des alarmes</string>
@@ -97,6 +97,6 @@
   <string name="volume_button_setting_summary">Définir les actions de ces boutons lorsqu\'ils sont utilisés pendant une alarme</string>
   <string name="volume_button_setting_title">Boutons de volume</string>
   <string name="workday_alarm_clock">Alarme pour les jours travaillés</string>
-  <string name="worldclock_empty_text">Aucun fuseau horaire</string>
+  <string name="worldclock_empty_text">Aucune horloge</string>
   <string name="worldclock_title">Fuseaux horaires</string>
 </resources>

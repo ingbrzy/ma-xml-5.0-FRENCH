@@ -14,9 +14,9 @@
   <string name="background">Télécharger en arrière-plan</string>
   <string name="big5_summary">L\'encodage par défaut du chinois traditionnel pour le système Windows</string>
   <string name="big5_title">BIG5</string>
-  <string name="bind_account">Lier au compte MiDrive</string>
-  <string name="bind_account_summary">Si vous avez déjà un compte MiDrive vous pouvez l\'ajouter pour récupérer vos données personnelles</string>
-  <string name="binded_accout_description">Les comptes sont fusionnés, utilisez votre compte Xiaomi ou MiDrive pour vous connecter, les deux peuvent lire vos données</string>
+  <string name="bind_account">Lier un compte KuaiPan</string>
+  <string name="bind_account_summary">Liez votre compte KuaiPan existant avec votre compte Xiaomi</string>
+  <string name="binded_accout_description">Les comptes sont fusionnés. Vous pouvez dorénavant utiliser votre compte Xiaomi pour accéder aux données stockées sur votre compte KuaiPan</string>
   <string name="binded_accout_title">Compte MiDrive</string>
   <string name="cache_size_label">Cache</string>
   <string name="cancel">Annuler</string>
@@ -216,7 +216,7 @@ Superflu"</string>
   <string name="operation_unfavorite">Supprimer des favoris</string>
   <string name="pan_settting">Paramètres MiDrive</string>
   <string name="paused">En pause</string>
-  <string name="pull_to_signin">Glissez vers le bas pour vous connecter et obtenir de l\'espace gratuit</string>
+  <string name="pull_to_signin">Glissez vers le bas pour vous connecter</string>
   <string name="query_bind_state">Interrogation de l\'état de liaison, veuillez patienter…</string>
   <string name="release_to_signin">Libérez pour vos connecter</string>
   <string name="rename_description">Changement de nom, veuillez patienter…</string>
@@ -241,7 +241,7 @@ Superflu"</string>
   <string name="sign_description">Connexion…</string>
   <string name="signin_error">Réseau actuellement indisponible, veuillez réessayer</string>
   <string name="signin_success">"Connexion réussie ! 
-Obtenez de l\'espace gratuit %1$s"</string>
+%1$s d\'espace gratuit obtenus"</string>
   <string name="space_info">Espace libre du réseau : %1$s disponible(s), total : %2$s</string>
   <string name="space_usage">Utilisation</string>
   <string name="start_cleanup">Démarrer le nettoyage</string>

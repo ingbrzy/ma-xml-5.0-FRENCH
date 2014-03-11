@@ -462,9 +462,9 @@
   <string name="feedback_description_hint">Veuillez saisir votre rapport, en anglais, ici</string>
   <string name="feedback_submit">Envoyer</string>
   <string name="pref_key_mx_feedback">Envoyer un rapport</string>
-  <string name="pref_summary_mx_feedback">Rapportez les erreurs et les bugs directement à Xiaomi</string>
+  <string name="pref_summary_mx_feedback">Signalez les erreurs et les bugs directement à Xiaomi</string>
   <string name="toast_description_required">Veuillez saisir un message</string>
   <string name="toast_feedback_finish">Votre rapport sera envoyé lorsque vous vous connecterez à un réseau Wi-Fi</string>
-  <string name="toast_feedback_max">Limite dépassée, maximum 3 rapports par jour</string>
+  <string name="toast_feedback_max">Vous ne pouvez pas envoyer plus de 3 rapports par jour</string>
   <string name="toast_feedback_start">Envoi des données du rapport…</string>
 </resources>

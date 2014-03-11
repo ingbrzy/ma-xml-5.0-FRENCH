@@ -207,8 +207,8 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_date_format">d MMMM yyyy</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configurer les modes de saisie</string>
-  <string name="status_bar_network_flow">Aujourd\'hui: %1$s Reste: %2$s Paquet: %3$s</string>
-  <string name="status_bar_network_flow_exceed">Aujourd\'hui: %1$s Dépassement: %2$s Paquet: %3$s</string>
+  <string name="status_bar_network_flow">Aujourd\'hui: %1$s Reste: %2$s Limite: %3$s</string>
+  <string name="status_bar_network_flow_exceed">Aujourd\'hui: %1$s Dépassement: %2$s Limite: %3$s</string>
   <string name="status_bar_network_flow_today">Aujourd\'hui: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Aucune application récente.</string>
@@ -220,7 +220,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_recent_memory_info">%1$so / %2$so</string>
   <string name="status_bar_recent_remove_item_title">Supprimer de la liste</string>
   <string name="status_bar_recording_back">Appuyez pour retourner au dictaphone</string>
-  <string name="status_bar_recording_pause">L\'enregistrement a été mis en pause.</string>
+  <string name="status_bar_recording_pause">Enregistrement mis en pause.</string>
   <string name="status_bar_settings_airplane">Mode Avion</string>
   <string name="status_bar_settings_auto_brightness_label">Auto</string>
   <string name="status_bar_settings_auto_rotation">Rotation automatique de l\'écran</string>
@@ -263,7 +263,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_toggle_torch">Torche</string>
   <string name="status_bar_toggle_vibrate">Vibreur</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
+  <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_use_physical_keyboard">Clavier physique</string>
   <string name="tab_notifications_lable">Notifications</string>
   <string name="tab_toggles_lable">Raccourcis</string>
@@ -286,10 +286,10 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="usb_mode_notification">Périphérique de stockage USB</string>
   <string name="usb_mtp_text">Fichiers</string>
   <string name="usb_notification">Périphérique USB connecté</string>
-  <string name="usb_notification_mtp_info">Accéder aux fichiers à partir de l\'ordinateur</string>
+  <string name="usb_notification_mtp_info">Accéder aux fichiers stockés sur cet appareil.</string>
   <string name="usb_notification_mtp_problem">Aide &gt;</string>
   <string name="usb_notification_mtp_ticker_text">Périphérique USB connecté (mode fichiers)</string>
-  <string name="usb_notification_ptp_info">Accéder aux photos à partir de l\'ordinateur</string>
+  <string name="usb_notification_ptp_info">Accéder aux photos stockées sur cet appareil.</string>
   <string name="usb_notification_ptp_ticker_text">Périphérique USB connecté (mode photos)</string>
   <string name="usb_ptp_text">Photos</string>
   <string name="usb_share_net_info">Partage de connexion par USB</string>

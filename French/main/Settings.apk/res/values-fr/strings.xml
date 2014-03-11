@@ -3431,7 +3431,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_chooser_sleep_title">Veille</string>
   <string name="power_chooser_smart_summary">Sauvegarde les paramètres actuels, vide les processus quand verrouillé</string>
   <string name="power_chooser_smart_title">Mode par défaut</string>
-  <string name="power_chooser_standby_summary">Désactiver les fonctions Internet</string>
+  <string name="power_chooser_standby_summary">Désactive les fonctions Internet</string>
   <string name="power_chooser_standby_title">Mode marathon</string>
   <string name="power_chooser_title">Batterie</string>
   <string name="power_chooser_user_define_summary">Créer une configuration personnalisée pour batterie</string>
@@ -3450,7 +3450,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_customizer_sleep_mode">Veille</string>
   <string name="power_customizer_smart_mode">Par défaut</string>
   <string name="power_customizer_standby_mode">Marathon</string>
-  <string name="power_customizer_user_define_mode">Nom du profil :</string>
+  <string name="power_customizer_user_define_mode">"Nom du profil : "</string>
   <string name="power_customizer_user_define_name">Personnalisé</string>
   <string name="power_customizer_user_define_summary">Paramètres définis par l\'utilisateur</string>
   <string name="power_dialog_auto_clean_memory_summary">Quand l\'appareil est verrouillé, nettoyer les processus, mis en cache, gourmands en énergie</string>
@@ -3891,18 +3891,18 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="button_text_a_key_uninstall">Désinstaller</string>
   <string name="optimize_installed_apps_header_left">Applis téléchargées : %d</string>
   <string name="deep_clean_title_uninstall_apps">Applis</string>
-  <string name="deep_clean_summary_install_apps_today">%1$s| aujourd\'hui</string>
-  <string name="deep_clean_summary_install_apps_interval">%1$s|%2$d jours</string>
-  <string name="deep_clean_summary_install_apps_new">%s|jamais utilisée(s)</string>
-  <string name="deep_clean_summary_install_apps_virus">%s|virus détecté(s)</string>
-  <string name="deep_clean_summary_install_apps_risk">%s|risque(s) détecté(s)</string>
+  <string name="deep_clean_summary_install_apps_today">%1$s | aujourd\'hui</string>
+  <string name="deep_clean_summary_install_apps_interval">%1$s | %2$d jours</string>
+  <string name="deep_clean_summary_install_apps_new">%s | jamais utilisée</string>
+  <string name="deep_clean_summary_install_apps_virus">%s | virus détecté</string>
+  <string name="deep_clean_summary_install_apps_risk">%s | risque détecté</string>
   <string name="optimize_installed_apps_list_empty_content">Aucune application trouvée</string>
   <string name="uninstall_confirm_title">Désinstaller cette application</string>
   <string name="button_text_uninstall">Désinstaller</string>
   <string name="list_sub_view_item_view_detail">Détails</string>
   <string name="list_sub_view_item_view_file">Fichier</string>
   <string name="list_sub_view_item_uninstall">Désinstaller</string>
-  <string name="list_sub_view_item_backup_uninstall">Sauvegarder et désinstaller</string>
+  <string name="list_sub_view_item_backup_uninstall">Sauv. et désinst.</string>
   <string name="pref_category_title_garbage_cleanup_check">Paramètres de nettoyage</string>
   <string name="pref_title_garbage_cleanup_check_time">Alarme corbeille</string>
   <string name="pref_summary_garbage_cleanup_check_time">Me prévient lorsque la Corbeille atteint une certaine taille</string>
@@ -3914,7 +3914,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="dialog_title_uninstall_apps">Désinstaller</string>
   <string name="dialog_title_backup_and_uninstall_apps">Sauvegarder et désinstaller</string>
   <string name="dialog_msg_uninstall_apps">Désinstaller ces applications ?</string>
-  <string name="dialog_msg_backup_and_uninstall_apps">Confirmer la sauvegarde et la désinstallation des applis</string>
+  <string name="dialog_msg_backup_and_uninstall_apps">Confirmer la sauvegarde et la désinstallation ?</string>
   <string name="button_text_uninstall_apps">Désinstaller</string>
   <string name="button_text_backup_and_uninstall_apps">Sauvegarder et désinstaller</string>
   <string name="toast_backup_is_running">Une sauvegarde est déjà en cours. Veuillez réessayer dans 1 ou 2 minutes.</string>
@@ -3935,4 +3935,22 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="menu_item_force_stop">Forcer l\'arrêt</string>
   <string name="menu_item_uninstall">Désinstaller</string>
   <string name="menu_item_app_details">Détails</string>
+  <string name="free_wifi_summary">Wi-Fi gratuit, fourni par %1$s</string>
+  <string name="free_wifi_connect_title">Wi-Fi disponible</string>
+  <string name="free_wifi_connect_summary">Ce réseau WiFi gratuit est fourni par %1$s. Appuyer pour se connecter.</string>
+  <string name="free_wifi_connect_dialog_title">Wi-Fi gratuit disponible</string>
+  <string name="free_wifi_connect_dialog_summary">Ce réseau WiFi gratuit %1$s est fourni par %2$s.</string>
+  <string name="free_wifi_wiwide_provider">WiWide</string>
+  <string name="free_wifi_connect">Se connecter</string>
+  <string name="free_wifi_connecting">Connexion…</string>
+  <string name="free_wifi_connected">Connecté au Wi-Fi gratuit</string>
+  <string name="free_wifi_connect_fail">"Impossible de se connecter au Wi-Fi"</string>
+  <string name="free_wifi_connect_fail2">Impossible de se connecter. Veuillez réessayer dans 1 ou 2 minutes.</string>
+  <!-- à traduire 
+  <string name="free_wifi_login_again">Sign in again</string>
+  -->
+  <string name="free_wifi_connected_count">%1$s utilisateurs connectés</string>
+  <string name="free_wifi_speed_title">Connexion lente ?</string>
+  <string name="free_wifi_connected_time">Durée de connexion : %1$s</string>
+  <string name="free_wifi_confirm">Confirmer</string>
 </resources>
