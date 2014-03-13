@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <!-- removed in 4.3.12 mi3w -->
+  <string name="format_date_ymd">ddMMyyyy</string>
+  <string name="format_datetime_mdhm">dMMM kk:mm</string>
+  <string name="menu_discard">Ignorer</string>
+  <string name="alert_message_discard_changes">Ignorer toutes les modifications ?</string>
+  <string name="error_sdcard_export">Échec de l\'export, veuillez vérifier la carte SD</string>
+  <string name="error_sdcard_unmounted">Carte SD occupée ou non lisible, veuillez essayer de nouveau</string>
+  <string name="success_sdcard_export">Export réussi</string>
+  <string name="failed_sdcard_export">Export échoué</string>
+  <string name="format_exported_file_location">Le fichier texte \"%1$s\" a été exporté dans le répertoire \"%2$s\" de la carte SD</string>
+  <string name="time_picker_dialog_title">Réglage du rappel</string>
+  <string name="notify_alarm_action_mute">Mettre en silence</string>
+  <string name="notify_alarm_action_view">Voir</string>
+  <string name="pref_title_data_export_to_sdcard">Exporter les notes sur la carte SD</string>
+  <!-- -->
+
   <string name="add_account_desc">Les notes peuvent être synchronisées avec votre compte Xiaomi. Souhaitez-vous vous connecter et synchroniser maintenant ?</string>
   <string name="alert_action_edit_anyway">Continuer l\'édition</string>
   <string name="alert_edit_action_delete">Supprimer</string>
@@ -9,7 +25,6 @@
   <string name="alert_message_delete_note">Êtes-vous sûr de vouloir supprimer cette note ?</string>
   <!-- BUG: avec une seule note sélectionnée alert_message_delete_notes s'affiche au lieu de alert_message_delete_note... -->
   <string name="alert_message_delete_notes">Êtes-vous sûr de vouloir supprimer\nles %1$s note(s) sélectionnée(s) ?</string>
-  <string name="alert_message_discard_changes">Ignorer toutes les modifications ?</string>
   <string name="alert_message_edit_anyway">La note contient un contenu non supporté, l\'éditer pourrait engendrer une perte de données.</string>
   <string name="alert_title_edit_anyway">Confirmer l\'édition de la note qui pourrait engendrer une perte de données.</string>
   <string name="app_name">Notes</string>
@@ -29,15 +44,9 @@
   <string name="error_note_empty_for_clock">Désolé, le rappel ne peut pas être défini sur une note vide</string>
   <string name="error_note_empty_for_send_to_desktop">Désolé, impossible d\'envoyer à l\'écran d\'accueil puis de vider la note</string>
   <string name="error_note_not_exist">La note n\'existe pas</string>
-  <string name="error_sdcard_export">Échec de l\'export, veuillez vérifier la carte SD</string>
-  <string name="error_sdcard_unmounted">Carte SD occupée ou non lisible, veuillez essayer de nouveau</string>
   <string name="error_unsupport_content">Cette note contient un contenu non supporté, appuyez pour mettre à jour le système</string>
   <string name="error_widget_exist_for_send_to_desktop">Cette note existe déjà sur l\'écran d\'accueil</string>
-  <string name="failed_sdcard_export">Export échoué</string>
   <string name="folder_exist">Le dossier %1$s existe déjà, veuillez changer le nom</string>
-  <string name="format_date_ymd">ddMMyyyy</string>
-  <string name="format_datetime_mdhm">dMMM kk:mm</string>
-  <string name="format_exported_file_location">Le fichier texte \"%1$s\" a été exporté dans le répertoire \"%2$s\" de la carte SD</string>
   <string name="format_folder_files_count">(%d)</string>
   <string name="format_move_notes_to_folder">%1$d notes ont été déplacées dans le dossier %2$s</string>
   <string name="hint_foler_name">Entrez un nom de dossier</string>
@@ -45,7 +54,6 @@
   <string name="login_sync">Se connecter</string>
   <string name="menu_create_folder">Nouveau dossier</string>
   <string name="menu_delete">Supprimer</string>
-  <string name="menu_discard">Ignorer</string>
   <string name="menu_folder_change_name">Renommer le dossier</string>
   <string name="menu_font_size">Taille de police</string>
   <string name="menu_move">Déplacer au dossier</string>
@@ -64,11 +72,9 @@
   <string name="note_link_tel">Appeler</string>
   <string name="note_link_web">Naviguer sur Internet</string>
   <string name="notealert_enter">Jeter un coup d\'œil</string>
-  <string name="notealert_ok">Réussi</string>
+  <string name="notealert_ok">Ignorer</string>
   <string name="notelist_menu_new">Ajouter une note</string>
   <string name="notelist_string_info">…</string>
-  <string name="notify_alarm_action_mute">Mettre en silence</string>
-  <string name="notify_alarm_action_view">Voir</string>
   <string name="notify_alarm_title">Rappel d\'alarme</string>
   <string name="pref_desc_alarm_when_silent">Les alarmes ne sonneront pas en mode silencieux</string>
   <string name="pref_desc_mode_grid">Grille</string>
@@ -76,7 +82,6 @@
   <string name="pref_title_alarm_when_silent">Alarme en mode silencieux</string>
   <string name="pref_title_common">Paramètres communs</string>
   <string name="pref_title_data_export">Exportation de données</string>
-  <string name="pref_title_data_export_to_sdcard">Exporter les notes sur la carte SD</string>
   <string name="pref_title_font_size">Taille de police</string>
   <string name="pref_title_note_style">Style de note</string>
   <string name="preferences_bg_random_appear_title">Notes de couleurs aléatoires</string>
@@ -88,8 +93,6 @@
   <string name="select_account_prompt">Activer la synchronisation de notes</string>
   <string name="snippet_image_stub">[Image]</string>
   <string name="snippet_image_template">[Image %1$s]</string>
-  <string name="success_sdcard_export">Export réussi</string>
-  <string name="time_picker_dialog_title">Réglage du rappel</string>
   <string name="toast_folder_privacy_mode">"Impossible de modifier le dossier en mode privé"</string>
   <string name="toast_message_add_image_fail">Impossible d\'insérer l\'image !</string>
   <string name="toast_note_privacy_mode">"Impossible de modifier la note en mode privé"</string>
@@ -98,4 +101,6 @@
   <string name="toast_reach_text_limit_truncate">"Le contenu de la note a été ciselée parce qu'il était trop long"</string>
   <string name="widget_havenot_content">Aucune note associée, appuyez pour associer une note.</string>
   <string name="widget_under_visit_mode">Mode privé, impossible de voir le contenu de la note</string>
+  <string name="undo">Annuler</string>
+  <string name="redo">Refaire</string>
 </resources>

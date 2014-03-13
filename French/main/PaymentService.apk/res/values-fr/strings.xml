@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- removed in 4.3.12 mi3w -->
+  <string name="prepaid_picker_title_default">Sélectionnez le montant</string>
+  <string name="prepaid_picker_title_selected">Montant</string>
+  <string name="msg_picker_hint_3_1">3.</string>
+  <string name="msg_picker_hint_3_2">Recharge maximum de %1$s RMB par mois uniquement</string>
+  <!--  -->
+
   <string name="account_detail">"Compte Xiaomi :
 %1$s"</string>
   <string name="app_name">Service de paiement</string>
@@ -157,7 +164,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockscreen_forgot_pattern_button_text"><u>Schéma oublié ?</u></string>
   <string name="login">Connexion</string>
   <string name="memu_refresh">Actualiser</string>
-  <string name="mibi_license_message">Service MiCredit de Xiaomi. En appuyant sur OK, vous acceptez être en accord avec le %1$s.</string>
+  <string name="mibi_license_message">Vous êtes sur le point d\'utiliser Micredit, un service fourni par Xiaomi Inc. Avant de pouvoir utiliser ce service, vous devez accepter les conditions d\'utilisation indiquées dans le %1$s.</string>
   <string name="mibi_license_message_span">Contrat d\'utilisation de MiCredit</string>
   <string name="mibi_license_title">Contrat d\'utilisation de MiCredit</string>
   <string name="mili_center">MiCredit</string>
@@ -167,8 +174,6 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_picker_hint_1_2">La méthode de recharge par SMS coûte plus cher, donc &lt;font color=red&gt;%1$d RMB = %2$d MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Pour chaque recharge par SMS les opérateurs chargent %1$s RMB de frais de service</string>
-  <string name="msg_picker_hint_3_1">3.</string>
-  <string name="msg_picker_hint_3_2">Recharge maximum de %1$s RMB par mois uniquement</string>
   <string name="msg_send_no_net_error">Échec de l\'envoi du message : Impossible de se connecter au fournisseur réseau.</string>
   <string name="msg_send_no_sim_error">Échec de l\'envoi du message : essayez de réinsérer votre carte SIM.</string>
   <string name="msg_send_send_fail_error">Échec de l\'envoi du message</string>
@@ -205,8 +210,6 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="prepaid_picker_hint_2_1">2.</string>
   <string name="prepaid_picker_hint_2_2_a">La valeur nominale choisi doit être dans la gamme de la carte prépayée, sinon il en résultera une perte d\'argent.</string>
   <string name="prepaid_picker_hint_2_2_b">Si la valeur nominale de la carte prépayée n\'est pas de %1$s RMB, cela se terminera en un échec ainsi que la perte du solde de la carte</string>
-  <string name="prepaid_picker_title_default">Sélectionnez le montant</string>
-  <string name="prepaid_picker_title_selected">Montant</string>
   <string name="progress_bankcall_card_creating">Génération de la commande…</string>
   <string name="progress_bankcall_card_querying">Obtention du type de compte bancaire, veuillez patienter…</string>
   <string name="progress_creating">Récupération des informations de la commande…</string>
@@ -311,4 +314,9 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="error_cert_date_title">Erreur de date du certificat</string>
   <string name="error_cert_date_summary">"Erreur de date du certificat. 
 Vérifiez la configuration de la date de votre appareil puis réessayez."</string>
+  <string name="prepaid_grid_carrier_hint">Sélectionnez le fournisseur</string>
+  <string name="prepaid_grid_denomination_hint">Sélectionnez le montant</string>
+  <string name="giftcard_expire_notification_prime_title">Oops ! Votre code de promotion est sur ​​le point d\'expirer…</string>
+  <string name="giftcard_expire_notification_sub_title">Votre carte-cadeau MiCredit expire le %1$s</string>
+  <string name="btn_agree">Accepter</string>
  </resources>

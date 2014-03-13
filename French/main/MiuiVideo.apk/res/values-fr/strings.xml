@@ -90,7 +90,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="no_myfavorite">Aucun favori</string>
   <string name="no_favorite">Aucun favori</string>
   <string name="count_ge">"%d élément(s) "</string>
-  <string name="gong_count_xiang">"%d élément(s) "</string>
+  <string name="gong_count_xiang">"%d vidéo(s) "</string>
   <string name="search">Recherche</string>
   <string name="video_library">Vidéo</string>
   <string name="director_colon">"Réalisateur : "</string>
@@ -209,10 +209,9 @@ la vidéo sur votre box ou TV"</string>
   <string name="search_result_recommend_title">Populaire</string>
   <string name="find_media_count_bu">%d résultats</string>
   <string name="find_media_searching">Recherche…</string>
+  <string name="visit_postfix">| récemment visité</string>
   
-  
-  
-  <!-- FIX; cn to en-->
+ <!-- FIX; cn to en-->
   <string name="variety">Variety</string>
   <string name="subchannel_all">All</string>
 </resources>
