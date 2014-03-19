@@ -3414,7 +3414,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_center_consume_time">%1$s restants</string>
   <string name="power_center_custom_summary_default">Optimise les réglages, économise la batterie</string>
   <string name="power_center_custom_title">Économiser la batterie</string>
-  <string name="power_center_low_battery_summary_default">Basculer de mode lorsque le niveau de charge de la batterie est faible</string>
+  <string name="power_center_low_battery_summary_default">"Basculer de mode lorsque le niveau de charge 
+de la batterie est faible"</string>
   <string name="power_center_low_battery_summary_dynamic">Quand la batterie restante est inférieure \nà %1$d%% basculer vers %2$s</string>
   <string name="power_center_low_battery_title">Basculer automatiquement</string>
   <string name="power_center_on_time_summary_default">Basculer de mode à une heure planifiée</string>
