@@ -3903,7 +3903,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="optimize_installed_apps_header_left">Applis téléchargées : %d</string>
   <string name="deep_clean_title_uninstall_apps">Applis</string>
   <string name="deep_clean_summary_install_apps_today">aujourd\'hui</string>
-  <string name="deep_clean_summary_install_apps_interval">%2$d jours</string>
+  <string name="deep_clean_summary_install_apps_interval">il y a %d jours</string>
   <string name="deep_clean_summary_install_apps_new">jamais utilisée</string>
   <string name="deep_clean_summary_install_apps_virus">virus détecté</string>
   <string name="deep_clean_summary_install_apps_risk">risque détecté</string>
