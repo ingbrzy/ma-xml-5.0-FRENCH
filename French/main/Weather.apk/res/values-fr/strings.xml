@@ -115,4 +115,5 @@ Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
     <string name="trend_weather_tomorrow">Demain</string>
     <string name="weather_notification">Notifications météo</string>
     <string name="widget_loading">Aucun donnée météo</string>
+    <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
 </resources>

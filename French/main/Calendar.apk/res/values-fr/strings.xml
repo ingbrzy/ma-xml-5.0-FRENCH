@@ -232,12 +232,5 @@
   <string name="taishen">胎神</string>
   <string name="pengzu">彭祖</string>
   <string name="zhushen">诸神</string>
-  <string name="gou_piao_event_title">Train reminders %s</string>
-  <string name="gou_piao_item1">Remind me of times for trains</string>
-  <string name="gou_piao_item2">For telephone bookings call 12306</string>
-  <string name="gou_piao_item3">Purchase tickets by calling 12306</string>
-  <string name="gou_piao_website_start_time">Purchase at %s online or by phone</string>
-  <string name="gou_piao_window_start_time">Tickets can be purchased at the station from %s</string>
-  <string name="show_gou_piao">Display spring festival ticket calendar</string>
  -->
 </resources>

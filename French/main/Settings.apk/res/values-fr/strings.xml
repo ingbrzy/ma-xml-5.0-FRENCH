@@ -3822,9 +3822,14 @@ de la batterie est faible"</string>
  <!-- system_storage à vérifier ? : Systeme storage = Stockage système?? -->
   <string name="system_storage">Mémoire interne</string>
   <string name="empty_folder_title">Dossier vide (%d)</string>
+  <string name="empty_folder_title_hints">Dossier vide</string>
   <string name="list_sub_view_item_view">Détail</string>
   <string name="list_sub_view_item_clean">Nettoyer</string>
   <string name="list_sub_view_item_install">Installer</string>
+ <!-- à traduire, à revoir ? list_sub_view_item_lock list_sub_view_item_unlock :
+    list_sub_view_item_lock: Add to white list
+    list_sub_view_item_unlock: Add to white list
+ -->
   <string name="list_sub_view_item_lock">Verrouillé</string>
   <string name="list_sub_view_item_unlock">Déverrouillé</string>
   <string name="power_save_on_time_goout_title">Restaurer vers</string>
@@ -3867,16 +3872,21 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="scanning_prefix">Analyse : %s</string>
   <string name="cleanning_prefix">Nettoyage : %s</string>
   <string name="scanning_start_hints">Préparation du moteur d\'analyse</string>
+ <!-- à traduire :
+  <string name="pref_category_title_cleanup_white_list">Trash clean-up white list</string>
+  <string name="pref_title_cleanup_white_list">Trash clean-up white list</string>
+  <string name="pref_summary_cleanup_white_list">Trash in white list will be ignore</string>
+-->
   <string name="pref_category_title_auto_update_cleanup_db">Paramètres de nettoyage de la base de donnée</string>
   <string name="pref_title_auto_update_cleanup_db">Mises à jour auto.</string>
-  <string name="pref_summary_auto_update_cleanup_db">Dernière MàJ : %s</string>
+  <string name="pref_summary_auto_update_cleanup_db">MàJ : %s</string>
   <string name="pref_title_manual_check_cleanup_db_update">Vérifier maintenant</string>
   <string name="msg_cleanup_db_update_checking">Vérification…</string>
   <string name="msg_update_error_code_success">Mise à jour effectuée</string>
   <string name="msg_update_error_code_no_newer_db">Aucune MàJ disponible</string>
   <string name="msg_update_error_code_already_running">Mise à jour en cours…</string>
-  <string name="msg_update_error_code_network_error">Erreur réseau, veuillez réessayer plus tard !</string>
-  <string name="msg_update_error_code_unknown_error">Erreur inconnue, veuillez réessayer plus tard !</string>
+  <string name="msg_update_error_code_network_error">Erreur réseau, vérifiez votre connexion et réessayer</string>
+  <string name="msg_update_error_code_unknown_error">Erreur inconnue, veuillez réessayer plus tard</string>
   <string name="msg_cleanup_db_update_time_unknown">Dernière MàJ : inconnue</string>
  <!-- à traduire :
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
@@ -3892,13 +3902,13 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="button_text_a_key_uninstall">Désinstaller</string>
   <string name="optimize_installed_apps_header_left">Applis téléchargées : %d</string>
   <string name="deep_clean_title_uninstall_apps">Applis</string>
-  <string name="deep_clean_summary_install_apps_today">%1$s | aujourd\'hui</string>
-  <string name="deep_clean_summary_install_apps_interval">%1$s | %2$d jours</string>
-  <string name="deep_clean_summary_install_apps_new">%s | jamais utilisée</string>
-  <string name="deep_clean_summary_install_apps_virus">%s | virus détecté</string>
-  <string name="deep_clean_summary_install_apps_risk">%s | risque détecté</string>
+  <string name="deep_clean_summary_install_apps_today">aujourd\'hui</string>
+  <string name="deep_clean_summary_install_apps_interval">%2$d jours</string>
+  <string name="deep_clean_summary_install_apps_new">jamais utilisée</string>
+  <string name="deep_clean_summary_install_apps_virus">virus détecté</string>
+  <string name="deep_clean_summary_install_apps_risk">risque détecté</string>
   <string name="optimize_installed_apps_list_empty_content">Aucune application trouvée</string>
-  <string name="uninstall_confirm_title">Désinstaller cette application</string>
+  <string name="uninstall_confirm_title">Désinstaller ces applications</string>
   <string name="button_text_uninstall">Désinstaller</string>
   <string name="list_sub_view_item_view_detail">Détails</string>
   <string name="list_sub_view_item_view_file">Fichier</string>
@@ -3915,14 +3925,14 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="dialog_title_uninstall_apps">Désinstaller</string>
   <string name="dialog_title_backup_and_uninstall_apps">Sauvegarder et désinstaller</string>
   <string name="dialog_msg_uninstall_apps">Désinstaller ces applications ?</string>
-  <string name="dialog_msg_backup_and_uninstall_apps">Confirmer la sauvegarde et la désinstallation ?</string>
+  <string name="dialog_msg_backup_and_uninstall_apps">Sauvegarder et la désinstaller les applis</string>
   <string name="button_text_uninstall_apps">Désinstaller</string>
   <string name="button_text_backup_and_uninstall_apps">Sauvegarder et désinstaller</string>
   <string name="toast_backup_is_running">Une sauvegarde est déjà en cours. Veuillez réessayer dans 1 ou 2 minutes.</string>
   <string name="toast_backup_uninstall_failed">Échec de la sauvegarde de %d applis. Veuillez réessayer dans 1 ou 2 minutes.</string>
   <string name="toast_backup_uninstall_success">Sauvegarde et désinstallation effectuées</string>
   <string name="notification_title_of_garbage_cleanup">Alarme corbeille</string>
-  <string name="notification_summary_of_garbage_cleanup">Votre corbeille dépasse %s. Envisager de la vider.</string>
+  <string name="notification_summary_of_garbage_cleanup">Votre corbeille dépasse %s. Envisagez de la vider.</string>
   <string name="item_garbage_time_daily">Quotidiennement</string>
   <string name="item_garbage_time_3d">Tout les 3 jours</string>
   <string name="item_garbage_time_7d">Une fois par semaine</string>
@@ -3954,4 +3964,65 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="free_wifi_speed_title">Connexion lente ?</string>
   <string name="free_wifi_connected_time">Durée de connexion : %1$s</string>
   <string name="free_wifi_confirm">Confirmer</string>
+ <!-- à traduire
+  <string name="tab_title_internal_storage">Internal storage</string>
+  <string name="tab_title_external_storage">External storage</string>
+  <string name="tab_title_sdcard_storage">SD card</string>
+  <string name="internal_available_memory_hint">Available: Calculating…</string>
+  <string name="internal_available_memory">Available: %s</string>
+  <string name="internal_used_memory_hint">Used: Calculating…</string>
+  <string name="internal_used_memory">Used: %s</string>
+  <string name="internal_memory_item_cache_hint">Cached data: Calculating…</string>
+  <string name="internal_memory_item_cache">Cached data: %s</string>
+  <string name="internal_memory_item_app_hint">Apps: Calculating…</string>
+  <string name="internal_memory_item_app">Apps: %s</string>
+  <string name="internal_memory_item_image_video_hint">Pictures, Video, Audio: Calculating…</string>
+  <string name="internal_memory_item_image_video">Pictures, Video, Audio: %s</string>
+  <string name="internal_memory_item_other_hint">Misc.: Calculating…</string>
+  <string name="internal_memory_item_other">Misc.: %s</string>
+  <string name="internal_memory_low_waring_hint">"Sorry, there's not enough space to install this app"</string>
+  <string name="item_title_system_cache">Cached data</string>
+  <string name="large_file_sort_type_size">Sort by size</string>
+  <string name="large_file_sort_type_name">Sort by name</string>
+  <string name="msg_system_cache_hints">"Clearing cached data will not affect your apps' files, settings, accounts, databases, etc."</string>
+  <string name="dialog_title_cleanup_system_cache">Clear cached data?</string>
+  <string name="dialog_msg_cleanup_system_cache">This will clear cached data for all apps.</string>
+  <string name="dialog_title_cleanup_apps">Delete app data?</string>
+  <string name="dialog_title_backup_and_cleanup_apps">Backup and delete app data?</string>
+  <string name="dialog_msg_cleanup_apps">"All this app's data will be deleted permanently. This includes all files, settings, accounts, databases, etc."</string>
+  <string name="dialog_msg_backup_and_cleanup_apps">After backup is complete, all app data will be deleted. This includes all files, settings, accounts, databases, etc.</string>
+  <string name="button_text_cleanup_apps">Clear data</string>
+  <string name="button_text_backup_and_cleanup_apps">Back up first</string>
+  <string name="toast_backup_cleanup_success">Data backed up and deleted</string>
+  <string name="toast_cleanup_success">Data cleared</string>
+  <string name="list_sub_view_item_cleanup">Clear</string>
+  <string name="list_sub_view_item_backup_cleanup">Back up first</string>
+  <string name="white_list_cache_header">Cache files: %d</string>
+  <string name="white_list_ad_header">Ad files: %d</string>
+  <string name="white_list_apk_header">Install packages: %d</string>
+  <string name="white_list_large_file_header">Large files: %d</string>
+  <string name="white_list_residual_header">Residuals: %d</string>
+  <string name="white_list_title">White List</string>
+  <string name="button_text_delete_from_white_list">Out whitelist</string>
+  <string name="toast_add_white_list_success">Has been added to the white list, see the settings</string>
+  <string name="dialog_title_check_all">Select all</string>
+  <string name="dialog_msg_check_all">Confirm to select %1$s that contains %2$d items</string>
+  <string name="toast_removed_from_white_list">Has bean removed from white list</string>
+  <string name="notification_button_text_of_low_memory">Clean-up</string>
+  <string name="notification_title_of_low_memory">The system stroage has used %s</string>
+  <string name="notification_summary_of_low_memory">When low memory,will not install new apps</string>
+  <string name="power_20s_enter_mode">%1$ds switch to mode %2$s</string>
+  <string name="power_notify_lowbattery">power is lower than %1$d%%</string>
+  <string name="power_recovery_mode">recovery to %1$s mode</string>
+  <string name="power_subtitle_lowbattery">auto power save when low battery</string>
+  <string name="power_subtitle_ontime">power save when on time</string>
+  <string name="power_exitlowbattery_whencharge">exit when charging</string>
+  <string name="power_button_delete">delete</string>
+  <string name="power_mode_my_mode">my mode</string>
+  <string name="power_mode_my_mode_summary">auto save your daily use status</string>
+  <string name="power_apply_toast">switch to %s mode and auto save your current status</string>
+  <string name="power_customize_giveup_change">give up change?</string>
+  <string name="pref_category_title_securitycenter_settings">Security Center settings</string>
+  <string name="pref_category_title_module_settings">Each functional module settings</string>
+  -->
 </resources>

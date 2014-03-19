@@ -185,4 +185,43 @@
   <string name="SysOpt_Boost_Boot">Démarrer</string>
   <string name="SysOpt_Boost_Receiver">Arrière-plan</string>
   <string name="app_name">LBE Guard</string>
+  <!-- à traduire :
+  <string name="HIPS_Perm_SendMMS">发送彩信</string>
+  <string name="HIPS_Perm_SendMMS_Desc">直接发送彩信</string>
+  <string name="HIPS_Perm_SendMMS_Hint">%1$s款软件有权发送彩信</string>
+  <string name="HIPS_Perm_MMS">彩信记录</string>
+  <string name="HIPS_Perm_MMS_Desc">访问您的彩信收件箱</string>
+  <string name="HIPS_Perm_MMS_Desc">访问您的彩信收件箱</string>
+  <string name="HIPS_Perm_Settings">系统设置</string>
+  <string name="HIPS_Perm_Settings_Desc">修改系统设置</string>
+  <string name="HIPS_Perm_Settings_Hint">%1$s款软件有权修改系统设置</string>
+  <string name="HIPS_Perm_VideoRecorder">拍照和录像</string>
+  <string name="HIPS_Perm_VideoRecorder_Desc">拍照和录像</string>
+  <string name="HIPS_Perm_VideoRecorder_Hint">%1$s款软件有权拍照和录像</string>
+  <string name="HIPS_Perm_AudioRecorder">录音</string>
+  <string name="HIPS_Perm_AudioRecorder_Desc">通话录音和本地录音</string>
+  <string name="HIPS_Perm_AudioRecorder_Hint">%1$s款软件有权进行通话录音和本地录音</string>
+  <string name="HIPS_Perm_Mobile_Connectivity">开启移动网络</string>
+  <string name="HIPS_Perm_Mobile_Connectivity_Desc">开启移动网络</string>
+  <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s款软件有权开启移动网络</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">开启WIFI</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">开启WIFI</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s款软件有权开启WIFI硬件</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity">开启蓝牙</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">开启蓝牙</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s款软件有权开启蓝牙硬件</string>
+  <string name="HIPS_Perm_MMS_Access">读取彩信数据</string>
+  <string name="HIPS_Perm_Settings_Modify">修改系统设置</string>
+  <string name="HIPS_Perm_Recorder_Camera">拍照</string>
+  <string name="HIPS_Perm_Recorder_AudioVideo">录制音频和视频</string>
+  <string name="HIPS_Perm_Recorder_Video">录制视频</string>
+  <string name="HIPS_Perm_Recorder_Audio">录制本地音频</string>
+  <string name="HIPS_Perm_Recorder_VoiceCall">录制通话音频</string>
+  <string name="HIPS_Perm_Recorder">Camera and Microphone</string>
+  <string name="HIPS_Perm_Recorder_Desc">Take picture and record video</string>
+  <string name="HIPS_Perm_Recorder_Hint">%1$s apps are allowed to take picture and record video</string>
+  <string name="HIPS_Perm_RecordAudio">record audio</string>
+  <string name="HIPS_Perm_RecordVideo">record video</string>
+  <string name="HIPS_Perm_Picture">take picture</string>
+ -->
 </resources>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="continues">Continuer</string>
-  <string name="data_usage_summary">Si vous n\'avez pas demandé un forfait de données, il est recommandé de les désactiver. Sinon, votre opérateur peut vous facturer des frais supplémentaires.</string>
-  <string name="default_gprs_sim_name">Veuillez entrer la limite de données de \"%s\"</string>
   <string name="next">Suivant</string>
   <string name="other_service_google_location">Service de localisation Google</string>
   <string name="other_service_google_location_use">Localisation et recherche</string>
@@ -25,9 +23,4 @@
   <string name="sim_card_detection_info">Il est impossible de configurer un compte Xiaomi sans carte SIM. Elle est nécessaire pour profiter des services tels que la synchronisation des comptes, la géolocalisation du téléphone, etc.</string>
   <string name="sim_card_detection_label">Détection de la carte SIM</string>
   <string name="sim_card_detection_status_absent">Carte SIM non détectée !</string>
-  <string name="traffic_protection_label">Suivi du trafic de données</string>
-  <string name="traffic_protection_summary">Cette fonction vous permet d\'éviter tout dépassement lorsque la limite de votre forfait de données est atteinte.</string>
-  <string name="traffic_protection_text_hint">Limite de votre forfait de données.</string>
-  <string name="traffic_protection_unknown"><u>Je ne sais pas. Renseigner plus tard.</u></string>
-  <string name="use_data">Activer les données</string>
 </resources>

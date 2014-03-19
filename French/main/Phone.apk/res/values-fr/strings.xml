@@ -153,7 +153,6 @@
   <string name="call_record_notification_message_start_failed">L\'appareil d\'enregistrement est utilisé par une autre application.</string>
   <string name="call_record_notification_title_error_miui">Échec de l\'enregistrement des appels</string>
   <string name="call_record_notification_title_miui">Enregistrement de l\'appel réussi</string>
-  <string name="call_record_path_name_of_sdcard_miui">Carte SD</string>
   <string name="call_record_sd_error_miui">Erreur d\'accès à la carte SD !</string>
   <string name="call_record_sd_space_low_miui">La mémoire de la Carte SD est faible, veuillez essayer à nouveau après avoir libéré de l\'espace</string>
   <string name="call_record_setting_miui">Paramètres d\'enregistrement d\'appel</string>

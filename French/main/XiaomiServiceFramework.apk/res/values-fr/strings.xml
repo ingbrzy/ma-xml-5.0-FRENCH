@@ -274,4 +274,5 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="micloud_web_discription_01">Connectez-vous à http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">pour stocker et accéder à vos fichiers depuis n\'importe où.</string>
   <string name="micloud_welcome_skip_login">Passer l\'inscription</string>
+  <string name="micloud_upgrade_space">Augmenter l\'espace</string>
 </resources>
