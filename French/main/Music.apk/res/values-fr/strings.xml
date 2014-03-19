@@ -58,11 +58,11 @@
   <string name="delete_playlist_menu">Supprimer</string>
   <string name="delete_song_desc">Cela supprimera définitivement %s de votre carte SD.</string>
   <string name="deselect_all">Tout désélectionner</string>
-  <string name="dirac_mode_general">Mode général</string>
-  <string name="dirac_mode_earbuds">Écouteurs classiques</string>
-  <string name="dirac_mode_in_ear">Écouteurs intra-auriculaires</string>
+  <string name="dirac_mode_general">Général</string>
+  <string name="dirac_mode_earbuds">Classiques</string>
+  <string name="dirac_mode_in_ear">Intra-auriculaires</string>
   <string name="dirac_mode_off">Dirac désactivé</string>
-  <string name="dirac_mode_piston_100">Écouteurs Piston Xiaomi</string>
+  <string name="dirac_mode_piston_100">Piston Xiaomi</string>
   <string name="download">Télécharger</string>
   <string name="download_album_settings">Téléchargement de pochette auto</string>
   <string name="download_album_summary">Peut coûter plus cher via le réseau mobile, privilégiez une connexion Wi-Fi</string>
