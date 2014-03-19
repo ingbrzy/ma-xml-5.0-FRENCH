@@ -14,7 +14,7 @@
         },
         {
             "title":"Picasa",
-            "url":"http://picasaweb.google.com/",
+            "url":"https://picasaweb.google.com/",
             "thumbnail":"thumb_picasa.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
@@ -97,13 +97,13 @@
             "position": 7
         },
         {
-            "title":"CNN",
-            "url":"http://www.cnn.com/",
-            "thumbnail":"thumb_cnn.png",
+            "title":"Pages Jaunes",
+            "url":"http://mobile.pagejaunes.fr",
+            "thumbnail":"thumb_pj.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-            "displayName": "CNN",
+            "displayName": "Pages Jaunes",
             "isDelete": true,
             "movable": true,
             "position": 8
@@ -134,7 +134,7 @@
         },
         {
             "title":"Amazon",
-            "url":"http://www.amazon.fr/",
+            "url":"https://www.amazon.fr/",
             "thumbnail":"thumb_amazon.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
@@ -144,31 +144,6 @@
             "isDelete": true,
             "movable": true,
             "position": 11
-        },
-        {
-            "title":"Weather Channel",
-            "url":"http://fr.weather.com/",
-            "thumbnail":"thumb_weatherchannel.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":"",
-            "displayName": "Weather Channel",
-            "isDelete": true,
-            "movable": true,
-            "position": 12
-        },
-        {
-            "title":"BBC",
-            "url":"http://www.bbc.co.uk/",
-            "thumbnail":"thumb_bbc.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "hidden":"true",
-            "favicon":"",
-            "displayName": "BBC",
-            "isDelete": true,
-            "movable": true,
-            "position": 13
         }
     ]
 }
