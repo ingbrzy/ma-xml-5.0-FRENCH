@@ -191,7 +191,6 @@
   <string name="HIPS_Perm_SendMMS_Hint">%1$s款软件有权发送彩信</string>
   <string name="HIPS_Perm_MMS">彩信记录</string>
   <string name="HIPS_Perm_MMS_Desc">访问您的彩信收件箱</string>
-  <string name="HIPS_Perm_MMS_Desc">访问您的彩信收件箱</string>
   <string name="HIPS_Perm_Settings">系统设置</string>
   <string name="HIPS_Perm_Settings_Desc">修改系统设置</string>
   <string name="HIPS_Perm_Settings_Hint">%1$s款软件有权修改系统设置</string>
