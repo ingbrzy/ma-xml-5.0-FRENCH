@@ -3880,7 +3880,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="msg_update_error_code_network_error">Erreur réseau, vérifiez votre connexion et réessayer</string>
   <string name="msg_update_error_code_unknown_error">Erreur inconnue, veuillez réessayer plus tard</string>
   <string name="msg_cleanup_db_update_time_unknown">Dernière MàJ : inconnue</string>
-  <string name="touch_sensitive_summary">Accroît la sensibilité de votre écran tactile afin d\'en permettre l'utilisation avec des gants</string>
+  <string name="touch_sensitive_summary">Accroît la sensibilité de votre écran tactile afin d\'en permettre l\'utilisation avec des gants</string>
   <string name="touch_sensitive_turn_off_summary">Désactiver le mode permettant d\'éviter les erreurs de manipulation ?</string>
   <string name="touch_title">Toucher</string>
   <string name="touch_sensitive_title">Mode gants</string>
