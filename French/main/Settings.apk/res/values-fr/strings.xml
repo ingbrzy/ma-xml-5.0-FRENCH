@@ -3983,7 +3983,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="white_list_large_file_header">Fichiers volumineux : %d</string>
   <string name="white_list_residual_header">Résidus : %d</string>
   <string name="white_list_title">Liste blanche</string>
-  <string name="button_text_delete_from_white_list">Retirer/string>
+  <string name="button_text_delete_from_white_list">Retirer</string>
   <string name="toast_add_white_list_success">Ajoutée à la liste blanche, configuration de la liste blanche via les paramètres</string>
   <string name="dialog_title_check_all">Tout sélectionner</string>
   <string name="toast_removed_from_white_list">Supprimé de la liste blanche</string>
