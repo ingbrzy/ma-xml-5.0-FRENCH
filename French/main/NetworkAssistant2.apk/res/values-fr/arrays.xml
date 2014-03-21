@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <!-- à traduire
     <string-array name="traffic_uints">
-        <item>B</item>
-        <item>KB</item>
-        <item>MB</item>
-        <item>GB</item>
+        <item>o</item>
+        <item>Ko</item>
+        <item>Mo</item>
+        <item>Go</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Yesterday</item>
-        <item>Today</item>
-        <item>This month</item>
+        <item>Hier</item>
+        <item>Aujourd\'hui</item>
+        <item>Ce mois</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Yesterday (Data)</item>
-        <item>Today (Data)</item>
-        <item>This month (Data)</item>
-        <item>Yesterday WLAN</item>
-        <item>Today WLAN</item>
-        <item>This month WLAN</item>
+        <item>Hier (mobile)</item>
+        <item>Aujourd\'hui (mobile)</item>
+        <item>Ce mois (mobile)</item>
+        <item>Hier (Wi-Fi)</item>
+        <item>Aujourd\'hui (Wi-Fi)</item>
+        <item>Ce mois (Wi-Fi)</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Yesterday (Data)</item>
-        <item>Today (Data)</item>
-        <item>This month (Data)</item>
+        <item>Hier (mobile)</item>
+        <item>Aujourd\'hui (mobile)</item>
+        <item>Ce mois (mobile)</item>
     </string-array>
     <string-array name="network_speed_update_internals">
         <item>3 secs</item>
@@ -35,10 +34,11 @@
         <item>9 secs</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>Data usage</item>
-        <item>WLAN usage</item>
-        <item>Total usage</item>
+        <item>Usage mobile</item>
+        <item>Usage Wi-Fi</item>
+        <item>Usage total</item>
     </string-array>
+ <!-- à traduire
     <string-array name="traffic_setting_sms_template">
         <item>Get message template automatically</item>
         <item>Set message template manually</item>
