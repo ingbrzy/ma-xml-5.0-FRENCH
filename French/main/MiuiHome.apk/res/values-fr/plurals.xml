@@ -6,7 +6,7 @@
         <item quantity="two">Désinstaller %s et 1 autre appli ?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$ applis désinstallées</item>
+        <item quantity="other">%1$d applis désinstallées</item>
         <item quantity="one">Appli désinstallée</item>
     </plurals>
     <plurals name="uninstall_result_failed">

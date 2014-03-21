@@ -4004,8 +4004,17 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="power_customize_giveup_change">Annuler les changements ?</string>
   <string name="pref_category_title_securitycenter_settings">Paramètres du centre de sécurité</string>
   <string name="pref_category_title_module_settings">Paramètres des modules</string> 
+  <string name="Settings_title_garbage_cleanup">Paramètres de nettoyage</string>
+  <string name="Settings_title_network_assistants">Paramètres du moniteur réseaux</string>
+  <string name="Settings_title_anti_spam">Paramètres anti-spam</string>
+  <string name="Settings_title_power_center">Paramètres de gestion d\'énergie</string>
+  <string name="Settings_title_anti_virus">Paramètres anti-virus</string>
+  <string name="garbage_white_list_empty_content">Liste blanche vide</string>
+  <string name="toast_garbage_cleanup_success">Nettoyage effectué</string>
   
  <!-- à traduire 
+  <string name="pref_title_expand_cache_group">Expand the cache groups</string>
+  <string name="pref_summary_expand_cache_group">Groups in the cache list will default expand</string>
   <string name="dialog_msg_check_all">Confirm to select %1$s that contains %2$d items</string>
   <string name="msg_system_cache_hints">"Clearing cached data will not affect your apps' files, settings, accounts, databases, etc."</string>
   <string name="dialog_title_cleanup_system_cache">Clear cached data?</string>
