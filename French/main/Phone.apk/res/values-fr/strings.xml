@@ -1216,14 +1216,14 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="managed_roaming_dialog_content">Réseau avec service limité détecté. Lancer une recherche réseau ?</string>
   <string name="managed_roaming_dialog_ok_button">Oui</string>
   <string name="managed_roaming_dialog_cancel_button">Non</string>
+  <string name="description_target_answer_video">Répondre avec Vidéo</string>
+  <string name="description_target_answer_tx_video">Répondre avec TX Vidéo</string>
+  <string name="description_target_answer_rx_video">Répondre avec RX Vidéo</string>
+  <string name="description_direction_up_right">Haut Droite</string>
+  <string name="description_direction_up_left">Haut Gauche</string>
+  <string name="description_direction_down_left">Bas Gauche</string>
+  <string name="description_direction_down_right">Bas Droite</string>
  <!-- à traduire
-  <string name="description_target_answer_video">Answer with Video</string>
-  <string name="description_target_answer_tx_video">Answer with TX Video</string>
-  <string name="description_target_answer_rx_video">Answer with RX Video</string>
-  <string name="description_direction_up_right">Up Right</string>
-  <string name="description_direction_up_left">Up Left</string>
-  <string name="description_direction_down_left">Down Left</string>
-  <string name="description_direction_down_right">Down Right</string>
   <string name="set_sub_global_activate_failed">Activate global failed</string>
   <string name="set_sub_global_deactivate_failed">Deactivate global failed</string>
   <string name="set_sub_not_supported_phone_in_call">Activate or Deactivate subscription is not allowed while phone in call.</string>

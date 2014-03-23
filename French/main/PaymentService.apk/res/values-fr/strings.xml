@@ -307,10 +307,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="scan_prompt_number">Analyse du numéro de la carte prépayée %1$s</string>
   <string name="scan_prompt_password">Analyse du code de la carte prépayée %1$s</string>
   <string name="scan_prompt_voucher">Analyse du code MiCredit</string>
-  
- <!-- à traduire :
-  <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
-  -->
+  <string name="scan_prompt_retry">Placez la carte de manière à éviter les reflets, évitez de bouger pendant la prise de vue</string>
   <string name="error_cert_date_title">Erreur de date du certificat</string>
   <string name="error_cert_date_summary">"Erreur de date du certificat. 
 Vérifiez la configuration de la date de votre appareil puis réessayez."</string>

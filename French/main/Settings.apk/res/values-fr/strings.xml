@@ -3943,11 +3943,9 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="free_wifi_connect">Se connecter</string>
   <string name="free_wifi_connecting">Connexion…</string>
   <string name="free_wifi_connected">Connecté au Wi-Fi gratuit</string>
-  <string name="free_wifi_connect_fail">"Impossible de se connecter au Wi-Fi"</string>
+  <string name="free_wifi_connect_fail">Impossible de se connecter au Wi-Fi</string>
   <string name="free_wifi_connect_fail2">Impossible de se connecter. Veuillez réessayer dans 1 ou 2 minutes.</string>
- <!-- à traduire 
-  <string name="free_wifi_login_again">Sign in again</string>
- -->
+  <string name="free_wifi_login_again">Veuillez vous reconnecter</string>
   <string name="free_wifi_connected_count">%1$s utilisateurs connectés</string>
   <string name="free_wifi_speed_title">Connexion lente ?</string>
   <string name="free_wifi_connected_time">Durée de connexion : %1$s</string>

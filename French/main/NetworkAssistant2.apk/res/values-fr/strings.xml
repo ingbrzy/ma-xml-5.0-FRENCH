@@ -30,7 +30,7 @@ Restants"</string>
     <string name="adjust_traffic_carrier_summary_oneweek_before">Mis à jour il y a 1 semaine</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Mis à jour il y a plus d\'une semaine</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Mis à jour il y a plus d\'un mois</string>
-    <string name="person_hotpot">Hotspot mobile</string>
+    <string name="person_hotpot">Partage de connexion</string>
     <string name="system_app">Applis système</string>
     <string name="deleted_apps">Applis supprimées</string>
     <string name="sorted_button">Trier par</string>
@@ -40,30 +40,35 @@ Restants"</string>
     <string name="sorted_dialog_title">Trier par</string>
     <string name="cancel_button">Annuler</string>
     <string name="ok_button">OK</string>
+    <string name="main_button_normal_traffic">Pic</string>
+    <string name="main_button_idel_traffic">Creux</string>
+    <string name="main_button_usage_adjusting">Changement…</string>
+    <string name="main_button_usage_adjust_manual">Définir l\'usage de données</string>
+    <string name="main_button_usage_package_setting">Définir l\'usage de données</string>
+    <string name="main_traffic_overlimit_text">%s dépassé</string>
+    <string name="main_traffic_used_only">Utilisé : %s</string>
+    <string name="main_alert_message_no_mobile_package">Limite de données mobiles non définie</string>
+    <string name="main_alert_message_no_imsi">Aucune carte SIM détectée</string>
+    <string name="permit_running_network">Autoriser les données en arrière-plan</string>
+    <string name="network_control">Voir les paramètres de l\'appli</string>
+    <string name="foreground_traffic">Premier plan %s</string>
+    <string name="background_traffic">Arrière plan %s</string>
+    <string name="stop_app_button">Arrêter</string>
+    <string name="detail_app_button">Détails</string>
+    <string name="force_stop_dlg_title">Restreindre les données en arrière-plan</string>
+    <string name="force_stop_dlg_text">"Si vous restreignez les données mobiles en arrière-plan, certaines applications et services ne fonctionneront uniquement si vous êtes connecté à un réseau Wi-Fi"</string>
+    <string name="pref_about_traffic_title">Paramètres d\'utilisation des données</string>
+    <string name="pref_package_traffic_normal">Pic : %s</string>
+    <string name="pref_package_traffic_overlay">%1$s | Additionnel : %2$s</string>
+    <string name="pref_package_traffic_leisure">%1$s | Creux : %2$s</string>
+    <string name="pref_package_traffic_settings">Limite données mobiles</string>
+    <string name="pref_adjust_traffic_data">Définir l\'usage des données</string>
+    <string name="pref_about">À propos</string>
+    <string name="pref_version">Version %s</string>
+    <string name="pref_leisure_no_overlay">Activé</string>
+    <string name="pref_leisure_not_opened">Désactivé</string>
+
  <!-- à traduire
-    <string name="main_button_normal_traffic">Peak</string>
-    <string name="main_button_idel_traffic">Off-peak</string>
-    <string name="main_button_usage_adjusting">Changing…</string>
-    <string name="main_button_usage_adjust_manual">Set mobile data usage</string>
-    <string name="main_button_usage_package_setting">Set mobile data usage</string>
-    <string name="main_traffic_overlimit_text">%s over</string>
-    <string name="main_traffic_used_only">Used: %s</string>
-    <string name="main_alert_message_no_mobile_package">"Mobile data limit hasn't been set"</string>
-    <string name="main_alert_message_no_imsi">No SIM card detected</string>
-    <string name="permit_running_network">Allow background data</string>
-    <string name="network_control">View app settings</string>
-    <string name="foreground_traffic">Foreground %s</string>
-    <string name="background_traffic">Background %s</string>
-    <string name="stop_app_button">Stop</string>
-    <string name="detail_app_button">Details</string>
-    <string name="force_stop_dlg_title">Restrict background data</string>
-    <string name="force_stop_dlg_text">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network."</string>
-    <string name="pref_about_traffic_title">Data usage settings</string>
-    <string name="pref_package_traffic_normal">Peak: %s</string>
-    <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
-    <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
-    <string name="pref_package_traffic_settings">Mobile data limit</string>
-    <string name="pref_adjust_traffic_data">Set data usage</string>
     <string name="pref_app_traffic_managent">Restrict data usage by app</string>
     <string name="pref_connect_settings_exceed_limit_hint">Cut off the data connection when peak data usage reaches limit</string>
     <string name="pref_connect_settings_exceed_limit">Restrict peak data usage</string>
@@ -81,10 +86,6 @@ Restants"</string>
     <string name="pref_show_mobile_traffic">When you unlock you phone, show data usage stats for the period when your device has been locked (must be longer than 3 minutes)</string>
     <string name="pref_title_mobile_traffic">Show data usage while locked</string>
     <string name="pref_title_declaration">Important disclaimer</string>
-    <string name="pref_about">About</string>
-    <string name="pref_version">Version %s</string>
-    <string name="pref_leisure_no_overlay">Enabled</string>
-    <string name="pref_leisure_not_opened">Disabled</string>
     <string name="pref_manual_adjust">Set data usage stats manually</string>
     <string name="pref_daily_adjust">Set peak data limit</string>
     <string name="pref_free_adjust">Set off-peak data limit</string>
@@ -95,8 +96,6 @@ Restants"</string>
     <string name="pref_auto_adjust_settings">Auto-sync data usage stats settings</string>
     <string name="pref_adjust_data_usage">Carrier message template</string>
     <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
-    <string name="left_precent">60%</string>
-    <string name="right_precent">100%</string>
     <string name="pref_avaible_traffic">Wireless plan</string>
     <string name="pref_daily_traffic">Peak data limit</string>
     <string name="pref_data_usage_not_set">Set data usage limit</string>
@@ -123,7 +122,6 @@ Restants"</string>
     <string name="manual_input_free_traffic">Set off-peak data usage</string>
     <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
     <string name="input_used_hint">Enter data usage</string>
-    <string name="text_day" />
     <string name="settings">Data usage settings</string>
     <string name="adjust_traffic_data">Set data usage</string>
     <string name="per_month_pkg_traffic_settings">Set data limit</string>
@@ -181,5 +179,5 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
     <string name="traffic_correction_failed">"Can't get data usage info"</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
-  -->
+ -->
 </resources>
