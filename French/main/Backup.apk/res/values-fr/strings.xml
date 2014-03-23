@@ -248,11 +248,9 @@
   <string name="cloud_app_restore_cancel_prompt_message">Restauration incomplète, appuyez sur OK pour restaurer</string>
   <string name="cloud_app_restore_cancel_prompt_title">Annuler la restauration</string>
   <string name="cloud_app_wait_wifi">En attente d\'une connexion Wi-Fi</string>
- <!-- à traduire :
-  <string name="cloud_app_check_data">Querying data from MiCloud…</string>
-  <string name="cloud_app_check_data_fail">Failed to query data from MiCloud</string>
-  <string name="cloud_app_check_data_timeout">Timeout for querying data from MiCloud</string>
-  <string name="cloud_app_load_data">Querying backup data list…</string>
-  <string name="cloud_app_load_data_timeout">Timeout querying data from MiCloud</string>
- -->
+  <string name="cloud_app_check_data">Chargement des données MiCloud…</string>
+  <string name="cloud_app_check_data_fail">Échec de la requête MiCloud</string>
+  <string name="cloud_app_check_data_timeout">Délai dépassé pour la requête de données MiCloud</string>
+  <string name="cloud_app_load_data">Chargement des données sauvegardées sur MiCloud…</string>
+  <string name="cloud_app_load_data_timeout">Délai dépassé pour la requête MiCloud</string>
 </resources>
