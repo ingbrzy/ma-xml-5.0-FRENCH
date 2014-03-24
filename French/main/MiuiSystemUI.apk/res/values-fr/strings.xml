@@ -253,7 +253,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_toggle_ring">Son</string>
   <string name="status_bar_toggle_ringtone">Sonnerie</string>
   <string name="status_bar_toggle_rotate">Rotation</string>
-  <string name="status_bar_toggle_screen_button">Touches de l\'écran</string>
+  <string name="status_bar_toggle_screen_button">Touches</string>
   <string name="status_bar_toggle_screenshot">Capture d\'écran</string>
   <string name="status_bar_toggle_shutdown">Éteindre</string>
   <string name="status_bar_toggle_sync">Synchro</string>
