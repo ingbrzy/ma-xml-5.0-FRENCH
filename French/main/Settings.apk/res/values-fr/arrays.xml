@@ -275,9 +275,9 @@
         <item>Singe</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Faible</item>
-        <item>Moyen</item>
         <item>Fort</item>
+        <item>Moyen</item>
+        <item>Faible</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graphique</item>
