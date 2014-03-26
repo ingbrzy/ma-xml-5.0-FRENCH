@@ -1920,7 +1920,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="spellcheckers_settings_title">Correcteur orthographique</string>
   <string name="ssid_label">SSID :</string>
   <string name="status_awake_time">Temps en activité</string>
-  <string name="status_bar_settings">Barre d\'état</string>
+  <string name="status_bar_settings">Notifications et barre d\'état</string>
   <string name="status_bt_address">Adresse MAC Bluetooth</string>
   <string name="status_data_state">État du réseau mobile</string>
   <string name="status_esn_number">ESN</string>
