@@ -54,7 +54,7 @@
   <string name="cloud_app_backup_date">"Sauvegardés le "</string>
   <string name="cloud_app_backup_pending">En attente…</string>
   <string name="cloud_app_backup_progress">Sauvegarde…</string>
-  <string name="cloud_app_backup_summary">Sauvegarder automatiquement les applications et les données utilisateur lorsque le téléphone est en charge et connecté au Wi-Fi</string>
+  <string name="cloud_app_backup_summary">Sauvegarder automatiquement les applis et les données utilisateur lorsque le téléphone est en charge et connecté au Wi-Fi</string>
   <string name="cloud_app_backup_title">Sauvegarde sur MiCloud</string>
   <string name="cloud_app_current_device">Appareil actuel</string>
   <string name="cloud_app_data_in_other_devices">Aucune sauvegarde MiCloud sur cet appareil.</string>

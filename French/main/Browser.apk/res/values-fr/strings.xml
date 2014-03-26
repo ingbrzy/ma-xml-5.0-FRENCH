@@ -136,7 +136,7 @@
   <string name="contextmenu_set_wallpaper">Définir comme fond d\'écran</string>
   <string name="contextmenu_sharelink">Partager le lien</string>
   <string name="contextmenu_view_image">Afficher l\'image</string>
-  <string name="copy_link">copier le lien</string>
+  <string name="copy_link">Copier le lien</string>
   <string name="copy_page_url">Copier l\'URL de la page</string>
   <string name="crash_recovcery_message">Le navigateur s\'est arrêté anormalement. Voulez-vous récupérer la dernière session de navigation ?</string>
   <string name="create_shortcut_bookmark">Créer un raccourci sur la page d\'accueil</string>
@@ -392,7 +392,7 @@
   <string name="pref_general_title">Général</string>
   <string name="pref_gesture_title">Opérations gestuelles</string>
   <string name="pref_images_preload_dialogtitle">Préchargement d\'images…</string>
-  <string name="pref_images_preload_summary">" Autoriser le navigateur à précharger les images lorsque le serveur le supporte"</string>
+  <string name="pref_images_preload_summary">" autoriser le navigateur à précharger les images lorsque le serveur le supporte"</string>
   <string name="pref_images_preload_title">Préchargement d\'image</string>
   <string name="pref_images_preload_value_always_summary">Toujours autoriser le navigateur à précharger les images lorsque le serveur le supporte</string>
   <string name="pref_images_preload_value_never_summary">Ne jamais autoriser le préchargement d\'image</string>
@@ -505,7 +505,7 @@
   <string name="same_bookmarks_warning">Ce favori existe déjà</string>
   <string name="same_folder_name_warning">Ce dossier existe déjà</string>
   <string name="save">Enregistrer</string>
-  <string name="save_bookmark">Enregistrer le favori</string>
+  <string name="save_bookmark">Ajouter aux favoris</string>
   <string name="save_dialog_title">Sauvegarder</string>
   <string name="save_file_already_exist_alert_message">Le fichier existe déjà, voulez-vous le remplacer ?</string>
   <string name="save_file_already_exist_alert_title">Le fichier existe !</string>

@@ -1329,7 +1329,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">désactiver le monde sénior ?</string>
   <string name="onscreen_keyboard_settings_summary">Paramètres du clavier virtuel</string>
   <string name="other_relative">Autres autorisations</string>
-  <string name="overlay_display_devices_title">Simul. affich. secondaires</string>
+  <string name="overlay_display_devices_title">Simuler affich. secondaires</string>
   <string name="owner_info_settings_edit_text_hint">Saisissez le texte à afficher sur l\'écran de verrouillage</string>
   <string name="owner_info_settings_summary"></string>
   <string name="owner_info_settings_title">Informations du propriétaire</string>
@@ -3414,8 +3414,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_center_consume_time">%1$s restants</string>
   <string name="power_center_custom_summary_default">Optimise les réglages, économise la batterie</string>
   <string name="power_center_custom_title">Économiser la batterie</string>
-  <string name="power_center_low_battery_summary_default">"Basculer de mode lorsque le niveau de charge 
-de la batterie est faible"</string>
+  <string name="power_center_low_battery_summary_default">"Basculer de mode lorsque le niveau de
+ charge de la batterie est faible"</string>
   <string name="power_center_low_battery_summary_dynamic">Quand la batterie restante est inférieure \nà %1$d%% basculer vers %2$s</string>
   <string name="power_center_low_battery_title">Basculer automatiquement</string>
   <string name="power_center_on_time_summary_default">Basculer de mode à une heure planifiée</string>
@@ -3648,7 +3648,7 @@ de la batterie est faible"</string>
   <string name="virus_scan_guard_provider_missed">Le scanneur de virus est corrompu. Veuillez effectuer une restauration d\'usine de votre téléphone.</string>
   <string name="virus_scan_installed_package">%s (appli installée)</string>
   <string name="virus_scan_is_scanning">Analyse…</string>
-  <string name="virus_scan_judge_is_virus">Vérifier les applications avant l\'installation</string>
+  <string name="virus_scan_judge_is_virus">Scanner les applis avant leur installation</string>
   <string name="virus_scan_last_risk">Applis suspectes, détectées lors de la dernière analyse, non supprimées !</string>
   <string name="virus_scan_last_scan_date">La dernière analyse remonte à %d jours</string>
   <string name="virus_scan_last_scan_today">"Dernière analyse : aujourd\'hui "</string>

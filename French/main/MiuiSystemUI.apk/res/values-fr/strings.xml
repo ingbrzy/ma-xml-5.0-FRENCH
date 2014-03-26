@@ -116,7 +116,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="headset_settings">Casque connecté</string>
   <string name="invalid_charger">"Chargement USB non disponible.
 Vous devez utiliser le chargeur fourni."</string>
-  <string name="key_position_custom">Personnaliser la position de touche</string>
+  <string name="key_position_custom">Personnaliser la position des touches</string>
   <string name="label_view">Afficher</string>
   <string name="lockscreen_carrier_default">Aucun service</string>
   <string name="mdb_entering">Entrée MDB</string>
@@ -172,10 +172,10 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screen_button_enabled_message">Les touches du bas de l\'écran sont activées</string>
   <string name="settings_statusbar_style">Paramètres de la barre d\'état</string>
   <string name="center_clock_title">Horloge centrée</string>
-  <string name="screen_key_back">Touche retour</string>
+  <string name="screen_key_back">Touche Retour</string>
   <string name="screen_key_home">Touche Accueil</string>
   <string name="screen_key_menu">Touche Menu</string>
-  <string name="screen_key_recent_apps">Touche des applications récentes</string>
+  <string name="screen_key_recent_apps">Touche Applications récentes</string>
   <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillée en mode paysage</string>
   <string name="screenshot_failed_text">Impossible enregistrer capture d\'écran. Périphérique de stockage peut-être en cours d\'utilisation.</string>
   <string name="screenshot_saved_text">Appuyez pour l\'afficher</string>

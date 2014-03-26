@@ -236,7 +236,7 @@
   <string name="resource_exchange_wrong_format_by_server">Le code n\'a pas pu être validé. Veuillez vérifier votre code.</string>
   <string name="resource_hint">Alerte</string>
   <string name="resource_menu_refresh">Actualiser</string>
-  <string name="resource_present">Cadeau</string>
+  <string name="resource_present">Offrir</string>
   <string name="resource_purchase_getting_order">Récupération des informations de paiement…</string>
   <string name="resource_purchase_verifying_payment">Vérification des informations de paiement…</string>
   <string name="resource_purchase_waiting_payment">En attente d\'informations de paiement…</string>

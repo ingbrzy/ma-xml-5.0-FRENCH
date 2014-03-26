@@ -17,7 +17,7 @@
   <string name="err_type_others">Autres</string>
   <string name="err_type_power_consuming">Consommation d\'énergie</string>
   <string name="err_type_reboot">Redémarrages système</string>
-  <string name="err_type_suggestion">Proposition</string>
+  <string name="err_type_suggestion">Suggestions</string>
   <string name="menu_attach_screenshot">Joindre une capture d\'écran</string>
   <string name="menu_copy">Copier</string>
   <string name="menu_discard">Ignorer</string>

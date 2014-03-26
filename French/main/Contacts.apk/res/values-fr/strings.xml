@@ -219,7 +219,7 @@
   <string name="delete_group_dialog_title">Supprimer le groupe</string>
   <string name="delete_selected_sim_entry_miui">Supprimer les contacts sélectionnés ?</string>
   <string name="delete_sim_entries_finish">Suppression des contacts SIM réussie</string>
-  <string name="delete_sim_entry_miui">Supprimer les contacts SIM</string>
+  <string name="delete_sim_entry_miui">Suppr. les contacts SIM</string>
   <string name="delete_unknown_contact_calllog_title">"Supprimer les contacts inconnus du journal d'appel ?"</string>
   <string name="deleting">Suppression…</string>
   <string name="deleting_sim_entry_miui">Suppression des contacts de la carte SIM</string>
@@ -435,7 +435,7 @@
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Importer les contacts sélectionnés</string>
   <string name="import_sim_entries_finish">Import des contacts SIM terminé avec succès</string>
-  <string name="import_sim_entry_miui">Importer de la carte SIM</string>
+  <string name="import_sim_entry_miui">Importer de la SIM</string>
   <string name="import_to_xiaomi_account_confirm">Importer</string>
   <string name="import_to_xiaomi_account_progress_finish">Importation terminée</string>
   <string name="import_to_xiaomi_account_progress_message">Importation en cours…</string>
@@ -1111,7 +1111,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_exchange_wrong_format_by_server">Le code n\'a pas pu être validé. Veuillez vérifier votre code.</string>
   <string name="resource_hint">Alerte</string>
   <string name="resource_menu_refresh">Actualiser</string>
-  <string name="resource_present">Cadeau</string>
+  <string name="resource_present">Offrir</string>
   <string name="resource_purchase_getting_order">Récupération des informations de paiement…</string>
   <string name="resource_purchase_verifying_payment">Vérification des informations de paiement…</string>
   <string name="resource_purchase_waiting_payment">En attente d\'informations de paiement…</string>

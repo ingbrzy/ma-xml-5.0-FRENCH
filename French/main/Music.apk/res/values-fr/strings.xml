@@ -248,7 +248,7 @@
   <string name="search_title">Rechercher</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_folder">Choix des dossiers</string>
-  <string name="select_quit_time">Régler la minuterie pour arrêter la lecture (en minute)</string>
+  <string name="select_quit_time">Délai avant l\'arrêt de la lecture (en minute)</string>
   <string name="send_to">Envoyer à</string>
   <string name="send_to_application">Envoyer à une autre application</string>
   <string name="shake_and_skip">Secouer pour passer</string>
