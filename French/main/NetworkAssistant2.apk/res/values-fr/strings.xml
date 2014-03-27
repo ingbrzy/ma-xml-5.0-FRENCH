@@ -108,11 +108,12 @@ Restants"</string>
     <string name="pref_connect_settings_enable_background_hint">"Allow apps to use mobile data when you're not using them"</string>
     <string name="pref_title_network_diagnostics">Network diagnostic</string>
     <string name="pref_check_network_diagnostics">Check if your data connection is functioning normally</string>
-    <string name="pref_title_update_notification">Show data usage notifications</string>
+    <string name="pref_title_update_notification">Show network speed</string>
     <string name="pref_title_traffic_speed_state">Show network speed in status bar</string>
     <string name="pref_show_mobile_traffic">When you unlock you phone, show data usage stats for the period when your device has been locked (must be longer than 3 minutes)</string>
     <string name="pref_title_mobile_traffic">Show data usage while locked</string>
     <string name="pref_title_declaration">Important disclaimer</string>
+    <string name="pref_new_installed_preconfig_title">Default settings for new apps</string>
     <string name="pref_manual_adjust">Set data usage stats manually</string>
     <string name="pref_daily_adjust">Set peak data limit</string>
     <string name="pref_free_adjust">Set off-peak data limit</string>
@@ -154,26 +155,26 @@ Restants"</string>
     <string name="per_month_pkg_traffic_settings">Set data limit</string>
     <string name="free_time_traffic_settings">Off-peak data limit settings</string>
     <string name="data_usage_warning_title">Data usage warning</string>
-    <string name="data_usage_warning_body">Touch to view data usage details.</string>
+    <string name="data_usage_warning_body">Touch to view data usage details</string>
     <string name="data_usage_mobile_limit_title">Mobile data has been disabled</string>
-    <string name="data_usage_limit_body">Touch to enable mobile data.</string>
+    <string name="data_usage_limit_body">Touch to enable mobile data</string>
     <string name="data_usage_disabled_dialog">"You've reached your data usage limit. 
 
 Usage in excess of your carrier plan's data limits can result in steep overage charges."</string>
     <string name="data_usage_disabled_dialog_enable">Enable data</string>
     <string name="data_usage_mobile_limit_snoozed_title">Data usage limit exceeded</string>
-    <string name="data_usage_limit_snoozed_body">"You've exceeded your data usage limit."</string>
+    <string name="data_usage_limit_snoozed_body">"You've exceeded your data usage limit"</string>
     <string name="data_usage_restricted_title">Background data restricted</string>
     <string name="data_usage_restricted_body">Touch to enable background data</string>
     <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
-    <string name="data_usage_leisure_warning_body">Touch to view data usage details.</string>
+    <string name="data_usage_leisure_warning_body">Touch to view data usage details</string>
     <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
-    <string name="data_usage_correction_timeout_body">Touch to update manually.</string>
+    <string name="data_usage_correction_timeout_body">Touch to update manually</string>
     <string name="data_usage_no_total_package_title">Data usage</string>
     <string name="data_usage_no_total_package_body">Do you want to set a data usage limit?</string>
     <string name="data_usage_no_total_package_body_dual">Do you want to set a data usage limit for %s?</string>
     <string name="network_assistant_upgraded_title">Update finished</string>
-    <string name="network_assistant_upgraded_body">Tap to restrict data usage.</string>
+    <string name="network_assistant_upgraded_body">Tap to restrict data usage</string>
     <string name="lock_screen_traffic_warn_title">Data usage warning</string>
     <string name="notification_title">%1$s-%2$s: about %3$s used</string>
     <string name="notification_content_title">Used %1$s while locked</string>

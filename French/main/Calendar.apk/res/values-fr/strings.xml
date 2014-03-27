@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!-- removed in 4.3.27 mi2 -->
+  <string name="show_all_lunar">Afficher lunaire</string>
+  <string name="show_almanac">Afficher l\'almanach</string>
+ <!-- -->
   <string name="accessibility_add_attendee">Ajouter un participant</string>
   <string name="accessibility_add_reminder">Ajouter un rappel</string>
   <string name="accessibility_all_day">Toute la journée</string>
@@ -211,9 +215,6 @@
   <string name="event_show_more">Plus d\'options…</string>
   <string name="today_no_events">Aucun événement</string>
   <string name="lunar_date">Date lunaire</string>
- <!-- show_all_lunar à revoir -->
-  <string name="show_all_lunar">Afficher lunaire</string>
-  <string name="show_almanac">Afficher l\'almanach</string>
   <string name="time_zone">Fuseau horaire</string>
   <string name="widget_events">Événements à venir</string>
   <string name="widget_no_events">Aucun événement à venir</string>
@@ -223,4 +224,31 @@
   <string name="work_day_indication">" "</string>
   <string name="rest_day_indication">" "</string>
   <string name="event_lunar_month">Mois</string>
+  <string name="action_bar_today">A</string>
+  <string name="refresh">Actualiser</string>
+  <string name="tab_local">Local</string>
+  <string name="tab_online">En ligne</string>
+  <string name="huangli_label">Huang Li</string>
+  <string name="holiday_label">Fête</string>
+
+ <!-- à traduire
+  <string name="online_calendar_activity_label">订阅日历</string>
+  <string name="add_calendar">订阅</string>
+  <string name="exist_calendar">已订阅</string>
+  <string name="delete_calendar">退订</string>
+  <string name="delete_topic_dialog_title">确认要退订\"%s\"吗？</string>
+  <string name="add_topic_success">订阅\"%s\"成功</string>
+  <string name="delete_topic_success">退订\"%s\"成功</string>
+  <string name="calendar_server_error">网络错误</string>
+  <string name="label_recent_events">近期事件</string>
+  <string name="no_local_calendar">没有订阅日历 :)</string>
+  <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
+  <string name="movable_list_header_label">简介</string>
+  <string name="today_weather_unavailable">无法获取天气信息</string>
+  <string name="subscribe_all">全部订阅</string>
+  <string name="enter_calendar">进入日历</string>
+  <string name="pref_title_no_remind">No reminder</string>
+  <string name="pref_title_notification_remind">Notification reminder</string>
+  <string name="pref_title_alert_remind">Pop-up reminder</string>
+ -->
 </resources>
