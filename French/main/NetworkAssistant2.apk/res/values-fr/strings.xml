@@ -85,7 +85,7 @@ Restants"</string>
     <string name="traffic_setting_fragment_button2_text">Enregistrer</string>
     <string name="traffic_setting_fragment_area">Locale</string>
     <string name="traffic_setting_fragment_operator">Opérateur</string>
-    <string name="traffic_setting_fragment_brand">Marque</stringBrand>
+    <string name="traffic_setting_fragment_brand">Marque</string>
     <string name="traffic_setting_fragment_template">Modèle de message</string>
     <string name="traffic_setting_fragment_loading_text">Chargement des informations réseau…</string>
     <string name="traffic_setting_fragment_no_network">Aucun réseau de données disponible</string>
