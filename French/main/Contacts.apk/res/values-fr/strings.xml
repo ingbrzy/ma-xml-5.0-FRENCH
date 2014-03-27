@@ -1182,7 +1182,5 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="yellowpage_navigation_network_location_enable_later">Plus tard</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">YellowPage fournit des services en fonction de votre emplacement, vous pouvez améliorer la qualité des résultats en activant le service de localisation.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Service de localisation inactif</string>
-  <string name="sim_contact_number_missing">Numéro de téléphone SIM manquant.</string>
-  <string name="imei_invalid">IMEI non valide</string>
   <string name="meid_invalid">MEID non valide</string>
 </resources>
