@@ -190,7 +190,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="settings_notification_icon">Notifications de la barre d\'état</string>
   <string name="settings_show_flow_info">Afficher infos. du trafic</string>
   <string name="settings_show_network_speed">Afficher la vitesse de transfert</string>
-  <string name="settings_show_notificationBar_notification">Afficher notif. du menu déroulant/string>
+  <string name="settings_show_notificationBar_notification">Afficher notif. du menu déroulant</string>
   <string name="settings_show_statusBar_notification">Afficher notif. de la barre d\'état</string>
   <string name="settings_status_bar">Notifications et barre d\'état</string>
   <string name="settings_toggle">Raccourcis</string>
