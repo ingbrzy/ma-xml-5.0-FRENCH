@@ -39,7 +39,7 @@
   <string name="find_device_sim_change_instructions_no_network">Votre appareil a été verrouillé, veuillez insérer la carte SIM d\'origine</string>
   <string name="find_device_turn_off_flight_mode">Désactiver le Mode Avion</string>
   <string name="find_device_turn_off_flight_mode_instructions">Votre appareil a été verrouillé, veuillez désactiver le mode Avion</string>
-  <string name="firewall_setting">Pare-feu</string>
+  <string name="firewall_setting">Pare-feu appels et messages</string>
   <string name="first_back_long_press_message">"Souhaitez-vous activer la fonction d'appui-long sur la touche retour pour tuer le processus en cours et ses services de base ? Activer via Paramètres &gt; Système &gt; Touches"</string>
   <string name="fm_record_smaple_prefix_miui">Enregistrement FM</string>
   <string name="force_exit_message">L\'application \"%1$s\" a été fermée</string>

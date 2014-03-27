@@ -5,7 +5,8 @@
   <string name="account_container_title">Sur le compte suivant</string>
   <string name="account_default">Téléphone</string>
   <string name="account_phone">Téléphone uniquement, non synchronisé</string>
-  <string name="account_sim">Seulement enregistrés sur la carte SIM</string>
+  <string name="account_sim">Carte SIM</string>
+  <string name="account_sim2">Carte SIM %d</string>
   <string name="account_type_format">Contact %1$s</string>
   <string name="actionIncomingCall">Appels entrants</string>
   <string name="action_menu_overflow_description">Plus d\'options</string>
@@ -707,6 +708,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="pref_key_rebuild_t9_index_message">Reconstruire l\'index des contacts en cas de problème d\'affichage</string>
   <string name="pref_key_rebuild_t9_index_title">Reconstruire les données d\'index T9</string>
   <string name="pref_key_sim_manage">Gestion SIM</string>
+  <string name="pref_key_sim_manage2">Gestion SIM 2</string>
   <string name="pref_summary_import_from_account">Importer les contacts depuis les comptes Google et Exchange sur mon compte Xiaomi</string>
   <string name="pref_title_account_import">Importer depuis le compte</string>
   <string name="pref_title_card_format">Format de partage de carte</string>
@@ -1180,4 +1182,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="yellowpage_navigation_network_location_enable_later">Plus tard</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">YellowPage fournit des services en fonction de votre emplacement, vous pouvez améliorer la qualité des résultats en activant le service de localisation.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Service de localisation inactif</string>
+  <string name="sim_contact_number_missing">Numéro de téléphone SIM manquant.</string>
+  <string name="imei_invalid">IMEI non valide</string>
+  <string name="meid_invalid">MEID non valide</string>
 </resources>

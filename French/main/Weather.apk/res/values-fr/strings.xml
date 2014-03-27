@@ -29,7 +29,7 @@
     <string name="alert_provider_title">Notification de géolocalisation</string>
     <string name="alert_title_delete">Supprimer</string>
     <string name="app_love_font_lng">%s</string>
-    <string name="app_love_sms_title">Contenu du message</string>
+    <string name="app_love_sms_title">Message</string>
     <string name="app_love_view_title">Aperçu</string>
     <string name="app_name">Météo</string>
     <string name="network_unavailable">Aucun réseau de données disponible</string>
@@ -93,13 +93,11 @@
     <string name="settings_weather_pre_title">Météo</string>
     <string name="settings_weather_preview">Prévisualisation d\'animation météo</string>
     <string name="settings_weather_title">Paramètres</string>
-    <string name="share_aqi_content">"\#MIUI weather#
-Aujourd'hui à %1$s la qualité de l'air est : %2$s, %3$s. %4$s %5$s."</string>
+    <string name="share_aqi_content">"Aujourd'hui à %1$s la qualité de l'air est : %2$s, %3$s. %4$s %5$s."</string>
     <string name="share_button_text">Partager</string>
     <string name="share_choice_titile">Partager</string>
     <string name="share_content">\#MIUI weather#</string>
-    <string name="share_weather_content">"\#MIUI weather#
-Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
+    <string name="share_weather_content">"Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
     <string name="share_weather_title">Partager les données météo</string>
     <string name="sina_share_fail">Échec de l\'envoi</string>
     <string name="sina_share_pendding">Envoi…</string>

@@ -974,7 +974,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="header_data_and_synchronization">Données et synchronisation</string>
   <string name="headset_calibrate">Calibrer les buttons</string>
   <string name="headset_calibrate_apply">Appliquer</string>
-  <string name="headset_calibrate_confirm">Sauvegarder les nouveaux paramètres de calibration ?</string>
+  <string name="headset_calibrate_confirm">Appliquer les paramètres ?</string>
   <string name="headset_calibrate_hint">Veuillez appuyer sur le bouton supérieur</string>
   <string name="headset_calibrate_next_track">Titre suivant</string>
   <string name="headset_calibrate_prev_track">Titre précédent</string>
@@ -1260,7 +1260,8 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="msd_driver_download">Télécharger le pilote</string>
   <string name="msd_driver_mac_download">Aller sur http://miuiandroid.com/mac/ pour télécharger à partir de votre MAC</string>
   <string name="msd_driver_windows_xp_download">Aller sur http://miuiandroid.com/windows/ pour télécharger à partir de votre PC</string>
-  <string name="msd_help_summary">"Problèmes d'accès au stockage du mobile via un ordinateur ? Veuillez sélectionner le système d'exploitation de votre ordinateur : "</string>
+  <string name="msd_help_summary">"Problèmes d'accès au stockage de l'appareil via un ordinateur ? 
+ Sélectionnez votre système d'exploitation : "</string>
   <string name="msd_help_title">Aide</string>
   <string name="msd_install">Installer le pilote</string>
   <string name="msd_install_finish">OK</string>
@@ -2229,7 +2230,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="virus_scan_app_scan_finish">Analyse terminée !</string>
   <string name="virus_scan_app_scanning">Analyse de l\'application en cours…</string>
   <string name="virus_scan_app_stop_scan">Arrêter l\'analyse</string>
-  <string name="virus_scan_app_uninstall">Désinstallation du lot (%d)</string>
+  <string name="virus_scan_app_uninstall">Désinstaller %d</string>
   <string name="virus_scan_app_waiting">En attente…</string>
   <string name="virus_scanner_auto_update">Mise à jour automatique</string>
   <string name="virus_scanner_date_formater">dd MMM yyyy</string>
@@ -2624,7 +2625,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wps_connect_title">Se connecter en utilisant le WPS</string>
   <string name="xiaomi_account">Compte Xiaomi</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
-  <string name="xiaomi_money_service">Centre MiCredit</string>
+  <string name="xiaomi_money_service">MiCredit</string>
   <string name="yes">Oui</string>
   <string name="zone_auto">Fuseau horaire automatique</string>
   <string name="zone_auto_summaryOff">Utiliser le fuseau horaire fourni par le réseau</string>
@@ -4027,5 +4028,8 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="pref_category_title_cleanup_white_list">Trash clean-up white list</string>
   <string name="pref_title_cleanup_white_list">Trash clean-up white list</string>
   <string name="pref_summary_cleanup_white_list">Trash in white list will be ignore</string>
+  <string name="dialog_title_load_cleanup_engine_error">Error</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Garbage clean engine has been corrupted, the whole amount of the package or re-brush brush!</string>
+
   -->
 </resources>
