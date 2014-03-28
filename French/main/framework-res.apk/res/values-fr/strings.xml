@@ -259,7 +259,7 @@
     <string name="httpErrorFile">Impossible d\'accéder au fichier.</string>
     <string name="httpErrorFileNotFound">Impossible de trouver le fichier demandé.</string>
     <string name="httpErrorTooManyRequests">Trop de requêtes sont en cours de traitement. Veuillez réessayer ultérieurement.</string>
-    <string name="notification_title">Erreur de connexion au compte "%1$s\</string>
+    <string name="notification_title">Erreur de connexion au compte \"%1$s\"</string>
     <string name="contentServiceSync">Synchroniser</string>
     <string name="contentServiceSyncNotificationTitle">Synchronisation</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Trop de contenus supprimés (%s).</string>
@@ -614,13 +614,13 @@
     <string name="permdesc_subscribedFeedsWrite">Permet à l\'application de modifier les flux en cours de synchronisation. Des applications malveillantes peuvent exploiter cette fonctionnalité pour modifier vos flux synchronisés.</string>
     <string name="permlab_readDictionary">voir les termes ajoutés au dictionnaire</string>
     <string name="permdesc_readDictionary">Permet à l\'application d\'accéder aux mots, noms et expressions que l\'utilisateur a pu enregistrer dans son dictionnaire personnel.</string>
-    <string name="permlab_writeDictionary">enregistrer dans le dictionnaire défini par l\'utilisateur</string>
+    <string name="permlab_writeDictionary">ajouter des mots au dictionnaire personnel</string>
     <string name="permdesc_writeDictionary">Permet à l\'application d\'enregistrer de nouveaux mots dans le dictionnaire personnel de l\'utilisateur.</string>
     <string name="permlab_sdcardRead">tester l\'accès à la mémoire de stockage protégée</string>
     <string name="permdesc_sdcardRead">Permet à l\'application de tester une autorisation pour la mémoire de stockage USB qui sera ensuite proposée sur les futurs appareils.</string>
-    <string name="permlab_sdcardWrite">modifier ou supprimer le contenu de la mémoire USB</string>
+    <string name="permlab_sdcardWrite">modifier/supprimer le contenu de la carte SD</string>
     <string name="permdesc_sdcardWrite">Permet à l\'application de modifier le contenu de la mémoire de stockage USB.</string>
-    <string name="permlab_mediaStorageWrite">modifier/supprimer contenu mémoire interne</string>
+    <string name="permlab_mediaStorageWrite">modifier/supprimer le contenu de la mémoire interne</string>
     <string name="permdesc_mediaStorageWrite">Permet à l\'application de modifier le contenu de la mémoire de stockage multimédia interne.</string>
     <string name="permlab_cache_filesystem">accéder au système de fichiers en cache</string>
     <string name="permdesc_cache_filesystem">Permet à l\'application d\'obtenir des droits en lecture/écriture concernant le système de fichiers du cache.</string>
@@ -809,7 +809,7 @@ Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_not_system">L\'action FACTORY_TEST est uniquement prise en charge pour les paquets de données installés dans in/system/app.</string>
     <string name="factorytest_no_action">Impossible de trouver un paquet proposant l\'action FACTORY_TEST.</string>
     <string name="factorytest_reboot">Redémarrer</string>
-    <string name="js_dialog_title">La page "%s" indique :</string>
+    <string name="js_dialog_title">La page \"%s\" indique :</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">Voulez-vous quitter cette page ?
 
@@ -903,8 +903,8 @@ Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</
     <string name="replace">Remplacer…</string>
     <string name="delete">Supprimer</string>
     <string name="textSelectionCABTitle">Sélection de texte</string>
-    <string name="addToDictionary">ajouter au dictionnaire</string>
-    <string name="deleteText">supprimer</string>
+    <string name="addToDictionary">Ajouter au dictionnaire</string>
+    <string name="deleteText">Supprimer</string>
     <string name="inputMethod">Mode de saisie</string>
     <string name="editTextMenuTitle">Actions sur le texte</string>
     <string name="low_internal_storage_view_title">Espace de stockage bientôt saturé</string>
@@ -920,7 +920,7 @@ Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</
     <string name="noApplications">Aucune application ne peut effectuer cette action.</string>
     <string name="aerr_title" />
     <string name="aerr_application">"L'application \"%1$s\" s'est arrêtée."</string>
-    <string name="aerr_process">Malheureusement, le processus %1$s s\'est arrêté.</string>
+    <string name="aerr_process">Le processus %1$s s \'est interrompu.</string>
     <string name="anr_title" />
     <string name="anr_activity_application">L\'application %2$s ne répond pas.
 
@@ -1090,7 +1090,7 @@ en utilisant %s</string>
     <string name="deny">Refuser</string>
     <string name="permission_request_notification_title">Autorisation demandée</string>
     <string name="permission_request_notification_with_subtitle">Autorisation demandée
-pour le compte "%s"</string>
+pour le compte \"%s\"</string>
     <string name="input_method_binding_label">Mode de saisie</string>
     <string name="sync_binding_label">Synchronisation</string>
     <string name="accessibility_binding_label">Accessibilité</string>

@@ -183,7 +183,7 @@
     <string name="low_memory">"La mémoire du téléphone est pleine. Veuillez supprimer des fichiers pour libérer de l'espace."</string>
     <string name="me">Moi</string>
     <string name="power_dialog">Options du téléphone</string>
-    <string name="silent_mode">Mode silencieux</string>
+    <string name="silent_mode">Silencieux</string>
     <string name="turn_on_radio">Activer le mode sans fil</string>
     <string name="turn_off_radio">Désactiver le mode sans fil</string>
     <string name="screen_lock">"Verrouillage de l'écran"</string>
@@ -204,7 +204,7 @@
     <string name="global_action_bug_report">Rapport de bug</string>
     <string name="bugreport_title">Créer un rapport de bug</string>
     <string name="bugreport_message">"Cela permet de recueillir des informations concernant l'état actuel de votre appareil. Ces informations sont ensuite envoyées sous forme d'e-mail. Merci de patienter pendant la préparation du rapport de bug. Cette opération peut prendre quelques instants."</string>
-    <string name="global_action_toggle_silent_mode">Mode silencieux</string>
+    <string name="global_action_toggle_silent_mode">Silencieux</string>
     <string name="global_action_silent_mode_on_status">Le son est désactivé.</string>
     <string name="global_action_silent_mode_off_status">Le son est activé.</string>
     <string name="global_actions_toggle_airplane_mode">Mode Avion</string>
@@ -319,7 +319,7 @@
     <string name="permlab_enableCarMode">activer le mode voiture</string>
     <string name="permdesc_enableCarMode">"Permet à l'application d'activer le mode Voiture."</string>
     <string name="permlab_killBackgroundProcesses">fermer les autres applications</string>
-    <string name="permdesc_killBackgroundProcesses">"Permet à l'application de mettre fin aux processus d'autres applications exécutés en arrière-plan. Cette autorisation peut interrompre l'exécution d'autres applications."</string>
+    <string name="permdesc_killBackgroundProcesses">"Permet à l'application de mettre fin aux processus d'autres applications exécutées en arrière-plan. Cette autorisation peut interrompre l'exécution d'autres applications."</string>
     <string name="permlab_forceStopPackages">"forcer l'arrêt des autres applications"</string>
     <string name="permdesc_forceStopPackages">"Permet à l'application de forcer l'arrêt d'autres applications."</string>
     <string name="permlab_forceBack">"forcer la fermeture de l'application"</string>
@@ -388,7 +388,7 @@
     <string name="permdesc_bindRemoteViews">"Permet à l'application autorisée de s'associer à l'interface de plus haut niveau d'un service widget. Les applications standards ne doivent jamais avoir recours à cette fonctionnalité."</string>
     <string name="permlab_bindDeviceAdmin">"interagir avec l'administrateur du périphérique"</string>
     <string name="permdesc_bindDeviceAdmin">"Permet à l'application autorisée d'envoyer des intentions à l'administrateur de l'appareil. Les applications standards ne doivent jamais avoir recours à cette fonctionnalité."</string>
-    <string name="permlab_setOrientation">"Changement d'orientation de l'écran"</string>
+    <string name="permlab_setOrientation">changer l\'orientation de l\'écran</string>
     <string name="permdesc_setOrientation">"Permet à l'application de changer l'orientation de l'écran à tout moment. Les applications standards ne doivent jamais avoir recours à cette fonctionnalité."</string>
     <string name="permlab_setPointerSpeed">changer la vitesse du pointeur</string>
     <string name="permdesc_setPointerSpeed">"Permet à l'application de modifier à tout moment la vitesse du pointeur de la souris ou du pavé tactile. Les applications standards ne doivent jamais avoir recours à cette fonctionnalité."</string>
@@ -594,9 +594,9 @@
     <string name="permdesc_writeDictionary">"Permet à l'application d'enregistrer de nouveaux mots dans le dictionnaire personnel de l'utilisateur."</string>
     <string name="permlab_sdcardRead">"tester l'accès à la mémoire de stockage protégée"</string>
     <string name="permdesc_sdcardRead">"Permet à l'application de tester une autorisation pour la mémoire de stockage USB qui sera ensuite proposée sur les futurs appareils."</string>
-    <string name="permlab_sdcardWrite">modifier ou supprimer le contenu de la mémoire USB</string>
+    <string name="permlab_sdcardWrite">modifier/supprimer le contenu de la carte SD</string>
     <string name="permdesc_sdcardWrite">"Permet à l'application de modifier le contenu de la mémoire de stockage USB."</string>
-    <string name="permlab_mediaStorageWrite">modifier/Supprimer contenu mémoire interne</string>
+    <string name="permlab_mediaStorageWrite">modifier/supprimer le contenu de la mémoire interne</string>
     <string name="permdesc_mediaStorageWrite">"Permet à l'application de modifier le contenu de la mémoire de stockage multimédia interne."</string>
     <string name="permlab_sdcardAccessAll">accès stock. ext. tous utilis.</string>
     <string name="permdesc_sdcardAccessAll">"Permet à l'application d'accéder à la mémoire de stockage externe pour tous les utilisateurs."</string>
@@ -623,7 +623,7 @@
     <string name="policylab_setGlobalProxy">Définir le proxy global du mobile</string>
     <string name="policydesc_setGlobalProxy">"Indiquer le proxy global à utiliser pour ce mobile lorsque les règles sont activées. Seul l'administrateur principal du mobile peut définir le proxy global utilisé."</string>
     <string name="policylab_expirePassword">Définir exp. mot passe verr.</string>
-    <string name="policydesc_expirePassword">"Contrôler la fréquence de modification du mot de passe de verrouillage de l'écran"</string>
+    <string name="policydesc_expirePassword">"Contrôler la fréquence de modification du mot de passe de déverrouillage de l'écran"</string>
     <string name="policylab_encryptedStorage">Définir chiffrement du stockage</string>
     <string name="policydesc_encryptedStorage">"Exiger le chiffrement des données d'application stockées"</string>
     <string name="policylab_disableCamera">Désactiver les appareils photo</string>
@@ -973,13 +973,13 @@ Voulez-vous la fermer ?"</string>
     <string name="volume_icon_description_notification">Volume des notifications</string>
     <string name="ringtone_default">Sonnerie par défaut</string>
     <string name="ringtone_default_with_actual">Sonnerie par défaut (%1$s)</string>
-    <string name="ringtone_silent">Aucune</string>
+    <string name="ringtone_silent">Silencieux</string>
     <string name="ringtone_picker_title">Sonneries</string>
     <string name="ringtone_unknown">Sonnerie inconnue</string>
     <string name="wifi_available_sign_in">Connectez-vous au réseau Wi-Fi</string>
     <string name="network_available_sign_in">Se connecter au réseau</string>
     <string name="wifi_watchdog_network_disabled">Impossible de se connecter au Wi-Fi.</string>
-    <string name="wifi_watchdog_network_disabled_detailed">" dispose d'une mauvaise connexion Internet."</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" dispose d'une mauvaise connexion internet."</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">"Lancer le Wi-Fi Direct. Cela désactive le fonctionnement du Wi-Fi client ou via un point d'accès."</string>
     <string name="wifi_p2p_failed_message">"Impossible d'activer le Wi-Fi Direct."</string>
@@ -1187,7 +1187,7 @@ pour le compte \"%s\""</string>
     <string name="description_direction_right">Faites glisser vers la droite pour %s.</string>
     <string name="description_target_unlock">Déverrouiller</string>
     <string name="description_target_camera">Appareil photo</string>
-    <string name="description_target_silent">Mode silencieux</string>
+    <string name="description_target_silent">Silencieux</string>
     <string name="description_target_soundon">Son activé</string>
     <string name="description_target_search">Rechercher</string>
     <string name="description_target_unlock_tablet">"Faites glisser votre doigt pour déverrouiller l'appareil."</string>
@@ -1201,7 +1201,7 @@ pour le compte \"%s\""</string>
     <string name="storage_usb">Mémoire de stockage USB</string>
     <string name="extract_edit_menu_button">Modifier</string>
     <string name="data_usage_warning_title">Avertissement utilisation données</string>
-    <string name="data_usage_warning_body">Appuyez pour conso/paramètres</string>
+    <string name="data_usage_warning_body">Voir consommation/paramètres</string>
     <string name="data_usage_3g_limit_title">Données 2G-3G désactivées</string>
     <string name="data_usage_4g_limit_title">Données 4G désactivées</string>
     <string name="data_usage_mobile_limit_title">Données mobiles désactivées</string>
