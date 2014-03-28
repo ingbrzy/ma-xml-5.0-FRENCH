@@ -211,7 +211,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_network_flow_exceed">Aujourd\'hui: %1$s Dépassement: %2$s Limite: %3$s</string>
   <string name="status_bar_network_flow_today">Aujourd\'hui: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
-  <string name="status_bar_no_recent_apps">Aucune application récente.</string>
+  <string name="status_bar_no_recent_apps">Aucune application récente</string>
   <string name="status_bar_notification_inspect_item_title">Informations sur l\'application</string>
   <string name="status_bar_recent_guide_all">Glisser vers le haut pour fermer, glisser vers le bas pour verrouiller</string>
   <string name="status_bar_recent_guide_bottom">Glisser vers le bas pour verrouiller</string>
