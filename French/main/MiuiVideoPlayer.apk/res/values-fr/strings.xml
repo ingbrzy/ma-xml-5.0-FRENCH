@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="about_app_name">Lecteur vidéo</string>
+  <string name="about_developer_label">Développeur</string>
+  <string name="about_developer_name">XiaoMi digit</string>
+  <string name="about_title">À propos</string>
+  <string name="about_version_label">Version :</string>
+  <string name="adjust_position_next_media_notice">Suivant</string>
+  <string name="adjust_position_prev_media_notice">Précédent</string>
+  <string name="airkan_control_device_des">Vous pouvez contrôler la lecture vidéo via le bouton du bas</string>
+  <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+  <string name="airkan_tips">"Appuyez ici pour lancer
+la vidéo sur votre box ou TV"</string>
+  <string name="airkan_video_playing">Diffusion</string>
+  <string name="airkan_video_playing_in">La vidéo est en lecture…</string>
+  <string name="app_name">MiVideo</string>
+  <string name="buffering">Mise en mémoire tampon…</string>
+  <string name="episode_suffix">"Ep. %d "</string>
+  <string name="buffering_video_netplay_label_v5">Mise en mémoire tampon…</string>
+  <string name="loading_video_netplay_label">Chargement, veuillez patienter…</string>
+  <string name="loading_video_netplay_label_v5">Chargement du flux, veuillez patienter…</string>
+  <string name="menu_item_about_label">À propos</string>
+  <string name="menu_item_hide_media_info_label">Masquer les informations sur le média</string>
+  <string name="menu_item_media_info_label">Afficher les infos du média</string>
+  <string name="menu_item_orientation_auto_sensor_action">Activer la rotation</string>
+  <string name="menu_item_orientation_fixed_by_videosize_action">Désactiver la rotation</string>
+  <string name="menu_item_screen_shot">Capture d\'écran</string>
+  <string name="menu_item_sub_title">Sous titres</string>
+  <string name="menu_item_switch_width_height_label">Changer la proportion</string>
+  <string name="menu_wh_item_adapt_height_label">Ajuster la hauteur</string>
+  <string name="menu_wh_item_adapt_width_label">Ajuster la largeur</string>
+  <string name="menu_wh_item_auto_select_label">Sélection automatique</string>
+  <string name="menu_wh_item_full_screen_label">Plein écran</string>
+  <string name="menu_wh_item_using_16_9_label">Forcer 16:9</string>
+  <string name="menu_wh_item_using_4_3_label">Forcer 4:3</string>
+  <string name="nowifi_alert_dialog_continue">Continuer</string>
+  <string name="nowifi_alert_dialog_exit">Quitter</string>
+  <string name="nowifi_alert_dialog_message">Non connecté à un réseau Wi-Fi, utiliser le réseau mobile pour lire la vidéo ?</string>
+  <string name="nowifi_alert_dialog_title">Alerte trafic</string>
+  <string name="temp_play_history_button_label">Afficher l\'historique</string>
+  <string name="to_be_play_label_v5">" "</string>
+  <string name="toast_back_key_pressed_notice">Réappuyez sur la touche retour pour quitter.</string>
+  <string name="toast_message_continue_play_from">Continuer la lecture de</string>
+  <string name="toast_message_continue_play_hour">heures</string>
+  <string name="toast_message_continue_play_minute">min</string>
+  <string name="toast_message_continue_play_second_and_play">s</string>
+  <string name="top_status_local_media">Médias locaux</string>
+  <string name="top_status_online_media">Médias en ligne</string>
+  <string name="video_info_audio_bitrate_label">Débit audio :</string>
+  <string name="video_info_audio_coding_label">Format de codage audio :</string>
+  <string name="video_info_audio_null">Aucun</string>
+  <string name="video_info_frame_rate_label">Images par secondes :</string>
+  <string name="video_info_length_label">Durée :</string>
+  <string name="video_info_resolution_label">Résolution vidéo :</string>
+  <string name="video_info_video_coding_label">Format de codage vidéo :</string>
+  <string name="vp_VideoView_error_button">OK</string>
+  <string name="vp_VideoView_error_network_not_available">Réseau indisponible</string>
+  <string name="vp_VideoView_error_text_invalid_progressive_playback">Désolé, le format vidéo sélectionné n\'est pas valide pour la diffusion sur cet appareil</string>
+  <string name="vp_VideoView_error_text_unknown">Désolé, le format vidéo sélectionné ne peut pas être lu</string>
+  <string name="vp_VideoView_error_title">Erreur de lecture vidéo !</string>
+ <!-- remplacer améliorateur ? : -->
+  <string name="menu_item_enable_audio_enhance">"Activer l'améliorateur de son"</string>
+  <string name="menu_item_disable_audio_enhance">"Désactiver l'améliorateur de son"</string>
+  <string name="toast_message_set_misound">Veuillez configurer MiSound…</string>
+  <string name="menu_item_disable_3d_mode">Désactiver le mode 3D</string>
+  <string name="menu_item_enable_3d_mode">Activer le mode 3D</string>
+</resources>
