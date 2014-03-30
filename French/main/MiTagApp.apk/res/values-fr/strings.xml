@@ -10,9 +10,9 @@
   <string name="alarm_summary_24h">kk:mm</string>
   <string name="alarm_time">Heure de l\'alarme</string>
   <string name="alarm_value">Alarme %s%%</string>
-  <string name="app">Start app</string>
-  <string name="app_center">App center</string>
-  <string name="app_name">PonPonTile</string>
+  <string name="app">Démarrer l\'appli</string>
+  <string name="app_center">Applications</string>
+  <string name="app_name">MiTag</string>
   <string name="auto_brightness">Luminosité auto</string>
   <string name="auto_brightness_on_off">Luminosité auto %s</string>
   <string name="available_networks">Réseaux disponibles</string>
@@ -125,7 +125,7 @@ toucher le avec le dos de votre téléphone"</string>
   <string name="pwd_prot_on">ON</string>
   <string name="read_a_tag">Lire un tag</string>
   <string name="reading">Lecture…</string>
-  <string name="remote_app">En attente de téléchargement…</string>
+  <string name="remote_app">Téléchargement…</string>
   <string name="remove_alert">Supprimer les tâches sélectionnées ?</string>
   <string name="ringer_mode">Ring mode</string>
   <string name="ringer_normal">Ring</string>
@@ -158,7 +158,8 @@ toucher le avec le dos de votre téléphone"</string>
   <string name="sound_notification">Notifications</string>
   <string name="sound_ringer">Sonnerie</string>
   <string name="sound_voice">Volume d\'appel</string>
-  <string name="start_configuration">Configure tag</string>
+ <!--  start_configuration á vérif -->
+  <string name="start_configuration"/>
   <string name="sure_to_delete_user_config">Supprimer cette tâche ?</string>
   <string name="tag_history">Historique</string>
   <string name="tag_history_date_format">d/M</string>
@@ -172,8 +173,8 @@ toucher le avec le dos de votre téléphone"</string>
 toucher le dos de votre téléphone avec un autre tag."</string>
   <string name="touch_and_write_more">"Pour écrire une autre copie,
 toucher le dos de votre téléphone avec un autre tag.""</string>
-  <string name="unavailable_net">"Échec de l'installation : Impossible de se connecter à un réseau"</string>
-  <string name="unavailable_storage">"Échec de l'installation : Impossible d'utiliser la carte SD"</string>
+  <string name="unavailable_net">"Échec de l'installation : impossible de se connecter à un réseau"</string>
+  <string name="unavailable_storage">"Échec de l'installation : impossible d'utiliser la carte SD"</string>
   <string name="unrecognized_tag">Contenu du tag non reconnu</string>
   <string name="update_config">Modifier les tâches</string>
   <string name="user_configs">Mes tâches</string>
@@ -188,7 +189,7 @@ toucher le dos de votre téléphone avec un autre tag.""</string>
   <string name="wireless_network">Sans fil &amp; réseaux</string>
   <string name="write_a_tag">Écrire un tag</string>
   <string name="write_success">Écriture terminée</string>
-  <string name="write_tag">Écrire le tag</string>
+  <string name="write_tag">Écrire</string>
   <string name="xiaomi_bytes_unit">%1$s o</string>
   <string name="xiaomi_external_storage_unavailable">Stockage indisponible, veuillez vérifier la carte SD.</string>
   <string name="xiaomi_kilobytes_unit">%1$s Ko</string>
@@ -198,8 +199,6 @@ Taille : %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Version %1$s disponible
 Taille delta patch : %2$s"</string>
   <string name="xiaomi_update_dialog_title">Mise à jour %1$s !</string>
-  <!-- à traduire
-  <string name="write_pon_pon_tile">Write tag</string>
-  <string name="share_wifi">Share Wi-Fi</string>
- -->
+  <string name="write_pon_pon_tile">Écrire</string>
+  <string name="share_wifi">Partage Wi-Fi</string>
 </resources>

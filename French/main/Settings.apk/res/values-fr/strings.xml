@@ -3415,9 +3415,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_center_consume_time">%1$s restants</string>
   <string name="power_center_custom_summary_default">Optimise les réglages, économise la batterie</string>
   <string name="power_center_custom_title">Économiser la batterie</string>
-  <string name="power_center_low_battery_summary_default">"Basculer de mode lorsque le niveau de
- charge de la batterie est faible"</string>
-  <string name="power_center_low_battery_summary_dynamic">Quand la batterie restante est inférieure \nà %1$d%% basculer vers %2$s</string>
+  <string name="power_center_low_battery_summary_default">Basculer de mode lorsque le niveau de\ncharge de la batterie est faible</string>
+  <string name="power_center_low_battery_summary_dynamic">Quand la batterie restante est inférieure\nà %1$d%% basculer vers %2$s</string>
   <string name="power_center_low_battery_title">Basculer automatiquement</string>
   <string name="power_center_on_time_summary_default">Basculer de mode à une heure planifiée</string>
   <string name="power_center_on_time_summary_dynamic">De %1$s à %2$s basculer vers %3$s</string>
@@ -3466,9 +3465,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_dialog_cpu_state_save_desc">Autonomie de la batterie prioritaire sur les performances</string>
   <string name="power_dialog_cpu_state_title">Usage CPU</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">Impossible de supprimer : vous êtes en train d\'utiliser ce profil.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Impossible de supprimer : votre appareil est réglé pour passer à ce profil lorsque la batterie est faible, 
+  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Impossible de supprimer : votre appareil est réglé pour passer à ce profil lorsque la batterie est faible,
  Vous devez modifier cette configuration avant de pouvoir supprimer ce profil."</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Impossible de supprimer : votre appareil est programmé  pour passer à ce profil, 
+  <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Impossible de supprimer : votre appareil est programmé pour passer à ce profil,
  Vous devez modifier cette configuration avant de pouvoir supprimer ce profil."</string>
   <string name="power_dialog_delete_dialog_delete">Supprimer le profil personnalisé et les réglages associés ? Vous ne pourrez pas annuler cette action !</string>
   <string name="power_dialog_delete_dialog_title">Supprimer le profil perso.</string>
@@ -4002,7 +4001,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="power_apply_toast">Basculement en mode %s et sauvegarde de vos paramètres actuels</string>
   <string name="power_customize_giveup_change">Annuler les changements ?</string>
   <string name="pref_category_title_securitycenter_settings">Paramètres du centre de sécurité</string>
-  <string name="pref_category_title_module_settings">Paramètres des modules</string> 
+  <string name="pref_category_title_module_settings">Paramètres des modules</string>
   <string name="Settings_title_garbage_cleanup">Paramètres de nettoyage</string>
   <string name="Settings_title_network_assistants">Paramètres du moniteur réseaux</string>
   <string name="Settings_title_anti_spam">Paramètres anti-spam</string>
