@@ -97,8 +97,6 @@ Hors limite"</string>
     <string name="traffic_setting_fragment_sms_content_tips">Écrivez votre message ici</string>
     <string name="traffic_setting_fragment_null">Vide</string>
     <string name="pref_category_title_other">Paramètres avancés</string>
-	
- <!-- à traduire 
     <string name="pref_connect_settings_exceed_limit_hint">Interrompre la connexion au réseau mobile lorsque le pic d\'usage des données a atteint la limite prédéfinie</string>
     <string name="pref_connect_settings_exceed_limit">Restreindre le pic d\'usage des données</string>
     <string name="pref_free_traffic_exceed_limit">Prévenir lorsque l\'usage des données a atteint la limite prédéfinie</string>
@@ -148,12 +146,12 @@ Hors limite"</string>
     <string name="power_save_on_time_start_time_summary">De</string>
     <string name="power_save_on_time_end_time_summary">à</string>
     <string name="manual_input_traffic">Définir l\'usage de données</string>
-    <string name="manual_input_free_traffic">Définir le creux d'usage des données</string>
+    <string name="manual_input_free_traffic">Définir le creux d\'usage des données</string>
     <string name="declaration_dialog_msg">Cette option peut vous aider à suivre votre consommation, il n\'est pas garanti d'éviter des frais supplémentaires. Pour de meilleurs résultats, fixer une limite.</string>
     <string name="input_used_hint">Entrez l\'usage de données</string>
     <string name="settings">Paramètres d\'usage des données</string>
     <string name="adjust_traffic_data">Définir l\'usage de données</string>
-    <string name="per_month_pkg_traffic_settings"Définir la limite d\'usage des données</string>
+    <string name="per_month_pkg_traffic_settings">Définir la limite d\'usage des données</string>
     <string name="free_time_traffic_settings">Paramètres du creux d\'usage des données</string>
     <string name="data_usage_warning_title">Alerte d\'usage des données</string>
     <string name="data_usage_warning_body">Appuyer pour afficher les détails d\'usage des données</string>
@@ -162,6 +160,7 @@ Hors limite"</string>
     <string name="data_usage_disabled_dialog">"Vous avez atteint votre limite d\'usage de données. 
 
 Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais supplémentaires."</string>
+ <!-- à traduire 
     <string name="data_usage_disabled_dialog_enable">Enable data</string>
     <string name="data_usage_mobile_limit_snoozed_title">Data usage limit exceeded</string>
     <string name="data_usage_limit_snoozed_body">"You've exceeded your data usage limit"</string>
@@ -171,8 +170,10 @@ Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
     <string name="data_usage_leisure_warning_body">Touch to view data usage details</string>
     <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
     <string name="data_usage_correction_timeout_body">Touch to update manually</string>
+ -->
     <string name="data_usage_no_total_package_title">Moniteur de données</string>
     <string name="data_usage_no_total_package_body">Définir une limite d\'usage des données ?</string>
+ <!-- à traduire 
     <string name="data_usage_no_total_package_body_dual">Do you want to set a data usage limit for %s?</string>
     <string name="network_assistant_upgraded_title">Update finished</string>
     <string name="network_assistant_upgraded_body">Tap to restrict data usage</string>
