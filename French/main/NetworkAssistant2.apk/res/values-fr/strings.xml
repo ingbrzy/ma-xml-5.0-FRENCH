@@ -15,6 +15,8 @@
 Utilisés"</string>
     <string name="main_traffic_remian_text">"%s
 Restants"</string>
+    <string name="main_traffic_overlimit_text">"%s
+Hors limite"</string>
     <string name="main_toolbar_firewall">Pare-feu</string>
     <string name="main_toolbar_statistic">Statistiques</string>
     <string name="main_toolbar_purchase">Achats</string>
@@ -43,9 +45,8 @@ Restants"</string>
     <string name="main_button_normal_traffic">Pic</string>
     <string name="main_button_idel_traffic">Creux</string>
     <string name="main_button_usage_adjusting">Changement…</string>
-    <string name="main_button_usage_adjust_manual">Définir l\'usage de données</string>
-    <string name="main_button_usage_package_setting">Définir l\'usage de données</string>
-    <string name="main_traffic_overlimit_text">%s dépassé</string>
+    <string name="main_button_usage_adjust_manual">Ajuster l\'usage de données</string>
+    <string name="main_button_usage_package_setting">Définir le quota de données</string>
     <string name="main_traffic_used_only">Utilisé : %s</string>
     <string name="main_alert_message_no_mobile_package">Limite de données mobiles non définie</string>
     <string name="main_alert_message_no_imsi">Aucune carte SIM détectée</string>
@@ -58,10 +59,10 @@ Restants"</string>
     <string name="force_stop_dlg_title">Restreindre les données en arrière-plan</string>
     <string name="force_stop_dlg_text">"Si vous restreignez les données mobiles en arrière-plan, certaines applications et services ne fonctionneront uniquement si vous êtes connecté à un réseau Wi-Fi"</string>
     <string name="pref_about_traffic_title">Paramètres d\'utilisation des données</string>
-    <string name="pref_package_traffic_normal">Pic : %s</string>
+    <string name="pref_package_traffic_normal">Limite : %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Additionnel : %2$s</string>
     <string name="pref_package_traffic_leisure">%1$s | Creux : %2$s</string>
-    <string name="pref_package_traffic_settings">Limite données mobiles</string>
+    <string name="pref_package_traffic_settings">Quota de données mobiles</string>
     <string name="pref_adjust_traffic_data">Définir l\'usage des données</string>
     <string name="pref_about">À propos</string>
     <string name="pref_version">Version %s</string>
@@ -108,8 +109,8 @@ Restants"</string>
     <string name="pref_connect_settings_enable_background_hint">"Allow apps to use mobile data when you're not using them"</string>
     <string name="pref_title_network_diagnostics">Network diagnostic</string>
     <string name="pref_check_network_diagnostics">Check if your data connection is functioning normally</string>
-    <string name="pref_title_update_notification">Show network speed</string>
-    <string name="pref_title_traffic_speed_state">Show network speed in status bar</string>
+    <string name="pref_title_update_notification">Show data usage notifications</string>
+    <string name="pref_title_traffic_speed_state">Afficher la vitesse de transfert</string>
     <string name="pref_show_mobile_traffic">When you unlock you phone, show data usage stats for the period when your device has been locked (must be longer than 3 minutes)</string>
     <string name="pref_title_mobile_traffic">Show data usage while locked</string>
     <string name="pref_title_declaration">Important disclaimer</string>
@@ -124,14 +125,14 @@ Restants"</string>
     <string name="pref_auto_adjust_settings">Auto-sync data usage stats settings</string>
     <string name="pref_adjust_data_usage">Carrier message template</string>
     <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
-    <string name="pref_avaible_traffic">Wireless plan</string>
-    <string name="pref_daily_traffic">Peak data limit</string>
+    <string name="pref_avaible_traffic">Forfait mobile</string>
+    <string name="pref_daily_traffic">Quota de données</string>
     <string name="pref_data_usage_not_set">Set data usage limit</string>
-    <string name="pref_warning_values">Data usage warning level</string>
+    <string name="pref_warning_values">Alerte d\usage des données</string>
     <string name="pref_pkg_begin_date">Usage cycle reset date</string>
     <string name="pref_month_first_day">First day of the month</string>
     <string name="pref_month_begin_date">Usage cycle reset date</string>
-    <string name="pref_more_traffic_settings">Additional settings</string>
+    <string name="pref_more_traffic_settings">Paramètres avancés</string>
     <string name="pref_add_traffic_pkg">Additionally purchased data</string>
     <string name="pref_free_traffic_settings">Off-peak data usage settings</string>
     <string name="pref_specified_traffic_settings">Data limit settings</string>
@@ -144,8 +145,8 @@ Restants"</string>
     <string name="pkg_traffic">Set data usage limit</string>
     <string name="free_traffic_settings">Off-peak data usage settings</string>
     <string name="free_time_traffic">Off-peak data limit</string>
-    <string name="power_save_on_time_start_time_summary">From</string>
-    <string name="power_save_on_time_end_time_summary">To</string>
+    <string name="power_save_on_time_start_time_summary">De</string>
+    <string name="power_save_on_time_end_time_summary">à</string>
     <string name="manual_input_traffic">Set data usage</string>
     <string name="manual_input_free_traffic">Set off-peak data usage</string>
     <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
@@ -170,8 +171,8 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
     <string name="data_usage_leisure_warning_body">Touch to view data usage details</string>
     <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
     <string name="data_usage_correction_timeout_body">Touch to update manually</string>
-    <string name="data_usage_no_total_package_title">Data usage</string>
-    <string name="data_usage_no_total_package_body">Do you want to set a data usage limit?</string>
+    <string name="data_usage_no_total_package_title">Moniteur de données</string>
+    <string name="data_usage_no_total_package_body">Définir une limite d\'usage des données ?</string>
     <string name="data_usage_no_total_package_body_dual">Do you want to set a data usage limit for %s?</string>
     <string name="network_assistant_upgraded_title">Update finished</string>
     <string name="network_assistant_upgraded_body">Tap to restrict data usage</string>
