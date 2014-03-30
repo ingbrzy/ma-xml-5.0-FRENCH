@@ -172,8 +172,8 @@ toucher le avec le dos de votre téléphone"</string>
 toucher le dos de votre téléphone avec un autre tag."</string>
   <string name="touch_and_write_more">"Pour écrire une autre copie,
 toucher le dos de votre téléphone avec un autre tag.""</string>
-  <string name="unavailable_net">Échec de l'installation : Impossible de se connecter à un réseau</string>
-  <string name="unavailable_storage">Échec de l'installation : Impossible d\'utiliser la carte SD</string>
+  <string name="unavailable_net">"Échec de l'installation : Impossible de se connecter à un réseau"</string>
+  <string name="unavailable_storage">"Échec de l'installation : Impossible d'utiliser la carte SD"</string>
   <string name="unrecognized_tag">Contenu du tag non reconnu</string>
   <string name="update_config">Modifier les tâches</string>
   <string name="user_configs">Mes tâches</string>
