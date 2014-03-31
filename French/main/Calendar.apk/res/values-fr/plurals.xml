@@ -17,7 +17,7 @@
         <item quantity="one">1 jour</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">%d semaines</item>
+        <item quantity="other">%de semaine</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
