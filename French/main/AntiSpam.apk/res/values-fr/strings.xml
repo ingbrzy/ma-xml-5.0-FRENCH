@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Anti-Spam</string>
-  <string name="bl_block_info" formatted="false">Bloqué(s) : %d appel(s), %d message(s)</string>
+  <string name="bl_block_info" formatted="false">Bloqué(s) : %d appel(s), %d SMS</string>
   <string name="bl_no_blacklist">Aucun numéro bloqué</string>
   <string name="bl_no_block_call">Aucun appel bloqué</string>
-  <string name="bl_no_block_sms">Aucun message bloqué</string>
+  <string name="bl_no_block_sms">Aucun SMS bloqué</string>
   <string name="dlg_add_blacklist">Ajouter le numéro à la liste noire ?</string>
   <string name="dlg_add_keyword">Ajouter des mots clés</string>
   <string name="dlg_add_manual_hint">Saisir un numéro de téléphone</string>
@@ -31,7 +31,7 @@
   <string name="dlg_retore_ok">Restaurer</string>
   <!-- fw_blocked à vérifier  ? : <string name="fw_blocked">Blocked:</string> -->
   <string name="fw_blocked">Statistiques de blocage</string>
-  <string name="fw_blocked_count" formatted="false">Bloqué(s) : %d appel(s) et %d message(s)</string>
+  <string name="fw_blocked_count" formatted="false">Bloqué(s) : %d appel(s) et %d SMS</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">"%d personnes l\'ont marqué comme "</string>
   <string name="marked_by_user">"Vous l\'avez marqué comme "</string>
@@ -54,7 +54,7 @@
   <string name="menu_no_block">Ne pas bloquer</string>
   <string name="menu_remove">Retirer</string>
   <string name="menu_restore">Restaurer vers l\'application de messagerie</string>
-  <string name="menu_sms">Envoyer un message</string>
+  <string name="menu_sms">Envoyer un SMS</string>
   <string name="st_advanced_setting_group">Paramètres avancés</string>
   <string name="st_block_all">Bloquer les appels et SMS</string>
   <string name="st_block_mute">Bloquer les appels et couper le son des SMS</string>
