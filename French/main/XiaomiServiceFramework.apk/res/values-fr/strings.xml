@@ -120,7 +120,7 @@
   <string name="logout_failed">Échec de la déconnexion</string>
   <string name="login_instead_reg">Connexion avec ce numéro de téléphone</string>
   <string name="login_notice">Connexion…</string>
-  <string name="master_alert_notif_dspt" formatted="false">"Durant cette période, ont été ajoutés : %s contacts téléphoniques, % SMS, %s photos, %s notes et d\'autres données. 
+  <string name="master_alert_notif_dspt" formatted="false">"Durant cette période, ont été ajoutés : %s contacts téléphoniques, %s SMS, %s photos, %s notes et d\'autres données. 
 
  Si votre téléphone est perdu ou cassé, ces données seront définitivement perdues. Il est recommandé de rétablir la synchronisation afin d\'assurer la sécurité des données"</string>
   <string name="master_alert_notif_title">Les données n\'ont pas été synchronisées depuis %s jours</string>
@@ -199,7 +199,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
   <string name="send_sms_for_sync_title">Service de synchronisation non activé</string>
   <string name="service_error">Erreur de service</string>
-  <string name="show_password">Afficher le mot de passe</string>
+  <string name="show_password">Afficher le MDP</string>
   <string name="sim_changed_notification_content">Carte SIM non activée.</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Ignorer la connexion</string>
@@ -224,7 +224,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="update_contacts_description">Met à jour vos contacts téléphoniques et d\'autres informations</string>
   <string name="updated_contacts">%s contacts mis à jour</string>
   <string name="updated_nothing">Rien à synchroniser.</string>
-  <string name="user_agreement_p1">En vous connectant, vous acceptez les</string>
+  <string name="user_agreement_p1">"En vous connectant, vous acceptez les "</string>
   <string name="user_agreement_p2">Conditions d\'utilisation de Xiaomi</string>
   <string name="user_agreement_p3"> et </string>
   <string name="user_agreement_p4">Règles de confidentialité</string>

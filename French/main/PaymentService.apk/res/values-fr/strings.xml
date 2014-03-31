@@ -137,7 +137,7 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
 You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3$s"</string>
  <!-- -->
   
-  <string name="label_balance">Solde :</string>
+  <string name="label_balance">"Solde : "</string>
   <string name="label_order_name">"Nom du produit : "</string>
   <string name="label_order_price">"Quantité : "</string>
   <string name="lockpassword_choose_your_pattern_header">Choisissez votre schéma</string>

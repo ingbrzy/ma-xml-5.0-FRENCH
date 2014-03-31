@@ -3429,7 +3429,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_chooser_mine_summary">Sauvegarde les paramètres système d\'origine</string>
   <string name="power_chooser_mine_title">Personnalisé</string>
   <string name="power_chooser_sleep_summary">Désactive toutes les fonctions (téléphone, messages, internet) à l\'exception du réveil</string>
-  <string name="power_chooser_sleep_title">Veille</string>
+  <string name="power_chooser_sleep_title">>Mode veille</string>
   <string name="power_chooser_smart_summary">Sauvegarde les paramètres actuels, vide les processus quand verrouillé</string>
   <string name="power_chooser_smart_title">Mode par défaut</string>
   <string name="power_chooser_standby_summary">Désactive les fonctions Internet</string>

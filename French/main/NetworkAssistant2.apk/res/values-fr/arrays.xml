@@ -7,9 +7,9 @@
         <item>Go</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Hier</item>
-        <item>Aujourd\'hui</item>
-        <item>Ce mois</item>
+        <item>"Hier "</item>
+        <item>"Aujourd\'hui "</item>
+        <item>"Ce mois "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Hier (mobile)</item>

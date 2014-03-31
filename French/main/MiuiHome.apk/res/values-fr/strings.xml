@@ -177,8 +177,8 @@
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="title_select_live_folder">Choix du dossier</string>
   <string name="title_select_shortcut">Sélectionner un raccourci</string>
-  <string name="toggle_select_title">Choix de l\'interrupteur</string>
-  <string name="toggle_title">Interrupteurs</string>
+  <string name="toggle_select_title">Choix du commutateur</string>
+  <string name="toggle_title">Commutateurs</string>
   <string name="transformation_type_classic">Classique</string>
   <string name="transformation_type_classic_no_overshoot">Sans rebond</string>
   <string name="transformation_type_crossfade">Fondu enchaîné</string>
