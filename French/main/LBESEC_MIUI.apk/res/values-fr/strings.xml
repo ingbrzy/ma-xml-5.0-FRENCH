@@ -188,7 +188,7 @@
   <string name="HIPS_Perm_Bluetooth_Connectivity">Activer le Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Activer le Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s applis peuvent utiliser le Bluetooth</string>
-  <string name="HIPS_Perm_MMS">Enregistrement des MMS</string>
+  <string name="HIPS_Perm_MMS">MMS</string>
   <string name="HIPS_Perm_MMS_Access">Lire les contenus MMS</string>
   <string name="HIPS_Perm_MMS_Desc">Accéder à vos MMS</string>
   <string name="HIPS_Perm_MMS_Hint">%1$s applis peuvent accéder à vos MMS</string>

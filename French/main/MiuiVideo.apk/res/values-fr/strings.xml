@@ -303,6 +303,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="offline_media_more">Cahce more</string>
   <string name="media_source_unavailable">Source is unavailable</string>
   <string name="download_add_success">Add download task success</string>
+  <string name="download_delete">remove task</string>
   <string name="download_is_in_tasklist">Has been in caching list</string>
   <string name="download_is_success">Has been cached</string>
   <string name="download_file_fail">Local file access failed, maybe there is no space on SD card</string>

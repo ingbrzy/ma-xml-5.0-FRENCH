@@ -74,7 +74,7 @@
   <string name="auto_answer_scenario_enteries_headset_only_miui">Casque uniquement</string>
   <string name="auto_answer_scenario_title_miui">Scénario pour le décrochage auto</string>
   <string name="auto_answer_setting_title_miui">Réglages de réponse automatique</string>
-  <string name="auto_answer_summary_delay">(délai : %ss)</string>
+  <string name="auto_answer_summary_delay">" (délai : %ss)"</string>
   <string name="auto_answer_summary_not_enabled">Inactif</string>
   <string name="auto_country_code_miui">Ajout automatique du code pays</string>
   <string name="auto_country_code_sum_miui">Ajouter automatiquement le code du pays avant de composer les contacts connus</string>
@@ -297,7 +297,7 @@
   <string name="crystaltalk_title_miui">Paramètre du Multiplexage audio à compression quasi-instantanée</string>
   <string name="current_areacode_miui">Code de zone actuel</string>
   <string name="current_areacode_sum_miui">Indicatif régional de l\'emplacement actuel, ou indicatif régional d\'itinérance si vous êtes en itinérance. Par exemple : 010</string>
-  <string name="current_areacode_sum_set_miui">Emplacement de l\'indicatif régional actuel : %s</string>
+  <string name="current_areacode_sum_set_miui">Indicatif régional actuel : %s</string>
   <string name="cursorError">Erreur de curseur</string>
   <string name="custom_location_location_hint_miui">Nom</string>
   <string name="custom_location_location_no_item_miui">"Appuyez sur "Ajouter" ci-dessous pour ajouter l'attribution personnalisée"</string>

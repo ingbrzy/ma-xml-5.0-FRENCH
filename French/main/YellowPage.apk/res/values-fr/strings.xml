@@ -20,8 +20,17 @@
   <string name="locating_fail">Échec de localisation, veuillez vérifier vos paramètres de localisation ou réessayer</string>
   <string name="no_more_result">Aucun autre résultat</string>
   
-   <string name="downloading">Téléchargement…</string>
-   <string name="download_completed">Téléchargement terminé !</string>
+  <string name="downloading">Téléchargement…</string>
+  <string name="download_completed">Téléchargement terminé ! Chemin d'accès : %s</string>
+  <string name="download_failed">Échec du téléchargement</string>
+  <string name="download_failed_storage">Échec du téléchargement, veuillez vérifier votre carte SD</string>
+  <string name="download_failed_network">Échec du téléchargement, veuillez vérifier vos paramètres réseaux</string>
+  <string name="download_failed_gone">Échec du téléchargement, fichier introuvable</string>
+  <string name="download_failed_server">Échec du téléchargement, veuillez réessayer plus tard</string>
+  <string name="download_failed_cannot_resume">Échec du téléchargement, veuillez réessayer plus tard</string>
+  <string name="download_failed_file_exists">Fichier déjà existant</string>
+  <string name="download_failed_space">Échec du téléchargement, espace de stockage insuffisant</string>
+  <string name="download_failed_blocked">Échec du téléchargement, impossible de se connecter au réseau</string>
 
   <!-- YellowPage related -->
   <string name="yellow_page_detail_title">À propos</string>
