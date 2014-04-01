@@ -747,8 +747,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="preference_smart_group_location_summary">Regroupés en fonction de l\'indicatif régional</string>
   <string name="preference_smart_group_location_title">Par emplacement</string>
   <string name="preference_smart_group_title">Regroupement intelligent</string>
-  <string name="preference_telocation_summary_countrycode_off">Ne pas ajouter automatiquement l\'indicatif du pays</string>
-  <string name="preference_telocation_summary_countrycode_on">Ajouter automatiquement l\'indicatif du pays</string>
+  <string name="preference_telocation_summary_countrycode_off">ne pas ajouter automatiquement l\'indicatif du pays</string>
+  <string name="preference_telocation_summary_countrycode_on">ajouter automatiquement l\'indicatif du pays</string>
   <string name="preference_telocation_summary_teloc_off">Masquer la position</string>
   <string name="preference_telocation_summary_teloc_on">Afficher la position</string>
   <string name="preference_telocation_title">Localisation</string>
@@ -873,7 +873,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restants, veuillez les acheter individuellement.</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
-  <string name="resource_price_unit">MiCredits</string>
+  <string name="resource_price_unit">" MiCredits"</string>
   <string name="resource_ranking">Populaire</string>
   <string name="resource_ranking_free">Gratuit</string>
   <string name="resource_ranking_purchase">Payant</string>

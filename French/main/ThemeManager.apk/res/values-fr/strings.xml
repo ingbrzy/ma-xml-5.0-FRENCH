@@ -127,7 +127,7 @@
   <string name="resource_preview">Aperçu</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
-  <string name="resource_price_unit">MiCredits</string>
+  <string name="resource_price_unit">" MiCredits"</string>
   <string name="resource_ranking">Populaire</string>
   <string name="resource_ranking_free">Gratuit</string>
   <string name="resource_ranking_purchase">Payant</string>
