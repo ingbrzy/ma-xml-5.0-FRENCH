@@ -171,7 +171,7 @@
   <string name="express_view_order">Voir les commandes</string>
   <string name="express_go_back">Retour</string>
   <string name="express_address_delete_warning">Êtes-vous sûr ?</string>
-  <string name="express_sender_name">Nom de l'expéditeur</string>
+  <string name="express_sender_name">Nom de l\'expéditeur</string>
   <string name="express_addressee_name">Adresse</string>
   <string name="express_phone">Téléphone</string>
   <string name="express_detailed_address">Adresse</string>
