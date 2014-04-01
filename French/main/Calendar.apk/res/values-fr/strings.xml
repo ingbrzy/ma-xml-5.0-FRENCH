@@ -230,8 +230,11 @@
   <string name="tab_online">En ligne</string>
   <string name="huangli_label">Huang Li</string>
   <string name="holiday_label">Fête</string>
-
- <!-- à traduire
+  <string name="pref_title_no_remind">Aucun rappel</string>
+  <string name="pref_title_notification_remind">Notification de rappel</string>
+  <string name="pref_title_alert_remind">Pop-up de rappel</string>
+  
+ <!-- à traduire, affiché uniquement si téléphone en chinois ?
   <string name="online_calendar_activity_label">订阅日历</string>
   <string name="add_calendar">订阅</string>
   <string name="exist_calendar">已订阅</string>
@@ -247,8 +250,5 @@
   <string name="today_weather_unavailable">无法获取天气信息</string>
   <string name="subscribe_all">全部订阅</string>
   <string name="enter_calendar">进入日历</string>
-  <string name="pref_title_no_remind">No reminder</string>
-  <string name="pref_title_notification_remind">Notification reminder</string>
-  <string name="pref_title_alert_remind">Pop-up reminder</string>
  -->
 </resources>

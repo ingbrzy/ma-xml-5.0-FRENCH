@@ -160,26 +160,27 @@ Hors limite"</string>
     <string name="data_usage_disabled_dialog">"Vous avez atteint votre limite d\'usage de données. 
 
 Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais supplémentaires."</string>
+
+    <string name="data_usage_disabled_dialog_enable">Activer les données</string>
+    <string name="data_usage_mobile_limit_snoozed_title">Limite d\'usage de données dépassée</string>
+    <string name="data_usage_limit_snoozed_body">Vous avez dépasser votre limite d\'usage de données</string>
+    <string name="data_usage_restricted_title">Données en arrière-plan désactivées</string>
+    <string name="data_usage_restricted_body">Appuyer pour activer les données en arrière plan</string>
  <!-- à traduire 
-    <string name="data_usage_disabled_dialog_enable">Enable data</string>
-    <string name="data_usage_mobile_limit_snoozed_title">Data usage limit exceeded</string>
-    <string name="data_usage_limit_snoozed_body">"You've exceeded your data usage limit"</string>
-    <string name="data_usage_restricted_title">Background data restricted</string>
-    <string name="data_usage_restricted_body">Touch to enable background data</string>
     <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
-    <string name="data_usage_leisure_warning_body">Touch to view data usage details</string>
-    <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
-    <string name="data_usage_correction_timeout_body">Touch to update manually</string>
  -->
+    <string name="data_usage_leisure_warning_body">Appuyer pour afficher les détails d\'usage des données</string>
+    <string name="data_usage_correction_timeout_title">Temps d\'attente de synchronisation dépassé</string>
+    <string name="data_usage_correction_timeout_body">Appuyer pour mettre à jour manuellement</string>
     <string name="data_usage_no_total_package_title">Moniteur de données</string>
     <string name="data_usage_no_total_package_body">Définir une limite d\'usage des données ?</string>
+    <string name="data_usage_no_total_package_body_dual">Voulez-vous définir une limite pour %s ?</string>
+    <string name="network_assistant_upgraded_title">Mise à jour terminée</string>
+    <string name="network_assistant_upgraded_body">Appuyer pour limiter l\'usage des données</string>
+    <string name="lock_screen_traffic_warn_title">Alerte d\'usage des données</string>
+    <string name="notification_title">%1$s-%2$s : %3$s utilisés</string>
+    <string name="notification_content_title">%1$s utilisés en veille</string>
  <!-- à traduire 
-    <string name="data_usage_no_total_package_body_dual">Do you want to set a data usage limit for %s?</string>
-    <string name="network_assistant_upgraded_title">Update finished</string>
-    <string name="network_assistant_upgraded_body">Tap to restrict data usage</string>
-    <string name="lock_screen_traffic_warn_title">Data usage warning</string>
-    <string name="notification_title">%1$s-%2$s: about %3$s used</string>
-    <string name="notification_content_title">Used %1$s while locked</string>
     <string name="free_time_traffic_title">Enter off-peak data limit</string>
     <string name="free_time_traffic_hint">Enter off-peak data limit</string>
  -->

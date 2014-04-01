@@ -4009,26 +4009,28 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="Settings_title_anti_virus">Paramètres anti-virus</string>
   <string name="garbage_white_list_empty_content">Liste blanche vide</string>
   <string name="toast_garbage_cleanup_success">Nettoyage effectué</string>
+  <string name="pref_title_expand_cache_group">Développer les groupes</string>
+  <string name="pref_summary_expand_cache_group">Les groupes de la liste \"Cache\" seront développés par défaut</string>
+  <string name="dialog_msg_check_all">Confirmer la sélection de %1$s contenant %2$d éléments</string>
+  <string name="msg_system_cache_hints">"Vider le cache n\'affecte pas vos données fichiers, paramètres, comptes, etc.</string>
+  <string name="dialog_title_cleanup_system_cache">Vider le cache de données ?</string>
+  <string name="dialog_msg_cleanup_system_cache">Cela va vider le cache de toutes les applications.</string>
+  <string name="dialog_title_cleanup_apps">Effacer les données appli. ?</string>
+  <string name="dialog_title_backup_and_cleanup_apps">Sauvegarder et effacer les données appli. ?</string>
+  <string name="dialog_msg_cleanup_apps">"Toutes les données appli. vont être supprimées. Cela inclus tous les fichiers, paramètres, comptes, etc."</string>
+  <string name="dialog_msg_backup_and_cleanup_apps">Une fois la sauvegarde effectuée, toutes les données appli. seront supprimées. Cela inclus tous les fichiers, paramètres, comptes, etc.</string>
+  <string name="dialog_title_load_cleanup_engine_error">Erreur</string>
+  
   
  <!-- à traduire 
-  <string name="pref_title_expand_cache_group">Expand the cache groups</string>
-  <string name="pref_summary_expand_cache_group">Groups in the cache list will default expand</string>
-  <string name="dialog_msg_check_all">Confirm to select %1$s that contains %2$d items</string>
-  <string name="msg_system_cache_hints">"Clearing cached data will not affect your apps' files, settings, accounts, databases, etc."</string>
-  <string name="dialog_title_cleanup_system_cache">Clear cached data?</string>
-  <string name="dialog_msg_cleanup_system_cache">This will clear cached data for all apps.</string>
-  <string name="dialog_title_cleanup_apps">Delete app data?</string>
-  <string name="dialog_title_backup_and_cleanup_apps">Backup and delete app data?</string>
-  <string name="dialog_msg_cleanup_apps">"All this app's data will be deleted permanently. This includes all files, settings, accounts, databases, etc."</string>
-  <string name="dialog_msg_backup_and_cleanup_apps">After backup is complete, all app data will be deleted. This includes all files, settings, accounts, databases, etc.</string>
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
+  
   <string name="button_text_view_power">View power</string>
+  
   <string name="pref_category_title_cleanup_white_list">Trash clean-up white list</string>
   <string name="pref_title_cleanup_white_list">Trash clean-up white list</string>
   <string name="pref_summary_cleanup_white_list">Trash in white list will be ignore</string>
-  <string name="dialog_title_load_cleanup_engine_error">Error</string>
   <string name="dialog_msg_load_cleanup_engine_error">Garbage clean engine has been corrupted, the whole amount of the package or re-brush brush!</string>
-
   -->
 </resources>

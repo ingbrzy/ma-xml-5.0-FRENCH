@@ -396,8 +396,8 @@
   <string name="empty_alert">Le champ %s est obligatoire.</string>
   <string name="empty_networks_list">Aucun réseau trouvé.</string>
   <string name="enable">Activer</string>
-  <string name="enable_antispam_strange_summary">Couper le son du premier appel d\'un numéro inconnu</string>
-  <string name="enable_antispam_strange_title">Appel anti étranger</string>
+  <string name="enable_antispam_strange_summary">Coupe le son du premier appel d\'un numéro inconnu</string>
+  <string name="enable_antispam_strange_title">Numéros inconnus en silencieux</string>
   <string name="enable_disable_administrative">Administration</string>
   <string name="enable_disable_advertisements">Annonces</string>
   <string name="enable_disable_atr">Infos trafic locales</string>
@@ -778,7 +778,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="preferred_network_mode_global_summary">Mode réseau préféré : général</string>
   <string name="preferred_network_mode_gsm_only_summary">Mode réseau préféré : GSM uniquement</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Mode réseau préféré : GSM/WCDMA</string>
-  <string name="preferred_network_mode_lte_cdma_evdo_summary">Mode réseau préféré : CDMA/LTE/EVDO</string>
+  <string name="preferred_network_mode_lte_cdma_evdo_summary">Mode réseau préféré : CDMA/LTE/EvDo</string>
   <string name="preferred_network_mode_lte_cdma_summary">Mode réseau préféré : LTE/CDMA</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Mode réseau préféré : GSM/WCDMA/LTE</string>
   <string name="preferred_network_mode_lte_summary">Mode réseau préféré : LTE</string>
@@ -788,9 +788,9 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="preferred_network_mode_wcdma_only_summary">Mode réseau préféré : WCDMA uniquement</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Mode réseau préféré : WCDMA de préférence</string>
   <string name="preferred_network_mode_td_scdma_only_summary">Mode réseau préféré : TD-SCDMA uniquement</string>
-  <string name="preferred_network_mode_td_scdma_wcdma_summary">Mode réseau préféré : TD-SCDMA / WCDMA</string>
-  <string name="preferred_network_mode_td_scdma_lte_summary">Mode réseau préféré : TD-SCDMA / LTE</string>
-  <string name="preferred_network_mode_td_scdma_gsm_summary">Mode réseau préféré : TD-SCDMA / GSM</string>
+  <string name="preferred_network_mode_td_scdma_wcdma_summary">Mode réseau préféré : TD-SCDMA/WCDMA</string>
+  <string name="preferred_network_mode_td_scdma_lte_summary">Mode réseau préféré : TD-SCDMA/LTE</string>
+  <string name="preferred_network_mode_td_scdma_gsm_summary">Mode réseau préféré : TD-SCDMA/GSM</string>
   <string name="preferred_network_mode_td_scdma_gsm_lte_summary">Mode réseau préféré : TD-SCDMA/GSM/LTE</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Mode réseau préféré : TD-SCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Mode réseau préféré : TD-SCDMA/WCDMA/LTE</string>
@@ -1208,11 +1208,9 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="onscreenSwitchText">Changer d\'abonnement</string>
   <string name="onscreenAddParticipant">Ajouter un participant</string>
   <string name="managed_roaming_title">Gestion de l\'itinérance</string>
- <!-- à traduire
-  <string name="managed_roaming_title_sub1">Managed Roaming (SUB1)</string>
-  <string name="managed_roaming_title_sub2">Managed Roaming (SUB2)</string>
-  <string name="managed_roaming_title_sub3">Managed Roaming (SUB3)</string>
- -->
+  <string name="managed_roaming_title_sub1">Itinérance (SUB1)</string>
+  <string name="managed_roaming_title_sub2">Itinérance (SUB2)</string>
+  <string name="managed_roaming_title_sub3">Itinérance (SUB3)</string>
   <string name="managed_roaming_dialog_content">Réseau avec service limité détecté. Lancer une recherche réseau ?</string>
   <string name="managed_roaming_dialog_ok_button">Oui</string>
   <string name="managed_roaming_dialog_cancel_button">Non</string>
@@ -1223,9 +1221,7 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="description_direction_up_left">Haut Gauche</string>
   <string name="description_direction_down_left">Bas Gauche</string>
   <string name="description_direction_down_right">Bas Droite</string>
- <!-- à traduire
-  <string name="set_sub_global_activate_failed">Activate global failed</string>
-  <string name="set_sub_global_deactivate_failed">Deactivate global failed</string>
-  <string name="set_sub_not_supported_phone_in_call">Activate or Deactivate subscription is not allowed while phone in call.</string>
- -->
+  <string name="set_sub_global_activate_failed">Activation globale échouée</string>
+  <string name="set_sub_global_deactivate_failed">Désactivation globale échouée</string>
+  <string name="set_sub_not_supported_phone_in_call">Activation ou désactivation non autorisée lorsque le téléphone est en appel.</string>
  </resources>
