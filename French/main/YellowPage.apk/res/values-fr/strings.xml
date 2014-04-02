@@ -21,7 +21,7 @@
   <string name="no_more_result">Aucun autre résultat</string>
   
   <string name="downloading">Téléchargement…</string>
-  <string name="download_completed">Téléchargement terminé ! Chemin d'accès : %s</string>
+  <string name="download_completed">Téléchargement terminé ! Chemin d\'accès : %s</string>
   <string name="download_failed">Échec du téléchargement</string>
   <string name="download_failed_storage">Échec du téléchargement, veuillez vérifier votre carte SD</string>
   <string name="download_failed_network">Échec du téléchargement, veuillez vérifier vos paramètres réseaux</string>
