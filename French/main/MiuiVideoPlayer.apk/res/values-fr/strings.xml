@@ -2,7 +2,7 @@
 <resources>
   <string name="about_app_name">Lecteur vidéo</string>
   <string name="about_developer_label">Développeur</string>
-  <string name="about_developer_name">XiaoMi digit</string>
+  <string name="about_developer_name">XiaoMi Inc.</string>
   <string name="about_title">À propos</string>
   <string name="about_version_label">Version :</string>
   <string name="adjust_position_next_media_notice">Suivant</string>
@@ -41,8 +41,8 @@ la vidéo sur votre box ou TV"</string>
   <string name="to_be_play_label_v5">" "</string>
   <string name="toast_back_key_pressed_notice">Réappuyez sur la touche retour pour quitter.</string>
   <string name="toast_message_continue_play_from">Continuer la lecture de</string>
-  <string name="toast_message_continue_play_hour">heures</string>
-  <string name="toast_message_continue_play_minute">min</string>
+  <string name="toast_message_continue_play_hour">"h "</string>
+  <string name="toast_message_continue_play_minute">"m "</string>
   <string name="toast_message_continue_play_second_and_play">s</string>
   <string name="top_status_local_media">Médias locaux</string>
   <string name="top_status_online_media">Médias en ligne</string>

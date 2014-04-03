@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="Ntracks_remove_from_favorite_playlist">
-    <item quantity="other">%d chansons retirées de la playlist.</item>
-    <item quantity="one">1 chanson retirée de la playlist.</item>
+    <item quantity="other">%d chansons retirées de la playlist</item>
+    <item quantity="one">1 chanson retirée de la playlist</item>
   </plurals>
   <plurals name="Ntracks_search_result_format">
     <item quantity="one">%d chanson associée</item>
@@ -53,16 +53,16 @@
     <item quantity="other">Il y a %d chansons sur la carte SD</item>
   </plurals>
   <plurals name="NNNtrackstoplaylist">
-    <item quantity="one">1 titre ajouté à la playlist.</item>
-    <item quantity="other">%d titres ajoutés à la playlist.</item>
+    <item quantity="one">1 titre ajouté à la playlist</item>
+    <item quantity="other">%d titres ajoutés à la playlist</item>
   </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d chansons retirées de la playlist.</item>
-        <item quantity="one">1 chanson retirée de la playlist.</item>
+        <item quantity="other">%d chansons retirées de la playlist</item>
+        <item quantity="one">1 chanson retirée de la playlist</item>
     </plurals>
   <plurals name="NNNtrackstofavoriteplaylist">
-    <item quantity="one">1 chanson ajoutée à la playlist.</item>
-    <item quantity="other">%d chansons ajoutées à la playlist.</item>
+    <item quantity="one">1 chanson ajoutée à la playlist</item>
+    <item quantity="other">%d chansons ajoutées à la playlist</item>
   </plurals>
   <plurals name="Nonlinecategory">
     <item quantity="one">" catégorie"</item>
@@ -77,12 +77,12 @@
     <item quantity="other">%1$s, %2$d chansons</item>
   </plurals>
   <plurals name="NNNtracksdeleted">
-    <item quantity="one">1 chanson a été supprimée.</item>
-    <item quantity="other">%1$d chansons ont été supprimées.</item>
+    <item quantity="one">1 chanson a été supprimée</item>
+    <item quantity="other">%1$d chansons ont été supprimées</item>
   </plurals>
   <plurals name="NTrackstoDownload">
-    <item quantity="one">1 chanson sera téléchargée.</item>
-    <item quantity="other">%d chansons seront téléchargées.</item>
+    <item quantity="one">1 chanson sera téléchargée</item>
+    <item quantity="other">%d chansons seront téléchargées</item>
   </plurals>
   <plurals name="Nhot_tracks_total">
     <item quantity="other">%d chansons bien notées</item>

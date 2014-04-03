@@ -24,7 +24,7 @@
   <string name="err_resource_leak">Malheureusement %1$s s\'est arrêté suite à une fuite de ressources.</string>
   <string name="error_forbidden">Votre compte a quelques problèmes. Synchronisation désactivée.</string>
   <string name="error_not_acceptable">Une erreur de serveur s\'est produite. Synchronisation désactivée.</string>
-  <string name="error_title">Erreur de synchronisation pour %s</string>
+  <string name="error_title">Erreur de synchronisation</string>
   <string name="error_unauthorized">Trop d\'échecs d\'authentification de compte. Synchronisation désactivée.</string>
   <string name="every_day">Quotidien</string>
   <string name="experimental_validate">Valider</string>
