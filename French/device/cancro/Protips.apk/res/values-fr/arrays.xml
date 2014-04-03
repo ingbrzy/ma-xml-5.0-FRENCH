@@ -8,32 +8,30 @@
         <item>>Écrans d\'accueil multiples\n Faites glisser l\'écran vers la droite/gauche. Déplacez les icônes d\'un écran à l\'autre.</item>
         <item>Supprimer un widget\n Appuyez dessus et maintenez. Quand il vibre, déplacez-le vers la corbeille.</item>
     </string-array>
-<!-- à traduire :
     <string-array name="tips2">
-        <item>"Home is a garden 
-Touch &amp; hold an empty spot 
-To grow new icons"</item>
-        <item>"Phone isn’t waterproof 
-Do not immerse in water 
-or other fluids"</item>
-        <item>"Want some more home screens? 
-Swipe left and right to find them 
-(No theft required)"</item>
-        <item>"Little Home screen dots 
-What could they possibly do? 
-Touch &amp; hold to learn."</item>
-        <item>"Status bar icons 
-To discover their secrets 
-Pull the windowshade"</item>
-        <item>"There is a trick to 
-Dragging items twixt Home screens 
-Pause at the edges"</item>
-        <item>"Touch Market for apps 
-Like a box of chocolates 
-Each one a surprise"</item>
-        <item>"Oh, and by the way: 
-Ceci n’est pas une trombone 
-I am an Android"</item>
+        <item>"L\'écran d\'accueil est un jardin 
+Appuyez de manière prolongée sur un espace vide 
+Pour y faire pousser de nouveaux icônes"</item>
+        <item>Ce téléphone n\'est pas étanche 
+Ne pas l\'immerger dans l\'eau 
+Ni aucun autre fluide"</item>
+        <item>"Voulez-vous des écrans d\'accueil supplémentaires ? 
+Glissez vers la gauche et vers la droite pour les trouver 
+(Aucun vol requis)"</item>
+        <item>"Les petits points sur l\'écran d\'accueil 
+À quoi pourraient-ils servir ? 
+Appuyez dessus pour apprendre."</item>
+        <item>"Les icônes de la barre d\'état 
+Pour découvrir leurs secrets
+Tirez sur le rideau de la barre d\'état"</item>
+        <item>"Il y une astuce pour 
+Déplacer les éléments d'un écran à l\'autre
+Les faire glisser contre leurs bords"</item>
+        <item>"Appuyer sur l'icône du playstore pour les applis 
+Comme dans une boîte de chocolats 
+Chaque appli est une surprise"</item>
+        <item>"Oh, et pendant que j\'y pense :
+Ceci n\'est pas un trombone 
+C\'est un Android"</item>
     </string-array>
--->
 </resources>
