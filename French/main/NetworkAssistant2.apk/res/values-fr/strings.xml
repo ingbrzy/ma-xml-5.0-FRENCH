@@ -163,7 +163,7 @@ Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
 
     <string name="data_usage_disabled_dialog_enable">Activer les données</string>
     <string name="data_usage_mobile_limit_snoozed_title">Limite d\'usage de données dépassée</string>
-    <string name="data_usage_limit_snoozed_body">Vous avez dépasser votre limite d\'usage de données</string>
+    <string name="data_usage_limit_snoozed_body">Vous avez dépassé votre limite d\'usage de données</string>
     <string name="data_usage_restricted_title">Données en arrière-plan désactivées</string>
     <string name="data_usage_restricted_body">Appuyer pour activer les données en arrière plan</string>
  <!-- à traduire 

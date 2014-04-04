@@ -3920,7 +3920,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="toast_backup_uninstall_failed">Échec de la sauvegarde de %d applis. Veuillez réessayer dans 1 ou 2 minutes.</string>
   <string name="toast_backup_uninstall_success">Sauvegarde et désinstallation effectuées</string>
   <string name="notification_title_of_garbage_cleanup">Alarme corbeille</string>
-  <string name="notification_summary_of_garbage_cleanup">Votre corbeille dépasse %s. Envisagez de la vider.</string>
+  <string name="notification_summary_of_garbage_cleanup">La corbeille excède %s. Envisagez de la vider.</string>
   <string name="item_garbage_time_daily">Quotidiennement</string>
   <string name="item_garbage_time_3d">Tout les 3 jours</string>
   <string name="item_garbage_time_7d">Une fois par semaine</string>

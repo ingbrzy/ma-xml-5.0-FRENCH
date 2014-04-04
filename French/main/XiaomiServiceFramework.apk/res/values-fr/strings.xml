@@ -155,7 +155,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_input_password_prompt">Saisissez le mot de passe</string>
   <string name="micloud_intro_01_part_01">Sauvegardez vos données dans le cloud</string>
   <string name="micloud_intro_01_part_02">Messagerie gratuite via Wi-Fi</string>
-  <string name="micloud_intro_02_part_01">Arrêtez d\'utiliser clés USB\Mails pour déplacer vos fichiers !</string>
+  <string name="micloud_intro_02_part_01">Arrêtez d\'utiliser clés USB/Mails pour déplacer vos fichiers !</string>
   <string name="micloud_intro_02_part_02">Synchronisez vos contacts, messages, photos et autres données sur divers appareils.</string>
   <string name="micloud_intro_03_part_01">Sécurisez le contenu de votre appareil à distance</string>
   <string name="micloud_intro_03_part_02">Localisez, verrouillez ou supprimez le contenu de votre appareil via i.xiaomi.com.</string>
@@ -184,7 +184,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="quick_login_step2_title">Vérification en 2 étapes</string>
   <string name="reg_by_email_failure">Échec de l\'inscription : %1$s</string>
   <string name="reg_failed">Échec de l\'inscription</string>
-  <string name="reg_success">Inscription réussi</string>
+  <string name="reg_success">Inscription réussie</string>
   <string name="reg_success_summary">%1$s a été associé à votre compte. Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe.</string>
   <string name="reg_type_email">S\'inscrire par Mail</string>
   <string name="reg_type_phone">S\'inscrire par téléphone (recommandé)</string>
