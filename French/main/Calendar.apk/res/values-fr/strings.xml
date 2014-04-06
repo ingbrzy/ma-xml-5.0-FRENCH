@@ -62,7 +62,7 @@
   <string name="directory_searching_fmt">Recherche en cours dans %s…</string>
   <string name="discard_label">Annuler</string>
   <string name="dismiss_all_label">Tout supprimer</string>
-  <string name="do_not_check">Ne PAS cocher -&gt;</string>
+  <string name="do_not_check">Ne pas cocher -&gt;</string>
   <string name="does_not_repeat">Événement ponctuel</string>
   <string name="done">OK</string>
   <string name="edit_event_all_day_label">Journée entière</string>
