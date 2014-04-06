@@ -107,7 +107,7 @@ Hors limite"</string>
     <string name="pref_connect_settings_enable_background_hint">"Permettre aux applications d\'utiliser les données en arrière plan lorsque vous ne les utilisez pas"</string>
     <string name="pref_title_network_diagnostics">Diagnostic réseau</string>
     <string name="pref_check_network_diagnostics">Vérifiez si votre connexion de données fonctionne normalement</string>
-    <string name="pref_title_update_notification">Afficher les notifications d\'usage des données</string>
+    <string name="pref_title_update_notification">Notifications d\'usage des données</string>
     <string name="pref_title_traffic_speed_state">Afficher la vitesse de transfert</string>
     <string name="pref_show_mobile_traffic">Affiche les stats d\'usage des données lorsque vous déverrouillez votre téléphone, pour la période où celui-ci est verrouillé (3 minutes minimum)</string>
     <string name="pref_title_mobile_traffic">Afficher l\'usage des données en tenant compte du verrouillage</string>
@@ -139,7 +139,7 @@ Hors limite"</string>
     <string name="tips_dialog_title">"Je ne connais pas votre limite ?"</string>
     <string name="tips_message">"Si vous n\'êtes pas sûr du détail de votre connexion sans fil, vous pouvez les afficher en composant %2$s (%1$s)."</string>
     <string name="daily_pkg_traffic">Définir la limite du pic d\'usage des données</string>
-    <string name="input_aviable_traffic">Définir la limite d\'usage des données</string>
+    <string name="input_aviable_traffic">Définir la limite</string>
     <string name="pkg_traffic">Définir la limite d\'usage des données</string>
     <string name="free_traffic_settings">Paramètres du creux d\'usage des données</string>
     <string name="free_time_traffic">Limite du creux d\'usage des données</string>
@@ -147,7 +147,7 @@ Hors limite"</string>
     <string name="power_save_on_time_end_time_summary">à</string>
     <string name="manual_input_traffic">Définir l\'usage de données</string>
     <string name="manual_input_free_traffic">Définir le creux d\'usage des données</string>
-    <string name="declaration_dialog_msg">Cette option peut vous aider à suivre votre consommation, il n\'est pas garanti d\'éviter des frais supplémentaires. Pour de meilleurs résultats, fixer une limite.</string>
+    <string name="declaration_dialog_msg">Cette fonctionnalité peut vous aider à suivre votre consommation, il n\'est pas garanti d\'éviter des frais supplémentaires. Pour de meilleurs résultats, fixer une limite.</string>
     <string name="input_used_hint">Entrez l\'usage de données</string>
     <string name="settings">Paramètres d\'usage des données</string>
     <string name="adjust_traffic_data">Définir l\'usage de données</string>
