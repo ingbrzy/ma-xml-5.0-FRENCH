@@ -136,8 +136,9 @@ Hors limite"</string>
     <string name="pref_specified_traffic_settings">Paramètres de limite de données</string>
     <string name="input_traffic_pkg">Entrez l\'usage de données</string>
     <string name="begin_date">Date de remise à zéro de votre forfait</string>
-    <string name="tips_dialog_title">"Je ne connais pas votre limite ?"</string>
-    <string name="tips_message">"Si vous n\'êtes pas sûr du détail de votre connexion sans fil, vous pouvez les afficher en composant %2$s (%1$s)."</string>
+    <string name="tips_dialog_title">Quota de données mobiles inconnu ?</string>
+   <!-- tips_message : supprimé variable, elles n'affichent rien..., à re-vérifier plus tard-->
+    <string name="tips_message">Si vous ne connaissez pas le quota de données mobiles associé à votre forfait, renseignez-vous auprès de votre opérateur.</string>
     <string name="daily_pkg_traffic">Définir la limite du pic d\'usage des données</string>
     <string name="input_aviable_traffic">Définir la limite</string>
     <string name="pkg_traffic">Définir la limite d\'usage des données</string>
