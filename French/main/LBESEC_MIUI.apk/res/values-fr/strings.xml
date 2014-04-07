@@ -49,8 +49,8 @@
   <string name="Generic_ShowSystemApp">Afficher le système des applications</string>
   <string name="Generic_Summary_Disabled">Désactivé</string>
   <string name="Generic_Summary_Enabled">Activé</string>
-  <string name="Generic_SystemApp">Système d\'applications (%d)</string>
-  <string name="Generic_SystemApp_Label">[Système d\'applications]</string>
+  <string name="Generic_SystemApp">Applications système (%d)</string>
+  <string name="Generic_SystemApp_Label">[Appli système]</string>
   <string name="Generic_TrustedApp">Applications de confiance (%1$d)</string>
   <string name="Generic_Update">Mise à jour logicielle</string>
   <string name="Generic_UserApp">Applications téléchargées (%d)</string>

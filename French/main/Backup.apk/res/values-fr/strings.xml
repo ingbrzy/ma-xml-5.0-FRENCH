@@ -128,12 +128,12 @@
   <string name="findlost_contact_online">Restaurer les contacts supprimés à partir du cloud</string>
   <string name="guarded_mode_dialog_message">Impossible de sauvegarder/restaurer en mode privé</string>
   <string name="guarded_mode_dialog_title">Mode privé</string>
-  <string name="import_from_xiaomi_account_hint1">"1. \u0009Ouvrez vos contacts
+  <string name="import_from_xiaomi_account_hint1">"1.\u0009Ouvrez vos contacts
   
- 2. \u0009Installez MiTalk et connectez-vous.
- \u0009http://www.miliao.com
+2.\u0009Installez MiTalk et connectez-vous.
+\u0009http://www.miliao.com
 
- 3. \u0009Entrez dans les paramètres MiTalk et choisissez \"Sauvegardez les contacts sur le compte Xiaomi\""</string>
+3.\u0009Entrez dans les paramètres MiTalk et choisissez \"Sauvegardez les contacts sur le compte Xiaomi\""</string>
   <string name="import_from_xiaomi_account_hint2">Remarque : Passez à l\'étape suivante si la sauvegarde existe déjà</string>
   <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder les contacts sur d\'autres appareils, sauf sur le Mi-One</string>
   <string name="just_support_op_with_wifi_connected">Uniquement supporté via une connexion Wi-Fi</string>
@@ -155,8 +155,8 @@
   <string name="no_network">Erreur réseau\nVérifiez la connexion du réseau et réessayez</string>
   <string name="note_title">Notes</string>
   <string name="nothing_searched">Aucun résultat</string>
-  <string name="progress_backup_hint">"Sauvegarde : "</string>
-  <string name="progress_restore_hint">"Restauration : "</string>
+  <string name="progress_backup_hint">Sauvegarde…</string>
+  <string name="progress_restore_hint">Restauration…</string>
   <string name="prompt_reading">Lecture…</string>
   <string name="prompt_sending">Envoi…</string>
   <string name="prompt_writing">Enregistrement…</string>

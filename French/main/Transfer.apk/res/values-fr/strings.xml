@@ -24,7 +24,7 @@
   <string name="complete">Terminé !</string>
   <string name="confirm">Confirmer</string>
   <string name="connect_confirm">%1$s requiert une connexion</string>
-  <string name="connecting">Connexion</string>
+  <string name="connecting">Connexion…</string>
   <string name="continue_to_send">Poursuivre l\'envoi</string>
   <string name="defalut_nameofnewfile">Nouveau dossier</string>
   <string name="delete">Supprimer</string>
@@ -61,7 +61,7 @@
   <string name="file_share_download_complete">Fichier partagé reçu</string>
   <string name="file_share_upload_complete">Fichier partagé envoyé</string>
   <string name="file_upload">Envoyer le fichier</string>
-  <string name="file_uploading">Envoi du fichier</string>
+  <string name="file_uploading">Envoi du fichier…</string>
   <string name="fill_download_paused">Téléchargement suspendu</string>
   <string name="fill_upload_paused">Envoi suspendu</string>
   <string name="finish">Terminé</string>
@@ -93,7 +93,7 @@
   <string name="noti_completed">Terminé, %1$d/%2$d fichier(s) transféré(s)</string>
   <string name="noti_receiving">%1$s : Réception de %2$d/%3$d fichier(s)</string>
   <string name="noti_sending">%1$s : Envoi de %2$d/%3$d fichier(s)</string>
-  <string name="noti_wait_receive">Attente de réception de fichier(s)</string>
+  <string name="noti_wait_receive">En attente de réception de fichier(s)</string>
   <string name="noti_wait_send">"Attente de réception de fichier(s), veuillez vous assurer que l\'envoyeur a activé la connexion et peut envoyer des fichiers "</string>
   <string name="notify_after_download">Notifier après le téléchargement</string>
   <string name="notify_after_restore">Notifier après la restauration</string>
@@ -178,8 +178,8 @@
   <string name="share_history">Historique de partage</string>
   <string name="share_item_not_found">Le fichier partagé n\'a pas été trouvé</string>
   <string name="share_message">%1$s partage(s) de fichiers</string>
-  <string name="share_msg_model">"J\'ai partagé des fichiers avec vous 
-sur [ %1$s ] "</string>
+  <string name="share_msg_model">"J\'ai partagé un fichier avec vous :
+%1$s"</string>
   <string name="share_text">MIUI V5 supporte le transfert de fichier sans utilisation du réseau mobile. Utilisateurs non MIUI V5, veuillez télécharger %1$s</string>
   <string name="shortmessage">Message court</string>
   <string name="start">Démarrer</string>
@@ -202,7 +202,7 @@ sur [ %1$s ] "</string>
   <string name="use_start">Commencer maintenant</string>
   <string name="video">Vidéo</string>
   <string name="voice_assist_match">Couplage automatique rapide</string>
-  <string name="voice_match">Couplage automatique</string>
+  <string name="voice_match">Couplage automatique…</string>
   <string name="wait_for_upload">En attente, envoi en cours</string>
   <string name="wait_for_upload_to_download">En attente, téléchargement en cours. Veuillez patienter, les fichiers seront téléchargés automatiquement</string>
   <string name="wait_for_upload_to_restore">En attente de reprise de l\'envoi vers MiDrive.</string>

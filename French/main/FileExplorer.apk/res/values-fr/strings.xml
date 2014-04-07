@@ -293,12 +293,12 @@ Superflu"</string>
   <string name="utf8_summary">Codage par défaut</string>
   <string name="utf8_title">UTF-8</string>
   <string name="version_text">version %1$s</string>
-  <string name="wait_net">En attente du réseau</string>
-  <string name="wait_sdcard">En attente du montage de la carte SD</string>
-  <string name="wait_wifi">En attente d\'une connexion Wi-Fi</string>
+  <string name="wait_net">En attente du réseau…</string>
+  <string name="wait_sdcard">En attente du montage de la carte SD…</string>
+  <string name="wait_wifi">En attente d\'une connexion Wi-Fi…</string>
   <string name="waiting">En attente…</string>
-  <string name="waiting_for_cleaning">En attente de nettoyage</string>
-  <string name="waiting_for_scanning">En attente de scan</string>
+  <string name="waiting_for_cleaning">En attente de nettoyage…</string>
+  <string name="waiting_for_scanning">En attente de scan…</string>
   <string name="wangpan_root_path">Mon disque</string>
   <string name="wifi_state">État du Wi-Fi</string>
   <string name="xiaomi_account">Compte Xiaomi</string>

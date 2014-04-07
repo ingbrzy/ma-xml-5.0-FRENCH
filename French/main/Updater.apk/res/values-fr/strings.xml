@@ -2,7 +2,7 @@
 <resources>
   <string name="about_device">À propos de l\'appareil</string>
   <string name="active_xiaomi_account">Actif</string>
-  <string name="active_xiaomi_account_msg">"Veuillez aller sur le forum MIUI pour activer le compte Xiaomi : "</string>
+  <string name="active_xiaomi_account_msg">Pour activer votre compte, rendez-vous sur : https://account.xiaomi.com/pass/serviceLogin.</string>
   <string name="active_xiaomi_account_title">Activer le compte Xiaomi</string>
   <string name="app_name">Mise à jour</string>
   <string name="apply_buddy_update_info_message">Appuyez sur confirmer pour commencer le processus de mise à jour</string>
@@ -145,7 +145,8 @@
   <string name="update_comment_hint" />
   <string name="update_comment_title">Vos commentaires</string>
   <string name="update_feedback">Mettre à jour les avis</string>
-  <string name="update_feedback_expired">"Quel dommage que vous ayez manqué de commenter la mise à jour ! S\'il vous plaît envoyez-nous votre sondage mardi prochain"</string>
+  <string name="update_feedback_expired">"Quel dommage que vous ayez manqué de commenter la mise à jour !
+Vous pourrez le faire mardi prochain"</string>
   <string name="update_feel">1. Comment vous sentez-vous ?</string>
   <string name="update_general">Pas mal</string>
   <string name="update_happy">Joyeux</string>

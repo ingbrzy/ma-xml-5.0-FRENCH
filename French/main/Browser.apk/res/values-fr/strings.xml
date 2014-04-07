@@ -91,7 +91,7 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Dernier onglet</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Glisser haut pour fermer</string>
   <string name="browserFrameFileErrorLabel">Problème de fichier</string>
-  <string name="browserFrameFormResubmitMessage">"La page que vous tentez d'afficher contient des données qui ont déjà été envoyées ("POSTDATA"). Si vous les renvoyez, toute action effectuée par le formulaire sur la page exécutée (telle que les recherches ou les achats en ligne) sera répétée."</string>
+  <string name="browserFrameFormResubmitMessage">"La page que vous tentez d'afficher contient des données qui ont déjà été envoyées (\"POSTDATA\"). Si vous les renvoyez, toute action effectuée par le formulaire sur la page exécutée (telle que les recherches ou les achats en ligne) sera répétée."</string>
   <string name="browserFrameNetworkErrorLabel">Problème de connexion</string>
   <string name="browser_bookmarks_page_bookmarks_text">Favoris</string>
   <string name="browser_history">Dernières pages consultées</string>
@@ -257,7 +257,7 @@
   <string name="js_engine_flags">Définir des indicateurs du moteur JS</string>
   <string name="loadSuspended">"Impossible de charger cette page dans le navigateur, car il n'y a pas de connexion Internet."</string>
   <string name="loadSuspendedTitle">Aucune connexion</string>
-  <string name="loading_rest_candidates">Chargement des candidats de repos</string>
+  <string name="loading_rest_candidates">Chargement des candidats de repos…</string>
   <string name="loading_video">Chargement de la vidéo…</string>
   <string name="local_bookmarks">Favoris locaux</string>
   <string name="location">Adresse</string>

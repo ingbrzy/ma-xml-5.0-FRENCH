@@ -35,7 +35,7 @@
   <string name="album_share_subtitle_requesting">Téléchargement les informations de l\'album…</string>
   <string name="album_share_title_new_album">Nouvel album partagé</string>
   <string name="albums">Albums</string>
-  <string name="albumset_page_title_separator"> | </string>
+  <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Avis d\'information</string>
   <string name="alert_message_open_sync">Sync est requis, souhaitez-vous ouvrir Sync maintenant ?</string>
   <string name="already_apply_album">Ouvrir %1$s ?</string>

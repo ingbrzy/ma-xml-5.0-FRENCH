@@ -26,7 +26,7 @@
   <string name="acessibility_selected_marker_description">Événement sélectionné</string>
   <string name="acessibility_snooze_notification">Notification de répétition d\'alarme</string>
   <string name="add_account">Ajouter un compte</string>
-  <string name="agenda_today">AUJOURD\'HUI, %1$s</string>
+  <string name="agenda_today">AUJ., %1$s</string>
   <string name="agenda_tomorrow">DEMAIN, %1$s</string>
   <string name="agenda_view">Mon planning</string>
   <string name="agenda_yesterday">HIER, %1$s</string>
@@ -44,7 +44,7 @@
   <string name="copy_db">Envoyer la base de données</string>
   <string name="copy_email">Copier l\'adresse mail</string>
   <string name="copy_number">Copier le numéro de téléphone</string>
-  <string name="create_an_account_desc">"Tirez le meilleur parti de Google Agenda en utilisant un compte Google.
+  <string name="create_an_account_desc">"Tirez le meilleur parti de l\agenda en utilisant un compte Xioami ou Google.
 
 • Accédez-y depuis n\'importe quel navigateur Web. 
 • Sauvegardez vos événements en toute sécurité."</string>
@@ -155,7 +155,7 @@
   <string name="preferences_week_start_day_title">1er jour de la semaine :</string>
   <string name="presence_label">Ma disponibilité</string>
   <string name="privacy_label">Confidentialité</string>
-  <string name="quick_response_custom_msg">Réponse personnalisée</string>
+  <string name="quick_response_custom_msg">Réponse personnalisée…</string>
   <string name="quick_response_dialog_title">Sélectionner une réponse rapide</string>
   <string name="quick_response_email_failed">Impossible de trouver un programme de messagerie électronique.</string>
   <string name="quick_response_settings">Réponses rapides</string>

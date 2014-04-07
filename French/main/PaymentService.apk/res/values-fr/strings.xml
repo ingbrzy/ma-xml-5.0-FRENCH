@@ -95,7 +95,7 @@ Veuillez réessayer dans cinq minutes"</string>
   <string name="error_verify_summary">L\'Application n\'a pas l\'autorisation de solliciter le service</string>
   <string name="error_verify_title">Pas de permission</string>
   <string name="fee">%1$s MiCredit</string>
-  <string name="forget_password">&lt;u&gt;Réinitialiser le mot de passe&lt;/u&gt;</string>
+  <string name="forget_password"><u>Mot de passe oublié ?</u></string>
   <string name="format_date">dd MMM yyyy</string>
   <string name="format_time">dd MMM yyyy H:mm</string>
   <string name="frozen">(Gelé)</string>
@@ -300,7 +300,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="detail_recharge_account">ID recharge</string>
   <string name="detail_recharge_amount">Montant</string>
   <string name="detail_recharge_method">Méthode</string>
-  <string name="detail_recharge_order">Commande No :</string>
+  <string name="detail_recharge_order">Commande Nº</string>
  <!-- detail_recharge_time correct ? original : Time -->
   <string name="detail_recharge_time">Date</string>
   <string name="detail_recharge_title">Historique de recharges</string>
