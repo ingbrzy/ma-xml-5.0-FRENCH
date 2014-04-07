@@ -104,7 +104,7 @@
   <string name="find_device_notice_p3">pour localiser, verrouiller ou restaurer votre téléphone à distance.</string>
   <string name="find_device_success_title">Localisation de l\'appareil activé</string>
   <string name="find_password_on_web_msg">Veuillez visiter account.xiaomi.com pour récupérer votre mot de passe</string>
-  <string name="forget_password"><u>Mot de passe oublié ?<u></string>
+  <string name="forget_password"><u>Mot de passe oublié ?</u></string>
   <string name="get_back_pwd">Récupérer le mot de passe du compte</string>
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
   <string name="i_know">OK</string>
