@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!-- removed in 4.4.9 mi2 -->
+  <string name="menu_item_sort_visit_asc">Par ordre ascendant de visualisation</string>
+  <string name="menu_item_sort_visit_desc">Par ordre descendant de visualisation</string>
+<!-- -->
   <string name="Import">Importer</string>
   <string name="accept">Accepter</string>
   <string name="accept_or_deny">%1$s a partagé l\'album %2$s avec vous.</string>
@@ -251,8 +255,6 @@
   <string name="menu_item_sort_name_desc">Par nom (Z-A)</string>
   <string name="menu_item_sort_size_asc">Par taille croissante</string>
   <string name="menu_item_sort_size_desc">Par taille décroissante</string>
-  <string name="menu_item_sort_visit_asc">Par ordre ascendant de visualisation</string>
-  <string name="menu_item_sort_visit_desc">Par ordre descendant de visualisation</string>
   <string name="menu_view_contact">Voir le contact</string>
   <string name="message_no_delete_access">L\'accès est refusé. Impossible de supprimer le fichier ou le dossier : %s</string>
   <string name="message_no_delete_access_with_count">Impossible de supprimer %d fichiers(s) ou dossier(s). Assurez-vous qu\'ils existent et que vous avez la permission.</string>
@@ -491,4 +493,5 @@
   <string name="internal_sd_card_hm">Stockage interne</string>
   <string name="item_not_sync">Cet élément n\'a pas été synchronisé sur le cloud et ne peut pas être téléchargé</string>
   <string name="move">Déplacer</string>
+  <string name="yellow_page">Pages jaunes</string>
 </resources>

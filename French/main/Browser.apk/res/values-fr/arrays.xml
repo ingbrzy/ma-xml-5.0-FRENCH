@@ -6,7 +6,7 @@
         <item>Désactivés</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Le navigateur ouvrira cette page</item>
+        <item>Page de démarrage par défaut</item>
         <item>Personnalisée</item>
     </string-array>
     <string-array name="pref_text_size_choices">

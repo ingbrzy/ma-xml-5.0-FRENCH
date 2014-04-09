@@ -14,7 +14,7 @@
   <string name="apply_update_dialog_update_button">Mettre à jour</string>
   <string name="apply_update_fail">La mise à jour a échoué</string>
   <string name="apply_update_timer">L\'appareil redémarrera dans %d secondes</string>
-  <string name="apply_upload_info_message">Appuyez sur "Mettre à jour" pour redémarrer automatiquement le téléphone et appliquer la mise à jour.</string>
+  <string name="apply_upload_info_message">Appuyez sur \"Confirmer\" pour redémarrer automatiquement le téléphone et appliquer la mise à jour.</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
   <string name="applying_rom_message">Application de la mise à jour</string>
   <!-- applying_update à revoir ? original : Updating %s -->
@@ -135,7 +135,7 @@
   <string name="system_backup_apply_helper">"L\'appareil redémarrera automatiquement pour appliquer la mise à jour. "</string>
   <string name="system_backup_ask">Demander la prochaine fois</string>
   <string name="system_backup_button_text">Effectuer une sauvegarde du système avant la mise à jour</string>
-  <string name="system_backup_cancel_text">Redémarrer pour MàJ</string>
+  <string name="system_backup_cancel_text">Mettre à jour</string>
   <string name="system_backup_download_helper">Une fois le téléchargement terminé l\'appareil redémarrera automatiquement pour se mettre à jour</string>
   <string name="system_backup_error_message">La sauvegarde MIUI n\'a pas été trouvée, veuillez sauvegarder manuellement</string>
   <string name="system_backup_helper">Celle-ci n\'effacera pas les données utilisateur, il est toutefois recommandé de faire une sauvegarde de vos données utilisateur avant de l\'effectuer.</string>

@@ -233,8 +233,9 @@
   <string name="pref_title_no_remind">Aucun rappel</string>
   <string name="pref_title_notification_remind">Notification de rappel</string>
   <string name="pref_title_alert_remind">Pop-up de rappel</string>
+  <string name="pref_title_alarm_remind">Alarme de rappel</string>
   
- <!-- à traduire, affiché uniquement si téléphone en chinois ?
+ <!-- extra affiché uniquement si téléphone en chinois ?
   <string name="online_calendar_activity_label">订阅日历</string>
   <string name="add_calendar">订阅</string>
   <string name="exist_calendar">已订阅</string>

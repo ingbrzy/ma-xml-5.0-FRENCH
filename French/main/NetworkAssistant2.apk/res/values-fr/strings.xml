@@ -7,7 +7,7 @@
     <string name="firewall_rule_group_title_mobile">Mobile</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
     <string name="firewall_fragment_tab_title_nonsys">Téléchargées</string>
-    <string name="firewall_fragment_tab_title_sys">Applis</string>
+    <string name="firewall_fragment_tab_title_sys">Applis système</string>
     <string name="firewall_fragment_sys_listempty">Vide</string>
     <string name="firewall_fragment_nonesys_listempty">Vide</string>
     <string name="firewall_service_network_blocked">%1$s n\'est pas autorisé à accéder aux réseaux %2$s</string>
@@ -97,19 +97,19 @@ Hors limite"</string>
     <string name="traffic_setting_fragment_sms_content_tips">Écrivez votre message ici</string>
     <string name="traffic_setting_fragment_null">Vide</string>
     <string name="pref_category_title_other">Paramètres avancés</string>
-    <string name="pref_connect_settings_exceed_limit_hint">Interrompre la connexion au réseau mobile lorsque le pic d\'usage des données a atteint la limite prédéfinie</string>
-    <string name="pref_connect_settings_exceed_limit">Restreindre le pic d\'usage des données</string>
+    <string name="pref_connect_settings_exceed_limit_hint">Interrompre la connexion au réseau mobile lorsque l\'usage des données a atteint la limite prédéfinie</string>
+    <string name="pref_connect_settings_exceed_limit">Restreindre l\'usage des données</string>
     <string name="pref_free_traffic_exceed_limit">Prévenir lorsque l\'usage des données a atteint la limite prédéfinie</string>
     <string name="pref_free_traffic_limit_warn">Avertissement sur le creux d\'usage des données</string>
     <string name="pref_special_traffic_exceed_limit">Prévenir lorsque l\'usage des données a atteint la limite prédéfinie</string>
     <string name="pref_special_traffic_limit_warn">Définir l\'alerte d\'usage des données</string>
-    <string name="pref_connect_settings_enable_background">Autoriser les données en arrière-plan</string>
+    <string name="pref_connect_settings_enable_background">Autoriser les données en arr.-plan</string>
     <string name="pref_connect_settings_enable_background_hint">"Permettre aux applications d\'utiliser les données en arrière plan lorsque vous ne les utilisez pas"</string>
     <string name="pref_title_network_diagnostics">Diagnostic réseau</string>
     <string name="pref_check_network_diagnostics">Vérifiez si votre connexion de données fonctionne normalement</string>
     <string name="pref_title_update_notification">Notifications d\'usage des données</string>
     <string name="pref_title_traffic_speed_state">Afficher la vitesse de transfert</string>
-    <string name="pref_show_mobile_traffic">Affiche les stats d\'usage des données lorsque vous déverrouillez votre téléphone, pour la période où celui-ci est verrouillé (3 minutes minimum)</string>
+    <string name="pref_show_mobile_traffic">Affiche les stats d\'usage des données lorsque vous déverrouillez votre téléphone, pour la période où celui-ci est verrouillé (5 minutes minimum)</string>
     <string name="pref_title_mobile_traffic">Afficher l\'usage des données en tenant compte du verrouillage</string>
     <string name="pref_title_declaration">Avertissement important</string>
     <string name="pref_new_installed_preconfig_title">Paramètres par défaut des nouvelles applications</string>
@@ -134,7 +134,7 @@ Hors limite"</string>
     <string name="pref_add_traffic_pkg">Achat supplémentaire de données mobiles</string>
     <string name="pref_free_traffic_settings">Paramètres du creux d\'usage des données</string>
     <string name="pref_specified_traffic_settings">Paramètres de limite de données</string>
-    <string name="input_traffic_pkg">Entrez l\'usage de données</string>
+    <string name="input_traffic_pkg">Saisir le total</string>
     <string name="begin_date">Date de remise à zéro de votre forfait</string>
     <string name="tips_dialog_title">Quota de données mobiles inconnu ?</string>
    <!-- tips_message : supprimé variable, elles n'affichent rien..., à re-vérifier plus tard-->
