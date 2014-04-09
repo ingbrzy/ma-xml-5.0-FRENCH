@@ -3209,7 +3209,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="check_nothing">Tout désélectionner</string>
   <string name="checking">"Analyse : "</string>
   <string name="clean_confirm_title">Supprimer ces fichiers ?</string>
-  <string name="cleaner">Nettoyeur</string>
+  <string name="cleaner">Nettoyage</string>
   <string name="clear_all_calllog">Vider le journal d\'appels</string>
   <string name="clear_all_mslog">Vider le journal de message</string>
   <string name="close_rule">Désactiver les règles du pare-feu</string>

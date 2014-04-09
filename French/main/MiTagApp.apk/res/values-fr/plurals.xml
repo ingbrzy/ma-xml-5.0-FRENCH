@@ -9,8 +9,8 @@
         <item quantity="one">tâche</item>
     </plurals>
     <plurals name="history_description">
-        <item quantity="other">records</item>
-        <item quantity="one">record</item>
+        <item quantity="other">entrées</item>
+        <item quantity="one">entrée</item>
     </plurals>
     <plurals name="select_n_item">
         <item quantity="other">%d sélectionnés</item>

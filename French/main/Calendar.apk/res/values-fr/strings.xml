@@ -44,9 +44,9 @@
   <string name="copy_db">Envoyer la base de données</string>
   <string name="copy_email">Copier l\'adresse mail</string>
   <string name="copy_number">Copier le numéro de téléphone</string>
-  <string name="create_an_account_desc">"Tirez le meilleur parti de l\agenda en utilisant un compte Xioami ou Google.
+  <string name="create_an_account_desc">"Tirez le meilleur parti de l\agenda en utilisant un compte Xiaomi ou Google.
 
-• Accédez-y depuis n\'importe quel navigateur Web. 
+• Accédez-y depuis n\'importe quel navigateur Web.
 • Sauvegardez vos événements en toute sécurité."</string>
   <string name="creating_event">Événement créé.</string>
   <string name="creating_event_with_guest">Les invitations vont être envoyées.</string>

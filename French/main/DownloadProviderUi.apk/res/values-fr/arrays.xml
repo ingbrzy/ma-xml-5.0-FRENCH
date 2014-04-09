@@ -11,7 +11,6 @@
         <item>5 Mo</item>
         <item>2 Mo</item>
         <item>1 Mo</item>
-        <item>500 Ko</item>
         <item>Toujours via Wi-Fi</item>
     </string-array>
     <string-array name="prefValues_max_bytes_limit">
@@ -25,7 +24,6 @@
         <item>5242880</item>
         <item>2097152</item>
         <item>1048576</item>
-        <item>512000</item>
         <item>0</item>
     </string-array>
  </resources>

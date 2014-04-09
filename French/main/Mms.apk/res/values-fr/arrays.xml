@@ -46,7 +46,7 @@
   <string-array name="entries_date_type">
     <item>Afficher l\'heure de réception</item>
     <item>"Afficher l\'heure d\'envoi
-(horodatage du serveur, peut manquer de précision)"</item>
+(horodatage du serveur, peut être imprécis)"</item>
   </string-array>
   <string-array name="select_dialog_items">
     <item>1 seconde</item>
@@ -66,12 +66,12 @@
     <item>Seulement en silencieux</item>
     <item>Jamais</item>
   </string-array>
-    <string-array name="resent_via_entries_sms">
-        <item>Via message</item>
-        <item>Via message Cloud</item>
-    </string-array>
-    <string-array name="resent_via_entries_mms">
-        <item>Via message</item>
-        <item>Via message Cloud</item>
-    </string-array>
+  <string-array name="resent_via_entries_sms">
+      <item>Via message</item>
+      <item>Via message Cloud</item>
+  </string-array>
+  <string-array name="resent_via_entries_mms">
+      <item>Via message</item>
+      <item>Via message Cloud</item>
+  </string-array>
 </resources>

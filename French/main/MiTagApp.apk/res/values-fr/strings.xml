@@ -16,7 +16,7 @@
   <string name="auto_brightness">Luminosité auto</string>
   <string name="auto_brightness_on_off">Luminosité auto %s</string>
   <string name="available_networks">Réseaux disponibles</string>
-  <string name="avg_read_tag">Lectures moy. par jour :</string>
+  <string name="avg_read_tag">Moy. lectures\jour :</string>
   <string name="back_to_home">Retour</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="body_characters">%d/650</string>
@@ -25,12 +25,13 @@
   <string name="btn_start">Démarrer</string>
   <string name="btn_write">Écrire</string>
   <string name="bump_erase">"Pour effacer un tag,
-toucher le avec le dos de votre téléphone"</string>
-  <string name="bump_start">"Pour commencer, mettre en
-contact le tag avec le dos de votre téléphone"</string>
+mettez-le en contact avec le dos de votre téléphone"</string>
+  <string name="bump_start">"Pour commencer, mettez en contact
+le tag avec le dos de votre téléphone"</string>
   <string name="bump_write">"Pour écrire sur un tag,
-toucher le avec le dos de votre téléphone"</string>
-  <string name="bump_write_alert">Pour appliquer ces paramètres, toucher le avec le dos de votre téléphone</string>
+mettez-le en contact avec le dos de votre téléphone"</string>
+  <string name="bump_write_alert">"Pour appliquer ces paramètres, mettez en contact
+le tag avec le dos de votre téléphone"</string>
   <string name="call_sb">Appel %s</string>
   <string name="call_to">Appel…;</string>
   <string name="car_mode">Mode voiture</string>
@@ -59,10 +60,10 @@ toucher le avec le dos de votre téléphone"</string>
   <string name="display">Affichage</string>
   <string name="disturb_mode">Ne Pas Déranger</string>
   <string name="edit_tag">Modifier</string>
-  <string name="edit_tag_content">toucher le avec le dos de votre téléphone</string>
+  <string name="edit_tag_content">mettez-le en contact avec le dos de votre téléphone</string>
   <string name="email_body">Message</string>
   <string name="email_subject">Sujet</string>
-  <string name="email_to">A</string>
+  <string name="email_to">À</string>
   <string name="empty_tag">Ce tag est vierge</string>
   <string name="enable_wifi">Wi-Fi</string>
   <string name="erase_success">Effacé</string>
@@ -70,7 +71,8 @@ toucher le avec le dos de votre téléphone"</string>
   <string name="err_fail_to_erase">Impossible d\'effacer le tag</string>
   <string name="err_fail_to_read">Impossible de lire le tag</string>
   <string name="err_fail_to_write">Impossible d\'écrire sur le tag</string>
-  <string name="err_nfc_off">Activer le NFC dans Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC</string>
+  <string name="err_nfc_off">"Veuillez activer le NFC dans :
+Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="err_no_enough_space">Espace disponible sur le tag insuffisant</string>
   <string name="err_no_nfc">"Votre appareil ne prend pas en charge la technologie NFC. Cette application peut ne pas fonctionner."</string>
   <string name="err_tag_not_supported">Votre téléphone ne prend pas en charge le marquage</string>
@@ -92,10 +94,10 @@ toucher le avec le dos de votre téléphone"</string>
   <string name="input_password">Veuillez saisir un mot de passe à 4 chiffres</string>
   <string name="input_password_gain">Veuillez confirmer le mot de passe</string>
   <string name="input_password_warning">Le mot de passe va être écrit sur le tag, ne l\'oubliez pas !</string>
-  <string name="local_app">Apps téléchargées</string>
+  <string name="local_app">Applications téléchargées</string>
   <string name="media_value">Média %s%%</string>
   <string name="meeting_mode">Mode réunion</string>
-  <string name="miui_ringer_mode">Ring mode</string>
+  <string name="miui_ringer_mode">Mode de sonnerie</string>
   <string name="mode">mode</string>
   <string name="music">Jouer de la musique</string>
   <string name="my_tags">Mes tags</string>
@@ -107,8 +109,8 @@ toucher le avec le dos de votre téléphone"</string>
   <string name="not_save_btn">Non</string>
   <string name="notification_value">Notifications %s%%</string>
   <string name="null_task">Aucune tâche</string>
-  <string name="off">Off</string>
-  <string name="on">On</string>
+  <string name="off">Désactiver</string>
+  <string name="on">Activer</string>
   <string name="open_web">Ouvrir la page Web</string>
   <string name="open_xiaomi_web">Accéder à Xiaomi.com</string>
   <string name="password_preference">Mot de passe</string>
@@ -123,12 +125,12 @@ toucher le avec le dos de votre téléphone"</string>
   <string name="pwd_pref_desc">Permet de protéger par mot de passe un tag contre les réécritures</string>
   <string name="pwd_prot_off">OFF</string>
   <string name="pwd_prot_on">ON</string>
-  <string name="read_a_tag">Lire un tag</string>
+  <string name="read_a_tag">Lecture d\'un tag</string>
   <string name="reading">Lecture…</string>
   <string name="remote_app">Téléchargement…</string>
   <string name="remove_alert">Supprimer les tâches sélectionnées ?</string>
-  <string name="ringer_mode">Ring mode</string>
-  <string name="ringer_normal">Ring</string>
+  <string name="ringer_mode">Mode de sonnerie</string>
+  <string name="ringer_normal">Sonnerie</string>
   <string name="ringer_silent">Silencieux</string>
   <string name="ringer_value">Sonnerie %s%%</string>
   <string name="running">est en cours d\'exécution</string>
@@ -187,7 +189,7 @@ toucher le dos de votre téléphone avec un autre tag.""</string>
   <string name="web_url">URL</string>
   <string name="wifi">Wi-Fi</string>
   <string name="wireless_network">Sans fil &amp; réseaux</string>
-  <string name="write_a_tag">Écrire un tag</string>
+  <string name="write_a_tag">Écriture sur un tag</string>
   <string name="write_success">Écriture terminée</string>
   <string name="write_tag">Écrire</string>
   <string name="xiaomi_bytes_unit">%1$s o</string>
