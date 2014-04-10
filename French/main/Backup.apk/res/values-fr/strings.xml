@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="account_contact_backup_info">Données (Sauvegarde de Xiaomi et Gmail)</string>
+  <string name="account_contact_backup_info">Compte Google, Xiaomi et autres données liées aux contacts</string>
   <string name="account_login">Se connecter</string>
-  <string name="account_summary">Sauvegarder les comptes Gmail, mail et Xiaomi</string>
+  <string name="account_summary">" : compte Google, Xiaomi et autres données liées aux contacts"</string>
   <string name="already_enable_encrypt">Cryptage activé</string>
   <string name="app_name">Sauvegarde</string>
   <string name="auto_backup">Sauvegarde automatique</string>
@@ -30,11 +30,11 @@
   <string name="backup_file_error">Il y a un problème avec la sauvegarde, l\'opération n\'est pas valide.</string>
   <string name="backup_finished">Sauvegarde terminée</string>
   <string name="backup_hint">N\'éteignez pas le téléphone</string>
-  <string name="backup_items_app_tailer">" fichiers de données d\'application."</string>
-  <string name="backup_items_sysdata_tailer">" fichiers de données système, "</string>
+  <string name="backup_items_app_tailer">" fichiers de données d\'application "</string>
+  <string name="backup_items_sysdata_tailer">" fichiers de données système "</string>
   <string name="backup_new">Nouveau :</string>
   <string name="backup_progress">Sauvegarde…</string>
-  <string name="backup_recently">"  (dernière) "</string>
+  <string name="backup_recently">(<b>dernière</b>)</string>
   <string name="backup_report">Rapport de sauvegarde</string>
   <string name="backup_update">Mise à jour</string>
   <string name="batch_delete_backup_confirm">Confirmer la suppression de %d sauvegarde(s) ?</string>
@@ -192,9 +192,9 @@
   <string name="select_all">Tout sélectionner</string>
   <string name="select_backup_item">Éléments à sauvegarder</string>
   <string name="service_stoped">Service arrêté</string>
-  <string name="settings_summary">Sauvegarder les paramètres du téléphone et de la messagerie</string>
+  <string name="settings_summary">" : paramètres téléphone et messagerie"</string>
   <string name="sms_title">Messages</string>
-  <string name="software_backup_info">Sauvegarder les applications et leurs données</string>
+  <string name="software_backup_info">Applications et leurs données</string>
   <string name="start_backup">Démarrer la sauvegarde</string>
   <string name="start_restore">Restauration</string>
   <string name="succeed">Réussi</string>
@@ -228,7 +228,7 @@
   <string name="task_service_not_launched">Le service n\'est pas démarré, veuillez patienter !</string>
   <string name="task_stopped_exception">Tâche interrompue</string>
   <string name="total_num">%d au total</string>
-  <string name="unit_byte">" octets"</string>
+  <string name="unit_byte">o</string>
   <string name="unit_piece">" élément(s)"</string>
   <string name="unknown_hint">Inconnu</string>
   <string name="wifi_title">Paramètres Wi-Fi</string>
