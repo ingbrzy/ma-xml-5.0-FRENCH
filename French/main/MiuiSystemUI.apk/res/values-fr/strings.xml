@@ -205,7 +205,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="settings_toggle_position_reset">Réinitialiser les paramètres d\'activation/désactivation</string>
   <string name="share">Partager</string>
   <string name="status_bar_date_format">"EEEE
- d MMMM yyyy"</string>
+d MMMM yyyy"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configurer les modes de saisie</string>
   <string name="status_bar_network_flow">Aujourd\'hui : %1$s, Reste : %2$s, Limite : %3$s</string>

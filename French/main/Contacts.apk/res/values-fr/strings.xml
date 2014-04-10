@@ -405,7 +405,6 @@
   <string name="group_sms_progress_msg">Préparation de groupe SMS…</string>
   <string name="groupsLabel">Groupes</string>
   <string name="groups_list_empty">Aucun groupe</string>
-  <string name="hint_distance"/>
   <string name="hint_distance">garder la distance</string>
   <string name="hint_findContacts">Rechercher</string>
   <string name="hint_more_contact">utiliser la fusion de contact lorsqu\'il y a des contacts en double</string>
