@@ -315,7 +315,7 @@
   <string name="priority_label">"Priorité : "</string>
   <string name="priority_low">Faible</string>
   <string name="priority_normal">Normale</string>
-  <string name="privacy_mode_hint">Vous ne pouvez pas envoyer de message en mode privé</string>
+  <string name="privacy_mode_hint">Vous ne pouvez pas envoyer de message en mode invité</string>
   <string name="private_message">Message privé</string>
   <string name="private_new_notification">Notification de nouveau message privé</string>
   <string name="private_protect">Protéger les messages privés</string>

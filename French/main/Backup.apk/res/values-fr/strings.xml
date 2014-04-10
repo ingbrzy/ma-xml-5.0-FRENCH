@@ -126,8 +126,8 @@
   <string name="fail">Échoué</string>
   <string name="findlost_contact">Récupérer les contacts supprimés</string>
   <string name="findlost_contact_online">Restaurer les contacts supprimés à partir du cloud</string>
-  <string name="guarded_mode_dialog_message">Impossible de sauvegarder/restaurer en mode privé</string>
-  <string name="guarded_mode_dialog_title">Mode privé</string>
+  <string name="guarded_mode_dialog_message">Impossible de sauvegarder/restaurer en mode invité</string>
+  <string name="guarded_mode_dialog_title">Mode invité</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Ouvrez vos contacts
   
 2.\u0009Installez MiTalk et connectez-vous.

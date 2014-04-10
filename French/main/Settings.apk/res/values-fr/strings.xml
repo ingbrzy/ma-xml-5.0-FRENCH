@@ -3,8 +3,8 @@
   <string name="about_settings">À propos du téléphone</string>
   <string name="about_settings_summary">Informations légales, état et version du logiciel</string>
   <string name="ac_enable_title">Activer le contrôle d\'accès</string>
-  <string name="ac_privacy_mode_sum">Entrez le mot de passe du contrôle d\'accès pour désactiver le mode privé</string>
-  <string name="ac_privacy_mode_title">Protéger le mode privé</string>
+  <string name="ac_privacy_mode_sum">Entrez le mot de passe du contrôle d\'accès pour désactiver le mode invité</string>
+  <string name="ac_privacy_mode_title">Protéger le mode invité</string>
   <string name="ac_set_apps_title">Protéger les applications</string>
   <string name="accelerometer_summary_off">Changer automatiquement d\'orientation lors de la rotation du téléphone</string>
   <string name="accelerometer_summary_on">Changer automatiquement d\'orientation lors de la rotation du téléphone</string>
@@ -1539,8 +1539,8 @@ Donner cette autorisation aux applications peut provoquer des instabilités syst
   <string name="preferred_launcher_warning_title">Remplacement du lanceur par défaut</string>
   <string name="preferred_launcher_warning_use_system">Conserver le lanceur</string>
   <string name="preferred_media_app_summary">Choisissez le lecteur de musique</string>
-  <string name="privacy_mode_enable_sum">Cacher l\'historique d\'appel, les messages et autres données lors de l\'utilisation du mode privé</string>
-  <string name="privacy_mode_enable_title">Activer le mode privé</string>
+  <string name="privacy_mode_enable_sum">Cacher l\'historique d\'appel, les messages et autres données lors de l\'utilisation du mode invité</string>
+  <string name="privacy_mode_enable_title">Activer le mode invité</string>
   <string name="privacy_protect_title">Protection des données personnelles</string>
   <string name="privacy_relative">Confidentialité</string>
   <string name="privacy_settings">Sauvegarder et réinitialiser</string>
@@ -3302,7 +3302,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
  <!-- fw_ms_muted trop long ? a vérifier/changer -->
   <string name="fw_ms_muted">SMS mis en sourdine.</string>
   <string name="fw_ms_rejected">SMS bloqués.</string>
-  <string name="fw_no_effect">Le Mode Privé n\'est pas actif. Voulez-vous l\'activer maintenant ?</string>
+  <string name="fw_no_effect">Le Mode invité n\'est pas actif. Voulez-vous l\'activer maintenant ?</string>
   <string name="fw_notes_hint">Note (optionnel)</string>
   <string name="fw_notification_settings">Paramètres de notification</string>
   <string name="fw_on">\"Ne pas déranger\" activé</string>

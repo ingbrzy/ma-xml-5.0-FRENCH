@@ -44,7 +44,7 @@
   <string name="batch_delete">Supprimer des contacts par lot</string>
   <string name="batch_delete_msg">Êtes-vous sûr de vouloir supprimer les %d contacts sélectionnés ? Si vous utilisez le service de synchronisation de contact, les informations dans le cloud seront également supprimées.</string>
   <string name="bluetooth_connection_failed_toast">Connexion Bluetooth interrompue</string>
-  <string name="blurbJoinContactDataWith">Sélectionnez le contact que vous souhaitez fusionner avec %s.</string>
+  <string name="blurbJoinContactDataWith">Sélectionnez le contact que vous souhaitez fusionner avec %s :</string>
   <string name="btn_delete_multi_contacts">Supprimer %d contacts</string>
   <string name="btn_delete_one_contact">Supprimer contact</string>
   <string name="btn_rotation">Rotation</string>
@@ -153,11 +153,6 @@
   <string name="composer_failed_to_get_database_infomation">Impossible d\'obtenir les informations concernant la base de données.</string>
   <string name="composer_has_no_exportable_contact">Il n\'y a aucun contact exportable. Si vous avez réellement des contacts sur votre téléphone, ils peuvent être interdits d\'exportation par certains fournisseurs de données.</string>
   <string name="composer_not_initialized">"Le compositeur de carte de visite n'est pas correctement initialisé"</string>
-  <string name="config_export_extensions_to_consider"></string>
-  <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix"></string>
-  <string name="config_export_file_suffix"></string>
-  <string name="config_prohibited_phone_number_regexp"></string>
   <string name="confirm_delete_contact_all_call_logs">"Supprimer le journal d'appels ?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Supprimer le journal d'appels ?"</string>
   <string name="confirm_delete_sim_entry_miui">Supprimer %d contacts de la carte SIM ?</string>
@@ -271,7 +266,8 @@
   <string name="device_bluetooth_title">travaux préparatoires</string>
   <string name="device_brand_title">sélectionnez la marque du mobile</string>
   <string name="device_import_account_dialog_title">Sélectionnez le compte à importer</string>
-  <string name="device_import_account_dialog_title_suffix">"(trouvé %1$s contacts)"</string>
+  <string name="device_import_account_dialog_title_suffix">"
+ (%1$s contacts trouvés)"</string>
   <string name="device_import_done_toast">%1$d contacts importés</string>
   <string name="device_import_failed_message">Échec de l\'importation !</string>
   <string name="device_import_local_account">Compte local</string>
@@ -285,7 +281,7 @@
   <string name="device_other_guide">si votre téléphone n\'est pas dans la liste des fabricants, essayez d\'utiliser l\'aide ci-dessous</string>
   <string name="device_other_title">autre téléphone</string>
   <string name="device_paired_dialog_message">Appareil lié, cherchez les contacts (vous devrez peut-être confirmer sur l\'autre téléphone)…</string>
-  <string name="device_paired_dialog_title">Appareil jumelé, recherche de contacts</string>
+  <string name="device_paired_dialog_title">Appareil jumelé, recherche de contacts…</string>
   <string name="device_pairing_dialog_message">Jumelage de périphériques (vous devrez peut-être confirmer sur l\'autre téléphone)…</string>
   <string name="device_pairing_dialog_title">Jumelage de périphériques</string>
   <string name="device_version_header_bluetooth">activez le Bluetooth</string>
@@ -409,9 +405,7 @@
   <string name="group_sms_progress_msg">Préparation de groupe SMS…</string>
   <string name="groupsLabel">Groupes</string>
   <string name="groups_list_empty">Aucun groupe</string>
-  <string name="help_url_people_add"></string>
-  <string name="help_url_people_edit"></string>
-  <string name="help_url_people_main"></string>
+  <string name="hint_distance"/>
   <string name="hint_distance">garder la distance</string>
   <string name="hint_findContacts">Rechercher</string>
   <string name="hint_more_contact">utiliser la fusion de contact lorsqu\'il y a des contacts en double</string>
@@ -896,7 +890,6 @@ Pour ajouter un contact à la liste de favoris :
   <string name="restore_nickname">Restaurer</string>
   <string name="restore_to_phone_memory_failed">Impossible de restaurer vers la mémoire du téléphone !</string>
   <string name="restored_to_phone_memory">"Restauré vers la mémoire du téléphone"</string>
-  <string name="ret_sign">" "</string>
   <string name="returnCall">Rappeler</string>
   <string name="ringLabelsGroup">Sonnerie</string>
   <string name="ringtone_volume_mute">La sonnerie est actuellement en mode silencieux.</string>
@@ -1183,4 +1176,5 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="yellowpage_navigation_network_location_not_enabled_summary">YellowPage fournit des services en fonction de votre emplacement, vous pouvez améliorer la qualité des résultats en activant le service de localisation.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Service de localisation inactif</string>
   <string name="meid_invalid">MEID non valide</string>
+  <string name="eventTypeCustom">Personnalisé</string>
 </resources>

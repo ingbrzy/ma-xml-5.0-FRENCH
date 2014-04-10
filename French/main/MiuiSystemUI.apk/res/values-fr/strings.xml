@@ -248,7 +248,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="status_bar_toggle_power_low">Économie d\'énergie</string>
   <string name="status_bar_toggle_power_mid">Normal</string>
   <string name="status_bar_toggle_power_mode">Mode puissance</string>
-  <string name="status_bar_toggle_privacy_mode">Mode privé</string>
+  <string name="status_bar_toggle_privacy_mode">Mode invité</string>
   <string name="status_bar_toggle_quiet_mode">NPD</string>
   <string name="status_bar_toggle_reboot">Redémarrer</string>
   <string name="status_bar_toggle_ring">Son</string>
