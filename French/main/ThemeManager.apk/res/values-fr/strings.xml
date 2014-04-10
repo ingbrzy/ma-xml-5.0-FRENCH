@@ -91,7 +91,7 @@
   <string name="resource_delete_confirm">Supprimer ces ressources ?</string>
   <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string>
   <string name="resource_delta_update_successful">Mise à jour réussie</string>
-  <string name="resource_delta_update_total">%1$d patchs de MàJ. Total économisé : %2$s</string>
+  <string name="resource_delta_update_total">%1$d patch(s) de MàJ. Économisé : %2$s</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_detail_comment_title">Commentaires</string>
   <string name="resource_detail_jump_to_online_title">Voir en ligne</string>
