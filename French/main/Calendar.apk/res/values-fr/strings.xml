@@ -234,7 +234,9 @@
   <string name="pref_title_notification_remind">Notification de rappel</string>
   <string name="pref_title_alert_remind">Pop-up de rappel</string>
   <string name="pref_title_alarm_remind">Alarme de rappel</string>
-  
+  <string name="event_date_format">dd/MM</string>
+  <string name="event_full_date_format">dd/MM/yyyy</string>
+
  <!-- extra affiché uniquement si téléphone en chinois ?
   <string name="online_calendar_activity_label">订阅日历</string>
   <string name="add_calendar">订阅</string>

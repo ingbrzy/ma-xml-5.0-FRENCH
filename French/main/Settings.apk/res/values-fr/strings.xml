@@ -3635,6 +3635,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_can_use_wifi">Utiliser les définitions en ligne pour analyser</string>
   <string name="virus_scan_clean_dialog_message">Nettoyage…</string>
   <string name="virus_scan_clear">Nettoyer</string>
+  <string name="virus_scan_caller_unknown">Inconnu</string>
   <string name="virus_scan_dangerous">Risque</string>
   <string name="virus_scan_description">Cette appli présente un risque majeur pour la sécurité de votre téléphone.</string>
   <string name="virus_scan_file_type_risk_apk">Application suspecte (apk)</string>
