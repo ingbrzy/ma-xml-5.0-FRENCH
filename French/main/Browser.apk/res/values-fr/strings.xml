@@ -564,7 +564,7 @@
   <string name="tab_most_visited">Les + visités</string>
   <string name="tab_quicklinks">Liens rapides</string>
   <string name="tab_snapshots">Pages enregistrées</string>
-  <string name="tab_yellowpage">Sites</string>
+  <string name="tab_yellowpage">Sites populaires</string>
   <string name="title_bar_loading">Chargement…</string>
   <string name="too_many_subwindows_dialog_message">Seule une fenêtre pop-up peut être ouverte à la fois.</string>
   <string name="too_many_subwindows_dialog_title">Fenêtre contextuelle déjà ouverte</string>

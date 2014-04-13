@@ -642,7 +642,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="notification_missedCallTitle">Appel manqué</string>
   <string name="notification_missedCall_call_back">Rappeler</string>
   <string name="notification_missedCall_message">Message</string>
-  <string name="notification_missedCallsMsg">%s appels manqués</string>
+  <string name="notification_missedCallsMsg">%s appel(s) manqué(s)</string>
   <string name="notification_missedCallsTitle">Appels manqués</string>
   <string name="notification_network_selection_text">Réseau sélectionné (%s) non disponible</string>
   <string name="notification_network_selection_title">Aucun service</string>

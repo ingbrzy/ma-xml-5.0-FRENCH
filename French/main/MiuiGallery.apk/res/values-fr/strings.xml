@@ -364,9 +364,9 @@
   <string name="select_item">Sélectionner un élément</string>
   <string name="select_too_much_to_send_tips">Les images sélectionnées sont trop grosses pour être envoyées. La limite est de %d.</string>
   <string name="select_video">Sélectionner une vidéo</string>
-  <string name="send">Envoyer</string>
-  <string name="send_multiple_files_hint_format">Envoyer plusieurs fichiers (%s)</string>
-  <string name="send_public_url">Envoyer l\'URL de l\'album</string>
+  <string name="send">Partager</string>
+  <string name="send_multiple_files_hint_format">Partager plusieurs fichiers (%s)</string>
+  <string name="send_public_url">Partager l\'URL de l\'album</string>
   <string name="sepia">Sépia</string>
   <string name="set_hidden_album">Masquer</string>
   <string name="set_image">Utiliser l\'image comme</string>

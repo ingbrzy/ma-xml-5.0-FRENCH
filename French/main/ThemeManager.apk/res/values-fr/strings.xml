@@ -100,6 +100,7 @@
   <string name="resource_detail_recommend_desiner_themes">%1$s thèmes</string>
   <string name="resource_detail_recommend_other_themes">Les utilisateurs ont également apprécié</string>
   <string name="resource_detail_update_log_title">Mises à jour</string>
+ <!-- resource_detail_window_title, à reformuler ? ex "thèmes détails" "Écran de verrouillage détails", resource_detail_window_title aussi dans contact.apk -->
   <string name="resource_detail_window_title">%1$s détails</string>
   <string name="resource_download">Télécharger</string>
   <string name="resource_downloaded_title">Ressources téléchargées</string>

@@ -153,8 +153,8 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="update_monthly_build_only">Mettre à jour vers la compilation mensuelle uniquement</string>
   <string name="update_sad">Triste</string>
   <string name="update_success">Félicitations, la mise à jour est appliquée avec succès !</string>
-  <string name="update_success_body">Le système a été correctement mis à jour vers %s</string>
-  <string name="update_success_title">Félicitations. Mise à jour terminée</string>
+  <string name="update_success_body">Version : %s</string>
+  <string name="update_success_title">Système mis à jour avec succès !</string>
   <string name="updater_finish_download">Téléchargement de la ROM terminé</string>
   <string name="upgrade_close">Fermer</string>
   <string name="upgrade_kernel">Le noyau actuel nécessite une mise à jour</string>

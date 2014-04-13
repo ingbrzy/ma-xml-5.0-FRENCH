@@ -1695,7 +1695,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="runningservices_settings_title">Services en cours d\'exécution</string>
   <string name="scan_list_label">Résultats de l\'analyse :</string>
   <string name="screen">Écran</string>
-  <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
+  <string name="screen_button_custom">Personnaliser la position des touches</string>
   <string name="screen_button_key">Écran de touches virtuelles</string>
   <string name="screen_color_temperature">Température des couleurs</string>
   <string name="screen_color_temperature_adjust">Température des couleurs</string>
@@ -3428,14 +3428,14 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_chooser_mine_summary">Sauvegarde les paramètres système d\'origine</string>
   <string name="power_chooser_mine_title">Personnalisé</string>
   <string name="power_chooser_sleep_summary">Désactive toutes les fonctions (téléphone, messages, internet) à l\'exception du réveil</string>
-  <string name="power_chooser_sleep_title">>Mode veille</string>
+  <string name="power_chooser_sleep_title">Mode veille</string>
   <string name="power_chooser_smart_summary">Sauvegarde les paramètres actuels, vide les processus quand verrouillé</string>
   <string name="power_chooser_smart_title">Mode par défaut</string>
   <string name="power_chooser_standby_summary">Désactive les fonctions Internet</string>
   <string name="power_chooser_standby_title">Mode marathon</string>
   <string name="power_chooser_title">Batterie</string>
   <string name="power_chooser_user_define_summary">Créer une configuration personnalisée pour batterie</string>
-  <string name="power_chooser_user_define_title">Ajouter profil perso.</string>
+  <string name="power_chooser_user_define_title">Ajouter un profil personnalisé</string>
   <string name="power_consume_other">Autres</string>
   <string name="power_consume_rank_hardware">Matériel</string>
   <string name="power_consume_rank_software">Applis</string>
@@ -3830,8 +3830,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
     list_sub_view_item_lock: Add to white list
     list_sub_view_item_unlock: Add to white list
  -->
-  <string name="list_sub_view_item_lock">Verrouillé</string>
-  <string name="list_sub_view_item_unlock">Déverrouillé</string>
+  <string name="list_sub_view_item_lock">Verrouiller</string>
+  <string name="list_sub_view_item_unlock">Déverrouiller</string>
   <string name="power_save_on_time_goout_title">Restaurer vers</string>
   <string name="power_save_choose_recovery_mode">Sélectionnez un mode</string>
   <string name="power_new_choose_mode">Sélectionnez un mode</string>
@@ -3901,7 +3901,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="list_sub_view_item_view_detail">Détails</string>
   <string name="list_sub_view_item_view_file">Fichier</string>
   <string name="list_sub_view_item_uninstall">Désinstaller</string>
-  <string name="list_sub_view_item_backup_uninstall">Sauv. et désinst.</string>
+  <string name="list_sub_view_item_backup_uninstall">Sauveg. et désinst.</string>
   <string name="pref_category_title_garbage_cleanup_check">Paramètres de nettoyage</string>
   <string name="pref_title_garbage_cleanup_check_time">Alarme corbeille</string>
   <string name="pref_summary_garbage_cleanup_check_time">Me prévient lorsque la Corbeille atteint une certaine taille</string>
@@ -3912,15 +3912,15 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="applications_sort_type_item_size">Taille</string>
   <string name="dialog_title_uninstall_apps">Désinstaller</string>
   <string name="dialog_title_backup_and_uninstall_apps">Sauvegarder et désinstaller</string>
-  <string name="dialog_msg_uninstall_apps">Désinstaller ces applications ?</string>
-  <string name="dialog_msg_backup_and_uninstall_apps">Sauvegarder et la désinstaller les applis</string>
+  <string name="dialog_msg_uninstall_apps">Désinstaller la sélection ?</string>
+  <string name="dialog_msg_backup_and_uninstall_apps">Sauvegarder et la désinstaller la sélection ?</string>
   <string name="button_text_uninstall_apps">Désinstaller</string>
-  <string name="button_text_backup_and_uninstall_apps">Sauvegarder et désinstaller</string>
+  <string name="button_text_backup_and_uninstall_apps">Sauveg. et désinstaller</string>
   <string name="toast_backup_is_running">Une sauvegarde est déjà en cours. Veuillez réessayer dans 1 ou 2 minutes.</string>
   <string name="toast_backup_uninstall_failed">Échec de la sauvegarde de %d applis. Veuillez réessayer dans 1 ou 2 minutes.</string>
   <string name="toast_backup_uninstall_success">Sauvegarde et désinstallation effectuées</string>
   <string name="notification_title_of_garbage_cleanup">Alarme corbeille</string>
-  <string name="notification_summary_of_garbage_cleanup">La corbeille excède %s. Envisagez de la vider.</string>
+  <string name="notification_summary_of_garbage_cleanup">La corbeille excède %s.</string>
   <string name="item_garbage_time_daily">Quotidiennement</string>
   <string name="item_garbage_time_3d">Tout les 3 jours</string>
   <string name="item_garbage_time_7d">Une fois par semaine</string>

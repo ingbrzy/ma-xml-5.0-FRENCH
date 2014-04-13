@@ -66,7 +66,7 @@
   <string name="decompress_confirm">Décompresser ?</string>
   <string name="decompress_fail">Échec de la décompression !</string>
   <string name="decompress_success">Décompression réussie</string>
-  <string name="decompress_to">Décompresser vers :</string>
+  <string name="decompress_to">Décompresser vers…</string>
   <string name="decompress_to_here">Décompresser ici</string>
   <string name="delete_failed">Suppression échouée</string>
   <string name="delete_file">Êtes-vous sûr de vouloir supprimer ce fichier ?</string>

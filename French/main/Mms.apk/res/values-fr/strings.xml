@@ -120,8 +120,8 @@
   <string name="edit_phrase">Modifier la phrase</string>
   <string name="edit_slide_activity">Modifier la diapositive</string>
   <string name="edit_slideshow_activity">Modifier le diaporama</string>
-  <string name="enable_password_protect">Activer le mot de passe de protection</string>
-  <string name="enable_visible_pattern_title">Rendre le schéma visible</string>
+  <string name="enable_password_protect">Schéma de verrouillage requis</string>
+  <string name="enable_visible_pattern_title">Rendre visible le schéma</string>
   <string name="enter_edit_mode">Supprimer</string>
   <string name="error_code_label">"Code d'erreur : "</string>
   <string name="error_state">État incohérent</string>
@@ -317,9 +317,9 @@
   <string name="priority_normal">Normale</string>
   <string name="privacy_mode_hint">Vous ne pouvez pas envoyer de message en mode invité</string>
   <string name="private_message">Message privé</string>
-  <string name="private_new_notification">Notification de nouveau message privé</string>
+  <string name="private_new_notification">Notification de nouveau message</string>
   <string name="private_protect">Protéger les messages privés</string>
-  <string name="private_settings">Paramètre privé</string>
+  <string name="private_settings">Paramètres de messagerie privée</string>
   <string name="processing">En cours…</string>
   <string name="prvate_contact">Contact privé</string>
   <string name="rate_limit_surpassed">Confirmer</string>
