@@ -16,7 +16,7 @@
   <string name="auto_brightness">Luminosité auto</string>
   <string name="auto_brightness_on_off">Luminosité auto %s</string>
   <string name="available_networks">Réseaux disponibles</string>
-  <string name="avg_read_tag">Moy. lectures\jour :</string>
+  <string name="avg_read_tag">Moy. lectures/jour :</string>
   <string name="back_to_home">Retour</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="body_characters">%d/650</string>
@@ -127,7 +127,8 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="pwd_prot_on">ON</string>
   <string name="read_a_tag">Lecture d\'un tag</string>
   <string name="reading">Lecture…</string>
-  <string name="remote_app">Téléchargement…</string>
+ <!-- remote_app à voir... -->
+  <string name="remote_app">" "</string>
   <string name="remove_alert">Supprimer les tâches sélectionnées ?</string>
   <string name="ringer_mode">Mode de sonnerie</string>
   <string name="ringer_normal">Sonnerie</string>
