@@ -237,7 +237,6 @@
   <string name="delete_bookmark_warning">Supprimer le favori \"%s\" ?</string>
   <string name="delete_folder">Supprimer le dossier</string>
   <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
-  <string name="disable_autofill">Désactiver la saisie automatique</string>
   <string name="download">Télécharger</string>
   <string name="download_complete">Téléchargement terminé</string>
   <string name="download_default_path_txt">Définir comme chemin de téléchargement par défaut et ne plus me demander</string>
