@@ -693,12 +693,11 @@
   <string name="webview_older">Plus ancien</string>
   <string name="pref_version_summary">Version : %s</string>
   <string name="pref_category_title_version">Version</string>
-  
+  <string name="save_image_success">Image enregistrée</string>
+  <string name="save_image_failed">"Échec de l'enregistrement de l'image"</string>
+  <string name="js_disable_confirm_title">Désactiver le JavaScript ?</string>
+  <string name="js_disable_confirm_message">La désactivation du JavaScript peut causer l\'affichage incorrect de certains certains sites web</string>
 <!--à traduire
-  <string name="save_image_success">Save image succeed</string>
-  <string name="save_image_failed">Save image failed</string>
-  <string name="js_disable_confirm_title">Disable JavaScript?</string>
-  <string name="js_disable_confirm_message">Disabling JavaScript may cause some websites to display incorrectly</string>
   <string name="cloud_tab">Cloud Tab</string>
   <string name="sync_item_browser_title">Sync browser</string>
   <string name="sync_item_browser_summary">Sync data to your cloud, and make using browser on different devices easy</string>

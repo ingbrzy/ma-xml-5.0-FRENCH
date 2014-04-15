@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pre_webapp_text_sizes">
+        <item>Énorme</item>
+        <item>Grande</item>
+        <item>Normale</item>
+        <item>Petite</item>
+    </string-array>
+</resources>

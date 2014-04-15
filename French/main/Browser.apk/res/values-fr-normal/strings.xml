@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="webapp_app_name">Web Apps Store</string>
+    <string name="webapp_dialog_title">Ajouter une appli sur l\'accueil</string>
+    <string name="webapp_add_to_desktop">Ajouter à l\'accueil</string>
+    <string name="webapp_addtodeskpop_append">Ajouté</string>
+    <string name="webapp_add_to_favorite_toast">Ajouté aux favoris</string>
+    <string name="webapp_webapp_favortes_title">Mes favoris</string>
+    <string name="dialog_geolocation_reject">Accepter</string>
+    <string name="dialog_geolocation_share">Refuser</string>
+    <string name="webapp_menu_addtodesk">Ajouter à l\'accueil</string>
+    <string name="webapp_menu_already_addtodesk">Déjà ajouté !</string>
+    <string name="webapp_menu_share">Partager</string>
+    <string name="webapp_menu_settings">Paramètres</string>
+    <string name="webapp_menu_nightmode">Mode nuit</string>
+    <string name="webapp_menu_favorites">Mes favoris</string>
+    <string name="webapp_menu_exit">Quitter</string>
+    <string name="webapp_settings_title">Paramètres</string>
+    <string name="pref_webapp_settings_fontsize">Taille de la police</string>
+    <string name="pref_webapp_settings_savewidth">Ne pas télécharger les images en 2G/3G</string>
+    <string name="pref_webapp_settings_hidebottombar">Masquer la barre inférieure</string>
+</resources>
