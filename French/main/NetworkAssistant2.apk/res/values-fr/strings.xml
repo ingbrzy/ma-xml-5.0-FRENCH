@@ -50,6 +50,8 @@ Hors limite"</string>
     <string name="main_traffic_used_only">Utilisé : %s</string>
     <string name="main_alert_message_no_mobile_package">Limite de données mobiles non définie</string>
     <string name="main_alert_message_no_imsi">Aucune carte SIM détectée</string>
+    <string name="main_alert_message_slot_no_data_connection">"La carte SIM ne supporte pas la
+connexion au réseau de données mobiles"</string>
     <string name="permit_running_network">Autoriser les données en arrière-plan</string>
     <string name="network_control">Voir les paramètres de l\'appli</string>
     <string name="foreground_traffic">Premier plan %s</string>

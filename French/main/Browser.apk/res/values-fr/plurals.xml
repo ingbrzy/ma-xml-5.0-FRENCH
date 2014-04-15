@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="webview_matches_found">
+        <item quantity="other">%1$d sur %2$d</item>
+        <item quantity="one">1 résultat</item>
+    </plurals>
+    <plurals name="webview_last_num_days">
+        <item quantity="other">Les %d derniers jours</item>
+    </plurals>
+</resources>

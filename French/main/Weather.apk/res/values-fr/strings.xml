@@ -47,6 +47,9 @@
     <string name="aqi_quality_index_light_pollution">pollution légère</string>
     <string name="aqi_quality_index_moderate">modéré</string>
     <string name="aqi_quality_index_pure">excellent</string>
+  <!--à traduire
+    <string name="aqi_quality_index_break">Yikes!</string>
+   -->
     <string name="aqi_quality_index_unhealthy">malsain</string>
     <string name="button_allow">Autoriser</string>
     <string name="button_not_allow">Refuser</string>

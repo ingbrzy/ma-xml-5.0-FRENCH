@@ -42,6 +42,7 @@
   <string name="empty_share_history">Pas d\'historique de partage</string>
   <string name="error_bad_file">Fichier corrompu</string>
   <string name="error_connect_service">Impossible de se connecter au service de transfert</string>
+  <string name="file_not_exist">Fichier inexistant</string>
   <string name="error_download">Le téléchargement a échoué</string>
   <string name="error_general">Une erreur globale est survenue</string>
   <string name="error_info_cant_send_folder">Attention ! Les dossiers ne peuvent pas être envoyées !</string>
@@ -141,7 +142,8 @@
   <string name="save_to_kuaipan">Enregistrer sur MiDrive</string>
   <string name="scan_2d_code">Scanner un code 2D</string>
   <string name="scan_file">Parcourir les fichiers</string>
-  <string name="scan_tip">Assurez-vous que le receveur a activé la connexion et peut recevoir des fichiers</string>
+  <string name="scan_tip">"Assurez-vous que le receveur a activé la connexion
+et peut recevoir des fichiers"</string>
   <string name="scan_title">Veuillez cibler le code 2D</string>
   <string name="scanning">Scan…</string>
   <string name="sdcard_invalid">Aucune carte SD disponible !</string>
