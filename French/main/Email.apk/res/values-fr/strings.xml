@@ -635,7 +635,7 @@
   <string name="att_mgr_title_order_sender">Expéditeur</string>
   <string name="att_mgr_title_order_rev_date">Date</string>
   <string name="att_mgr_title_order_size">Taille</string>
-  <string name="input_password_prompt">Veillez saisir le mot de passe ::</string>
+  <string name="input_password_prompt">Veuillez saisir le mot de passe :</string>
   <string name="wrong_password">Mot de passe incorrect !</string>
   <string name="str_select_all">Tout sélectionner</string>
   <string name="str_select_none">Désélectionner tout</string>
@@ -649,7 +649,7 @@
   <string name="download_confirm_title">Confirmation de téléchargement</string>
   <string name="download_confirm_message">Pour ouvrir ce fichier, vous devez télécharger %1$so supplémentaires</string>
   <string name="downlaod_confirm_download">Télécharger</string>
-  <string name="download_cancel_confirm_title">Annuler le téléchargement?</string>
+  <string name="download_cancel_confirm_title">Annuler le téléchargement ?</string>
   <string name="downlaod_cancel_confirm_download">Confirmer</string>
   <string name="downlaod_cancel_continue_download">Annuler</string>
   
