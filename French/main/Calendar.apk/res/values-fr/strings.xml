@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!-- removed in 4.3.27 mi2 -->
-  <string name="show_all_lunar">Afficher lunaire</string>
-  <string name="show_almanac">Afficher l\'almanach</string>
- <!-- -->
   <string name="accessibility_add_attendee">Ajouter un participant</string>
   <string name="accessibility_add_reminder">Ajouter un rappel</string>
   <string name="accessibility_all_day">Toute la journée</string>
@@ -228,6 +224,7 @@
   <string name="refresh">Actualiser</string>
   <string name="tab_local">Local</string>
   <string name="tab_online">En ligne</string>
+  <string name="tab_category">Catégories</string>
   <string name="huangli_label">Huang Li</string>
   <string name="holiday_label">Fête</string>
   <string name="pref_title_no_remind">Aucun rappel</string>
@@ -237,7 +234,7 @@
   <string name="event_date_format">dd/MM</string>
   <string name="event_full_date_format">dd/MM/yyyy</string>
 
- <!-- extra affiché uniquement si téléphone en chinois ?
+ <!-- extra affiché uniquement si téléphone en chinois
   <string name="online_calendar_activity_label">订阅日历</string>
   <string name="add_calendar">订阅</string>
   <string name="exist_calendar">已订阅</string>
@@ -250,8 +247,22 @@
   <string name="no_local_calendar">没有订阅日历 :)</string>
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="movable_list_header_label">简介</string>
-  <string name="today_weather_unavailable">无法获取天气信息</string>
   <string name="subscribe_all">全部订阅</string>
   <string name="enter_calendar">进入日历</string>
+  <string name="huangli_good_type">宜</string>
+  <string name="huangli_bad_type">忌</string>
+  <string name="chongsha">冲煞</string>
+  <string name="wuxing">五行</string>
+  <string name="xingxiu">星宿</string>
+  <string name="taishen">胎神</string>
+  <string name="pengzu">彭祖</string>
+  <string name="zhushen">诸神</string>
+  <string name="button_online">订</string>
+  <string name="topic_event_list_header_label">近期活动</string>
+  <string name="setting_load_images_under_data_conn">非WIFI网络下加载在线订阅大图</string>
+  <string name="online_reminder_header_text">提醒</string>
+  <string name="online_reminder_slider_text">启用提醒</string>
+  <string name="online_reminder_minutes_text">提醒时间</string>
+  <string name="online_reminder_change_text">修改提醒</string>
  -->
 </resources>
