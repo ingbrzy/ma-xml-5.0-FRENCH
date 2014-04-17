@@ -210,7 +210,6 @@
   <string name="clear_display_images_whitelist_title">Supprimer les autorisations liées aux images</string>
   <string name="collapse_recipient_details">Réduire les coordonnées du destinataire</string>
   <string name="compose">Nouveau message</string>
-  <string name="compose_help_context">composer</string>
   <string name="confirm_discard_text">Supprimer ce message ?</string>
   <string name="confirm_response">Envoi de la réponse en cours…</string>
   <string name="confirm_send_message">Envoyer ce message ?</string>
@@ -342,7 +341,6 @@
   <string name="mailbox_settings_mailbox_sync_window_label">Synchroniser depuis</string>
   <string name="mailbox_settings_sync_enabled_label">Synchroniser ce dossier</string>
   <string name="mailbox_settings_sync_enabled_summary">Tous les messages sont téléchargés lorsque vous vous connectez</string>
-  <string name="main_help_context">ttl</string>
   <string name="manual_sync">Synchroniser</string>
   <string name="mark_important">Marquer comme importante</string>
   <string name="mark_not_important">Marquer comme non importante</string>
@@ -558,7 +556,6 @@
   <string name="wait_for_manual_sync_body">La synchronisation automatique n\'est pas configurée pour ce compte.\nAppuyez sur \"<b>"Synchroniser"</b>\" pour une synchronisation ponctuelle de la messagerie ou sur \"<b>"Modifier les paramètres"</b>\" pour activer la synchronisation automatique.</string>
   <string name="wait_for_sync_body">Votre e-mail va bientôt s\'afficher.</string>
   <string name="wait_for_sync_title">En attente de synchronisation</string>
-  <string name="wait_help_context">Patientez</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="yes">Oui</string>
   <string name="meeting_accepted">Réunion acceptée : %s</string>
@@ -642,72 +639,68 @@
   <string name="download_cancel_confirm_title">Annuler le téléchargement ?</string>
   <string name="downlaod_cancel_confirm_download">Confirmer</string>
   <string name="downlaod_cancel_continue_download">Annuler</string>
-  
-  
-  
-  
-  
-  
- <!-- à traduire
-  <string name="contact_content_provider">Contact Content Provider</string>
-  <string name="feedback_body">Feedback information</string>
-  <string name="remote_folders_heading">Server Folders</string>
-  <string name="actionbar_title_mail_aggregation">Mail aggregation:</string>
-  <string name="widget_all_mail">All Mail</string>
-  <string name="widget_other_views">Other</string>
-  <string name="empty_email_tip">Could not send Empty Email</string>
-  <string name="remove_account">Remove account</string>
-  <string name="remove_account_confirm">The account \"%1$s\" will be removed from WPSMail.</string>
-  <string name="hint_quick_reply_all">Reply to all here</string>
-  <string name="Folders">Folders</string>
-  <string name="account_setup_service_not_set">Your e-mail service settings yet to be conducted</string>
-  <string name="account_setup_need_password_verification">Your account has been opened secondary password authentication, authentication is required</string>
-  <string name="name_or_number_is_error">User name or password error</string>
-  <string name="account_set_up_notice">Just a few steps, you can set up an email account for the majority of</string>
-  <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
-  <string name="please_fill_in_your_mailbox_information2">Please fill in your mailbox-related information:</string>
-  <string name="login">Login</string>
-  <string name="other_mail">Other mail</string>
-  <string name="account_settings_list_title">Please select mail service providers need to add:</string>
-  <string name="confirm">confirm</string>
-  <string name="annex_size">attachments</string>
-  <string name="change_account_type">Change account type</string>
-  <string name="change_account_confirm">The account \"%1$s\" will be removed from WPSMail.</string>
-  <string name="set_network">Set network</string>
-  <string name="net_check_title">Network anomaly, please check the network。</string>
-  <string name="wait_for_sync_body_2">Exchange Server will prompt you within 1-30 seconds.Please confirm the security setting and activate.Pay attention to system alert.</string>
+  <string name="remote_folders_heading">Dossiers serveur</string>
+  <string name="remove_account">Supprimer le compte</string>
+  <string name="remove_account_confirm">Le compte \"%1$s\" va être supprimé.</string>
+  <string name="Folders">Dossiers</string>
+  <string name="login">Connexion</string>
+  <string name="other_mail">Autre mail</string>
+  <string name="confirm">OK</string>
+  <string name="annex_size">Pièces jointes</string>
+  <string name="change_account_type">Changer de type de compte</string>
+  <string name="change_account_confirm">Le compte \"%1$s\" va être supprimé.</string>
+  <string name="protocol">Protocole</string>
+  <string name="no_mails">Aucun e-mail</string>
+  <string name="contact_list_add_btn">Ajouter</string>
+  <string name="not_subject">Aucun sujet</string>
+  <string name="refreshing">Actualisation…</string>
+  <string name="file_rar_not_support">Fichiers RAR encryptés non supportés</string>
+  <string name="file_not_found">Fichier introuvable sur le serveur mail</string>
+  <string name="file_not_found_reDownload">Fichier introuvable, veuillez réessayer</string>
+  <string name="file_deleted_success">Fichier supprimé</string>
+  <string name="password_changed_prompt">Impossible de se connecter.</string>
+  <string name="contact_list_title">Liste de contacts</string>
+  <string name="contact_list_search_hint">Recherche de contacts</string>
+  <string name="local_search">Recherche locale</string>
+  <string name="widget_all_mail">Tous</string>
+  <string name="widget_other_views">Autres</string>
+  <string name="search_result">Résultat de recherche :</string>
+  <string name="set_network">Définir le réseau</string>
+  <string name="net_check_title">Erreur réseau, veuillez vérifier vos paramètres réseau.</string>
+  <string name="pull_to_refresh">Tirer pour actualiser</string>
+  <string name="release_to_refresh">Relâcher pour actualiser</string>
+  <string name="not_updated_yet">Pas encore mis à jour</string>
+  <string name="updated_at">Dernière màj : %1$s</string>
+  <string name="updated_just_now">Mis à jour récemment</string>
+  <string name="please_fill_in_your_mailbox_information2">Veuillez saisir vos identifiants :</string>
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
   <string name="default_exchange">EXCHANGE</string>
-  <string name="default_setup">DEFAULT SETTINGS</string>
-  <string name="default_">DEFAULT</string>
+  <string name="default_setup">PARAMÈTRES PAR DÉFAUT</string>
+  <string name="default_">PAR DÉFAUT</string>
+  <string name="name_or_number_is_error">Nom d\'utilisateur ou mot de passe incorrect</string>
+  
+ <!-- à traduire
+  <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
+   
+  <string name="contact_content_provider">Contact Content Provider</string>
+  <string name="feedback_body">Feedback information</string>
+  <string name="actionbar_title_mail_aggregation">Mail aggregation:</string>
+  <string name="empty_email_tip">Could not send Empty Email</string>
+  <string name="hint_quick_reply_all">Reply to all here</string>
+  <string name="account_setup_service_not_set">Your e-mail service settings yet to be conducted</string>
+  <string name="account_setup_need_password_verification">Your account has been opened secondary password authentication, authentication is required</string>
+  <string name="account_set_up_notice">Just a few steps, you can set up an email account for the majority of</string>
+  <string name="account_settings_list_title">Please select mail service providers need to add:</string>
+  <string name="wait_for_sync_body_2">Exchange Server will prompt you within 1-30 seconds.Please confirm the security setting and activate.Pay attention to system alert.</string>
   <string name="prompt_title">Prompt</string>
-  <string name="password_changed_prompt">"Couldn't sign in."</string>
-  <string name="protocol">Protocol</string>
   <string name="account_set_up_change_type_note">If you want to set the switching account before POP3 and IMAP, you must first delete the account, re configure login.</string>
-  <string name="contact_list_title">Contact List</string>
-  <string name="contact_list_search_hint">Search for contacts</string>
-  <string name="file_rar_not_support">Does not support encrypted rar file!</string>
-  <string name="file_not_found">File not found on the mail server!</string>
-  <string name="file_not_found_reDownload">File not found, please try again!</string>
-  <string name="file_deleted_success">File deleted successfully!</string>
   <string name="download_complete_not_cancel">Download is complete, cancel failed!</string>
   <string name="select_no_file">No selected attachment to share</string>
   <string name="download_before_sharing">" is not downloaded yet, please download it before sharing!"</string>
   <string name="no_matched_attachment">No matched attachments!</string>
   <string name="always_bcc_myself">Mail Always Bcc Myself</string>
-  <string name="local_search">Local Search</string>
-  <string name="no_mails">No Mails</string>
-  <string name="contact_list_add_btn">Add</string>
   <string name="validation_failed_prompt">Validation failed, please set the %s server</string>
-  <string name="search_result">Search Result :</string>
-  <string name="not_subject">No Subject</string>
-  <string name="pull_to_refresh">Pull to refresh</string>
-  <string name="release_to_refresh">Release to refresh</string>
-  <string name="refreshing">Refreshing…</string>
-  <string name="not_updated_yet">No yet Updated</string>
-  <string name="updated_at">Last Updated%1$s</string>
-  <string name="updated_just_now">Just Updated</string>
-  <string name="time_error">Time Promblem</string>
+  <string name="time_error">Time Problem</string>
  -->
 </resources>
