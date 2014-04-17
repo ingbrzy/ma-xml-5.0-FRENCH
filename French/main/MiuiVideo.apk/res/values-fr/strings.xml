@@ -207,6 +207,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="find_media_count_bu">%d résultats</string>
   <string name="find_media_searching">Recherche…</string>
   <string name="visit_postfix">| récemment visité</string>
+  <string name="check_network">Impossible de se connecter, vérifiez vos paramètres réseaux</string>
   
  <!-- FIX; cn to en-->
   <string name="variety">Variety</string>

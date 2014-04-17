@@ -1,15 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="compose_modes">
+        <item>Répondre</item>
+        <item>Répondre à tous</item>
+        <item>Transférer</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Opération réussie.</item>
+        <item>Aucune connexion</item>
+        <item>Connexion impossible.</item>
+        <item>Erreur de sécurité.</item>
+        <item>Synchronisation impossible.</item>
+        <item>Erreur interne</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Système</item>
+        <item>Souvent utilisés</item>
+        <item>Tous les dossiers</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Conversation précédente</item>
+        <item>Conversation suivante</item>
+        <item>Liste des conversations</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Afficher les conversations plus récentes après suppression</item>
+        <item>Afficher les conversations plus anciennes après suppression</item>
+        <item>Afficher la liste des conversations après suppression</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>"N'afficher que le bouton \"Archiver\""</item>
+        <item>"N'afficher que le bouton \"Supprimer\""</item>
+        <item>Afficher les boutons \"Archiver\" et \"Supprimer\"</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>"N'afficher que le bouton \"Archiver\""</item>
+        <item>"N'afficher que le bouton \"Supprimer\""</item>
+        <item>Afficher les boutons \"Archiver\" et \"Supprimer\"</item>
+    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Très petits caractères</item>
         <item>Petits caractères</item>
         <item>Caractères de taille normale</item>
         <item>Grands caractères</item>
         <item>Très grands caractères</item>
-    </string-array>
-    <string-array name="general_preference_auto_advance_summary_array">
-        <item>"Afficher le message suivant après suppression d\'un message"</item>
-        <item>"Afficher le message précédent après suppression d\'un message"</item>
-        <item>"Afficher la liste des messages après suppression d\'un message"</item>
     </string-array>
 </resources>
