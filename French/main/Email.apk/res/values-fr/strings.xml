@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!-- crash the app ?
+ <!-- still crash the app ?
   <string name="mailbox_name_server_all_unread">Non lus</string>
   <string name="mailbox_name_server_drafts">Brouillons</string>
   <string name="mailbox_name_server_inbox">Boîte de réception</string>
@@ -8,7 +8,8 @@
   <string name="mailbox_name_server_outbox">Boîte d\'envoi</string>
   <string name="mailbox_name_server_sent">Envoyé</string>
   <string name="mailbox_name_server_starred">Favoris</string>
-  <string name="mailbox_name_server_trash">Corbeille</string> -->
+  <string name="mailbox_name_server_trash">Corbeille</string> 
+ -->
   <string name="account_cache_provider">Fournisseur de caches de compte</string>
   <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dupliquer le compte</string>
@@ -618,19 +619,52 @@
   <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
-
+  <string name="auth_error_notification_title">"Erreur d'authentification"</string>
+  <string name="auth_error_notification_text">Appuyez pour modifier les paramètres du compte %s.</string>
+  <string name="menu_att_mgr">Pièces jointes</string>
+  <string name="menu_att_mgr_order_default">Par défaut</string>
+  <string name="menu_att_mgr_order_mime">Trier par format</string>
+  <string name="menu_att_mgr_order_name">Trier par nom</string>
+  <string name="menu_att_mgr_order_sender">Trier par expéditeur</string>
+  <string name="menu_att_mgr_order_rev_date">Trier par date</string>
+  <string name="menu_att_mgr_order_size">Trier par taille</string>
+  <string name="colon">" :"</string>
+  <string name="more_atts_total">%1$d pièces jointes</string>
+  <string name="att_mgr_title_order_mime">Format</string>
+  <string name="att_mgr_title_order_name">Nom</string>
+  <string name="att_mgr_title_order_sender">Expéditeur</string>
+  <string name="att_mgr_title_order_rev_date">Date</string>
+  <string name="att_mgr_title_order_size">Taille</string>
+  <string name="input_password_prompt">Veillez saisir le mot de passe ::</string>
+  <string name="wrong_password">Mot de passe incorrect !</string>
+  <string name="str_select_all">Tout sélectionner</string>
+  <string name="str_select_none">Désélectionner tout</string>
+  <string name="att_mgr_no_attachment">Aucune pièce jointe</string>
+  <string name="zip_viewer_no_file">Aucun fichier</string>
+  <string name="sharing">Partager</string>
+  <string name="forward_attachment">Faire suivre</string>
+  <string name="sort_attachment">Trier par</string>
+  <string name="search_attachment">Recherche</string>
+  <string name="attachment_mgr_name">Pièce jointe</string>
+  <string name="download_confirm_title">Confirmation de téléchargement</string>
+  <string name="download_confirm_message">Pour ouvrir ce fichier, vous devez télécharger %1$so supplémentaires</string>
+  <string name="downlaod_confirm_download">Télécharger</string>
+  <string name="download_cancel_confirm_title">Annuler le téléchargement?</string>
+  <string name="downlaod_cancel_confirm_download">Confirmer</string>
+  <string name="downlaod_cancel_continue_download">Annuler</string>
+  
+  
+  
+  
+  
+  
  <!-- à traduire
-  <string name="auth_error_notification_title">Authentication error</string>
-  <string name="auth_error_notification_text">Touch to edit account settings for %s</string>
   <string name="contact_content_provider">Contact Content Provider</string>
   <string name="feedback_body">Feedback information</string>
-  <string name="str_select_all">Select all</string>
-  <string name="str_select_none">Deselect all</string>
   <string name="remote_folders_heading">Server Folders</string>
   <string name="actionbar_title_mail_aggregation">Mail aggregation:</string>
   <string name="widget_all_mail">All Mail</string>
   <string name="widget_other_views">Other</string>
-
   <string name="empty_email_tip">Could not send Empty Email</string>
   <string name="remove_account">Remove account</string>
   <string name="remove_account_confirm">The account \"%1$s\" will be removed from WPSMail.</string>
@@ -649,9 +683,6 @@
   <string name="annex_size">attachments</string>
   <string name="change_account_type">Change account type</string>
   <string name="change_account_confirm">The account \"%1$s\" will be removed from WPSMail.</string>
-  <string name="account_type_exchange">Exchange</string>
-  <string name="account_type_pop3">Pop3</string>
-  <string name="account_type_imap">Imap</string>
   <string name="set_network">Set network</string>
   <string name="net_check_title">Network anomaly, please check the network。</string>
   <string name="wait_for_sync_body_2">Exchange Server will prompt you within 1-30 seconds.Please confirm the security setting and activate.Pay attention to system alert.</string>
@@ -666,40 +697,11 @@
   <string name="account_set_up_change_type_note">If you want to set the switching account before POP3 and IMAP, you must first delete the account, re configure login.</string>
   <string name="contact_list_title">Contact List</string>
   <string name="contact_list_search_hint">Search for contacts</string>
-  <string name="attachment_mgr_name">Attachment</string>
-  <string name="download_confirm_title">Downloading confirmation</string>
-  <string name="download_confirm_message">To open this file, You need to download the attachment size of 180K %1$s</string>
-  <string name="downlaod_confirm_download">Download</string>
-  <string name="download_cancel_confirm_title">Cancel the download?</string>
-  <string name="downlaod_cancel_confirm_download">Cancel download</string>
-  <string name="downlaod_cancel_continue_download">Cancel</string>
-  <string name="menu_att_mgr">Attachments</string>
-  <string name="menu_att_mgr_order_default">Default</string>
-  <string name="menu_att_mgr_order_mime">Sort by format</string>
-  <string name="menu_att_mgr_order_name">Sort by name</string>
-  <string name="menu_att_mgr_order_sender">Sort by sender</string>
-  <string name="menu_att_mgr_order_rev_date">Sort by time</string>
-  <string name="colon">:</string>
-  <string name="more_atts_total">%1$d attachments in total</string>
-  <string name="menu_att_mgr_order_size">Sort by size</string>
-  <string name="att_mgr_title_order_mime">Format</string>
-  <string name="att_mgr_title_order_name">Name</string>
-  <string name="att_mgr_title_order_sender">Sender</string>
-  <string name="att_mgr_title_order_rev_date">Date</string>
-  <string name="att_mgr_title_order_size">File size</string>
-  <string name="input_password_prompt">Please enter the password:</string>
-  <string name="wrong_password">Wrong password!</string>
   <string name="file_rar_not_support">Does not support encrypted rar file!</string>
   <string name="file_not_found">File not found on the mail server!</string>
   <string name="file_not_found_reDownload">File not found, please try again!</string>
   <string name="file_deleted_success">File deleted successfully!</string>
   <string name="download_complete_not_cancel">Download is complete, cancel failed!</string>
-  <string name="att_mgr_no_attachment">No attachments!</string>
-  <string name="zip_viewer_no_file">No files!</string>
-  <string name="sharing">Share</string>
-  <string name="forward_attachment">Forward</string>
-  <string name="sort_attachment">Sort by</string>
-  <string name="search_attachment">Search</string>
   <string name="select_no_file">No selected attachment to share</string>
   <string name="download_before_sharing">" is not downloaded yet, please download it before sharing!"</string>
   <string name="no_matched_attachment">No matched attachments!</string>
@@ -708,7 +710,6 @@
   <string name="no_mails">No Mails</string>
   <string name="contact_list_add_btn">Add</string>
   <string name="validation_failed_prompt">Validation failed, please set the %s server</string>
-  <string name="spaceChar">" "</string>
   <string name="search_result">Search Result :</string>
   <string name="not_subject">No Subject</string>
   <string name="pull_to_refresh">Pull to refresh</string>
