@@ -3975,7 +3975,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="list_sub_view_item_cleanup">Effacer</string>
   <string name="list_sub_view_item_backup_cleanup">Faire une sauvegarde</string>
   <string name="white_list_cache_header">Fichiers en cache : %d</string>
-  <string name="white_list_ad_header">Fichiers pub. s: %d</string>
+  <string name="white_list_ad_header">Fichiers pub. : %d</string>
   <string name="white_list_apk_header">Fichiers .apk : %d</string>
   <string name="white_list_large_file_header">Fichiers volumineux : %d</string>
   <string name="white_list_residual_header">Résidus : %d</string>
@@ -4022,7 +4022,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="pref_category_title_cleanup_white_list">Liste de blanche</string>
   <string name="pref_title_cleanup_white_list">Liste des éléments ignorés</string>
   <string name="pref_summary_cleanup_white_list">Les éléments de la liste blanche sont ignorés</string>
-  <string name="pref_summary_garbage_cleanup_check_size">Avertir si poubelle dépasse la taille définie</string>
+  <string name="pref_summary_garbage_cleanup_check_size">Avertir si la poubelle dépasse la taille définie</string>
   <string name="dialog_msg_load_cleanup_engine_error">Outil de nettoyage endommagé, il peut être est nécessaire de réinstaller la ROM</string>
  <!-- à traduire 
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>

@@ -530,20 +530,12 @@
   <string name="too_large_to_attach_multiple">Un ou plusieurs fichiers n\'ont pas été joints. La limite est de %1$s.</string>
   <string name="too_large_to_attach_single">"Impossible de joindre un fichier dépassant %1$s."</string>
   <string name="trash_folder_selection_title">Sélect. dossier \"Corbeille\" du serveur pour %s.</string>
-  <string name="trigger_compose_char">c</string>
-  <string name="trigger_refresh_char">u</string>
-  <string name="trigger_save_char">s</string>
-  <string name="trigger_y_char">y</string>
   <string name="turn_auto_sync_on_dialog_body">Les modifications que vous apporterez dans l\'ensemble des applications et des comptes, pas seulement dans Gmail, seront synchronisées avec le Web, vos autres appareils et votre %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activer</string>
   <string name="turn_auto_sync_on_dialog_title">Activer la synchronisation automatique ?</string>
   <string name="undo">Annuler</string>
   <string name="unread_string">conversation non lue</string>
   <string name="unsent_messages_in_outbox">%1$s message(s) non envoyé(s) dans %2$s</string>
-  <string name="veiled_address"></string>
-  <string name="veiled_alternate_text"></string>
-  <string name="veiled_alternate_text_unknown_person"></string>
-  <string name="veiled_summary_unknown_person"></string>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Afficher d\'autres conversations</string>
   <string name="wait_for_manual_sync_body">La synchronisation automatique n\'est pas configurée pour ce compte.\nAppuyez sur \"<b>"Synchroniser"</b>\" pour une synchronisation ponctuelle de la messagerie ou sur \"<b>"Modifier les paramètres"</b>\" pour activer la synchronisation automatique.</string>
@@ -675,6 +667,7 @@
   <string name="feedback_body">Veuillez saisir votre rapport</string>
   <string name="hint_quick_reply_all">Répondre à tous</string>
   <string name="always_bcc_myself">Toujours recevoir une copie</string>
+  <string name="forward">Transférer</string>
   
  <!-- à traduire
   <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
