@@ -292,7 +292,6 @@
   <string name="forward_attribution_no_headers">---------- Message transféré ----------</string>
   <string name="forward_download_failed_ticker">"Impossible de transférer une ou plusieurs pièces jointes."</string>
   <string name="forward_download_failed_title">Pièce jointe non transférée</string>
-  <string name="forward_subject_label">Transféré:</string>
   <string name="from_heading">"De : "</string>
   <string name="general_preference_confirm_delete_label">Confirmer avant suppression</string>
   <string name="general_preference_confirm_delete_summary">Messages</string>
@@ -461,7 +460,6 @@
   <string name="reply">Répondre</string>
   <string name="reply_all">Répondre à tous</string>
   <string name="reply_attribution" formatted="false">Le %s, %s a écrit :</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Répondre à : "</string>
   <string name="report">Signaler</string>
   <string name="report_phishing">Signaler comme phishing</string>
@@ -674,15 +672,16 @@
   <string name="default_setup">PARAMÈTRES PAR DÉFAUT</string>
   <string name="default_">PAR DÉFAUT</string>
   <string name="name_or_number_is_error">Nom d\'utilisateur ou mot de passe incorrect</string>
+  <string name="feedback_body">Veuillez saisir votre rapport</string>
+  <string name="hint_quick_reply_all">Répondre à tous</string>
+  <string name="always_bcc_myself">Toujours recevoir une copie</string>
   
  <!-- à traduire
   <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
-   
   <string name="contact_content_provider">Contact Content Provider</string>
   <string name="feedback_body">Feedback information</string>
   <string name="actionbar_title_mail_aggregation">Mail aggregation:</string>
   <string name="empty_email_tip">Could not send Empty Email</string>
-  <string name="hint_quick_reply_all">Reply to all here</string>
   <string name="account_setup_service_not_set">Your e-mail service settings yet to be conducted</string>
   <string name="account_setup_need_password_verification">Your account has been opened secondary password authentication, authentication is required</string>
   <string name="account_set_up_notice">Just a few steps, you can set up an email account for the majority of</string>
@@ -694,7 +693,6 @@
   <string name="select_no_file">No selected attachment to share</string>
   <string name="download_before_sharing">" is not downloaded yet, please download it before sharing!"</string>
   <string name="no_matched_attachment">No matched attachments!</string>
-  <string name="always_bcc_myself">Mail Always Bcc Myself</string>
   <string name="validation_failed_prompt">Validation failed, please set the %s server</string>
   <string name="time_error">Time Problem</string>
  -->

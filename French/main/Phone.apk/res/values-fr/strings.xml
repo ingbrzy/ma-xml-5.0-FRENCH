@@ -1180,31 +1180,11 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="use_ims_default_title">Toujours utiliser IMS</string>
   <string name="remove_ims_account">Supprimer me compte</string>
   <string name="respond_via_sms_menu_reset_default_activity">Rétablir application par défaut</string>
-  
- <!-- à traduire
-  <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
- -->
   <string name="retry">Réessayer</string>
   <string name="call_lost_title">Appel perdu</string>
   <string name="enter_input">Saisie requise. Réessayez !</string>
   <string name="modify_call_prompt_yes">Oui</string>
   <string name="modify_call_prompt_no">Non</string>
- <!-- à traduire
-  <string name="modify_call_failure_str">"Modify Call request failed
-"</string>
-  <string name="modify_call_option_title">Which type of call?</string>
-  <string name="modify_call_option_vt">VT</string>
-  <string name="modify_call_option_vt_tx">Video transmit</string>
-  <string name="modify_call_option_vt_rx">Video receive</string>
-  <string name="modify_call_option_voice">Voice Only</string>
-  <string name="accept_modify_call_request_prompt">Accept modify call request?</string>
-  <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
-  <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
-  <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
-  <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
-"</string>
-  <string name="onscreenModifyCallText">Modify Call</string>
- -->
   <string name="onscreenSwitchText">Changer d\'abonnement</string>
   <string name="onscreenAddParticipant">Ajouter un participant</string>
   <string name="managed_roaming_title">Gestion de l\'itinérance</string>
@@ -1224,4 +1204,26 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="set_sub_global_activate_failed">Activation globale échouée</string>
   <string name="set_sub_global_deactivate_failed">Désactivation globale échouée</string>
   <string name="set_sub_not_supported_phone_in_call">Activation ou désactivation non autorisée lorsque le téléphone est en appel.</string>
+ <!-- à traduire
+  <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
+  <string name="modify_call_failure_str">"Modify Call request failed
+"</string>
+  <string name="modify_call_option_title">Which type of call?</string>
+  <string name="modify_call_option_vt">VT</string>
+  <string name="modify_call_option_vt_tx">Video transmit</string>
+  <string name="modify_call_option_vt_rx">Video receive</string>
+  <string name="modify_call_option_voice">Voice Only</string>
+  <string name="accept_modify_call_request_prompt">Accept modify call request?</string>
+  <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
+  <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
+  <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
+  <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
+"</string>
+  <string name="onscreenModifyCallText">Modify Call</string>
+  <string name="no_volte">Unable to make IMS call</string>
+  <string name="ims_edit_title">IMS account details</string>
+  <string name="ims_accounts_title">IMS Account</string>
+  <string name="ims_domain_address_title">IMS Server</string>
+  <string name="use_ims_default_summary">Use IMS for all voice calls</string>
+ -->
  </resources>

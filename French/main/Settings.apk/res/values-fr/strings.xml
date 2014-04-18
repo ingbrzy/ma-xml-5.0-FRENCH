@@ -114,7 +114,6 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="android_beam_tips">Assurez-vous que les deux appareils se touchent, puis sélectionnez le contenu que vous souhaitez transférer.</string>
   <string name="android_beam_witch_label">Activer Android Beam</string>
   <string name="animator_duration_scale_title">Échelle durée animations</string>
-  <string name="antispam_quiet_mode_title">Ne pas déranger</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Type d\'authentification</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -4020,8 +4019,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="dialog_msg_cleanup_apps">"Toutes les données appli. vont être supprimées. Cela inclus tous les fichiers, paramètres, comptes, etc."</string>
   <string name="dialog_msg_backup_and_cleanup_apps">Une fois la sauvegarde effectuée, toutes les données appli. seront supprimées. Cela inclus tous les fichiers, paramètres, comptes, etc.</string>
   <string name="dialog_title_load_cleanup_engine_error">Erreur</string>
-  
-  
+
  <!-- à traduire 
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
@@ -4031,6 +4029,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="pref_category_title_cleanup_white_list">Trash clean-up white list</string>
   <string name="pref_title_cleanup_white_list">Trash clean-up white list</string>
   <string name="pref_summary_cleanup_white_list">Trash in white list will be ignore</string>
+  <string name="pref_summary_garbage_cleanup_check_size">Notify me when Trash reaches a certain size</string>
   <string name="dialog_msg_load_cleanup_engine_error">Garbage clean engine has been corrupted, the whole amount of the package or re-brush brush!</string>
   -->
 </resources>
