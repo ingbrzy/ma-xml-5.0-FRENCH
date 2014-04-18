@@ -3868,7 +3868,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="scanning_prefix">Analyse : %s</string>
   <string name="cleanning_prefix">Nettoyage : %s</string>
   <string name="scanning_start_hints">Préparation du moteur d\'analyse</string>
-  <string name="pref_category_title_auto_update_cleanup_db">Paramètres de nettoyage de la base de donnée</string>
+  <string name="pref_category_title_auto_update_cleanup_db">Paramètres de la base de donnée</string>
   <string name="pref_title_auto_update_cleanup_db">Mises à jour auto.</string>
   <string name="pref_summary_auto_update_cleanup_db">MàJ : %s</string>
   <string name="pref_title_manual_check_cleanup_db_update">Vérifier maintenant</string>
@@ -4019,17 +4019,14 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="dialog_msg_cleanup_apps">"Toutes les données appli. vont être supprimées. Cela inclus tous les fichiers, paramètres, comptes, etc."</string>
   <string name="dialog_msg_backup_and_cleanup_apps">Une fois la sauvegarde effectuée, toutes les données appli. seront supprimées. Cela inclus tous les fichiers, paramètres, comptes, etc.</string>
   <string name="dialog_title_load_cleanup_engine_error">Erreur</string>
-
+  <string name="pref_category_title_cleanup_white_list">Liste de blanche</string>
+  <string name="pref_title_cleanup_white_list">Liste des éléments ignorés</string>
+  <string name="pref_summary_cleanup_white_list">Les éléments de la liste blanche sont ignorés</string>
+  <string name="pref_summary_garbage_cleanup_check_size">Avertir si poubelle dépasse la taille définie</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Outil de nettoyage endommagé, il peut être est nécessaire de réinstaller la ROM</string>
  <!-- à traduire 
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
-  
   <string name="button_text_view_power">View power</string>
-  
-  <string name="pref_category_title_cleanup_white_list">Trash clean-up white list</string>
-  <string name="pref_title_cleanup_white_list">Trash clean-up white list</string>
-  <string name="pref_summary_cleanup_white_list">Trash in white list will be ignore</string>
-  <string name="pref_summary_garbage_cleanup_check_size">Notify me when Trash reaches a certain size</string>
-  <string name="dialog_msg_load_cleanup_engine_error">Garbage clean engine has been corrupted, the whole amount of the package or re-brush brush!</string>
   -->
 </resources>
