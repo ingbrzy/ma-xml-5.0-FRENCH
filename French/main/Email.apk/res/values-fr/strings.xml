@@ -679,7 +679,6 @@
  <!-- à traduire
   <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
   <string name="contact_content_provider">Contact Content Provider</string>
-  <string name="feedback_body">Feedback information</string>
   <string name="actionbar_title_mail_aggregation">Mail aggregation:</string>
   <string name="empty_email_tip">Could not send Empty Email</string>
   <string name="account_setup_service_not_set">Your e-mail service settings yet to be conducted</string>
