@@ -14,7 +14,8 @@
     <string name="long_click">Appui long</string>
     <string name="action_open_flashlight">Lampe-torche</string>
     <string name="action_open_other_app">Ouvrir une application</string>
-    <string name="action_open_camera">Prendre une photo</string>
+    <string name="action_open_camera">Appareil photo</string>
+    <string name="action_open_camera2">Prendre une photo</string>
     <string name="action_screen_shot">Capture d\'écran</string>
     <string name="action_clear_sms_inbox">Effacer la boite de réception SMS</string>
     <string name="action_clear_call_list">Effacer le journal d\'appels</string>
@@ -28,6 +29,8 @@
     <string name="action_share_to_moment">Partager sur Moment</string>
     <string name="action_share_to_weibo">Partager sur Weibo</string>
     <string name="action_send_text_message">Partager par SMS</string>
+    <string name="action_share_to_miliao">Partager sur MiTalk</string>
+    <string name="action_share_to_miliao_wall">Partager sur MiTalk (mur)</string>
     <string name="action_phone">Passer un appel</string>
     <string name="category_app">Applications</string>
     <string name="category_system_settings">Paramètres système</string>
@@ -71,5 +74,12 @@
     <string name="cn_10000">10000</string>
     <string name="cn_100000000">100000000</string>
     <string name="splash_tip">Connectez votre MiKey</string>
-    <string name="task_title_prefix">"Étape N : "</string>
+    <string name="default_action_title">Action par défaut</string>
+    <string name="action_home">ACCUEIL</string>
+    <string name="message_photo_end">Photo enregistrée</string>
+    <string name="select_camera">Veuillez sélectionner la caméra</string>
+    <string name="front_camera">Avant</string>
+    <string name="back_camera">Arrière</string>
+    <string name="write_pic_fail">Erreur, impossible d\'enregistrer de la photo</string>
+    <string name="task_title_prefix">"N) "</string>
 </resources>
