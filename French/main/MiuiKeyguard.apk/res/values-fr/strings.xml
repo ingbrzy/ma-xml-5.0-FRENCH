@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="lockscreen_emergency_call">Appel d\'urgence</string>
+  <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
+  <string name="lockscreen_transport_prev_description">Titre précédent</string>
+  <string name="lockscreen_transport_next_description">Titre suivant</string>
+  <string name="lockscreen_transport_play_description">Bouton de lecture</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">Réessayez dans %d secondes.</string>
+  <string name="lockscreen_pattern_wrong">Veuillez réessayer.</string>
+  <string name="lockscreen_pattern_instructions">Dessinez un schéma pour déverrouiller le téléphone</string>
+  <string name="unlockscreen_recharging_message">Chargement %d%%</string>
+  <string name="unlockscreen_recharge_completed">Chargée</string>
+  <string name="unlockscreen_low_battery">Branchez le chargeur</string>
+  <string name="emergency_call_string">Appel d\'urgence</string>
+  <string name="forget_password_string">MDP oublié ?</string>
+  <string name="miui_unlockscreen_password_wrong">Veuillez réessayer.</string>
+  <string name="contact_carrier_message">Veuillez contacter votre opérateur pour toute question</string>
+  <string name="input_puk_code">Code PUK</string>
+  <string name="input_puk_code_to_unlock">Déverrouiller le périphérique</string>
+  <string name="unlocking_sim_card">Déverrouillage de la carte SIM</string>
+  <string name="short_pukcode_error_msg">Veuillez saisir au moins 8 chiffres</string>
+  <string name="short_pincode_error_msg">Veuillez saisir de 4 à 8 chiffres</string>
+  <string name="input_pin_code">Code PIN</string>
+  <string name="input_pin_code_to_unlock">Déverrouiller le périphérique</string>
+  <string name="pincode_set_to_default_msg">Le code PIN est 1234, veuillez réinitialiser le code PIN ici.</string>
+  <string name="incorrect_pukcode_remaining_attempts">Code PUK incorrect, %d tentatives restantes</string>
+  <string name="incorrect_pincode_remaining_attempts">Code PIN incorrect, %d tentatives restantes</string>
+  <string name="incorrect_pukcode">Code PUK incorrect</string>
+  <string name="incorrect_pincode">Code PIN incorrect</string>
+  <string name="puk_operation_failed">L\'opération PUK a échoué.</string>
+  <string name="pin_operation_failed">L\'opération PIN a échoué.</string>
+  <string name="return_to_me_message">Veuillez le remettre au propriétaire.</string>
+  <string name="unlock_string">OK</string>
+  <string name="open_wifi_settings">Ouvrir les paramètres Wi-Fi</string>
+  <string name="lock_screen_date">EEEE d MMMM</string>
+  <string name="lockscreen_glogin_instructions">Pour déverrouiller le téléphone, veuillez vous connecter avec votre compte Google.</string>
+  <string name="lockscreen_glogin_password_hint">Mot de passe</string>
+  <string name="lockscreen_glogin_checking_password">Vérification en cours…</string>
+  <string name="login_website_in_case_forget_password">Veuillez aller sur http://i.xiaomi.com afin de réinitialiser votre mot de passe</string>
+  <string name="screen_on_proximity_sensor_title">Capteur de proximité obstrué !</string>
+  <string name="screen_on_proximity_sensor_summary">"Pour empêcher toute erreur de manipulation, le téléphone est désactivé !"</string>
+  <string name="screen_on_proximity_sensor_hint">"Astuce : Appuyez longuement sur le bouton Marche/Arrêt pour quitter le mode \"mauvaise utilisation\". Voir Paramètres &gt; Affichage pour désactiver"</string>
+  <string name="experimental_validate_thanks">Merci !</string>
+  <string name="experimental_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
+  <string name="experimental_validate">Valider</string>
+  <string name="experimental_try_string">Essayer</string>
+  <string name="experimental_validate_username">ID Xiaomi</string>
+  <string name="experimental_validate_password">Mot de passe</string>
+  <string name="experimental_validate_progress">Validation…</string>
+  <string name="experimental_validate_fail">La validation a échoué, veuillez réessayer</string>
+  <string name="lockscreen_glogin_forgot_pattern">Déverrouillage du compte</string>
+  <string name="lockscreen_glogin_too_many_attempts">Trop de tentatives</string>
+  <string name="lockscreen_glogin_invalid_input">Nom d\'utilisateur ou mot de passe incorrect.</string>
+  <string name="find_device_turn_off_flight_mode_instructions">Votre appareil a été verrouillé, veuillez désactiver le mode Avion</string>
+  <string name="find_device_check_sim">Vérification de la carte SIM…</string>
+  <string name="find_device_turn_off_flight_mode">Désactiver le Mode Avion</string>
+  <string name="phone_locked_string">Appareil verrouillé</string>
+  <string name="phone_locked_timeout_seconds_string">Veuillez réessayer dans %s secondes</string>
+  <string name="phone_locked_timeout_minutes_string">Veuillez réessayer dans %s minutes</string>
+  <string name="input_password_hint_text">Saisir le mot de passe</string>
+  <string name="unlock_sim_string">Déverrouillage SIM</string>
+  <string name="lockscreen_glogin_submit_button">Se connecter</string>
+  <string name="lockscreen_access_pattern_start">Schéma commencé</string>
+  <string name="lockscreen_access_pattern_cleared">Schéma effacé.</string>
+  <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée.</string>
+  <string name="lockscreen_access_pattern_detected">Schéma terminé.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Vous avez mal entré votre mot de passe %d fois. Après %d tentatives infructueuses de plus il vous sera demandé de déverrouiller votre téléphone avec vos détails de compte. 
+  
+Réessayer dans %d secondes."</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie.</string>
+
+ <!-- à traduire :
+   <string name="starting_camera_string">Starting camera</string>
+ -->
+</resources>

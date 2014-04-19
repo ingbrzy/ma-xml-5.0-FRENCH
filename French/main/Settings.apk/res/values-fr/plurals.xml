@@ -46,4 +46,13 @@
         <item quantity="one">%d application peut lire les notifications.</item>
         <item quantity="other">%d applications peuvent lire les notifications.</item>
     </plurals>
+  <!-- 4.4&+ ? -->
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Code PIN de la carte SIM incorrect. Il vous reste %d tentatives.</item>
+        <item quantity="one">Code PIN de la carte SIM incorrect. Il vous reste %d tentative. Après cela, vous devrez contacter votre opérateur pour déverrouiller votre appareil.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s imprimantes trouvées.</item>
+        <item quantity="one">%1$s imprimante trouvée.</item>
+    </plurals>
 </resources>

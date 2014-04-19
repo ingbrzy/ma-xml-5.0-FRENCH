@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Recadrer</string>
+    <string name="wallpaper_instructions">Appliquer</string>
+    <string name="wallpaper_load_fail">Impossible d\'appliquer l\'image en fond d\'écran</string>
+</resources>

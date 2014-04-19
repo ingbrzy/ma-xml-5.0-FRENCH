@@ -13,6 +13,7 @@
 * GT-I9100: Samsung Galaxy S2 jb-4.1
 * GT-N7000: Samsung Galaxy Note jb-4.1
 * haida: Sony Xperia Neo V jb-4.1
+* hammerhead: Google-LG Nexus 5 kk-4.4
 * HM2013022: Xiaomi Hongmi (TD-SCDMA) jb-4.2
 * HM2013023: Xiaomi Hongmi (WCDMA) jb-4.2
 * hwp6-u06: Huawei P6-U06 jb-4.2

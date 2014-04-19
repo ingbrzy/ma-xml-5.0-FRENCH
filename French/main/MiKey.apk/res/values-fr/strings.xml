@@ -42,7 +42,7 @@
     <string name="running_notification">MiKey</string>
     <string name="click_to_open">Appuyez pour ouvrir</string>
     <string name="call_to">Appeler</string>
-    <string name="sms_to">Envoyer un SMS</string>
+    <string name="sms_to">Destinataire</string>
     <string name="sms_template">Contenu du SMS</string>
     <string name="confirm">Confirmer</string>
     <string name="cancel">Annuler</string>

@@ -16,6 +16,7 @@
         <item>2 minutes</item>
         <item>5 minutes</item>
         <item>10 minutes</item>
+        <item>Jamais</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Jamais</item>
@@ -43,13 +44,6 @@
         <item>Normal</item>
         <item>Large</item>
         <item>Très grand</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Très lent</item>
-        <item>Lent</item>
-        <item>Normal</item>
-        <item>Rapide</item>
-        <item>Très rapide</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Très faible</item>
@@ -90,12 +84,6 @@
         <item>Ouvert</item>
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Bouton d\activation</item>
@@ -140,12 +128,6 @@
         <item>"Temps d'utilisation"</item>
         <item>Nombre de lancements</item>
         <item>Nom de l\'application</item>
-    </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Aucun</item>
@@ -416,13 +398,6 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>1.5 seconde</item>
         <item>2 secondes</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Aucun</item>
-        <item>720x480 mdpi</item>
-        <item>1280x720 tvdpi</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi et 1920x1080 xhdpi</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Aucun</item>
         <item>Logcat</item>
@@ -586,4 +561,82 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Réseau lent en raison de la faible intensité du signal</item>
         <item>En mouvement…</item> <!-- à revoir ? <item>Moving…</item> = <item>En mouvement…</item> ? -->
     </string-array>
+ <!-- not same for all phones
+    <string-array name="tts_rate_entries"> 
+        <item>Très lent</item>
+        <item>Lent</item>
+        <item>Normal</item>
+        <item>Rapide</item>
+        <item>Très rapide</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Aucun</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi et 1920x1080 xhdpi</item>
+    </string-array>
+-->
+
+  <!-- for n5 at least -->
+  <string-array name="captioning_typeface_selector_titles">
+    <item>Par défaut</item>
+    <item>Sans Serif</item>
+    <item>Sans Serif condensé</item>
+    <item>Serif</item>
+    <item>Espace simple</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item>Très petite</item>
+    <item>Petite</item>
+    <item>Normale</item>
+    <item>Grande</item>
+    <item>Très grande</item>
+  </string-array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item>Aucun</item>
+    <item>Contour</item>
+    <item>Ombre projetée</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item>Texte blanc sur fond noir</item>
+    <item>Texte noir sur fond blanc</item>
+    <item>Texte jaune sur fond noir</item>
+    <item>Texte jaune sur fond bleu</item>
+    <item>Personnalisé</item>
+  </string-array>
+  <string-array name="select_runtime_titles">
+    <item>Dalvik</item>
+    <item>ART</item>
+    <item>ART (débogage)</item>
+  </string-array>
+  <string-array name="select_runtime_summaries">
+    <item>Utiliser Dalvik</item>
+    <item>Utiliser ART</item>
+    <item>Utiliser le build de débogage ART</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item>normale</item>
+    <item>moyenne</item>
+    <item>faible</item>
+    <item>critique</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item>Désactivé</item>
+    <item>Dessiner zone de découpage non rectangulaire en bleu</item>
+    <item>Surligner en vert les commandes de dessin testées</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item>Désactivé</item>
+    <item>À l\'écran sous forme de barres</item>
+    <item>À l\'écran sous forme de lignes</item>
+    <item>Dans adb shell dumpsys gfxinfo</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item>Désactivé</item>
+    <item>Afficher les zones de conflit</item>
+    <item>Afficher couleurs de zones adaptées à deutéranomalie</item>
+    <item>Afficher le compteur des conflits</item>
+  </string-array>
+
 </resources>
