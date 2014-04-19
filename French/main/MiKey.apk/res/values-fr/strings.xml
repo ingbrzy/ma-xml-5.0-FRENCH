@@ -28,7 +28,7 @@
     <string name="action_share_to_wechat">Partager sur WeChat</string>
     <string name="action_share_to_moment">Partager sur Moment</string>
     <string name="action_share_to_weibo">Partager sur Weibo</string>
-    <string name="action_send_text_message">Partager par SMS</string>
+    <string name="action_send_text_message">Envoyer un SMS</string>
     <string name="action_share_to_miliao">Partager sur MiTalk</string>
     <string name="action_share_to_miliao_wall">Partager sur MiTalk (mur)</string>
     <string name="action_phone">Passer un appel</string>
@@ -75,11 +75,11 @@
     <string name="cn_100000000">100000000</string>
     <string name="splash_tip">Connectez votre MiKey</string>
     <string name="default_action_title">Action par défaut</string>
-    <string name="action_home">ACCUEIL</string>
+    <string name="action_home">Accueil</string>
     <string name="message_photo_end">Photo enregistrée</string>
     <string name="select_camera">Veuillez sélectionner la caméra</string>
-    <string name="front_camera">Avant</string>
-    <string name="back_camera">Arrière</string>
+    <string name="front_camera">Capteur frontal</string>
+    <string name="back_camera">Capteur arrière</string>
     <string name="write_pic_fail">Erreur, impossible d\'enregistrer de la photo</string>
     <string name="task_title_prefix">"N) "</string>
 </resources>
