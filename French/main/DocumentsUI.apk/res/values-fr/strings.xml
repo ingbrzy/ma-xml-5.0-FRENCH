@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_label">Documents</string>
+  <string name="title_open">Ouvrir à partir de</string>
+  <string name="title_save">Enregistrer sous</string>
+  <string name="menu_create_dir">Créer un dossier</string>
+  <string name="menu_grid">Grille</string>
+  <string name="menu_list">Liste</string>
+  <string name="menu_sort">Trier par</string>
+  <string name="menu_search">Rechercher</string>
+  <string name="menu_settings">Paramètres</string>
+  <string name="menu_open">Ouvrir</string>
+  <string name="menu_save">Enregistrer</string>
+  <string name="menu_share">Partager</string>
+  <string name="menu_delete">Supprimer</string>
+  <string name="mode_selected_count">%1$d élément(s) sélectionné(s)</string>
+  <string name="sort_name">Par nom</string>
+  <string name="sort_date">Par date de modification</string>
+  <string name="sort_size">Par taille</string>
+  <string name="drawer_open">Afficher les répertoires racines</string>
+  <string name="drawer_close">Masquer les répertoires racines</string>
+  <string name="save_error">Échec de l\'enregistrement du document.</string>
+  <string name="create_error">Échec de la création du dossier.</string>
+  <string name="query_error">Échec de la demande de documents.</string>
+  <string name="root_recent">Récents</string>
+  <string name="root_available_bytes">Espace disponible : %1$s</string>
+  <string name="root_type_service">Services de stockage</string>
+  <string name="root_type_shortcut">Raccourcis</string>
+  <string name="root_type_device">Appareils</string>
+  <string name="root_type_apps">Autres applications</string>
+  <string name="pref_advanced_devices">Afficher les appareils avancés</string>
+  <string name="pref_file_size">Afficher la taille des fichiers</string>
+  <string name="pref_device_size">Afficher la capacité de stockage des appareils</string>
+  <string name="empty">Aucun élément</string>
+  <string name="toast_no_application">Impossible d\'ouvrir le fichier.</string>
+  <string name="toast_failed_delete">Impossible de supprimer certains documents.</string>
+  <string name="share_via">Partager via</string>
+</resources>

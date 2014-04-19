@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string  name="app_name">Service NFC</string>
+  <string  name="nfcUserLabel">NFC</string>
+  <string  name="inbound_me_profile_title">Contact reçu via NFC</string>
+  <string  name="inbound_me_profile_text">Appuyez pour ajouter cette personne à vos contacts.</string>
+  <string  name="outbound_me_profile_title">Communication NFC terminée.</string>
+  <string  name="outbound_me_profile_text">Appuyez pour communiquer vos coordonnées à cette personne.</string>
+  <string  name="accessibility_nfc_enabled">NFC activée</string>
+  <string  name="touch">Appuyer pour partager</string>
+  <string  name="beam_progress">Partage entrant…</string>
+  <string  name="beam_outgoing">Partage en cours…</string>
+  <string  name="beam_complete">Partage terminé.</string>
+  <string  name="beam_failed">Échec du partage.</string>
+  <string  name="beam_canceled">Partage annulé.</string>
+  <string  name="cancel">Annuler</string>
+  <string  name="beam_touch_to_view">Appuyer pour afficher</string>
+  <string  name="beam_handover_not_supported">"Le récepteur n'est pas compatible avec le transfert de fichiers volumineux via le partage."</string>
+  <string  name="beam_try_again">Mettre de nouveau les appareils côte à côte</string>
+  <string  name="connecting_headset">Connexion en cours…</string>
+  <string  name="connected_headset">Connecté</string>
+  <string  name="connect_headset_failed">"Impossible d’établir la connexion."</string>
+  <string  name="disconnecting_headset">Déconnexion en cours…</string>
+  <string  name="disconnected_headset">Déconnecté</string>
+  <string  name="pairing_headset">Association en cours…</string>
+  <string  name="pairing_headset_failed">"Impossible d'effectuer l'association."</string>
+  <string  name="failed_to_enable_bt">"Impossible d'activer le Bluetooth."</string>
+  <string  name="confirm_pairing">"Voulez-vous vraiment associer l'appareil Bluetooth %1$s ?"</string>
+  <string  name="pair_yes">Oui</string>
+  <string  name="pair_no">Non</string>
+  <string  name="tap_again_to_pay">Appuyez à nouveau pour payer avec %1$s</string>
+  <string  name="tap_again_to_complete">Appuyez à nouveau pour terminer la transaction avec %1$s</string>
+  <string  name="transaction_failure">"Impossible d\'effectuer cette transaction avec %1$s."</string>
+  <string  name="could_not_use_app">"Impossible d\'utiliser %1$s."</string>
+  <string  name="pay_with">Effectuer avec</string>
+  <string  name="complete_with">Compléter avec</string>
+  <string  name="default_pay_app_removed">Le service par défaut pour la fonctionnalité tap-and-pay a été supprimé. Voulez-vous en sélectionner un autre ?</string>
+</resources>
