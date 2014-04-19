@@ -343,8 +343,8 @@
   <string name="mark_important">Marquer comme importante</string>
   <string name="mark_not_important">Marquer comme non importante</string>
   <string name="mark_not_spam">Non-spam</string>
-  <string name="mark_read">Marquer comme lue</string>
-  <string name="mark_unread">Marquer comme non lue</string>
+  <string name="mark_read">Marquer comme lu</string>
+  <string name="mark_unread">Marquer comme non lu</string>
   <string name="me_object_pronun">moi</string>
   <string name="me_subject_pronun">moi</string>
   <string name="megabytes">%s Mo</string>

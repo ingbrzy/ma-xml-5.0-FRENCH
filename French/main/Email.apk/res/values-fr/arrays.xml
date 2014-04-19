@@ -45,4 +45,11 @@
         <item>Grands caractères</item>
         <item>Très grands caractères</item>
     </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Par défaut</item>
+        <item>Format</item>
+        <item>Nom</item>
+        <item>Expéditeur</item>
+        <item>Date</item>
+    </string-array>
 </resources>

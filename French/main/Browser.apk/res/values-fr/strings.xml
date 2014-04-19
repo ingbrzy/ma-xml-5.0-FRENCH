@@ -129,7 +129,7 @@
   <string name="accessibility_button_clear">Effacer la saisie</string>
   <string name="account">Compte</string>
   <string name="action">Se connecter</string>
-  <string name="add_bookmark">Ajouter aux favoris</string>
+  <string name="add_bookmark">"Ajouter un favori "</string>
   <string name="add_folder">Ajouter un dossier</string>
   <string name="add_new_bookmark">Ajouter un favori</string>
   <string name="add_quicklink_to_popular">Ajouter à la page d\'accueil</string>
@@ -426,7 +426,7 @@
   <string name="pref_general_setting_title">Paramètres</string>
   <string name="pref_general_title">Général</string>
   <string name="pref_gesture_title">Opérations gestuelles</string>
-  <string name="pref_images_preload_dialogtitle">Préchargement d\'images…</string>
+  <string name="pref_images_preload_dialogtitle">Précharger les images</string>
   <string name="pref_images_preload_summary">" autoriser le navigateur à précharger les images lorsque le serveur le supporte"</string>
   <string name="pref_images_preload_title">Préchargement d\'image</string>
   <string name="pref_images_preload_value_always_summary">Toujours autoriser le navigateur à précharger les images lorsque le serveur le supporte</string>

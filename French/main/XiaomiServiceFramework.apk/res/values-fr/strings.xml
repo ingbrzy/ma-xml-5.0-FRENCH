@@ -240,8 +240,8 @@ Vous pouvez faire autre chose…"</string>
   <string name="wrong_captcha">Code captcha incorrect</string>
   <string name="wrong_vcode">Code de vérification incorrect</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
-  <string name="enable_sync">Activer la synch.</string>
-  <string name="enable_sync_dspt">Synch. désactivé</string>
+  <string name="enable_sync">Activer</string>
+  <string name="enable_sync_dspt">Synchronisation désactivée</string>
   <string name="micloud_account_details">Détails du compte</string>
   <string name="micloud_app_data">MiCloud app backups</string>
   <string name="micloud_data_loading">Chargement…</string>
