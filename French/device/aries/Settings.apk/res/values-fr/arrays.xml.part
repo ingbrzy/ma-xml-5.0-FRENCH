@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="tts_rate_entries">
+    <item>Très lente</item>
+    <item>Lente</item>
+    <item>Normale</item>
+    <item>Rapide</item>>
+    <item>Très rapide</item>
+  </string-array>
+</resources>
