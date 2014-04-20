@@ -987,21 +987,6 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="headset_settings">Paramètres du casque</string>
   <string name="heavy_weight_stop_description">"Impossible d'arrêter cette application en toute sécurité. Si vous l'arrêtez, vous risquez de perdre une partie du travail en cours."</string>
   <string name="help_label">Aide</string>
-  <string name="help_url_accounts"></string>
-  <string name="help_url_backup_reset"></string>
-  <string name="help_url_battery"></string>
-  <string name="help_url_bluetooth"></string>
-  <string name="help_url_choose_lockscreen"></string>
-  <string name="help_url_data_usage"></string>
-  <string name="help_url_dreams"></string>
-  <string name="help_url_location_access"></string>
-  <string name="help_url_more_networks"></string>
-  <string name="help_url_security"></string>
-  <string name="help_url_sound"></string>
-  <string name="help_url_tether"></string>
-  <string name="help_url_users"></string>
-  <string name="help_url_vpn"></string>
-  <string name="help_url_wifi"></string>
   <string name="hidden_ssid_label">SSID caché :</string>
   <string name="history_details_title">Informations sur l\'historique</string>
   <string name="home_key">Touche Accueil</string>
@@ -1567,7 +1552,6 @@ Donner cette autorisation aux applications peut provoquer des instabilités syst
   <string name="proxy_exclusionlist_label">Ignorer le proxy pour</string>
   <string name="proxy_hostname_hint">proxy.exemple.com</string>
   <string name="proxy_hostname_label">Nom d\'hôte du proxy</string>
-  <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Port du proxy</string>
   <string name="proxy_settings_label">Paramètres proxy</string>
   <string name="proxy_settings_title">Proxy</string>
@@ -1961,7 +1945,6 @@ Le code PIN est peut-être incorrect."</string>
   <string name="subscription_02_summary">Définir les options pour les paramètres réseau SUB2</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
-  <string name="summary_font_size">%1$s</string>
   <string name="supplicant_state_label">État suppliant :</string>
   <string name="sync_active">Synchronisation activée</string>
   <string name="sync_automatically">Synchro auto</string>
@@ -2370,9 +2353,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_display_summary_off">Désactivé</string>
   <string name="wifi_display_summary_on">Activé</string>
   <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">4.4.4.4</string>
   <string name="wifi_dont_skip">"Ne pas ignorer"</string>
   <string name="wifi_eap_anonymous">Anonyme</string>
   <string name="wifi_eap_ca_cert">Certificat CA</string>
@@ -2393,7 +2374,6 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">En mode Avion</string>
   <string name="wifi_ip_address">Adresse IP</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">Paramètres IP</string>
   <string name="wifi_ip_settings_invalid_dns">Saisissez une adresse DNS correcte.</string>
   <string name="wifi_ip_settings_invalid_gateway">Saisissez une adresse de passerelle valide.</string>
@@ -2413,7 +2393,6 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_menu_wps_pin">Saisie code PIN WPS</string>
   <string name="wifi_more">Plus</string>
   <string name="wifi_network_prefix_length">Longueur du préfixe réseau</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Hors de portée</string>
   <string name="wifi_notify_open_networks">Notification de réseau</string>
   <string name="wifi_notify_open_networks_summary">Me notifier lorsqu\'un réseau ouvert est disponible</string>
@@ -2569,7 +2548,6 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_suspend_optimizations_summary">Minimiser la consommation de la batterie lorsque le Wi-Fi est activé</string>
   <string name="wifi_tether_checkbox_text">Point d\'accès Wi-Fi</string>
   <string name="wifi_tether_configure_ap_text">Configurer le point d\'accès Wi-Fi</string>
-  <string name="wifi_tether_configure_ssid_default">Hotspot Android</string>
   <string name="wifi_tether_configure_subtext">Point d\'accès Wi-Fi mobile %1$s %2$s</string>
   <string name="wifi_tether_enabled_subtext">Point d\'accès Wi-Fi mobile %1$s actif</string>
   <string name="wifi_tether_failed_subtext">Erreur liée au point d\'accès Wi-Fi mobile</string>
