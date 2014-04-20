@@ -4121,7 +4121,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="location_mode_battery_saving_description">Utiliser les réseaux mobiles et Wi-Fi pour déterminer la position</string>
   <string name="location_mode_sensors_only_description">Utiliser le GPS pour déterminer la position</string>
   <string name="sms_change_default_dialog_title">Modifier l\'application SMS ?</string>
-  <string name="sms_change_default_dialog_text">Utiliser %s au lieu de %s comme application SMS ?</string>
+  <string name="sms_change_default_dialog_text" formatted="false">Utiliser %s au lieu de %s comme application SMS ?</string>
   <string name="sms_change_default_no_previous_dialog_text">Utiliser %s comme application SMS ?</string>
   <string name="wrong_pin_code_pukked">Code PIN de la carte SIM incorrect. Vous devez désormais contacter votre opérateur pour déverrouiller votre appareil.</string>
   <string name="pin_failed">Échec du déverrouillage à l\'aide du code PIN de la carte SIM.</string>
