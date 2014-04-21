@@ -91,14 +91,14 @@
   <string name="cloud_backup_hint">Connectez-vous pour stocker en toute sécurité et restaurer vos sauvegardes</string>
   <string name="cloud_backup_login">Ouvrir une session avec votre compte Xiaomi</string>
   <string name="cloud_backup_window_title">Sauvegarder dans le cloud</string>
-  <string name="cloud_home_title">Cloud</string>
+  <string name="cloud_home_title">MiCloud</string>
   <string name="cloud_item_info_summary">" (Local : %1$s | MiCloud : %2$s)"</string>
   <string name="cloud_last_backup">Dernière sauvegarde :</string>
   <string name="cloud_no_backup">Aucune sauvegarde dans le cloud</string>
   <string name="cloud_restore_guide">Appuyez sur Démarrer la restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
   <string name="cloud_restore_title">Restaurer des données sauvegardées</string>
-  <string name="cloud_restore_window_title">Cloud Recovery</string>
-  <string name="cloud_search">Recherche Cloud…</string>
+  <string name="cloud_restore_window_title">Restoration des données</string>
+  <string name="cloud_search">Recherche dans le Cloud…</string>
   <string name="compute_backup_info">Récupération des informations de sauvegarde…</string>
   <string name="compute_delete_contact_info">Recherche des contacts…</string>
   <string name="contact_title">Contacts</string>
@@ -228,7 +228,7 @@
   <string name="task_service_not_launched">Le service n\'est pas démarré, veuillez patienter !</string>
   <string name="task_stopped_exception">Tâche interrompue</string>
   <string name="total_num">%d au total</string>
-  <string name="unit_byte">o</string>
+  <string name="unit_byte">octets</string>
   <string name="unit_piece">" élément(s)"</string>
   <string name="unknown_hint">Inconnu</string>
   <string name="wifi_title">Paramètres Wi-Fi</string>

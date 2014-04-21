@@ -73,9 +73,6 @@
   <string name="download_lyric_settings">Téléchargement de paroles auto</string>
   <string name="download_lyric_summary">"Le téléchargement des paroles n'utilise pas beaucoup de données, vous pouvez le désactiver afin de réduire la consommation de données"</string>
   <string name="download_processing">Téléchargement</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="empty_edit_hint">Information sur le morceau indisponible</string>
   <string name="empty_track_list">Aucune liste de pistes</string>
   <string name="emptyplaylist">La playlist sélectionnée est vide.</string>
@@ -173,7 +170,7 @@
   <string name="more">Plus</string>
   <string name="music_browser_label">Musique</string>
   <string name="music_filter">Filtrer les fichiers</string>
-  <string name="music_filter_helper">Afin de cacher les fichiers non liés à la musique, un filtre a été appliqué pour ignorer les fichiers de moins de 800K. Pour régler ce seuil allez dans Paramètres &gt; filtrer les fichiers</string>
+  <string name="music_filter_helper">Afin de cacher les fichiers non liés à la musique, un filtre a été appliqué pour ignorer les fichiers de moins de 800 Ko. Pour régler ce seuil allez dans Paramètres &gt; filtrer les fichiers</string>
   <string name="music_not_loaded">Aucun fichier audio trouvé !</string>
   <string name="music_open_other_connect">Télécharger de la musique avec la connexion de données mobiles</string>
   <string name="music_picker_title">Sélectionner un titre</string>

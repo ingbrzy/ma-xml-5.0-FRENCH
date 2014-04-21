@@ -696,7 +696,7 @@
   <string name="save_image_success">Image enregistrée</string>
   <string name="save_image_failed">"Échec de l'enregistrement de l'image"</string>
   <string name="js_disable_confirm_title">Désactiver le JavaScript ?</string>
-  <string name="js_disable_confirm_message">La désactivation du JavaScript peut causer l\'affichage incorrect de certains certains sites web</string>
+  <string name="js_disable_confirm_message">La désactivation du JavaScript peut causer l\'affichage incorrect de certains sites web</string>
 <!--à traduire
   <string name="cloud_tab">Cloud Tab</string>
   <string name="sync_item_browser_title">Sync browser</string>

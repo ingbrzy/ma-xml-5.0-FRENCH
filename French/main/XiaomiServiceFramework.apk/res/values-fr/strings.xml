@@ -243,7 +243,9 @@ Vous pouvez faire autre chose…"</string>
   <string name="enable_sync">Activer</string>
   <string name="enable_sync_dspt">Synchronisation désactivée</string>
   <string name="micloud_account_details">Détails du compte</string>
+ <!-- à traduire
   <string name="micloud_app_data">MiCloud app backups</string>
+ -->
   <string name="micloud_data_loading">Chargement…</string>
   <string name="micloud_full_influence_dspt">"Toutes les photos, vidéos, notes et applis seront sauvegardés sur MiCloud.
 

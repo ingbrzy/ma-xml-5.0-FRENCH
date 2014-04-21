@@ -151,7 +151,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="playvideo">Lire</string>
   <string name="alreadyselected">Sélectionné</string>
   <string name="cancel_select_all">Tout désélectionner</string>
-  <string name="nologin_no_waitfornewset">Vous devez vous connecter pour suivre cet émission.</string>
+  <string name="nologin_no_waitfornewset">Vous devez vous connecter pour suivre cette émission.</string>
   <string name="open_camera">Caméra</string>
   <string name="sdcard_storage">Mémoire interne</string>
   <string name="browse_devices">Parcourir…</string>

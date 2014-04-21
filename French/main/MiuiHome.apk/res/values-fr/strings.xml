@@ -26,9 +26,6 @@
   <string name="default_folder_title_tools">Outils</string>
   <string name="default_name">Par défaut</string>
   <string name="default_shortcut_title_10086">google.fr</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$2d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Renommer le dossier</string>
   <string name="editing_tips">Ajouter ou modifier un widget</string>
   <string name="emptyplaylist">La playlist est vide</string>
