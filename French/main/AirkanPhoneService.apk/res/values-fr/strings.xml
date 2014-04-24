@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <string name="rcs_app_name">Service de contrôle à distance</string>
     <string name="rcs_phoneact_name">Gestionnaire de contrôle à distance du téléphone</string>

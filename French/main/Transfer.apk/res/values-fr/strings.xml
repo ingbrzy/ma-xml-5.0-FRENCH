@@ -1,4 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="about_to_receive">Réception de fichier(s)</string>
   <string name="about_to_send">Envoi de fichier(s)</string>
