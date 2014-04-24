@@ -190,9 +190,9 @@ Réessayer dans %d secondes."</string>
   <string name="unlockscreen_low_battery">Branchez votre chargeur</string>
   <string name="unlockscreen_recharge_completed">Chargée</string>
   <string name="unlockscreen_recharging_message">Chargement %d%%</string>
-  <string name="user_agreement1">Vous allez utiliser le système et les services en ligne fournis par Xiaomi, merci de lire</string>
-  <string name="user_agreement2">" Contrat d'utilisateur"</string>
-  <string name="user_agreement3">" et "</string>
+  <string name="user_agreement1">Vous allez utiliser le système et les services en ligne fournis par Xiaomi, merci de lire le "</string>
+  <string name="user_agreement2">"Contrat d'utilisateur"</string>
+  <string name="user_agreement3">" et les "</string>
   <string name="user_agreement4">Règles de confidentialité</string>
   <string name="user_agreement5">, appuyez sur OK pour indiquer que vous acceptez le contenu ci-dessus, appuyez sur Annuler pour quitter.</string>
   <string name="v5_deselect_all">Tout désélectionner</string>

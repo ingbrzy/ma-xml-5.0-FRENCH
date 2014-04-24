@@ -249,7 +249,8 @@
   <string name="debug_enable_verbose_logging_label">Activer la journalisation détaillée ?</string>
   <string name="debug_force_one_minute_refresh_label">Forcer l\'actualisation toutes les minutes pour les comptes POP/IMAP</string>
   <string name="debug_title">Débogage</string>
-  <string name="delete">Supprimer</string>
+ <!-- name="delete" raccourci en attendant mieux... --> 
+  <string name="delete">Suppr.</string>
   <string name="deleted">Supprimé.</string>
   <string name="device_admin_description">Active les stratégies de sécurité spécifiées par le serveur.</string>
   <string name="device_admin_label">E-mail</string>
@@ -489,7 +490,6 @@
   <string name="show_elided">▶ Afficher le texte des messages précédents</string>
   <string name="show_images">Afficher les images</string>
   <string name="show_n_more_folders">Afficher %1$s autres dossiers</string>
-  <string name="signature">\n\n\"%s\"</string>
   <string name="signin">Connexion</string>
   <string name="silent_ringtone">Mode silencieux</string>
   <string name="single_new_message_notification_big_text">%1$s\n%2$s</string>
@@ -627,7 +627,7 @@
   <string name="protocol">Protocole</string>
   <string name="no_mails">Aucun e-mail</string>
   <string name="contact_list_add_btn">Ajouter</string>
-  <string name="not_subject">Aucun sujet</string>
+  <string name="not_subject">(Aucun sujet)</string>
   <string name="refreshing">Actualisation…</string>
   <string name="file_rar_not_support">Fichiers RAR encryptés non supportés</string>
   <string name="file_not_found">Fichier introuvable sur le serveur mail</string>
@@ -658,10 +658,20 @@
   <string name="hint_quick_reply_all">Répondre à tous</string>
   <string name="always_bcc_myself">Toujours recevoir une copie</string>
   <string name="forward">Transférer</string>
-  
+  <string name="conversation_item_mark_read">Lu</string>
+  <string name="conversation_item_mark_unread">Non lu</string>
+  <string name="default_signature">Envoyé de mon Xiaomi</string>
+  <string name="outbox_alert_button_confirm">Éditer</string>
+  <string name="contact_select">Choisir un contact</string>
+  <string name="request_entity_large">Fichier trop volumineux !</string>
+  <string name="outbox_alert_title_sent_failed">Erreur, e-mail non envoyé</string>
+  <string name="outbox_alert_description_sent_failed">"Cause : la taille de la 
+la pièce jointe dépasse la limite autorisée"</string>
+
  <!-- à traduire
+  <string name="blank_feedback_toast">The feedback is blank, please input feedback!</string>
+  <string name="ApplicationIconMore99">99+</string>
   <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
-  <string name="contact_content_provider">Contact Content Provider</string>
   <string name="actionbar_title_mail_aggregation">Mail aggregation:</string>
   <string name="empty_email_tip">Could not send Empty Email</string>
   <string name="account_setup_service_not_set">Your e-mail service settings yet to be conducted</string>

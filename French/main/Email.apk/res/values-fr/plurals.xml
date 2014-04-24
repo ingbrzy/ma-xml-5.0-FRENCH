@@ -89,6 +89,10 @@
         <item quantity="other">%d Go</item>
         <item quantity="one">%d Go</item>
     </plurals>
+   <plurals name="contact_num_selected">
+       <item quantity="other">%d sélectionnés</item>
+       <item quantity="one">1 sélectionné</item>
+    </plurals>
     <plurals name="num_selected">
         <item quantity="other">%1$d éléments sélectionnés</item>
         <item quantity="one">%1$d élément sélectionné</item>

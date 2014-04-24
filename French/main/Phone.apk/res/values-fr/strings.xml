@@ -898,7 +898,6 @@ Appuyez sur OK pour continuer."</string>
   <string name="select_automatically">Sélectionner automatiquement</string>
   <string name="sendSms">Envoyer un SMS</string>
   <string name="send_button">Envoyer</string>
-  <string name="send_keepalive">Envoyer Keep Alive</string>
   <string name="separate_from_conference_miui">Appel simple</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Le type de réseau préféré n\'est disponible que lorsque des données sont désactivées</string>
   <string name="set_primary_summary">Utilisé pour les appels sortants</string>

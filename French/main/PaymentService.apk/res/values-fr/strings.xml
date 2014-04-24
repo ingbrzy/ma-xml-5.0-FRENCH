@@ -5,6 +5,23 @@
   <string name="prepaid_picker_title_selected">Montant</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Recharge maximum de %1$s RMB par mois uniquement</string>
+  <!-- removed in 4.4.22 mi2 -->
+  <string name="error_network_title">Erreur réseau</string>
+  <string name="error_auth_title">Erreur de compte</string>
+  <string name="error_has_bought_title">Répéter l\'achat</string>
+  <string name="error_server_title">Erreur serveur</string>
+  <string name="error_common_title">Erreur système</string>
+  <string name="error_user_id_mismatch_title">Erreur d\'authentification !</string>
+  <string name="error_illegal_order_title">Erreur dans la commande !</string>
+  <string name="error_verify_summary">L\'Application n\'a pas l\'autorisation de solliciter le service</string>
+  <string name="error_verify_title">Pas de permission</string>
+  <string name="error_frozen_title">Compte gelé !</string>
+  <string name="error_too_frequent_visits_summary">"Vous avez effectué trop d\'opérations sur le compte. 
+Veuillez réessayer dans cinq minutes"</string>
+  <string name="error_too_frequent_visits_title">Avertissement !</string>
+  <string name="error_giftcard_summary">Impossible d\'obtenir les informations de la carte-cadeau</string>
+  <string name="error_bankcard_verify_summary">Erreur de vérification de compte bancaire</string>
+  <string name="error_cert_date_title">Erreur de date du certificat</string>
   <!--  -->
 
   <string name="account_detail">"Compte Xiaomi :
@@ -70,30 +87,15 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="error_account_changed_summary">Votre compte Xiaomi a été mis à jour. Veuillez vérifier vos détails et réessayer plus tard</string>
   <string name="error_account_changed_title">Compte mis à jour</string>
   <string name="error_auth_summary">Erreur d\'identification, veuillez réessayer</string>
-  <string name="error_auth_title">Erreur de compte</string>
-  <string name="error_bankcard_verify_summary">Erreur de vérification de compte bancaire</string>
   <string name="error_common_summary">Erreur système, veuillez réessayer plus tard</string>
-  <string name="error_common_title">Erreur système</string>
   <string name="error_expired_summary">Votre commande a expiré</string>
   <string name="error_frozen_summary">Votre compte a été gelé</string>
-  <string name="error_frozen_title">Compte gelé !</string>
-  <string name="error_giftcard_summary">Impossible d\'obtenir les informations de la carte-cadeau</string>
   <string name="error_has_bought_summary">Vous avez déjà acheté ce produit</string>
-  <string name="error_has_bought_title">Répéter l\'achat</string>
   <string name="error_illegal_order_summary">Une erreur est survenue pendant le traitement de votre commande, veuillez réessayer plus tard</string>
-  <string name="error_illegal_order_title">Erreur dans la commande !</string>
   <string name="error_mili_summary">Fonds insuffisants.</string>
   <string name="error_network_summary">Une erreur réseau s\'est produite, veuillez vérifier que le réseau est actif puis réessayer</string>
-  <string name="error_network_title">Erreur réseau</string>
-  <string name="error_server_title">Erreur serveur</string>
   <string name="error_server_summary">Erreur du serveur, veuillez réessayer plus tard</string>
-  <string name="error_too_frequent_visits_summary">"Vous avez effectué trop d\'opérations sur le compte. 
-Veuillez réessayer dans cinq minutes"</string>
-  <string name="error_too_frequent_visits_title">Avertissement !</string>
   <string name="error_user_id_mismatch_summary">Veuillez vérifier les détails de votre compte et essayer à nouveau</string>
-  <string name="error_user_id_mismatch_title">Erreur d\'authentification !</string>
-  <string name="error_verify_summary">L\'Application n\'a pas l\'autorisation de solliciter le service</string>
-  <string name="error_verify_title">Pas de permission</string>
   <string name="fee">%1$s MiCredit</string>
   <string name="forget_password"><u>Mot de passe oublié ?</u></string>
   <string name="format_date">dd MMM yyyy</string>
@@ -308,7 +310,6 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="scan_prompt_password">Analyse du code de la carte prépayée %1$s</string>
   <string name="scan_prompt_voucher">Analyse du code MiCredit</string>
   <string name="scan_prompt_retry">Placez la carte de manière à éviter les reflets, évitez de bouger pendant la prise de vue</string>
-  <string name="error_cert_date_title">Erreur de date du certificat</string>
   <string name="error_cert_date_summary">"Erreur de date du certificat. 
 Vérifiez la configuration de la date de votre appareil puis réessayez."</string>
   <string name="prepaid_grid_carrier_hint">Sélectionnez le fournisseur</string>

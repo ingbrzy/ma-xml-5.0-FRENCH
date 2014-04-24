@@ -234,7 +234,7 @@
   <string name="event_date_format">dd/MM</string>
   <string name="event_full_date_format">dd/MM/yyyy</string>
 
- <!-- extra affiché uniquement si téléphone en chinois
+ <!-- strings affichées uniquement si téléphone en chinois
   <string name="online_calendar_activity_label">订阅日历</string>
   <string name="add_calendar">订阅</string>
   <string name="exist_calendar">已订阅</string>
@@ -242,7 +242,8 @@
   <string name="delete_topic_dialog_title">确认要退订\"%s\"吗？</string>
   <string name="add_topic_success">订阅\"%s\"成功</string>
   <string name="delete_topic_success">退订\"%s\"成功</string>
-  <string name="calendar_server_error">网络错误</string>
+  <string name="calendar_server_error">服务器错误</string>
+  <string name="calendar_network_error">网络错误</string>
   <string name="label_recent_events">近期事件</string>
   <string name="no_local_calendar">没有订阅日历 :)</string>
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
@@ -259,7 +260,12 @@
   <string name="zhushen">诸神</string>
   <string name="button_online">订</string>
   <string name="topic_event_list_header_label">近期活动</string>
-  <string name="setting_load_images_under_data_conn">非WIFI网络下加载在线订阅大图</string>
+  <string name="setting_online_calendar">订阅日历</string>
+  <string name="setting_wifi_mode">仅在WLAN下同步订阅日历大图</string>
+  <string name="user_notice_online_agreement">您正在浏览MIUI订阅日历，这是一项在线服务，其页面显示和数据更新需要连接互联网。使用该服务表示您同意并愿意遵守%1$s和%2$s。</string>
+  <string name="data_notice_online_large_image">订阅日历页面的图片较大，为帮助您节省流量，已经设置为“仅在WLAN下同步订阅日历大图”。</string>
+  <string name="data_notice_change_settings">更改设置</string>
+  <string name="data_notice_continue_confirm">继续使用</string>
   <string name="online_reminder_header_text">提醒</string>
   <string name="online_reminder_slider_text">启用提醒</string>
   <string name="online_reminder_minutes_text">提醒时间</string>

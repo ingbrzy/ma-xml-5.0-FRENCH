@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+ <!-- removed 4.4.23 mi2 -->
+  <string name="load_album_failed">Le chargement de la liste d\'albums a échoué, veuillez réessayer</string>
+  <string name="load_album_in_process">Chargement de la liste d\'albums</string>
+  <string name="load_artist_failed">Le chargement de la liste d\'artistes a échoué, veuillez réessayer</string>
+  <string name="load_artist_in_process">Chargement de la liste d\'artistes</string>
+  <string name="load_album_artist_failed">Le chargement de la liste d\'albums et d\'artistes a échoué. Veuillez réessayer.</string>
+  <string name="load_album_artist_in_process">Chargement de la liste d\'albums et d\'artistes…</string>
+  <string name="synchronize_guide_toast">Pour activer la synchronisation, aller à Paramètres &gt; Sync playlists</string>
+  <string name="synchronize_to_baidu_cloud">Sauvegardez des chansons en ligne dans vos playlists en utilisant Baidu Cloud</string>
+ <!-- -->
+
   <string name="add">Ajouter</string>
   <string name="add_to">Ajouter à</string>
   <string name="add_to_favorite">Ajouter aux favoris</string>
@@ -134,12 +145,6 @@
   <string name="keep_quit_position_summary">Restaurer la piste à la dernière position connue au redémarrage de l\'application</string>
   <string name="listen_to_music_online_settings">Écouter de la musique en ligne</string>
   <string name="listen_to_online_summary">Écouter de la musique via le réseau mobile ou Wi-Fi</string>
-  <string name="load_album_artist_failed">Le chargement de la liste d\'albums et d\'artistes a échoué. Veuillez réessayer.</string>
-  <string name="load_album_artist_in_process">Chargement de la liste d\'albums et d\'artistes…</string>
-  <string name="load_album_failed">Le chargement de la liste d\'albums a échoué, veuillez réessayer</string>
-  <string name="load_album_in_process">Chargement de la liste d\'albums</string>
-  <string name="load_artist_failed">Le chargement de la liste d\'artistes a échoué, veuillez réessayer</string>
-  <string name="load_artist_in_process">Chargement de la liste d\'artistes</string>
   <string name="load_audio_failed">Le chargement de la liste d\'albums a échoué, veuillez réessayer</string>
   <string name="load_audio_in_process">Chargement de la liste audio</string>
   <string name="load_bill_failed">Impossible de charger la liste Billboard, veuillez réessayer</string>
@@ -304,8 +309,6 @@
   <string name="request_fail">Requête échouée !</string>
   <string name="requesting">Requête…</string>
   <string name="server_error">Une erreur s\'est produite coté serveur !</string>
-  <string name="synchronize_guide_toast">Pour activer la synchronisation, aller à Paramètres &gt; Sync playlists</string>
-  <string name="synchronize_to_baidu_cloud">Sauvegardez des chansons en ligne dans vos playlists en utilisant Baidu Cloud</string>
   <string name="track_bit_rate_hd">Haut</string>
   <string name="track_bit_rate_standard">Normal</string>
   <string name="track_bit_rate_uhd">Très haut</string>
@@ -332,7 +335,16 @@
   <string name="vip_recommend_rebuy">Renouveler l\'accès VIP pour 30 jours coûte 5 MiCredits</string>
   <string name="no_music_to_play">Aucune musique à lire</string>
   <string name="source_from">Source : %1$s</string>
+  <string name="load_recommend_in_process">Chargement…</string>
+  <string name="load_recommend_failed">Erreur, impossible de charger la liste</string>
+  <string name="click_to_play_all">Appuyer pour tout lire</string>
+  <string name="collect_topic_success">Album ajouté aux favoris</string>
+  <string name="collect_fm_success">Ajouté aux favoris</string>
+  <string name="uncollect_success">Favori supprimé</string>
+  <string name="number_format" formatted="false">%s.%s</string>
+
  <!-- à traduire : 
+  <string name="collect_bill_success">Bill added to favorites</string>
   <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
   <string name="ktv_connected_alert_message">The songs you select will be added to the playlist named My KTV</string>
   <string name="ktv_unbind_message">"Failed to connect with KTV console. Make sure you're scanning the correct QR code."</string>
