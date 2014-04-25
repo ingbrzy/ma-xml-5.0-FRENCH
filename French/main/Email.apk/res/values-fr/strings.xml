@@ -228,7 +228,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Supprimer les autorisations liées aux images ?</string>
   <string name="clear_display_images_whitelist_title">Supprimer les autorisations liées aux images</string>
   <string name="collapse_recipient_details">Réduire les coordonnées du destinataire</string>
-  <string name="compose">Nouveau message</string>
+  <string name="compose">Rédiger</string>
   <string name="confirm_discard_text">Supprimer ce message ?</string>
   <string name="confirm_response">Envoi de la réponse en cours…</string>
   <string name="confirm_send_message">Envoyer ce message ?</string>
