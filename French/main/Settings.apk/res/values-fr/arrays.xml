@@ -493,10 +493,6 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Moyen</item>
         <item>Léger</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Natif</item>
-    </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minutes</item>
         <item>15 minutes</item>

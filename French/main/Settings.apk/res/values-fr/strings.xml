@@ -760,7 +760,6 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dirac_mode_piston_100">Piston Xiaomi</string>
   <string name="dirac_switch_title">Utiliser l\'égaliseur MiSound</string>
   <string name="dirac_switch_summary">Toujours utiliser l\'égaliseur MiSound lors l\'utilisation d\'enceintes</string>
-  <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Désact. superpos. matérielle</string>
   <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition de l\'écran</string>
   <string name="disable_power_key_long_press_under_keyguard">Désactiver le bouton d\'arrêt</string>
@@ -864,7 +863,6 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="emergency_tone_summary">Définir le comportement en cas d\'appel d\'urgence</string>
   <string name="emergency_tone_title">Sonnerie d\'urgence</string>
   <string name="empty_list_msg">"Aucune application tierce n'est installée."</string>
-  <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">Débogage USB</string>
   <string name="enable_adb_summary">Mode débogage lorsqu\'un câble USB est connecté</string>
   <string name="enable_compatibility">Mettre l\'application à l\'échelle</string>
@@ -976,8 +974,6 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="gadget_toggle_wifi">Mise à jour des paramètres Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="game_controller_settings_category">Manette de jeu</string>
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="global_change_warning">Ce paramètre affecte tous les utilisateurs de ce téléphone.</string>
   <string name="global_font_change_title">Modifier la taille de la police</string>
   <string name="global_locale_change_title">Modifier la langue</string>
@@ -2008,7 +2004,6 @@ Le code PIN est peut-être incorrect."</string>
   <string name="tether_settings_title_wifi">Point d\'accès Wi-Fi mobile</string>
   <string name="tethering_help_button_text">Aide</string>
   <string name="time_picker_title">Heure</string>
-  <string name="time_zone_auto_stub">Sélectionner la zone de temps</string>
   <string name="timezone_settings">Paramètres du fuseau horaire</string>
   <string name="title_dolby_control">Contrôle Dolby</string>
   <string name="title_font_size">Taille de la police</string>
@@ -2394,7 +2389,6 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_failed_save_message">Échec de l\'enregistrement du réseau.</string>
   <string name="wifi_forget">Retirer</string>
   <string name="wifi_gateway">Passerelle</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">En mode Avion</string>
   <string name="wifi_ip_address">Adresse IP</string>
   <string name="wifi_ip_settings">Paramètres IP</string>
