@@ -92,6 +92,16 @@
   <string name="toast_keyword_blank">Le champ de saisie du mot clé est vide</string>
   <string name="toast_keyword_exist">Le mot clé \"%s\" existe déjà</string>
   <string name="toast_keyword_invalid">Mot clé non valide</string>
+
+  <string name="st_antispam_delete">Supprimer</string>
+  <string name="baidu_thanks">Propulsé par Baidu</string>
+  <string name="ad_update_title">Mise à jour auto.</string>
+  <string name="ad_update_time">Dernière màj : %s</string>
+  <string name="ad_update_time_unKnown">Dernière màj : inconnu</string>
+  <string name="sure">Confirmer</string>
+  <string name="cancle">Annuler</string>
+  <string name="block_message_number">messages : %d</string>
+  <string name="block_phone_number">appels : %d</string>
   
  <!-- à traduire
   <string name="menu_report_block">Mark as spam</string>
@@ -141,15 +151,11 @@
   <string name="info_unantispam_sms">Allow Messages</string>
   <string name="info_unantispam_phone">Allow Calls</string>
   <string name="info_unantispam_phone_sms">Allow messages and calls</string>
-  <string name="st_antispam_delete">Delete</string>
-  <string name="baidu_thanks">Powered By Baidu</string>
   <string name="note_list_none">No list to edit</string>
   <string name="note_sms_none">No message to edit</string>
   <string name="note_call_none">No call record to edit</string>
   <string name="note_keyword_none">No keyword to edit</string>
   <string name="note_preference_delete">The mode is in use,cannot be deleted</string>
-  <string name="block_message_number">spam messages:%d</string>
-  <string name="block_phone_number">spam calls:%d</string>
   <string name="user_define_title">Custom</string>
   <string name="blacklist_prefix_add_hint">Add all numbers with prefix to blocklist</string>
   <string name="whitelist_prefix_add_hint">Add all numbers with prefix to exceptions</string>
@@ -169,14 +175,11 @@
   <string name="dlg_remove_whitelist">Remove these numbers from exceptions?</string>
   <string name="dlg_remove_address_blacklist">Remove this location from blocklist and restore related messages to inbox?</string>
   <string name="dlg_remove_address_whitelist">Remove this location from exceptions?</string>
-  <string name="menu_wh_remove">移出白名单</string>
   <string name="st_show_num_keyword">" keywords"</string>
   <string name="st_show_num_number">" numbers"</string>
   <string name="label_callwait">Call waiting</string>
   <string name="open_callwait">On</string>
   <string name="close_callwait">Off</string>
-  <string name="sure">Confirm</string>
-  <string name="cancle">Cancel</string>
   <string name="addwhitelist">Add to exceptions</string>
   <string name="st_hint_add_phonenumber">Enter phone number</string>
   <string name="st_hint_add_head_number">Enter prefix (\"*\" will be added automatically)</string>
@@ -227,7 +230,7 @@
   <string name="Call_PRIVATE_CALL">Private calls</string>
   <string name="PAST_BLOCK">Previously blocked</string>
   <string name="AD_AntiSpam">Block solicitations</string>
-  <string name="AD_SCANNING">Scanning\u2026</string>
+  <string name="AD_SCANNING">Scanning…</string>
   <string name="AD_BLOCK_ALL">Block all</string>
   <string name="AD_SCAN_BUTTON">Scan</string>
   <string name="AD_NOT_BLOCK">Don\'t block</string>
@@ -245,8 +248,6 @@
   <string name="ad_install_monitor">Install monitor</string>
   <string name="ad_install_monitor_hint">Check for adware when installing app</string>
   <string name="ad_update_setting">Update add blocker settings</string>
-  <string name="ad_update_title">Auto Update</string>
-  <string name="ad_update_time">Last updated: %s</string>
-  <string name="ad_update_time_unKnown">Last updated: unknown</string>
   -->
+  <string name="menu_wh_remove">Remove from whitelist</string>
 </resources>
