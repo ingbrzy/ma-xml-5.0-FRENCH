@@ -534,7 +534,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="cell_broadcast_settings">Diffusions cellulaires</string>
   <string name="cell_broadcast_settings_summary">Sélectionnez les types d\'alertes d\'urgence à afficher.</string>
   <string name="change_password">Changer le mot de passe</string>
-  <string name="change_security_lock">Essayer d\'autres façons de déverrouiller</string>
+  <string name="change_security_lock">Type de déverrouillage</string>
   <string name="checkbox_notification_same_as_incoming_call">Utiliser le volume des appels entrants pour les notifications</string>
   <string name="choose_timezone">Sélectionner le fuseau horaire</string>
   <string name="clear_activities">Effacer les actions par défaut</string>
@@ -2071,7 +2071,7 @@ Faire confiance à cette application ?"</string>
   <string name="uninstall_all_users_text">Désinstaller pour tous les utilisateurs</string>
   <string name="uninstall_text">Désinstaller</string>
   <string name="unknown">Inconnu</string>
-  <string name="unlock_backup_info_summary">"Lorsque vous ne pouvez pas utiliser Face Unlock, comment voulez-vous effectuer le déverrouillage ?"</string>
+  <string name="unlock_backup_info_summary">"Lorsque vous ne pouvez pas utiliser la reconnaissance faciale, comment voulez-vous effectuer le déverrouillage ?"</string>
   <string name="unlock_change_lock_password_title">Modifier le mot de passe de déverrouillage</string>
   <string name="unlock_change_lock_pattern_title">Modifier le schéma de déverrouillage</string>
   <string name="unlock_change_lock_pin_title">Modifier le code PIN de déverrouillage</string>
@@ -2082,13 +2082,13 @@ Faire confiance à cette application ?"</string>
   <string name="unlock_set_enter_system">Accès direct au système</string>
   <string name="unlock_set_enter_system_summary">"Ne pas utiliser l'écran de verrouillage. Vous accéderez directement au système en allumant l\'écran"</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Sécurité faible, expérimental</string>
-  <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
+  <string name="unlock_set_unlock_biometric_weak_title">Reconnaissance faciale</string>
   <string name="unlock_set_unlock_disabled_summary">Désactivé par l\'administrateur, les règles de chiffrement ou le stockage des identifiants</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Modifier ou désactiver la sécurité : schéma, code PIN ou mot de passe</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Modifier écran verr.</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Choisir une méthode pour verrouiller l\'écran</string>
   <string name="unlock_set_unlock_launch_picker_title">Verrouillage de l\'écran</string>
-  <string name="unlock_set_unlock_mode_biometric_weak">Face Unlock</string>
+  <string name="unlock_set_unlock_mode_biometric_weak">Reconnaissance faciale</string>
   <string name="unlock_set_unlock_mode_none">Faire glisser</string>
   <string name="unlock_set_unlock_mode_off">Aucun</string>
   <string name="unlock_set_unlock_mode_password">Mot de passe</string>
@@ -3990,7 +3990,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="notification_summary_of_low_memory">Impossible d\'installer de nouvelles applis lorsque l\'espace est faible</string>
   <string name="power_20s_enter_mode">%1$ds basculer vers le mode %2$s</string>
   <string name="power_notify_lowbattery">Si le niveau de charge est inférieur à %1$d%%</string>
-  <string name="power_recovery_mode">Revenir au mode %1$se</string>
+  <string name="power_recovery_mode">Revenir au mode %1$s</string>
   <string name="power_subtitle_lowbattery">Économie d\'énergie auto. quand le niveau de charge est faible</string>
   <string name="power_subtitle_ontime">Économie d\'énergie planifiée</string>
   <string name="power_exitlowbattery_whencharge">Quitter lorsqu\'en charge</string>

@@ -45,32 +45,32 @@
         <item quantity="one">Désactivation du suivi de %1$d conversation en cours…</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other"><b>%1$d</b> conversations ignorées.</item>
-        <item quantity="one"><b>%1$d</b> conversation ignorée.</item>
+        <item quantity="other">%1$d conversations ignorées.</item>
+        <item quantity="one">%1$d conversation ignorée.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other"><b>%1$d</b> conversations marquées comme spam.</item>
-        <item quantity="one"><b>%1$d</b> conversation marquée comme spam.</item>
+        <item quantity="other">%1$d conversations marquées comme spam.</item>
+        <item quantity="one">%1$d conversation marquée comme spam.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other"><b>%1$d</b>" conversations signalées comme n'étant pas du spam"</item>
-        <item quantity="one"><b>%1$d</b>" conversation signalée comme n'étant pas du spam"</item>
+        <item quantity="other">"%1$d conversations signalées comme n'étant pas du spam"</item>
+        <item quantity="one">"%1$d conversation signalée comme n'étant pas du spam"</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other"><b>%1$d</b>" conversations marquées comme n'étant pas importantes"</item>
-        <item quantity="one"><b>%1$d</b>" conversation marquée comme n'étant pas importante"</item>
+        <item quantity="other">"%1$d conversations marquées comme n'étant pas importantes"</item>
+        <item quantity="one">"%1$d conversation marquée comme n'étant pas importante"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other"><b>%1$d</b> conversations signalées comme étant du phishing</item>
-        <item quantity="one"><b>%1$d</b> conversation signalée comme étant du phishing</item>
+        <item quantity="other">%1$d conversations signalées comme étant du phishing</item>
+        <item quantity="one">%1$d conversation signalée comme étant du phishing</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other"><b>%1$d</b> conversations archivées.</item>
-        <item quantity="one"><b>%1$d</b> conversation archivée.</item>
+        <item quantity="other">%1$d conversations archivées.</item>
+        <item quantity="one">%1$d conversation archivée.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other"><b>%1$d</b> conversations supprimées.</item>
-        <item quantity="one"><b>%1$d</b> conversation supprimée.</item>
+        <item quantity="other">%1$d conversations supprimées.</item>
+        <item quantity="one">%1$d conversation supprimée.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Dossiers modifiés.</item>
