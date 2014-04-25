@@ -439,9 +439,9 @@
   <string name="wechat_details">"Weixin : "</string>
   <string name="white_balance">Balance des blancs</string>
   <string name="width">Largeur</string>
-  <string name="wifi_connect_current_connetion">You have connected to the WLAN</string>
+  <string name="wifi_connect_current_connetion">Connexion au réseau Wi-Fi effectuée</string>
   <string name="wifi_connect_fail">Délai de connexion dépassé ou échec du réseau Wi-Fi</string>
-  <string name="wifi_connect_not_found">"Can't find the WLAN"</string>
+  <string name="wifi_connect_not_found">Impossible de trouver le réseau Wi-Fi</string>
   <string name="wifi_connect_success">Connecté avec succès au réseau Wi-Fi</string>
   <string name="wifi_connecting">Connexion Wi-Fi…</string>
   <string name="wifi_details">Détails du réseau Wi-Fi :</string>
