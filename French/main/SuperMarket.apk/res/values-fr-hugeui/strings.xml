@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_all_local_app">All installed</string>
+    <string name="show_all_local_app_with_count">All installed(%1$d)</string>
+    <string name="enable_updata_local_app">%1$s updates</string>
+</resources>

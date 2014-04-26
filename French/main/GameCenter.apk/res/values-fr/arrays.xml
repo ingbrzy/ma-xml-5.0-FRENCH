@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vip_info_values">
+        <item>pts</item>
+        <item>credits</item>
+        <item>level</item>
+        <item>games</item>
+    </string-array>
+    <string-array name="vip_service_names">
+        <item>Online service</item>
+        <item>Issue status</item>
+        <item>In-game topup</item>
+        <item>Credit center</item>
+        <item>Reservation</item>
+        <item>VIP club</item>
+    </string-array>
+    <string-array name="vip_service_summarys">
+        <item>Support (Chinese only): 18610535357</item>
+        <item>Current status of your issue</item>
+        <item>Top up in-game balances</item>
+        <item>Play games with credit</item>
+        <item>Make a reservation</item>
+        <item>VIP club</item>
+    </string-array>
+    <string-array name="my_page_titles">
+        <item>Nick Name</item>
+        <item>Gender</item>
+        <item>Birthday</item>
+        <item>Mobile</item>
+        <item>QQ</item>
+        <item>Area</item>
+    </string-array>
+    <string-array name="my_page_dialog_titles">
+        <item>Nickname</item>
+        <item>Gender</item>
+        <item>Birthday</item>
+        <item>Phone</item>
+        <item>QQ</item>
+        <item>City</item>
+    </string-array>
+    <string-array name="my_page_dialog_hint">
+        <item>4-18 characters: (letters, characters, and numbers)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="my_page_hints">
+        <item>Service when you need it.</item>
+        <item></item>
+        <item>Birthday GamePack based on info provided</item>
+        <item>GamePack notifications</item>
+        <item>Hangouts with our other gamers!</item>
+        <item>Activities</item>
+    </string-array>
+    <string-array name="my_page_sexs">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="hot_cities">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Guangzhou</item>
+        <item>Nanjing</item>
+    </string-array>
+    <string-array name="cities">
+        <item>Beijing</item>
+        <item>Tianjin</item>
+        <item>Shanghai</item>
+        <item>Chongqing</item>
+        <item>Shijiazhuang</item>
+        <item>Tangshan</item>
+        <item>Qinhuangdao</item>
+        <item>Handan</item>
+        <item>Xingtai</item>
+        <item>Baoding</item>
+        <item>Zhangjiakou</item>
+        <item>Chengde</item>
+        <item>Cangzhou</item>
+        <item>Langfang</item>
+        <item>Hengshui</item>
+        <item>Shenyang</item>
+        <item>Dalian</item>
+        <item>Liaoyang</item>
+        <item>Huludao</item>
+        <item>Benxi</item>
+        <item>Jinzhou</item>
+        <item>Anshan</item>
+        <item>Panjin</item>
+        <item>sunrise</item>
+        <item>Dandong</item>
+        <item>Fushun</item>
+        <item>Fuxin</item>
+        <item>Tieling</item>
+        <item>Yingkou</item>
+        <item>Huainan</item>
+        <item>Anqing</item>
+        <item>Chizhou</item>
+        <item>Huangshan</item>
+        <item>"Ma'anshan"</item>
+        <item>Xuancheng</item>
+        <item>Bengbu</item>
+        <item>Hefei</item>
+        <item>Bozhou</item>
+        <item>Chuzhou</item>
+        <item>Chaohu</item>
+        <item>Fuyang</item>
+        <item>Luan</item>
+        <item>Suzhou</item>
+        <item>Tongling</item>
+        <item>Huaibei</item>
+        <item>Wuhu</item>
+        <item>Putian</item>
+        <item>Zhangzhou</item>
+        <item>Xiamen</item>
+        <item>Fuzhou</item>
+        <item>Longyan</item>
+        <item>Sanming</item>
+        <item>Nanping</item>
+        <item>Ningde</item>
+        <item>Quanzhou</item>
+        <item>Tianshui</item>
+        <item>Jiayuguan</item>
+        <item>Dingxi</item>
+        <item>silver</item>
+        <item>Linxia</item>
+        <item>Wuwei</item>
+        <item>Zhangye</item>
+        <item>Qingyang</item>
+        <item>Jinchang</item>
+        <item>Jiuquan</item>
+        <item>Longnan</item>
+        <item>Gannan</item>
+        <item>Lanzhou</item>
+        <item>Pingliang</item>
+        <item>Shanwei</item>
+        <item>Dongguan</item>
+        <item>Guangzhou</item>
+        <item>Zhuhai</item>
+        <item>Jiangmen</item>
+        <item>Jieyang</item>
+        <item>Meizhou</item>
+        <item>Zhanjiang</item>
+        <item>Zhaoqing</item>
+        <item>Heyuan</item>
+        <item>Maoming</item>
+        <item>Shenzhen</item>
+        <item>Foshan</item>
+        <item>Shaoguan</item>
+        <item>Yangjiang</item>
+        <item>Zhongshan</item>
+        <item>Shantou</item>
+        <item>Chaozhou</item>
+        <item>Huizhou</item>
+        <item>Qingyuan</item>
+        <item>Yunfu</item>
+        <item>Guilin</item>
+        <item>Bose</item>
+        <item>guest</item>
+        <item>Liuzhou</item>
+        <item>Fangchenggang</item>
+        <item>Guigang</item>
+        <item>Hezhou</item>
+        <item>Yulin</item>
+        <item>North Sea</item>
+        <item>Wuzhou</item>
+        <item>Nanning</item>
+        <item>Qinzhou</item>
+        <item>Chongzuo</item>
+        <item>Hechi</item>
+        <item>Qiannan</item>
+        <item>Anshun</item>
+        <item>Bijie</item>
+        <item>Guiyang</item>
+        <item>Liupanshui</item>
+        <item>Tongren</item>
+        <item>Zunyi</item>
+        <item>southwest Guizhou</item>
+        <item>Southeast</item>
+        <item>Haikou</item>
+        <item>Sanya</item>
+        <item>three sand</item>
+        <item>Puyang</item>
+        <item>Xinxiang</item>
+        <item>Zhoukou</item>
+        <item>Nanyang</item>
+        <item>Xuchang</item>
+        <item>Zhengzhou</item>
+        <item>Zhumadian</item>
+        <item>Jiaozuo</item>
+        <item>Kaifeng</item>
+        <item>Xinyang</item>
+        <item>Hebi</item>
+        <item>Anyang</item>
+        <item>Pingdingshan</item>
+        <item>Sanmenxia</item>
+        <item>Shangqiu</item>
+        <item>Luoyang</item>
+        <item>Luohe</item>
+        <item>Jiyuan</item>
+        <item>Daxinanling</item>
+        <item>Qiqihar</item>
+        <item>Heihe</item>
+        <item>Mudanjiang</item>
+        <item>Harbin</item>
+        <item>Jixi</item>
+        <item>Hegang</item>
+        <item>Shuangyashan</item>
+        <item>Suihua</item>
+        <item>Daqing</item>
+        <item>Jiamusi</item>
+        <item>Qitaihe</item>
+        <item>Yichun</item>
+        <item>Xiangyang</item>
+        <item>Yichang</item>
+        <item>Enshi</item>
+        <item>Shiyan</item>
+        <item>Wuhan</item>
+        <item>Xiaogan</item>
+        <item>Ezhou</item>
+        <item>Yellowstone</item>
+        <item>Huanggang</item>
+        <item>Jingmen</item>
+        <item>Jingzhou</item>
+        <item>Suizhou</item>
+        <item>Xianning</item>
+        <item>Shennongjia</item>
+        <item>Tianmen</item>
+        <item>Qianjiang</item>
+        <item>Xiantao</item>
+        <item>Shaoyang</item>
+        <item>Hengyang</item>
+        <item>Loudi</item>
+        <item>Xiangtan</item>
+        <item>Yiyang</item>
+        <item>Changde</item>
+        <item>Xiangxi</item>
+        <item>Chenzhou</item>
+        <item>Huaihua</item>
+        <item>Changsha</item>
+        <item>Zhangjiajie</item>
+        <item>Yongzhou</item>
+        <item>Zhuzhou</item>
+        <item>Yueyang</item>
+        <item>Siping</item>
+        <item>Changchun</item>
+        <item>Tonghua</item>
+        <item>Liaoyuan</item>
+        <item>Baicheng</item>
+        <item>Hakusan</item>
+        <item>Matsubara</item>
+        <item>Jilin</item>
+        <item>Yanbian</item>
+        <item>Suzhou</item>
+        <item>Lianyungang</item>
+        <item>Yangzhou</item>
+        <item>Taizhou</item>
+        <item>Wuxi</item>
+        <item>"Huai'an"</item>
+        <item>Nantong</item>
+        <item>Xuzhou</item>
+        <item>Yancheng</item>
+        <item>Zhenjiang</item>
+        <item>Changzhou</item>
+        <item>Nanjing</item>
+        <item>Suqian</item>
+        <item>Fuzhou</item>
+        <item>Nanchang</item>
+        <item>Xinyu</item>
+        <item>Yichun</item>
+        <item>Ganzhou</item>
+        <item>Shangrao</item>
+        <item>Jingdezhen</item>
+        <item>Jiujiang</item>
+        <item>Yingtan</item>
+        <item>Gian</item>
+        <item>Pingxiang</item>
+        <item>Hulunbeier</item>
+        <item>Wuhai</item>
+        <item>header</item>
+        <item>Chifeng</item>
+        <item>Erdos</item>
+        <item>Bayannur</item>
+        <item>Hohhot</item>
+        <item>Wulanchabu</item>
+        <item>Xilin Gol League</item>
+        <item>Tongliao</item>
+        <item>Alashan</item>
+        <item>Xinganmeng</item>
+        <item>Wuzhong</item>
+        <item>Yinchuan</item>
+        <item>Shizuishan</item>
+        <item>defender</item>
+        <item>Guyuan</item>
+        <item>Xining</item>
+        <item>Huangnan</item>
+        <item>Yushu</item>
+        <item>Haidong</item>
+        <item>Hainan Prefecture</item>
+        <item>Golog</item>
+        <item>Hercynian</item>
+        <item>rambling</item>
+        <item>Jinan</item>
+        <item>Texas</item>
+        <item>Qingdao</item>
+        <item>sunshine</item>
+        <item>Heze</item>
+        <item>Binzhou</item>
+        <item>Taian</item>
+        <item>Yantai</item>
+        <item>Weifang</item>
+        <item>Liaocheng</item>
+        <item>Weihai</item>
+        <item>Zibo</item>
+        <item>Zaozhuang</item>
+        <item>Laiwu</item>
+        <item>Jining</item>
+        <item>Dongying</item>
+        <item>Linyi</item>
+        <item>Hanzhong</item>
+        <item>"Xi'an"</item>
+        <item>"Yan'an"</item>
+        <item>Yulin</item>
+        <item>Shangluo</item>
+        <item>Weinan</item>
+        <item>Baoji</item>
+        <item>Tongchuan</item>
+        <item>Xianyang</item>
+        <item>Ankang</item>
+        <item>Nanchong</item>
+        <item>Meishan</item>
+        <item>Suining</item>
+        <item>Zigong</item>
+        <item>Deyang</item>
+        <item>Neijiang</item>
+        <item>Yibin</item>
+        <item>Aba</item>
+        <item>Pakistan</item>
+        <item>"Guang'an"</item>
+        <item>Leshan</item>
+        <item>Guangyuan</item>
+        <item>Panzhihua</item>
+        <item>Chengdu</item>
+        <item>Florida</item>
+        <item>Ganzi</item>
+        <item>Luzhou</item>
+        <item>Mianyang</item>
+        <item>Ziyang</item>
+        <item>Liangshan</item>
+        <item>"Ya'an"</item>
+        <item>Ali</item>
+        <item>Chamdo</item>
+        <item>Nyingchi</item>
+        <item>Shigatse</item>
+        <item>Lhasa</item>
+        <item>Nagqu</item>
+        <item>Shannan</item>
+        <item>Akzo</item>
+        <item>Changji</item>
+        <item>Kashi</item>
+        <item>Tacheng</item>
+        <item>Boertala</item>
+        <item>Karamay</item>
+        <item>Turpan</item>
+        <item>Ili</item>
+        <item>Kezilesu</item>
+        <item>Altay</item>
+        <item>Bayinguoleng</item>
+        <item>Hami</item>
+        <item>Wada</item>
+        <item>Urumqi</item>
+        <item>Lijiang</item>
+        <item>Nu</item>
+        <item>Baoshan</item>
+        <item>Xishuangbanna</item>
+        <item>Qujing</item>
+        <item>Wenshan</item>
+        <item>Chuxiong</item>
+        <item>Dali</item>
+        <item>Lincang</item>
+        <item>"Pu'er"</item>
+        <item>Yuxi</item>
+        <item>Dehong</item>
+        <item>Zhaotong</item>
+        <item>Diqing</item>
+        <item>Red River</item>
+        <item>Kunming</item>
+        <item>Huzhou</item>
+        <item>Lishui</item>
+        <item>Ningbo</item>
+        <item>Taizhou</item>
+        <item>Jiaxing</item>
+        <item>Jinhua</item>
+        <item>Quzhou</item>
+        <item>Shaoxing</item>
+        <item>Zhoushan</item>
+        <item>Wenzhou</item>
+        <item>Hangzhou</item>
+        <item>Linfen</item>
+        <item>Changzhi</item>
+        <item>Taiyuan</item>
+        <item>Xinzhou</item>
+        <item>Yangquan</item>
+        <item>Datong</item>
+        <item>Yuncheng</item>
+        <item>Jinzhong</item>
+        <item>Jincheng</item>
+        <item>Luliang</item>
+        <item>Shuozhou</item>
+        <item>Hong Kong</item>
+        <item>Macau</item>
+        <item>Taiwan</item>
+        <item>International</item>
+    </string-array>
+    <string-array name="user_level_rule">
+        <item>Daily Login</item>
+        <item>Download Games</item>
+    </string-array>
+    <string-array name="user_level_rule_value">
+        <item>+5 Exp.(1x a day)</item>
+        <item>+5 Exp.(5x a day)</item>
+    </string-array>
+    <string-array name="vip_level_rule">
+        <item>How to upgrade</item>
+        <item>What are the benefits of upgrading?</item>
+        <item>What kind of guaruntees are offered?</item>
+        <item>"What happens if I don't keep up with my membership fees?"</item>
+    </string-array>
+    <string-array name="intergral_rule">
+        <item>How to get points?</item>
+    </string-array>
+    <string-array name="service_introduction">
+        <item>"VIP member benefits: 
+1. One-on-one service 
+2. Get help instantly 
+3. Audio support center 
+4. Dial direct to support staffs' phones（VIP4 and higher）
+5. Priority customer service"</item>
+        <item>"Get help here! You can send screenshots to our support center. 
+
+ Support center hours: 9:30-18:30 (Mon - Fri). You can use our online submission form if you encounter a problem on a weekend or holiday."</item>
+        <item>View your past service issues as well as the status of your current issues.Upgrade to VIP now to get priority customer service.</item>
+        <item>Your GamePacks will appear under My GamePacks</item>
+        <item>Spend points on GamePacks and Xiaomi accessories!</item>
+    </string-array>
+    <string-array name="account_items">
+        <item>Photo:</item>
+        <item>Name:</item>
+        <item>Sex:</item>
+        <item>Birthday:</item>
+        <item>Sign:</item>
+        <item>Location:</item>
+        <item>Likes:</item>
+    </string-array>
+    <string-array name="constellations">
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+    <string-array name="select_photos">
+        <item>Take Photo</item>
+        <item>Browse</item>
+    </string-array>
+    <string-array name="game_tag">
+        <item>Promotion</item>
+        <item>New service</item>
+        <item>New low price</item>
+        <item>Cashback</item>
+        <item>Get number</item>
+        <item>Beta</item>
+        <item>Closed beta</item>
+        <item>Starting line</item>
+        <item>VIP service</item>
+        <item>Exclusive</item>
+        <item>GamePack</item>
+        <item>Lottery</item>
+        <item>Strategy</item>
+        <item>Popular</item>
+        <item>Recommended</item>
+        <item>New</item>
+        <item>Update</item>
+        <item>Beta</item>
+        <item>Offical</item>
+        <item>HD</item>
+        <item>3D</item>
+        <item>Guarantee</item>
+        <item>Pay</item>
+        <item>Zone</item>
+        <item>"Editor's Choice"</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="game_cer">
+        <item>Log in with Xiaomi</item>
+        <item>Log in with Gmail</item>
+    </string-array>
+    <string-array name="game_fee">
+        <item>Pay</item>
+        <item>In-app purchases</item>
+        <item>Free</item>
+    </string-array>
+    <string-array name="game_ad">
+        <item>Ads in game</item>
+        <item>No ads</item>
+    </string-array>
+    <string-array name="game_privacy">
+        <item>access messages</item>
+        <item>access contacts</item>
+        <item>access device number</item>
+    </string-array>
+    <string-array name="game_packet">
+        <item>Download contents:</item>
+    </string-array>
+    <string-array name="vip_user_welcome_title">
+        <item>Upgraded to VIP</item>
+        <item>VIP service</item>
+        <item>VIP priority</item>
+        <item>VIP GamePack</item>
+        <item>Please complete user info</item>
+    </string-array>
+    <string-array name="vip_user_welcome_subtitle">
+        <item>VIP services available:</item>
+        <item>24 hour one-on-one customer service</item>
+        <item>Priority customer service</item>
+        <item>Exclusive VIP GamePacks</item>
+        <item>In order to activate VIP service</item>
+    </string-array>
+    <string-array name="weeks">
+        <item></item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="average_score_star">
+        <item>1 star</item>
+        <item>2 stars</item>
+        <item>3 stars</item>
+        <item>4 stars</item>
+        <item>5 stars</item>
+    </string-array>
+    <string-array name="permission_label">
+        <item>coarse (network-based) location</item>
+        <item>fine (GPS) location</item>
+        <item>access extra location provider commands</item>
+        <item>mock location sources for testing</item>
+        <item>implement MTP protocol</item>
+        <item>view network state</item>
+        <item>access SurfaceFlinger</item>
+        <item>view Wi-Fi state</item>
+        <item>view WiMAX state</item>
+        <item>act as the AccountManagerService</item>
+        <item>add voicemail</item>
+        <item>use any media decoder for playback</item>
+        <item>get information on internal storage</item>
+        <item>create internal storage</item>
+        <item>destroy internal storage</item>
+        <item>mount / unmount internal storage</item>
+        <item>rename internal storage</item>
+        <item>act as an account authenticator</item>
+        <item>control system backup and restore</item>
+        <item>modify battery statistics</item>
+        <item>modify battery statistics</item>
+        <item>interact with a device admin</item>
+        <item>choose widgets</item>
+        <item>bind to an input method</item>
+        <item>bind to a package verifier</item>
+        <item>bind to a widget service</item>
+        <item>bind to a text service</item>
+        <item>bind to a VPN service</item>
+        <item>bind to a wallpaper</item>
+        <item>create Bluetooth connections</item>
+        <item>bluetooth administration</item>
+        <item>permanently disable phone</item>
+        <item>send package removed broadcast</item>
+        <item>send SMS-received broadcast</item>
+        <item>send sticky broadcast</item>
+        <item>send WAP-PUSH-received broadcast</item>
+        <item>access the cache filesystem</item>
+        <item>directly call phone numbers</item>
+        <item>directly call any phone numbers</item>
+        <item>take pictures and videos</item>
+        <item>change background data usage setting</item>
+        <item>enable or disable application components</item>
+        <item>change your UI settings</item>
+        <item>change network connectivity</item>
+        <item>allow Wi-Fi Multicast reception</item>
+        <item>change Wi-Fi state</item>
+        <item>change WiMAX state</item>
+        <item>access checkin properties</item>
+        <item>delete all application cache data</item>
+        <item>"delete other applications' data"</item>
+        <item>confirm a full backup or restore operation</item>
+        <item>Allows to invoke default container service to copy content. Not for use by normal applications.</item>
+        <item>full Internet access</item>
+        <item>"delete other applications' caches"</item>
+        <item>delete applications</item>
+        <item>power phone on or off</item>
+        <item>read/write to resources owned by diag</item>
+        <item>disable keylock</item>
+        <item>retrieve system internal state</item>
+        <item>expand/collapse status bar</item>
+        <item>run in factory test mode</item>
+        <item>control flashlight</item>
+        <item>force application to close</item>
+        <item>force stop other applications</item>
+        <item>discover known accounts</item>
+        <item>measure application storage space</item>
+        <item>retrieve running applications</item>
+        <item>test hardware</item>
+        <item>press keys and control buttons</item>
+        <item>permission to install a location provider</item>
+        <item>directly install applications</item>
+        <item>display unauthorized windows</item>
+        <item>kill background processes</item>
+        <item>kill background processes</item>
+        <item>control location update notifications</item>
+        <item>manage the accounts list</item>
+        <item>manage application tokens</item>
+        <item>manage network policy</item>
+        <item>manage preferences and permissions for USB devices</item>
+        <item>reset system to factory defaults</item>
+        <item>modify/delete internal media storage contents</item>
+        <item>change your audio settings</item>
+        <item>modify network usage accounting</item>
+        <item>modify phone state</item>
+        <item>format external storage</item>
+        <item>mount and unmount filesystems</item>
+        <item>Move application resources</item>
+        <item>control Near Field Communication</item>
+        <item>verify packages</item>
+        <item>directly start CDMA phone setup</item>
+        <item>make application always run</item>
+        <item>update component usage statistics</item>
+        <item>intercept outgoing calls</item>
+        <item>read calendar events plus confidential information</item>
+        <item>read contact data</item>
+        <item>read user defined dictionary</item>
+        <item>read frame buffer</item>
+        <item>"read Browser's history and bookmarks"</item>
+        <item>record what you type and actions you take</item>
+        <item>read sensitive log data</item>
+        <item>read historical network usage</item>
+        <item>read phone state and identity</item>
+        <item>read your profile data</item>
+        <item>read SMS or MMS</item>
+        <item>read your social stream</item>
+        <item>read sync settings</item>
+        <item>read sync statistics</item>
+        <item>force phone reboot</item>
+        <item>automatically start at boot</item>
+        <item>receive emergency broadcasts</item>
+        <item>receive MMS</item>
+        <item>receive SMS</item>
+        <item>receive WAP</item>
+        <item>record audio</item>
+        <item>stop running applications</item>
+        <item>reorder running applications</item>
+        <item>retrieve screen content</item>
+        <item>monitor and control all application launching</item>
+        <item>modify/delete SD card contents</item>
+        <item>send SMS messages</item>
+        <item>send SMS messages with no confirmation</item>
+        <item>set alarm in alarm clock</item>
+        <item>make all background applications close</item>
+        <item>modify global animation speed</item>
+        <item>enable application debugging</item>
+        <item>change screen orientation</item>
+        <item>change pointer speed</item>
+        <item>set preferred applications</item>
+        <item>limit number of running processes</item>
+        <item>set time</item>
+        <item>set time zone</item>
+        <item>set wallpaper</item>
+        <item>set wallpaper size hints</item>
+        <item>partial shutdown</item>
+        <item>send Linux signals to applications</item>
+        <item>disable or modify status bar</item>
+        <item>status bar</item>
+        <item>prevent app switches</item>
+        <item>read subscribed feeds</item>
+        <item>write subscribed feeds</item>
+        <item>display system-level alerts</item>
+        <item>make/receive Internet calls</item>
+        <item>use the authentication credentials of an account</item>
+        <item>control vibrator</item>
+        <item>prevent phone from sleeping</item>
+        <item>change/intercept network settings and traffic</item>
+        <item>"add or modify calendar events and send email to guests without owners' knowledge"</item>
+        <item>write contact data</item>
+        <item>write to user defined dictionary</item>
+        <item>modify the Google services map</item>
+        <item>"write Browser's history and bookmarks"</item>
+        <item>write to your profile data</item>
+        <item>modify secure system settings</item>
+        <item>modify global system settings</item>
+        <item>edit SMS or MMS</item>
+        <item>write to your social stream</item>
+        <item>write sync settings</item>
+    </string-array>
+    <string-array name="permission_description">
+        <item>Access coarse location sources such as the cellular network database to determine an approximate phone location, where available. Malicious applications can use this to determine approximately where you are.</item>
+        <item>Access fine location sources such as the Global Positioning System on the phone, where available. Malicious applications can use this to determine where you are, and may consume additional battery power.</item>
+        <item>Access extra location provider commands. Malicious applications could use this to interfere with the operation of the GPS or other location sources.</item>
+        <item>Create mock location sources for testing. Malicious applications can use this to override the location and/or status returned by real location sources such as GPS or Network providers.</item>
+        <item>Allows access to the kernel MTP driver to implement the MTP USB protocol.</item>
+        <item>Allows an application to view the state of all networks.</item>
+        <item>Allows application to use SurfaceFlinger low-level features.</item>
+        <item>Allows an application to view the information about the state of Wi-Fi.</item>
+        <item>Allows an application to view the information about the state of WiMAX.</item>
+        <item>Allows an application to make calls to AccountAuthenticators</item>
+        <item>Allows the application to add messages to your voicemail inbox.</item>
+        <item>Allows an application to use any installed media decoder to decode for playback.</item>
+        <item>Allows the application to get information on internal storage.</item>
+        <item>Allows the application to create internal storage.</item>
+        <item>Allows the application to destroy internal storage.</item>
+        <item>Allows the application to mount / unmount internal storage.</item>
+        <item>Allows the application to rename internal storage.</item>
+        <item>Allows an application to use the account authenticator capabilities of the AccountManager, including creating accounts and getting and setting their passwords.</item>
+        <item>"Allows the application to control the system's backup and restore mechanism. Not for use by normal applications."</item>
+        <item>Allows the modification of collected battery statistics. Not for use by normal applications.</item>
+        <item>Allows the modification of collected battery statistics. Not for use by normal applications.</item>
+        <item>Allows the holder to send intents to a device administrator. Should never be needed for normal applications.</item>
+        <item>Allows the application to tell the system which widgets can be used by which application. With this permission, applications can give access to personal data to other applications. Not for use by normal applications.</item>
+        <item>Allows the holder to bind to the top-level interface of an input method. Should never be needed for normal applications.</item>
+        <item>Allows the holder to make requests of package verifiers. Should never be needed for normal applications.</item>
+        <item>Allows the holder to bind to the top-level interface of a widget service. Should never be needed for normal applications.</item>
+        <item>Allows the holder to bind to the top-level interface of a text service(e.g. SpellCheckerService). Should never be needed for normal applications.</item>
+        <item>Allows the holder to bind to the top-level interface of a Vpn service. Should never be needed for normal applications.</item>
+        <item>Allows the holder to bind to the top-level interface of a wallpaper. Should never be needed for normal applications.</item>
+        <item>Allows an application to view configuration of the local Bluetooth phone, and to make and accept connections with paired devices.</item>
+        <item>Allows an application to configure the local Bluetooth phone, and to discover and pair with remote devices.</item>
+        <item>Allows the application to disable the entire phone permanently. This is very dangerous.</item>
+        <item>Allows an application to broadcast a notification that an application package has been removed. Malicious applications may use this to kill any other running application.</item>
+        <item>Allows an application to broadcast a notification that an SMS message has been received. Malicious applications may use this to forge incoming SMS messages.</item>
+        <item>Allows an application to send sticky broadcasts, which remain after the broadcast ends. Malicious applications can make the phone slow or unstable by causing it to use too much memory.</item>
+        <item>Allows an application to broadcast a notification that a WAP PUSH message has been received. Malicious applications may use this to forge MMS message receipt or to silently replace the content of any web page with malicious variants.</item>
+        <item>Allows an application to read and write the cache filesystem.</item>
+        <item>Allows the application to call phone numbers without your intervention. Malicious applications may cause unexpected calls on your phone bill. Note that this does not allow the application to call emergency numbers.</item>
+        <item>Allows the application to call any phone number, including emergency numbers, without your intervention. Malicious applications may place unnecessary and illegal calls to emergency services.</item>
+        <item>Allows application to take pictures and videos with the camera. This allows the application at any time to collect images the camera is seeing.</item>
+        <item>Allows an application to change the background data usage setting.</item>
+        <item>Allows an application to change whether a component of another application is enabled or not. Malicious applications can use this to disable important phone capabilities. Care must be used with this permission, as it is possible to get application components into an unusable, inconsistent, or unstable state.</item>
+        <item>Allows an application to change the current configuration, such as the locale or overall font size.</item>
+        <item>Allows an application to change the state of network connectivity.</item>
+        <item>Allows an application to receive packets not directly addressed to your device. This can be useful when discovering services offered near by. It uses more power than the non-multicast mode.</item>
+        <item>Allows an application to connect to and disconnect from Wi-Fi access points, and to make changes to configured Wi-Fi networks.</item>
+        <item>Allows an application to connect to and disconnect from WiMAX network.</item>
+        <item>Allows read/write access to properties uploaded by the checkin service. Not for use by normal applications.</item>
+        <item>Allows an application to free phone storage by deleting files in application cache directory. Access is very restricted usually to system process.</item>
+        <item>Allows an application to clear user data.</item>
+        <item>Allows the application to launch the full backup confirmation UI. Not to be used by any application.</item>
+        <item>Allows to invoke default container service to copy content. Not for use by normal applications.</item>
+        <item>Allows an application to create network sockets.</item>
+        <item>Allows an application to delete cache files.</item>
+        <item>Allows an application to delete Android packages. Malicious applications can use this to delete important applications.</item>
+        <item>Allows the application to turn the phone on or off.</item>
+        <item>Allows an application to read and write to any resource owned by the diag group; for example, files in /dev. This could potentially affect system stability and security. This should be ONLY be used for hardware-specific diagnostics by the manufacturer or operator.</item>
+        <item>Allows an application to disable the keylock and any associated password security. A legitimate example of this is the phone disabling the keylock when receiving an incoming phone call, then re-enabling the keylock when the call is finished.</item>
+        <item>Allows application to retrieve internal state of the system. Malicious applications may retrieve a wide variety of private and secure information that they should never normally need.</item>
+        <item>Allows application to expand or collapse the status bar.</item>
+        <item>Run as a low-level manufacturer test, allowing complete access to the phone hardware. Only available when a phone is running in manufacturer test mode.</item>
+        <item>Allows the application to control the flashlight.</item>
+        <item>Allows an application to force any activity that is in the foreground to close and go back. Should never be needed for normal applications.</item>
+        <item>Allows an application to forcibly stop other applications.</item>
+        <item>Allows an application to get the list of accounts known by the phone.</item>
+        <item>Allows an application to retrieve its code, data, and cache sizes</item>
+        <item>Allows application to retrieve information about currently and recently running tasks. May allow malicious applications to discover private information about other applications.</item>
+        <item>Allows the application to control various peripherals for the purpose of hardware testing.</item>
+        <item>Allows an application to deliver its own input events (key presses, etc.) to other applications. Malicious applications can use this to take over the phone.</item>
+        <item>Create mock location sources for testing. Malicious applications can use this to override the location and/or status returned by real location sources such as GPS or Network providers or monitor and report your location to an external source.</item>
+        <item>Allows an application to install new or updated Android packages. Malicious applications can use this to add new applications with arbitrarily powerful permissions.</item>
+        <item>Allows the creation of windows that are intended to be used by the internal system user interface. Not for use by normal applications.</item>
+        <item>"Allows an application to kill background processes of other applications, even if memory isn't low."</item>
+        <item>"Allows an application to kill background processes of other applications, even if memory isn't low."</item>
+        <item>Allows enabling/disabling location update notifications from the radio. Not for use by normal applications.</item>
+        <item>Allows an application to perform operations like adding, and removing accounts and deleting their password.</item>
+        <item>Allows applications to create and manage their own tokens, bypassing their normal Z-ordering. Should never be needed for normal applications.</item>
+        <item>Allows an application to manage network policies and define application-specific rules.</item>
+        <item>Allows the application to manage preferences and permissions for USB devices.</item>
+        <item>Allows an application to completely reset the system to its factory settings, erasing all data, configuration, and installed applications.</item>
+        <item>Allows an application to modify the contents of the internal media storage.</item>
+        <item>Allows application to modify global audio settings such as volume and routing.</item>
+        <item>Allows modification of how network usage is accounted against applications. Not for use by normal applications.</item>
+        <item>Allows the application to control the phone features of the device. An application with this permission can switch networks, turn the phone radio on and off and the like without ever notifying you.</item>
+        <item>Allows the application to format removable storage.</item>
+        <item>Allows the application to mount and unmount filesystems for removable storage.</item>
+        <item>Allows an application to move application resources from internal to external media and vice versa.</item>
+        <item>Allows an application to communicate with Near Field Communication (NFC) tags, cards, and readers.</item>
+        <item>Allows the application to verify a package is installable.</item>
+        <item>Allows the application to start CDMA provisioning. Malicious applications may unnecessarily start CDMA provisioning</item>
+        <item>"Allows an application to make parts of itself persistent, so the system can't use it for other applications."</item>
+        <item>Allows the modification of collected component usage statistics. Not for use by normal applications.</item>
+        <item>Allows application to process outgoing calls and change the number to be dialed. Malicious applications may monitor, redirect, or prevent outgoing calls.</item>
+        <item>"Allows an application to read all calendar events stored on your phone, including those of friends or coworkers. A malicious application with this permission can extract personal information from these calendars without the owners' knowledge."</item>
+        <item>Allows an application to read all of the contact (address) data stored on your phone. Malicious applications can use this to send your data to other people.</item>
+        <item>Allows an application to read any private words, names and phrases that the user may have stored in the user dictionary.</item>
+        <item>Allows application to read the content of the frame buffer.</item>
+        <item>"Allows the application to read all the URLs that the Browser has visited, and all of the Browser's bookmarks."</item>
+        <item>Allows applications to watch the keys you press even when interacting with another application (such as entering a password). Should never be needed for normal applications.</item>
+        <item>"Allows an application to read from the system's various log files. This allows it to discover general information about what you are doing with the phone, potentially including personal or private information."</item>
+        <item>Allows an application to read historical network usage for specific networks and applications.</item>
+        <item>Allows the application to access the phone features of the device. An application with this permission can determine the phone number and serial number of this phone, whether a call is active, the number that call is connected to and the like.</item>
+        <item>Allows the application to read personal profile information stored on your device, such as your name and contact information. This means the application can identify you and send your profile information to others.</item>
+        <item>Allows application to read SMS messages stored on your phone or SIM card. Malicious applications may read your confidential messages.</item>
+        <item>Allows the application to access and sync social updates from you and your friends. Malicious apps can use this to read private communications between you and your friends on social networks.</item>
+        <item>Allows an application to read the sync settings, such as whether sync is enabled for Contacts.</item>
+        <item>Allows an application to read the sync stats; e.g., the history of syncs that have occurred.</item>
+        <item>Allows the application to force the phone to reboot.</item>
+        <item>Allows an application to have itself started as soon as the system has finished booting. This can make it take longer to start the phone and allow the application to slow down the overall phone by always running.</item>
+        <item>Allows application to receive and process emergency broadcast messages. This permission is only available to system applications.</item>
+        <item>Allows application to receive and process MMS messages. Malicious applications may monitor your messages or delete them without showing them to you.</item>
+        <item>Allows application to receive and process SMS messages. Malicious applications may monitor your messages or delete them without showing them to you.</item>
+        <item>Allows application to receive and process WAP messages. Malicious applications may monitor your messages or delete them without showing them to you.</item>
+        <item>Allows application to access the audio record path.</item>
+        <item>Allows an application to remove tasks and kill their applications. Malicious applications can disrupt the behavior of other applications.</item>
+        <item>Allows an application to move tasks to the foreground and background. Malicious applications can force themselves to the front without your control.</item>
+        <item>Allows application to retrieve the content of the active window. Malicious applications may retrieve the entire window content and examine all its text except passwords.</item>
+        <item>Allows an application to monitor and control how the system launches activities. Malicious applications may completely compromise the system. This permission is only needed for development, never for normal use.</item>
+        <item>Allows an application to write to the SD card.</item>
+        <item>Allows application to send SMS messages. Malicious applications may cost you money by sending messages without your confirmation.</item>
+        <item>Allows application to send SMS messages. Malicious applications may cost you money by sending messages without your confirmation.</item>
+        <item>Allows the application to set an alarm in an installed alarm clock application. Some alarm clock applications may not implement this feature.</item>
+        <item>Allows an application to control whether activities are always finished as soon as they go to the background. Never needed for normal applications.</item>
+        <item>Allows an application to change the global animation speed (faster or slower animations) at any time.</item>
+        <item>Allows an application to turn on debugging for another application. Malicious applications can use this to kill other applications.</item>
+        <item>Allows an application to change the rotation of the screen at any time. Should never be needed for normal applications.</item>
+        <item>Allows an application to change the mouse or trackpad pointer speed at any time. Should never be needed for normal applications.</item>
+        <item>Allows an application to modify your preferred applications. This can allow malicious applications to silently change the applications that are run, spoofing your existing applications to collect private data from you.</item>
+        <item>Allows an application to control the maximum number of processes that will run. Never needed for normal applications.</item>
+        <item>"Allows an application to change the phone's clock time."</item>
+        <item>"Allows an application to change the phone's time zone."</item>
+        <item>Allows the application to set the system wallpaper.</item>
+        <item>Allows the application to set the system wallpaper size hints.</item>
+        <item>Puts the activity manager into a shutdown state. Does not perform a complete shutdown.</item>
+        <item>Allows application to request that the supplied signal be sent to all persistent processes.</item>
+        <item>Allows application to disable the status bar or add and remove system icons.</item>
+        <item>Allows the application to be the status bar.</item>
+        <item>Prevents the user from switching to another application.</item>
+        <item>Allows an application to get details about the currently synced feeds.</item>
+        <item>Allows an application to modify your currently synced feeds. This could allow a malicious application to change your synced feeds.</item>
+        <item>Allows an application to show system alert windows. Malicious applications can take over the entire screen.</item>
+        <item>Allows an application to use the SIP service to make/receive Internet calls.</item>
+        <item>Allows an application to request authentication tokens.</item>
+        <item>Allows the application to control the vibrator.</item>
+        <item>Allows an application to prevent the phone from going to sleep.</item>
+        <item>Allows an application to change network settings and to intercept and inspect all network traffic, for example to change the proxy and port of any APN. Malicious applications could monitor, redirect, or modify network packets without your knowledge.</item>
+        <item>"Allows an application to send event invitations as the calendar owner and add, remove, change events that you can modify on your device, including those of friends or co-workers. A malicious application with this permission can send spam emails that appear to come from calendar owners, modify events without the owners' knowledge, or add fake events."</item>
+        <item>Allows an application to modify the contact (address) data stored on your phone. Malicious applications can use this to erase or modify your contact data.</item>
+        <item>Allows an application to write new words into the user dictionary.</item>
+        <item>Allows an application to modify the Google services map. Not for use by normal applications.</item>
+        <item>"Allows an application to modify the Browser's history or bookmarks stored on your phone. Malicious applications can use this to erase or modify your Browser's data."</item>
+        <item>Allows the application to change or add to personal profile information stored on your device, such as your name and contact information. This means other applications can identify you and send your profile information to others.</item>
+        <item>"Allows an application to modify the system's secure settings data. Not for use by normal applications."</item>
+        <item>"Allows an application to modify the system's settings data. Malicious applications can corrupt your system's configuration."</item>
+        <item>Allows application to write to SMS messages stored on your phone or SIM card. Malicious applications may delete your messages.</item>
+        <item>Allows the application to display social updates from your friends. Malicious apps can use this to pretend to be a friend and trick you into revealing passwords or other confidential information.</item>
+        <item>Allows an application to modify the sync settings, such as whether sync is enabled for Contacts.</item>
+    </string-array>
+    <string-array name="permission_group_label">
+        <item>Your accounts</item>
+        <item>Services that cost you money</item>
+        <item>Development tools</item>
+        <item>Hardware controls</item>
+        <item>Your location</item>
+        <item>Your messages</item>
+        <item>Network communication</item>
+        <item>Your personal information</item>
+        <item>Phone calls</item>
+        <item>Storage</item>
+        <item>System tools</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="permission_group_description">
+        <item>Access the available accounts.</item>
+        <item>Allow applications to do things that can cost you money.</item>
+        <item>Features only needed for application developers.</item>
+        <item>Direct access to hardware on the handset.</item>
+        <item>Monitor your physical location</item>
+        <item>Read and write your SMS, e-mail, and other messages.</item>
+        <item>Allow applications to access various network features.</item>
+        <item>Direct access to your contacts and calendar stored on the phone.</item>
+        <item>Monitor, record, and process phone calls.</item>
+        <item>Access the SD card.</item>
+        <item>Lower-level access and control of the system.</item>
+        <item>Other permission</item>
+    </string-array>
+</resources>
