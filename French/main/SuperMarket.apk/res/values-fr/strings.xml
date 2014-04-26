@@ -107,7 +107,7 @@
     <string name="edit_text_default">Write a comment</string>
     <string name="share_to_weibo">Share on Sina Weibo</string>
     <string name="comment_publish">Submit</string>
-    <string name="comment_date">%1$02d-%2$02d</string>
+    <string name="comment_date">%2$02d/%1$02d</string>
     <string name="comment_average_score">Ratings</string>
     <string name="comment_score_count">%1$s users</string>
     <string name="comment_name_default">User %1$s</string>
@@ -128,7 +128,7 @@
     <string name="developer_button">View more</string>
     <string name="permission_button">Permissions(%1$s)</string>
     <string name="update_date_label">Update:</string>
-    <string name="update_date">%1$s-%2$s-%3$s</string>
+    <string name="update_date">%3$s-%2$s-%1$s</string>
     <string name="version_label">Version:</string>
     <string name="share_button">Share</string>
     <string name="update_info">Updates</string>
@@ -143,8 +143,6 @@
     <string name="launch">Launch</string>
     <string name="price">￥%1$s</string>
     <string name="progress">%1$s%%</string>
-    <string name="send">@miui:string/send</string>
-    <string name="delete">@miui:string/delete</string>
     <string name="bytes">%1$s/%2$s</string>
     <string name="pending">Pending…</string>
     <string name="paused">Paused</string>
@@ -155,9 +153,9 @@
     <string name="installing">Installing…</string>
     <string name="holding">Holding…</string>
     <string name="size">(%1$s)</string>
-    <string name="bytes_unit">%1$sB</string>
-    <string name="kilobytes_unit">%1$sKB</string>
-    <string name="megabytes_unit">%1$sMB</string>
+    <string name="bytes_unit">%1$s o</string>
+    <string name="kilobytes_unit">%1$s Ko</string>
+    <string name="megabytes_unit">%1$s Mo</string>
     <string name="rank_app_name">%1$s. %2$s</string>
     <string name="publish_info">%1$s-%2$s published %3$s version</string>
     <string name="permissions_title">%1$s permissions details</string>
