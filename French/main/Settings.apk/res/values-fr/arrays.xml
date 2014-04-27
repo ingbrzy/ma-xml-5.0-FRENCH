@@ -577,23 +577,6 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>Réseau lent en raison de la faible intensité du signal</item>
         <item>En mouvement…</item> <!-- à revoir ? <item>Moving…</item> = <item>En mouvement…</item> ? -->
     </string-array>
- <!-- not same for all phones
-    <string-array name="tts_rate_entries"> 
-        <item>Très lent</item>
-        <item>Lent</item>
-        <item>Normal</item>
-        <item>Rapide</item>
-        <item>Très rapide</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Aucun</item>
-        <item>720x480 mdpi</item>
-        <item>1280x720 tvdpi</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi et 1920x1080 xhdpi</item>
-    </string-array>
--->
-
   <!-- for n5 at least -->
   <string-array name="captioning_typeface_selector_titles">
     <item>Par défaut</item>

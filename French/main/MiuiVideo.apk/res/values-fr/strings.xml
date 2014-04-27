@@ -210,6 +210,8 @@ la vidéo sur votre box ou TV"</string>
   <string name="find_media_searching">Recherche…</string>
   <string name="visit_postfix">| récemment visité</string>
   <string name="check_network">Impossible de se connecter, vérifiez vos paramètres réseaux</string>
+  <string name="reloading_tip">Impossible de se connecter au réseau</string>
+  <string name="retry">Réessayer</string>
   
  <!-- FIX; cn to en-->
   <string name="variety">Variety</string>
@@ -275,8 +277,6 @@ la vidéo sur votre box ou TV"</string>
   <string name="quarter_bell_alert_button_cancel">cancel</string>
   <string name="quarter_bell_alert_button_makeappointment">reservation</string>
   <string name="quarter_bell_alert_button_cancelappointment">remove reservation</string>
-  <string name="reloading_tip">"Couldn't connect to network"</string>
-  <string name="retry">Retry</string>
   <string name="no_subject">No subject</string>
   <string name="hide_media">Hide</string>
   <string name="cancel_hide">Unhide</string>

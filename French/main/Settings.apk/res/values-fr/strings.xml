@@ -491,7 +491,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="breathing_light_color_menu_title">Couleur de la LED</string>
   <string name="breathing_light_color_summary">Couleur de la LED lors d\'une nouvelle notification</string>
   <string name="breathing_light_freq_summary">Pause de la LED entre les flashs</string>
-  <string name="breathing_light_freq_title">" : fréq. de clignotement"</string>
+  <string name="breathing_light_freq_title">Fréquence de clignotement</string>
   <string name="brightness">Luminosité</string>
   <string name="brightness_auto_adjust_off">La luminosité peut être ajustée à votre convenance en déplaçant le curseur. La luminosité de l\'écran restera inchangée dans n\'importe quel environnement.</string>
   <string name="brightness_auto_adjust_on">La luminosité automatique peut être réglée en déplaçant le curseur. La luminosité de l\'écran varie selon votre réglage et les environs.</string>

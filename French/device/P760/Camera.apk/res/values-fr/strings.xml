@@ -348,7 +348,7 @@
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Qualité vidéo</string>
-  <string name="pref_video_slow_speed_title_simple_mode">Caméra ralenti</string>
+  <string name="pref_video_slow_speed_title_simple_mode">Slow-motion</string>
   <string name="pref_video_speed_entry_fast">Rapide</string>
   <string name="pref_video_speed_entry_normal">Normal</string>
   <string name="pref_video_speed_entry_slow">Lent</string>
@@ -400,9 +400,9 @@
   <string name="simple_mode_button_text_audio_capture">Fermer la capture audio</string>
   <string name="simple_mode_button_text_color_effect">Fermer les filtres</string>
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
-  <string name="simple_mode_button_text_hdr">Fermer le mode HDR</string>
-  <string name="simple_mode_button_text_panorama">Fermer le mode panorama</string>
-  <string name="simple_mode_button_text_slow_video">Fermer la caméra en ralenti</string>
+  <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>
+  <string name="simple_mode_button_text_panorama">Quitter le mode panorama</string>
+  <string name="simple_mode_button_text_slow_video">Quitter le mode Slow-motion</string>
   <string name="simple_mode_title">Mode simple</string>
   <string name="slideshow">Diaporama</string>
   <string name="snapshot_lower_than_video">La taille de capture vidéo est inférieure à la taille de la vidéo. Plafonnement de la taille de la vidéo. Veuillez sélectionner une résolution supérieure ou égale à la taille actuelle de la vidéo.</string>

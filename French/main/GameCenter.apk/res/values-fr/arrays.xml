@@ -414,12 +414,12 @@
         <item>International</item>
     </string-array>
     <string-array name="user_level_rule">
-        <item>Daily Login</item>
-        <item>Download Games</item>
+        <item>Connexion quotidienne</item>
+        <item>Téléchargement de jeux</item>
     </string-array>
     <string-array name="user_level_rule_value">
-        <item>+5 Exp.(1x a day)</item>
-        <item>+5 Exp.(5x a day)</item>
+        <item>+5 Exp.(1x par jour)</item>
+        <item>+5 Exp.(5x par jour)</item>
     </string-array>
     <string-array name="vip_level_rule">
         <item>How to upgrade</item>
@@ -549,11 +549,11 @@
         <item>Saturday</item>
     </string-array>
     <string-array name="average_score_star">
-        <item>1 star</item>
-        <item>2 stars</item>
-        <item>3 stars</item>
-        <item>4 stars</item>
-        <item>5 stars</item>
+        <item>1 Étoile</item>
+        <item>2 Étoiles</item>
+        <item>3 Étoiles</item>
+        <item>4 Étoiles</item>
+        <item>5 Étoiles</item>
     </string-array>
     <string-array name="permission_label">
         <item>coarse (network-based) location</item>

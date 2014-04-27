@@ -317,7 +317,6 @@
         <item>Allows the application to display social updates from your friends. Malicious apps can use this to pretend to be a friend and trick you into revealing passwords or other confidential information.</item>
         <item>Allows an application to modify the sync settings, such as whether sync is enabled for Contacts.</item>
     </string-array>
-    </string-array>
     <string-array name="permission_group_label">
         <item>Your accounts</item>
         <item>Services that cost you money</item>
