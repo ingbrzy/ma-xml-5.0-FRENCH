@@ -408,7 +408,7 @@
     <string name="user_name_invalid">Enter username.</string>
     <string name="password_invalid">Password invalid. Please enter a 8-16 character combination of numbers and/or letters</string>
     <string name="my_games_title">Updates</string>
-    <string name="install_games_title">Me jeux</string>
+    <string name="install_games_title">Mes jeux</string>
     <string name="txt_updated_subtitle">Updates</string>
     <string name="txt_installed_subtitle">Installé</string>
     <string name="txt_local_game">%d</string>
