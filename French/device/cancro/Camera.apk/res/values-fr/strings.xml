@@ -211,7 +211,7 @@
   <string name="pref_camera_coloreffect_title">Effet de couleur</string>
   <string name="pref_camera_contrast_title">Contraste</string>
   <string name="pref_camera_current_k_value">Valeur actuelle</string>
-  <string name="pref_camera_default_suffix"> (par défaut)</string>
+  <string name="pref_camera_default_suffix">" (par défaut)"</string>
   <string name="pref_camera_denoise_title">Mode de débruitage d\'ondelettes</string>
   <string name="pref_camera_exposuretime_title">"Durée d'exposition"</string>
   <string name="pref_camera_facedetection_entry_off">Désactivé</string>
