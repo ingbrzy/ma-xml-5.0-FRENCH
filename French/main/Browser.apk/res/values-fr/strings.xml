@@ -313,7 +313,7 @@
   <string name="geolocation_settings_page_summary_allowed">Ce site a accès à votre position.</string>
   <string name="geolocation_settings_page_summary_not_allowed">"Ce site n'a pas accès à votre position."</string>
   <string name="geolocation_settings_page_title">Accès à la position</string>
-  <string name="google_bookmarks">Google</string>
+  <string name="google_bookmarks">"Google : "</string>
   <string name="have_sent_bookmark_to_home_screen">Favori ajouté à la page d\'accueil</string>
   <string name="history">Historique</string>
   <string name="history_browsed">Historique de navigation</string>
