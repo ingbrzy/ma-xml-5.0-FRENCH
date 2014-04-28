@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Paramètres matériel</string>
+    <string name="system">Système</string>
+    <string name="engineercode_settings">Code ingénieur</string>
+    <string name="engineermode_settings">Mode ingénieur</string>
+    <string name="schedulepoweronoff_settings">Programmation marche / arrêt</string>
+    <string name="sound">Son</string>
+    <string name="camera_sound_switch">Interrupteur son caméra</string>
+    <string name="camera_sound">Son appareil photo</string>
+    <string name="record_sound">Son enregistrement vidéo</string>
+    <string name="focus_sound">Son mise au point</string>
+    <string name="srs">Son SRS</string>
+    <!-- à traduire ? <string name="operation">Operation</string> -->
+    <!-- à traduire ? <string name="mipop">MIPop</string> -->
+    <!-- à traduire ? <string name="flash_recovery">Falsh Recovery</string> -->
+    <string name="toolbox">Outils</string>
+    <!-- à traduire ? <string name="recovery_instruction">Remane Recovery image to recovery.img and put it to external sdcard，then you can flash recovery after click the item</string> -->
+    <string name="internal_sdcard">La carte SD interne est la carte par défaut. La modification de ce paramètre provoque un redémarrage dès la sélection de la carte SD externe</string>
+    <string name="external_sdcard">La carte SD externe est la carte par défaut. La modification de ce paramètre provoque un redémarrage dès la sélection de la carte SD interne</string>
+    <string name="default_sdcard">Carte SD par défaut</string>
+</resources>
