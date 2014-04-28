@@ -6,9 +6,9 @@
     <string name="permission_extra">Other access</string>
     <string name="app_name">Market</string>
     <string name="recommendation_tag">Sélection</string>
-    <string name="rank_tag">Top Apps</string>
+    <string name="rank_tag">Populaires</string>
     <string name="category_tag">Catégories</string>
-    <string name="management_tag">Updates</string>
+    <string name="management_tag">Màj</string>
     <string name="category_recommend_tag">Sélection</string>
     <string name="hot_rank_tag">Populaire</string>
     <string name="new_app_tag">Nouveau</string>
@@ -117,14 +117,14 @@
     <string name="comment_3_star">3 Étoiles</string>
     <string name="comment_2_star">2 Étoiles</string>
     <string name="comment_1_star">1 Étoile</string>
-    <string name="comment_current_version">Current version</string>
+    <string name="comment_current_version">Version actuelle</string>
     <string name="bad_comment_reason_dialog_title">Please choose a reason</string>
     <string name="bad_comment_reason_dialog_button_text">Skip</string>
-    <string name="rating_button">%1$s note</string>
+    <string name="rating_button">%1$s notes</string>
     <string name="developer_button">Autres titres</string>
     <string name="permission_button">Permissions(%1$s)</string>
     <string name="update_date_label">"Mise à jour : "</string>
-    <string name="update_date">%3$s-%2$s-%1$s</string>
+    <string name="update_date">%3$s/%2$s/%1$s</string>
     <string name="version_label">"Version "</string>
     <string name="share_button">Partager</string>
     <string name="update_info">Nouveautés</string>
@@ -134,7 +134,7 @@
     <string name="delete_selected_apps">Supprimer</string>
     <string name="deleting">Deleting</string>
     <string name="update">Update</string>
-    <string name="installed">Installed</string>
+    <string name="installed">Installé</string>
     <string name="cancel">Annuler</string>
     <string name="launch">Lancer</string>
     <string name="price">￥%1$s</string>
@@ -260,7 +260,7 @@
     <string name="delete_confirm_system_app">Delete the selected %1$s apps? %2$s is a system app.</string>
     <string name="update_history_title">Update history</string>
     <string name="update_log_hint">Updates:</string>
-    <string name="update_time">%1$s-%2$s</string>
+    <string name="update_time">%2$s/%1$s</string>
     <string name="update_history_cleared">Update history cleared</string>
     <string name="first_recommend_download">Install all</string>
     <string name="first_recommend_enter">Start App Market</string>

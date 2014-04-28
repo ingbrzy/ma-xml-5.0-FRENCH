@@ -31,7 +31,7 @@ Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?"</
   <string name="app_not_found_dlg_title">Application non trouvée</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l\'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d\'énergie et de données.
   Autoriser le démarrage automatique ?"</string>
-  <string name="caller_app">Demandeur : %1$s</string>
+  <string name="caller_app">Source : %1$s</string>
   <string name="cancel">Annuler</string>
   <string name="dlg_app_replacement_statement">"L\'application que vous installez en remplacera une autre.
 

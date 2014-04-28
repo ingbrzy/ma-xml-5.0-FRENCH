@@ -4,7 +4,7 @@
 <resources>
     <string-array name="transformation_entries">
         <item>Classique</item>
-        <item>Classique (sans rebond)</item>
+        <item>Sans rebond</item>
         <item>Fondu</item>
         <item>Éventail</item>
         <item>Page</item>

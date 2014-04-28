@@ -604,7 +604,7 @@
   <string name="tab_most_visited">Les + visités</string>
   <string name="tab_quicklinks">Liens rapides</string>
   <string name="tab_snapshots">Pages enregistrées</string>
-  <string name="tab_yellowpage">Sites populaires</string>
+  <string name="tab_yellowpage">Populaires</string>
   <string name="title_bar_loading">Chargement…</string>
   <string name="too_many_windows_dialog_message">"Impossible d'ouvrir un nouvel onglet tant que vous n'en avez pas fermé un autre."</string>
   <string name="too_many_windows_dialog_title">Limite d\'onglets ouverts atteinte</string>
