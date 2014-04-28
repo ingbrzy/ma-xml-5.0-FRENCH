@@ -22,8 +22,8 @@
     <string name="gift_by_jifen">Use points</string>
     <string name="gift_need">%d pts</string>
     <string name="gift_free_need">Gratuit</string>
-    <string name="gift_expired">Expired</string>
-    <string name="gift_will_coming">Coming soon</string>
+    <string name="gift_expired">Expiré</string>
+    <string name="gift_will_coming">Prochainement</string>
     <string name="gift_time_normal_format">Temps restant : %s</string>
     <string name="gift_time_future_day_format">Temps restant : %1$d jours %2$d h</string>
     <string name="gift_time_future_hour_format">Temps restant : %d h</string>
@@ -75,7 +75,7 @@
     <string name="service_of_customer_info">Service info</string>
     <string name="service_of_jf_shop">GPs</string>
     <string name="service_of_issue_track">Tickets</string>
-    <string name="service_of_my_gifts">My GPs</string>
+    <string name="service_of_my_gifts">Mes GPs</string>
     <string name="service_of_my_vip">Mon Profil</string>
     <string name="service_of_my_level">Niveau</string>
     <string name="service_of_feedbakc_online">Online support</string>
@@ -195,8 +195,8 @@
     <string name="title_level">Niveau</string>
     <string name="title_intergral">Points</string>
     <string name="title_message_center">Messages</string>
-    <string name="vip_home_need_exp">- &lt;font color=\"#2a2a2a\">&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=\"#2a2a2a\"> points pour passer au niveau suivant&lt;/font></string>
-    <string name="vip_gift_empty_receive">"You don't have any GamePacks"</string>
+    <string name="vip_home_need_exp">- &lt;font color=\"#2a2a2a\">&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=\"#2a2a2a\"> pts pour augmenter de niveau&lt;/font></string>
+    <string name="vip_gift_empty_receive">"Vous n'avez aucun GamePack"</string>
     <string name="vip_gift_empty_button_receive">␣␣Get GamePack␣␣</string>
     <string name="feedback_less_than4">Xiaomi Games customer service</string>
     <string name="vip_personal_info_edit_tip1">Instructions:</string>
@@ -231,15 +231,15 @@
     <string name="download_manager_tag_with_nonzero_downloads">Downloads(%1$s/%2$s)</string>
     <string name="menu_download_manager">Téléchargements</string>
     <string name="all_cat_tag">Tous</string>
-    <string name="hot_cat_tag">Populaire</string>
+    <string name="hot_cat_tag">Populaires</string>
     <string name="new_cat_tag">Nouveautés</string>
-    <string name="online_game_hot">Featured</string>
+    <string name="online_game_hot">Sélection</string>
     <string name="online_game_new">New Servers</string>
     <string name="online_game_beta">Beta</string>
     <string name="online_game_gift">Gift Packs</string>
     <string name="menu_search">Recherche</string>
     <string name="menu_preferences">Paramètres</string>
-    <string name="menu_install_all">Install all</string>
+    <string name="menu_install_all">Tout installer</string>
     <string name="delete">Supprimer</string>
     <string name="pause">Pause</string>
     <string name="data_package">_DataPackage</string>
@@ -410,7 +410,7 @@
     <string name="my_games_title">Updates</string>
     <string name="install_games_title">Me jeux</string>
     <string name="txt_updated_subtitle">Updates</string>
-    <string name="txt_installed_subtitle">Installed</string>
+    <string name="txt_installed_subtitle">Installé</string>
     <string name="txt_local_game">%d</string>
     <string name="purchase_record_title">Purchase history</string>
     <string name="game_date_version_name">%1$d-%2$d- released v%3$s</string>
@@ -559,7 +559,7 @@
     <string name="edit_comment">Ajouter un commentaire</string>
     <string name="edit_text_default">Écrire un commentaire</string>
     <string name="comment_publish">Envoyer</string>
-    <string name="comment_description">%1$s commenté le %4$s/%3$s/%2$s</string>
+    <string name="comment_description">%1$s %4$s/%3$s</string>
     <string name="comment_count">%1$s notes, %2$s commentaires</string>
     <string name="comment_name_default">Utilisateur %1$s</string>
     <string name="no_average_score">-.-</string>
@@ -610,9 +610,9 @@
     <string name="download_manager_install_cancel_unzipping">unzipping failed，sdcard storage insufficient</string>
     <string name="messagecenter_delete_empty">Select messages to delete.</string>
     <string name="download_manager_list_delete_confirm">delete %1$s items?</string>
-    <string name="game_detail_fee_type_1">In-App Purchase</string>
-    <string name="game_detail_fee_type_2">In-App Purchase</string>
-    <string name="game_detail_fee_type_3">Free</string>
+    <string name="game_detail_fee_type_1">Paiements in-app</string>
+    <string name="game_detail_fee_type_2">Paiements in-app</string>
+    <string name="game_detail_fee_type_3">Gratuit</string>
     <string name="game_editor_choice">Editor Choice</string>
     <string name="game_honor_wall">Wall Of Honor</string>
     <string name="category_game_sort">Trier</string>

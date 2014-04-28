@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="vip_info_values">
-        <item>pts</item>
-        <item>credits</item>
-        <item>level</item>
-        <item>games</item>
+        <item>points</item>
+        <item>crédits</item>
+        <item>niveau</item>
+        <item>jeux</item>
     </string-array>
     <string-array name="vip_service_names">
         <item>Online service</item>
@@ -23,20 +23,20 @@
         <item>VIP club</item>
     </string-array>
     <string-array name="my_page_titles">
-        <item>Nick Name</item>
-        <item>Gender</item>
-        <item>Birthday</item>
-        <item>Mobile</item>
-        <item>QQ</item>
-        <item>Area</item>
+        <item>Surnom</item>
+        <item>Genre</item>
+        <item>Anniversaire</item>
+        <item>Téléphone</item>
+        <item>Tencent QQ</item>
+        <item>Région</item>
     </string-array>
     <string-array name="my_page_dialog_titles">
-        <item>Nickname</item>
-        <item>Gender</item>
-        <item>Birthday</item>
-        <item>Phone</item>
-        <item>QQ</item>
-        <item>City</item>
+        <item>Surnom</item>
+        <item>Genre</item>
+        <item>Anniversaire</item>
+        <item>Téléphone</item>
+        <item>Tencent QQ</item>
+        <item>Ville</item>
     </string-array>
     <string-array name="my_page_dialog_hint">
         <item>4-18 characters: (letters, characters, and numbers)</item>
@@ -55,8 +55,8 @@
         <item>Activities</item>
     </string-array>
     <string-array name="my_page_sexs">
-        <item>Male</item>
-        <item>Female</item>
+        <item>Homme</item>
+        <item>Femme</item>
     </string-array>
     <string-array name="hot_cities">
         <item>Beijing</item>

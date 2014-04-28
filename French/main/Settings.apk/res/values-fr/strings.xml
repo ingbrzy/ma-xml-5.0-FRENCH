@@ -3567,7 +3567,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="remove_sms">Supprimer tous les journaux de messages ?</string>
   <string name="residual_cancel">Annuler</string>
   <string name="residual_clean">Nettoyer</string>
-  <string name="residual_tips_hints">%s fichiers résiduels trouvés</string>
+  <string name="residual_tips_hints">Fichiers résiduels trouvés (%s)</string>
   <string name="restore_default_settings">Rétablir les paramètres par défaut</string>
   <string name="rubbish_cleaning">Nettoyage système</string>
   <string name="save_button">Enregistrer</string>
