@@ -171,4 +171,34 @@
         <item>Configurer les paramètres de recherche FM</item>
         <item>Statistiques RF</item>
     </string-array>
+     <string-array name="fm_mhz_number_entries">
+        <item>" "</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+        <item>,</item>
+     </string-array>
+     <array name="fm_mhz_number_entryValues">
+        <item>@drawable/fm_mhz_empty</item>
+        <item>@drawable/fm_mhz_0</item>
+        <item>@drawable/fm_mhz_1</item>
+        <item>@drawable/fm_mhz_2</item>
+        <item>@drawable/fm_mhz_3</item>
+        <item>@drawable/fm_mhz_4</item>
+        <item>@drawable/fm_mhz_5</item>
+        <item>@drawable/fm_mhz_6</item>
+        <item>@drawable/fm_mhz_7</item>
+        <item>@drawable/fm_mhz_8</item>
+        <item>@drawable/fm_mhz_9</item>
+        <item>@drawable/fm_mhz_point</item>
+        <item>@drawable/fm_mhz_point</item>
+     </array>
 </resources>

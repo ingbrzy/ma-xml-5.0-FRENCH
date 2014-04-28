@@ -171,7 +171,8 @@
         <item>Configurer les paramètres de recherche FM</item>
         <item>Statistiques RF</item>
     </string-array>
-    <string-array name="date_entries">
+     <string-array name="fm_mhz_number_entries">
+        <item>" "</item>
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -182,25 +183,22 @@
         <item>7</item>
         <item>8</item>
         <item>9</item>
-        <item>-</item>
-        <item>/</item>
         <item>.</item>
         <item>,</item>
-    </string-array>
-    <array name="date_entryValues">
-        <item>@drawable/date_0</item>
-        <item>@drawable/date_1</item>
-        <item>@drawable/date_2</item>
-        <item>@drawable/date_3</item>
-        <item>@drawable/date_4</item>
-        <item>@drawable/date_5</item>
-        <item>@drawable/date_6</item>
-        <item>@drawable/date_7</item>
-        <item>@drawable/date_8</item>
-        <item>@drawable/date_9</item>
-        <item>@drawable/date_m</item>
-        <item>@drawable/date_m</item>
-        <item>@drawable/date_m</item>
-        <item>@drawable/date_m</item>
-    </array>
+     </string-array>
+     <array name="fm_mhz_number_entryValues">
+        <item>@drawable/fm_mhz_empty</item>
+        <item>@drawable/fm_mhz_0</item>
+        <item>@drawable/fm_mhz_1</item>
+        <item>@drawable/fm_mhz_2</item>
+        <item>@drawable/fm_mhz_3</item>
+        <item>@drawable/fm_mhz_4</item>
+        <item>@drawable/fm_mhz_5</item>
+        <item>@drawable/fm_mhz_6</item>
+        <item>@drawable/fm_mhz_7</item>
+        <item>@drawable/fm_mhz_8</item>
+        <item>@drawable/fm_mhz_9</item>
+        <item>@drawable/fm_mhz_point</item>
+        <item>@drawable/fm_mhz_point</item>
+     </array>
 </resources>
