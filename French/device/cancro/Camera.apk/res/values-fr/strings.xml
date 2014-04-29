@@ -377,9 +377,9 @@
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Qualité vidéo</string>
   <string name="pref_video_slow_speed_title_simple_mode">Fast-motion</string>
-  <string name="pref_video_speed_entry_fast">Rapide</string>
+  <string name="pref_video_speed_entry_fast">Lent</string>
   <string name="pref_video_speed_entry_normal">Normal</string>
-  <string name="pref_video_speed_entry_slow">Lent</string>
+  <string name="pref_video_speed_entry_slow">Rapide</string>
   <string name="pref_video_speed_title">Vitesse de la vidéo</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">0.3 seconde (10 fois)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">4 secondes (120 fois)</string>
