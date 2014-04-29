@@ -243,7 +243,7 @@
   <string name="contextmenu_copy">Copier</string>
   <string name="contextmenu_copylink">Copier l\'URL</string>
   <string name="contextmenu_dial_dot">Composer…</string>
-  <string name="contextmenu_feedback">Envoyer des commentaires</string>
+  <string name="contextmenu_feedback">Retour d\'expérience</string>
   <string name="contextmenu_help">Aide</string>
   <string name="contextmenu_map">Carte</string>
   <string name="contextmenu_openlink">Ouvrir dans le navigateur</string>
