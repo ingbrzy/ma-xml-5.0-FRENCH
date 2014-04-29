@@ -10,8 +10,8 @@
     <string name="category_tag">Catégories</string>
     <string name="management_tag">Màj</string>
     <string name="category_recommend_tag">Sélection</string>
-    <string name="hot_rank_tag">Populaire</string>
-    <string name="new_app_tag">Nouveau</string>
+    <string name="hot_rank_tag">Populaires</string>
+    <string name="new_app_tag">Nouveautés</string>
     <string name="menu_preferences">Paramètres</string>
     <string name="menu_login">Se connecter</string>
     <string name="menu_account">Mon compte</string>
@@ -164,11 +164,11 @@
     <string name="show_all_local_app_with_count">Total apps installed: (%1$d)</string>
     <string name="enable_updata_local_app">%1$s updates available</string>
     <string name="update_all">Tout mettre à jour</string>
-    <string name="search_local_app_text_hint">Search apps in %1$d installed</string>
+    <string name="search_local_app_text_hint">Rechercher parmi les %1$d applis installées</string>
     <string name="menu_update">Mettre à jour</string>
     <string name="menu_ignore">Ignorer</string>
     <string name="menu_detail">View app details</string>
-    <string name="install_time">Install time: %1$s</string>
+    <string name="install_time">Date d\'installation : %1$s</string>
     <string name="install_today">Aujourd\'hui</string>
     <string name="install_this_week">Cette semaine</string>
     <string name="install_this_month">Ce mois</string>
@@ -259,7 +259,7 @@
     <string name="delete_confirm">Delete the selected %1$s apps?</string>
     <string name="delete_confirm_system_app">Delete the selected %1$s apps? %2$s is a system app.</string>
     <string name="update_history_title">Update history</string>
-    <string name="update_log_hint">Updates:</string>
+    <string name="update_log_hint">Nouveautés :</string>
     <string name="update_time">%2$s/%1$s</string>
     <string name="update_history_cleared">Update history cleared</string>
     <string name="first_recommend_download">Install all</string>
