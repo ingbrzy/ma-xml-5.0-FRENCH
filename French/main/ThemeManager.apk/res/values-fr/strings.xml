@@ -102,8 +102,7 @@
   <string name="resource_detail_recommend_desiner_themes">%1$s thèmes</string>
   <string name="resource_detail_recommend_other_themes">Les utilisateurs ont également apprécié</string>
   <string name="resource_detail_update_log_title">Mises à jour</string>
- <!-- resource_detail_window_title, à reformuler ? ex "thèmes détails" "Écran de verrouillage détails", resource_detail_window_title aussi dans contact.apk -->
-  <string name="resource_detail_window_title">%1$s détails</string>
+  <string name="resource_detail_window_title">%1$s</string>
   <string name="resource_download">Télécharger</string>
   <string name="resource_downloaded_title">Ressources téléchargées</string>
   <string name="resource_downloading">Téléchargement…</string>
@@ -256,7 +255,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_import_failed">Échec de l\'importation</string>
   <string name="resource_ringtone_playing_error">erreur de lecture</string>
   <string name="resource_download_trial">Période d\'essai gratuite</string>
-  <string name="resource_apply_trial">Essayer maintenant</string>
+  <string name="resource_apply_trial">Essayer</string>
   <string name="resource_on_trial">Essai en cours de \"%1$s\"</string>
   <string name="resource_trial_time">(%1$d minutes)</string>
   <string name="resource_trial_end_title">Période d\'essai terminée</string>

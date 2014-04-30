@@ -12,7 +12,7 @@
   <string name="alarm_summary_24h">kk:mm</string>
   <string name="alarm_time">Heure de l\'alarme</string>
   <string name="alarm_value">Alarme %s%%</string>
-  <string name="app">Démarrer l\'appli</string>
+  <string name="app">Lancer une application</string>
   <string name="app_center">Applications</string>
   <string name="app_name">MiTag</string>
   <string name="auto_brightness">Luminosité auto</string>

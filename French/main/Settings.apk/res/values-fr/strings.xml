@@ -216,7 +216,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="auto_restore_summary">Lors de la réinstallation d\'une application restaurer les paramètres et les données sauvegardées</string>
   <string name="auto_restore_title">Restaurer automatiquement</string>
   <string name="auto_startup_application_manage">Démarrage</string>
-  <string name="auto_startup_count">Démarrage automatique de %d application(s)</string>
+  <string name="auto_startup_count">%d application(s)</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d'énergie et de données.
  Autoriser le démarrage automatique ?"</string>
   <string name="automatic_brightness">Ajuster automatiquement la luminosité de l\'écran</string>
@@ -1172,7 +1172,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lte_ram_dump_on">Activer le vidage de la mémoire RAM du LTE</string>
   <string name="macaddr_label">Adresse MAC :</string>
   <string name="main_running_process_description">Processus principal en cours d\'utilisation.</string>
-  <string name="man_add_application">Ajouter manuellement des applications</string>
+  <string name="man_add_application">Ajouter des applications</string>
   <string name="manage_device_admin">Administrateurs de l\'appareil</string>
   <string name="manage_device_admin_summary">Afficher ou désactiver les administrateurs de l\'appareil</string>
   <string name="manage_space_text">Gérer l\'espace</string>
@@ -3176,8 +3176,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="app_manage_tab_title">Applications</string>
   <string name="app_name">Centre de sécurité</string>
   <string name="app_uninstall_residual">Nettoyer les fichiers résiduels de désinstallation ?</string>
-  <string name="auto_start_summary">%1$d appli(s) démarre(nt) automatiquement</string>
-  <string name="auto_start_title">Gérer les applis démarrant auto.</string>
+  <string name="auto_start_summary">%1$d application(s) autorisée(s)</string>
+  <string name="auto_start_title">Gérer les démarrages automatiques</string>
   <string name="battery_desc_other_apps">Énergie totale consommée par les autres applis</string>
   <string name="black_white_list_tab_title">Filtres</string>
   <string name="blacklist_tab_title">Liste noire</string>

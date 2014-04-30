@@ -308,7 +308,7 @@
     <string name="no_description">Aucune description</string>
     <string name="no_change_log">Aucune information de mise à jour</string>
     <string name="no_search">Aucun résultat</string>
-    <string name="notif_title_update">%1$s maj disponible(s)</string>
+    <string name="notif_title_update">%1$s màj disponible(s)</string>
     <string name="notif_installing">Installation en cours…</string>
     <string name="notif_unzipping">Unzipping“%1$s”…</string>
     <string name="notif_install_successful">Installation finalisée !</string>
