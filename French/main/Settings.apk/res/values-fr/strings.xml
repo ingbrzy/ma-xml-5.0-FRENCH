@@ -1103,7 +1103,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lock_after_timeout_summary">Après %1$s de veille</string>
   <string name="lock_intro_message">Protégez votre appareil contre les utilisations non autorisées en créant un modèle de déverrouillage d\'écran personnel. Utilisez votre doigt pour relier les points sur l\'écran suivant. Vous devez relier au moins quatre points. Prêt à commencer ? Appuyez sur Suivant.</string>
   <string name="lock_screen_unlock_show">Désactiver l\'autre écran de verrouillage</string>
-  <string name="lock_screen_unlock_show_summary">"Désactiver l'écran sans mot de passe et aller directement sur l'écran avec mot de passe"</string>
+  <string name="lock_screen_unlock_show_summary">"Désactiver l'écran d\'accueil et aller directement sur l'écran avec demande du mot de passe"</string>
   <string name="lock_settings_common_title">Paramètres de verrouillage</string>
   <string name="lock_settings_picker_settings">Définir l\'écran de verrouillage</string>
   <string name="lock_settings_picker_title">Sélect. verr. écran</string>
@@ -3428,7 +3428,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_chooser_standby_summary">Désactive les fonctions Internet</string>
   <string name="power_chooser_standby_title">Mode marathon</string>
   <string name="power_chooser_title">Batterie</string>
-  <string name="power_chooser_user_define_summary">Créer une configuration personnalisée pour batterie</string>
+  <string name="power_chooser_user_define_summary">Créer une configuration personnalisée pour la batterie</string>
   <string name="power_chooser_user_define_title">Ajouter un profil personnalisé</string>
   <string name="power_consume_other">Autres</string>
   <string name="power_consume_rank_hardware">Matériel</string>
@@ -3984,7 +3984,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="notification_summary_of_low_memory">Impossible d\'installer de nouvelles applis lorsque l\'espace est faible</string>
   <string name="power_20s_enter_mode">%1$ds basculer vers le mode %2$s</string>
   <string name="power_notify_lowbattery">Si le niveau de charge est inférieur à %1$d%%</string>
-  <string name="power_recovery_mode">Revenir au mode %1$s</string>
+  <string name="power_recovery_mode">Retour au mode %1$s</string>
   <string name="power_subtitle_lowbattery">Économie d\'énergie auto. quand le niveau de charge est faible</string>
   <string name="power_subtitle_ontime">Économie d\'énergie planifiée</string>
   <string name="power_exitlowbattery_whencharge">Quitter lorsqu\'en charge</string>
