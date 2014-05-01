@@ -3412,7 +3412,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_center_low_battery_summary_dynamic">Quand la batterie passe sous les  %1$d%%\nbasculer vers %2$s</string>
   <string name="power_center_low_battery_title">Basculer automatiquement</string>
   <string name="power_center_on_time_summary_default">Basculer de mode à une heure planifiée</string>
-  <string name="power_center_on_time_summary_dynamic">De: %1$s à: %2$s basculer vers %3$s</string>
+  <string name="power_center_on_time_summary_dynamic">De : %1$s à: %2$s basculer vers %3$s</string>
   <string name="power_center_on_time_title">Planificateur</string>
   <string name="power_center_state_off">Désactivé</string>
   <string name="power_center_state_on">Activé</string>
