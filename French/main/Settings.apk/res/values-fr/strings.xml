@@ -3432,10 +3432,10 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_chooser_user_define_title">Ajouter un profil personnalisé</string>
   <string name="power_consume_other">Autres</string>
   <string name="power_consume_rank_hardware">Matériel</string>
-  <string name="power_consume_rank_software">Applis</string>
+  <string name="power_consume_rank_software">Applications</string>
   <string name="power_consume_rank_title">Usage batterie</string>
   <string name="power_consume_total_hardware">Matériel : %1$d%%</string>
-  <string name="power_consume_total_software">Applis : %1$d%%</string>
+  <string name="power_consume_total_software">Applications : %1$d%%</string>
   <string name="power_customizer_cancel">Annuler</string>
   <string name="power_customizer_delete">Supprimer</string>
   <string name="power_customizer_my_mode">Personnalisé</string>
