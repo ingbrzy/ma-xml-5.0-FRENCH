@@ -9,7 +9,7 @@
   <string name="android_lockscreen_glogin_instructions">Pour déverrouiller, connectez-vous avec votre compte</string>
   <string name="app_no_notification">Masquer les notifications</string>
   <string name="app_notificaiton_on_notificationBar">Menu déroulant</string>
-  <string name="app_notificaiton_on_statusBar_and_notificationBar">Barre d\'état et menu déroulant</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Barre d\'état et\nmenu déroulant</string>
   <string name="callNoAnswerTimeFormat">A sonné %s fois</string>
   <string name="call_record_or">ou</string>
   <string name="call_record_sample_prefix_miui">Appel</string>

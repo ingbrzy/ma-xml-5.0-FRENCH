@@ -28,7 +28,7 @@
     <string name="data_save_mode_tip">Images are hidden to save data usage</string>
     <string name="hot_subject">Collections</string>
     <string name="more_app">Apps we like</string>
-    <string name="more_subject">More collections</string>
+    <string name="more_subject">Plus de collections</string>
     <string name="ad_indicator">AD</string>
     <string name="login_first_install_title">Veuillez vous connecter à votre compte Xiaomi</string>
     <string name="login_active_title">Activer votre compte ?</string>
@@ -96,7 +96,7 @@
     <string name="comment_upload_account_not_activitied">"Your account hasn't been activated yet."</string>
     <string name="comment_invalid">Rate the app by touching the stars above the comment box</string>
     <string name="comment_cannot_comment">"You can only comment after you've used the app"</string>
-    <string name="app_comments_title">Comments: %1$s</string>
+    <string name="app_comments_title">%1$s : commentaires</string>
     <string name="Temps restant :_title">Edit comment: %1$s</string>
     <string name="app_comments">App comments</string>
     <string name="Temps restant :">Ajouter un commentaire</string>
@@ -220,7 +220,7 @@
     <string name="button_search">Recherche</string>
     <string name="button_search_in_market">Search in Market</string>
     <string name="launch_failed_text">Failed to launch %1$s</string>
-    <string name="notif_title_update">%1$s updates</string>
+    <string name="notif_title_update">%1$s mise(s) à jour</string>
     <string name="notif_installing">Installing “%1$s”…</string>
     <string name="notif_install_successful">Installé</string>
     <string name="notif_install_successful_default">Installé</string>

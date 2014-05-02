@@ -12,7 +12,7 @@
   <string name="action_fail_unknown_error">L\'opération a échoué pour une raison inconnue.</string>
   <string name="activity_not_found">Aucune application n\'est disponible pour effectuer l\'action.</string>
   <string name="add_account">Ajouter un compte</string>
-  <string name="add_sharer">Ajouter un partageur</string>
+  <string name="add_sharer">Ajouter un membre</string>
   <string name="add_to_cloud_album">Ajouter au MiCloud</string>
   <string name="add_to_cloud_exceeded_the_size_message">La taille du fichier est trop volumineux pour MiCloud.</string>
   <string name="add_to_cloud_fail_too_many_items">L\'opération a échoué, trop d\'éléments sélectionnés</string>
@@ -393,7 +393,7 @@
   <string name="share_by_email_successfully">Partage de %1$s via Mail réussi</string>
   <string name="share_current_album">Partager l\'album actuel</string>
   <string name="share_public_url_text">J\'ai partagé l\'album %1$s. Lien : %2$s</string>
-  <string name="sharer_quota_fulfiled">"Impossible d'ajouter un partageur, le quota de partageurs a atteint sa limite."</string>
+  <string name="sharer_quota_fulfiled">"Impossible d'ajouter un utilisateur, le quota a atteint sa limite."</string>
   <string name="sharpen">Netteté</string>
   <string name="show_all">Images et vidéos</string>
   <string name="show_hidden_album">Afficher les albums masqués</string>
@@ -425,8 +425,8 @@
   <string name="sync_album_summary">Envoyer vos photos et captures d\'écran sur MiCloud.</string>
   <string name="sync_history_power_on">Synchroniser lors de la charge</string>
   <string name="sync_only_in_wifi">Wi-Fi uniquement</string>
-  <string name="sync_only_in_wifi_alert">Désactiver l\'envoi en Wi-Fi uniquement peut consommer plus de trafic réseau; êtes-vous sûr de vouloir le désactiver ?</string>
-  <string name="sync_only_in_wifi_summary">Il est recommandé de l\'activer pour éviter une consommation de trafic réseau.</string>
+  <string name="sync_only_in_wifi_alert">Désactiver la synchronisation via Wi-Fi uniquement peut engendrer une consommation élevée de données mobiles.</string>
+  <string name="sync_only_in_wifi_summary">Il est recommandé de l\'activer pour éviter une consommation élevée de données mobiles.</string>
   <string name="system_album">Album système</string>
   <string name="tab_all_text">Les deux</string>
   <string name="tab_lockscreen_text">Verrouillage</string>

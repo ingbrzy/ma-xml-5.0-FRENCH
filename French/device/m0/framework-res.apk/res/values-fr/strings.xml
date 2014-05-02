@@ -1089,8 +1089,8 @@
     <string name="low_internal_storage_view_title">Mémoire presque saturée</string>
     <string name="low_internal_storage_view_text">Il est possible que certaines fonctionnalités du système ne soient pas opérationnelles.</string>
     <string name="loading">Chargement…</string>
-    <string name="capital_on">Activé</string>
-    <string name="capital_off">Désactivé</string>
+    <string name="capital_on">OUI</string>
+    <string name="capital_off">NON</string>
     <string name="whichApplication">"Terminer l'action avec"</string>
     <string name="alwaysUse">Utiliser par défaut pour cette action</string>
     <string name="clearDefaultHintMsg">Effacez les paramètres par défaut des applications en accédant à Paramètres > Gestionnaire applications > Tout</string>

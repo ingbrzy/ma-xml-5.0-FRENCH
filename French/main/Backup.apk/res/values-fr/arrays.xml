@@ -26,7 +26,7 @@
     <item>Paramètres d\'alarme</item>
     <item>Notes</item>
     <item>Ne pas déranger</item>
-    <item>Compte</item>
+    <item>Comptes</item>
   </string-array>
   <string-array name="app_type_desc">
     <item>Données</item>
