@@ -206,4 +206,11 @@ Taille delta patch : %2$s"</string>
   <string name="xiaomi_update_dialog_title">Mise à jour %1$s !</string>
   <string name="write_pon_pon_tile">Écrire</string>
   <string name="share_wifi">Partage Wi-Fi</string>
+  <string name="err_tag_read_only">Écriture impossible, tag en lecture seule</string>
+  <string name="personal">Personnel</string>
+  <string name="play_song">Lire une chanson</string>
+  <string name="play_music_desc">Lire ou mettre en pause</string>
+  <string name="gps">GPS</string>
+  <string name="data">Données</string>
+  <string name="data_net">Réseaux mobiles</string>
 </resources>

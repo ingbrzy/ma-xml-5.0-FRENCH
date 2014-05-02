@@ -46,7 +46,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="done">OK</string>
   <string name="high_risk_perms">Autorisations à haut risque</string>
   <string name="install">Installer</string>
-  <string name="install_confirm_question">Voulez-vous installer cette application ?\nElle aura accès à :</string>
+  <string name="install_confirm_question">Voulez-vous installer cette application ?</string>
   <string name="install_done">Application installée.</string>
   <string name="install_failed">Application non installée.</string>
   <string name="install_failed_cpu_abi_incompatible">"Cette application n\'est pas compatible avec votre téléphone."</string>

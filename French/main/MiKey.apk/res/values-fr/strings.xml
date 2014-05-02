@@ -92,8 +92,8 @@
     <string name="setting_speed_quick">Rapide</string>
     <string name="setting_speed_text">Vitesse</string>
     <string name="setting_keeplive_text">Exécuter en arrière-plan</string>
-    <string name="setting_vibrate_text">Retour haptique</string>
 <!-- à traduire
+    <string name="setting_vibrate_text">闪拍、静音功能的振动反馈</string>
     <string name="setting_instant_photo_text">闪拍对焦</string>
     <string name="setting_instant_photo_desc">"闪拍对焦会影响到闪拍的速度，开启能够得到
 锐利的图像,但拍摄的时间会稍微变长。"</string>
@@ -103,5 +103,9 @@
 的反应速度会变慢。"</string>
     <string name="setting_keeplive_desc">"实时待命模式下,米键会一直保持快速相应的状态。
 但这会比较的耗电,请根据使用场景酌情开启。"</string>
+    <string name="setting_vibrate_desc">"能够感受到执行情况的功能，不再重复给予振动反馈
+而无法传递反馈的功能，如“闪拍”“静音”则会通过振动
+反馈执行情况。
+用户可以通过此开关，彻底关闭振动反馈。"</string>
 -->
 </resources>

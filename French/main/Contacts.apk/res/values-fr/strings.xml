@@ -764,7 +764,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="rebuild_t9_index_dialog_message">Reconstruction des données de l\'index T9…</string>
   <string name="recent">Récentes</string>
   <string name="recentCallsIconLabel">Appels</string>
-  <string name="recentCalls_addToContact">Ajouter</string>
+  <string name="recentCalls_addToContact">Ajouter à un contact existant</string>
   <string name="recentCalls_callNumber">Appeler %s</string>
   <string name="recentCalls_deleteAll">Effacer tous les appels</string>
   <string name="recentCalls_editNumberBeforeCall">Modifier le numéro avant l\'appel</string>
