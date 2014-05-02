@@ -52,4 +52,10 @@
   <string name="sim_card_detection_info">Il est impossible de configurer un compte Xiaomi sans carte SIM. Elle est nécessaire pour profiter des services tels que la synchronisation des comptes, la géolocalisation du téléphone, etc.</string>
   <string name="sim_card_detection_label">Détection de la carte SIM</string>
   <string name="sim_card_detection_status_absent">Carte SIM non détectée !</string>
+  <string name="data_usage_summary">"Si votre forfait n'inclut pas l'usage Internet des frais supplémentaires pourraient vous être facturés par votre opérateur."</string>
+  <string name="traffic_protection_label">Moniteur de trafic de données</string>
+  <string name="traffic_protection_summary">Paramétrez une alerte pour vous prévenir lorsque le quota est épuisé.</string>
+  <string name="traffic_protection_unknown"><u>Paramétrer ultérieurement</u></string>
+  <string name="traffic_protection_text_hint">Saisissez votre quota</string>
+  <string name="use_data">Activer la connexion</string>
 </resources>
