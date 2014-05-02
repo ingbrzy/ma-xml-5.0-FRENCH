@@ -2,6 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+  <!-- removed 4.3.19:  -->
+  <string name="resource_account_current">Compte : %1$s</string>
+  <!-- -->
   <string name="all_resources">Tout</string>
   <string name="all_ringtone_resource">Tout</string>
   <string name="app_name">Thèmes</string>
