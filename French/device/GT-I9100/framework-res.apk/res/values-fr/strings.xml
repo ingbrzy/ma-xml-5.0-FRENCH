@@ -1122,8 +1122,8 @@
   <string name="low_internal_storage_view_title">Mémoire presque saturée</string>
   <string name="low_internal_storage_view_text">Certaines fonctions système risquent ne pas fonctionner</string>
   <string name="loading">Chargement…</string>
-  <string name="capital_on">Activé</string>
-  <string name="capital_off">Désactivé</string>
+  <string name="capital_on">OUI</string>
+  <string name="capital_off">NON</string>
   <string name="whichApplication">Terminer l\'action avec</string>
   <string name="whichHomeApplication">Home selection</string>
   <string name="alwaysUse">Utiliser par défaut pour cette action</string>

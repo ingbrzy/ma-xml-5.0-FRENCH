@@ -111,8 +111,8 @@
   <string name="record_downloading_notification">Téléchargement…</string>
   <string name="record_downloading_notification_count">%d téléchargement</string>
   <string name="record_downloading_notification_complete">Téléchargement effectué</string>
-  <string name="sync_records">Synchroniser avec MiCloud</string>
-  <string name="sync_only_in_wifi">Synchroniser uniquement via Wi-Fi</string>
+  <string name="sync_records">Synchroniser les enregistrements</string>
+  <string name="sync_only_in_wifi">Wi-Fi uniquement</string>
   <string name="sync_only_in_wifi_summary">Si vous désactivez cette option le réseau mobile sera utilisé pour synchroniser vos enregistrements.</string>
   <string name="sync_only_in_wifi_alert">Désactiver cette option peut augmenter votre consommation de données mobiles.</string>
   <string name="wifi_recommended_title">Rappel d\'utilisation</string>

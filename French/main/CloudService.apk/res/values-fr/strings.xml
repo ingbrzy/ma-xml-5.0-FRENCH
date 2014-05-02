@@ -5,15 +5,15 @@
   <string name="app_name">Xiaomi Sync</string>
   <string name="find_device">Rechercher appareil</string>
   <string name="find_device_stop_noise">Appuyez sur "OK" pour arrêter l\'alerte sonore</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Réduit l\'usage des données</string>
-  <string name="pref_title_sync_contacts_title">Synchroniser contact</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Utiliser uniquement le Wi-Fi pour afficher les photos</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Utiliser uniquement le Wi-Fi pour afficher les photos, réduit l\'usage des données</string>
+  <string name="pref_title_sync_contacts_title">Synchroniser les contacts</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Wi-Fi uniquement</string>
   <string name="pref_title_sync_my_profile_title">Synchroniser mon profil</string>
   <string name="sub_sync_item_sms_summary">Réduit l\'usage des données</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Utiliser uniquement le Wi-Fi pour synchroniser les MMS/SMS</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Wi-Fi uniquement</string>
   <string name="sync_item_sms_summary">Les SMS lu seront automatiquement synchronisés</string>
-  <string name="sync_item_sms_title">Synchroniser SMS</string>
+  <string name="sync_item_sms_title">Synchroniser les SMS</string>
   <string name="find_device_noise_title">Son de localisation de l\'appareil</string>
-  <string name="sync_item_calllog_title">Synch. journal d\'appels</string>
+  <string name="sync_item_calllog_title">Synch. le journal d\'appels</string>
   <string name="sync_item_calllog_summary">Synchronise le journal d\'appels émis et reçus sur ce téléphone</string>
 </resources>

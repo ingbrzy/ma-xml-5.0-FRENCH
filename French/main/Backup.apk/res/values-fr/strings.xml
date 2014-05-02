@@ -67,6 +67,7 @@
   <string name="cloud_app_find_backup_prompt_2">Si vous abandonnez maintenant, vos données seront écrasées lors de la restauration</string>
   <string name="cloud_app_function_summary">Lorsque vous sauvegardez vos données dans le cloud, vous pouvez les restaurées rapidement sur n\'importe quel appareil.</string>
   <string name="cloud_app_invalid_op">Vous ne pouvez pas afficher les données du cloud pendant que vous sauvegardez/restaurez</string>
+ <!-- cloud_app_just_show_in_current_device à revoir -->
   <string name="cloud_app_just_show_in_current_device">Afficher uniq. les apps de cet appareil</string>
   <string name="cloud_app_mine">Apps téléchargées</string>
   <string name="cloud_app_name">Sauvegarder dans le cloud</string>
@@ -230,7 +231,7 @@
   <string name="task_service_not_launched">Le service n\'est pas démarré, veuillez patienter !</string>
   <string name="task_stopped_exception">Tâche interrompue</string>
   <string name="total_num">%d au total</string>
-  <string name="unit_byte">octets</string>
+  <string name="unit_byte">o</string>
   <string name="unit_piece">" élément(s)"</string>
   <string name="unknown_hint">Inconnu</string>
   <string name="wifi_title">Paramètres Wi-Fi</string>

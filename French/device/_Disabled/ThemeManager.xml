@@ -32,6 +32,5 @@
   <string name="theme_upgrade_request_content">Vos thèmes locaux devraient être convertis pour en améliorer l\'efficacité. Ceci peut prendre quelques minutes et le téléphone pourrait sembler bloqué. Convertir les thèmes maintenant ?</string>
   <string name="theme_upgrade_request_title">Des mises à jour de thèmes sont disponibles</string>
   <string name="theme_upgrade_request_yes">OK</string>
-  <!-- 4.3.19:  -->
-  <string name="resource_account_current">Compte : %1$s</string>
+
 </resources>
