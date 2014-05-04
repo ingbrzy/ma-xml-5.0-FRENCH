@@ -1122,7 +1122,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_import_failed">Échec de l\'importation</string>
   <string name="resource_ringtone_playing_error">erreur de lecture</string>
   <string name="resource_download_trial">Essai gratuit</string>
-  <string name="resource_apply_trial">Essayer</string>
+  <string name="resource_apply_trial">"Essayer "</string>
   <string name="resource_on_trial">Essai de \"%1$s\" en cours</string>
   <string name="resource_trial_time">(%1$d minutes)</string>
   <string name="resource_trial_end_title">Période d\'essai terminée</string>
