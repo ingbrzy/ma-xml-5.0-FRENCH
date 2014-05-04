@@ -802,7 +802,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dndm_vip_call_summary_contact">Tous les contacts</string>
   <string name="dndm_vip_call_summary_custom">%d exception(s)</string>
   <string name="dndm_vip_call_summary_none">Touchez pour configurer</string>
-  <string name="dndm_vip_list_contact">Tous les Contacts</string>
+  <string name="dndm_vip_list_contact">Tous les contacts</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
   <string name="dndm_vip_list_custom_group">Exceptions</string>
   <string name="dndm_vip_list_group">Liste des exceptions</string>
