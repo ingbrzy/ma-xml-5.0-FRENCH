@@ -1310,7 +1310,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="no_media_button_receiver">Non</string>
   <string name="no_nearby_wifi">Aucun réseau Wi-Fi proche détecté</string>
   <string name="no_running_services">Aucun service en cours</string>
-  <string name="no_services">Inactifs</string>
+  <string name="no_services">Inactif</string>
   <string name="noise_suppression">Suppression du bruit</string>
   <string name="normal_date_format">Format régional (%s)</string>
   <string name="not_installed">Non installée</string>
@@ -3982,7 +3982,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="notification_button_text_of_low_memory">Nettoyer</string>
   <string name="notification_title_of_low_memory">Espace de stockage faible, %s utilisés</string>
   <string name="notification_summary_of_low_memory">Impossible d\'installer de nouvelles applis lorsque l\'espace est faible</string>
-  <string name="power_20s_enter_mode">%1$ds basculer vers le mode %2$s</string>
+  <string name="power_20s_enter_mode">Mode %2$s dans %1$ds</string>
   <string name="power_notify_lowbattery">Si le niveau de charge est inférieur à %1$d%%</string>
   <string name="power_recovery_mode">Retour au mode %1$s</string>
   <string name="power_subtitle_lowbattery">Économie d\'énergie auto. quand le niveau de charge est faible</string>
