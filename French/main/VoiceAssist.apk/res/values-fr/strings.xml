@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Assistant</string>
-    <string name="help_content">Cette application est compatible uniquement avec la langue Chinoise</string>
+    <string name="help_content">Cette application est compatible uniquement avec la langue chinoise</string>
 </resources>

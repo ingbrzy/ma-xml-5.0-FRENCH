@@ -188,14 +188,14 @@
   <string name="contact_detail_calllog_call_record_tips">Enregistrement d\'appel</string>
   <string name="contact_directory_description">Répertoire %1$s</string>
   <string name="contact_edit_title_edit">Modifier le contact</string>
-  <string name="contact_edit_title_insert">Créer %s contact</string>
+  <string name="contact_edit_title_insert">Créer un contact %s</string>
   <string name="contact_edit_title_readonly">Contact inaltérable</string>
   <string name="contact_editor_prompt_multiple_accounts">Vous pouvez synchroniser votre nouveau contact avec l\'un des comptes suivants. Lequel voulez-vous utiliser ?</string>
   <string name="contact_editor_prompt_one_account">Votre nouveau contact sera synchronisé avec %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Votre nouveau contact ne sera pas sauvegardé. Ajouter un compte permettant de sauvegarder les contacts en ligne ?</string>
   <string name="contact_is_readOnly">Impossible d\'éditer les contacts en lecture seule</string>
   <string name="contact_list_loading">Chargement…</string>
-  <string name="contact_pick_photo">Photo</string>
+  <string name="contact_pick_photo">Sélectionner une photo dans la galerie</string>
   <string name="contact_read_only">Non modifiable depuis cette application</string>
   <string name="contact_status_update_attribution">via %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
@@ -217,7 +217,7 @@
   <string name="custom_nickname_hint">Entrez le titre tel que : M./Mme.</string>
   <string name="date_picker_label">Rappel 3 jours avant et le jour de l\'anniversaire</string>
   <string name="date_time_set">Définir</string>
-  <string name="date_year_toggle">Indiquer une année</string>
+  <string name="date_year_toggle">Indiquer l\'année</string>
   <string name="default_ringtone">Sonnerie par défaut</string>
   <string name="deleteConfirmation">Ce contact sera supprimé.</string>
   <string name="deleteConfirmationDetail">Voulez-vous vraiment supprimer \"%s\" ?</string>
@@ -537,7 +537,7 @@
   <string name="menu_new_contact_action_bar">Nouveau</string>
   <string name="menu_new_favorite_action_bar">Nouveau</string>
   <string name="menu_new_group_action_bar">Nouveau</string>
-  <string name="menu_not_redirect_calls_to_vm">Les appels ne seront pas envoyés vers la messagerie vocale</string>
+  <string name="menu_not_redirect_calls_to_vm">Ne pas dévier vers la messagerie vocale</string>
   <string name="menu_redirect_calls_to_vm">Dévier vers la messagerie vocale</string>
   <string name="menu_removeStar">Supprimer des favoris</string>
   <string name="menu_search">Rechercher</string>
@@ -675,7 +675,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="phoneLabelsGroup">Téléphone</string>
   <string name="phone_primary">Principal</string>
   <string name="photoPickerNotFoundText">Aucune image disponible</string>
-  <string name="photo_package_activity_title">Lot de photos</string>
+  <string name="photo_package_activity_title">Packs de photos</string>
   <string name="pick_new_photo">Sélectionner une autre photo dans la galerie</string>
   <string name="pick_photo">Photo</string>
   <string name="pickerNewContactHeader">Créer un contact</string>
@@ -775,7 +775,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="recent_contacts_label">Récent</string>
   <string name="recent_number">Récent</string>
   <string name="recent_updates">Mises à jour récentes</string>
-  <string name="redirect_calls_to_vm_confirm_message">Si vous n\'avez pas demandé à l\'exploitant de cette entreprise veuillez ne pas l\'activer. Sinon, vous pourriez ne pas être en mesure de recevoir des appels de ce contact.</string>
+  <string name="redirect_calls_to_vm_confirm_message">Assurez-vous que votre opérateur supporte cette option. Sinon, vous pourriez ne plus être en mesure de recevoir des appels de ce contact.</string>
   <string name="redirect_calls_to_vm_confirm_text">Activer</string>
   <string name="relationLabelsGroup">Relation</string>
   <string name="remind_btn_ignore">Ignorer</string>
@@ -902,9 +902,9 @@ Pour ajouter un contact à la liste de favoris :
   <string name="select_all">Tout sélectionner</string>
   <string name="select_device">Sélectionnez un périphérique à connecter avec</string>
   <string name="select_groups">Sélectionner les groupes</string>
-  <string name="select_new_photo_from_photo_package">Choisir une nouvelle photo du lot de photos</string>
+  <string name="select_new_photo_from_photo_package">Sélectionner une image d\'un pack de photo</string>
   <string name="select_none">Aucune sélection, l\'opération est non valide</string>
-  <string name="select_photo_from_photo_package">Sélectionner une photo du lot de photos</string>
+  <string name="select_photo_from_photo_package">Sélectionner une autre image d\'un pack de photo</string>
   <string name="select_show_contacts">Affichage du contact</string>
   <string name="select_vcard_title">Sélectionner le fichier de carte de visite</string>
   <string name="send_contact_shortcut_todesktop_success">Ajout du raccourci de contact sur l\'accueil avec succès</string>
@@ -1025,7 +1025,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="upgrade_out_of_memory_retry">Réessayer</string>
   <string name="upgrade_out_of_memory_uninstall">Désinstaller certaines applications</string>
   <string name="use_photo_as_primary">Utiliser cette photo</string>
-  <string name="use_photo_as_primary2">Utiliser la photo de contact de %1$s</string>
+  <string name="use_photo_as_primary2">Utiliser la photo de contact %1$s</string>
   <string name="user_profile_contacts_list_header">Moi</string>
   <string name="vcard_export_request_rejected_message">Échec de l\'exportation de la carte de visite. Veuillez essayer plus tard.</string>
   <string name="vcard_export_will_start_message">%s sera exporté</string>
@@ -1121,9 +1121,9 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="group_name">Mes groupes</string>
   <string name="resource_import_failed">Échec de l\'importation</string>
   <string name="resource_ringtone_playing_error">erreur de lecture</string>
-  <string name="resource_download_trial">Période d\'essai gratuite</string>
-  <string name="resource_apply_trial">Essayer</string>
-  <string name="resource_on_trial">Essai en cours de \"%1$s\"</string>
+  <string name="resource_download_trial">Essai gratuit</string>
+  <string name="resource_apply_trial">"Essayer "</string>
+  <string name="resource_on_trial">Essai de \"%1$s\" en cours</string>
   <string name="resource_trial_time">(%1$d minutes)</string>
   <string name="resource_trial_end_title">Période d\'essai terminée</string>
   <string name="resource_trial_end_message">La période d\'essai de \"%1$s\" est terminée. S\'il vous a plu, vous pouvez l\'acheter.</string>

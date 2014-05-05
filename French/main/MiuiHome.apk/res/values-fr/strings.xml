@@ -73,7 +73,7 @@
   <string name="gadget_weather_theme_type">Type de widget</string>
   <string name="gadget_weather_time_format">EEE d MMM</string>
   <string name="gadget_weather_title_14">Météo 4x1</string>
-  <string name="gadget_weather_title_24">Météo 4x2</string>
+  <string name="gadget_weather_title_24">Météo</string>
   <string name="global_search_hint">Rechercher</string>
   <string name="group_folder">Nouveau dossier</string>
   <string name="group_live_folders">Dossiers</string>

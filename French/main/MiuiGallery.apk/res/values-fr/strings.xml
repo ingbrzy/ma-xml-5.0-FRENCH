@@ -117,7 +117,7 @@
   <string name="confirm_delete_pictures">%s image(s)</string>
   <string name="confirm_delete_system_album">%s est un album système, êtes-vous sûr de vouloir le supprimer ?</string>
   <string name="confirm_delete_videos">%s vidéo(s)</string>
-  <string name="contact_photo">Photo du contact</string>
+  <string name="contact_photo">Définir comme photo d\'un contact</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_copy">Copier</string>
   <string name="context_menu_copy_notice">Sélection copiée dans le presse-papiers</string>
