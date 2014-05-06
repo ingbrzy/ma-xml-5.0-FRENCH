@@ -129,7 +129,7 @@
   <string name="st_antispam_title_anoy_sms">Messages d\'inconnus</string>
   <string name="st_antispam_title_anoy_incoming">Appels d\'inconnus</string>
   <string name="st_antispam_title_null_incoming">Appels privés</string>
-  <string name="st_antispam_mode_smart_sum">Appliquer la liste noire et bloquer certains appels provenants d\'inconnus</string>
+  <string name="st_antispam_mode_smart_sum">Appliquer la liste noire et bloquer certains appels provenant d\'inconnus</string>
   <string name="st_antispam_mode_blacklist_sum">Bloquer les messages et les appels des numéros inscrits sur la liste noire</string>
   <string name="st_antispam_mode_only_contacts_sum">Autoriser uniquement les appels et les messages des contacts</string>
   <string name="st_antispam_mode_only_whitelist_sum">Autoriser uniquement les appels et les messages des numéros inscrits sur la liste des exceptions</string>
@@ -141,7 +141,7 @@
   <string name="st_antispam_des_smart_anti">Liste noire intelligente</string>
   <string name="st_antispam_des_permit">Autoriser</string>
   <string name="st_antispam_des_uesless">Inefficace</string>
-  <string name="st_antispam_des_permit_nokeyword">Autoriser (à l\'éxeption des mots-clés)</string>
+  <string name="st_antispam_des_permit_nokeyword">Autoriser (à l\'exception des mots-clés)</string>
   <string name="info_antispam_sms">Bloquer les messages</string>
   <string name="info_antispam_phone">Bloquer les appels</string>
   <string name="info_antispam_phone_sms">Bloquer les messages et les appels</string>
@@ -169,7 +169,7 @@
   <string name="dlg_black_antispam_hint">Liste noire</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Attention</string>
   <string name="dlg_add_blacklist_warn_conflict_content">Ces contacts (et autres) sont déjà inscrits sur votre liste d\'exceptions.</string>
-  <string name="dlg_remove_whitelist">Supprimer ces numéros des exeptions ?</string>
+  <string name="dlg_remove_whitelist">Supprimer ces numéros des exceptions ?</string>
   <string name="dlg_remove_address_blacklist">Supprimer cet emplacement de la liste noire et restaurer les messages associés à la boîte de réception ?</string>
   <string name="dlg_remove_address_whitelist">Supprimer cet emplacement des exceptions ?</string>
   <string name="st_show_num_keyword">" Mots-clés"</string>
@@ -227,14 +227,14 @@
   <string name="Call_PRIVATE_CALL">Appels privés</string>
   <string name="PAST_BLOCK">Précédemment bloqué</string>
   <string name="AD_AntiSpam">Bloquer les sollicitations</string>
-  <string name="AD_SCANNING">Analyse en cours&#8230;</string>
+  <string name="AD_SCANNING">Analyse en cours…</string>
   <string name="AD_BLOCK_ALL">Bloquer tout</string>
   <string name="AD_SCAN_BUTTON">Analyser</string>
   <string name="AD_NOT_BLOCK">Ne pas bloquer</string>
   <string name="AD_BLOCKED">Bloqué</string>
   <string name="AD_COUNT">%d bloqué</string>
   <string name="AD_TITLE_COUNT">%d applications contiennent des publiciels</string>
-  <string name="AD_TITLE_NON_COUNT">Aucun publiciel détécté</string>
+  <string name="AD_TITLE_NON_COUNT">Aucun publiciel détecté</string>
   <string name="AD_BLOCK">Bloquer les sollicitations</string>
   <string name="AD_ALLOW">Autoriser les sollicitations</string>
   <string name="AD_Unistall">Désinstaller</string>
