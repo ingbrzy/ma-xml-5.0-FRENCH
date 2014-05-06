@@ -2,6 +2,11 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+ <!-- removed in 4.5.6 -->
+  <string name="no_enough_space">Pas assez de stockage</string>
+  <string name="trans_task_delete_confirm_message">Êtes-vous sûr de vouloir supprimer les %1$d tâches sélectionnées ?</string>
+  <string name="user_guide_summary">Comment utiliser Kuaipan</string>
+ <!-- -->
   <string name="account_bind_prompt">Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter…</string>
   <string name="add_task">Ajouter une tâche</string>
   <string name="adding_upload_tasks">Ajout de tâches à partager.</string>
@@ -78,9 +83,9 @@
   <string name="des_running_trans">Il reste encore %1$d fichiers à transférer</string>
   <string name="dialog_select_type">Sélectionner le type de fichier</string>
   <string name="dialog_type_audio">Audio</string>
-  <string name="dialog_type_image">Image</string>
-  <string name="dialog_type_text">Texte</string>
-  <string name="dialog_type_video">Vidéo</string>
+  <string name="dialog_type_image">Images</string>
+  <string name="dialog_type_text">Docs</string>
+  <string name="dialog_type_video">Vidéos</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Dossier vide</string>
   <string name="dlg_error_unmount_text">Impossible de démonter le stockage USB. Veuillez réessayer plus tard</string>
@@ -97,7 +102,7 @@
   <string name="fail_to_create_folder">Impossible de créer le dossier, celui-ci existe déjà</string>
   <string name="fail_to_create_folder_unknown">Création impossible : erreur inconnue.</string>
   <string name="fail_to_rename">Impossible de renommer ce fichier. Il doit probablement déjà exister</string>
-  <string name="favorite_photo">Photo</string>
+  <string name="favorite_photo">Photos</string>
   <string name="favorite_ringtone">Sonnerie</string>
   <string name="favorite_screen_cap">Captures d\'écran</string>
   <string name="file_cleanup">Nettoyage de fichier</string>
@@ -135,16 +140,16 @@ Superflu"</string>
   <string name="instruction">Entrez l\'adresse suivante dans votre client FTP :</string>
   <string name="instruction_pre">Démarrez le service pour activer le serveur FTP</string>
   <string name="item_name">Sans nom</string>
-  <string name="kuaipan_label">Kuaipan</string>
-  <string name="kuaipan_over_space">L\'espace de stockage disponible sur votre compte Kuaipan est insuffisant.</string>
+  <string name="kuaipan_label">KuaiPan</string>
+  <string name="kuaipan_over_space">L\'espace de stockage disponible sur votre compte KuaiPan est insuffisant.</string>
   <string name="kuaipan_prompt">Aide</string>
   <string name="kuaipan_prompt_message">Le serveur est actuellement indisponible, veuillez réessayer plus tard</string>
   <string name="kuaipan_tech_support">Propulsé par kuaipan.cn</string>
   <string name="load_err">Échec du chargement</string>
   <string name="loading">Chargement en cours…</string>
   <string name="local_cache_size">Taille du cache local : %s</string>
-  <string name="login_reg_content">Kuaipan vous permet de stocker des fichiers et de les synchroniser entre plusieurs périphériques.</string>
-  <string name="login_reg_content0">Kuaipan, votre cloud personnel</string>
+  <string name="login_reg_content">KuaiPan vous permet de stocker des fichiers et de les synchroniser entre plusieurs périphériques.</string>
+  <string name="login_reg_content0">KuaiPan, votre cloud personnel</string>
   <string name="menu_item_cleanup">Nettoyage de fichiers</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Rechercher</string>
@@ -165,7 +170,6 @@ Superflu"</string>
   <string name="no_app_cache_indication">Aucun cache d\'applications</string>
   <string name="no_app_garbage_indication">Aucun déchet d\'application</string>
   <string name="no_empty_dir_indication">Aucun dossier vide</string>
-  <string name="no_enough_space">Pas assez de stockage</string>
   <string name="no_enough_storage_indication">Pas assez d\'espace de stockage disponible, le collage a échoué. Veuillez supprimer les fichiers inutiles et essayer à nouveau, ou utilisez le Nettoyage de fichiers pour libérer de l\'espace.</string>
   <string name="no_enough_storage_title">Pas assez d\'espace de stockage disponible</string>
   <string name="no_file">Aucun fichier</string>
@@ -267,7 +271,6 @@ Superflu"</string>
   <string name="thumbnail_title">Miniatures</string>
   <string name="toast_file_not_can_read">Le fichier est illisible ou corrompu.</string>
   <string name="trans_task">Transfert par réseau</string>
-  <string name="trans_task_delete_confirm_message">Êtes-vous sûr de vouloir supprimer les %1$d tâches sélectionnées ?</string>
   <string name="transing">Transfert</string>
   <string name="trash_box_capacity">Espace libre de la corbeille : %1$s</string>
   <string name="trash_box_link">Visitez <b>pan.xiaomi.com</b> pour vider la corbeille</string>
@@ -285,12 +288,11 @@ Superflu"</string>
   <string name="upload_failed">Échec du téléchargement !</string>
   <string name="upload_file_toolarge_message">Les fichiers %1$d allant au-delà de 300 Mo ne peuvent pas être partagés. Veuillez vérifier la gestion de transfert pour plus de détails.</string>
   <string name="uploading">Envoi…</string>
-  <string name="used">"Utilisé "</string>
+  <string name="used">"Utilisé : "</string>
   <string name="user_guide">Guide de l\'utilisateur</string>
   <string name="user_guide_download_other_version">Téléchargez la version de Kuaipan compatible avec votre système d\'exploitation sur :</string>
   <string name="user_guide_kuaipan_copy">Utilisez Kuaipan pour accéder à vos fichiers depuis plusieurs appareils</string>
   <string name="user_guide_other_version">Disponible sous Windows, Linux, Mac, iOS, Android et plus.</string>
-  <string name="user_guide_summary">Comment utiliser Kuaipan</string>
   <string name="user_guide_upload_to_kuaipan">Copier et coller des fichiers sur Kuaipan</string>
   <string name="utf8_summary">Codage par défaut</string>
   <string name="utf8_title">UTF-8</string>

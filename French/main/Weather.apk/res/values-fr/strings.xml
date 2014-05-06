@@ -2,6 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+ <!-- removed in 4.5.6 -->
+    <string name="act_weather_find_city_search_online">"Appuyer pour rechercher "</string>
+ <!-- -->
     <string name="act_city_find_gps_error">Sélectionner manuellement une ville dans la liste.</string>
     <string name="act_find_city_hint">Rechercher</string>
     <string name="act_find_city_hot_title">Villes populaires</string>
@@ -18,14 +21,13 @@
     <string name="act_weather_cycle_low_temp">min.</string>
     <string name="act_weather_cycle_update">Actualisation…</string>
     <string name="act_weather_find_city_connect_net">Connectez-vous à un réseau puis réessayez</string>
-    <string name="act_weather_find_city_search_online">"Appuyer pour rechercher "</string>
     <string name="act_weather_find_city_searching">Recherche…</string>
     <string name="act_weather_main_aqi_index">Qualité de l\'air : %s</string>
     <string name="act_weather_main_data_null">Aucune donnée météo, appuyer pour actualiser</string>
     <string name="act_weather_range_select">Sélectionner une ville</string>
     <string name="act_weather_range_title">Prévisions météorologiques locales</string>
     <string name="act_weather_update_time">Dernière màj : %s</string>
-    <string name="add_city">Ajouter un lieu</string>
+    <string name="add_city">Ajouter</string>
     <string name="alert_message_delete">Supprimer le(s) %d élément(s) sélectionné(s) ?</string>
     <string name="alert_provider_message">Vous devez activer la géolocalisation via le réseau mobile.</string>
     <string name="alert_provider_title">Notification de géolocalisation</string>
@@ -56,7 +58,6 @@
     <string name="button_allow">Autoriser</string>
     <string name="button_not_allow">Refuser</string>
     <string name="cancel">Annuler</string>
-    <string name="enable_gps">GPS</string>
     <string name="enable_notification">Notifications météo défavorable</string>
     <string name="enable_notification_city">%s notifications météo affichées, des notifications seront affichées lors conditions météo défavorables (pluie, neige ou fortes variations de températures).</string>
     <string name="enable_notification_summary">Affiche une notification si les conditions météorologiques changent défavorablement</string>
@@ -119,4 +120,13 @@
     <string name="weather_notification">Notifications météo</string>
     <string name="widget_loading">Aucun donnée météo</string>
     <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
+    <string name="gps_hint">Position actuelle</string>
+    <string name="edit_city">Modifier</string>
+    <string name="act_weather_cycle_no_forcast">Inconnu</string>
+    <string name="button_abandon">Annuler les modifications</string>
+    <string name="act_weather_find_city_net_no_good">Impossible de ce connecter au réseau</string>
+    <string name="act_weather_find_city_click_retry">Appuyer pour réessayer</string>
+    <string name="location_tag">Localiser</string>
+    <string name="act_weather_find_city_no_result">Aucun résultat</string>
+    <string name="act_weather_find_city_added">Ville ajoutée</string>
 </resources>

@@ -806,15 +806,11 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma_summary">Mode réseau préféré : TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_type_3g_only_warning_miui">"Vous avez choisi 3G seulement. Cela signifie qu'en l'absence de couverture 3G, vous n'aurez AUCUN réseau !
 Appuyez sur OK pour continuer."</string>
-  <string name="preferred_network_type_cdma_miui">CDMA</string>
-  <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
-  <string name="preferred_network_type_td_scdma_miui">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G privilégiée</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automatique</string>
   <string name="preferred_network_type_pref_entries_global_miui">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">2G seulement (moins énergivore)</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">3G seulement</string>
-  <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title_miui">Sélection du type de réseau</string>
   <string name="preferred_network_type_group_title_miui">Réseau mobile (%s)</string>
   <string name="primary_account_summary_with">Compte principal. %s</string>
@@ -840,7 +836,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="regional_disable">Option "Actualités régionales" désactivée</string>
   <string name="regional_enable">Option "Actualités régionales" activée</string>
   <string name="register_automatically">Enregistrement automatique…</string>
-  <string name="register_network_failed_message_miui">"Impossible de vous enregistrer sur le réseau sélectionné, voulez-vous vous connecter automatiquement sur le réseau préféré ?"</string>
+  <string name="select_network_automatic_hint_miui">"Impossible de vous enregistrer sur le réseau sélectionné, voulez-vous vous connecter automatiquement sur le réseau préféré ?"</string>
   <string name="register_network_failed_title_miui">Service non disponible</string>
   <string name="register_on_network">Enregistrement sur %s…</string>
   <string name="registration_done">Enregistré sur le réseau.</string>
@@ -1203,7 +1199,30 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="open_miui">Ouvrir</string>
   
  <!-- à traduire
-  <string name="callwait_open_hint">\"来电等待\"是运营商提供的服务,如果您收到\"MMI码错误\"的提示,请联系当地运营商开通来电等待业务</string>
+  <string name="notification_dialing">Dialing</string>
+  <string name="default_notification_description">Default sound (%1$s)</string>
+  <string name="lable_call_barring">Restrict calls</string>
+  <string name="lable_all_outgoing">All outgoing calls</string>
+  <string name="lable_all_outgoing_international">International outgoing calls</string>
+  <string name="lable_all_out_except">International outgoing calls except to home PLMN</string>
+  <string name="lable_all_incoming">All incoming calls</string>
+  <string name="lable_incoming_calls_except">Incoming calls while roaming</string>
+  <string name="deactivate_all">Cancel all</string>
+  <string name="change_password">Change barring password</string>
+  <string name="call_barring_sum">Voice call restriction settings</string>
+  <string name="lable_disable">Disabled</string>
+  <string name="lable_enable">Enabled</string>
+  <string name="old_password_label">Old password (4 digits)</string>
+  <string name="new_password_label">New password (4 digits)</string>
+  <string name="invalid_password">Enter a password that is 4 numbers long.</string>
+  <string name="confirm_password_label">Confirm new password</string>
+  <string name="mismatch_password">"Passwords don't match"</string>
+  <string name="password_changed">Password changed successfully</string>
+  <string name="enter_callbarring_password">Enter password (4 numbers)</string>
+  <string name="wrong_password">Password error</string>
+
+
+  
   <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
   <string name="modify_call_failure_str">"Modify Call request failed
 "</string>

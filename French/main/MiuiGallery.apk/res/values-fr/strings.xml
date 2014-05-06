@@ -2,10 +2,31 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- removed in 4.5.6 mi2 -->
+  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s image(s) dans %s album(s), êtes-vous sûr de vouloir les supprimer ?</string>
+  <string name="model">Modèle</string>
+
 <!-- removed in 4.4.9 mi2 -->
   <string name="menu_item_sort_visit_asc">Par ordre ascendant de visualisation</string>
   <string name="menu_item_sort_visit_desc">Par ordre descendant de visualisation</string>
 <!-- -->
+  <string name="confirm_delete_home_merge_item">Supprimer les %s photo(s) du téléphone et du cloud ?</string>
+  <string name="deselect_all">Tout désélectionner</string>
+  <string name="device_model">Modèle</string>
+ <!-- à traduire 4.4.6
+  <string name="taken_time">Taken time</string>
+  <string name="modified_time">Modified time</string>
+  <string name="photo_size">Size</string>
+  <string name="bigscreen_video_quit">Click to quit video playing</string>
+  <string name="home_page_tab_photo">Photo</string>
+  <string name="home_page_tab_cloud">Cloud</string>
+  <string name="home_page_tab_local">Local</string>
+  <string name="error_title">Sync error</string>
+  <string name="error_unauthorized">Too many sign-in attempts: Sync disabled.</string>
+  <string name="error_forbidden">There are some problems with your account: Sync disabled.</string>
+  <string name="error_not_acceptable">Server error: Sync disabled.</string>
+  <string name="fail_to_download_n_items">Fail to download %s</string>
+ -->
   <string name="Import">Importer</string>
   <string name="accept">Accepter</string>
   <string name="accept_or_deny">%1$s a partagé l\'album %2$s avec vous.</string>
@@ -113,7 +134,6 @@
   <string name="confirm">OK</string>
   <string name="confirm_delete">Supprimer %s élément(s) ?</string>
   <string name="confirm_delete_album" formatted="false">Êtes-vous sûr de vouloir supprimer %s albums (contenant %s éléments) ?</string>
-  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s image(s) dans %s album(s), êtes-vous sûr de vouloir les supprimer ?</string>
   <string name="confirm_delete_pictures">%s image(s)</string>
   <string name="confirm_delete_system_album">%s est un album système, êtes-vous sûr de vouloir le supprimer ?</string>
   <string name="confirm_delete_videos">%s vidéo(s)</string>
@@ -193,9 +213,6 @@
   <string name="flip">Retourner</string>
   <string name="flip_tooltip">Faire glisser la photo pour la retourner</string>
   <string name="focal_length">Longueur focale</string>
- <!-- à traduire :
-  <string name="folder_holder_file">File placeholder</string>  xiaomi : should delete this file later
- -->
   <string name="frame_black">Noir</string>
   <string name="frame_button">Cadre</string>
   <string name="frame_classic">Ancien</string>
@@ -268,7 +285,6 @@
   <string name="mimetype">Type MIME</string>
   <string name="mishop_saved_folder_display_name">Enregistrements MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Captures d\'écran</string>
-  <string name="model">Modèle</string>
   <string name="more">Plus</string>
   <string name="move_to_cloud_album">Déplacer vers MiCloud</string>
   <string name="mtgif">MTGIF</string>
@@ -441,7 +457,7 @@
   <string name="time">Heure</string>
   <string name="times">Heures</string>
   <string name="tint">Coloration</string>
-  <string name="title">Titre</string>
+  <string name="title">Nom du fichier</string>
   <string name="to_count">%d au total</string>
   <string name="too_many_recipients">Le message a trop de destinataires (%1$s), le nombre total autorisé est de %2$s.</string>
   <string name="try_to_send">Tentative d\'envoi</string>
