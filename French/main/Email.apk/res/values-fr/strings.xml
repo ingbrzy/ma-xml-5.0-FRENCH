@@ -687,7 +687,7 @@
   <string name="outbox_alert_title_sent_failed">Erreur, e-mail non envoyé</string>
   <string name="outbox_alert_description_sent_failed">"Cause : la taille de la 
 la pièce jointe dépasse la limite autorisée"</string>
-  <string name="blank_feedback_toast">Le rapport est vide, veuillez en écrire un!</string>
+  <string name="blank_feedback_toast">Le rapport est vide, veuillez en écrire un !</string>
   <string name="ApplicationIconMore99">99+</string>
   <string name="please_fill_in_your_mailbox_information">Veuillez remplir les informations liées à votre compte e-mail :</string>
   <string name="actionbar_title_mail_aggregation">Regroupement de mail :</string>
