@@ -689,20 +689,20 @@
 la pièce jointe dépasse la limite autorisée"</string>
   <string name="blank_feedback_toast">Le rapport est vide, veuillez en écrire un!</string>
   <string name="ApplicationIconMore99">99+</string>
-  <string name="please_fill_in_your_mailbox_information">Veuillez remplir les informations liées à votre compte e-mail:</string>
-  <string name="actionbar_title_mail_aggregation">Regroupement de mail:</string>
+  <string name="please_fill_in_your_mailbox_information">Veuillez remplir les informations liées à votre compte e-mail :</string>
+  <string name="actionbar_title_mail_aggregation">Regroupement de mail :</string>
   <string name="empty_email_tip">Vous pouvez envoyer un mail vide</string>
   <string name="account_setup_service_not_set">Vos paramètres de services e-mail doivent être configuré</string>
   <string name="account_setup_need_password_verification">Votre compte à ouvert une seconde identification, un mot de passe est requis</string>
   <string name="account_set_up_notice">Plus que quelques étapes, vous pouvez mettre en place votre compte email</string>
-  <string name="account_settings_list_title">Veuillez sélectionner les services de messagerie que vous souhaitez ajouter:</string>
+  <string name="account_settings_list_title">Veuillez sélectionner les services de messagerie que vous souhaitez ajouter :</string>
   <string name="wait_for_sync_body_2">Une demande du serveur exchange vous sera faite dans moins de 30 secondes. Veuillez confirmer puis activer les paramètres de sécurité et faire attention aux alertes système.</string>
   <string name="prompt_title">Invite</string>
   <string name="account_set_up_change_type_note">Si vous souhaitez commuter entre POP3 et IMAP, vous devez d\'abord supprimer le compte puis le reconfigurer.</string>
   <string name="download_complete_not_cancel">Téléchargement terminé, annulation impossible!</string>
-  <string name="select_no_file">Aucune pièce jointe n\'as été séléctionnée</string>
-  <string name="download_before_sharing">" n'est pas encore téléchargé, veuillez patienter jusqu'à la fin avant de pouvoir le partager!"</string>
-  <string name="no_matched_attachment">Pièce jointe introuvable!</string>
+  <string name="select_no_file">Aucune pièce jointe n\'as été sélectionnée</string>
+  <string name="download_before_sharing">" n'est pas encore téléchargé, veuillez patienter jusqu'à la fin avant de pouvoir le partager !"</string>
+  <string name="no_matched_attachment">Pièce jointe introuvable !</string>
   <string name="validation_failed_prompt">La validation a échoué, veuillez configurer le serveur %s</string>
   <string name="time_error">Problème de temps</string>
 </resources>

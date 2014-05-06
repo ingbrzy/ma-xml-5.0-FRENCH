@@ -118,7 +118,7 @@
         <item quantity="one">%1$d élément sélectionné</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Ces conversations sont fusionné, êtes-vous sûr de vouloir les supprimer?</item>
-        <item quantity="one">Cette conversation est fusionné, êtes-vous sûr de vouloir la supprimer?</item>
+        <item quantity="other">Ces conversations sont fusionné, êtes-vous sûr de vouloir les supprimer ?</item>
+        <item quantity="one">Cette conversation est fusionné, êtes-vous sûr de vouloir la supprimer ?</item>
     </plurals>
 </resources>
