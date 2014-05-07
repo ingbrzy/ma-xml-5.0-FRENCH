@@ -1198,31 +1198,7 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="set_sub_not_supported_phone_in_call">Activation ou désactivation non autorisée lorsque le téléphone est en appel.</string>
   <string name="open_miui">Ouvrir</string>
   
- <!-- à traduire
-  <string name="notification_dialing">Dialing</string>
-  <string name="default_notification_description">Default sound (%1$s)</string>
-  <string name="lable_call_barring">Restrict calls</string>
-  <string name="lable_all_outgoing">All outgoing calls</string>
-  <string name="lable_all_outgoing_international">International outgoing calls</string>
-  <string name="lable_all_out_except">International outgoing calls except to home PLMN</string>
-  <string name="lable_all_incoming">All incoming calls</string>
-  <string name="lable_incoming_calls_except">Incoming calls while roaming</string>
-  <string name="deactivate_all">Cancel all</string>
-  <string name="change_password">Change barring password</string>
-  <string name="call_barring_sum">Voice call restriction settings</string>
-  <string name="lable_disable">Disabled</string>
-  <string name="lable_enable">Enabled</string>
-  <string name="old_password_label">Old password (4 digits)</string>
-  <string name="new_password_label">New password (4 digits)</string>
-  <string name="invalid_password">Enter a password that is 4 numbers long.</string>
-  <string name="confirm_password_label">Confirm new password</string>
-  <string name="mismatch_password">"Passwords don't match"</string>
-  <string name="password_changed">Password changed successfully</string>
-  <string name="enter_callbarring_password">Enter password (4 numbers)</string>
-  <string name="wrong_password">Password error</string>
-
-
-  
+ <!-- à traduire  
   <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
   <string name="modify_call_failure_str">"Modify Call request failed
 "</string>

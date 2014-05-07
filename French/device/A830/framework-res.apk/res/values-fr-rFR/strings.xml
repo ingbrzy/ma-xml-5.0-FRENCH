@@ -4,5 +4,5 @@
   <string name="storage_external_usb">Stockage USB externe</string>
   <string name="zz_keyguard_accessibility_voice_unlock">Déverrouillage vocal.</string>
   <string name="notification_out_memory">Ressources des applications trop importante, les notifications ne pourront plus s\'afficher.</string>
-  <string name="not_cu_data_connection">Cette opération est assurée par votre opérateur à l'aide de la carte SIM. Continuer?</string>
+  <string name="not_cu_data_connection">Cette opération est assurée par votre opérateur à l\'aide de la carte SIM. Continuer?</string>
 </resources>
