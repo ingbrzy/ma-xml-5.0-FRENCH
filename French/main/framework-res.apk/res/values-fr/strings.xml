@@ -1270,12 +1270,10 @@ pour le compte \"%s\"</string>
     <string name="enablePin">Échec. Activer SIM / RUIM LOCK</string>
     <string name="pinpuk_attempts">"
 Essais restants :"</string>
-   <!-- à traduire et vérifier dans les autres frameworks
-    <string name="stkCcUssdToDial">USSD request is modified to DIAL request.</string>
-    <string name="stkCcUssdToSs">USSD request is modified to SS request.</string>
-    <string name="stkCcUssdToUssd">USSD request is modified to new USSD request.</string>
-    <string name="stkCcSsToDial">SS request is modified to DIAL request.</string>
-    <string name="stkCcSsToUssd">SS request is modified to USSD request.</string>
-    <string name="stkCcSsToSs">SS request is modified to new SS request.</string>
-   -->
+    <string name="stkCcUssdToDial">Requête USSD changée en requête DIAL.</string>
+    <string name="stkCcUssdToSs">Requête USSD changée en requête SS.</string>
+    <string name="stkCcUssdToUssd">Requête USSD changée en nouvelle requête USSD.</string>
+    <string name="stkCcSsToDial">Requête SS changée en requête DIAL.</string>
+    <string name="stkCcSsToUssd">Requête SS changée en requête USSD.</string>
+    <string name="stkCcSsToSs">Requête SS changée en nouvelle requête SS.</string>
 </resources>

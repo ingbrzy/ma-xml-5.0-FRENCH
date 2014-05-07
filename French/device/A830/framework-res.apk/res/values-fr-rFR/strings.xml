@@ -3,9 +3,6 @@
   <string name="storage_phone">Stockage du téléphone</string>
   <string name="storage_external_usb">Stockage USB externe</string>
   <string name="zz_keyguard_accessibility_voice_unlock">Déverrouillage vocal.</string>
-
-  <!-- à traduire :
-  <string name="notification_out_memory">Application of resource too large, notification may not display.</string>
-  <string name="not_cu_data_connection">This transaction is provided by China Unicom, using China Unicom USIM card is recommended. Continue?</string>
-  -->
+  <string name="notification_out_memory">Ressources des applications trop importante, les notifications ne pourront plus s\'afficher.</string>
+  <string name="not_cu_data_connection">Cette opération est assurée par votre opérateur à l\'aide de la carte SIM. Continuer?</string>
 </resources>

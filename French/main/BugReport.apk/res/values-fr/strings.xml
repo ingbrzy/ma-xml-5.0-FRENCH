@@ -2,28 +2,31 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+ <!-- removed in 4.5.6 -->
+  <string name="bugreport_feedback_from">De : %s</string>
+  <string name="err_type">Type de retour</string>
+  <string name="user_feedback">Commentaires des utilisateurs</string>
+  <string name="menu_send">Envoyer le rapport</string>
+ <!-- -->
   <string name="action_submit">Envoyer</string>
   <string name="app_label">Rapports</string>
   <string name="btn_send">Envoyer</string>
-  <string name="bugreport_feedback_from">De : %s</string>
   <string name="description">Description (obligatoire)</string>
   <string name="discard_draft_dialog_button_cancel">Annuler</string>
   <string name="discard_draft_dialog_button_discard">OK</string>
   <string name="discard_draft_dialog_content">Le rapport a été modifié, appuyez sur le bouton OK pour supprimer le brouillon.</string>
   <string name="discard_draft_dialog_title">Supprimer le brouillon</string>
-  <string name="err_type">Type de retour</string>
   <string name="err_type_call">Problèmes d\'appel</string>
   <string name="err_type_data_lost">Données perdues</string>
   <string name="err_type_force_close">Fermetures forcées</string>
   <string name="err_type_network">Problèmes de réseau</string>
   <string name="err_type_others">Autres</string>
   <string name="err_type_power_consuming">Consommation d\'énergie</string>
-  <string name="err_type_reboot">Redémarrages système</string>
+  <string name="err_type_reboot">Redémarrages aléatoires</string>
   <string name="err_type_suggestion">Suggestions</string>
   <string name="menu_attach_screenshot">Joindre une capture d\'écran</string>
   <string name="menu_copy">Copier</string>
   <string name="menu_discard">Ignorer</string>
-  <string name="menu_send">Envoyer le rapport</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
   <string name="network_unavailable_dialog_content">Vos commentaires seront envoyés lorsque le réseau mobile sera disponible</string>
   <string name="network_unavailable_dialog_title">Réseau indisponible</string>
@@ -41,9 +44,8 @@
   <string name="toast_report_copied_to_clipboard">Rapport copié dans le presse-papiers</string>
   <string name="toast_report_sent_failed">Impossible d\'envoyer le rapport !</string>
   <string name="toast_report_sent_succeed">Rapport envoyé avec succès !</string>
-  <string name="user_feedback">Commentaires des utilisateurs</string>
-  <string name="wlan_unavailable_dialog_button_ok">OK</string>
+  <string name="wlan_unavailable_dialog_button_ok">Attendre</string>
   <string name="wlan_unavailable_dialog_button_sent">Envoyer maintenant</string>
-  <string name="wlan_unavailable_dialog_content">%s est nécessaire pour les données 2G/3G, appuyez sur OK pour envoyer en utilisant une connexion Wi-Fi uniquement</string>
-  <string name="wlan_unavailable_dialog_title">Wi-Fi non disponible</string>
+  <string name="wlan_unavailable_dialog_content">L\'envoi du rapport requiert l\'usage de %s de données. Pour n\'envoyer le rapport que lorsque vous serez connecté à un réseau Wi-fi, appuyez sur Attendre.</string>
+  <string name="wlan_unavailable_dialog_title">Usage des données</string>
 </resources>

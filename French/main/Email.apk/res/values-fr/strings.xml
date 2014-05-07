@@ -687,25 +687,30 @@
   <string name="outbox_alert_title_sent_failed">Erreur, e-mail non envoyé</string>
   <string name="outbox_alert_description_sent_failed">"Cause : la taille de la 
 la pièce jointe dépasse la limite autorisée"</string>
-
- <!-- à traduire
-  <string name="blank_feedback_toast">The feedback is blank, please input feedback!</string>
+  <string name="blank_feedback_toast">Le rapport est vide, veuillez en écrire un !</string>
   <string name="ApplicationIconMore99">99+</string>
-  <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
-  <string name="actionbar_title_mail_aggregation">Mail aggregation:</string>
-  <string name="empty_email_tip">Could not send Empty Email</string>
-  <string name="account_setup_service_not_set">Your e-mail service settings yet to be conducted</string>
-  <string name="account_setup_need_password_verification">Your account has been opened secondary password authentication, authentication is required</string>
-  <string name="account_set_up_notice">Just a few steps, you can set up an email account for the majority of</string>
-  <string name="account_settings_list_title">Please select mail service providers need to add:</string>
-  <string name="wait_for_sync_body_2">Exchange Server will prompt you within 1-30 seconds.Please confirm the security setting and activate.Pay attention to system alert.</string>
-  <string name="prompt_title">Prompt</string>
-  <string name="account_set_up_change_type_note">If you want to set the switching account before POP3 and IMAP, you must first delete the account, re configure login.</string>
-  <string name="download_complete_not_cancel">Download is complete, cancel failed!</string>
-  <string name="select_no_file">No selected attachment to share</string>
-  <string name="download_before_sharing">" is not downloaded yet, please download it before sharing!"</string>
-  <string name="no_matched_attachment">No matched attachments!</string>
-  <string name="validation_failed_prompt">Validation failed, please set the %s server</string>
-  <string name="time_error">Time Problem</string>
+  <string name="please_fill_in_your_mailbox_information">Veuillez remplir les informations liées à votre compte e-mail :</string>
+  <string name="actionbar_title_mail_aggregation">Regroupement de mail :</string>
+  <string name="empty_email_tip">Vous pouvez envoyer un mail vide</string>
+  <string name="account_setup_service_not_set">Vos paramètres de services e-mail doivent être configuré</string>
+  <string name="account_setup_need_password_verification">Votre compte à ouvert une seconde identification, un mot de passe est requis</string>
+  <string name="account_set_up_notice">Plus que quelques étapes, vous pouvez mettre en place votre compte email</string>
+  <string name="account_settings_list_title">Veuillez sélectionner les services de messagerie que vous souhaitez ajouter :</string>
+  <string name="wait_for_sync_body_2">Une demande du serveur exchange vous sera faite dans moins de 30 secondes. Veuillez confirmer puis activer les paramètres de sécurité et faire attention aux alertes système.</string>
+  <string name="prompt_title">Invite</string>
+  <string name="account_set_up_change_type_note">Si vous souhaitez commuter entre POP3 et IMAP, vous devez d\'abord supprimer le compte puis le reconfigurer.</string>
+  <string name="download_complete_not_cancel">Téléchargement terminé, annulation impossible!</string>
+  <string name="select_no_file">Aucune pièce jointe n\'as été sélectionnée</string>
+  <string name="download_before_sharing">" n'est pas encore téléchargé, veuillez patienter jusqu'à la fin avant de pouvoir le partager !"</string>
+  <string name="no_matched_attachment">Pièce jointe introuvable !</string>
+  <string name="validation_failed_prompt">La validation a échoué, veuillez configurer le serveur %s</string>
+  <string name="time_error">Problème de temps</string>
+ <!-- à traduire 4.4.6
+  <string name="wait_for_sync_body_txt_array_1">Exchange Server will prompt you within</string>
+  <string name="wait_for_sync_body_txt_array_2">1–30</string>
+  <string name="wait_for_sync_body_txt_array_3">seconds.Please confirm the security setting and activate.Pay attention to</string>
+  <string name="wait_for_sync_body_txt_array_4">system alert</string>
+  <string name="wait_for_sync_body_txt_array_5">.</string>
+  <string name="wait_for_sync_note">Please slide from the top to get the notification. Click to finish the security setting.</string>
  -->
 </resources>
