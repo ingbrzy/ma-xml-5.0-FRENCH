@@ -798,7 +798,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_comment_average_score">Moyenne</string>
   <string name="resource_comment_bad_comments">Négatifs</string>
   <string name="resource_comment_current_version">Version actuelle</string>
-  <string name="resource_comment_date">%2$02d-%1$02d</string>
+  <string name="resource_comment_date">%2$02d/%1$02d</string>
   <string name="resource_comment_edit_comment">Ajouter un commentaire</string>
   <string name="resource_comment_edit_comment_waiting">Vérifie si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
@@ -863,9 +863,9 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
   <string name="resource_price_unit">" MiCredits"</string>
-  <string name="resource_ranking">Populaire</string>
-  <string name="resource_ranking_free">Gratuit</string>
-  <string name="resource_ranking_purchase">Payant</string>
+  <string name="resource_ranking">Populaires</string>
+  <string name="resource_ranking_free">Gratuits</string>
+  <string name="resource_ranking_purchase">Payants</string>
   <string name="resource_ringtone_default">Sonneries</string>
   <string name="resource_see_more">Voir plus</string>
   <string name="resource_select">Sélectionner</string>
