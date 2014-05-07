@@ -220,24 +220,23 @@ Réessayer dans %d secondes."</string>
   <string name="v5_date_time_picker_dialog_title">Régler l\'heure de rappel</string>
   <string name="text_copied">Texte copié vers le presse-papier</string>
   <string name="text_cut">Texte coupé</string>
-  <string name="sync_data_notes">notes</string>
   <string name="sync_data_msg_seperate">", "</string>
-  <string name="sync_data_contact">contact</string>
+  <string name="sync_data_notes">notes</string>
+  <string name="sync_data_contact">contacts</string>
   <string name="sync_data_mms">SMS</string>
+  <string name="sync_data_call_log">enregist. d\'appels</string>
+  <string name="sync_data_cloud_album">albums cloud</string>
   <string name="sync_data_recover_warning_cancel">Annuler</string>
   <string name="sync_data_merge_warning_cancel">Annuler</string>
   <string name="sync_data_merge_warning_ok">Fusionner</string>
+  <string name="sync_data_recover_warning_ok">Restaurer</string>
  <!-- à traduire
   <string name="sync_data_merge_warning_desc">Data of %s in your phone will be merged with the cloud data unrecoverable, please be careful!</string>
   <string name="sync_data_recover_warning_title">Data Recovery Warning</string>
   <string name="sync_data_recover_warning_desc">Data of %s in your phone will be recovered from the cloud, please be careful!</string>
-  <string name="sync_data_recover_warning_ok">Recover</string>
-  <string name="sync_data_cloud_album">cloud album</string>
-  <string name="sync_data_call_log">call records</string>
   <string name="sync_data_loading">Retrieving information from server</string>
   <string name="sync_data_merge_warning_title">Data Merge Warning</string>
  -->
- 
   <string name="autumn_begins">Début de l\'Automne</string>
   <string name="autumn_equinox">Équinoxe d\'Automne</string>
   <string name="clear_and_bright">Clair et lumineux</string>

@@ -836,7 +836,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="regional_disable">Option "Actualités régionales" désactivée</string>
   <string name="regional_enable">Option "Actualités régionales" activée</string>
   <string name="register_automatically">Enregistrement automatique…</string>
-  <string name="select_network_automatic_hint_miui">"Impossible de vous enregistrer sur le réseau sélectionné, voulez-vous vous connecter automatiquement sur le réseau préféré ?"</string>
+  <string name="register_network_failed_message_miui">"Impossible de vous enregistrer sur le réseau sélectionné, voulez-vous vous connecter automatiquement sur le réseau préféré ?"</string>
   <string name="register_network_failed_title_miui">Service non disponible</string>
   <string name="register_on_network">Enregistrement sur %s…</string>
   <string name="registration_done">Enregistré sur le réseau.</string>

@@ -13,20 +13,18 @@
   <string name="confirm_delete_home_merge_item">Supprimer les %s photo(s) du téléphone et du cloud ?</string>
   <string name="deselect_all">Tout désélectionner</string>
   <string name="device_model">Modèle</string>
- <!-- à traduire 4.4.6
-  <string name="taken_time">Taken time</string>
-  <string name="modified_time">Modified time</string>
-  <string name="photo_size">Size</string>
-  <string name="bigscreen_video_quit">Click to quit video playing</string>
+  <string name="taken_time">Date de prise</string>
+  <string name="modified_time">Date de modification</string>
+  <string name="photo_size">Taille</string>
+  <string name="bigscreen_video_quit">Appuyer pour quitter la vidéo</string>
   <string name="home_page_tab_photo">Photo</string>
   <string name="home_page_tab_cloud">Cloud</string>
   <string name="home_page_tab_local">Local</string>
-  <string name="error_title">Sync error</string>
-  <string name="error_unauthorized">Too many sign-in attempts: Sync disabled.</string>
-  <string name="error_forbidden">There are some problems with your account: Sync disabled.</string>
-  <string name="error_not_acceptable">Server error: Sync disabled.</string>
-  <string name="fail_to_download_n_items">Fail to download %s</string>
- -->
+  <string name="error_title">Erreur de synchronisation</string>
+  <string name="error_unauthorized">Trop de tentatives de connexion : synchronisation désactivée.</string>
+  <string name="error_forbidden">Il y a un problème avec votre compte : synchronisation désactivée.</string>
+  <string name="error_not_acceptable">Erreur serveur : synchronisation désactivée.</string>
+  <string name="fail_to_download_n_items">Échec du téléchargement de %s</string>
   <string name="Import">Importer</string>
   <string name="accept">Accepter</string>
   <string name="accept_or_deny">%1$s a partagé l\'album %2$s avec vous.</string>
