@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_to_contacts">Ajouter à un contact</string>
+    <string name="address">Adresse :</string>
+    <string name="birthday">Anniversaire :</string>
+    <string name="company">Entreprise :</string>
+    <string name="copy">Copier</string>
+    <string name="email">Email :</string>
+    <string name="flash_lable">Flash</string>
+    <string name="name">Nom :</string>
+    <string name="nickname">Surnom :</string>
+    <string name="note">Note :</string>
+    <string name="phone">Téléphone :</string>
+    <string name="picker_lable">Galerie</string>
+    <string name="recognize">Analyser</string>
+    <string name="scan_result">Résultat</string>
+    <string name="title">Titre :</string>
+    <string name="web">Web :</string>
+    <string name="copy_succeed">Copie effectuée</string>
+    <string name="place_barcode_into_rectangle">Placez le code QR ou code barre dans le rectangle</string>
+    <string name="scan_fail">L\'analyse a échouée</string>
+    <string name="open_flash_error">Impossible d\'activer le flash</string>
+    <string name="close_flash_error">Impossible de désactiver le flash</string>
+    <string name="fail_generate_barcode">Erreur lors de la génération du code QR</string>
+    <string name="vcard_prompt">Impossible d\'importer ce contact car le nom est manquant</string>
+  <!-- à traduire ?
+    <string name="app_name">Barcode Scanner</string>
+  -->
+</resources>

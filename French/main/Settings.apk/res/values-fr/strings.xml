@@ -3936,7 +3936,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="free_wifi_connect_title">Wi-Fi disponible</string>
   <string name="free_wifi_connect_summary">Appuyer pour se connecter à %1$s.</string>
   <string name="free_wifi_manage_summary">Afficher les détails du réseau %1$s.</string>
-  <string name="free_wifi_connect_dialog_summary">Ce réseau Wi-Fi %1$s est fourni par %2$s.</string>
+  <string name="free_wifi_connect_dialog_title">Wi-Fi disponible</string>
   <string name="free_wifi_connect_dialog_summary">%1$s est fourni par %2$s.</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_wifi_connect">Se connecter</string>
