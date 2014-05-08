@@ -224,4 +224,7 @@
   <string name="HIPS_Perm_Recorder_Hint">%1$s applis peuvent utiliser la caméra et le micro.</string>
   <string name="HIPS_Perm_Recorder_Video">Enregistrer des vidéos</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">Enregistrer des appels audio</string>
+  <string name="HIPS_Perm_DisableKeyguard">Déverrouiller l\'écran</string>
+  <string name="HIPS_Perm_DisableKeyguard_Desc">Déverrouiller l\'écran</string>
+  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s applis peuvent déverrouiller l\'écran</string>
 </resources>

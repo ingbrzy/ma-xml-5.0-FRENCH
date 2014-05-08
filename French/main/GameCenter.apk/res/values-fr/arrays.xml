@@ -436,13 +436,21 @@
 2. Get help instantly 
 3. Audio support center 
 4. Dial direct to support staffs' phones（VIP4 and higher）
-5. Priority customer service"</item>
+5. Priority customer service
+
+To enable the VIP customer-service, please upgrade to VIP."</item>
         <item>"Get help here! You can send screenshots to our support center. 
 
- Support center hours: 9:30-18:30 (Mon - Fri). You can use our online submission form if you encounter a problem on a weekend or holiday."</item>
-        <item>View your past service issues as well as the status of your current issues.Upgrade to VIP now to get priority customer service.</item>
+ Support center hours: 9:30-18:30 (Mon - Fri). You can use our online submission form if you encounter a problem on a weekend or holiday.
+
+To enable the VIP customer-service, please upgrade to VIP."</item>
+        <item>"View your past service issues as well as the status of your current issues.Upgrade to VIP now to get priority customer service.
+
+To get priority, please upgrade to VIP."</item>
         <item>Your GamePacks will appear under My GamePacks</item>
-        <item>Spend points on GamePacks and Xiaomi accessories!</item>
+        <item>"Spend points on GamePacks and Xiaomi accessories!
+
+ Game Points is needed to shop here."</item>
     </string-array>
     <string-array name="account_items">
         <item>Photo:</item>
@@ -470,38 +478,6 @@
     <string-array name="select_photos">
         <item>Take Photo</item>
         <item>Browse</item>
-    </string-array>
-    <string-array name="game_tag">
-        <item>Promotion</item>
-        <item>New service</item>
-        <item>New low price</item>
-        <item>Cashback</item>
-        <item>Get number</item>
-        <item>Beta</item>
-        <item>Closed beta</item>
-        <item>Starting line</item>
-        <item>VIP service</item>
-        <item>Exclusive</item>
-        <item>GamePack</item>
-        <item>Lottery</item>
-        <item>Strategy</item>
-        <item>Popular</item>
-        <item>Recommended</item>
-        <item>New</item>
-        <item>Update</item>
-        <item>Beta</item>
-        <item>Offical</item>
-        <item>HD</item>
-        <item>3D</item>
-        <item>Guarantee</item>
-        <item>Pay</item>
-        <item>Zone</item>
-        <item>"Editor's Choice"</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
     </string-array>
     <string-array name="game_cer">
         <item>Log in with Xiaomi</item>

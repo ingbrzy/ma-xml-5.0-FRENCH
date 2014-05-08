@@ -20,6 +20,36 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+ <!-- removed on 4.5.8 -->
+  <string name="pref_summary_delete_limit">%1$s messages par conversation</string>
+  <string name="pref_title_sms_delete">Limite pour les SMS</string>
+  <string name="pref_title_mms_delete">Limite pour les MMS</string>
+  <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>
+  <string name="confirm_restore_all_title">Restaurer tous les messages de ce numéro ?</string>
+  <string name="menu_delete_messages">Supprimer les messages</string>
+  <string name="festival_sms_category_count_format">(%s)</string>
+  <string name="festival_sms_loading">Chargement…</string>
+  <string name="mx_warning_notice">Un SMS sera envoyé pour activer la messagerie cloud. Il est possible que certains opérateurs le facturent</string>
+  <string name="mx_int_warning_notice">Un SMS international va être envoyé. Le tarif de votre opérateur sera appliqué.</string>
+  <string name="mx_btn_enable">Activer</string>
+  <string name="mx_reactivate">Réactiver la messagerie cloud</string>
+  <string name="mx_activate_error_malformed_info">Échec de l\'activation de la messagerie cloud, veuillez la réactiver</string>
+  <string name="mx_activate_error_server">Le serveur n\'a pas réussi à activer la messagerie cloud</string>
+  <string name="mx_activate_error_sim_change">La carte SIM a changé, la réactivation des messages cloud est nécessaire</string>
+  <string name="mx_activate_error_title">Impossible d\'activer la messagerie cloud</string>
+  <string name="mx_activate_hint_malformed_info">Opération interrompue, la réactivation de la messagerie en mode cloud est nécessaire. L\'activer maintenant ?</string>
+  <string name="mx_activate_hint_server">Le serveur n\'a pas réussi à activer la messagerie cloud. L\'activer maintenant ?</string>
+  <string name="mx_activate_hint_sim_change">Carte SIM changée, la réactivation de messagerie cloud est nécessaire. L\'activer maintenant ?</string>
+  <string name="mx_activate_int_hint_malformed_info">Erreur durant la requête. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_activate_int_hint_server">L\'activation de la messagerie cloud par le serveur a échoué, un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_activate_int_popup_msg">MiMessaging permet aux utilisateurs MIUI de s\'envoyer des messages sans utiliser de crédit SMS.</string>
+  <string name="mx_activate_popup_msg">MiMessaging permet aux utilisateurs MIUI de s\'envoyer des messages sans utiliser de crédit SMS.</string>
+  <string name="mx_activation_done">La messagerie MiCloud est maintenant activée</string>
+  <string name="mx_enable_int_popup_msg">La messagerie cloud vous permet d\'envoyer des messages entre utilisateurs MIUI. Pour l\'activer un SMS international va être envoyé. Le tarif de votre opérateur sera appliqué.</string>
+  <string name="restore_all_button_msg">Restaurer tous les messages de ce numéro</string>
+  <string name="sp_mark_as_read_title">Tout marquer comme lus</string>
+ <!-- -->
   <string name="activity_not_found">Impossible d\'ouvrir la pièce jointe</string>
   <string name="activity_not_found_uri">Pas de programme approprié trouvé</string>
   <string name="addBlackList">Ajouter à la liste noire</string>
@@ -88,7 +118,6 @@
   <string name="confirm_no_block_positive">"Ne pas bloquer et restaurer"</string>
   <string name="confirm_no_block_title">"Ne pas bloquer le numéro et restaurer tous les messages envoyés depuis ce numéro ?"</string>
   <string name="confirm_rate_limit">Un grand nombre de messages multimédias sont en cours d\'envoi. Voulez-vous continuer ?</string>
-  <string name="confirm_restore_all_title">Restaurer tous les messages de ce numéro ?</string>
   <string name="confirm_restore_positive">Restaurer</string>
   <string name="confirm_restore_title">Restaurer tous les messages sélectionnés ?</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
@@ -156,8 +185,6 @@
   <string name="failed_to_resize_image">L\'image n\'a pas été redimensionnée.</string>
   <string name="fdn_check_failure">Vous pouvez envoyer des messages uniquement vers vos numéros autorisés.</string>
   <string name="festival">Recommandé</string>
-  <string name="festival_sms_category_count_format">(%s)</string>
-  <string name="festival_sms_loading">Chargement…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_share_message_description">Je voudrais partager des fichiers avec vous</string>
   <string name="forward_from">Transf. depuis :</string>
@@ -189,7 +216,6 @@
   <string name="loading_mms">Chargement MMS…</string>
   <string name="me">Moi</string>
   <string name="menu_compose_new">Nouveau message</string>
-  <string name="menu_delete_messages">Supprimer les messages</string>
   <string name="menu_edit">Modifier</string>
   <string name="menu_forward">Transférer</string>
   <string name="menu_lock">Verrouiller</string>
@@ -224,38 +250,20 @@
   <string name="msg_type_hint_sms">SMS</string>
   <string name="multimedia_message">Message multimédia</string>
   <string name="multimedia_notification">Notification de messages MMS</string>
-  <string name="mx_activate_error_malformed_info">Échec de l\'activation de la messagerie cloud, veuillez la réactiver</string>
-  <string name="mx_activate_error_server">Le serveur n\'a pas réussi à activer la messagerie cloud</string>
-  <string name="mx_activate_error_sim_change">La carte SIM a changé, la réactivation des messages cloud est nécessaire</string>
-  <string name="mx_activate_error_title">Impossible d\'activer la messagerie cloud</string>
-  <string name="mx_activate_hint_malformed_info">Opération interrompue, la réactivation de la messagerie en mode cloud est nécessaire. L\'activer maintenant ?</string>
-  <string name="mx_activate_hint_server">Le serveur n\'a pas réussi à activer la messagerie cloud. L\'activer maintenant ?</string>
-  <string name="mx_activate_hint_sim_change">Carte SIM changée, la réactivation de messagerie cloud est nécessaire. L\'activer maintenant ?</string>
-  <string name="mx_activate_int_hint_malformed_info">Erreur durant la requête. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
-  <string name="mx_activate_int_hint_server">L\'activation de la messagerie cloud par le serveur a échoué, un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
-  <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
-  <string name="mx_activate_int_popup_msg">MiMessaging permet aux utilisateurs MIUI de s\'envoyer des messages sans utiliser de crédit SMS.</string>
-  <string name="mx_activate_popup_msg">MiMessaging permet aux utilisateurs MIUI de s\'envoyer des messages sans utiliser de crédit SMS.</string>
-  <string name="mx_activation_done">La messagerie MiCloud est maintenant activée</string>
   <string name="mx_auto_resend_mms">Renvoyer le MMS</string>
   <string name="mx_auto_resend_mms_summary">Envoyer automatiquement comme MMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_auto_resend_sms">Envoyer en tant que SMS</string>
   <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
-  <string name="mx_btn_enable">Activer</string>
   <string name="mx_btn_enable_now">Activer</string>
   <string name="mx_count_dspt">Depuis l\'activation, MIUI a envoyé %1$d message(s) cloud pour vous (%2$s)</string>
   <string name="mx_current_status">Statut : En ligne</string>
   <string name="mx_dspt">Envoyer des messages via internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
   <string name="mx_enable">Activer la messagerie cloud</string>
-  <string name="mx_enable_int_popup_msg">La messagerie cloud vous permet d\'envoyer des messages entre utilisateurs MIUI. Pour l\'activer un SMS international va être envoyé. Le tarif de votre opérateur sera appliqué.</string>
   <string name="mx_enable_popup_msg">La messagerie cloud vous permet d\'envoyer des messages via MIUI. L\'envoi d\'un SMS est nécessaire pour activer la fonction, il vous sera facturé le prix d\'un SMS international si vous ne vous trouvez pas en Chine. Voulez-vous l\'activer maintenant ?</string>
-  <string name="mx_int_warning_notice">Un SMS international va être envoyé. Le tarif de votre opérateur sera appliqué.</string>
   <string name="mx_msg">Message Cloud</string>
   <string name="mx_offline">Hors-ligne</string>
   <string name="mx_online">En ligne</string>
-  <string name="mx_reactivate">Réactiver la messagerie cloud</string>
   <string name="mx_recommend_msg">Activer la messagerie cloud pour envoyer des messages gratuits</string>
-  <string name="mx_warning_notice">Un SMS sera envoyé pour activer la messagerie cloud. Il est possible que certains opérateurs le facturent</string>
   <string name="need_download">En cours de synchronisation…</string>
   <string name="new_message">Nouveau message</string>
   <string name="new_message_arrived">Nouveau message</string>
@@ -284,13 +292,11 @@
   <string name="pref_advanced_settings_title">Paramètres avancés</string>
   <string name="pref_edit_smsc_address">Numéro du centre SMS</string>
   <string name="pref_forward_title">Transférer</string>
-  <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>
   <string name="pref_mms_settings_title">Messages multimédias (MMS)</string>
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Autre</string>
   <string name="pref_sms_theme_title">Configuration des thèmes</string>
   <string name="pref_summary_allow_si_sl_push">Autoriser la réception et la notification des messages WAP push (SI/SL)</string>
-  <string name="pref_summary_delete_limit">%1$s messages par conversation</string>
   <string name="pref_summary_delivery_reports">Demander un accusé de réception pour chaque message que vous envoyez</string>
   <string name="pref_summary_hide_festival">Masquer l\'onglet Recommandé pour les utilisateurs non-chinois</string>
   <string name="pref_summary_manage_sim_messages">Gérer les messages enregistrés sur votre carte SIM</string>
@@ -316,14 +322,12 @@
   <string name="pref_title_manage_sim_messages">Gestion messages carte SIM</string>
   <string name="pref_title_miui_card">Envoyer via MiCard</string>
   <string name="pref_title_mms_auto_retrieval">Récupération auto</string>
-  <string name="pref_title_mms_delete">Limite pour les MMS</string>
   <string name="pref_title_mms_read_reports">Confirmation de lecture</string>
   <string name="pref_title_mms_retrieval_during_roaming">Récupération en itinérance</string>
   <string name="pref_title_new_message_popup">Pop-up de nouveau message</string>
   <string name="pref_title_notification_body_enabled">Afficher un aperçu</string>
   <string name="pref_title_ringtone_repeat">Nombre de rappels</string>
   <string name="pref_title_show_recent_contacts">Afficher les contacts récents</string>
-  <string name="pref_title_sms_delete">Limite pour les SMS</string>
   <string name="pref_title_system_mms_priority">Priorité de réception des MMS</string>
   <string name="pref_title_vcard">Envoyer via vCard</string>
   <string name="pref_title_wake_up_screen">Allumer l\'écran</string>
@@ -360,7 +364,6 @@
   <string name="replace_image">Remplacer l\'image</string>
   <string name="resent_message">Renvoyer</string>
   <string name="resize_image_error_information">L\'image redimensionnée est trop volumineuse pour être envoyée.</string>
-  <string name="restore_all_button_msg">Restaurer tous les messages de ce numéro</string>
   <string name="restore_blocked_message">Restaurer les messages bloqués</string>
   <string name="restore_to_phone_memory_failed">Impossible de restaurer vers la mémoire du téléphone !</string>
   <string name="restored_to_phone_memory">Restauré</string>
@@ -476,7 +479,6 @@
   <string name="sp_conversation_title">Messages de notification</string>
   <string name="title_collapse_sp_messages">Combiner les messages opérateur</string>
   <string name="pref_collapse_sp_messages_summary">Combine les messages envoyés par l\'opérateur sous la même entrée</string>
-  <string name="sp_mark_as_read_title">Tout marquer comme lus</string>
   <string name="sp_mark_as_read">Marquer tous les messages comme lus ?</string>
   <string name="sp_mark_as_read_progress">En cours…</string>
   <string name="feedback_description_hint">Veuillez saisir votre rapport, en anglais, ici</string>

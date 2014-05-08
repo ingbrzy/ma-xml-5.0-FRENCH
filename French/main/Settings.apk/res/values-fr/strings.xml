@@ -3932,11 +3932,12 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="menu_item_force_stop">Forcer l\'arrêt</string>
   <string name="menu_item_uninstall">Désinstaller</string>
   <string name="menu_item_app_details">Détails</string>
-  <string name="free_wifi_summary">Wi-Fi gratuit, fourni par %1$s</string>
+  <string name="free_wifi_summary">Appuyer pour se connecter à %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi disponible</string>
-  <string name="free_wifi_connect_summary">Ce réseau WiFi gratuit est fourni par %1$s. Appuyer pour se connecter.</string>
-  <string name="free_wifi_connect_dialog_title">Wi-Fi gratuit disponible</string>
-  <string name="free_wifi_connect_dialog_summary">Ce réseau WiFi gratuit %1$s est fourni par %2$s.</string>
+  <string name="free_wifi_connect_summary">Appuyer pour se connecter à %1$s.</string>
+  <string name="free_wifi_manage_summary">Afficher les détails du réseau %1$s.</string>
+  <string name="free_wifi_connect_dialog_summary">Ce réseau Wi-Fi %1$s est fourni par %2$s.</string>
+  <string name="free_wifi_connect_dialog_summary">%1$s est fourni par %2$s.</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_wifi_connect">Se connecter</string>
   <string name="free_wifi_connecting">Connexion…</string>
@@ -4196,7 +4197,10 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="incoming_call_breathing_light_freq_title">Fréquence de clignotement (appels)</string>
   <string name="notification_breathing_light_freq_title">Fréquence de clignotement (notifications)</string>
   <string name="mms_breathing_light_freq_title">Fréquence de clignotement (messages)</string>
-
+  <string name="button_text_known">OK, je le sais</string>
+  <string name="dialog_message_auto_start_tips">Certaines applications de sécurité peuvent incorrectement indiquer que MIUI empêche leur fonctionnement correct. Pour vérifier les permissions accordées aux applications, allez dans Paramètres > Applications.</string>
+  <string name="dialog_title_auto_start_tips">À propos des démarrages auto</string>
+ 
  <!-- à traduire 
   <string name="subs_settings">SUBS Status</string>
   <string name="app_ops_settings_summary">View or change app permissions</string>

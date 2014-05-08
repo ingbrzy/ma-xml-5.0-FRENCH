@@ -5,6 +5,7 @@
   <!-- removed 4.3.19:  -->
   <string name="resource_account_current">Compte : %1$s</string>
   <!-- -->
+  <string name="resource_delete">Supprimer</string>
   <string name="all_resources">Tout</string>
   <string name="all_ringtone_resource">Tout</string>
   <string name="app_name">Thèmes</string>

@@ -861,6 +861,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_pack_price_info">Original : %1$s</string>
   <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restants, veuillez les acheter individuellement.</string>
   <string name="resource_price_format">(%1$s)</string>
+  <string name="resource_delete">Supprimer</string>
   <string name="resource_price_free">Gratuit</string>
   <string name="resource_price_unit">" MiCredits"</string>
   <string name="resource_ranking">Populaires</string>

@@ -316,4 +316,6 @@ d MMMM yyyy"</string>
   <string name="settings_no_carrier">Aucun</string>
   <string name="settings_basic_settings">Paramètres basiques</string>
   <string name="settings_advanced">Paramètres avancés</string>
+  <string name="call_status_ringing">Sonnerie</string>
+  <string name="reject_call">Rejeter l\'appel</string>
 </resources>

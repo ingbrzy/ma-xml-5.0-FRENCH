@@ -328,7 +328,7 @@
   <string name="where_is_barcode">Où est le code QR ?</string>
   <string name="data_usage_warning">Alerte usage de données !</string>
   <string name="data_usage_warning_summary">L\'utilisation de votre connexion mobile pour écouter de la musique de haute qualité augmente de manière significative votre usage de données.</string>
-  <string name="enabled">Activé</string>
+  <string name="enabled">Activer</string>
   <string name="expired">Expiré</string>
   <string name="higher_quality_music">Musique de haute qualité</string>
   <string name="higher_quality_music_summary">Écoutez et téléchargez la musique de haute qualité</string>
@@ -348,11 +348,10 @@
   <string name="collect_fm_success">Ajouté aux favoris</string>
   <string name="uncollect_success">Favori supprimé</string>
   <string name="number_format" formatted="false">%s.%s</string>
-
+  <string name="not_now">Plus tard</string>
+  <string name="sync_alert_title">Paramètres de synchronisation</string>
+  <string name="sync_alert_message">Synchronisez vos chansons favorites entre plusieurs appareils en utilisant votre compte Xiaomi.</string>
  <!-- à traduire : 
-  <string name="sync_alert_title">Sync music</string>
-  <string name="sync_alert_message">Sync your favourite songs across devices with your Mi Account.</string>
-  <string name="not_now">Not now</string>
   <string name="sync_disable_toast">You can always enable sync later in Settings > Accounts > Mi Cloud</string>
   <string name="login_and_enable">Sign in and sync</string>
   <string name="sync_enable_toast">You can change this setting in Settings > Accounts > Mi Cloud</string>
