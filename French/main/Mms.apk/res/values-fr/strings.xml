@@ -427,9 +427,6 @@
   <string name="status_received">Reçu</string>
   <string name="status_rejected">Rejeté</string>
   <string name="status_unread">Non lu</string>
-  <string name="stick">Épingler</string>
-  <string name="stick_conversation">Épingler la conversation courante</string>
-  <string name="sticked_conversation">Déjà épinglée</string>
   <string name="storage_limits_activity">Limites de stockage</string>
   <string name="storage_limits_message">Limiter le nombre de messages enregistrés par conversation ?</string>
   <string name="storage_limits_setting">Définir les limites</string>
@@ -464,9 +461,12 @@
   <string name="undelivered_sms_dialog_body">Impossible d\'envoyer ce message.</string>
   <string name="unknown_num">Numéro inconnu</string>
   <string name="unknown_sender">Expéditeur inconnu</string>
+  <string name="stick">Épingler</string>
   <string name="unstick">Désépingler</string>
-  <string name="unstick_conversation">Détacher la conversation courante</string>
-  <string name="unsticked_conversation">Déjà détaché</string>
+  <string name="unstick_conversation">Désépingler la conversation</string>
+  <string name="stick_conversation">Épingler la conversation</string>
+  <string name="unsticked_conversation">Conversation épinglée</string>
+  <string name="sticked_conversation">Conversation désépinglée</string>
   <string name="unsupported_media_format">Format %1$s non compatible.</string>
   <string name="view">Afficher</string>
   <string name="view_bookmark">Voir le message original</string>
