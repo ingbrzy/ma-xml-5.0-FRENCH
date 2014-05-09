@@ -2,25 +2,39 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
-  <string name="alert_message_delete_record">Voulez-vous supprimer le ou les enregistrement(s) sélectionné(s) ?</string>
-  <string name="app_name">Dictaphone</string>
+<!-- removed in 4.5.6 -->
+  <string name="storage_is_full">Il n\'y a plus d\'espace libre</string>
+  <string name="max_length_reached">Durée maximale atteinte</string>
+  <string name="insert_sd_card">Carte SD requise</string>
   <string name="audio_db_album_name">Enregistrements audio</string>
   <string name="audio_db_artist_name">Vos enregistrements</string>
   <string name="audio_db_playlist_name">Mes enregistrements</string>
   <string name="audio_db_title_format">dd/MM/yyyy H:mm:ss</string>
+  <string name="error_mediadb_new_record">Impossible d\'enregistrer les fichiers audio enregistrés</string>
+  <string name="default_record_name">Enregistrement sans titre</string>
+  <string name="menu_view_record_list">Liste des enregistrements</string>
+  <string name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>
+  <string name="sd_card_not_available">La carte SD n\'est pas disponible</string>
+  <string name="open_file_explorer">Ouvrez l\'explorateur de fichiers</string>
+  <string name="mark_now">(En cours)</string>
+  <string name="call_record_or">ou</string>
+  <string name="dialog_play">Lire</string>
+  <string name="dialog_send">Envoyer</string>
+  <string name="dialog_warning">Attention</string>
+  <string name="unknown_caller">Appelant inconnu</string>
+  <string name="rename_illegal">Nom d\'enregistrement saisi incorrect, veuillez le renommer.</string>
+  <string name="sync_only_in_wifi_alert">Désactiver cette option peut augmenter votre consommation de données mobiles.</string>
+<!-- -->
+  <string name="alert_message_delete_record">Voulez-vous supprimer le ou les enregistrement(s) sélectionné(s) ?</string>
+  <string name="app_name">Dictaphone</string>
   <string name="back">Retour</string>
   <string name="button_ok">OK</string>
   <string name="call_record">Enregistrer l\'appel (%d)</string>
-  <string name="call_record_or">ou</string>
-  <string name="default_record_name">Enregistrement sans titre</string>
   <string name="delete">Supprimer</string>
   <string name="delete_dialog_message">Voulez-vous supprimer l\'enregistrement en cours ?</string>
   <string name="deleting_message">Suppression en cours…</string>
   <string name="dialog_content_storage_full">En raison du manque d\'espace de stockage, l\'enregistrement a été contraint d\'arrêter. Supprimez les fichiers inutiles par le biais de l\'explorateur de fichiers, voulez-vous l\'ouvrir maintenant ?</string>
-  <string name="dialog_play">Lire</string>
-  <string name="dialog_send">Envoyer</string>
   <string name="dialog_title_storage_full">Mémoire pleine</string>
-  <string name="dialog_warning">Attention</string>
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
@@ -28,18 +42,13 @@
   <string name="error_app_internal_title">Erreur du Dictaphone</string>
   <string name="error_filename_illegal_char">Le nom du fichier contient des caractères non autorisés.</string>
   <string name="error_filename_too_long">Nom de fichier trop long</string>
-  <string name="error_mediadb_new_record">Impossible d\'enregistrer les fichiers audio enregistrés</string>
   <string name="error_sdcard_access">Impossible d\'accéder au stockage externe ou interne</string>
   <string name="fm_record">Enregistrement FM (%d)</string>
   <string name="hour">%d heure(s)</string>
-  <string name="insert_sd_card">Carte SD requise</string>
   <string name="low_battery_error">La batterie est inférieure à 5%, pour s\'assurer que l\'enregistrement ne soit pas perdu il a été arrêté et sauvegardé.</string>
   <string name="low_battery_message_title">Batterie faible</string>
   <string name="low_battery_warning">Un arrêt inattendu peut causer la perte de l\'enregistrement, il est recommandé d\'enregistrer uniquement lorsque la batterie est complètement chargée.</string>
-  <string name="mark_now">(En cours)</string>
-  <string name="max_length_reached">Durée maximale atteinte</string>
   <string name="menu_settings">Paramètres</string>
-  <string name="menu_view_record_list">Liste des enregistrements</string>
   <string name="message_file_size_error">L\'enregistrement a atteint la taille d\'enregistrement maximum supportée par %s</string>
   <string name="minute">%d minute(s)</string>
   <string name="no_file">Aucun enregistrement</string>
@@ -47,8 +56,6 @@
   <string name="notification_recording">Enregistrement…</string>
   <string name="notification_stopped">Enregistrement stoppé</string>
   <string name="notification_warning">Espace libre faible (moins de %d minutes)</string>
-  <string name="open_file_explorer">Ouvrez l\'explorateur de fichiers</string>
-  <string name="overwrite_dialog_message">%s existe déjà. Voulez-vous l\'écraser ?</string>
   <string name="pause">Pause</string>
   <string name="play_record">Lecture</string>
   <string name="preference_enable_earpiece_summary">Utiliser le récepteur pour la lecture externe</string>
@@ -71,8 +78,6 @@
   <string name="rename">Renommer</string>
   <string name="rename_dialog_title">Renommer cet enregistrement</string>
   <string name="rename_duplicate">Nom d\'enregistrement saisi déjà existant, veuillez le renommer.</string>
-  <string name="rename_illegal">Nom d\'enregistrement saisi incorrect, veuillez le renommer.</string>
-  <string name="sd_card_not_available">La carte SD n\'est pas disponible</string>
   <string name="search_for_recordings_in_folders">Rechercher les dossiers pour les enregistrements</string>
   <string name="second">%d seconde(s)</string>
   <string name="send_to">Envoyer à</string>
@@ -82,11 +87,9 @@
   <string name="status_bar_recording">Enregistrement…</string>
   <string name="status_bar_recording_pause">L\'enregistrement a été mis en pause.</string>
   <string name="stop_recording">Arrêter l\'enregistrement</string>
-  <string name="storage_is_full">Il n\'y a plus d\'espace libre</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">%1$s peut enregistrer pendant %2$s</string>
   <string name="toast_uninstall_fileexplorer">L\'application \"Explorateur\" n\'est pas installée !</string>
-  <string name="unknown_caller">Appelant inconnu</string>
   <string name="view_list_of_recordings">Voir les enregistrements</string>
   <string name="record_list_fm">Enregistrements FM</string>
   <string name="record_list_call">Enregistrements d\'appels</string>
@@ -114,7 +117,6 @@
   <string name="sync_records">Synchroniser les enregistrements</string>
   <string name="sync_only_in_wifi">Wi-Fi uniquement</string>
   <string name="sync_only_in_wifi_summary">Si vous désactivez cette option le réseau mobile sera utilisé pour synchroniser vos enregistrements.</string>
-  <string name="sync_only_in_wifi_alert">Désactiver cette option peut augmenter votre consommation de données mobiles.</string>
   <string name="wifi_recommended_title">Rappel d\'utilisation</string>
   <string name="wifi_recommended_body">"À propos des téléchargements utilisant le réseau de votre opérateur :
 Télécharger le fichier peut entraîner des coûts élevés d\'échange de données."</string>

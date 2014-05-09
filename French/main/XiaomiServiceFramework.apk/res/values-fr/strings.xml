@@ -31,6 +31,13 @@
   <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Impossible de récupérer les infos de sécurité</string>
   <string name="activate_status_desc_acquire_sim_pass_token_password_error">Impossible de récupérer les infos de sécurité en raison de mauvais token</string>
  
+ <!-- removed in 4.5.8 -->
+  <string name="micloud_via_int_sms_alert">Le SMS d\activation est assujetti d\'être facturé au prix d\'un SMS international.</string>
+  <string name="micloud_via_sms_alert">Le SMS d\activation est assujetti d\'être facturé au prix d\'un SMS standard.</string>
+  <string name="sync_sub_dspt">Un SMS sera envoyé pour activer le service</string>
+  <string name="sync_sub_int_dspt">Un SMS international pourra être envoyé pour activer le service</string>
+  <string name="send_int_sms_for_sync_notice">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
+  <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
  <!-- -->
   <string name="access_denied">Accès refusé</string>
   <string name="access_token_expired_warning">Votre compte Weibo a expiré, veuillez le rattacher</string>
@@ -107,6 +114,9 @@
   <string name="find_device_notice_p1">Rendez-vous sur</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">pour localiser, verrouiller ou restaurer votre téléphone à distance.</string>
+ <!-- à traduire
+  <string name="find_device_notice_p4">Whenever the SIM card changes, a registration SMS may be sent to keep track of the phone</string>
+  -->
   <string name="find_device_success_title">Localisation de l\'appareil activé</string>
   <string name="find_password_on_web_msg">Veuillez visiter account.xiaomi.com pour récupérer votre mot de passe</string>
   <string name="forget_password"><u>Mot de passe oublié ?</u></string>
@@ -174,8 +184,6 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_resend_active_email">Renvoyer le mail d\'activation</string>
   <string name="micloud_summary">Se connecter au compte Xiaomi pour synchroniser les Contacts, la Galerie et d\'autres fonctions.</string>
   <string name="micloud_use_existing">Connexion</string>
-  <string name="micloud_via_int_sms_alert">Le SMS d\activation est assujetti d\'être facturé au prix d\'un SMS international.</string>
-  <string name="micloud_via_sms_alert">Le SMS d\activation est assujetti d\'être facturé au prix d\'un SMS standard.</string>
   <string name="mili_center">MiCredit</string>
   <string name="my_xiaomi_account">Compte Xiaomi</string>
   <string name="next">Suivant</string>
@@ -200,8 +208,6 @@ Vous pouvez faire autre chose…"</string>
   <string name="remove_unactivated_account_notice">Votre compte Xiaomi n\'as pas été activé.</string>
   <string name="removing_account">Suppression du compte…</string>
   <string name="restoreSync">Restaurer</string>
-  <string name="send_int_sms_for_sync_notice">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
-  <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
   <string name="send_sms_for_sync_title">Service de synchronisation non activé</string>
   <string name="service_error">Erreur de service</string>
   <string name="show_password">Afficher le MDP</string>
@@ -219,8 +225,6 @@ Vous pouvez faire autre chose…"</string>
   <string name="sync_dspt">Activer la synchronisation</string>
   <string name="sync_off">Désactivé</string>
   <string name="sync_on">Activé</string>
-  <string name="sync_sub_dspt">Un SMS sera envoyé pour activer le service</string>
-  <string name="sync_sub_int_dspt">Un SMS international pourra être envoyé pour activer le service</string>
   <string name="title_reg">Enregistrer un compte Xiaomi</string>
   <string name="trust_device">Appareil de confiance</string>
   <string name="unactivated_user">Le compte n\'a pas été activé</string>

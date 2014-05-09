@@ -705,7 +705,7 @@ la pièce jointe dépasse la limite autorisée"</string>
   <string name="no_matched_attachment">Pièce jointe introuvable !</string>
   <string name="validation_failed_prompt">La validation a échoué, veuillez configurer le serveur %s</string>
   <string name="time_error">Problème de temps</string>
- <!-- à traduire 4.4.6
+ <!-- à traduire ajouté dans 4.5.6, supprimé dans 4.5.8
   <string name="wait_for_sync_body_txt_array_1">Exchange Server will prompt you within</string>
   <string name="wait_for_sync_body_txt_array_2">1–30</string>
   <string name="wait_for_sync_body_txt_array_3">seconds.Please confirm the security setting and activate.Pay attention to</string>
