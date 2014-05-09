@@ -642,7 +642,7 @@ Vous pouvez maintenant transférer des fichiers"</item>
     <item>Refuser</item>
   </string-array>
   <string-array name="tethered_ipv6_entries">
-        <item>IPv4</item>
-        <item>IPv4 &amp; IPv6</item>
+    <item>IPv4</item>
+    <item>IPv4 &amp; IPv6</item>
   </string-array>
 </resources>
