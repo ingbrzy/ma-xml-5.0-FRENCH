@@ -38,8 +38,8 @@
   <string name="call_record_folder_name">Notes vocales</string>
   <string name="close">Fermer</string>
   <string name="default_folder_name">Notes</string>
-  <string name="dlg_desc_confirm_alarm_silent">L\'alarme et les notes ne sonneront pas en mode silencieux quand désactivé.</string>
-  <string name="dlg_title_confirm_alarm_silent">Voulez-vous réduire au silence les alarmes en mode silencieux ?</string>
+  <string name="dlg_desc_confirm_alarm_silent">Attention, si vous désactivez cette option, les alarmes et notes ne sonneront pas si le téléphone est en mode silencieux.</string>
+  <string name="dlg_title_confirm_alarm_silent">Confirmation</string>
   <string name="enable_sync">Synchroniser</string>
   <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Xiaomi %1$s, les synchroniser maintenant ?</string>
   <string name="error_contact_not_exist">Le contact n\'existe pas</string>

@@ -58,7 +58,6 @@
   <string name="defaultBookmarksUpButton">Favoris</string>
   <string name="dialog_geolocation_reject">Masquer la position</string>
   <string name="dialog_geolocation_share">Partager la position</string>
-  <string name="disable_autofill">Désactiver la saisie automatique</string>
   <string name="disk_space_available">%1$s disponible</string>
   <string name="disk_space_selected">%1$s sélectionné</string>
   <string name="disk_space_used">%1$s utilisé</string>
@@ -145,6 +144,7 @@
   <string name="no">Non</string>
 <!-- -->
 
+  <string name="disable_autofill">Désactiver la saisie automatique</string>
   <string name="MIUI_startpage">Page d\'accueil</string>
   <string name="accessibility_button_clear">Effacer la saisie</string>
   <string name="account">Compte</string>
