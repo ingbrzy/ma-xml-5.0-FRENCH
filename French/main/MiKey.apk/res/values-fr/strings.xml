@@ -96,6 +96,26 @@
     <string name="setting_instant_photo_text">Auto Focus</string>
     <string name="setting_instant_photo_desc">"Mise au point avant de prendre une photo"</string>
     <string name="setting_speed_desc">"Vitesse d\'appuie sur le bouton"</string>
-    <string name="setting_keeplive_desc">"Permettre à l\'application de s\'exécuter en arrière-plan. Peut augmenter la consommation de la batterie"</string>
+    <string name="setting_keeplive_desc">"Permettre à l\'application de s\'exécuter en arrière-plan.
+Peut augmenter la consommation de la batterie"</string>
     <string name="setting_vibrate_desc">"En retour, le téléphone émettra une vibration"</string>
+ <!-- setting_vibrate_desc à retraduire : 
+"The ability to feel the implementation of the functions are not repeated to give vibration feedback 
+The feedback function can not be delivered, such as "flash shot", "Mute" is through the vibration 
+Feedback implementation. 
+Users can use this switch to completely turn off the anti-vibration"
+ -->
+    <string name="close_recorder">Stopper l\'enregistrement</string>
+    <string name="file_delimiter">/</string>
+    <string name="notification_control_play">Lire</string>
+    <string name="notification_control_stop">Stop</string>
+    <string name="notification_recorder_file_location">Chemin d\'accès :</string>
+    <string name="notification_recorder_start">Démarrage de l\'enregistrement...</string>
+    <string name="sdcard">sdcard</string>
+    <string name="setting_silent_mode">Mode silencieux</string>
+<!-- à traduire 
+    <string name="showSlip">View drop-down</string>
+ -->
+    <string name="silent_mode_tip_main">Le bouton de basculement en mode silencieux est désactivé</string>
+    <string name="silent_mode_tip_sub">Veuillez l\'activer via les paramètres</string>
 </resources>
