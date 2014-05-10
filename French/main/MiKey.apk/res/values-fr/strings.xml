@@ -54,7 +54,7 @@
     <string name="select_device">Dispositif non détecté</string>
     <string name="times">clics</string>
     <string name="rank_prefix">"Classement : "</string>
-    <string name="rank_suffix">e position</string>
+    <string name="rank_suffix">" points"</string>
     <string name="no_usage">…</string>
     <string name="device_not_recognized">Erreur de reconnaissance, veuillez ré-insérer la MiKey</string>
     <string name="clean_memory">Nettoyage de la mémoire effectué</string>
