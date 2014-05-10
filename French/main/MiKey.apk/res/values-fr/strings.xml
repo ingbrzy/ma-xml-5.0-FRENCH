@@ -87,7 +87,7 @@
     <string name="action_zero_volume">Silencieux</string>
     <string name="settings">Paramètres</string>
     <string name="about">À propos</string>
-    <string name="setting_feedback">Retour d\'expérience</string>
+    <string name="setting_feedback">Retour haptique</string>
     <string name="setting_speed_slow">Lent</string>
     <string name="setting_speed_quick">Rapide</string>
     <string name="setting_speed_text">Vitesse</string>
