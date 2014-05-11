@@ -318,4 +318,6 @@ d MMMM yyyy"</string>
   <string name="settings_advanced">Paramètres avancés</string>
   <string name="call_status_ringing">Sonnerie</string>
   <string name="reject_call">Rejeter l\'appel</string>
+  <string name="cust_carrier_label_title">Éditer le nom de l\'opérateur</string>
+  <string name="cust_carrier_label_text_title">Saisie du nom de l\'opérateur</string>
 </resources>
