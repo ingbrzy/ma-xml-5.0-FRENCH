@@ -63,7 +63,7 @@
   <string name="answer_widget_title_miui">Geste de réponse</string>
   <string name="antispam_marked_count">Marqué par %1$d utilisateurs MIUI</string>
   <string name="antispam_marked_title">%1$s</string>
-  <string name="antispam_notification_title">Identif. numéros inconnus</string>
+  <string name="antispam_notification_title">Identification des numéros inconnus</string>
   <string name="antispam_provider">Identifié par %s</string>
   <string name="apn_settings">Noms des points d\'accès</string>
   <string name="areacode_required_accept_miui">OK</string>

@@ -75,8 +75,8 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="perm_privacy_app_finish">Terminer</string>
   <string name="perm_privacy_app_installed">Installation réussie !</string>
   <string name="perm_privacy_app_launch">Ouvrir</string>
-  <string name="perm_privacy_app_trust">Je fais confiance à cette application</string>
-  <string name="perm_privacy_app_trust_summary">MIUI suivra cette application</string>
+  <string name="perm_privacy_app_trust">Faire confiance à cette application</string>
+  <string name="perm_privacy_app_trust_summary">MIUI ne surveillera pas cette application</string>
   <string name="perm_sysopt_boost_auto_start">Autorisation de démarrage auto</string>
   <string name="perm_sysopt_boost_auto_start_summary">L\'application démarrera automatiquement !</string>
   <string name="privacy_relative">Autorisations de confidentialité</string>

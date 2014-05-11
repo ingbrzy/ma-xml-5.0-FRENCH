@@ -20,6 +20,13 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- supprimé dans 4.4.16 -->
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>"Afficher le message suivant après suppression d\'un message"</item>
+        <item>"Afficher le message précédent après suppression d\'un message"</item>
+        <item>"Afficher la liste des messages après suppression d\'un message"</item>
+    </string-array>
+<!-- -->
     <string-array name="compose_modes">
         <item>Répondre</item>
         <item>Répondre à tous</item>
