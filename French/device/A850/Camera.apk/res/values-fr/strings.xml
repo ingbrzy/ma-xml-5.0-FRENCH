@@ -364,7 +364,7 @@
   <string name="pref_camera_preview_entry_5000">5 secondes</string>
   <string name="access_phone_fail_no_product">Impossible d \'accéder au stockage interne.</string>
   <string name="access_sd_fail_no_product">Impossible d\'accéder à la carte SD."</string>
-  <string name="find_mecard_qrcode">Trouver un code QR de carte visiteur</string>
+  <string name="find_mecard_qrcode">Trouver un code QR de carte de visite</string>
   <string name="find_wechat_qrcode">Trouver un code QR WeChat</string>
   <string name="find_market_qrcode">Trouver un code QR du market</string>
   <string name="find_web_qrcode">Trouver un code QR de site Internet</string>
