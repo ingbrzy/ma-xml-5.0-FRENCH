@@ -753,11 +753,15 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="device_status_summary">Numéro de téléphone, signal, etc.</string>
   <string name="dialog_title_font_size">Taille de police</string>
   <string name="dirac_control">Contrôle Dirac</string>
-  <string name="dirac_mode_earbuds">Classiques</string>
   <string name="dirac_mode_general">Général</string>
-  <string name="dirac_mode_in_ear">Intra-auriculaires</string>
+  <string name="dirac_mode_general_earbuds">Écouteurs classiques</string>
+  <string name="dirac_mode_general_inear">Intra-auriculaires</string>
+  <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
+  <string name="dirac_mode_earbuds">Écouteurs Xiaomi</string>
+  <string name="dirac_mode_in_ear">Intra-aur. Xiaomi</string>
   <string name="dirac_mode_off">Dirac désactivé</string>
-  <string name="dirac_mode_piston_100">Piston Xiaomi</string>
+  <string name="dirac_mode_piston_100">Xiaomi Piston-1</string>
   <string name="dirac_switch_title">Utiliser l\'égaliseur MiSound</string>
   <string name="dirac_switch_summary">Toujours utiliser l\'égaliseur MiSound lors l\'utilisation d\'enceintes</string>
   <string name="disable_overlays">Désact. superpos. matérielle</string>
@@ -802,7 +806,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dndm_vip_call_summary_contact">Tous les contacts</string>
   <string name="dndm_vip_call_summary_custom">%d exception(s)</string>
   <string name="dndm_vip_call_summary_none">Touchez pour configurer</string>
-  <string name="dndm_vip_list_contact">Tous les Contacts</string>
+  <string name="dndm_vip_list_contact">Tous les contacts</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
   <string name="dndm_vip_list_custom_group">Exceptions</string>
   <string name="dndm_vip_list_group">Liste des exceptions</string>
@@ -1310,7 +1314,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="no_media_button_receiver">Non</string>
   <string name="no_nearby_wifi">Aucun réseau Wi-Fi proche détecté</string>
   <string name="no_running_services">Aucun service en cours</string>
-  <string name="no_services">Inactifs</string>
+  <string name="no_services">Inactif</string>
   <string name="noise_suppression">Suppression du bruit</string>
   <string name="normal_date_format">Format régional (%s)</string>
   <string name="not_installed">Non installée</string>
@@ -3409,7 +3413,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_center_custom_summary_default">Optimise les réglages, économise la batterie</string>
   <string name="power_center_custom_title">Économiser la batterie</string>
   <string name="power_center_low_battery_summary_default">Basculer de mode lorsque le niveau de\ncharge de la batterie est faible</string>
-  <string name="power_center_low_battery_summary_dynamic">Quand la batterie passe sous les  %1$d%%\nbasculer vers %2$s</string>
+  <string name="power_center_low_battery_summary_dynamic">Quand la batterie passe sous les: %1$d%%\nbasculer vers %2$s</string>
   <string name="power_center_low_battery_title">Basculer automatiquement</string>
   <string name="power_center_on_time_summary_default">Basculer de mode à une heure planifiée</string>
   <string name="power_center_on_time_summary_dynamic">De : %1$s à: %2$s basculer vers %3$s</string>
@@ -3432,10 +3436,10 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_chooser_user_define_title">Ajouter un profil personnalisé</string>
   <string name="power_consume_other">Autres</string>
   <string name="power_consume_rank_hardware">Matériel</string>
-  <string name="power_consume_rank_software">Applis</string>
+  <string name="power_consume_rank_software">Applications</string>
   <string name="power_consume_rank_title">Usage batterie</string>
   <string name="power_consume_total_hardware">Matériel : %1$d%%</string>
-  <string name="power_consume_total_software">Applis : %1$d%%</string>
+  <string name="power_consume_total_software">Applications : %1$d%%</string>
   <string name="power_customizer_cancel">Annuler</string>
   <string name="power_customizer_delete">Supprimer</string>
   <string name="power_customizer_my_mode">Personnalisé</string>
@@ -3928,11 +3932,12 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="menu_item_force_stop">Forcer l\'arrêt</string>
   <string name="menu_item_uninstall">Désinstaller</string>
   <string name="menu_item_app_details">Détails</string>
-  <string name="free_wifi_summary">Wi-Fi gratuit, fourni par %1$s</string>
+  <string name="free_wifi_summary">Appuyer pour se connecter à %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi disponible</string>
-  <string name="free_wifi_connect_summary">Ce réseau WiFi gratuit est fourni par %1$s. Appuyer pour se connecter.</string>
-  <string name="free_wifi_connect_dialog_title">Wi-Fi gratuit disponible</string>
-  <string name="free_wifi_connect_dialog_summary">Ce réseau WiFi gratuit %1$s est fourni par %2$s.</string>
+  <string name="free_wifi_connect_summary">Appuyer pour se connecter à %1$s.</string>
+  <string name="free_wifi_manage_summary">Afficher les détails du réseau %1$s.</string>
+  <string name="free_wifi_connect_dialog_title">Wi-Fi disponible</string>
+  <string name="free_wifi_connect_dialog_summary">%1$s est fourni par %2$s.</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_wifi_connect">Se connecter</string>
   <string name="free_wifi_connecting">Connexion…</string>
@@ -3982,7 +3987,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="notification_button_text_of_low_memory">Nettoyer</string>
   <string name="notification_title_of_low_memory">Espace de stockage faible, %s utilisés</string>
   <string name="notification_summary_of_low_memory">Impossible d\'installer de nouvelles applis lorsque l\'espace est faible</string>
-  <string name="power_20s_enter_mode">%1$ds basculer vers le mode %2$s</string>
+  <string name="power_20s_enter_mode">Mode %2$s dans %1$ds</string>
   <string name="power_notify_lowbattery">Si le niveau de charge est inférieur à %1$d%%</string>
   <string name="power_recovery_mode">Retour au mode %1$s</string>
   <string name="power_subtitle_lowbattery">Économie d\'énergie auto. quand le niveau de charge est faible</string>
@@ -4192,7 +4197,10 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="incoming_call_breathing_light_freq_title">Fréquence de clignotement (appels)</string>
   <string name="notification_breathing_light_freq_title">Fréquence de clignotement (notifications)</string>
   <string name="mms_breathing_light_freq_title">Fréquence de clignotement (messages)</string>
-
+  <string name="button_text_known">OK, je le sais</string>
+  <string name="dialog_message_auto_start_tips">Certaines applications de sécurité peuvent incorrectement indiquer que MIUI empêche leur fonctionnement correct. Pour vérifier les permissions accordées aux applications, allez dans Paramètres > Applications.</string>
+  <string name="dialog_title_auto_start_tips">À propos des démarrages auto</string>
+ 
  <!-- à traduire 
   <string name="subs_settings">SUBS Status</string>
   <string name="app_ops_settings_summary">View or change app permissions</string>

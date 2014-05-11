@@ -58,7 +58,6 @@
   <string name="defaultBookmarksUpButton">Favoris</string>
   <string name="dialog_geolocation_reject">Masquer la position</string>
   <string name="dialog_geolocation_share">Partager la position</string>
-  <string name="disable_autofill">Désactiver la saisie automatique</string>
   <string name="disk_space_available">%1$s disponible</string>
   <string name="disk_space_selected">%1$s sélectionné</string>
   <string name="disk_space_used">%1$s utilisé</string>
@@ -145,6 +144,7 @@
   <string name="no">Non</string>
 <!-- -->
 
+  <string name="disable_autofill">Désactiver la saisie automatique</string>
   <string name="MIUI_startpage">Page d\'accueil</string>
   <string name="accessibility_button_clear">Effacer la saisie</string>
   <string name="account">Compte</string>
@@ -717,15 +717,13 @@
   <string name="save_image_failed">"Échec de l'enregistrement de l'image"</string>
   <string name="js_disable_confirm_title">Désactiver le JavaScript ?</string>
   <string name="js_disable_confirm_message">La désactivation du JavaScript peut causer l\'affichage incorrect de certains sites web</string>
-<!--à traduire
-  <string name="cloud_tab">Cloud Tab</string>
-  <string name="sync_item_browser_title">Sync browser</string>
-  <string name="sync_item_browser_summary">Sync data to your cloud, and make using browser on different devices easy</string>
-  <string name="sub_sync_item_browser_title_history">Sync history</string>
-  <string name="sub_sync_item_browser_title_history_summary">Sync history of browser</string>
-  <string name="sub_sync_item_browser_title_novel">Sync novels</string>
-  <string name="sub_sync_item_browser_title_novel_summary">Sync novels of browser</string>
-  <string name="sub_sync_item_browser_title_cloud_tab">Sync tabs</string>
-  <string name="sub_sync_item_browser_title_cloud_tab_summary">Sync open tabs of browser on different devices</string>
- -->  
+  <string name="cloud_tab">Onglet Cloud</string>
+  <string name="sync_item_browser_title">Synchroniser le navigateur</string>
+  <string name="sync_item_browser_summary">Synchroniser les données sur le cloud pour utiliser le navigateur sur différents appareils facilement</string>
+  <string name="sub_sync_item_browser_title_history">Synchroniser l\'historique</string>
+  <string name="sub_sync_item_browser_title_history_summary">Synchroniser l\'historique du navigateur</string>
+  <string name="sub_sync_item_browser_title_novel">Synchroniser les nouvelles</string>
+  <string name="sub_sync_item_browser_title_novel_summary">Synchroniser les nouvelles du navigateur</string>
+  <string name="sub_sync_item_browser_title_cloud_tab">Synchroniser les onglets</string>
+  <string name="sub_sync_item_browser_title_cloud_tab_summary">Synchroniser les onglets ouverts du navigateur sur les autres appareils</string>
 </resources>

@@ -637,10 +637,12 @@ Vous pouvez maintenant transférer des fichiers"</item>
     <item>Afficher couleurs de zones adaptées à deutéranomalie</item>
     <item>Afficher le compteur des conflits</item>
   </string-array>
-  <!-- temporary fix "&amp;amp;" EN arrays.xml -->
-  <string-array name="tethered_ipv6_entries">
-        <item>IPv4</item>
-        <item>IPv4 &amp; IPv6</item>
+  <string-array name="perm_disable_keyguard_action">
+    <item>Autoriser</item>
+    <item>Refuser</item>
   </string-array>
-
+  <string-array name="tethered_ipv6_entries">
+    <item>IPv4</item>
+    <item>IPv4 &amp; IPv6</item>
+  </string-array>
 </resources>

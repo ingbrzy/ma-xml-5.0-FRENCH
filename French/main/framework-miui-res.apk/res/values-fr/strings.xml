@@ -9,7 +9,7 @@
   <string name="android_lockscreen_glogin_instructions">Pour déverrouiller, connectez-vous avec votre compte</string>
   <string name="app_no_notification">Masquer les notifications</string>
   <string name="app_notificaiton_on_notificationBar">Menu déroulant</string>
-  <string name="app_notificaiton_on_statusBar_and_notificationBar">Barre d\'état et menu déroulant</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Barre d\'état et\nmenu déroulant</string>
   <string name="callNoAnswerTimeFormat">A sonné %s fois</string>
   <string name="call_record_or">ou</string>
   <string name="call_record_sample_prefix_miui">Appel</string>
@@ -78,30 +78,28 @@ Réessayer dans %d secondes."</string>
   <string name="lockscreen_unlock_sim_via_puk">Entrez le code PUK pour déverrouiller la carte SIM</string>
   <string name="login_website_in_case_forget_password">Veuillez aller sur http://i.xiaomi.com afin de réinitialiser votre mot de passe</string>
   <string name="lunar_calendar">Calendrier lunaire</string>
-  <!-- lunar_ à traduire éventuellement..
-  <string name="lunar_ba"/>
-  <string name="lunar_chu"/>
-  <string name="lunar_chu_shi"/>
-  <string name="lunar_er"/>
-  <string name="lunar_er_shi"/>
-  <string name="lunar_jiu"/>
-  <string name="lunar_leap"/>
-  <string name="lunar_ling"/>
-  <string name="lunar_liu"/>
-  <string name="lunar_nian"/>
-  <string name="lunar_qi"/>
-  <string name="lunar_san"/>
-  <string name="lunar_san_shi"/>
-  <string name="lunar_shi"/>
-  <string name="lunar_shi_er"/>
-  <string name="lunar_shi_yi"/>
-  <string name="lunar_si"/>
-  <string name="lunar_wu"/>
-  <string name="lunar_year"/>
-  <string name="lunar_yi"/>
-  <string name="lunar_yue"/>
-  <string name="lunar_zheng"/>
-   -->
+  <string name="lunar_ba">Coq</string>
+  <string name="lunar_chu">Nouvel An</string>
+  <string name="lunar_chu_shi">Grand commencement</string>
+  <string name="lunar_er">Lapin</string>
+  <string name="lunar_er_shi">Vingt</string>
+  <string name="lunar_jiu">Chien</string>
+  <string name="lunar_leap">Bissextile</string>
+  <string name="lunar_ling">0</string>
+  <string name="lunar_liu">Chèvre</string>
+  <string name="lunar_nian">Nouvel An</string>
+  <string name="lunar_qi">Saint-Valentin</string>
+  <string name="lunar_san">Dragon</string>
+  <string name="lunar_san_shi">Trente</string>
+  <string name="lunar_shi">Cochon</string>
+  <string name="lunar_shi_er">Bœuf</string>
+  <string name="lunar_shi_yi">Onze</string>
+  <string name="lunar_si">Serpent</string>
+  <string name="lunar_wu">Cheval</string>
+  <string name="lunar_year">Ère commune</string>
+  <string name="lunar_yi">Rat</string>
+  <string name="lunar_yue">Coq</string>
+  <string name="lunar_zheng">Tigre</string>
   <string name="memory_clear_nothing_result">Pas de mémoire à libérer</string>
   <string name="memory_clear_result">"%1$so libérés | %2$so disponible"</string>
   <string name="minutes">%d minutes</string>
@@ -222,7 +220,23 @@ Réessayer dans %d secondes."</string>
   <string name="v5_date_time_picker_dialog_title">Régler l\'heure de rappel</string>
   <string name="text_copied">Texte copié vers le presse-papier</string>
   <string name="text_cut">Texte coupé</string>
-
+  <string name="sync_data_msg_seperate">", "</string>
+  <string name="sync_data_notes">notes</string>
+  <string name="sync_data_contact">contacts</string>
+  <string name="sync_data_mms">SMS</string>
+  <string name="sync_data_call_log">enregist. d\'appels</string>
+  <string name="sync_data_cloud_album">albums cloud</string>
+  <string name="sync_data_recover_warning_cancel">Annuler</string>
+  <string name="sync_data_merge_warning_cancel">Annuler</string>
+  <string name="sync_data_merge_warning_ok">Fusionner</string>
+  <string name="sync_data_recover_warning_ok">Restaurer</string>
+ <!-- à traduire
+  <string name="sync_data_merge_warning_desc">Data of %s in your phone will be merged with the cloud data unrecoverable, please be careful!</string>
+  <string name="sync_data_recover_warning_title">Data Recovery Warning</string>
+  <string name="sync_data_recover_warning_desc">Data of %s in your phone will be recovered from the cloud, please be careful!</string>
+  <string name="sync_data_loading">Retrieving information from server</string>
+  <string name="sync_data_merge_warning_title">Data Merge Warning</string>
+ -->
   <string name="autumn_begins">Début de l\'Automne</string>
   <string name="autumn_equinox">Équinoxe d\'Automne</string>
   <string name="clear_and_bright">Clair et lumineux</string>

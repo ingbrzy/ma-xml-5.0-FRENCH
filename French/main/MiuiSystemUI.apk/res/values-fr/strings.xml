@@ -187,7 +187,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screenshot_saving_title">Enregistrement de la capture d\'écran…</string>
   <string name="settings_all_app_display_loading">Chargement, veuillez patienter…</string>
   <string name="settings_custom_notification">Gérer les notifications</string>
-  <string name="settings_expandable_under_keyguard">Extensible sous écran de verr.</string>
+  <string name="settings_expandable_under_keyguard">Extensible quand l\'écran est verrouillé</string>
   <string name="settings_notification_bar">Menu déroulant</string>
   <string name="settings_notification_icon">Notifications de la barre d\'état</string>
   <string name="settings_show_flow_info">Afficher infos. du trafic</string>
@@ -309,11 +309,15 @@ d MMMM yyyy"</string>
   <string name="user_guide_for_toggle">La liste d\'activation peut défiler horizontalement</string>
   <string name="user_guide_for_toggle_list">Appuyez ici pour modifier les paramètres d\'activation/désactivation</string>
   <string name="status_bar_and_notification_bar">Notifications et barre d\'état</string>
-  <string name="settings_show_screenshot_notification">Afficher notif. de capture d\'écran</string>
+  <string name="settings_show_screenshot_notification">Afficher une notif. de capture d\'écran</string>
   <string name="settings_show_carrier">Afficher le nom de l\'opérateur</string>
   <string name="settings_show_carrier_summary">Uniquement sur l\'écran de verrouillage</string>
   <string name="settings_custom_carrier">Éditer le nom de l\'opérateur</string>
   <string name="settings_no_carrier">Aucun</string>
   <string name="settings_basic_settings">Paramètres basiques</string>
   <string name="settings_advanced">Paramètres avancés</string>
+  <string name="call_status_ringing">Sonnerie</string>
+  <string name="reject_call">Rejeter l\'appel</string>
+  <string name="cust_carrier_label_title">Éditer le nom de l\'opérateur</string>
+  <string name="cust_carrier_label_text_title">Saisie du nom de l\'opérateur</string>
 </resources>

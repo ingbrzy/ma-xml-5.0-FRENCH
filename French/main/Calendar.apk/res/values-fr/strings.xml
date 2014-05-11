@@ -235,7 +235,6 @@
   <string name="widget_events">Événements à venir</string>
   <string name="widget_no_events">Aucun événement à venir</string>
   <string name="widget_select_style">Sélectionner le style de widget</string>
-  <string name="activity_summary">Loterie 10 yuan</string>
  <!-- work_day_indication rest_day_indication blank space to remove smileys :) :( -->
   <string name="work_day_indication">" "</string>
   <string name="rest_day_indication">" "</string>

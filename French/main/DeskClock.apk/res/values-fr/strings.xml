@@ -90,7 +90,7 @@
   <string name="never">Jamais</string>
   <string name="pause">Pause</string>
   <string name="remind_ringtone">Sonnerie</string>
-  <string name="reset">RÀZ</string>
+  <string name="reset">Réinitialiser</string>
   <string name="revert">Annuler</string>
   <string name="set_alarm">Régler l\'alarme</string>
   <string name="settings">Paramètres</string>
@@ -107,11 +107,11 @@
   <string name="system_time_setting">Paramètres</string>
   <string name="time">Heure</string>
   <string name="timer_alert_alert_silenced">Minuteur arrêté après %d minutes.</string>
-  <string name="timer_continue">Continuer</string>
+  <string name="timer_continue">Reprendre</string>
   <string name="timer_got_it">OK</string>
-  <string name="timer_message">Temps de %1$d minute(s) écoulé</string>
-  <string name="timer_message_with_hour">Temps de %1$d heure(s) et %2$d minute(s) écoulé</string>
-  <string name="timer_start_alarm">Démarrer le minuteur</string>
+  <string name="timer_message">Le délai de %1$d minute(s) est écoulé</string>
+  <string name="timer_message_with_hour">Le délai de %1$d heure(s) et %2$d minute(s) est écoulé</string>
+  <string name="timer_start_alarm">Temps écoulé !</string>
   <string name="timer_title">Minuteur</string>
   <string name="timezone_exist_error_message">Échec de l\'opération, le fuseau horaire semble déjà exister.</string>
   <string name="volume_button_setting_summary">Définir les actions de ces boutons lorsqu\'ils sont utilisés pendant une alarme</string>

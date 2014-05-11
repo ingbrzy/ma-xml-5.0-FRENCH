@@ -54,7 +54,7 @@
     <string name="select_device">Dispositif non détecté</string>
     <string name="times">clics</string>
     <string name="rank_prefix">"Classement : "</string>
-    <string name="rank_suffix">e position</string>
+    <string name="rank_suffix">" points"</string>
     <string name="no_usage">…</string>
     <string name="device_not_recognized">Erreur de reconnaissance, veuillez ré-insérer la MiKey</string>
     <string name="clean_memory">Nettoyage de la mémoire effectué</string>
@@ -82,30 +82,40 @@
     <string name="select_camera">Veuillez sélectionner la caméra</string>
     <string name="front_camera">Capteur frontal</string>
     <string name="back_camera">Capteur arrière</string>
-    <string name="write_pic_fail">Erreur, impossible d\'enregistrer de la photo</string>
+    <string name="write_pic_fail">Erreur, impossible d\'enregistrer la photo</string>
     <string name="task_title_prefix">"N) "</string>
     <string name="action_zero_volume">Silencieux</string>
     <string name="settings">Paramètres</string>
     <string name="about">À propos</string>
-    <string name="setting_feedback">Retour d\'expérience</string>
+    <string name="setting_feedback">Retour haptique</string>
     <string name="setting_speed_slow">Lent</string>
     <string name="setting_speed_quick">Rapide</string>
     <string name="setting_speed_text">Vitesse</string>
     <string name="setting_keeplive_text">Exécuter en arrière-plan</string>
-<!-- à traduire
-    <string name="setting_vibrate_text">闪拍、静音功能的振动反馈</string>
-    <string name="setting_instant_photo_text">闪拍对焦</string>
-    <string name="setting_instant_photo_desc">"闪拍对焦会影响到闪拍的速度，开启能够得到
-锐利的图像,但拍摄的时间会稍微变长。"</string>
-    <string name="setting_speed_desc">"速度调快,优点是“单击”的反应速度更快,缺点是“连击”
-的成功率下降。
-速度调慢,优点是“连击”的成功率会提高,缺点是“单击”
-的反应速度会变慢。"</string>
-    <string name="setting_keeplive_desc">"实时待命模式下,米键会一直保持快速相应的状态。
-但这会比较的耗电,请根据使用场景酌情开启。"</string>
-    <string name="setting_vibrate_desc">"能够感受到执行情况的功能，不再重复给予振动反馈
-而无法传递反馈的功能，如“闪拍”“静音”则会通过振动
-反馈执行情况。
-用户可以通过此开关，彻底关闭振动反馈。"</string>
--->
+    <string name="setting_vibrate_text">Vibrer</string>
+    <string name="setting_instant_photo_text">Auto Focus</string>
+    <string name="setting_instant_photo_desc">"Mise au point avant de prendre une photo"</string>
+    <string name="setting_speed_desc">"Vitesse d\'appuie sur le bouton"</string>
+    <string name="setting_keeplive_desc">"Permettre à l\'application de s\'exécuter en arrière-plan.
+Peut augmenter la consommation de la batterie"</string>
+    <string name="setting_vibrate_desc">"En retour, le téléphone émettra une vibration"</string>
+ <!-- setting_vibrate_desc à retraduire : 
+"The ability to feel the implementation of the functions are not repeated to give vibration feedback 
+The feedback function can not be delivered, such as "flash shot", "Mute" is through the vibration 
+Feedback implementation. 
+Users can use this switch to completely turn off the anti-vibration"
+ -->
+    <string name="close_recorder">Stopper l\'enregistrement</string>
+    <string name="file_delimiter">/</string>
+    <string name="notification_control_play">Lire</string>
+    <string name="notification_control_stop">Stop</string>
+    <string name="notification_recorder_file_location">Chemin d\'accès :</string>
+    <string name="notification_recorder_start">Démarrage de l\'enregistrement...</string>
+    <string name="sdcard">sdcard</string>
+    <string name="setting_silent_mode">Mode silencieux</string>
+<!-- à traduire 
+    <string name="showSlip">View drop-down</string>
+ -->
+    <string name="silent_mode_tip_main">Le bouton de basculement en mode silencieux est désactivé</string>
+    <string name="silent_mode_tip_sub">Veuillez l\'activer via les paramètres</string>
 </resources>

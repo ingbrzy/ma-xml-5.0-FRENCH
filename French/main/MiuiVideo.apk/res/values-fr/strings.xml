@@ -2,6 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- removed in 4.5.6 -->
+  <string name="live_tabs_hot">Populaire</string>
+<!-- -->
   <string name="about_app_name">Lecteur vidéo</string>
   <string name="about_developer_label">Développeur</string>
   <string name="about_developer_name">XiaoMi Inc.</string>
@@ -183,9 +186,9 @@ la vidéo sur votre box ou TV"</string>
   <string name="myfavorite">Favoris</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="live_title">Direct</string>
-  <string name="live_tabs_hot">Populaire</string>
-  <string name="live_tabs_all">Voir tout</string>
-  <string name="live_tabs_choice">Sélection</string>
+  <string name="live_tabs_my">Ma chaine</string>
+  <string name="live_tabs_all">Chaines</string>
+  <string name="live_tabs_choice">Programmes</string>
   <string name="live_pending_symbol">" "<CDATA>Chargement </CDATA>" "</string>
   <string name="manage">Gérer</string>
   <string name="finish">Finir</string>
@@ -212,7 +215,10 @@ la vidéo sur votre box ou TV"</string>
   <string name="check_network">Impossible de se connecter, vérifiez vos paramètres réseaux</string>
   <string name="reloading_tip">Impossible de se connecter au réseau</string>
   <string name="retry">Réessayer</string>
-  
+  <string name="null_category">inconnu</string>
+  <string name="null_videoname">inconnu</string>
+  <string name="top_null_videoname">nom de la vidéo inconnu</string>
+
  <!-- FIX; cn to en-->
   <string name="variety">Variety</string>
   <string name="subchannel_all">All</string>

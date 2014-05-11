@@ -11,7 +11,6 @@
         <item>Sélection auto</item>
         <item>Supprimer</item>
     </string-array>
-  <!-- à traduire :
     <string-array name="search_category_rbds_entries">
         <item>Toutes les Stations</item>
         <item>Hits pour adultes</item>
@@ -20,11 +19,11 @@
         <item>Collège</item>
         <item>Country</item>
         <item>Urgence</item>
-        <item>Urgence Test</item>
+        <item>Test Urgence</item>
         <item>Langue étrangère</item>
         <item>Information</item>
         <item>Jazz</item>
-        <item>News</item>
+        <item>Actualités</item>
         <item>Nostalgie</item>
         <item>Anciens succès</item>
         <item>Personnalité</item>
@@ -34,7 +33,7 @@
         <item>Rhythm\'n\'Blues</item>
         <item>Rock</item>
         <item>Doux</item>
-        <item>Rock doux Rock</item>
+        <item>Rock doux</item>
         <item>Rhythm\'n\'Blues doux</item>
         <item>Sports</item>
         <item>Discussions</item>
@@ -75,7 +74,6 @@
         <item>Varié</item>
         <item>Météo</item>
     </string-array>
-  -->
     <string-array name="regional_band_entries">
         <item>Amérique du Nord</item>
         <item>Europe</item>
@@ -152,20 +150,18 @@
         <item>Royaume-Uni (87.5MHz à 108.0MHz - 100 Khz par étape)</item>
         <item>États-Unis (88.1MHz à 107.9MHz - 200 Khz par étape)</item>
     </string-array>
- <!-- à traduire :
     <string-array name="rf_cfg">
-        <item>Get Current Station Parameters</item>
-        <item>Get Station Parameters Repeat 20 times</item>
-        <item>Get Search station parameters</item>
-        <item>Get FM Band sweep parameters</item>
+        <item>Paramètres de la station actuelle</item>
+        <item>Paramètres de la station actuelle répété 20 fois</item>
+        <item>Paramètres de recherche de la station</item>
+        <item>Paramètres de balayage de la bande FM</item>
         <item>Configurer les paramètres de recherche FM</item>
     </string-array>
     <string-array name="cfg_rf">
-        <item>Set FM RSSI Delta</item>
-        <item>Set Signal Threshold</item>
+        <item>FM RSSI Delta</item>
+        <item>Seuil de signal</item>
         <item>Statistiques RF</item>
     </string-array>
-  -->
     <string-array name="stats_options">
         <item>Sélectionner le paramètre</item>
         <item>Configurer les paramètres de recherche FM</item>
