@@ -112,7 +112,7 @@
   <string name="file_size">Taille fichier</string>
   <string name="find_cloud_album">Trouver un code QR d\'album cloud</string>
   <string name="find_market_qrcode">Trouver un code QR du market</string>
-  <string name="find_mecard_qrcode">Trouver un code QR de carte visiteur</string>
+  <string name="find_mecard_qrcode">Trouver un code QR de carte de visite</string>
   <string name="find_other_qrcode">Trouver un code QR</string>
   <string name="find_qq_qrcode">Trouver un code QR QQ</string>
   <string name="find_web_qrcode">Trouver un code QR de site Internet</string>
