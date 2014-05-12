@@ -1331,7 +1331,6 @@ Appuyez sur OK pour continuer."</string>
   <string name="simContacts_airplaneMode">Pour importer des contacts depuis la carte SIM, désactivez tout d\'abord le mode Avion.</string>
   <string name="simContacts_empty">Aucun contact n\'a été trouvé sur votre carte SIM.</string>
   <string name="simContacts_emptyLoading">Lecture de la carte SIM…</string>
-  <string name="simContacts_title">Sélection des contacts à importer</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Tout désélectionner</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Tout sélectionner</string>
   <string name="sim_contact_name_miui">Nom</string>
@@ -1541,7 +1540,6 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="lable_disable">Désactiver</string>
   <string name="lable_enable">Activer</string>
   <string name="old_password_label">Ancien mot de passe (4 chiffres)</string>
-  <string name="new_password_label">Nouveau mot de passe (4 chiffres)</string>
   <string name="invalid_password">Veuillez saisir 4 chiffres.</string>
   <string name="confirm_password_label">Confirmer le nouveau mot de passe</string>
   <string name="mismatch_password">Les mots de passe saisis ne correspondent pas. Veuillez essayer de nouveau.</string>
