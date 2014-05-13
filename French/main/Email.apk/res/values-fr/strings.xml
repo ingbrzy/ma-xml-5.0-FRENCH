@@ -875,7 +875,7 @@
   <string name="request_entity_large">Fichier trop volumineux !</string>
   <string name="outbox_alert_title_sent_failed">Erreur, e-mail non envoyé</string>
   <string name="outbox_alert_description_sent_failed">"Cause : la taille de la 
-la pièce jointe dépasse la limite autorisée"</string>
+pièce jointe dépasse la limite autorisée"</string>
   <string name="blank_feedback_toast">Le rapport est vide, veuillez en écrire un !</string>
   <string name="ApplicationIconMore99">99+</string>
   <string name="please_fill_in_your_mailbox_information">Veuillez remplir les informations liées à votre compte e-mail :</string>
@@ -888,7 +888,7 @@ la pièce jointe dépasse la limite autorisée"</string>
   <string name="wait_for_sync_body_2">Une demande du serveur exchange vous sera faite dans moins de 30 secondes. Veuillez confirmer puis activer les paramètres de sécurité et faire attention aux alertes système.</string>
   <string name="prompt_title">Invite</string>
   <string name="account_set_up_change_type_note">Si vous souhaitez permuter entre POP3 et IMAP, vous devez d\'abord supprimer le compte puis le reconfigurer.</string>
-  <string name="download_complete_not_cancel">Téléchargement terminé, annulation impossible!</string>
+  <string name="download_complete_not_cancel">Téléchargement terminé, annulation impossible !</string>
   <string name="select_no_file">Aucune pièce jointe n\'a été sélectionnée</string>
   <string name="download_before_sharing">" n'est pas encore téléchargé, veuillez patienter jusqu'à la fin avant de pouvoir le partager !"</string>
   <string name="no_matched_attachment">Pièce jointe introuvable !</string>

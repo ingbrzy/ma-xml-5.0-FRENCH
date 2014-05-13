@@ -101,7 +101,7 @@
   <string name="notify_after_download">Notifier après le téléchargement</string>
   <string name="notify_after_restore">Notifier après la restauration</string>
   <string name="ok">OK</string>
-  <string name="online_file">Kuaipan</string>
+  <string name="online_file">KuaiPan</string>
   <string name="only_support_single_share">Seulement le partage d\'un fichier à la fois est supporté !</string>
   <string name="open">Ouvert</string>
   <string name="operation_delete">Supprimer</string>
@@ -141,7 +141,7 @@
   <string name="retry">Réessayer</string>
   <string name="retry_in_good_network">Veuillez réessayer lorsque la connexion réseau sera meilleure</string>
   <string name="retry_to_load_file_info">Actualiser les informations du fichier ?</string>
-  <string name="save_to_kuaipan">Enregistrer sur Kuaipan</string>
+  <string name="save_to_kuaipan">Enregistrer sur KuaiPan</string>
   <string name="scan_2d_code">Scanner un code 2D</string>
   <string name="scan_file">Parcourir les fichiers</string>
   <string name="scan_tip">"Assurez-vous que le receveur a activé la connexion
@@ -209,7 +209,7 @@ et peut recevoir des fichiers"</string>
   <string name="voice_match">Couplage automatique…</string>
   <string name="wait_for_upload">En attente, envoi en cours</string>
   <string name="wait_for_upload_to_download">En attente, téléchargement en cours. Veuillez patienter, les fichiers seront téléchargés automatiquement</string>
-  <string name="wait_for_upload_to_restore">En attente de reprise de l\'envoi vers Kuaipan.</string>
+  <string name="wait_for_upload_to_restore">En attente de reprise de l\'envoi vers KuaiPan.</string>
   <string name="wait_login">En attente d\'identification</string>
   <string name="wait_net">En attente du réseau</string>
   <string name="wait_sdcard">En attente de la carte SD</string>

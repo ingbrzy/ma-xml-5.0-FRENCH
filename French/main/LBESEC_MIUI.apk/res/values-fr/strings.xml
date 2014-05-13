@@ -204,8 +204,8 @@
   <string name="HIPS_Perm_Settings_Desc">Modifier les paramètres système</string>
   <string name="HIPS_Perm_Settings_Hint">%1$s applis peuvent modifier les paramètres système</string>
   <string name="HIPS_Perm_Settings_Modify">Modifier les paramètres système</string>
-  <string name="HIPS_Perm_WIFI_Connectivity">Utiliser le WIFI</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">Utiliser la connexion WIFI</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Utiliser le Wi-Fi</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">Utiliser la connexion Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s applis peuvent utiliser le Wi-Fi</string>
   <string name="HIPS_Perm_AudioRecorder">Enregistrements Audio</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">Appels locaux et enregistrements audio</string>

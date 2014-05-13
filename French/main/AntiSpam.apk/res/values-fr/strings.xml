@@ -245,5 +245,5 @@
   <string name="ad_install_monitor">Installer le moniteur</string>
   <string name="ad_install_monitor_hint">vérifier la présence de publiciels lors de l\'installation d\'applications</string>
   <string name="ad_update_setting">Mettre à jour les paramètres d\'ajouts de blocage</string>
-  <string name="menu_wh_remove">supprimer de la liste blanche</string>
+  <string name="menu_wh_remove">Supprimer de la liste blanche</string>
 </resources>

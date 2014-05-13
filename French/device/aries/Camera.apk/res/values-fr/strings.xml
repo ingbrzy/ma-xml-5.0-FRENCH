@@ -39,7 +39,7 @@
   <string name="confirm_change_mode_title">Changer de mode</string>
   <string name="confirm_change_to_expert_mode_message">Passer en mode professionnel ?</string>
   <string name="confirm_change_to_simple_mode_message">Basculer vers le mode simple ?</string>
-  <string name="confirm_location_message">Le Mi2 permet d\'enregistrer vos informations de localisation, souhaitez-vous activer les services de localisation ?</string>
+  <string name="confirm_location_message">Cet appareil permet d\'enregistrer vos informations de localisation, souhaitez-vous activer les services de localisation ?</string>
   <string name="confirm_restore_message">Les réglages de la caméra seront restaurés aux valeurs par défaut.</string>
   <string name="confirm_restore_title">Restaurer les paramètres par défaut</string>
   <string name="connect_wifi">Se connecter à ce réseau Wi-Fi</string>

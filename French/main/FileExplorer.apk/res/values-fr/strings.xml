@@ -5,7 +5,7 @@
  <!-- removed in 4.5.6 -->
   <string name="no_enough_space">Pas assez de stockage</string>
   <string name="trans_task_delete_confirm_message">Êtes-vous sûr de vouloir supprimer les %1$d tâches sélectionnées ?</string>
-  <string name="user_guide_summary">Comment utiliser Kuaipan</string>
+  <string name="user_guide_summary">Comment utiliser KuaiPan</string>
  <!-- -->
   <string name="account_bind_prompt">Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter…</string>
   <string name="add_task">Ajouter une tâche</string>
@@ -91,7 +91,7 @@
   <string name="dlg_error_unmount_text">Impossible de démonter le stockage USB. Veuillez réessayer plus tard</string>
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Échec du téléchargement !</string>
-  <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de MiDrive. Appuyez sur le lien ci-dessous pour plus de détails :</string>
+  <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de KuaiPan. Appuyez sur le lien ci-dessous pour plus de détails :</string>
   <string name="downloading">Téléchargement…</string>
   <string name="empty_dir_cleanup_indication">%s dossiers vides</string>
   <string name="empty_dir_title">Dossiers vides</string>
@@ -220,7 +220,7 @@ Superflu"</string>
   <string name="operation_send">Envoyer</string>
   <string name="operation_show_sys">Afficher les fichiers cachés</string>
   <string name="operation_unfavorite">Supprimer des favoris</string>
-  <string name="pan_settting">Paramètres Kuaipan</string>
+  <string name="pan_settting">Paramètres KuaiPan</string>
   <string name="paused">En pause</string>
   <string name="pull_to_signin">Glissez vers le bas pour vous connecter</string>
   <string name="query_bind_state">Interrogation de l\'état de liaison, veuillez patienter…</string>
@@ -237,8 +237,8 @@ Superflu"</string>
   <string name="sd_size_label">Mémoire de la carte SD</string>
   <string name="search_hint">Rechercher Mes fichiers</string>
   <string name="search_title">Rechercher Mes fichiers</string>
-  <string name="send_to_midrive">Kuaipan</string>
-  <string name="send_to_midrive_failed_message">L\'envoi à Kuaipan a échoué. Le contenu n\'est pas pris en charge</string>
+  <string name="send_to_midrive">KuaiPan</string>
+  <string name="send_to_midrive_failed_message">L\'envoi à KuaiPan a échoué. Le contenu n\'est pas pris en charge</string>
   <string name="server_control_advanced_settings">Paramètres avancés</string>
   <string name="server_control_charset">Codage de transfert</string>
   <string name="server_control_settings">Paramètres</string>
@@ -263,7 +263,7 @@ Superflu"</string>
   <string name="sys_size">Mémoire totale %1$s</string>
   <string name="sys_size_title">Mémoire totale</string>
   <string name="tab_category">Parcourir</string>
-  <string name="tab_networkdisk">Kuaipan</string>
+  <string name="tab_networkdisk">KuaiPan</string>
   <string name="tab_phone">Téléphone</string>
   <string name="temp_file_cleanup_indication">%s fichiers temporaires</string>
   <string name="temp_file_title">Fichiers temporaires</string>
@@ -290,10 +290,10 @@ Superflu"</string>
   <string name="uploading">Envoi…</string>
   <string name="used">"Utilisé : "</string>
   <string name="user_guide">Guide de l\'utilisateur</string>
-  <string name="user_guide_download_other_version">Téléchargez la version de Kuaipan compatible avec votre système d\'exploitation sur :</string>
-  <string name="user_guide_kuaipan_copy">Utilisez Kuaipan pour accéder à vos fichiers depuis plusieurs appareils</string>
+  <string name="user_guide_download_other_version">Téléchargez la version de KuaiPan compatible avec votre système d\'exploitation sur :</string>
+  <string name="user_guide_kuaipan_copy">Utilisez KuaiPan pour accéder à vos fichiers depuis plusieurs appareils</string>
   <string name="user_guide_other_version">Disponible sous Windows, Linux, Mac, iOS, Android et plus.</string>
-  <string name="user_guide_upload_to_kuaipan">Copier et coller des fichiers sur Kuaipan</string>
+  <string name="user_guide_upload_to_kuaipan">Copier et coller des fichiers sur KuaiPan</string>
   <string name="utf8_summary">Codage par défaut</string>
   <string name="utf8_title">UTF-8</string>
   <string name="version_text">version %1$s</string>
