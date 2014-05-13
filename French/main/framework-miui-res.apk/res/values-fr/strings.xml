@@ -196,7 +196,7 @@ Réessayer dans %d secondes."</string>
   <string name="user_agreement4">Règles de confidentialité</string>
   <string name="user_agreement5">, appuyez sur OK pour indiquer que vous acceptez le contenu ci-dessus, appuyez sur Annuler pour quitter.</string>
   <string name="v5_deselect_all">Tout désélectionner</string>
-  <string name="v5_edit_mode_title_empty">Cocher des éléments</string>
+  <string name="v5_edit_mode_title_empty">Aucun élément sélectionné</string>
   <string name="v5_icon_menu_bar_more_item_label">Plus</string>
   <string name="v5_select_all">Tout sélectionner</string>
   <string name="v5_time_picker_label_hour">H</string>
