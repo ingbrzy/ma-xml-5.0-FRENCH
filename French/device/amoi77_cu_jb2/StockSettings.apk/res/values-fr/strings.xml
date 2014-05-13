@@ -19,16 +19,17 @@
     <string name="internal_sdcard">La carte SD interne est la carte par défaut. La modification de ce paramètre provoque un redémarrage dès la sélection de la carte SD externe</string>
     <string name="external_sdcard">La carte SD externe est la carte par défaut. La modification de ce paramètre provoque un redémarrage dès la sélection de la carte SD interne</string>
     <string name="default_sdcard">Carte SD par défaut</string>
-    <!-- à traduire ? <string name="schedulepoweronoff_enter">Enter Schedule power on off</string>
+    <string name="myappscreenmask">Filtre d\'écran</string>
+    <string name="myappscreenmask_enter">Accès aux réglages</string>
+  <!-- à traduire ? 
+    <string name="schedulepoweronoff_enter">Enter Schedule power on off</string>
     <string name="camera_about">Camera Sound Switch</string>
     <string name="mipop_virtualkeys">MIPop Virtualkeys</string>
     <string name="about">Author Information</string>
-    <string name="hello">hello</string>
-    <string name="weibo">Click here to visit my weibo.</string> -->
-    <string name="myappscreenmask">Filtre d\'écran</string>
-    <string name="myappscreenmask_enter">Accès aux réglages</string>
-    <!-- à traduire ? <string name="radioinfo">Network Selecting</string> 
+    <string name="weibo">Click here to visit my weibo.</string> 
+    <string name="radioinfo">Network Selecting</string> 
     <string name="radioinfo_enter">Enter Network Selecting</string>
     <string name="crt">CRT</string>
-    <string name="crt_enter">Enter CRT</string> -->
+    <string name="crt_enter">Enter CRT</string> 
+  -->
 </resources>
