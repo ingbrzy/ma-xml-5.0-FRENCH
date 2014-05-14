@@ -159,7 +159,7 @@
     </string-array>
     <string-array name="cfg_rf">
         <item>FM RSSI Delta</item>
-        <item>Seuil du signal</item>
+        <item>Set Signal Threshold</item>
         <item>Statistiques RF</item>
     </string-array>
     <string-array name="stats_options">
