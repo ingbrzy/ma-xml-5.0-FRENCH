@@ -205,7 +205,6 @@ inconditionnel activé"</string>
   <string name="network_setting_all_forbidden_dialog">Aucun réseau disponible. Veuillez activer la 3G ou sélectionner un réseau interdit manuellement.</string>
   <string name="networksettings_tips_data_disabled">Désactiver le service de données ? D\'autres services seront affectés, par ex. l\'envoi et la réception de MMS ou d\'emails.</string>
   <string name="networksettings_tips_data_enabled">Activer le service de données ? Des frais de trafic de données peuvent s\'appliquer !</string>
-  <string name="new_password_label">Nouveau mot de passe (4 chiffres) </string>
   <string name="no_search_result">Aucun résultat de recherche</string>
   <string name="no_service_msg">"L\'opérateur sélectionné n\'émet actuellement pas de service.
 Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la sélection manuelle d\'un autre opérateur."</string>
@@ -251,7 +250,6 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="service_3g_off">Désactivé</string>
   <string name="show_always_title">"Ne plus m'alerter"</string>
   <string name="simContacts_emptyLoading_ex">Lecture des contacts depuis %s…</string>
-  <string name="simContacts_title">Sélection des contacts à importer</string>
   <string name="sim_manage_call_via">Appeler via</string>
   <string name="sim_manage_indicator_3g">3G</string>
   <string name="sim_manage_sipcall">Internet</string>
@@ -408,9 +406,10 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   -->
 
 
-<!-- -->
+<!-- end mtk -->
 
-
+  <string name="new_password_label">Nouveau mot de passe (4 chiffres)</string>
+  <string name="simContacts_title">Sélection des contacts à importer</string>
   <string name="ContactScreen">Gérer les contacts SIM</string>
   <string name="ExportContactScreen">Exporter des contacts du téléphone vers la carte SIM</string>
   <string name="absent_num">Numéro absent</string>

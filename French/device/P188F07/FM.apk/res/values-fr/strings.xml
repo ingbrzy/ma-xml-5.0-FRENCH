@@ -98,6 +98,6 @@
     <string name="dialog_sleep_title">"Sélectionnez heure d'arrêt automatique"</string>
     <string name="toast_sleep_mode">Arrêter FM dans %s</string>
     <string name="alert_message_delete_station">Êtes-vous sûr de vouloir supprimer la station sélectionnée ?</string>
-    <string name="FMR_Force_Stereomono_text">Forcer la selection:</string>
+    <string name="FMR_Force_Stereomono_text">Forcer la sélection :</string>
     <string name="FMR_Freq_tune">Régler</string>
 </resources>
