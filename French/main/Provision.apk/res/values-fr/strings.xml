@@ -43,7 +43,7 @@
   <string name="other_service_user_experience">Rejoindre le programme de retour utilisateur</string>
   <string name="other_service_user_experience_summary0">"Nous comptons sur vous pour utiliser nos produits et fonctionnalités et espérons que vous pourrez nous aider en nous envoyant vos commentaires. "</string>
   <string name="other_service_user_experience_summary1">Merci, l\'équipe MIUI.</string>
-  <string name="setup_complete_info">Le système va enregistrer l\'heure que vous définissez comme heure de référence pour le démarrage de la couverture du service après-vente.</string>
+  <string name="setup_complete_info" />
   <string name="setup_complete_label">Installation terminée</string>
   <string name="setup_complete_start">Commencez à utiliser votre téléphone</string>
   <string name="setup_complete_summary">Configuration terminée ! Profitez de MIUI !</string>
