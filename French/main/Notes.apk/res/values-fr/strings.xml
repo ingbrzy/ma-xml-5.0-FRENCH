@@ -70,9 +70,9 @@
   <string name="note_alert_expired">Expiré</string>
   <string name="note_link_email">Envoyer un mail</string>
   <string name="note_link_other">Ouvrir la carte</string>
-  <string name="note_link_select">Sélectionnez le texte du lien</string>
+  <string name="note_link_select">Sélectionner le lien</string>
   <string name="note_link_tel">Appeler</string>
-  <string name="note_link_web">Naviguer sur Internet</string>
+  <string name="note_link_web">Ouvrir le lien</string>
   <string name="notealert_enter">Jeter un coup d\'œil</string>
   <string name="notealert_ok">Ignorer</string>
   <string name="notelist_menu_new">Ajouter une note</string>

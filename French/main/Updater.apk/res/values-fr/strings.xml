@@ -7,20 +7,20 @@
   <string name="active_xiaomi_account_msg">Pour activer votre compte, rendez-vous sur : https://account.xiaomi.com/pass/serviceLogin.</string>
   <string name="active_xiaomi_account_title">Activer le compte Xiaomi</string>
   <string name="app_name">Mise à jour</string>
-  <string name="apply_buddy_update_info_message">Appuyez sur confirmer pour commencer le processus de mise à jour</string>
+  <string name="apply_buddy_update_info_message">Appuyez sur \"Confirmer\" pour commencer le processus de mise à jour</string>
   <string name="apply_existing_update_md5error_title">La signature MD5 ne correspond pas</string>
   <string name="apply_later_button_text">Annuler</string>
   <string name="apply_now_button_text">Confirmer</string>
   <string name="apply_unable_to_reboot_toast">Impossible de redémarrer pour entrer dans le Recovery</string>
   <string name="apply_update_dialog_cancel_button">Annuler</string>
-  <string name="apply_update_dialog_update_button">Mettre à jour</string>
+  <string name="apply_update_dialog_update_button">Confirmer</string>
   <string name="apply_update_fail">La mise à jour a échoué</string>
   <string name="apply_update_timer">L\'appareil redémarrera dans %d secondes</string>
   <string name="apply_upload_info_message">Appuyez sur \"Confirmer\" pour redémarrer automatiquement le téléphone et appliquer la mise à jour.</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
   <string name="applying_rom_message">Application de la mise à jour</string>
   <!-- applying_update à revoir ? original : Updating %s -->
-  <string name="applying_update">Application de la mise à jour…%s</string>
+  <string name="applying_update">Application de la mise à jour… (%s)</string>
   <string name="best_update">2. Meilleure mise à jour</string>
   <string name="boot_recovery">Redémarrer dans le Recovery</string>
   <string name="cancel_download_buton_text">Annuler</string>
