@@ -408,7 +408,7 @@
     <string name="my_account">Compte</string>
     <string name="level_experience">Membership # points</string>
     <string name="account_feedback">Feedback</string>
-    <string name="my_xiaomi_account">Compte Xiaomi</string>
+    <string name="my_xiaomi_account">Compte Mi</string>
     <string name="my_account_unlogin">Non connecté</string>
     <string name="my_account_mibi">MiCredit %s</string>
     <string name="my_account_title">Mon compte</string>

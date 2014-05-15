@@ -284,7 +284,7 @@
   <string name="use_local_lyric">Utiliser les paroles enregistrées</string>
   <string name="account_setting">Compte</string>
   <string name="account_and_synchronization">Compte &amp; Synchronisation</string>
-  <string name="xiaomi_account_setting">Compte Xiaomi</string>
+  <string name="xiaomi_account_setting">Compte Mi</string>
   <string name="bind_baidu_account_setting">Associer un compte Baidu</string>
   <string name="bind_baidu_account_summary">Synchronisez votre playlist et profitez d\'autres services en associant, si vous en avez déjà un, votre compte Baidu Music.</string>
   <string name="synchronize_playlist_setting">Synchroniser la playlist</string>
@@ -304,7 +304,7 @@
   <string name="ktv_song_vod_fail">Impossible d\'ajouter %1$s</string>
   <string name="ktv_song_vod_success">%1$s ajouté</string>
   <string name="login">Connexion</string>
-  <string name="login_first">Veuillez vous connecter à votre compte Xiaomi en premier.</string>
+  <string name="login_first">Veuillez vous connecter à votre compte Mi en premier.</string>
   <string name="normal_quality">Qualité normale</string>
   <string name="pay_service_guide_dowload">Qualité du téléchargement</string>
   <string name="pay_service_guide_listen">Qualité du flux</string>
@@ -350,7 +350,7 @@
   <string name="number_format" formatted="false">%s.%s</string>
   <string name="not_now">Plus tard</string>
   <string name="sync_alert_title">Paramètres de synchronisation</string>
-  <string name="sync_alert_message">Synchronisez vos chansons favorites entre plusieurs appareils en utilisant votre compte Xiaomi.</string>
+  <string name="sync_alert_message">Synchronisez vos chansons favorites entre plusieurs appareils en utilisant votre compte Mi.</string>
  <!-- à traduire : 
   <string name="sync_disable_toast">You can always enable sync later in Settings > Accounts > Mi Cloud</string>
   <string name="login_and_enable">Sign in and sync</string>

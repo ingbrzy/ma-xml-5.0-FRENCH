@@ -26,7 +26,7 @@ Veuillez réessayer dans cinq minutes"</string>
   <string name="error_cert_date_title">Erreur de date du certificat</string>
   <!--  -->
 
-  <string name="account_detail">"Compte Xiaomi :
+  <string name="account_detail">"Compte Mi :
 %1$s"</string>
   <string name="app_name">Service de paiement</string>
   <string name="balance">Solde : %1$s MiCredits</string>
@@ -86,7 +86,7 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="button_retry">Réessayer</string>
   <string name="cancel">Annuler</string>
   <string name="change_security_lock">Modifier le verrouillage de sécurité</string>
-  <string name="error_account_changed_summary">Votre compte Xiaomi a été mis à jour. Veuillez vérifier vos détails et réessayer plus tard</string>
+  <string name="error_account_changed_summary">Votre compte Mi a été mis à jour. Veuillez vérifier vos détails et réessayer plus tard</string>
   <string name="error_account_changed_title">Compte mis à jour</string>
   <string name="error_auth_summary">Erreur d\'identification, veuillez réessayer</string>
   <string name="error_common_summary">Erreur système, veuillez réessayer plus tard</string>

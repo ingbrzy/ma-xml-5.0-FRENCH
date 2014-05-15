@@ -2,7 +2,7 @@
 <resources>
   <string name="account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
   <string name="menu_refresh">Actualiser</string>
-  <string name="resource_comment_account_need_activitied">Veuillez activer votre compte Xiaomi pour utiliser cette fonctionnalité.</string>
+  <string name="resource_comment_account_need_activitied">Veuillez activer votre compte Mi pour utiliser cette fonctionnalité.</string>
   <string name="resource_switch_account">Changer</string>
   <string name="ringtone_volume_mute">La sonnerie est actuellement en mode silencieux.</string>
   <string name="theme_another_import_running">L\'importation est déjà en cours, veuillez patienter et réessayer</string>

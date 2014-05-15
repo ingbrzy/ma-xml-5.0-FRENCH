@@ -92,7 +92,7 @@
   <string name="cloud_app_total_size">Taille totale sauveg. MiCloud : %1$s</string>
   <string name="cloud_app_version_size">Version : %1$s, Taille : %2$s</string>
   <string name="cloud_backup_hint">Connectez-vous pour stocker en toute sécurité et restaurer vos sauvegardes</string>
-  <string name="cloud_backup_login">Ouvrir une session avec votre compte Xiaomi</string>
+  <string name="cloud_backup_login">Ouvrir une session avec votre compte Mi</string>
   <string name="cloud_backup_window_title">Sauvegarder dans le cloud</string>
   <string name="cloud_home_title">MiCloud</string>
   <string name="cloud_item_info_summary">" (Local : %1$s | MiCloud : %2$s)"</string>
@@ -121,8 +121,8 @@
   <string name="enable_encrypt_fail">L\'activation du cryptage a échoué</string>
   <string name="enable_encrypt_indicator">Appuyez pour activer le chiffrement.</string>
   <string name="enable_encrypt_ok">OK</string>
-  <string name="enable_encrypt_summery1">"Le système va crypter votre sauvegarde locale sur votre compte Xiaomi, vous devez vous connecter à votre compte Xiaomi lors de la suppression de données ou lors de l\'utilisation d\'autres appareils pour restaurer la sauvegarde."</string>
-  <string name="enable_encrypt_summery2">"La nouvelle sauvegarde sera automatiquement chiffrée. Vous devez vous connecter à votre compte Xiaomi lors de la suppression de données ou lors de l\'utilisation d\'autres appareils pour restaurer la sauvegarde."</string>
+  <string name="enable_encrypt_summery1">"Le système va crypter votre sauvegarde locale sur votre compte Mi, vous devez vous connecter à votre compte Mi lors de la suppression de données ou lors de l\'utilisation d\'autres appareils pour restaurer la sauvegarde."</string>
+  <string name="enable_encrypt_summery2">"La nouvelle sauvegarde sera automatiquement chiffrée. Vous devez vous connecter à votre compte Mi lors de la suppression de données ou lors de l\'utilisation d\'autres appareils pour restaurer la sauvegarde."</string>
   <string name="enable_encrypt_title">Activer le cryptage</string>
   <string name="enable_encrypt_xiaomi_account">Cette sauvegarde a été créée par %1$s, supprimez le compte actuel et connectez-vous à %2$s afin de restaurer les données.</string>
   <string name="exchange_account">Compte Exchange</string>
@@ -136,7 +136,7 @@
 2.\u0009Installez MiTalk et connectez-vous.
 \u0009http://www.miliao.com
 
-3.\u0009Entrez dans les paramètres MiTalk et choisissez \"Sauvegardez les contacts sur le compte Xiaomi\""</string>
+3.\u0009Entrez dans les paramètres MiTalk et choisissez \"Sauvegardez les contacts sur le compte Mi\""</string>
   <string name="import_from_xiaomi_account_hint2">Remarque : Passez à l\'étape suivante si la sauvegarde existe déjà</string>
   <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder les contacts sur d\'autres appareils, sauf sur le Mi-One</string>
   <string name="just_support_op_with_wifi_connected">Uniquement supporté via une connexion Wi-Fi</string>
@@ -149,7 +149,7 @@
   <string name="local_select_sysdata">Système</string>
   <string name="local_select_userapp">Applications</string>
   <string name="menu_patch_delete">Supprimer sauvegarde(s)</string>
-  <string name="miliao_account_guide">Compte MiTalk mis à jour sur le compte Xiaomi\n Profitez de tous les services Xiaomi en ligne</string>
+  <string name="miliao_account_guide">Compte MiTalk mis à jour sur le compte Mi\n Profitez de tous les services Xiaomi en ligne</string>
   <string name="miliao_account_login">Connectez-vous à MiTalk</string>
   <string name="mms_title">Messagerie multimédia</string>
   <string name="multi_select_title">%1$s éléments(s) sélectionné(s)</string>
@@ -184,7 +184,7 @@
   <string name="sc_internal_server_error">Erreur interne du serveur</string>
   <string name="sc_network_unavailable">Erreur de connexion réseau</string>
   <string name="sc_others">Exception de programme</string>
-  <string name="sc_precondition_failed">Votre compte Xiaomi n\'a pas été associé à une adresse mail</string>
+  <string name="sc_precondition_failed">Votre compte Mi n\'a pas été associé à une adresse mail</string>
   <string name="sc_request_timeout">Requête expirée</string>
   <string name="sc_service_unavailable">Le service MiCloud n\'est pas disponible</string>
   <string name="sc_unaccess_password_file">Ne pas stocker les mots de passes Wi-Fi</string>

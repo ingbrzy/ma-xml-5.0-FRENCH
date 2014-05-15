@@ -43,7 +43,7 @@
   <string name="access_control_no_back_footer">Appuyez sur [icon] pour quitter</string>
   <string name="access_control_password_title">Activer le mot de passe</string>
   <string name="access_control_recording_intro_header">Dessiner un schéma pour créer le verrouillage</string>
-  <string name="access_control_reset_by_account">Connectez-vous à votre compte Xiaomi pour réinitialiser le mot de contrôle d\'accès</string>
+  <string name="access_control_reset_by_account">Connectez-vous à votre compte Mi pour réinitialiser le mot de contrôle d\'accès</string>
   <string name="accessibility_enable">Activer l\'accessibilité</string>
   <string name="accessibility_feature_state_off">Désactivé</string>
   <string name="accessibility_feature_state_on">Activé</string>
@@ -1554,7 +1554,7 @@ Donner cette autorisation aux applications peut provoquer des instabilités syst
   <string name="privacy_settings_title">Sauvegarder et réinitialiser</string>
   <string name="private_sms_need_to_unlock">Veuillez saisir le mot de passe SMS privé</string>
   <string name="private_sms_recording_intro_header">Dessiner un schéma pour créer le verrouillage</string>
-  <string name="private_sms_reset_by_account">Connectez-vous sur votre compte Xiaomi pour réinitialiser le mot de passe SMS privé</string>
+  <string name="private_sms_reset_by_account">Connectez-vous sur votre compte Mi pour réinitialiser le mot de passe SMS privé</string>
   <string name="process_kernel_label">Plate-forme Android</string>
   <string name="process_mediaserver_label">Serveur multimédia</string>
   <string name="process_provider_in_use_description">L\'opérateur %1$s est actuellement utilisé.</string>
@@ -2606,7 +2606,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wps_category">Sécurité WPS</string>
   <string name="wps_connect_summary">Assurez-vous que votre routeur prenne en charge le WPS</string>
   <string name="wps_connect_title">Se connecter en utilisant le WPS</string>
-  <string name="xiaomi_account">Compte Xiaomi</string>
+  <string name="xiaomi_account">Compte Mi</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">MiCredit</string>
   <string name="yes">Oui</string>

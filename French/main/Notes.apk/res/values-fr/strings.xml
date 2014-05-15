@@ -18,7 +18,7 @@
   <string name="pref_title_data_export_to_sdcard">Exporter les notes sur la carte SD</string>
   <!-- -->
 
-  <string name="add_account_desc">Les notes peuvent être synchronisées avec votre compte Xiaomi. Souhaitez-vous vous connecter et synchroniser maintenant ?</string>
+  <string name="add_account_desc">Les notes peuvent être synchronisées avec votre compte Mi. Souhaitez-vous vous connecter et synchroniser maintenant ?</string>
   <string name="alert_action_edit_anyway">Continuer l\'édition</string>
   <string name="alert_edit_action_delete">Supprimer</string>
   <string name="alert_edit_action_update">Mise à jour</string>
@@ -41,7 +41,7 @@
   <string name="dlg_desc_confirm_alarm_silent">Attention, si vous désactivez cette option, les alarmes et notes ne sonneront pas si le téléphone est en mode silencieux.</string>
   <string name="dlg_title_confirm_alarm_silent">Confirmation</string>
   <string name="enable_sync">Synchroniser</string>
-  <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Xiaomi %1$s, les synchroniser maintenant ?</string>
+  <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Mi %1$s, les synchroniser maintenant ?</string>
   <string name="error_contact_not_exist">Le contact n\'existe pas</string>
   <string name="error_note_empty_for_clock">Désolé, le rappel ne peut pas être défini sur une note vide</string>
   <string name="error_note_empty_for_send_to_desktop">Désolé, impossible d\'envoyer à l\'écran d\'accueil puis de vider la note</string>

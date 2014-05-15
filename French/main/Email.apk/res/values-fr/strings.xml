@@ -75,6 +75,8 @@
   <string name="cleared_trusted_senders_message">Les images intégrées ne seront pas affichées automatiquement.</string>
   <string name="close_action">Fermer</string>
   <string name="compose_action">Composer</string>
+  <string name="compose_send">Envoi…</string>
+  <string name="compose_sent">Envoyé avec succès !</string>
   <string name="compose_title">Nouveau message</string>
   <string name="debug_enable_exchange_file_logging_label">Activer la journalisation des échanges avec la carte SD ?</string>
   <string name="debug_enable_exchange_logging_label">Activer la journalisation des échanges ? (Bavard)</string>
@@ -421,6 +423,9 @@
   <string name="confirm_discard_text">Supprimer ce message ?</string>
   <string name="confirm_response">Envoi de la réponse en cours…</string>
   <string name="confirm_send_message">Envoyer ce message ?</string>
+  <string name="confirm_save_message_title">Enregistrer en tant que brouillon ?</string>
+  <string name="confirm_save_message_yes">Oui</string>
+  <string name="confirm_save_message_no">Non</string>
   <string name="confirm_send_message_with_no_body">"Le corps du message est vide."</string>
   <string name="confirm_send_message_with_no_subject">"L'objet du message est vide."</string>
   <string name="confirm_send_title">Envoyer le message ?</string>
@@ -687,7 +692,7 @@
   <string name="security_notification_content_unsupported_title">"Imposs. appliquer règles sécu"</string>
   <string name="security_notification_content_update_title">Mise à jour de sécurité requise</string>
   <string name="security_unsupported_ticker_fmt">"Impossible de synchroniser le compte %s en raison des exigences de sécurité."</string>
-  <string name="select_attachment_type">Sélectionner le type de pièce jointe</string>
+  <string name="select_attachment_type">Sélectionner la source de la pièce jointe</string>
   <string name="send">Envoyer</string>
   <string name="send_failed">"Échec de l'envoi."</string>
   <string name="sender_whitelist_cleared">"Les images ne s'afficheront pas automatiquement."</string>
@@ -827,6 +832,7 @@
   <string name="remove_account">Supprimer le compte</string>
   <string name="remove_account_confirm">Le compte \"%1$s\" va être supprimé.</string>
   <string name="Folders">Dossiers</string>
+  <string name="search_txt_size_limit_prompt">La recherche doit être supérieur à 3 caractères.</string>
   <string name="login">Connexion</string>
   <string name="other_mail">Autre mail</string>
   <string name="confirm">OK</string>
@@ -881,6 +887,7 @@ pièce jointe dépasse la limite autorisée"</string>
   <string name="please_fill_in_your_mailbox_information">Veuillez remplir les informations liées à votre compte e-mail :</string>
   <string name="actionbar_title_mail_aggregation">Regroupement de mail :</string>
   <string name="empty_email_tip">Vous pouvez envoyer un mail vide</string>
+  <string name="empty_account_tip">Impossible de trouver de compte</string>
   <string name="account_setup_service_not_set">Vos paramètres de services e-mail doivent être configurés</string>
   <string name="account_setup_need_password_verification">Votre compte a ouvert une seconde identification, un mot de passe est requis</string>
   <string name="account_set_up_notice">Plus que quelques étapes, vous pouvez mettre en place votre compte email</string>
@@ -894,12 +901,10 @@ pièce jointe dépasse la limite autorisée"</string>
   <string name="no_matched_attachment">Pièce jointe introuvable !</string>
   <string name="validation_failed_prompt">La validation a échoué, veuillez configurer le serveur %s</string>
   <string name="time_error">Problème de temps</string>
- <!-- à traduire ajouté dans 4.5.6, supprimé dans 4.5.8
-  <string name="wait_for_sync_body_txt_array_1">Exchange Server will prompt you within</string>
-  <string name="wait_for_sync_body_txt_array_2">1–30</string>
-  <string name="wait_for_sync_body_txt_array_3">seconds.Please confirm the security setting and activate.Pay attention to</string>
-  <string name="wait_for_sync_body_txt_array_4">system alert</string>
+  <string name="wait_for_sync_body_txt_array_1">Une demande du serveur Exchange s\'affichera dans</string>
+  <string name="wait_for_sync_body_txt_array_2">1 à 30</string>
+  <string name="wait_for_sync_body_txt_array_3">secondes. Veuillez confirmer les paramètres de sécurité et d'activation.Prenez garde aux</string>
+  <string name="wait_for_sync_body_txt_array_4">alertes système</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
-  <string name="wait_for_sync_note">Please slide from the top to get the notification. Click to finish the security setting.</string>
- -->
+  <string name="wait_for_sync_note">Veuillez faire glisser la barre de notification vers le bas et toucher pour finir les paramètres de sécurité.</string>
 </resources>

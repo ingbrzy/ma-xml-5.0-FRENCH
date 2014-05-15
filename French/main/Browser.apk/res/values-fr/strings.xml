@@ -44,7 +44,7 @@
   <string name="add_to_bookmarks_menu_option">Favoris</string>
   <string name="add_to_homescreen_menu_option">Écran d\'accueil</string>
   <string name="add_to_other_folder_menu_option">Autre dossier</string>
-  <string name="add_xiaomi_account_warning">Veuillez vous connecter à un compte Xiaomi</string>
+  <string name="add_xiaomi_account_warning">Veuillez vous connecter à un compte Mi</string>
   <string name="bookmark_this_page">Ajouter cette page aux favoris</string>
   <string name="bookmark_thumbnail_view">Vignettes</string>
   <string name="browser_bookmarks_page_bookmarks_text">Favoris</string>
@@ -391,6 +391,7 @@
   <string name="pref_content_autofit_summary">Configurer les pages Web pour qu\'elles s\'ajustent à l\'écran</string>
   <string name="pref_content_block_float_popups">Bloquer les pop-ups flottants</string>
   <string name="pref_content_block_popups">Bloquer les pop-ups</string>
+  <string name="pref_content_cloud_speedup">Activer accélération Cloud</string>
   <string name="pref_content_fontsize_setting">Paramètres de police</string>
   <string name="pref_content_homepage">Définir la page d\'accueil</string>
   <string name="pref_content_javascript">Activer JavaScript</string>
@@ -726,4 +727,7 @@
   <string name="sub_sync_item_browser_title_novel_summary">Synchroniser les nouvelles du navigateur</string>
   <string name="sub_sync_item_browser_title_cloud_tab">Synchroniser les onglets</string>
   <string name="sub_sync_item_browser_title_cloud_tab_summary">Synchroniser les onglets ouverts du navigateur sur les autres appareils</string>
+  <string name="xiaomi_bookmark_title">Xiaomi</string>
+  <string name="ssl_certificate">Certificat de sécurité</string>
+  <string name="ssl_certificate_is_valid">Ce certificat est valide.</string>
 </resources>

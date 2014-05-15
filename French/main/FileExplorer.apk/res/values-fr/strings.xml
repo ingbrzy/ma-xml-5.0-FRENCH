@@ -22,8 +22,8 @@
   <string name="big5_summary">L\'encodage par défaut du chinois traditionnel pour le système Windows</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Lier un compte KuaiPan</string>
-  <string name="bind_account_summary">Liez votre compte KuaiPan existant avec votre compte Xiaomi</string>
-  <string name="binded_accout_description">Les comptes sont fusionnés. Vous pouvez dorénavant utiliser votre compte Xiaomi pour accéder aux données stockées sur votre compte KuaiPan</string>
+  <string name="bind_account_summary">Liez votre compte KuaiPan existant avec votre compte Mi</string>
+  <string name="binded_accout_description">Les comptes sont fusionnés. Vous pouvez dorénavant utiliser votre compte Mi pour accéder aux données stockées sur votre compte KuaiPan</string>
   <string name="binded_accout_title">Compte KuaiPan</string>
   <string name="cache_size_label">Cache</string>
   <string name="cancel">Annuler</string>
@@ -305,6 +305,6 @@ Superflu"</string>
   <string name="waiting_for_scanning">En attente de scan…</string>
   <string name="wangpan_root_path">Mon disque</string>
   <string name="wifi_state">État du Wi-Fi</string>
-  <string name="xiaomi_account">Compte Xiaomi</string>
+  <string name="xiaomi_account">Compte Mi</string>
   <string name="yes">Oui</string>
 </resources>

@@ -43,7 +43,7 @@
   <string name="access_token_expired_warning">Votre compte Weibo a expiré, veuillez le rattacher</string>
   <string name="access_token_invalid_warning">Votre compte Weibo est non valide, veuillez le rattacher</string>
   <string name="account">Compte</string>
-  <string name="account_dspt">Un compte Xiaomi permet de synchroniser et sauvegarder vos messages, contacts, photos, etc.</string>
+  <string name="account_dspt">Un compte Mi permet de synchroniser et sauvegarder vos messages, contacts, photos, etc.</string>
   <string name="account_hint_text">Mail ou numéro de téléphone</string>
   <string name="account_name">Compte : %1$s</string>
   <string name="activate_phone_failed_notif_title">Échec de l\'activation du service MiCloud</string>
@@ -77,13 +77,13 @@
   <string name="checking_account">Vérification du compte…</string>
   <string name="checking_input">Vérification de la saisie…</string>
   <string name="cloud_messaging">Messagerie MiCloud</string>
-  <string name="cmcc_data_sync_notice">Utilisez votre compte Xiaomi pour synchroniser vos messages, contacts et autres données. En attendant, profitez des services cloud Xiaomi.</string>
+  <string name="cmcc_data_sync_notice">Utilisez votre compte Mi pour synchroniser vos messages, contacts et autres données. En attendant, profitez des services cloud Xiaomi.</string>
   <string name="cmcc_micloud_dspt">Les services MiCloud incluent la synchronisation mobile, la localisation de l’appareil et d\'autres services. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
   <string name="completed">Terminé</string>
   <string name="confirm">Confirmer</string>
   <string name="current_account">Compte actuel</string>
   <string name="data_keep_in_phone">Conserver les données sur l\'appareil</string>
-  <string name="data_sync_notice">Utilisez votre compte Xiaomi pour synchroniser vos messages, vos contacts et autres données.</string>
+  <string name="data_sync_notice">Utilisez votre compte Mi pour synchroniser vos messages, vos contacts et autres données.</string>
   <string name="data_wipe_from_phone">Supprimer de mon appareil</string>
   <string name="dirty_contacts_count">%d contact(s)</string>
   <string name="dirty_mms_count">%d message(s)</string>
@@ -139,16 +139,16 @@
 
  Si votre téléphone est perdu ou cassé, ces données seront définitivement perdues. Il est recommandé de rétablir la synchronisation afin d\'assurer la sécurité des données"</string>
   <string name="master_alert_notif_title">Les données n\'ont pas été synchronisées depuis %s jours</string>
-  <string name="micloud_account">Compte Xiaomi</string>
+  <string name="micloud_account">Compte Mi</string>
   <string name="micloud_account_label">Compte : %1$s</string>
   <string name="micloud_account_name">Xiaomi</string>
   <string name="micloud_account_not_actived">Compte non activé.</string>
-  <string name="micloud_activate_account_fail_notify_title">Échec de l\'activation de votre compte Xiaomi</string>
-  <string name="micloud_activate_account_success_notify_title">Activation de votre compte Xiaomi réussie</string>
+  <string name="micloud_activate_account_fail_notify_title">Échec de l\'activation de votre compte Mi</string>
+  <string name="micloud_activate_account_success_notify_title">Activation de votre compte Mi réussie</string>
   <string name="micloud_activate_back_btn">Annuler</string>
   <string name="micloud_activate_retry_btn">Réessayer</string>
-  <string name="micloud_activating_account_notify_info">Vous activez votre compte Xiaomi</string>
-  <string name="micloud_activating_account_notify_title">Activation de votre compte Xiaomi…</string>
+  <string name="micloud_activating_account_notify_info">Vous activez votre compte Mi</string>
+  <string name="micloud_activating_account_notify_title">Activation de votre compte Mi…</string>
   <string name="micloud_active_alert_title">Envoyer un SMS</string>
   <string name="micloud_active_email_sent_1">"Mail d\'activation envoyé à : "</string>
   <string name="micloud_active_email_visit">Visitez %s</string>
@@ -182,10 +182,10 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_proceed">Continuer</string>
   <string name="micloud_reg_new">S\'inscrire</string>
   <string name="micloud_resend_active_email">Renvoyer le mail d\'activation</string>
-  <string name="micloud_summary">Se connecter au compte Xiaomi pour synchroniser les Contacts, la Galerie et d\'autres fonctions.</string>
+  <string name="micloud_summary">Se connecter au compte Mi pour synchroniser les Contacts, la Galerie et d\'autres fonctions.</string>
   <string name="micloud_use_existing">Connexion</string>
   <string name="mili_center">MiCredit</string>
-  <string name="my_xiaomi_account">Compte Xiaomi</string>
+  <string name="my_xiaomi_account">Compte Mi</string>
   <string name="next">Suivant</string>
   <string name="nobind">Non associé</string>
   <string name="noRemind">Ne pas rappeler</string>
@@ -205,7 +205,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="relogin">Se connecter</string>
   <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appels et des notes déjà synchronisés sur votre appareil ?</string>
   <string name="remove_confirm">Supprimer</string>
-  <string name="remove_unactivated_account_notice">Votre compte Xiaomi n\'as pas été activé.</string>
+  <string name="remove_unactivated_account_notice">Votre compte Mi n\'as pas été activé.</string>
   <string name="removing_account">Suppression du compte…</string>
   <string name="restoreSync">Restaurer</string>
   <string name="send_sms_for_sync_title">Service de synchronisation non activé</string>
@@ -225,7 +225,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="sync_dspt">Activer la synchronisation</string>
   <string name="sync_off">Désactivé</string>
   <string name="sync_on">Activé</string>
-  <string name="title_reg">Enregistrer un compte Xiaomi</string>
+  <string name="title_reg">Enregistrer un compte Mi</string>
   <string name="trust_device">Appareil de confiance</string>
   <string name="unactivated_user">Le compte n\'a pas été activé</string>
   <string name="unbind">Retirer l\'autorisation</string>

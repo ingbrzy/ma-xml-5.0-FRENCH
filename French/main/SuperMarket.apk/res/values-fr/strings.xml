@@ -30,9 +30,9 @@
     <string name="more_app">Apps we like</string>
     <string name="more_subject">Plus de collections</string>
     <string name="ad_indicator">AD</string>
-    <string name="login_first_install_title">Veuillez vous connecter à votre compte Xiaomi</string>
+    <string name="login_first_install_title">Veuillez vous connecter à votre compte Mi</string>
     <string name="login_active_title">Activer votre compte ?</string>
-    <string name="login_download_title">Veuillez vous connecter à votre compte Xiaomi</string>
+    <string name="login_download_title">Veuillez vous connecter à votre compte Mi</string>
     <string name="login_skip">Ignorer</string>
     <string name="login_ok">Connexion</string>
     <string name="login_active">Actif</string>

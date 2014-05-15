@@ -112,7 +112,7 @@
   <string name="resource_downloading">Téléchargement…</string>
   <string name="resource_expand_full_text">Voir plus…</string>
   <string name="resource_get_auth_checking">Vérification de l\'autorisation…</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre compte Xiaomi</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre compte Mi</string>
   <string name="resource_get_auth_exceed_max_limit_title">La limite autorisée est dépassée</string>
   <string name="resource_get_auth_missing">Les thèmes provenant de sources tierces ne sont pas supportés.</string>
   <string name="resource_get_auth_retrieving">Récupération de l\'autorisation…</string>
@@ -217,7 +217,7 @@
   <string name="resource_account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
   <string name="resource_account_fail_to_add">Impossible d\'ajouter le compte !</string>
   <string name="resource_account_login">Connexion</string>
-  <string name="resource_account_login_before_action">Veuillez vous connecter à un votre compte Xiaomi.</string>
+  <string name="resource_account_login_before_action">Veuillez vous connecter à un votre compte Mi.</string>
   <string name="resource_account_login_title">Connexion</string>
   <string name="resource_account_switch">Changer de compte</string>
   <string name="resource_comment_loading_list">Chargement des commentaires…</string>
@@ -253,7 +253,7 @@
 le contenu que vous recherchez n\'est actuellement pas disponible dans votre région."</string>
   <string name="resource_unknow_error">Une erreur inconnue s\'est produite.</string>
   <string name="resource_user_know">OK</string>
-  <string name="to_activate_the_account">Veuillez activer votre compte Xiaomi</string>
+  <string name="to_activate_the_account">Veuillez activer votre compte Mi</string>
   <string name="settings">Paramètres</string>
   <string name="purchased_list">Liste d\'achats</string>
   <string name="resource_import_failed">Échec de l\'importation</string>

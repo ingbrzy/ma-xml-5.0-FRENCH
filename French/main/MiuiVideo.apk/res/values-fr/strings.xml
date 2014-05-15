@@ -127,7 +127,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="delete_media_content">Supprimer cet élément ?</string>
   <string name="delete">Supprimer</string>
   <string name="login_tip_title">Connectez-vous</string>
-  <string name="login_tip_content">Connectez-vous avec votre compte Xiaomi pour synchroniser et mettre à jour les émissions que vous suivez.</string>
+  <string name="login_tip_content">Connectez-vous avec votre compte Mi pour synchroniser et mettre à jour les émissions que vous suivez.</string>
   <string name="declaration_content">"Acceptez-vous les conditions d'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs de contenu vidéo ?"</string>
   <string name="today">"Aujourd\'hui "</string>
   <string name="yestorday">"Hier "</string>
@@ -135,7 +135,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="di_count_qi">Saison %s</string>
   <string name="authenticated_failed">Authentification échouée</string>
   <string name="authenticating_manually">Échec de l\'authentification</string>
-  <string name="no_login_xiaomi_account">Connectez-vous avec votre compte Xiaomi pour commenter.</string>
+  <string name="no_login_xiaomi_account">Connectez-vous avec votre compte Mi pour commenter.</string>
   <string name="xiaomi_account_type_unsupported">Le système ne supporte pas les comptes Xiaomi.</string>
   <string name="all_specials">En vedette</string>
   <string name="clear_history">Effacer l\'historique</string>

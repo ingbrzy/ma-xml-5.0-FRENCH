@@ -5,7 +5,7 @@
   <string name="about_device">À propos de l\'appareil</string>
   <string name="active_xiaomi_account">Actif</string>
   <string name="active_xiaomi_account_msg">Pour activer votre compte, rendez-vous sur : https://account.xiaomi.com/pass/serviceLogin.</string>
-  <string name="active_xiaomi_account_title">Activer le compte Xiaomi</string>
+  <string name="active_xiaomi_account_title">Activer le compte Mi</string>
   <string name="app_name">Mise à jour</string>
   <string name="apply_buddy_update_info_message">Appuyez sur \"Confirmer\" pour commencer le processus de mise à jour</string>
   <string name="apply_existing_update_md5error_title">La signature MD5 ne correspond pas</string>
@@ -118,8 +118,8 @@
   <string name="share_update">Partager les informations de mise à jour système</string>
   <string name="share_update_content_sign">J\'ai mis à jour MIUI vers %1$s ! Mon rang d\'utilisateur de mise à jour est %2$s. Pour le changelog détaillé, veuillez visiter %3$s</string>
   <string name="share_update_content_unsign">J\'ai mis à jour MIUI vers %1$s ! Pour le journal des modifications détaillé, consultez %2$s</string>
-  <string name="sign_in_add_account">Veuillez vous connecter avec un compte Xiaomi</string>
-  <string name="sign_in_add_account_helper">Aucun compte Xiaomi configuré, veuillez en ajouter un.</string>
+  <string name="sign_in_add_account">Veuillez vous connecter avec un compte Mi</string>
+  <string name="sign_in_add_account_helper">Aucun compte Mi configuré, veuillez en ajouter un.</string>
   <string name="sign_in_info">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
   <string name="sign_in_info_rank_more">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>

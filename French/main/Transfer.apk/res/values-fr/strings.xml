@@ -81,12 +81,12 @@
   <string name="history_receive">Historique de réception</string>
   <string name="history_received_fileinfo">%1$s | téléchargés sur : %2$s</string>
   <string name="history_send">Historique d\'envoi</string>
-  <string name="init_xiaomi_account">Initialisation du compte Xiaomi…</string>
+  <string name="init_xiaomi_account">Initialisation du compte Mi…</string>
   <string name="input_device_name">Saisir le nom de l\'appareil</string>
   <string name="input_device_name_tip">Utilisez Transfert pour envoyer des fichiers, pour l\'interconnectivité Bluetooth et l\'établissement d\'un Hotspot partagé. D\'autres appareils verront le nom de votre appareil.</string>
   <string name="load_file_error">Impossible de charger le fichier !</string>
   <string name="loading_file">Chargement du fichier…</string>
-  <string name="login_failed">Connexion au compte Xiaomi échouée !</string>
+  <string name="login_failed">Connexion au compte Mi échouée !</string>
   <string name="mishare_app_name">MiShare</string>
   <string name="network_not_connected">Connexion réseau indisponible ! Veuillez réessayer</string>
   <string name="no_content">Aucun contenu</string>
