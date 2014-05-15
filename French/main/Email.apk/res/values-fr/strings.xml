@@ -828,6 +828,7 @@
   <string name="download_cancel_confirm_title">Annuler le téléchargement ?</string>
   <string name="downlaod_cancel_confirm_download">Confirmer</string>
   <string name="downlaod_cancel_continue_download">Annuler</string>
+  <string name="downlaod_nonWifi_confirm_message">Le téléchargement consommera de la data, continuer ?</string>
   <string name="remote_folders_heading">Dossiers serveur</string>
   <string name="remove_account">Supprimer le compte</string>
   <string name="remove_account_confirm">Le compte \"%1$s\" va être supprimé.</string>
@@ -876,6 +877,7 @@
   <string name="conversation_item_mark_read">Lu</string>
   <string name="conversation_item_mark_unread">Non lu</string>
   <string name="default_signature">Envoyé de mon Xiaomi</string>
+  <string name="account_name_toast">Ce nom est déjà utilisé, veuillez le renommer</string>
   <string name="outbox_alert_button_confirm">Éditer</string>
   <string name="contact_select">Choisir un contact</string>
   <string name="request_entity_large">Fichier trop volumineux !</string>
@@ -903,8 +905,36 @@ pièce jointe dépasse la limite autorisée"</string>
   <string name="time_error">Problème de temps</string>
   <string name="wait_for_sync_body_txt_array_1">Une demande du serveur Exchange s\'affichera dans</string>
   <string name="wait_for_sync_body_txt_array_2">1 à 30</string>
-  <string name="wait_for_sync_body_txt_array_3">secondes. Veuillez confirmer les paramètres de sécurité et d'activation.Prenez garde aux</string>
+  <string name="wait_for_sync_body_txt_array_3">secondes. Veuillez confirmer les paramètres de sécurité et d\'activation.Prenez garde aux</string>
   <string name="wait_for_sync_body_txt_array_4">alertes système</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
-  <string name="wait_for_sync_note">Veuillez faire glisser la barre de notification vers le bas et toucher pour finir les paramètres de sécurité.</string>
+  <string name="wait_for_sync_note">Veuillez faire glisser la barre de notification vers le bas et toucher pour finir les paramètres de sécurité.</string> 
+  <string name="parase_setup_data">Obtention des données de configuration…</string>
+  <string name="allread">Tous lus</string>
+  <!-- 校验!-->
+  <string name="eas_template">domain\\user</string>
+  <string name="upgrade_network_error">Anomalies du réseau, veuillez vérifier votre connexion réseau</string>
+  <string name="checking_message">Recherche de mise à jour…</string>
+  <string name="no_update">La version est à jour</string>
+  <string name="upgrade_check">Vérifier les mises à jour</string>
+  <string name="no_display_this_version">Ne pas afficher cette version</string>
+  <string name="now_version">Version actuelle:</string>
+  <string name="new_version">Dernière version:</string>
+  <string name="new_feature_desc">Changement：</string>
+  <string name="new_down_desc1">Conseils：</string>
+  <string name="new_down_desc2">Veuillez faire une sauvegarde</string>
+  <string name="new_down_desc3">Le processus consomme beaucoup de données, nous vous recommandons d'utiliser une connection Wi-FI</string>
+  <string name="download_now">Téléchargement…</string>
+  <string name="start_download">Démarrer le téléchargement</string>
+  <string name="donot_download">Annuler</string>
+  <string name="upgrade_now">Mettre à jour</string>
+  <string name="donot_upgrade">Annuler</string>
+  <string name="downloading">Téléchargement…</string>
+  <string name="upgrade_title">Mise à jour</string>
+  <string name="download_complete_title">Le téléchargement est terminé</string>
+  <string name="no_enough_space">Il n'y a pas assez d'espace</string>
+  <string name="no_sdcard">Veuillez insérer ou vérifier la carte SD</string>
+  <string name="download_complete_message">Veuillez cliquer sur Mettre à jour pour commencer le processus</string>
+  <string name="file_size">Taille</string>
+  <!--_-'-->
 </resources>
