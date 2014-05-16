@@ -932,7 +932,7 @@ pièce jointe dépasse la limite autorisée"</string>
   <string name="downloading">Téléchargement…</string>
   <string name="upgrade_title">Mise à jour</string>
   <string name="download_complete_title">Le téléchargement est terminé</string>
-  <string name="no_enough_space">Il n\'y a pas assez d'espace</string>
+  <string name="no_enough_space">Il n\'y a pas assez d\'espace</string>
   <string name="no_sdcard">Veuillez insérer ou vérifier la carte SD</string>
   <string name="download_complete_message">Veuillez cliquer sur Mettre à jour pour commencer le processus</string>
   <string name="file_size">Taille</string>
