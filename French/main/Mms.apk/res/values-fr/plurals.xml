@@ -18,11 +18,11 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Supprimer les %1$s conversations sélectionnées ?</item>
-        <item quantity="one">Supprimer cette conversation ?</item>
+        <item quantity="other">Supprimer les %1$s conversations sélectionnées ?</item>
+        <item quantity="one">Supprimer cette conversation ?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%ss</item>

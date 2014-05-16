@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <string name="app_name">MiKey</string>
     <string name="short_click_1">1x</string>
@@ -37,8 +37,8 @@
     <string name="category_app">Applications</string>
     <string name="category_system_settings">Paramètres système</string>
     <string name="action_close">Fermer</string>
-    <string name="delete_confirm">Confirmer la suppression ?</string>
-    <string name="delete_gesture">Confirmer la suppression ?</string>
+    <string name="delete_confirm">Confirmer la suppression ?</string>
+    <string name="delete_gesture">Confirmer la suppression ?</string>
     <string name="recommend">Recommandé</string>
     <string name="add">Ajouter</string>
     <string name="running_notification">MiKey</string>
@@ -53,7 +53,7 @@
     <string name="earphone">Écouteurs</string>
     <string name="select_device">Dispositif non détecté</string>
     <string name="times">clics</string>
-    <string name="rank_prefix">"Classement : "</string>
+    <string name="rank_prefix">"Classement : "</string>
     <string name="rank_suffix">" points"</string>
     <string name="no_usage">…</string>
     <string name="device_not_recognized">Erreur de reconnaissance, veuillez ré-insérer la MiKey</string>
@@ -99,7 +99,7 @@
     <string name="setting_keeplive_desc">"Permettre à l\'application de s\'exécuter en arrière-plan.
 Peut augmenter la consommation de la batterie"</string>
     <string name="setting_vibrate_desc">"En retour, le téléphone émettra une vibration"</string>
- <!-- setting_vibrate_desc à retraduire : 
+ <!-- setting_vibrate_desc à retraduire : 
 "The ability to feel the implementation of the functions are not repeated to give vibration feedback 
 The feedback function can not be delivered, such as "flash shot", "Mute" is through the vibration 
 Feedback implementation. 
@@ -109,7 +109,7 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="file_delimiter">/</string>
     <string name="notification_control_play">Lire</string>
     <string name="notification_control_stop">Stop</string>
-    <string name="notification_recorder_file_location">Chemin d\'accès :</string>
+    <string name="notification_recorder_file_location">Chemin d\'accès :</string>
     <string name="notification_recorder_start">Démarrage de l\'enregistrement...</string>
     <string name="sdcard">sdcard</string>
     <string name="setting_silent_mode">Mode silencieux</string>

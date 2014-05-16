@@ -7,7 +7,7 @@
     <string name="application_copyright">"Copyright © genokolar@gmail.com 2012 
 http://weibo.com/geno"</string>
     <string name="zuozhe">Conçu par genokolar@gmail.com</string>
-   <!-- à traduire : 
+   <!-- à traduire : 
     <string name="power_title">power</string>
    -->
     <string name="reboot">Redémarrer</string>
@@ -19,14 +19,14 @@ http://weibo.com/geno"</string>
     <string name="shutdown_summary">Éteint rapidement le téléphone</string>
     <string name="fastboot_summary">Redémarre en mode fastboot</string>
     <string name="toast_error">Ne peut être exécutée</string>
-   <!-- à traduire : 
+   <!-- à traduire : 
     <string name="do_message">Doing</string>
    -->
     <string name="ota_notfound_message">update.zip introuvable</string>
     <string name="recovery_notfound_message">recovery.img introuvable</string>
     <string name="boot_notfound_message">boot.img introuvable</string>
     <string name="ota_message">Veuillez patienter…</string>
-   <!-- à traduire : 
+   <!-- à traduire : 
     <string name="recovery_message">"Flash recovery
 But you need verify it youself"</string>
     <string name="boot_message">"Flash boot

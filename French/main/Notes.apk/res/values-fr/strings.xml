@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <!-- removed in 4.3.12 mi3w -->
   <string name="format_date_ymd">ddMMyyyy</string>
   <string name="format_datetime_mdhm">dMMM kk:mm</string>
   <string name="menu_discard">Ignorer</string>
-  <string name="alert_message_discard_changes">Ignorer toutes les modifications ?</string>
+  <string name="alert_message_discard_changes">Ignorer toutes les modifications ?</string>
   <string name="error_sdcard_export">Échec de l\'export, veuillez vérifier la carte SD</string>
   <string name="error_sdcard_unmounted">Carte SD occupée ou non lisible, veuillez essayer de nouveau</string>
   <string name="success_sdcard_export">Export réussi</string>
@@ -18,15 +18,15 @@
   <string name="pref_title_data_export_to_sdcard">Exporter les notes sur la carte SD</string>
   <!-- -->
 
-  <string name="add_account_desc">Les notes peuvent être synchronisées avec votre compte Mi. Souhaitez-vous vous connecter et synchroniser maintenant ?</string>
+  <string name="add_account_desc">Les notes peuvent être synchronisées avec votre compte Mi. Souhaitez-vous vous connecter et synchroniser maintenant ?</string>
   <string name="alert_action_edit_anyway">Continuer l\'édition</string>
   <string name="alert_edit_action_delete">Supprimer</string>
   <string name="alert_edit_action_update">Mise à jour</string>
-  <string name="alert_message_delete_folders">Supprimer %1$s dossier(s) sélectionné(s) ?</string>
-  <string name="alert_message_delete_folders_notes">Supprimer %1$s dossier(s) et %2$s note(s) sélectionné(s) ?</string>
-  <string name="alert_message_delete_note">Êtes-vous sûr de vouloir supprimer cette note ?</string>
+  <string name="alert_message_delete_folders">Supprimer %1$s dossier(s) sélectionné(s) ?</string>
+  <string name="alert_message_delete_folders_notes">Supprimer %1$s dossier(s) et %2$s note(s) sélectionné(s) ?</string>
+  <string name="alert_message_delete_note">Êtes-vous sûr de vouloir supprimer cette note ?</string>
   <!-- BUG: avec une seule note sélectionnée alert_message_delete_notes s'affiche au lieu de alert_message_delete_note... -->
-  <string name="alert_message_delete_notes">Êtes-vous sûr de vouloir supprimer\nles %1$s note(s) sélectionnée(s) ?</string>
+  <string name="alert_message_delete_notes">Êtes-vous sûr de vouloir supprimer\nles %1$s note(s) sélectionnée(s) ?</string>
   <string name="alert_message_edit_anyway">La note contient un contenu non supporté, l\'éditer pourrait engendrer une perte de données.</string>
   <string name="alert_title_edit_anyway">Confirmer l\'édition de la note qui pourrait engendrer une perte de données.</string>
   <string name="app_name">Notes</string>
@@ -41,7 +41,7 @@
   <string name="dlg_desc_confirm_alarm_silent">Attention, si vous désactivez cette option, les alarmes et notes ne sonneront pas si le téléphone est en mode silencieux.</string>
   <string name="dlg_title_confirm_alarm_silent">Confirmation</string>
   <string name="enable_sync">Synchroniser</string>
-  <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Mi %1$s, les synchroniser maintenant ?</string>
+  <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Mi %1$s, les synchroniser maintenant ?</string>
   <string name="error_contact_not_exist">Le contact n\'existe pas</string>
   <string name="error_note_empty_for_clock">Désolé, le rappel ne peut pas être défini sur une note vide</string>
   <string name="error_note_empty_for_send_to_desktop">Désolé, impossible d\'envoyer à l\'écran d\'accueil puis de vider la note</string>
@@ -96,7 +96,7 @@
   <string name="snippet_image_stub">[Image]</string>
   <string name="snippet_image_template">[Image %1$s]</string>
   <string name="toast_folder_privacy_mode">"Impossible de modifier le dossier en mode invité"</string>
-  <string name="toast_message_add_image_fail">Impossible d\'insérer l\'image !</string>
+  <string name="toast_message_add_image_fail">Impossible d\'insérer l\'image !</string>
   <string name="toast_note_privacy_mode">"Impossible de modifier la note en mode invité"</string>
   <string name="toast_privacy_mode">Impossible d\'éditer une note en mode invité</string>
   <string name="toast_reach_text_limit_attachment">Le contenu de la note est trop long pour ajouter de nouvelles pièces jointes</string>

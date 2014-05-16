@@ -18,14 +18,14 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
  <!-- removed on 4.5.8 -->
   <string name="pref_summary_delete_limit">%1$s messages par conversation</string>
   <string name="pref_title_sms_delete">Limite pour les SMS</string>
   <string name="pref_title_mms_delete">Limite pour les MMS</string>
   <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>
-  <string name="confirm_restore_all_title">Restaurer tous les messages de ce numéro ?</string>
+  <string name="confirm_restore_all_title">Restaurer tous les messages de ce numéro ?</string>
   <string name="menu_delete_messages">Supprimer les messages</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Chargement…</string>
@@ -37,12 +37,12 @@
   <string name="mx_activate_error_server">Le serveur n\'a pas réussi à activer la messagerie cloud</string>
   <string name="mx_activate_error_sim_change">La carte SIM a changé, la réactivation des messages cloud est nécessaire</string>
   <string name="mx_activate_error_title">Impossible d\'activer la messagerie cloud</string>
-  <string name="mx_activate_hint_malformed_info">Opération interrompue, la réactivation de la messagerie en mode cloud est nécessaire. L\'activer maintenant ?</string>
-  <string name="mx_activate_hint_server">Le serveur n\'a pas réussi à activer la messagerie cloud. L\'activer maintenant ?</string>
-  <string name="mx_activate_hint_sim_change">Carte SIM changée, la réactivation de messagerie cloud est nécessaire. L\'activer maintenant ?</string>
-  <string name="mx_activate_int_hint_malformed_info">Erreur durant la requête. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
-  <string name="mx_activate_int_hint_server">L\'activation de la messagerie cloud par le serveur a échoué, un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
-  <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_activate_hint_malformed_info">Opération interrompue, la réactivation de la messagerie en mode cloud est nécessaire. L\'activer maintenant ?</string>
+  <string name="mx_activate_hint_server">Le serveur n\'a pas réussi à activer la messagerie cloud. L\'activer maintenant ?</string>
+  <string name="mx_activate_hint_sim_change">Carte SIM changée, la réactivation de messagerie cloud est nécessaire. L\'activer maintenant ?</string>
+  <string name="mx_activate_int_hint_malformed_info">Erreur durant la requête. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_activate_int_hint_server">L\'activation de la messagerie cloud par le serveur a échoué, un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. Un SMS international est requis pour réactiver la messagerie cloud. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_popup_msg">MiMessaging permet aux utilisateurs MIUI de s\'envoyer des messages sans utiliser de crédit SMS.</string>
   <string name="mx_activate_popup_msg">MiMessaging permet aux utilisateurs MIUI de s\'envoyer des messages sans utiliser de crédit SMS.</string>
   <string name="mx_activation_done">La messagerie MiCloud est maintenant activée</string>
@@ -82,7 +82,7 @@
   <string name="attach_video">Vidéos</string>
   <string name="back_to_message_list">retour à la liste des messages</string>
   <string name="batch_adding_progress_message">Ajout en cours…</string>
-  <string name="batch_delete_confirm_dialog_message">Supprimer les %1$s messages sélectionnés ?</string>
+  <string name="batch_delete_confirm_dialog_message">Supprimer les %1$s messages sélectionnés ?</string>
   <string name="batch_deleting_message_progress_message">Suppression…</string>
   <string name="batch_deleting_progress_message">Suppression de la sélection…</string>
   <string name="bcc_label">"Cci : "</string>
@@ -103,7 +103,7 @@
   <string name="close">Fermer</string>
   <string name="compressing">Image trop grande. Compression en cours…</string>
   <string name="confirm">Confirmer</string>
-  <string name="confirm_add_blacklist_dialog_dspt">Ajouter le numéro à la liste noire ?</string>
+  <string name="confirm_add_blacklist_dialog_dspt">Ajouter le numéro à la liste noire ?</string>
   <string name="confirm_delete_SIM_message">Ce message va être supprimé de la carte SIM.</string>
   <string name="confirm_delete_all_SIM_messages">Tous les messages vont être supprimés de la carte SIM.</string>
   <string name="confirm_delete_all_conversations">Tous les fils de discussion vont être supprimés.</string>
@@ -113,18 +113,18 @@
   <string name="confirm_delete_message">Le message va être supprimé.</string>
   <string name="confirm_dialog_locked_title">Supprimer le message verrouillé ?</string>
   <string name="confirm_dialog_title">Supprimer ?</string>
-  <string name="confirm_export_dialog_description">Supprimer la sélection de contact privé, la conversation sera déplacé vers avec les SMS normaux. Voulez-vous continuer ?</string>
+  <string name="confirm_export_dialog_description">Supprimer la sélection de contact privé, la conversation sera déplacé vers avec les SMS normaux. Voulez-vous continuer ?</string>
   <string name="confirm_export_dialog_title">Supprimer les contacts privés</string>
   <string name="confirm_no_block_positive">"Ne pas bloquer et restaurer"</string>
-  <string name="confirm_no_block_title">"Ne pas bloquer le numéro et restaurer tous les messages envoyés depuis ce numéro ?"</string>
+  <string name="confirm_no_block_title">"Ne pas bloquer le numéro et restaurer tous les messages envoyés depuis ce numéro ?"</string>
   <string name="confirm_rate_limit">Un grand nombre de messages multimédias sont en cours d\'envoi. Voulez-vous continuer ?</string>
   <string name="confirm_restore_positive">Restaurer</string>
-  <string name="confirm_restore_title">Restaurer tous les messages sélectionnés ?</string>
+  <string name="confirm_restore_title">Restaurer tous les messages sélectionnés ?</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_add_to_browser_favorite">Ajouter aux favoris du navigateur</string>
   <string name="context_menu_browse_web">Parcourir</string>
   <string name="context_menu_call">Appeler</string>
-  <string name="context_menu_contact">Contact : %1$s</string>
+  <string name="context_menu_contact">Contact : %1$s</string>
   <string name="context_menu_copy">Copier</string>
   <string name="context_menu_copy_notice">Sélection copiée dans le presse papier</string>
   <string name="context_menu_new_contact">Nouveau contact</string>
@@ -137,7 +137,7 @@
   <string name="converting_to_picture_message">Conversion en message multimédia…</string>
   <string name="converting_to_text_message">Conversion en SMS…</string>
   <string name="copy_message_text">Copier le texte</string>
-  <string name="copy_message_text_success">Message copié avec succès !</string>
+  <string name="copy_message_text_success">Message copié avec succès !</string>
   <string name="copy_to_sdcard">Enregistrer le fichier</string>
   <string name="copy_to_sdcard_fail">Impossible enreg. pièce jointe.</string>
   <string name="copy_to_sdcard_success">Pièce jointe enregistrée.</string>
@@ -187,15 +187,15 @@
   <string name="festival">Recommandé</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_share_message_description">Je voudrais partager des fichiers avec vous</string>
-  <string name="forward_from">Transf. depuis :</string>
+  <string name="forward_from">Transf. depuis :</string>
   <string name="forward_prefix">"TR : "</string>
-  <string name="found_old_messages">Transférer les messages de %1$s vers %2$s ?</string>
-  <string name="found_old_messages_title">Transférer les messages depuis vos autres cartes SIM ?</string>
-  <string name="found_wild_messages">Récupérer les messages depuis vos autres cartes SIM ?</string>
+  <string name="found_old_messages">Transférer les messages de %1$s vers %2$s ?</string>
+  <string name="found_old_messages_title">Transférer les messages depuis vos autres cartes SIM ?</string>
+  <string name="found_wild_messages">Récupérer les messages depuis vos autres cartes SIM ?</string>
   <string name="found_wild_messages_title">Récupérer les messages</string>
   <string name="from_label">"De : "</string>
   <string name="group_message">Message groupé</string>
-  <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
+  <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
   <string name="group_resend_message">Renvoyer (%d)</string>
   <string name="guild_add_attachments">Appuyez ici pour ajouter des pièces jointes ou des émoticônes au message</string>
   <string name="guild_add_recipients">Appuyez ici pour ajouter des destinataires du carnet d\'adresse</string>
@@ -256,10 +256,10 @@
   <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_btn_enable_now">Activer</string>
   <string name="mx_count_dspt">Depuis l\'activation, MIUI a envoyé %1$d message(s) cloud pour vous (%2$s)</string>
-  <string name="mx_current_status">Statut : En ligne</string>
+  <string name="mx_current_status">Statut : En ligne</string>
   <string name="mx_dspt">Envoyer des messages via internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
   <string name="mx_enable">Activer la messagerie cloud</string>
-  <string name="mx_enable_popup_msg">La messagerie cloud vous permet d\'envoyer des messages via MIUI. L\'envoi d\'un SMS est nécessaire pour activer la fonction, il vous sera facturé le prix d\'un SMS international si vous ne vous trouvez pas en Chine. Voulez-vous l\'activer maintenant ?</string>
+  <string name="mx_enable_popup_msg">La messagerie cloud vous permet d\'envoyer des messages via MIUI. L\'envoi d\'un SMS est nécessaire pour activer la fonction, il vous sera facturé le prix d\'un SMS international si vous ne vous trouvez pas en Chine. Voulez-vous l\'activer maintenant ?</string>
   <string name="mx_msg">Message Cloud</string>
   <string name="mx_offline">Hors-ligne</string>
   <string name="mx_online">En ligne</string>
@@ -282,7 +282,7 @@
   <string name="notification_multiple">%s messages non lus.</string>
   <string name="notification_multiple_title">Nouveaux messages</string>
   <string name="number_add_hint">Entrez un numéro pour l\'ajouter aux Contacts Privés</string>
-  <string name="overwrite_edited_content">Cela écrasera le contenu édité, voulez-vous continuer ?</string>
+  <string name="overwrite_edited_content">Cela écrasera le contenu édité, voulez-vous continuer ?</string>
   <string name="phrase_confirm_delete_message">La phrase sélectionnée sera supprimée</string>
   <string name="phrase_empty">Aucune phrase</string>
   <string name="phrase_from">De %1s</string>
@@ -365,16 +365,16 @@
   <string name="resent_message">Renvoyer</string>
   <string name="resize_image_error_information">L\'image redimensionnée est trop volumineuse pour être envoyée.</string>
   <string name="restore_blocked_message">Restaurer les messages bloqués</string>
-  <string name="restore_to_phone_memory_failed">Impossible de restaurer vers la mémoire du téléphone !</string>
+  <string name="restore_to_phone_memory_failed">Impossible de restaurer vers la mémoire du téléphone !</string>
   <string name="restored_to_phone_memory">Restauré</string>
   <string name="save">Enregistrer</string>
   <string name="save_ringtone">Enregistrer comme sonnerie</string>
   <string name="save_to_sim">Enregistrer sur la carte SIM</string>
-  <string name="save_to_sim_failed">"Impossible d'enregistrer sur la carte SIM ! restored_to_phone_memory "</string>
+  <string name="save_to_sim_failed">"Impossible d'enregistrer sur la carte SIM ! restored_to_phone_memory "</string>
   <string name="saved_label">"Enregistré : "</string>
   <string name="saved_ringtone">Sonnerie enregistrée</string>
   <string name="saved_ringtone_fail">Impossible d\'enregistrer la sonnerie</string>
-  <string name="saved_to_sim">Enregistré sur la SIM !</string>
+  <string name="saved_to_sim">Enregistré sur la SIM !</string>
   <string name="search">Messages</string>
   <string name="search_empty">Aucune correspondance.</string>
   <string name="search_hint">Rechercher dans les messages</string>
@@ -392,10 +392,10 @@
   <string name="add_attachment">Ajouter des pièces jointes</string>
   <string name="select_top_text">Texte en haut de l\'écran</string>
   <string name="send">Envoyer</string>
-  <string name="send_signature_confirm_dialog_message">Vous n\'avez pas écrit de contenu, voulez-vous l\'envoyer ?</string>
+  <string name="send_signature_confirm_dialog_message">Vous n\'avez pas écrit de contenu, voulez-vous l\'envoyer ?</string>
   <string name="send_signature_confirm_dialog_title">Confirmer l\'envoi</string>
   <string name="send_sms">Envoyer un message</string>
-  <string name="send_to">À :</string>
+  <string name="send_to">À :</string>
   <string name="send_to_count">%1$s message(s) envoyé(s)</string>
   <string name="send_to_index_contact">Envoi de %1$s sur %2$s…</string>
   <string name="sent_label">"Date d'envoi : "</string>
@@ -439,7 +439,7 @@
   <string name="text_in_popup_saved_to_clipboard">Le texte édité dans la fenêtre de prévisualisation a été copié dans le presse-papiers</string>
   <string name="text_message">Message SMS</string>
   <string name="timed_message_expired_title">%d message(s) programmé(s) non envoyé(s)</string>
-  <string name="timed_message_expired_title_2">Envoyer maintenant ?</string>
+  <string name="timed_message_expired_title_2">Envoyer maintenant ?</string>
   <string name="timed_message_in_total">(%d au total)</string>
   <string name="timed_message_to">À</string>
   <string name="title_date_type">Horodatage</string>
@@ -479,7 +479,7 @@
   <string name="sp_conversation_title">Messages de notification</string>
   <string name="title_collapse_sp_messages">Combiner les messages opérateur</string>
   <string name="pref_collapse_sp_messages_summary">Combine les messages envoyés par l\'opérateur sous la même entrée</string>
-  <string name="sp_mark_as_read">Marquer tous les messages comme lus ?</string>
+  <string name="sp_mark_as_read">Marquer tous les messages comme lus ?</string>
   <string name="sp_mark_as_read_progress">En cours…</string>
   <string name="feedback_description_hint">Veuillez saisir votre rapport, en anglais, ici</string>
   <string name="feedback_submit">Envoyer</string>

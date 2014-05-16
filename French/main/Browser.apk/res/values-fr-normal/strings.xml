@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <string name="webapp_app_name">Web Apps Store</string>
     <string name="webapp_dialog_title">Ajouter une appli sur l\'accueil</string>
@@ -11,7 +11,7 @@
     <string name="dialog_geolocation_reject">Accepter</string>
     <string name="dialog_geolocation_share">Refuser</string>
     <string name="webapp_menu_addtodesk">Ajouter à l\'accueil</string>
-    <string name="webapp_menu_already_addtodesk">Déjà ajouté !</string>
+    <string name="webapp_menu_already_addtodesk">Déjà ajouté !</string>
     <string name="webapp_menu_share">Partager</string>
     <string name="webapp_menu_settings">Paramètres</string>
     <string name="webapp_menu_nightmode">Mode nuit</string>

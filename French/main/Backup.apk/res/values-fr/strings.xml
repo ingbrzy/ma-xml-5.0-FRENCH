@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="account_contact_backup_info">Compte Google, Xiaomi et autres données liées aux contacts</string>
   <string name="account_login">Se connecter</string>
-  <string name="account_summary">" : compte Google, Xiaomi et autres données liées aux contacts"</string>
+  <string name="account_summary">" : compte Google, Xiaomi et autres données liées aux contacts"</string>
   <string name="already_enable_encrypt">Cryptage activé</string>
   <string name="app_name">Sauvegarde</string>
   <string name="auto_backup">Sauvegarde automatique</string>
@@ -24,7 +24,7 @@
   <string name="auto_backup_user_data">Applications</string>
   <string name="backup">Sauvegarde</string>
   <string name="backup_data">Sauvegarde de données</string>
-  <string name="backup_delete">Supprimer :</string>
+  <string name="backup_delete">Supprimer :</string>
   <string name="backup_empty">Aucun fichier de sauvegarde trouvé</string>
   <string name="backup_empty_info">" Sauvegarder vos données, paramètres et applications"</string>
   <string name="backup_error">Erreur de sauvegarde</string>
@@ -34,12 +34,12 @@
   <string name="backup_hint">N\'éteignez pas le téléphone</string>
   <string name="backup_items_app_tailer">" fichiers de données d\'application "</string>
   <string name="backup_items_sysdata_tailer">" fichiers de données système "</string>
-  <string name="backup_new">Nouveau :</string>
+  <string name="backup_new">Nouveau :</string>
   <string name="backup_progress">Sauvegarde…</string>
   <string name="backup_recently">(<b>dernière</b>)</string>
   <string name="backup_report">Rapport de sauvegarde</string>
   <string name="backup_update">Mise à jour</string>
-  <string name="batch_delete_backup_confirm">Confirmer la suppression de %d sauvegarde(s) ?</string>
+  <string name="batch_delete_backup_confirm">Confirmer la suppression de %d sauvegarde(s) ?</string>
   <string name="button_abandon">Écraser</string>
   <string name="button_backup">Sauvegarder</string>
   <string name="button_cancel">Annuler</string>
@@ -63,7 +63,7 @@
   <string name="cloud_app_delete_data">Supprimer la sauveg.</string>
   <string name="cloud_app_device">Appareil</string>
   <string name="cloud_app_dont_restore">Ne pas restaurer</string>
-  <string name="cloud_app_find_backup_prompt_1">Avant de restaurer, voulez-vous sauvegarder vos données actuelles ?</string>
+  <string name="cloud_app_find_backup_prompt_1">Avant de restaurer, voulez-vous sauvegarder vos données actuelles ?</string>
   <string name="cloud_app_find_backup_prompt_2">Si vous abandonnez maintenant, vos données seront écrasées lors de la restauration</string>
   <string name="cloud_app_function_summary">Lorsque vous sauvegardez vos données dans le cloud, vous pouvez les restaurées rapidement sur n\'importe quel appareil.</string>
   <string name="cloud_app_invalid_op">Vous ne pouvez pas afficher les données du cloud pendant que vous sauvegardez/restaurez</string>
@@ -73,30 +73,30 @@
   <string name="cloud_app_name">Sauvegarder dans le cloud</string>
   <string name="cloud_app_no_data">Aucune donnée.</string>
   <string name="cloud_app_other_devices">Autres appareils</string>
-  <string name="cloud_app_remove_error">Échec de la suppression !</string>
+  <string name="cloud_app_remove_error">Échec de la suppression !</string>
   <string name="cloud_app_remove_pending">En attente de suppression…</string>
   <string name="cloud_app_remove_progress">Suppression…</string>
-  <string name="cloud_app_remove_prompt">%1$s de données seront supprimées. Voulez-vous continuer ?</string>
+  <string name="cloud_app_remove_prompt">%1$s de données seront supprimées. Voulez-vous continuer ?</string>
   <string name="cloud_app_restore_action_bar_title">%1$s de données ont été sauvegardées</string>
   <string name="cloud_app_restore_app_and_data">Restaurer les applications et les données utilisateur</string>
   <string name="cloud_app_restore_data">Restaurer les applications précédemment installées</string>
   <string name="cloud_app_restore_data_title">Restaurer les données utilisateur</string>
-  <string name="cloud_app_restore_error">La restauration a échoué !</string>
+  <string name="cloud_app_restore_error">La restauration a échoué !</string>
   <string name="cloud_app_restore_pending">En attente de restauration…</string>
   <string name="cloud_app_restore_progress">Restauration…</string>
   <string name="cloud_app_restore_prompt">La restauration écrasera les données utilisateur locales par celles sauvegardées dans le cloud</string>
   <string name="cloud_app_restore_query_error_prompt">Impossible de recevoir des données de MiCloud. Les apps et données utilisateur seront restaurées automatiquement lorsque la connexion sera rétablie.</string>
-  <string name="cloud_app_restore_success">Apps restaurées !</string>
+  <string name="cloud_app_restore_success">Apps restaurées !</string>
   <string name="cloud_app_restore_summary">Restaure les applications précédemment installées et les données utilisateur associées</string>
   <string name="cloud_app_restore_wifi_prompt">Se connecter à internet via Wi-Fi pour restaurer les apps et données utilisateur.</string>
-  <string name="cloud_app_total_size">Taille totale sauveg. MiCloud : %1$s</string>
-  <string name="cloud_app_version_size">Version : %1$s, Taille : %2$s</string>
+  <string name="cloud_app_total_size">Taille totale sauveg. MiCloud : %1$s</string>
+  <string name="cloud_app_version_size">Version : %1$s, Taille : %2$s</string>
   <string name="cloud_backup_hint">Connectez-vous pour stocker en toute sécurité et restaurer vos sauvegardes</string>
   <string name="cloud_backup_login">Ouvrir une session avec votre compte Mi</string>
   <string name="cloud_backup_window_title">Sauvegarder dans le cloud</string>
   <string name="cloud_home_title">MiCloud</string>
-  <string name="cloud_item_info_summary">" (Local : %1$s | MiCloud : %2$s)"</string>
-  <string name="cloud_last_backup">Dernière sauvegarde :</string>
+  <string name="cloud_item_info_summary">" (Local : %1$s | MiCloud : %2$s)"</string>
+  <string name="cloud_last_backup">Dernière sauvegarde :</string>
   <string name="cloud_no_backup">Aucune sauvegarde dans le cloud</string>
   <string name="cloud_restore_guide">Appuyez sur Démarrer la restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
   <string name="cloud_restore_title">Restaurer des données sauvegardées</string>
@@ -105,7 +105,7 @@
   <string name="compute_backup_info">Récupération des informations de sauvegarde…</string>
   <string name="compute_delete_contact_info">Recherche des contacts…</string>
   <string name="contact_title">Contacts</string>
-  <string name="current_account">Connecté en tant que : %s</string>
+  <string name="current_account">Connecté en tant que : %s</string>
   <string name="current_sim">Carte SIM actuelle</string>
   <string name="customization"><u>Personnaliser</u></string>
   <string name="customization_under_wifi_prompt">Uniquement supporté via une connexion Wi-Fi</string>
@@ -137,7 +137,7 @@
 \u0009http://www.miliao.com
 
 3.\u0009Entrez dans les paramètres MiTalk et choisissez \"Sauvegardez les contacts sur le compte Mi\""</string>
-  <string name="import_from_xiaomi_account_hint2">Remarque : Passez à l\'étape suivante si la sauvegarde existe déjà</string>
+  <string name="import_from_xiaomi_account_hint2">Remarque : Passez à l\'étape suivante si la sauvegarde existe déjà</string>
   <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder les contacts sur d\'autres appareils, sauf sur le Mi-One</string>
   <string name="just_support_op_with_wifi_connected">Uniquement supporté via une connexion Wi-Fi</string>
   <string name="local_app_name">Sauvegarde</string>
@@ -168,16 +168,16 @@
   <string name="restore">Restaurer</string>
   <string name="restore_contact">Restaurer les contacts</string>
  <!-- à vérifier comparer avec original restore_contact_content -->
-  <string name="restore_contact_content">La restauration des contacts peut entraîner des doublons, êtes-vous sûr de vouloir faire cela ?\n Remarque : Vous pouvez fusionner les contacts en double dans les paramètres de la liste des contacts</string>
-  <string name="restore_contacts_hit">(Remarque : Vous devez restaurer manuellement les contacts créés avant le compte d\'origine)</string>
-  <string name="restore_counts">Récupération :</string>
+  <string name="restore_contact_content">La restauration des contacts peut entraîner des doublons, êtes-vous sûr de vouloir faire cela ?\n Remarque : Vous pouvez fusionner les contacts en double dans les paramètres de la liste des contacts</string>
+  <string name="restore_contacts_hit">(Remarque : Vous devez restaurer manuellement les contacts créés avant le compte d\'origine)</string>
+  <string name="restore_counts">Récupération :</string>
   <string name="restore_data">Restaurer les données</string>
-  <string name="restore_failed">La restauration a échoué !</string>
+  <string name="restore_failed">La restauration a échoué !</string>
   <string name="restore_finished">Restauration terminée</string>
-  <string name="restore_launcher_layout_hit">(Remarque : Restaure la disposition du lanceur)</string>
+  <string name="restore_launcher_layout_hit">(Remarque : Restaure la disposition du lanceur)</string>
   <string name="restore_progress">Restauration…</string>
   <string name="restore_report">Rapport de restauration</string>
-  <string name="restore_telephony_hit">(Remarque : le processus de récupération va redémarrer l\'application du téléphone)</string>
+  <string name="restore_telephony_hit">(Remarque : le processus de récupération va redémarrer l\'application du téléphone)</string>
   <string name="retry">Réessayer</string>
   <string name="reverse_all">Effacer tout</string>
   <string name="sc_bad_request">Requête incorrecte</string>
@@ -191,11 +191,11 @@
   <string name="sc_unauthorized">La certification n\'est pas valide</string>
   <string name="sdcard_no_enough_space">Pas assez d\'espace libre sur la carte SD</string>
   <string name="sdcard_no_enough_space_message">La sauvegarde peut échouer, veuillez libérer de la mémoire et réessayez</string>
-  <string name="sdcard_unmounted">Carte SD non détectée !</string>
+  <string name="sdcard_unmounted">Carte SD non détectée !</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_backup_item">Éléments à sauvegarder</string>
   <string name="service_stoped">Service arrêté</string>
-  <string name="settings_summary">" : paramètres téléphone et messagerie"</string>
+  <string name="settings_summary">" : paramètres téléphone et messagerie"</string>
   <string name="sms_title">Messages</string>
   <string name="software_backup_info">Applications et leurs données</string>
   <string name="start_backup">Démarrer la sauvegarde</string>
@@ -223,12 +223,12 @@
   <string name="task_restore_finished_local">Restauration terminée</string>
   <string name="task_restore_none">La restauration n\'est pas nécessaire</string>
   <string name="task_running_backup_dialog">Sauvegarde en cours en arrière-plan, appuyez sur OK pour l\'afficher.</string>
-  <string name="task_running_backup_hint">Service en cours en arrière-plan, veuillez réessayer !</string>
+  <string name="task_running_backup_hint">Service en cours en arrière-plan, veuillez réessayer !</string>
   <string name="task_running_dialog">La sauvegarde et la restauration en arrière-plan sont en cours, appuyez sur OK pour l\'afficher</string>
-  <string name="task_running_hint">Le service est exécuté en arrière-plan, veuillez réessayer la restauration de cette sauvegarde !</string>
+  <string name="task_running_hint">Le service est exécuté en arrière-plan, veuillez réessayer la restauration de cette sauvegarde !</string>
   <string name="task_running_restore_dialog">Restauration de sauvegarde en cours, appuyez sur OK pour l\'afficher.</string>
-  <string name="task_running_restore_hint">Service en cours en arrière-plan, veuillez réessayer !</string>
-  <string name="task_service_not_launched">Le service n\'est pas démarré, veuillez patienter !</string>
+  <string name="task_running_restore_hint">Service en cours en arrière-plan, veuillez réessayer !</string>
+  <string name="task_service_not_launched">Le service n\'est pas démarré, veuillez patienter !</string>
   <string name="task_stopped_exception">Tâche interrompue</string>
   <string name="total_num">%d au total</string>
   <string name="unit_byte">o</string>
@@ -239,8 +239,8 @@
   <string name="cloud_app_backup_cancel">Annuler la sauvegarde</string>
   <string name="cloud_app_backup_cancel_prompt_message">Sauvegarde incomplète, appuyez sur OK pour annuler la sauvegarde</string>
   <string name="cloud_app_backup_cancel_prompt_title">Annuler la sauvegarde</string>
-  <string name="cloud_app_invalid_op_when_removing">Vous ne pouvez pas afficher les données MiCloud lorsqu\'elles sont en cours de suppression !</string>
-  <string name="cloud_app_loading_with_mobile_network_prompt">Le réseau mobile de données va être utilisé. Souhaitez-vous continuer ?</string>
+  <string name="cloud_app_invalid_op_when_removing">Vous ne pouvez pas afficher les données MiCloud lorsqu\'elles sont en cours de suppression !</string>
+  <string name="cloud_app_loading_with_mobile_network_prompt">Le réseau mobile de données va être utilisé. Souhaitez-vous continuer ?</string>
   <string name="cloud_app_no_network">Réseau indisponible</string>
   <string name="cloud_app_no_wifi">Wi-Fi indisponible</string>
   <string name="cloud_app_no_wifi_connect">Aucune connexion Wi-Fi disponible</string>

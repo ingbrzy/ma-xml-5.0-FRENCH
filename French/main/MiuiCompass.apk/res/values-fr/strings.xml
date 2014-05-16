@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="altitude">%.1f</string>
   <string name="altitude_title">Altitude</string>
   <string name="altitude_unit">m</string>
   <string name="app_label">Boussole</string>
-  <string name="calibrate_failed_no_location">L\'étalonnage a échoué : Impossible d\'obtenir la latitude et longitude actuelles</string>
-  <string name="calibrate_failed_timeout">Échec de l\'étalonnage : délai d\'attente du serveur écoulé</string>
+  <string name="calibrate_failed_no_location">L\'étalonnage a échoué : Impossible d\'obtenir la latitude et longitude actuelles</string>
+  <string name="calibrate_failed_timeout">Échec de l\'étalonnage : délai d\'attente du serveur écoulé</string>
   <string name="calibrate_success">Étalonnage complet</string>
   <string name="cannot_get_location">Inconnue</string>
   <string name="dialog_calibrat_altitude">Calibrage de l\'altitude via la connexion Internet</string>

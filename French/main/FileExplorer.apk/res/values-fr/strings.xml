@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
  <!-- removed in 4.5.15 -->
   <string name="file_cleanup">Nettoyage de fichier</string>
-  <string name="local_cache_size">Taille du cache local : %s</string>
+  <string name="local_cache_size">Taille du cache local : %s</string>
   <string name="scanning_on_going">Scan en cours…</string>
   <string name="scanning" formatted="false">Scan de %d apps… (sur %d apps)</string>
   <string name="sys_size_title">Mémoire totale</string>
@@ -42,7 +42,7 @@
   <string name="no_empty_dir_indication">Aucun dossier vide</string>
   <string name="cancel_app_garbage_cleanup">Annuler le nettoyage des applications</string>
   <string name="clean_app_garbage">Suppression de %d élément(s)</string>
-  <string name="app_garbage_path">Localisation :</string>
+  <string name="app_garbage_path">Localisation :</string>
   <string name="give_up_cleaning">Annuler le nettoyage</string>
   <string name="restart_cleaning">Redémarrer</string>
   <string name="cleanup_complete">Nettoyage réussi</string>
@@ -54,7 +54,7 @@ Superflu"</string>
   <string name="garbage_item_path_format" formatted="false">%s %s</string>
  <!-- removed in 4.5.6 -->
   <string name="no_enough_space">Pas assez de stockage</string>
-  <string name="trans_task_delete_confirm_message">Êtes-vous sûr de vouloir supprimer les %1$d tâches sélectionnées ?</string>
+  <string name="trans_task_delete_confirm_message">Êtes-vous sûr de vouloir supprimer les %1$d tâches sélectionnées ?</string>
   <string name="user_guide_summary">Comment utiliser KuaiPan</string>
  <!-- -->
   <string name="add_task">Ajouter une tâche</string>
@@ -90,9 +90,9 @@ Superflu"</string>
   <string name="clean_trash_box">Vider la corbeille</string>
   <string name="cleaning">Nettoyage…</string>
   <string name="close">Fermer</string>
-  <string name="colon">" : "</string>
+  <string name="colon">" : "</string>
   <string name="compress_fail">La compression a échoué, la destination existe déjà</string>
-  <string name="compress_message">Compresser vers :</string>
+  <string name="compress_message">Compresser vers :</string>
   <string name="compress_title">Compresser</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
@@ -102,18 +102,18 @@ Superflu"</string>
   <string name="create_new_folder_failed">Impossible de créer le dossier %1$s</string>
   <string name="create_share_link_description">Création d\'un lien de partage…</string>
   <string name="cution">Conseils</string>
-  <string name="data_capacity">Espace : %1$s</string>
+  <string name="data_capacity">Espace : %1$s</string>
   <string name="decompress_cancel">Annuler</string>
-  <string name="decompress_confirm">Décompresser ?</string>
-  <string name="decompress_fail">Échec de la décompression !</string>
+  <string name="decompress_confirm">Décompresser ?</string>
+  <string name="decompress_fail">Échec de la décompression !</string>
   <string name="decompress_success">Décompression réussie</string>
   <string name="decompress_to">Décompresser vers…</string>
   <string name="decompress_to_here">Décompresser ici</string>
   <string name="delete_failed">Suppression échouée</string>
-  <string name="delete_file">Êtes-vous sûr de vouloir supprimer ce fichier ?</string>
-  <string name="delete_files">Êtes-vous sûr de vouloir supprimer les %1$d fichiers sélectionnés ?</string>
-  <string name="delete_folder">Êtes-vous sûr de vouloir supprimer ce dossier ?</string>
-  <string name="delete_folders">Êtes-vous sûr de vouloir supprimer les %1$d dossiers sélectionnés ?</string>
+  <string name="delete_file">Êtes-vous sûr de vouloir supprimer ce fichier ?</string>
+  <string name="delete_files">Êtes-vous sûr de vouloir supprimer les %1$d fichiers sélectionnés ?</string>
+  <string name="delete_folder">Êtes-vous sûr de vouloir supprimer ce dossier ?</string>
+  <string name="delete_folders">Êtes-vous sûr de vouloir supprimer les %1$d dossiers sélectionnés ?</string>
   <string name="des_running_trans">Il reste encore %1$d fichiers à transférer</string>
   <string name="dialog_select_type">Sélectionner le type de fichier</string>
   <string name="dialog_type_audio">Audio</string>
@@ -124,25 +124,25 @@ Superflu"</string>
   <string name="directory_no_item">Dossier vide</string>
   <string name="dlg_error_unmount_text">Impossible de démonter le stockage USB. Veuillez réessayer plus tard</string>
   <string name="download_current_progress">%1$d/100</string>
-  <string name="download_failed">Échec du téléchargement !</string>
-  <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de KuaiPan. Appuyez sur le lien ci-dessous pour plus de détails :</string>
+  <string name="download_failed">Échec du téléchargement !</string>
+  <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de KuaiPan. Appuyez sur le lien ci-dessous pour plus de détails :</string>
   <string name="downloading">Téléchargement…</string>
   <string name="enable_sd_card">Aucune carte SD disponible, veuillez en connecter une</string>
   <string name="error_filename_too_long">Nom de fichier trop long</string>
   <string name="error_info_cant_send_folder">Impossible d\'envoyer le dossier</string>
   <string name="error_open_file_failed_no_app_found">Aucune application ne peut ouvrir ce fichier</string>
   <string name="fail_to_create_folder">Impossible de créer le dossier, celui-ci existe déjà</string>
-  <string name="fail_to_create_folder_unknown">Création impossible : erreur inconnue.</string>
+  <string name="fail_to_create_folder_unknown">Création impossible : erreur inconnue.</string>
   <string name="fail_to_rename">Impossible de renommer ce fichier. Il doit probablement déjà exister</string>
   <string name="favorite_photo">Photos</string>
   <string name="favorite_ringtone">Sonnerie</string>
   <string name="favorite_screen_cap">Captures d\'écran</string>
-  <string name="file_info_canread">Accessible en lecture :</string>
-  <string name="file_info_canwrite">Accessible en écriture :</string>
-  <string name="file_info_ishidden">Caché :</string>
-  <string name="file_info_location">Chemin d\'accès :</string>
-  <string name="file_info_modified">Mis à jour :</string>
-  <string name="file_info_size">Taille :</string>
+  <string name="file_info_canread">Accessible en lecture :</string>
+  <string name="file_info_canwrite">Accessible en écriture :</string>
+  <string name="file_info_ishidden">Caché :</string>
+  <string name="file_info_location">Chemin d\'accès :</string>
+  <string name="file_info_modified">Mis à jour :</string>
+  <string name="file_info_size">Taille :</string>
   <string name="file_loading">Chargement…</string>
   <string name="file_too_large">Le fichier est trop volumineux et ne peut être envoyé</string>
   <string name="finished">Terminé</string>
@@ -159,7 +159,7 @@ Superflu"</string>
   <string name="ftp_username_hint">Nom d\'utilisateur</string>
   <string name="gbk_summary">Si vous utilisez l\'encodage GBK, par exemple sous Windows, choisissez ce type de codage pour éviter la présence de caractères chinois</string>
   <string name="gbk_title">GBK</string>
-  <string name="instruction">Entrez l\'adresse suivante dans votre client FTP :</string>
+  <string name="instruction">Entrez l\'adresse suivante dans votre client FTP :</string>
   <string name="instruction_pre">Démarrez le service pour activer le serveur FTP</string>
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">L\'espace de stockage disponible sur votre compte KuaiPan est insuffisant.</string>
@@ -195,7 +195,7 @@ Superflu"</string>
   <string name="no_wifi_hint">Aucune connexion Wi-Fi trouvée</string>
   <string name="notif_server_starting">Le serveur FTP a démarré</string>
   <string name="notif_title">Serveur FTP</string>
-  <string name="open_changed_file_message">"Le fichier que vous essayez d\'ouvrir a été modifié, vous pouvez : 
+  <string name="open_changed_file_message">"Le fichier que vous essayez d\'ouvrir a été modifié, vous pouvez : 
 1. Le télécharger (mettre à jour le fichier local) 
 2. L\'envoyer (mettre à jour le fichier distant)"</string>
   <string name="open_changed_file_title">Fichier modifié</string>
@@ -210,7 +210,7 @@ Superflu"</string>
   <string name="operation_create_folder_message">Entrez le nom du dossier</string>
   <string name="operation_decompressing">Décompression…</string>
   <string name="operation_delete">Supprimer</string>
-  <string name="operation_delete_confirm_message">Confirmer la suppression ?</string>
+  <string name="operation_delete_confirm_message">Confirmer la suppression ?</string>
   <string name="operation_delete_confirm_message_folder">"Tout le contenu du dossier sera supprimé.
  "</string>
   <string name="operation_deleting">Suppression en cours…</string>
@@ -241,8 +241,8 @@ Superflu"</string>
   <string name="release_to_signin">Libérez pour vos connecter</string>
   <string name="rename_description">Changement de nom, veuillez patienter…</string>
   <string name="rename_failed">Le changement de nom de %1$s a échoué</string>
-  <string name="sd_card_available">Disponible : %1$s</string>
-  <string name="sd_card_size">Total : %1$s</string>
+  <string name="sd_card_available">Disponible : %1$s</string>
+  <string name="sd_card_size">Total : %1$s</string>
   <string name="sd_full">La carte SD est pleine</string>
   <string name="search_hint">Rechercher Mes fichiers</string>
   <string name="search_title">Rechercher Mes fichiers</string>
@@ -251,13 +251,13 @@ Superflu"</string>
   <string name="server_control_advanced_settings">Paramètres avancés</string>
   <string name="server_control_charset">Codage de transfert</string>
   <string name="server_control_settings">Paramètres</string>
-  <string name="share_link_failed">Impossible de créer le lien partagé, veuillez réessayer à nouveau !</string>
+  <string name="share_link_failed">Impossible de créer le lien partagé, veuillez réessayer à nouveau !</string>
   <string name="show_message">Le fichier ne peut pas être ouvert tant que le téléchargement n\'est pas terminé</string>
   <string name="sign_description">Connexion…</string>
   <string name="signin_error">Réseau actuellement indisponible, veuillez réessayer</string>
-  <string name="signin_success">"Connexion réussie ! 
+  <string name="signin_success">"Connexion réussie ! 
 %1$s d\'espace gratuit obtenus"</string>
-  <string name="space_info">Espace libre du réseau : %1$s disponible(s), total : %2$s</string>
+  <string name="space_info">Espace libre du réseau : %1$s disponible(s), total : %2$s</string>
   <string name="space_usage">Utilisation</string>
   <string name="start_server">Démarrer le service</string>
   <string name="start_use_xiaomi_account">Se connecter</string>
@@ -274,7 +274,7 @@ Superflu"</string>
   <string name="toast_file_not_can_read">Le fichier est illisible ou corrompu.</string>
   <string name="trans_task">Transfert par réseau</string>
   <string name="transing">Transfert</string>
-  <string name="trash_box_capacity">Espace libre de la corbeille : %1$s</string>
+  <string name="trash_box_capacity">Espace libre de la corbeille : %1$s</string>
   <string name="trash_box_link">Visitez <b>pan.xiaomi.com</b> pour vider la corbeille</string>
   <string name="trash_box_message1">Vous pouvez supprimer des fichiers non importants pour libérer de l\'espace</string>
   <string name="trash_box_message2">Vous pouvez supprimer des fichiers ou vider la corbeille pour libérer de l\'espace</string>
@@ -286,12 +286,12 @@ Superflu"</string>
   <string name="ui_main_toast_favorite_removed">Les favoris ont été supprimés</string>
   <string name="ui_main_toast_operation_failed">Échec de la suppression de %1$s des favoris.</string>
   <string name="unmount_inform_text">Le stockage USB va être démonté.</string>
-  <string name="upload_failed">Échec du téléchargement !</string>
+  <string name="upload_failed">Échec du téléchargement !</string>
   <string name="upload_file_toolarge_message">Les fichiers %1$d allant au-delà de 300 Mo ne peuvent pas être partagés. Veuillez vérifier la gestion de transfert pour plus de détails.</string>
   <string name="uploading">Envoi…</string>
-  <string name="used">"Utilisé : "</string>
+  <string name="used">"Utilisé : "</string>
   <string name="user_guide">Guide de l\'utilisateur</string>
-  <string name="user_guide_download_other_version">Téléchargez la version de KuaiPan compatible avec votre système d\'exploitation sur :</string>
+  <string name="user_guide_download_other_version">Téléchargez la version de KuaiPan compatible avec votre système d\'exploitation sur :</string>
   <string name="user_guide_kuaipan_copy">Utilisez KuaiPan pour accéder à vos fichiers depuis plusieurs appareils</string>
   <string name="user_guide_other_version">Disponible sous Windows, Linux, Mac, iOS, Android et plus.</string>
   <string name="user_guide_upload_to_kuaipan">Copier et coller des fichiers sur KuaiPan</string>

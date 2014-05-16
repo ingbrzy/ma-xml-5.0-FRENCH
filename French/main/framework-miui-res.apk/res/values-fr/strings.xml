@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="activate">Activer</string>
   <string name="activate_fail_notification_title">Veuillez réactiver le service Xiaomi Sync</string>
@@ -31,19 +31,19 @@
   <string name="experimental_validate_fail">La validation a échoué, veuillez réessayer</string>
   <string name="experimental_validate_password">Mot de passe</string>
   <string name="experimental_validate_progress">Validation…</string>
-  <string name="experimental_validate_thanks">Merci !</string>
+  <string name="experimental_validate_thanks">Merci !</string>
   <string name="experimental_validate_username">ID Xiaomi</string>
-  <string name="experimental_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
+  <string name="experimental_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
   <string name="find_device_check_sim">Vérification de la carte SIM…</string>
   <string name="find_device_sim_change_instructions">Votre appareil a été verrouillé. Veuillez insérer la carte SIM ou saisir votre mot de passe Xiaomi</string>
   <string name="find_device_sim_change_instructions_no_network">Votre appareil a été verrouillé, veuillez insérer la carte SIM d\'origine</string>
   <string name="find_device_turn_off_flight_mode">Désactiver le Mode Avion</string>
   <string name="find_device_turn_off_flight_mode_instructions">Votre appareil a été verrouillé, veuillez désactiver le mode Avion</string>
   <string name="firewall_setting">Pare-feu appels et SMS</string>
-  <string name="first_back_long_press_message">"Souhaitez-vous activer la fonction d'appui-long sur la touche retour pour tuer le processus en cours et ses services de base ? Activer via Paramètres &gt; Système &gt; Touches"</string>
+  <string name="first_back_long_press_message">"Souhaitez-vous activer la fonction d'appui-long sur la touche retour pour tuer le processus en cours et ses services de base ? Activer via Paramètres &gt; Système &gt; Touches"</string>
   <string name="fm_record_smaple_prefix_miui">Enregistrement FM</string>
   <string name="force_exit_message">L\'application \"%1$s\" a été fermée</string>
-  <string name="forget_password_string">MDP oublié ?</string>
+  <string name="forget_password_string">MDP oublié ?</string>
   <string name="global_action_privacy_mode_dialog_message">En mode invité les appels, notes, photos et SMS sont cachés et le lanceur ne pourra pas passer en mode édition. Vous pouvez définir le mot de passe pour protéger le mode invité dans les paramètres de contrôle d’accès</string>
   <string name="global_action_toggle_privacy_mode">Mode invité</string>
   <string name="group_name_contacts">Contacts</string>
@@ -68,7 +68,7 @@
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Vous avez mal entré votre mot de passe %d fois. Après %d tentatives infructueuses de plus il vous sera demandé de déverrouiller votre téléphone avec vos détails de compte. 
   
 Réessayer dans %d secondes."</string>
-  <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
+  <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
   <string name="lockscreen_pattern_instructions">Dessinez un schéma pour déverrouiller le téléphone</string>
   <string name="lockscreen_pattern_wrong">Schéma incorrect, veuillez réessayer</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Réessayez dans %d secondes.</string>
@@ -107,7 +107,7 @@ Réessayer dans %d secondes."</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Contrat d\'utilisation de MiCredit</string>
   <string name="miui_privacy_policy_title">Politique de confidentialité</string>
-  <string name="miui_unlockscreen_password_wrong">Mot de passe incorrect ! Veuillez réessayer</string>
+  <string name="miui_unlockscreen_password_wrong">Mot de passe incorrect ! Veuillez réessayer</string>
   <string name="miui_user_agreement_title">Contrat d\'utilisation</string>
   <string name="miui_user_manual_title">Manuel de l\'utilisateur</string>
   <string name="month_of_april">avr.</string>
@@ -146,16 +146,16 @@ Réessayer dans %d secondes."</string>
   <string name="provider_114">Fourni par 114号码百事通</string>
   <string name="puk_operation_failed">L\'opération PUK a échoué.</string>
   <string name="reboot_confirm">Le téléphone va redémarrer</string>
-  <string name="reboot_confirm_title">Êtes-vous sûr de vouloir redémarrer votre téléphone ?</string>
+  <string name="reboot_confirm_title">Êtes-vous sûr de vouloir redémarrer votre téléphone ?</string>
   <string name="reboot_progress">Redémarrage…</string>
   <string name="return_to_me_message">Veuillez le remettre au propriétaire.</string>
   <string name="reverse_all">Effacer tout</string>
   <string name="safetylegal_activity_unreachable">Votre téléphone n\'est pas connecté à un service de données. Pour afficher ces informations maintenant, allez à %s de n\'importe quel ordinateur connecté à Internet.</string>
   <string name="screen_button_notification_text">"Appuyez sur les touches Accueil + Marche/Arrêt pour activer"</string>
   <string name="screen_button_notification_title">Les boutons de l\'écran sont désactivés</string>
-  <string name="screen_on_proximity_sensor_hint">"Astuce : Appuyez longuement sur le bouton Marche/Arrêt pour quitter le mode \"mauvaise utilisation\". Voir Paramètres &gt; Affichage pour désactiver"</string>
-  <string name="screen_on_proximity_sensor_summary">"Pour empêcher toute erreur de manipulation, le téléphone est désactivé !"</string>
-  <string name="screen_on_proximity_sensor_title">Capteur de proximité obstrué !</string>
+  <string name="screen_on_proximity_sensor_hint">"Astuce : Appuyez longuement sur le bouton Marche/Arrêt pour quitter le mode \"mauvaise utilisation\". Voir Paramètres &gt; Affichage pour désactiver"</string>
+  <string name="screen_on_proximity_sensor_summary">"Pour empêcher toute erreur de manipulation, le téléphone est désactivé !"</string>
+  <string name="screen_on_proximity_sensor_title">Capteur de proximité obstrué !</string>
   <string name="sd_not_available">Carte SD non montée ou indisponible</string>
   <string name="sd_not_available_low_internal_storage">Carte SD non montée ou indisponible, espace disque faible sur le stockage interne</string>
   <string name="sd_not_available_saved_to_internal_storage">Enregistré dans la mémoire interne</string>
@@ -163,15 +163,15 @@ Réessayer dans %d secondes."</string>
   <string name="select">Sélectionner</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="send">Envoyer</string>
-  <string name="send_sms_for_sync_notice">Le système enverra un SMS d\'activation, voulez-vous continuer ?</string>
+  <string name="send_sms_for_sync_notice">Le système enverra un SMS d\'activation, voulez-vous continuer ?</string>
   <string name="send_sms_for_sync_title">Envoyez un SMS pour activer la Synchronisation</string>
   <string name="share">Partager</string>
   <string name="short_pincode_error_msg">Veuillez saisir de 4 à 8 chiffres</string>
   <string name="short_pukcode_error_msg">Veuillez saisir au moins 8 chiffres</string>
-  <string name="shutdown_confirm_title">Êtes-vous sûr de vouloir éteindre votre téléphone ?</string>
+  <string name="shutdown_confirm_title">Êtes-vous sûr de vouloir éteindre votre téléphone ?</string>
   <string name="sim_account_name">SIM</string>
-  <string name="sim_changed_reactivate_int_notice">La carte SIM actuelle n\'est pas activée. Un SMS international est requis pour activer ce service. Désirez-vous l\'activer maintenant ?</string>
-  <string name="sim_changed_reactivate_notice">La carte SIM actuelle n\'est pas activée. Un SMS est nécessaire pour activer le service de Synchronisation Xiaomi. Le réactiver maintenant ?</string>
+  <string name="sim_changed_reactivate_int_notice">La carte SIM actuelle n\'est pas activée. Un SMS international est requis pour activer ce service. Désirez-vous l\'activer maintenant ?</string>
+  <string name="sim_changed_reactivate_notice">La carte SIM actuelle n\'est pas activée. Un SMS est nécessaire pour activer le service de Synchronisation Xiaomi. Le réactiver maintenant ?</string>
   <string name="sim_in_airplane_mode">Désactiver le mode Avion</string>
   <string name="sim_locked">Carte SIM verrouillée</string>
   <string name="sim_not_ready">Carte SIM en cours d\'utilisation, veuillez réessayer plus tard.</string>
@@ -212,7 +212,7 @@ Réessayer dans %d secondes."</string>
   <string name="yesterday">Hier</string>
   <string name="yellow_page_unable_send_sms">Impossible d\'envoyer le SMS</string>
   <string name="yellow_page_module_sms_sent">Message envoyé</string>
-  <string name="yellow_page_sms_send_failed">Échec de l\'envoi du SMS !</string>
+  <string name="yellow_page_sms_send_failed">Échec de l\'envoi du SMS !</string>
   <string name="yellow_page_sms_sending">Envoi en cours…</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Impossible d\'envoyer un message en mode invité</string>
   <string name="grant_permissions_account">Autoriser l\'accès au compte</string>
@@ -270,7 +270,7 @@ Réessayer dans %d secondes."</string>
   <string name="the_spring_festival">Nouvel an chinois</string>
   <string name="white_dews">Blanc de rosée</string>
 
-  <!-- _day's à vérifier : pourquoi certains traduits et d'autres non : "/> ? -->
+  <!-- _day's à vérifier : pourquoi certains traduits et d'autres non : "/> ? -->
   <string name="arbor_day">Journée de l\'arbre</string>
   <string name="childrens_day">Journée de l\'enfant</string>
   <string name="chinese_youth_day">Journée de la jeunesse</string>

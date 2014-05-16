@@ -25,7 +25,7 @@
   <string name="finished_empty">La liste des éléments terminés est vide</string>
   <string name="format_date_uploaded">Transféré le %s</string>
   <string name="format_progress_percent">%d%%</string>
-  <string name="manager_activity_last_sync_format">"Dernière synchronisation :
+  <string name="manager_activity_last_sync_format">"Dernière synchronisation :
 %1$s
 %2$s"</string>
   <string name="manager_do_not_upload">Ne pas transférer</string>
@@ -53,17 +53,17 @@
   <string name="notify_resolved">Transferts terminés</string>
   <string name="notify_uploads">Instant Upload</string>
   <string name="ok">OK</string>
-  <string name="pause_state_low_battery">interrompu : batterie faible</string>
+  <string name="pause_state_low_battery">interrompu : batterie faible</string>
   <string name="pause_state_manually_paused">interrompu manuellement</string>
-  <string name="pause_state_need_charger">interrompu : reporté jusqu\'à la mise en charge</string>
-  <string name="pause_state_need_connectivity">interrompu : en attente de connexion</string>
-  <string name="pause_state_need_media">interrompu : carte SD non disponible</string>
-  <string name="pause_state_need_photos_quota">interrompu : quota PWA dépassé</string>
-  <string name="pause_state_need_wifi">interrompu : en attente de connexion Wi-Fi</string>
+  <string name="pause_state_need_charger">interrompu : reporté jusqu\'à la mise en charge</string>
+  <string name="pause_state_need_connectivity">interrompu : en attente de connexion</string>
+  <string name="pause_state_need_media">interrompu : carte SD non disponible</string>
+  <string name="pause_state_need_photos_quota">interrompu : quota PWA dépassé</string>
+  <string name="pause_state_need_wifi">interrompu : en attente de connexion Wi-Fi</string>
   <string name="pause_state_retrying">en attente d\'une nouvelle tentative</string>
-  <string name="pause_state_roaming">interrompu : itinérance</string>
+  <string name="pause_state_roaming">interrompu : itinérance</string>
   <string name="pause_state_running">transfert…</string>
-  <string name="photos_upload_dimension_1600">Recommandé : 1 600 pixels (pour le partage, l\'impression et les fonds d\'écran)</string>
+  <string name="photos_upload_dimension_1600">Recommandé : 1 600 pixels (pour le partage, l\'impression et les fonds d\'écran)</string>
   <string name="photos_upload_dimension_original">Taille d\'origine (transfert le plus lent)</string>
   <string name="picasa_default_destination">Album Instant Upload</string>
   <string name="preference_category_title_about">À propos</string>
@@ -82,18 +82,18 @@
   <string name="preference_plus_sync_all">Transférer les photos existantes</string>
   <string name="preference_plus_sync_all_description">Transférer toutes les photos et les vidéos de votre téléphone</string>
   <string name="preference_plus_sync_all_prompt_no">Non</string>
-  <string name="preference_plus_sync_all_prompt_text">Le transfert de photos et de vidéos n\'ayant pas déjà été transférées à partir de votre téléphone vers un album Web privé peut prendre un certain temps. Toutefois, cette opération se fera en arrière-plan. Voulez-vous vraiment continuer ?</string>
+  <string name="preference_plus_sync_all_prompt_text">Le transfert de photos et de vidéos n\'ayant pas déjà été transférées à partir de votre téléphone vers un album Web privé peut prendre un certain temps. Toutefois, cette opération se fera en arrière-plan. Voulez-vous vraiment continuer ?</string>
   <string name="preference_plus_sync_all_prompt_title">Transférer les photos existantes</string>
   <string name="preference_plus_sync_all_prompt_yes">Oui</string>
   <string name="preference_plus_sync_while_roaming">Transferts en itinérance</string>
   <string name="preference_plus_sync_while_roaming_summary">Transférer les photos et les vidéos en itinérance</string>
   <string name="preference_plus_title">Paramètres Instant Upload</string>
   <string name="preference_plus_upload_status">État du transfert</string>
-  <string name="preference_summary_header_format">%1$s : %2$s</string>
+  <string name="preference_summary_header_format">%1$s : %2$s</string>
   <string name="preference_summary_need_power">Transférer uniquement lorsque le téléphone est en charge</string>
   <string name="preference_summary_need_wifi">Transférer uniquement lorsqu\'une connexion Wi-Fi est disponible</string>
   <string name="preference_summary_uploading_format">: %1$d sur %2$d</string>
-  <string name="preference_summary_uploading_paused">Transfert interrompu : appuyez pour reprendre.</string>
+  <string name="preference_summary_uploading_paused">Transfert interrompu : appuyez pour reprendre.</string>
   <string name="preference_summary_uploading_percent">Transfert (%1$d%%)</string>
   <string name="preference_title_camera_sync_version">Version Instant Upload</string>
   <string name="preference_title_need_power">En charge</string>

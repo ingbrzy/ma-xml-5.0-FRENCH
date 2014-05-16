@@ -23,15 +23,15 @@
   <string name="all_licenses_are_clearing">Suppression…</string>
   <string name="all_licenses_are_removed">Supprimé</string>
   <string name="clear_license_popup">"Les contenus nécessitant des licences doivent être achetés de nouveau pour être utilisés.
-Supprimer toutes les licences ?"</string>
+Supprimer toutes les licences ?"</string>
   <string name="divx_vod">DivX® VOD</string>
   <string name="divx_registration">Enregistrer</string>
   <string name="divx_deregistration">Annuler l\'enregistrement</string>
   <string name="divx_registration_info">Vous devez enregistrer votre appareil pour pouvoir lire vos vidéos protégées DivX®.</string>
-  <string name="divx_registration_code">Code d\'enregistrement : %s</string>
-  <string name="divx_register_website">Enregistrez-vous sur : %s</string>
-  <string name="divx_deregistration_code">Code de désenregistrement : %s</string>
-  <string name="divx_deregister_website">Désenregistrez-vous sur : %s</string>
-  <string name="divx_deregistration_info">Continuer l’enregistrement ?</string>
-  <string name="dialog_deregister_confirmation_message">Votre appareil est déjà enregistré. Êtes-vous sûr de vouloir vous désenregistrer ?</string>
+  <string name="divx_registration_code">Code d\'enregistrement : %s</string>
+  <string name="divx_register_website">Enregistrez-vous sur : %s</string>
+  <string name="divx_deregistration_code">Code de désenregistrement : %s</string>
+  <string name="divx_deregister_website">Désenregistrez-vous sur : %s</string>
+  <string name="divx_deregistration_info">Continuer l’enregistrement ?</string>
+  <string name="dialog_deregister_confirmation_message">Votre appareil est déjà enregistré. Êtes-vous sûr de vouloir vous désenregistrer ?</string>
 </resources>

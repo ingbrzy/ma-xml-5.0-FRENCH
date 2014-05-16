@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="cit_ac_charger_in">Le chargeur est connecté</string>
   <string name="cit_ac_charger_out">Le chargeur est déconnecté</string>
-  <string name="cit_accelermeter_sensor_check_summary">L\'écran affichera l\'accélération dans les 3 dimensions X, Y, Z (Note : si le téléphone est tourné, les valeurs changeront en fonction de l\'orientation de l\'écran</string>
+  <string name="cit_accelermeter_sensor_check_summary">L\'écran affichera l\'accélération dans les 3 dimensions X, Y, Z (Note : si le téléphone est tourné, les valeurs changeront en fonction de l\'orientation de l\'écran</string>
   <string name="cit_accelermeter_sensor_check_title">Test de l\'accéléromètre</string>
   <string name="cit_audio_loopback_check_one_title">Test micro du récepteur</string>
   <string name="cit_audio_loopback_check_summary_first">Le test va effectuer le rebouclage du micro principal</string>
@@ -45,7 +45,7 @@
   <string name="cit_display_check_summary">Le test affichera une image, ajoutez un fichier .bmp à la racine de la carte SD</string>
   <string name="cit_display_check_title">Test de l\'écran</string>
   <string name="cit_display_continue">Appuyez sur l\'écran pour commencer le test</string>
-  <string name="cit_exit_test_summary">Fermer les tests fera perdre toutes les données, êtes-vous sûr de vouloir continuer ?</string>
+  <string name="cit_exit_test_summary">Fermer les tests fera perdre toutes les données, êtes-vous sûr de vouloir continuer ?</string>
   <string name="cit_exit_test_title">Arrêter le test</string>
   <string name="cit_fail">Échoué</string>
   <string name="cit_fm_audio_path">Définir le chemin audio</string>
@@ -68,15 +68,15 @@
   <string name="cit_gps_check_summary">Ce test affichera les informations GPS</string>
   <string name="cit_gps_check_title">Test du GPS</string>
   <string name="cit_gps_disabled">Le GPS est désactivé, activez le depuis le menu d\'activations rapides</string>
-  <string name="cit_gps_satellite_count">GPS Satellites : %d</string>
-  <string name="cit_gps_satellite_prn">PRN : %s</string>
-  <string name="cit_gps_satellite_snr">SNR : %s</string>
+  <string name="cit_gps_satellite_count">GPS Satellites : %d</string>
+  <string name="cit_gps_satellite_prn">PRN : %s</string>
+  <string name="cit_gps_satellite_snr">SNR : %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Les valeurs du capteur gyroscopique pour les coordonnées X, Y, Z</string>
   <string name="cit_gyroscope_sensor_check_title">Test Gyroscope</string>
   <string name="cit_headset_button_check_summary">Le test va afficher la touche de l\'appareil lorsqu\'elle sera activée</string>
   <string name="cit_headset_button_check_title">Test des écouteurs</string>
   <string name="cit_headset_button_click">Sélectionner le bouton du casque</string>
-  <string name="cit_headset_button_current">Touche : %s</string>
+  <string name="cit_headset_button_current">Touche : %s</string>
   <string name="cit_headset_button_fast_forward">Avancer</string>
   <string name="cit_headset_button_next">Suivant</string>
   <string name="cit_headset_button_pass">Passé</string>
@@ -99,7 +99,7 @@
   <string name="cit_kayboard_volume_down">Test du bouton: VOLUME_DOWN</string>
   <string name="cit_kayboard_volume_up">Test du bouton: VOLUME_UP</string>
   <string name="cit_keyboard_back">Test du bouton: BACK</string>
-  <string name="cit_keyboard_current">Clavier : %s</string>
+  <string name="cit_keyboard_current">Clavier : %s</string>
   <string name="cit_keyboard_menu">Test du bouton: MENU</string>
   <string name="cit_keyboard_test_summary">Montre quelle touche matérielle est sélectionnée, ce test ne vérifie pas le bouton Accueil</string>
   <string name="cit_keyboard_test_title">Test du clavier</string>
@@ -157,12 +157,12 @@
   <string name="cit_sim_check_title">Test de la carte SIM</string>
   <string name="cit_sim_error_unknown">Erreur carte SIM inconnu</string>
   <string name="cit_sim_network_operator">Opérateurs réseau:</string>
-  <string name="cit_sim_network_operator_name">Nom de l\'opérateur réseau :</string>
+  <string name="cit_sim_network_operator_name">Nom de l\'opérateur réseau :</string>
   <string name="cit_sim_network_type">Type de réseau :</string>
-  <string name="cit_sim_serial_number">Numéro de carte SIM :</string>
+  <string name="cit_sim_serial_number">Numéro de carte SIM :</string>
   <string name="cit_sim_sim_country">Pays:</string>
-  <string name="cit_sim_sim_operator">Opérateur SIM :</string>
-  <string name="cit_sim_sim_operator_name">Nom de l\'opérateur SIM :</string>
+  <string name="cit_sim_sim_operator">Opérateur SIM :</string>
+  <string name="cit_sim_sim_operator_name">Nom de l\'opérateur SIM :</string>
   <string name="cit_sim_state_absent">Carte SIM introuvable</string>
   <string name="cit_sim_state_network_locked">NetworkPIN verrouillé</string>
   <string name="cit_sim_state_pin_required">Code PIN requis</string>
@@ -174,7 +174,7 @@
   <string name="cit_tool">Outils</string>
   <string name="cit_tool_bluetooth">Outils de test Bluetooth</string>
   <string name="cit_tool_bluetooth_mode">Mode de test Bluetooth</string>
-  <string name="cit_tool_bluetooth_not_on">La fonction Bluetooth n\'est pas active !</string>
+  <string name="cit_tool_bluetooth_not_on">La fonction Bluetooth n\'est pas active !</string>
   <string name="cit_tool_bluetooth_off">Désactiver le Bluetooth</string>
   <string name="cit_tool_bluetooth_on">Activer le Bluetooth</string>
   <string name="cit_tool_log">Journal</string>
@@ -211,24 +211,24 @@
   <string name="cit_tool_wifi_rx_exit">Rx: sortie</string>
   <string name="cit_tool_wifi_rx_run">Exécuter</string>
   <string name="cit_tool_wifi_rx_stop">Arrêter</string>
-  <string name="cit_tool_wifi_rx_total_format">Transféré : %s</string>
+  <string name="cit_tool_wifi_rx_total_format">Transféré : %s</string>
   <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
-  <string name="cit_tool_wifi_rxbg_test_channel">Canal :</string>
-  <string name="cit_tool_wifi_rxbg_test_datarate">Taux :</string>
+  <string name="cit_tool_wifi_rxbg_test_channel">Canal :</string>
+  <string name="cit_tool_wifi_rxbg_test_datarate">Taux :</string>
   <string name="cit_tool_wifi_rxn_test">Rx:N</string>
-  <string name="cit_tool_wifi_rxn_test_channel">Canal :</string>
+  <string name="cit_tool_wifi_rxn_test_channel">Canal :</string>
   <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
-  <string name="cit_tool_wifi_tx_bg">Transmission : B/G</string>
-  <string name="cit_tool_wifi_tx_bg_chan">Canal :</string>
-  <string name="cit_tool_wifi_tx_bg_txpr">Puissance de Transmission :</string>
-  <string name="cit_tool_wifi_tx_bg_txrt">Débit de données :</string>
-  <string name="cit_tool_wifi_tx_n">Transmission : N</string>
-  <string name="cit_tool_wifi_tx_n_bandwidth">Bande passante :</string>
-  <string name="cit_tool_wifi_tx_n_chan">Canal :</string>
-  <string name="cit_tool_wifi_tx_n_txpr">Puissance de transmission :</string>
-  <string name="cit_tool_wifi_tx_n_txrt">Débit de données MCS :</string>
+  <string name="cit_tool_wifi_tx_bg">Transmission : B/G</string>
+  <string name="cit_tool_wifi_tx_bg_chan">Canal :</string>
+  <string name="cit_tool_wifi_tx_bg_txpr">Puissance de Transmission :</string>
+  <string name="cit_tool_wifi_tx_bg_txrt">Débit de données :</string>
+  <string name="cit_tool_wifi_tx_n">Transmission : N</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">Bande passante :</string>
+  <string name="cit_tool_wifi_tx_n_chan">Canal :</string>
+  <string name="cit_tool_wifi_tx_n_txpr">Puissance de transmission :</string>
+  <string name="cit_tool_wifi_tx_n_txrt">Débit de données MCS :</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
-  <string name="cit_tool_wifi_tx_st_chan">Canal :</string>
+  <string name="cit_tool_wifi_tx_st_chan">Canal :</string>
   <string name="cit_torch_off">Éteindre la torche</string>
   <string name="cit_torch_on">Allumer la torche</string>
   <string name="cit_touch_calib_fail">"Le calibrage de l'écran a échoué, recommencez"</string>
@@ -267,7 +267,7 @@
   <string name="cit_wifi_state_refresh">Réactualiser</string>
   <string name="cit_tool_nfc">Outils de test NFC</string>
   <string name="cit_tool_nfc_st">Nfc ST:</string>
-  <string name="cit_tool_nfc_st_confreq">freq :</string>
+  <string name="cit_tool_nfc_st_confreq">freq :</string>
   <string name="cit_tool_nfc_st_run">Exécuter</string>
   <string name="cit_tool_nfc_st_stop">Arrêter</string>
  <!-- à traduire

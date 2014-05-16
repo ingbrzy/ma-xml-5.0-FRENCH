@@ -35,7 +35,7 @@
   <string name="client_text">Cet appareil agira comme un client. Appuyez sur le bouton Galerie pour choisir un fichier local.</string>
   <string name="empty_message">Aucun périphérique trouvé. Sélectionnez le bouton Rechercher dans la barre d\'action.</string>
   <string name="p2p_off_warning">Activez le P2P dans les paramètres système</string>
-  <string name="group_owner_text">"Je suis le propriétaire du groupe ? "</string>
+  <string name="group_owner_text">"Je suis le propriétaire du groupe ? "</string>
   <string name="toggle">Interrupteur</string>
   <string name="filter">Filtre</string>
   <string name="position">position</string>
@@ -47,14 +47,14 @@
   <string name="wfd_search_btn">Rechercher des périphériques</string>
   <string name="wfd_framework_busy">"Le framework de l'affichage sans fil est occupé"</string>
   <string name="wfd_connecting">Connexion</string>
-  <string name="wfd_connection_lost">Alerte ! Connexion interrompue…</string>
+  <string name="wfd_connection_lost">Alerte ! Connexion interrompue…</string>
   <string name="wfd_running">"Affichage sans fil en cours d'exécution"</string>
-  <string name="wfd_force_exit">"Souhaitez-vous quitter l'application ? La session existante sera interrompue."</string>
+  <string name="wfd_force_exit">"Souhaitez-vous quitter l'application ? La session existante sera interrompue."</string>
   <string name="wfd_prepare">"Préparer l'environnement de l'affichage sans fil"</string>
   <string name="wfd_start_session">"Démarrer la session d'affichage sans fil"</string>
   <string name="wfd_searching">Recherche</string>
   <string name="wfd_conn_time_out">"Connexion à l'affichage sans fil perdue"</string>
-  <string name="wfd_exit">"Voulez-vous quitter l'affichage sans fil ?"</string>
+  <string name="wfd_exit">"Voulez-vous quitter l'affichage sans fil ?"</string>
   <string name="wfd_tear_down_session">"Terminer la session d'affichage sans fil"</string>
   <string name="Available">Disponible</string>
   <string name="Invited">Invité</string>
@@ -67,7 +67,7 @@
   <string name="not_wfd_device">"Cet appareil n'est pas un périphérique d'affichage sans fil"</string>
   <string name="wfd_disabled">"L'affichage sans fil a été désactivé"</string>
   <string name="summary_auto_play">"La synchronisation de l'écran commencera automatiquement une fois la connexion établie"</string>
-  <string name="wfd_service_die">"Service d'affichage sans fil interrompu, veuillez essayer de le redémarrer !"</string>
+  <string name="wfd_service_die">"Service d'affichage sans fil interrompu, veuillez essayer de le redémarrer !"</string>
   <string name="wfd_pop_wifi_alert">"Veuillez activer le Wi-Fi avant d'utiliser l'affichage sans fil"</string>
   <string name="notice_wlan_disable">"Si vous souhaitez utiliser l'affichage sans fil, vous devez activer le Wifi."</string>
   <string name="notice_wlan_enable">"Activer l'affichage sans fil avant de rechercher des périphériques disponibles (la connexion Wi-Fi sera coupée)."</string>

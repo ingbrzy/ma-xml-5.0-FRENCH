@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <!-- removed in 4.3.12 mi3w -->
   <string name="prepaid_picker_title_default">Sélectionnez le montant</string>
@@ -13,27 +13,27 @@
   <string name="error_has_bought_title">Répéter l\'achat</string>
   <string name="error_server_title">Erreur serveur</string>
   <string name="error_common_title">Erreur système</string>
-  <string name="error_user_id_mismatch_title">Erreur d\'authentification !</string>
-  <string name="error_illegal_order_title">Erreur dans la commande !</string>
+  <string name="error_user_id_mismatch_title">Erreur d\'authentification !</string>
+  <string name="error_illegal_order_title">Erreur dans la commande !</string>
   <string name="error_verify_summary">L\'Application n\'a pas l\'autorisation de solliciter le service</string>
   <string name="error_verify_title">Pas de permission</string>
-  <string name="error_frozen_title">Compte gelé !</string>
+  <string name="error_frozen_title">Compte gelé !</string>
   <string name="error_too_frequent_visits_summary">"Vous avez effectué trop d\'opérations sur le compte. 
 Veuillez réessayer dans cinq minutes"</string>
-  <string name="error_too_frequent_visits_title">Avertissement !</string>
+  <string name="error_too_frequent_visits_title">Avertissement !</string>
   <string name="error_giftcard_summary">Impossible d\'obtenir les informations de la carte-cadeau</string>
   <string name="error_bankcard_verify_summary">Erreur de vérification de compte bancaire</string>
   <string name="error_cert_date_title">Erreur de date du certificat</string>
   <!--  -->
 
-  <string name="account_detail">"Compte Mi :
+  <string name="account_detail">"Compte Mi :
 %1$s"</string>
   <string name="app_name">Service de paiement</string>
-  <string name="balance">Solde : %1$s MiCredits</string>
+  <string name="balance">Solde : %1$s MiCredits</string>
   <string name="balance_giftcard_payment">%1$s MiCredits (%2$s MiCredit carte-cadeau)</string>
   <string name="balance_no_giftcard_payment">%1$s MiCredits (impossible d\'utiliser une carte-cadeau pour cet achat)</string>
   <string name="balance_payment">%1$s MiCredits</string>
-  <string name="bankcall_bank_account">Carte bancaire :</string>
+  <string name="bankcall_bank_account">Carte bancaire :</string>
   <string name="bankcall_call_hint">"Vous allez recevoir une demande de règlement d'Union (020-96585). Veuillez suivre les instructions pour compléter la transaction."</string>
   <string name="bankcall_card">Carte bancaire</string>
   <string name="bankcall_card_hint">Entrez votre numéro de carte</string>
@@ -42,7 +42,7 @@ Veuillez réessayer dans cinq minutes"</string>
   <string name="bankcall_city">Ville</string>
   <string name="bankcall_credit_card">Carte de crédit</string>
   <string name="bankcall_debit_card">Carte de débit</string>
-  <string name="bankcall_denom">Montant :</string>
+  <string name="bankcall_denom">Montant :</string>
   <string name="bankcall_denom_number">%1$s RMB</string>
   <string name="bankcall_error_card">Veuillez saisir un numéro de compte bancaire valide</string>
   <string name="bankcall_error_card_info">Veuillez saisir des informations de compte bancaire valides</string>
@@ -50,7 +50,7 @@ Veuillez réessayer dans cinq minutes"</string>
 a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="bankcall_id_card">Carte d\'identité</string>
   <string name="bankcall_id_card_hint">"Carte d'identité correspondant au compte bancaire"</string>
-  <string name="bankcall_merchant">Récepteur :</string>
+  <string name="bankcall_merchant">Récepteur :</string>
   <string name="bankcall_name">Nom</string>
   <string name="bankcall_name_hint">"Nom correspondant au compte bancaire"</string>
   <string name="bankcall_phone">Téléphone</string>
@@ -99,7 +99,7 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="error_server_summary">Erreur du serveur, veuillez réessayer plus tard</string>
   <string name="error_user_id_mismatch_summary">Veuillez vérifier les détails de votre compte et essayer à nouveau</string>
   <string name="fee">%1$s MiCredit</string>
-  <string name="forget_password"><u>Mot de passe oublié ?</u></string>
+  <string name="forget_password"><u>Mot de passe oublié ?</u></string>
   <string name="format_date">dd MMM yyyy</string>
   <string name="format_time">dd MMM yyyy H:mm</string>
   <string name="frozen">(Gelé)</string>
@@ -112,7 +112,7 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="giftcard_hint">Les MiCredits reçus par carte-cadeau seront\ndépensés en premier automatiquement.</string>
   <!-- les 2 phrases suivantes à revoir éventuellement) -->
   <string name="giftcard_push_notification_prime_title">Vous avez reçu un certificat de cadeau</string>
-  <string name="giftcard_push_notification_sub_title">%1$s : don de %2$s MiCredit.</string>
+  <string name="giftcard_push_notification_sub_title">%1$s : don de %2$s MiCredit.</string>
   <string name="giftcard_record">MiCredit reçus</string>
   <string name="giftcard_value">" (Carte-cadeau %1$s MiCredit)"</string>
   
@@ -141,31 +141,31 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
 You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3$s"</string>
  <!-- -->
   
-  <string name="label_balance">"Solde : "</string>
-  <string name="label_order_name">"Nom du produit : "</string>
-  <string name="label_order_price">"Quantité : "</string>
+  <string name="label_balance">"Solde : "</string>
+  <string name="label_order_name">"Nom du produit : "</string>
+  <string name="label_order_price">"Quantité : "</string>
   <string name="lockpassword_choose_your_pattern_header">Choisissez votre schéma</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmer votre schéma</string>
   <string name="lockpassword_input_your_pattern_header">Confirmer votre schéma</string>
   <string name="lockpattern_confirm_button_text">Confirmer</string>
   <string name="lockpattern_continue_button_text">Continuer</string>
-  <string name="lockpattern_need_to_confirm">Redessinez le schéma pour confirmer :</string>
-  <string name="lockpattern_need_to_confirm_wrong">Ne correspond pas au schéma précédent, veuillez recommencer :</string>
+  <string name="lockpattern_need_to_confirm">Redessinez le schéma pour confirmer :</string>
+  <string name="lockpattern_need_to_confirm_wrong">Ne correspond pas au schéma précédent, veuillez recommencer :</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Schéma non valide, %d tentatives restantes&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
-  <string name="lockpattern_pattern_confirmed_header">Votre nouveau schéma de déverrouillage :</string>
+  <string name="lockpattern_pattern_confirmed_header">Votre nouveau schéma de déverrouillage :</string>
   <string name="lockpattern_pattern_entered_header">Schéma enregistré.</string>
-  <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points. Veuillez réessayer :</string>
+  <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points. Veuillez réessayer :</string>
   <string name="lockpattern_recording_inprogress">Ôtez le doigt lorsque vous avez terminé.</string>
-  <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage :</string>
+  <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage :</string>
   <string name="lockpattern_retry_text"><u>Réinitialiser le schéma de verrouillage</u></string>
-  <string name="lockpattern_settings_help_how_to_record">Comment dessiner un schéma de déverrouillage :</string>
+  <string name="lockpattern_settings_help_how_to_record">Comment dessiner un schéma de déverrouillage :</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Réessayer dans %d secondes.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Trop de tentatives échouées !&lt;/font&gt;</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Trop de tentatives échouées !&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Annuler</string>
   <string name="lockpattern_tutorial_continue_label">Suivant</string>
-  <string name="lockscreen_forgot_pattern_button_text"><u>Schéma oublié ?</u></string>
+  <string name="lockscreen_forgot_pattern_button_text"><u>Schéma oublié ?</u></string>
   <string name="login">Connexion</string>
   <string name="memu_refresh">Actualiser</string>
   <string name="mibi_license_message">Vous êtes sur le point d\'utiliser Micredit, un service fourni par Xiaomi Inc. Avant de pouvoir utiliser ce service, vous devez accepter le %1$s.</string>
@@ -178,28 +178,28 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_picker_hint_1_2">La méthode de recharge par SMS coûte plus cher, donc &lt;font color=red&gt;%1$d RMB = %2$d MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Pour chaque recharge par SMS les opérateurs chargent %1$s RMB de frais de service</string>
-  <string name="msg_send_no_net_error">Échec de l\'envoi du message : Impossible de se connecter au fournisseur réseau.</string>
-  <string name="msg_send_no_sim_error">Échec de l\'envoi du message : essayez de réinsérer votre carte SIM.</string>
+  <string name="msg_send_no_net_error">Échec de l\'envoi du message : Impossible de se connecter au fournisseur réseau.</string>
+  <string name="msg_send_no_sim_error">Échec de l\'envoi du message : essayez de réinsérer votre carte SIM.</string>
   <string name="msg_send_send_fail_error">Échec de l\'envoi du message</string>
   <string name="msg_telecom_order_denom">%1s yuan (n\'inclue pas les frais de données mobiles)</string>
-  <string name="msg_telecom_order_denom_label">Somme due :</string>
+  <string name="msg_telecom_order_denom_label">Somme due :</string>
   <string name="msg_telecom_order_goods">%1s MiCredit(s)</string>
-  <string name="msg_telecom_order_goods_label">Description du produit :</string>
+  <string name="msg_telecom_order_goods_label">Description du produit :</string>
   <string name="msg_order_hint_1_1">Après avoir appuyé sur Confirmer l\'achat votre téléphone va</string>
   <string name="msg_order_hint_1_2">automatiquement contacter votre fournisseur de service.</string>
-  <string name="msg_progress_hint_2_1">Votre fournisseur de réseau a été contacté !</string>
+  <string name="msg_progress_hint_2_1">Votre fournisseur de réseau a été contacté !</string>
   <string name="msg_progress_hint_2_2">Vous recevrez un texte de confirmation sous peu.</string>
   <string name="msg_telecom_sending">Mise en contact avec votre fournisseur de réseau…</string>
   <string name="order_price">%1$s MiCredits</string>
   <string name="password_error">Veuillez saisir votre mot de passe</string>
-  <string name="password_forget">Mot de passe oublié ?</string>
-  <string name="password_hint">Veuillez saisir votre mot de passe Xiaomi :</string>
+  <string name="password_forget">Mot de passe oublié ?</string>
+  <string name="password_hint">Veuillez saisir votre mot de passe Xiaomi :</string>
   <string name="pay_record_empty">Aucun historique de paiement</string>
   <string name="pay_record_typeall">Tous</string>
   <string name="paytool_alipay">Alipay</string>
   <string name="paytool_error_install">L\'installation du plugin de sécurité mobile %1$s a échoué</string>
-  <string name="paytool_error_msp">La recharge %1$s a échoué !</string>
-  <string name="paytool_msp_not_installed">Vous n\'avez pas installé le plugin de sécurité mobile %1$s, l\'installer maintenant ?</string>
+  <string name="paytool_error_msp">La recharge %1$s a échoué !</string>
+  <string name="paytool_msp_not_installed">Vous n\'avez pas installé le plugin de sécurité mobile %1$s, l\'installer maintenant ?</string>
   <string name="paytool_tenpay">Tenpay</string>
   <string name="prepaid_edit_limit">chiffres</string>
   <string name="prepaid_error_card_length">Veuillez saisir le numéro de la carte prépayée ou le mot de passe correctement</string>
@@ -218,9 +218,9 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_bankcall_card_querying">Obtention du type de compte bancaire, veuillez patienter…</string>
   <string name="progress_creating">Récupération des informations de la commande…</string>
   <string name="progress_downloading">Chargement…</string>
-  <string name="progress_error_pay_summary">%1$s MiCredits ajoutés, mais le paiement a échoué ! Veuillez réessayer plus tard.</string>
+  <string name="progress_error_pay_summary">%1$s MiCredits ajoutés, mais le paiement a échoué ! Veuillez réessayer plus tard.</string>
   <string name="progress_error_pay_title">Le paiement a échoué</string>
-  <string name="progress_error_recharge_summary">La recharge a échoué ! Veuillez réessayer plus tard.</string>
+  <string name="progress_error_recharge_summary">La recharge a échoué ! Veuillez réessayer plus tard.</string>
   <string name="progress_error_recharge_title">La recharge a échoué</string>
   <string name="progress_loading">Traitement en cours, veuillez patienter…</string>
   <string name="progress_msg_creating">Génération de la commande par recharge SMS…</string>
@@ -229,18 +229,18 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_prepaid_creating">Génération de la commande de la recharge…</string>
   <string name="progress_querying">Traitement de la demande de paiement…</string>
   <string name="progress_submit_hint">Recharge effective dans 3 minutes environ</string>
-  <string name="progress_submit_recharge_summary">Recharge de : %1$s RMB</string>
+  <string name="progress_submit_recharge_summary">Recharge de : %1$s RMB</string>
   <string name="progress_submit_title">Demande de recharge envoyée</string>
   <string name="progress_success_pay_summary">%1$s MiCredits rechargés,%2$s MiCredits payés</string>
   <string name="progress_success_pay_title">Paiement de %1$s MiCredit(s) effectué</string>
-  <string name="progress_success_recharge_summary">Balance du compte : %1$s MiCredits</string>
+  <string name="progress_success_recharge_summary">Balance du compte : %1$s MiCredits</string>
   <string name="progress_success_recharge_title">Recharge de %1$s MiCredits effectuée</string>
   <string name="progress_voucher_creating">Ajout de MiCredits sur votre compte, veuillez patienter…</string>
-  <string name="progress_warning_check">"Pas encore mis à jour !  
+  <string name="progress_warning_check">"Pas encore mis à jour !  
 Nous vérifierons pour vous dans les deux jour ouvrables"</string>
-  <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt : 
-1. Contactez le service clientèle sur : %1$s 
-2. Fournir ce numéro de série : %2$s</string>
+  <string name="progress_warning_contact_server">Le message n\'a pas été remis, mais sera envoyé bientôt : 
+1. Contactez le service clientèle sur : %1$s 
+2. Fournir ce numéro de série : %2$s</string>
   <string name="progress_warning_waiting">Les changements du compte sont en cours de mise à jour. Veuillez réessayer plus tard.</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_bankcall_title">Carte bancaire</string>
@@ -271,7 +271,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="title_giftcard">Promotions</string>
   <string name="title_lockpattern">Schéma de verrouillage requis</string>
   <string name="title_mili_center">MiCredits</string>
-  <string name="title_myaccount">Compte Mi : %s</string>
+  <string name="title_myaccount">Compte Mi : %s</string>
   <string name="title_nopassword">Ne pas demander pour les petits paiements</string>
   <string name="title_nopassword_dialog">Limite journalière</string>
   <string name="title_password">Mot de passe</string>
@@ -281,18 +281,18 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="title_recharge_record">Historique de recharges</string>
   <string name="title_transaction">Transactions</string>
   <string name="title_visible_pattern">Rendre visible le schéma</string>
-  <string name="voucher_edit_hint">Code :</string>
+  <string name="voucher_edit_hint">Code :</string>
   <string name="voucher_edit_limit">chiffres</string>
-  <string name="voucher_error_password">Code de bon MiCredit non valide !</string>
+  <string name="voucher_error_password">Code de bon MiCredit non valide !</string>
   <string name="voucher_input_password_prompt">Saisir le code</string>
   <string name="button_confirm">Confirmer</string>
   <string name="button_next">Suivant</string>
-  <string name="colon">" : "</string>
+  <string name="colon">" : "</string>
   <string name="detail_consume_account">ID client</string>
   <string name="detail_consume_amount">Montant</string>
   <string name="detail_consume_name">Article</string>
   <string name="detail_consume_order">ID commande</string>
- <!-- detail_consume_time correct ? original : Time --> 
+ <!-- detail_consume_time correct ? original : Time --> 
   <string name="detail_consume_time">Date</string>
   <string name="detail_consume_title">Historique de paiements</string>
   <string name="detail_giftcard_activity">Promotion</string>
@@ -305,7 +305,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
   <string name="detail_recharge_amount">Montant</string>
   <string name="detail_recharge_method">Méthode</string>
   <string name="detail_recharge_order">Commande Nº</string>
- <!-- detail_recharge_time correct ? original : Time -->
+ <!-- detail_recharge_time correct ? original : Time -->
   <string name="detail_recharge_time">Date</string>
   <string name="detail_recharge_title">Historique de recharges</string>
   <string name="scan_prompt_number">Analyse du numéro de la carte prépayée %1$s</string>
@@ -316,7 +316,7 @@ Nous vérifierons pour vous dans les deux jour ouvrables"</string>
 Vérifiez la configuration de la date de votre appareil puis réessayez."</string>
   <string name="prepaid_grid_carrier_hint">Sélectionnez le fournisseur</string>
   <string name="prepaid_grid_denomination_hint">Sélectionnez le montant</string>
-  <string name="giftcard_expire_notification_prime_title">Oops ! Votre code de promotion est sur ​​le point d\'expirer…</string>
+  <string name="giftcard_expire_notification_prime_title">Oops ! Votre code de promotion est sur ​​le point d\'expirer…</string>
   <string name="giftcard_expire_notification_sub_title">Votre carte-cadeau MiCredit expire le %1$s</string>
   <string name="btn_agree">Accepter</string>
  </resources>

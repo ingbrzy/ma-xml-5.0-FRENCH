@@ -5,8 +5,8 @@
   <string name="hard_version">Version matériel</string>
   <string name="build_date">Date de génération</string>
   <string name="version_Info">Info. version</string>
-  <string name="software">Logiciel :</string>
-  <string name="hardware">Matériel :</string>
+  <string name="software">Logiciel :</string>
+  <string name="hardware">Matériel :</string>
   <string name="software_update">Mise à jour logicielle</string>
   <string name="sdcard_update">Mise à jour de la carte SD</string>
   <string name="update_warning">Alerte</string>

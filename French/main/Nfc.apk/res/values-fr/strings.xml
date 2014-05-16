@@ -43,7 +43,7 @@
     <string name="pairing_headset">Association en cours…</string>
     <string name="pairing_headset_failed">"Impossible d'effectuer l'association."</string>
     <string name="failed_to_enable_bt">"Impossible d'activer le Bluetooth."</string>
-    <string name="confirm_pairing">"Voulez-vous vraiment associer l'appareil Bluetooth %1$s ?"</string>
+    <string name="confirm_pairing">"Voulez-vous vraiment associer l'appareil Bluetooth %1$s ?"</string>
     <string name="pair_yes">Oui</string>
     <string name="pair_no">Non</string>
 </resources>

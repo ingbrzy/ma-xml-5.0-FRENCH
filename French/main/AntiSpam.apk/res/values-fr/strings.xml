@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="app_name">Anti-Spam</string>
-  <string name="bl_block_info" formatted="false">Bloqué(s) : %d appel(s), %d SMS</string>
+  <string name="bl_block_info" formatted="false">Bloqué(s) : %d appel(s), %d SMS</string>
   <string name="wl_no_whitelist">Liste blanche vide</string>
   <string name="bl_no_blacklist">Aucun numéro bloqué</string>
   <string name="bl_no_block_call">Aucun appel bloqué</string>
   <string name="bl_no_block_sms">Aucun SMS bloqué</string>
-  <string name="dlg_add_blacklist">Ajouter le numéro à la liste noire ?</string>
+  <string name="dlg_add_blacklist">Ajouter le numéro à la liste noire ?</string>
   <string name="dlg_add_keyword">Ajouter des mots clés</string>
   <string name="dlg_add_manual_hint">Saisir un numéro de téléphone</string>
   <string name="dlg_add_manual_ok">Ajouter</string>
   <string name="dlg_bl_add_manual">Ajouter un numéro à la liste noire</string>
-  <string name="dlg_clear_all_call">Supprimer tous les appels bloqués ?</string>
+  <string name="dlg_clear_all_call">Supprimer tous les appels bloqués ?</string>
   <string name="dlg_clear_all_ok">Tout supprimer</string>
-  <string name="dlg_clear_all_sms">Supprimer tous les SMS bloqués ?</string>
-  <string name="dlg_clear_blacklist">Effacer la liste noire ?</string>
+  <string name="dlg_clear_all_sms">Supprimer tous les SMS bloqués ?</string>
+  <string name="dlg_clear_blacklist">Effacer la liste noire ?</string>
   <string name="dlg_clear_blacklist_ok">Effacer</string>
-  <string name="dlg_clear_current_call">Supprimer tous les appels bloqués de ce numéro ?</string>
+  <string name="dlg_clear_current_call">Supprimer tous les appels bloqués de ce numéro ?</string>
   <string name="dlg_clear_current_ok">Supprimer</string>
-  <string name="dlg_clear_current_sms">Supprimer tous les SMS bloqués de ce numéro ?</string>
-  <string name="dlg_delete_keyword">Supprimer les mots clés sélectionnés ?</string>
+  <string name="dlg_clear_current_sms">Supprimer tous les SMS bloqués de ce numéro ?</string>
+  <string name="dlg_delete_keyword">Supprimer les mots clés sélectionnés ?</string>
   <string name="dlg_edit_keyword">Éditer le mot clé</string>
   <string name="dlg_import_blacklist">Importation à la liste noire</string>
   <string name="dlg_import_whitelist">Importation à la liste blanche</string>
   <string name="dlg_keyword_ok">Sauvegarder</string>
-  <string name="dlg_no_block">Ne pas bloquer ce numéro ?</string>
+  <string name="dlg_no_block">Ne pas bloquer ce numéro ?</string>
   <string name="dlg_no_block_ok">Ne pas bloquer</string>
-  <string name="dlg_remove_blacklist">Supprimer ce numéro de la liste noire ?</string>
+  <string name="dlg_remove_blacklist">Supprimer ce numéro de la liste noire ?</string>
   <string name="dlg_remove_blacklist_ok">Supprimer</string>
-  <string name="dlg_retore">Restaurer vers l\'application de messagerie ?</string>
+  <string name="dlg_retore">Restaurer vers l\'application de messagerie ?</string>
   <string name="dlg_retore_ok">Restaurer</string>
-  <!-- fw_blocked à vérifier  ? : <string name="fw_blocked">Blocked:</string> -->
+  <!-- fw_blocked à vérifier  ? : <string name="fw_blocked">Blocked:</string> -->
   <string name="fw_blocked">Statistiques de blocage</string>
-  <string name="fw_blocked_count">Bloqué(s) :</string>
+  <string name="fw_blocked_count">Bloqué(s) :</string>
   <string name="fw_blocked_count_call">%d appel(s) et</string>
   <string name="fw_blocked_count_sms">%d SMS</string>
   <string name="log_count">(%d)</string>
@@ -95,12 +95,12 @@
   <string name="st_antispam_delete">Supprimer</string>
   <string name="baidu_thanks">Propulsé par Baidu</string>
   <string name="ad_update_title">Mise à jour auto.</string>
-  <string name="ad_update_time">Dernière màj : %s</string>
-  <string name="ad_update_time_unKnown">Dernière màj : inconnu</string>
+  <string name="ad_update_time">Dernière màj : %s</string>
+  <string name="ad_update_time_unKnown">Dernière màj : inconnu</string>
   <string name="sure">Confirmer</string>
   <string name="cancle">Annuler</string>
-  <string name="block_message_number">messages : %d</string>
-  <string name="block_phone_number">appels : %d</string>
+  <string name="block_message_number">messages : %d</string>
+  <string name="block_phone_number">appels : %d</string>
   <string name="menu_report_block">Marquer comme spam</string>
   <string name="st_sub_title_customize_mode_name">Nom du mode</string>
   <string name="st_title_open_antispam">Liste noire</string>
@@ -161,17 +161,17 @@
   <string name="address_choose_hint">%1$s %2$s et %3$d emplacements</string>
   <string name="two_address_choose_hint">%1$s, %2$s2 emplacements</string>
   <string name="one_address_choose_hint">%s1 emplacement</string>
-  <string name="dlg_black_antispam_message">Ajouter ce message à la liste noire ?</string>
-  <string name="dlg_white_antispam_message">Ajouter ce message aux exceptions ?</string>
-  <string name="dlg_black_address_antispam_message">Ajouter cet emplacement à la liste noire ?</string>
-  <string name="dlg_white_address_antispam_message">Ajouter cet emplacement aux exceptions ?</string>
+  <string name="dlg_black_antispam_message">Ajouter ce message à la liste noire ?</string>
+  <string name="dlg_white_antispam_message">Ajouter ce message aux exceptions ?</string>
+  <string name="dlg_black_address_antispam_message">Ajouter cet emplacement à la liste noire ?</string>
+  <string name="dlg_white_address_antispam_message">Ajouter cet emplacement aux exceptions ?</string>
   <string name="dlg_white_antispam_hint">Exceptions</string>
   <string name="dlg_black_antispam_hint">Liste noire</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Attention</string>
   <string name="dlg_add_blacklist_warn_conflict_content">Ces contacts (et autres) sont déjà inscrits sur votre liste d\'exceptions.</string>
-  <string name="dlg_remove_whitelist">Supprimer ces numéros des exceptions ?</string>
-  <string name="dlg_remove_address_blacklist">Supprimer cet emplacement de la liste noire et restaurer les messages associés à la boîte de réception ?</string>
-  <string name="dlg_remove_address_whitelist">Supprimer cet emplacement des exceptions ?</string>
+  <string name="dlg_remove_whitelist">Supprimer ces numéros des exceptions ?</string>
+  <string name="dlg_remove_address_blacklist">Supprimer cet emplacement de la liste noire et restaurer les messages associés à la boîte de réception ?</string>
+  <string name="dlg_remove_address_whitelist">Supprimer cet emplacement des exceptions ?</string>
   <string name="st_show_num_keyword">" Mots-clés"</string>
   <string name="st_show_num_number">" numéros"</string>
   <string name="label_callwait">Appel en attente</string>

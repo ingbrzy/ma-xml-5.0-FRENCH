@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
  <!-- removed in 4.5.8 -->
   <string name="group_folder">Nouveau dossier</string>
@@ -49,7 +49,7 @@
   <string name="activity_not_found">Application non installée</string>
   <string name="cancel_action">Annuler</string>
   <string name="apply_as_lock_wallpaper">Appliquer</string>
-  <string name="apply_as_lock_wallpaper_message">Appliquer ce fond d\'écran sur votre écran de verrouillage ?</string>
+  <string name="apply_as_lock_wallpaper_message">Appliquer ce fond d\'écran sur votre écran de verrouillage ?</string>
   <string name="lock_screen_failed_message">Échec, non appliqué</string>
   <string name="lock_screen_success_message">Appliqué</string>
   <string name="out_of_space">Espace saturé sur cette page</string>
@@ -89,7 +89,7 @@
   <string name="starting_preset_app">Démarrage…</string>
   <string name="install">Installer</string>
   <string name="failed_to_drop">Déplacement échoué</string>
-  <string name="failed_to_drop_widget_nospace">Impossible de le déplacer, il n\'y a pas assez d\'espace !</string>
+  <string name="failed_to_drop_widget_nospace">Impossible de le déplacer, il n\'y a pas assez d\'espace !</string>
   <string name="failed_to_drop_widget_invalid">Déplacement du widget échoué</string>
   <string name="failed_to_delete_temporary">Suppression échouée, veuillez réessayer</string>
   <string name="confirm_btn_label">OK</string>
@@ -137,8 +137,8 @@
   <string name="select_photo">Photo</string>
   <string name="select_frame">Cadre</string>
   <string name="photo_confirm">Confirmer</string>
-  <string name="photo_load_failed">Impossible de charger la photo !</string>
-  <string name="frame_load_failed">Impossible de charger le widget cadre photo !</string>
+  <string name="photo_load_failed">Impossible de charger la photo !</string>
+  <string name="frame_load_failed">Impossible de charger le widget cadre photo !</string>
   <string name="gadget_weather_loading">Aucunes données météorologiques</string>
   <string name="gadget_weather_title">Météo</string>
   <string name="gadget_weather_title_24">Météo</string>
@@ -166,7 +166,7 @@
   <string name="free_style_edit_drawer">Tiroir</string>
   <string name="free_style_drawer_title">Toutes les applications</string>
   <string name="guide_install_app_title">Installer application</string>
-  <string name="guide_install_app_msg">Application non installée. La rechercher sur le Play Store maintenant ?</string>
+  <string name="guide_install_app_msg">Application non installée. La rechercher sur le Play Store maintenant ?</string>
   <string name="menu_customize">Personnaliser les Paramètres</string>
   <string name="menu_picktheme">Sélectionner un thème</string>
   <string name="scroll_tip_format_when_announce_accessibility">Page %1$d, %2$d apps</string>

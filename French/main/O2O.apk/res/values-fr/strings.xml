@@ -10,9 +10,9 @@
     <string name="xiaomi_user">Compte Mi</string>
     <string name="category_more">Plus</string>
     <string name="category_other">Autres</string>
-    <string name="app_version">Version : %1$s</string>
+    <string name="app_version">Version : %1$s</string>
     <string name="menu_account">Mon compte</string>
- <!-- à traduire :
+ <!-- à traduire :
     <string name="menu_login_failed">登录失败，请重新尝试</string>
     <string name="hotrank_tag">推荐</string>
     <string name="nearby_tag">附近</string>

@@ -17,7 +17,7 @@
     <string name="Discard">Annuler</string>
     <string name="Share">Partager</string>
     <string name="SaveTO">Sauvegarde vers</string>
-    <string name="SaveFail">Sauvegarde échouée !</string>
+    <string name="SaveFail">Sauvegarde échouée !</string>
     <string name="runningFaceDetection">Veuillez patienter…</string>
     <string name="power_off">Éteindre</string>
     <string name="reboot">Redémarrer</string>
@@ -25,7 +25,7 @@
     <string name="screenshots">"Captures d'écran"</string>
     <string name="volume">Volume</string>
     <string name="mute">Muet</string>
-    <string name="no_support">Non supporté !</string>
+    <string name="no_support">Non supporté !</string>
     <string name="fullScreem">Plein écran</string>
     <string name="partScreem">"Partie de l'écran"</string>
     <string name="mipop_first_key_title">Touche par défaut</string>

@@ -23,9 +23,9 @@
     <string name="extracting_pkcs12">Extraction en cours…</string>
     <string name="pkcs12_file_password_dialog_title">Extraire de %s</string>
     <string name="name_credential_dialog_title">Attribuer un nom au certificat</string>
-    <string name="credential_name">Nom du certificat :</string>
+    <string name="credential_name">Nom du certificat :</string>
     <string name="credential_password">Saisir le mot de passe pour extraire les certificats</string>
-    <string name="credential_info">Le package contient :</string>
+    <string name="credential_info">Le package contient :</string>
     <string name="p12_description">Certificats dans le keystore PKCS12</string>
     <string name="one_userkey">une clé utilisateur</string>
     <string name="one_usercrt">un certificat utilisateur</string>
@@ -47,5 +47,5 @@
     <string name="no_cert_file_found">Fichier de certificat introuvable</string>
     <string name="sdcard_not_present">Carte SD manquante.</string>
     <string name="only_primary_user_allowed">Seul le propriétaire de cet appareil peut installer des certificats.</string>
-    <string name="credential_usage_label">Utilisation du certificat :</string>
+    <string name="credential_usage_label">Utilisation du certificat :</string>
 </resources>

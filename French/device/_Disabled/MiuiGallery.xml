@@ -5,9 +5,9 @@
   <string name="apply_successfully">Album rejoint avec succès</string>
   <string name="bigscrren_slide_exit">Quitter le diaporama affiché sur la TV</string>
   <string name="can_modified">Autoriser le partageur à ajouter des images</string>
-  <string name="cant_delete_system_album">%s est un album système et ne peut être supprimé !</string>
+  <string name="cant_delete_system_album">%s est un album système et ne peut être supprimé !</string>
   <string name="click_to_enter_camera">Ouvrir l\'appareil photo</string>
-  <string name="confirm_delete_folders_and_pictures">Êtes-vous sûr de vouloir supprimer %s ?</string>
+  <string name="confirm_delete_folders_and_pictures">Êtes-vous sûr de vouloir supprimer %s ?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s dossiers (incluant %s)</string>
   <string name="confirm_delete_including_null">0 élément</string>
   <string name="confirm_delete_items">%s élément(s)</string>

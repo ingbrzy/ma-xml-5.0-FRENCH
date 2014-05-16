@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
 <!-- removed in 4.5.6 -->
   <string name="live_tabs_hot">Populaire</string>
@@ -9,7 +9,7 @@
   <string name="about_developer_label">Développeur</string>
   <string name="about_developer_name">XiaoMi Inc.</string>
   <string name="about_title">À propos</string>
-  <string name="about_version_label">Version :</string>
+  <string name="about_version_label">Version :</string>
   <string name="adjust_position_next_media_notice">Suivant</string>
   <string name="adjust_position_prev_media_notice">Précédent</string>
   <string name="airkan_control_device_des">Vous pouvez contrôler la lecture vidéo via le bouton du bas</string>
@@ -40,7 +40,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="menu_wh_item_using_4_3_label">Forcer 4:3</string>
   <string name="nowifi_alert_dialog_continue">Continuer</string>
   <string name="nowifi_alert_dialog_exit">Quitter</string>
-  <string name="nowifi_alert_dialog_message">Non connecté à un réseau Wi-Fi, utiliser le réseau mobile pour lire la vidéo ?</string>
+  <string name="nowifi_alert_dialog_message">Non connecté à un réseau Wi-Fi, utiliser le réseau mobile pour lire la vidéo ?</string>
   <string name="nowifi_alert_dialog_title">Alerte trafic</string>
   <string name="temp_play_history_button_label">Afficher l\'historique</string>
   <string name="to_be_play_label_v5">" "</string>
@@ -51,19 +51,19 @@ la vidéo sur votre box ou TV"</string>
   <string name="toast_message_continue_play_second_and_play">s</string>
   <string name="top_status_local_media">Médias locaux</string>
   <string name="top_status_online_media">Médias en ligne</string>
-  <string name="video_info_audio_bitrate_label">Débit audio :</string>
-  <string name="video_info_audio_coding_label">Format de codage audio :</string>
+  <string name="video_info_audio_bitrate_label">Débit audio :</string>
+  <string name="video_info_audio_coding_label">Format de codage audio :</string>
   <string name="video_info_audio_null">Aucun</string>
-  <string name="video_info_frame_rate_label">Images par secondes :</string>
-  <string name="video_info_length_label">Durée :</string>
-  <string name="video_info_resolution_label">Résolution vidéo :</string>
-  <string name="video_info_video_coding_label">Format de codage vidéo :</string>
+  <string name="video_info_frame_rate_label">Images par secondes :</string>
+  <string name="video_info_length_label">Durée :</string>
+  <string name="video_info_resolution_label">Résolution vidéo :</string>
+  <string name="video_info_video_coding_label">Format de codage vidéo :</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">Réseau indisponible</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Désolé, le format vidéo sélectionné n\'est pas valide pour la diffusion sur cet appareil</string>
   <string name="vp_VideoView_error_text_unknown">Désolé, le format vidéo sélectionné ne peut pas être lu</string>
-  <string name="vp_VideoView_error_title">Erreur de lecture vidéo !</string>
- <!-- remplacer améliorateur ? : -->
+  <string name="vp_VideoView_error_title">Erreur de lecture vidéo !</string>
+ <!-- remplacer améliorateur ? : -->
   <string name="menu_item_enable_audio_enhance">"Activer l'améliorateur de son"</string>
   <string name="menu_item_disable_audio_enhance">"Désactiver l'améliorateur de son"</string>
   <string name="toast_message_set_misound">Veuillez configurer MiSound…</string>
@@ -95,13 +95,13 @@ la vidéo sur votre box ou TV"</string>
   <string name="gong_count_xiang">"%d vidéo(s) "</string>
   <string name="search">Recherche</string>
   <string name="video_library">Vidéo</string>
-  <string name="director_colon">"Réalisateur : "</string>
-  <string name="actors_colon">"Casting : "</string>
-  <string name="tags_colon">"Genre : "</string>
-  <string name="area_colon">"Pays : "</string>
-  <string name="time_colon">"Date : "</string>
-  <string name="play_length_colon">"Durée : "</string>
-  <string name="series_colon">"Épisodes : "</string>
+  <string name="director_colon">"Réalisateur : "</string>
+  <string name="actors_colon">"Casting : "</string>
+  <string name="tags_colon">"Genre : "</string>
+  <string name="area_colon">"Pays : "</string>
+  <string name="time_colon">"Date : "</string>
+  <string name="play_length_colon">"Durée : "</string>
+  <string name="series_colon">"Épisodes : "</string>
   <string name="cancel">Annuler</string>
   <string name="ok">OK</string>
   <string name="good">OK</string>
@@ -124,11 +124,11 @@ la vidéo sur votre box ou TV"</string>
   <string name="recommendation">Suggestions</string>
   <string name="key_back_down_toast">Appuyez une seconde fois pour quitter</string>
   <string name="delete_media">Supprimer</string>
-  <string name="delete_media_content">Supprimer cet élément ?</string>
+  <string name="delete_media_content">Supprimer cet élément ?</string>
   <string name="delete">Supprimer</string>
   <string name="login_tip_title">Connectez-vous</string>
   <string name="login_tip_content">Connectez-vous avec votre compte Mi pour synchroniser et mettre à jour les émissions que vous suivez.</string>
-  <string name="declaration_content">"Acceptez-vous les conditions d'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs de contenu vidéo ?"</string>
+  <string name="declaration_content">"Acceptez-vous les conditions d'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs de contenu vidéo ?"</string>
   <string name="today">"Aujourd\'hui "</string>
   <string name="yestorday">"Hier "</string>
   <string name="di_count_ji">Ep. %d</string>
@@ -222,7 +222,7 @@ la vidéo sur votre box ou TV"</string>
  <!-- FIX; cn to en-->
   <string name="variety">Variety</string>
   <string name="subchannel_all">All</string>
- <!-- à traduire :
+ <!-- à traduire :
  4.5.16
   <string name="no_favoritehistory">No favorite Channel</string>
   <string name="download_add_sucess">add task done</string>

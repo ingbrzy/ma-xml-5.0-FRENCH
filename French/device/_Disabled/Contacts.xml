@@ -3,5 +3,5 @@
 <!-- 4.3.6:  -->
   <string name="yellowpage_navigation_search_hint">Recherche</string>
 <!-- 4.3.19:  -->
-  <string name="resource_account_current">Compte : %1$s</string>
+  <string name="resource_account_current">Compte : %1$s</string>
 </resources>

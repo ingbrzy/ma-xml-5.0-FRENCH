@@ -17,10 +17,10 @@
     <string name="alarm_text2">La Radio FM sera désactivée dans 1 heure</string>
     <string name="alarm_text3">La Radio FM sera désactivée dans %d heure(s)</string>
     <string name="toast_already_added">La station existe déjà. Ajouter une autre station</string>
-    <string name="dialog_channel_found">Station %1$d.%2$d MHz trouvée. Nombre total de stations trouvées : %3$d</string>
-    <string name="dialog_channel_one_found">Station %1$d.%2$d MHz trouvée. Nombre total de stations trouvées : 1</string>
+    <string name="dialog_channel_found">Station %1$d.%2$d MHz trouvée. Nombre total de stations trouvées : %3$d</string>
+    <string name="dialog_channel_one_found">Station %1$d.%2$d MHz trouvée. Nombre total de stations trouvées : 1</string>
     <string name="dialog_channel_found_south_region">Station %1$s MHz trouvée. Nombre total de stations trouvées : %2$d</string>
-    <string name="dialog_channel_one_found_south_region">Station %s MHz trouvée. Nombre total de stations trouvées : 1</string>
+    <string name="dialog_channel_one_found_south_region">Station %s MHz trouvée. Nombre total de stations trouvées : 1</string>
     <string name="toast_channel_found">%d stations trouvées lors de la recherche</string>
     <string name="toast_one_channel_found">1 station trouvée lors de la recherche</string>
     <string name="toast_on_alert">Activer la Radio FM</string>
@@ -108,10 +108,10 @@ Connectez-le car il fait office d'antenne radio"</string>
     <string name="stop">Arrêter</string>
     <string name="recording">Enregistrement …</string>
     <string name="memory_full">Mémoire saturée</string>
-    <string name="cancel_recording">"Annuler l'enregistrement ?"</string>
+    <string name="cancel_recording">"Annuler l'enregistrement ?"</string>
     <string name="change_frequency">Modifier la fréquence</string>
     <string name="enter_frequency">Saisir une fréquence</string>
-    <string name="saved_go_to_myfiles">Enregistré dans %s. Accéder aux Fichiers enregistrés à lire. Lire maintenant ?</string>
+    <string name="saved_go_to_myfiles">Enregistré dans %s. Accéder aux Fichiers enregistrés à lire. Lire maintenant ?</string>
     <string name="dont_show_again">Ne plus afficher</string>
     <string name="toast_max_favorite">Nombre maximum de stations favorites (12) atteint. Supprimez certaines stations favorites</string>
     <string name="audio_shock_warning">"L'écoute prolongée de musique à un volume élevé risque d'endommager votre audition"</string>

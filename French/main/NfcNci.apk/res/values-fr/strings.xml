@@ -43,7 +43,7 @@
   <string  name="pairing_headset">Association en cours…</string>
   <string  name="pairing_headset_failed">"Impossible d'effectuer l'association."</string>
   <string  name="failed_to_enable_bt">"Impossible d'activer le Bluetooth."</string>
-  <string  name="confirm_pairing">"Voulez-vous vraiment associer l'appareil Bluetooth %1$s ?"</string>
+  <string  name="confirm_pairing">"Voulez-vous vraiment associer l'appareil Bluetooth %1$s ?"</string>
   <string  name="pair_yes">Oui</string>
   <string  name="pair_no">Non</string>
   <string  name="tap_again_to_pay">Appuyez à nouveau pour payer avec %1$s</string>
@@ -52,5 +52,5 @@
   <string  name="could_not_use_app">"Impossible d\'utiliser %1$s."</string>
   <string  name="pay_with">Effectuer avec</string>
   <string  name="complete_with">Compléter avec</string>
-  <string  name="default_pay_app_removed">Le service par défaut pour la fonctionnalité tap-and-pay a été supprimé. Voulez-vous en sélectionner un autre ?</string>
+  <string  name="default_pay_app_removed">Le service par défaut pour la fonctionnalité tap-and-pay a été supprimé. Voulez-vous en sélectionner un autre ?</string>
 </resources>

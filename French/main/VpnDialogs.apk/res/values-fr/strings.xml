@@ -23,9 +23,9 @@
     <string name="legacy_title">VPN connecté</string>
     <string name="configure">Configurer</string>
     <string name="disconnect">Déconnecter</string>
-    <string name="session">Session :</string>
-    <string name="duration">Durée :</string>
-    <string name="data_transmitted">Envoyé :</string>
-    <string name="data_received">Reçu :</string>
+    <string name="session">Session :</string>
+    <string name="duration">Durée :</string>
+    <string name="data_transmitted">Envoyé :</string>
+    <string name="data_received">Reçu :</string>
     <string name="data_value_format">"%1$s octets / %2$s paquets"</string>
 </resources>

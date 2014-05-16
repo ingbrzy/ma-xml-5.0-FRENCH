@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
  <!-- removed in 4.5.6 -->
   <string name="activate_phone_send_sms_fail">Échec de l\'envoi du SMS d\'activation, impossible d\'ouvrir le service de synchronisation</string>
@@ -36,8 +36,8 @@
   <string name="micloud_via_sms_alert">Le SMS d\activation est assujetti d\'être facturé au prix d\'un SMS standard.</string>
   <string name="sync_sub_dspt">Un SMS sera envoyé pour activer le service</string>
   <string name="sync_sub_int_dspt">Un SMS international pourra être envoyé pour activer le service</string>
-  <string name="send_int_sms_for_sync_notice">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
-  <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
+  <string name="send_int_sms_for_sync_notice">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
+  <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
  <!-- -->
   <string name="access_denied">Accès refusé</string>
   <string name="access_token_expired_warning">Votre compte Weibo a expiré, veuillez le rattacher</string>
@@ -45,7 +45,7 @@
   <string name="account">Compte</string>
   <string name="account_dspt">Un compte Mi permet de synchroniser et sauvegarder vos messages, contacts, photos, etc.</string>
   <string name="account_hint_text">Mail ou numéro de téléphone</string>
-  <string name="account_name">Compte : %1$s</string>
+  <string name="account_name">Compte : %1$s</string>
   <string name="activate_phone_failed_notif_title">Échec de l\'activation du service MiCloud</string>
   <string name="activate_phone_failed_notif_title_msim">Impossible de démarrer MiCloud pour SIM %s</string>
   <string name="activate_status_title_activating">Activation de votre carte SIM</string>
@@ -78,7 +78,7 @@
   <string name="checking_input">Vérification de la saisie…</string>
   <string name="cloud_messaging">Messagerie MiCloud</string>
   <string name="cmcc_data_sync_notice">Utilisez votre compte Mi pour synchroniser vos messages, contacts et autres données. En attendant, profitez des services cloud Xiaomi.</string>
-  <string name="cmcc_micloud_dspt">Les services MiCloud incluent la synchronisation mobile, la localisation de l’appareil et d\'autres services. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
+  <string name="cmcc_micloud_dspt">Les services MiCloud incluent la synchronisation mobile, la localisation de l’appareil et d\'autres services. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
   <string name="completed">Terminé</string>
   <string name="confirm">Confirmer</string>
   <string name="current_account">Compte actuel</string>
@@ -88,11 +88,11 @@
   <string name="dirty_contacts_count">%d contact(s)</string>
   <string name="dirty_mms_count">%d message(s)</string>
   <string name="dirty_note_count">%d note(s)</string>
-  <string name="disable_find_device_error">Erreur : %1$s</string>
+  <string name="disable_find_device_error">Erreur : %1$s</string>
   <string name="disable_micloud"><u>Désactiver MiCloud</u></string>
   <string name="email_already_be_used">Cette adresse mail est déjà associée avec un autre compte</string>
   <string name="enableAll">Tout activer</string>
-  <string name="enable_find_device_error">Erreur : %1$s</string>
+  <string name="enable_find_device_error">Erreur : %1$s</string>
   <string name="enable_micloud">S\'inscrire ou se connecter</string>
   <string name="error_dup_phone">Ce numéro de téléphone est déjà associé avec un autre compte</string>
   <string name="error_invalid_dev_id">Identité de l\'appareil non valide</string>
@@ -119,7 +119,7 @@
   -->
   <string name="find_device_success_title">Localisation de l\'appareil activé</string>
   <string name="find_password_on_web_msg">Veuillez visiter account.xiaomi.com pour récupérer votre mot de passe</string>
-  <string name="forget_password"><u>Mot de passe oublié ?</u></string>
+  <string name="forget_password"><u>Mot de passe oublié ?</u></string>
   <string name="get_back_pwd">Récupérer le mot de passe du compte</string>
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
   <string name="i_know">OK</string>
@@ -135,12 +135,12 @@
   <string name="logout_failed">Échec de la déconnexion</string>
   <string name="login_instead_reg">Connexion avec ce numéro de téléphone</string>
   <string name="login_notice">Connexion…</string>
-  <string name="master_alert_notif_dspt" formatted="false">"Durant cette période, ont été ajoutés : %s contacts téléphoniques, %s SMS, %s photos, %s notes et d\'autres données. 
+  <string name="master_alert_notif_dspt" formatted="false">"Durant cette période, ont été ajoutés : %s contacts téléphoniques, %s SMS, %s photos, %s notes et d\'autres données. 
 
  Si votre téléphone est perdu ou cassé, ces données seront définitivement perdues. Il est recommandé de rétablir la synchronisation afin d\'assurer la sécurité des données"</string>
   <string name="master_alert_notif_title">Les données n\'ont pas été synchronisées depuis %s jours</string>
   <string name="micloud_account">Compte Mi</string>
-  <string name="micloud_account_label">Compte : %1$s</string>
+  <string name="micloud_account_label">Compte : %1$s</string>
   <string name="micloud_account_name">Xiaomi</string>
   <string name="micloud_account_not_actived">Compte non activé.</string>
   <string name="micloud_activate_account_fail_notify_title">Échec de l\'activation de votre compte Mi</string>
@@ -150,7 +150,7 @@
   <string name="micloud_activating_account_notify_info">Vous activez votre compte Mi</string>
   <string name="micloud_activating_account_notify_title">Activation de votre compte Mi…</string>
   <string name="micloud_active_alert_title">Envoyer un SMS</string>
-  <string name="micloud_active_email_sent_1">"Mail d\'activation envoyé à : "</string>
+  <string name="micloud_active_email_sent_1">"Mail d\'activation envoyé à : "</string>
   <string name="micloud_active_email_visit">Visitez %s</string>
   <string name="micloud_activing_account">Activation de votre compte…</string>
   <string name="micloud_activing_account_delayed">"Il faut probablement 30 secondes pour terminer l'activation. 
@@ -159,7 +159,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_click_email">\n\nPour activer votre compte, /n suivez le lien dans le mail d\'activation.</string>
   <string name="micloud_click_email_to_valid">\n\nPour activer votre compte, /n suivez le lien d\'activation envoyé sur votre boîte mail.</string>
   <string name="micloud_delete_account">Supprimer le compte</string>
-  <string name="micloud_dspt">Les services de synchronisation incluent la messagerie MiCloud, la synchronisation mobile, la localisation de l\'appareil et d\'autres fonctionnalités. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
+  <string name="micloud_dspt">Les services de synchronisation incluent la messagerie MiCloud, la synchronisation mobile, la localisation de l\'appareil et d\'autres fonctionnalités. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
   <string name="micloud_email">Adresse mail</string>
   <string name="micloud_error_email">Mail non valide</string>
   <string name="micloud_error_empty_captcha_code">Saisissez le code captcha</string>
@@ -170,11 +170,11 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_input_password_prompt">Saisissez le mot de passe</string>
   <string name="micloud_intro_01_part_01">Sauvegardez vos données dans le cloud</string>
   <string name="micloud_intro_01_part_02">Messagerie gratuite via MiCloud</string>
-  <string name="micloud_intro_02_part_01">Arrêtez d\'utiliser clés USB/Mails pour déplacer vos fichiers !</string>
+  <string name="micloud_intro_02_part_01">Arrêtez d\'utiliser clés USB/Mails pour déplacer vos fichiers !</string>
   <string name="micloud_intro_02_part_02">Synchronisez vos contacts, messages, photos et autres données sur divers appareils.</string>
   <string name="micloud_intro_03_part_01">Sécurisez le contenu de votre appareil à distance</string>
   <string name="micloud_intro_03_part_02">Localisez, verrouillez ou supprimez le contenu de votre appareil via i.xiaomi.com.</string>
-  <string name="micloud_is_what">Qu\'est-ce que MiCloud ?</string>
+  <string name="micloud_is_what">Qu\'est-ce que MiCloud ?</string>
   <string name="micloud_more">En apprendre plus</string>
   <string name="micloud_password_confirm_hint">Confirmer mot passe</string>
   <string name="micloud_password_error_inconsistent">Les mots de passe ne correspondent pas</string>
@@ -192,10 +192,10 @@ Vous pouvez faire autre chose…"</string>
   <string name="other_settings">Autres paramètres</string>
   <string name="password">Mot de passe</string>
   <string name="prev">Précédent</string>
-  <string name="process_result">Détails sync. :</string>
+  <string name="process_result">Détails sync. :</string>
   <string name="quick_login_title">Mot de passe</string>
   <string name="quick_login_step2_title">Vérification en 2 étapes</string>
-  <string name="reg_by_email_failure">Échec de l\'inscription : %1$s</string>
+  <string name="reg_by_email_failure">Échec de l\'inscription : %1$s</string>
   <string name="reg_failed">Échec de l\'inscription</string>
   <string name="reg_success">Inscription réussie</string>
   <string name="reg_success_summary">%1$s a été associé à votre compte. Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe.</string>
@@ -203,7 +203,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="reg_type_phone">S\'inscrire par téléphone (recommandé)</string>
   <string name="reging">Inscription…</string>
   <string name="relogin">Se connecter</string>
-  <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appels et des notes déjà synchronisés sur votre appareil ?</string>
+  <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appels et des notes déjà synchronisés sur votre appareil ?</string>
   <string name="remove_confirm">Supprimer</string>
   <string name="remove_unactivated_account_notice">Votre compte Mi n\'as pas été activé.</string>
   <string name="removing_account">Suppression du compte…</string>
@@ -257,30 +257,30 @@ Vous pouvez faire autre chose…"</string>
 
 Si vous perdez ou endommagez votre téléphone, vos données seront toujours en sécurité.
 
-Lorsque votre compte MiCloud est plein, vos anciennes données ne seront pas supprimés. Cependant, tout nouveau contenu que vous ajoutez (ex : photos, vidéos, notes ou applis) ne sera pas sauvegardé.
+Lorsque votre compte MiCloud est plein, vos anciennes données ne seront pas supprimés. Cependant, tout nouveau contenu que vous ajoutez (ex : photos, vidéos, notes ou applis) ne sera pas sauvegardé.
 
 Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou acheter de l'espace de stockage supplémentaire."</string>
- <!-- micloud_full_influence_title à vérifier ? -->
+ <!-- micloud_full_influence_title à vérifier ? -->
   <string name="micloud_full_influence_title">Lorsque votre MiCloud est plein</string>
   <string name="micloud_gallery_image">Images MiCloud</string>
   <string name="micloud_gallery_video">Vidéos MiCloud</string>
   <string name="micloud_none">Aucun</string>
-  <string name="micloud_space_full_influence"><u>Qu\'advient-il si je n\'ai plus d\'espace ?</u></string>
+  <string name="micloud_space_full_influence"><u>Qu\'advient-il si je n\'ai plus d\'espace ?</u></string>
   <string name="micloud_storage_space">Espace de stockage MiCloud</string>
   <string name="micloud_title_dspt" formatted="false">"Espace total %s
  utilisé %s | restant %s"</string>
-  <string name="micloud_title_full_dspt">Limite de stockage atteinte !</string>
+  <string name="micloud_title_full_dspt">Limite de stockage atteinte !</string>
   <string name="micloud_user_base_info">Informations utilisateur</string>
   <string name="micloud_user_email">E-mail</string>
   <string name="micloud_user_id">Xiaomi ID</string>
   <string name="micloud_user_name">Nom d\'utilisateur</string>
   <string name="micloud_user_phone">Numéro de téléphone</string>
   <string name="micloud_user_space_usage">Espace utilisé</string>
-  <string name="micloud_warn_full_msg">Vous avez atteint votre limite de stockage !</string>
+  <string name="micloud_warn_full_msg">Vous avez atteint votre limite de stockage !</string>
   <string name="micloud_warn_full_sum">Les nouveaux éléments ne seront pas synchronisés avec votre compte MiCloud.</string>
-  <string name="micloud_warn_full_title">Espace de stockage MiCloud plein !</string>
+  <string name="micloud_warn_full_title">Espace de stockage MiCloud plein !</string>
   <string name="micloud_warn_low_sum">Espace de stockage rempli à 90%.</string>
-  <string name="micloud_warn_low_title">Espace de stockage faible !</string>
+  <string name="micloud_warn_low_title">Espace de stockage faible !</string>
   <string name="micloud_web_discription_01">Connectez-vous à http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">pour stocker et accéder à vos fichiers depuis n\'importe où.</string>
   <string name="micloud_welcome_skip_login"><u>Passer l\'inscription</u></string>

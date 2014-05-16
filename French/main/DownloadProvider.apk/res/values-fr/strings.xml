@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <string name="app_label">Gestionnaire de téléchargement</string>
     <string name="permlab_downloadManager">accéder au gestionnaire de téléchargement.</string>
@@ -27,7 +27,7 @@
     <string name="wifi_required_title">Téléchargement trop volumineux pour l\'opérateur</string>
     <string name="wifi_required_body" formatted="false">"Une connexion Wi-Fi est requise pour télécharger %s. 
 Appuyez sur %s pour lancer le téléchargement la prochaine fois que vous vous connectez à un réseau Wi-Fi."</string>
-    <string name="wifi_recommended_title">Ajouter à la file d\'attente des téléchargements ?</string>
+    <string name="wifi_recommended_title">Ajouter à la file d\'attente des téléchargements ?</string>
     <string name="wifi_recommended_body" formatted="false">"Ce téléchargement risque de décharger votre batterie, de trop solliciter votre connexion Internet et de vous être facturé par votre opérateur, en fonction de votre forfait.
 Appuyez sur "File d\'attente" pour lancer le téléchargement lors de votre prochaine connexion à un réseau Wi-Fi.
 Vous pourrez modifier ce choix dans les réglages de l\'application."</string>

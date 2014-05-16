@@ -120,10 +120,10 @@
     <string name="RuacMmi">Rejeter les appels indésirables</string>
     <string name="CndMmi">Livraison du numéro d\'appel</string>
     <string name="DndMmi">Ne pas déranger</string>
-    <string name="CLIRDefaultOnNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
-    <string name="CLIRDefaultOnNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
-    <string name="CLIRDefaultOffNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
-    <string name="CLIRDefaultOffNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
+    <string name="CLIRDefaultOnNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
+    <string name="CLIRDefaultOnNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
+    <string name="CLIRDefaultOffNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
+    <string name="CLIRDefaultOffNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
     <string name="serviceNotProvisioned">Ce service n\'est pas pris en charge.</string>
     <string name="CLIRPermanent">Impossible de modifier le paramètre relatif au numéro de l\'appelant.</string>
     <string name="RestrictedChangedTitle">L\'accès limité a été modifié.</string>
@@ -687,7 +687,7 @@
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
     <string name="lockscreen_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Réessayez dans %d secondes.</string>
-    <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
+    <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
     <string name="lockscreen_glogin_forgot_pattern">Déverrouillage du compte</string>
     <string name="lockscreen_glogin_too_many_attempts">Trop de tentatives</string>
     <string name="lockscreen_glogin_instructions">Pour déverrouiller le téléphone, connectez-vous avec votre compte Google</string>
@@ -717,7 +717,7 @@
     <string name="factorytest_not_system">L\'action FACTORY_TEST est uniquement prise en charge pour les paquets de données installés dans in/system/app.</string>
     <string name="factorytest_no_action">Impossible de trouver un paquet proposant l\'action FACTORY_TEST.</string>
     <string name="factorytest_reboot">Redémarrer</string>
-    <string name="js_dialog_title">La page \"%s\" indique :</string>
+    <string name="js_dialog_title">La page \"%s\" indique :</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">Voulez-vous quitter cette page ?\n\n%s\n\nAppuyez sur \"OK\" pour continuer ou \"Annuler\" pour rester sur la page actuelle.</string>
     <string name="save_password_label">Confirmer</string>
@@ -1097,7 +1097,7 @@
     <string name="issued_to">Délivré à :</string>
     <string name="common_name">Nom commun :</string>
     <string name="org_name">Organisation :</string>
-    <string name="org_unit">Unité organisationnelle :</string>
+    <string name="org_unit">Unité organisationnelle :</string>
     <string name="issued_by">Émis par :</string>
     <string name="validity_period">Validité :</string>
     <string name="issued_on">Date d\'émission :</string>
@@ -1112,7 +1112,7 @@
     <string name="status_bar_device_locked">Appareil verrouillé</string>
     <string name="list_delimeter">", "</string>
     <string name="sending">Envoi en cours…</string>
-    <string name="launchBrowserDefault">Lancer le navigateur ?</string>
+    <string name="launchBrowserDefault">Lancer le navigateur ?</string>
     <string name="SetupCallDefault">Prendre l\'appel ?</string>
     <string name="activity_resolver_use_always">Toujours</string>
     <string name="activity_resolver_use_once">Une seule fois</string>
@@ -1214,7 +1214,7 @@
   <string name="sms_short_code_confirm_allow">Envoyer</string>
   <string name="sms_short_code_confirm_deny">Annuler</string>
   <string name="sms_short_code_remember_choice">Mémoriser mon choix</string>
-  <string name="sms_short_code_remember_undo_instruction">Pour modifier : Paramètres > Applications</string>
+  <string name="sms_short_code_remember_undo_instruction">Pour modifier : Paramètres > Applications</string>
   <string name="sms_short_code_confirm_always_allow">Toujours autoriser</string>
   <string name="sms_short_code_confirm_never_allow">Ne jamais autoriser</string>
   <string name="perm_costs_money">cela peut engendrer des frais</string>
@@ -1232,7 +1232,7 @@
   <string name="display_manager_built_in_display_name">Écran intégré</string>
   <string name="display_manager_hdmi_display_name">Écran HDMI</string>
   <string name="display_manager_overlay_display_name">Superposition n° %1$d</string>
-  <string name="display_manager_overlay_display_title">%1$s : %2$d x %3$d, %4$d dpi</string>
+  <string name="display_manager_overlay_display_title">%1$s : %2$d x %3$d, %4$d dpi</string>
   <string name="wifi_display_notification_title">L\'affichage sans fil est connecté.</string>
   <string name="wifi_display_notification_message">Cet écran s\'affiche sur un autre appareil.</string>
   <string name="wifi_display_notification_disconnect">Déconnecter</string>
@@ -1261,7 +1261,7 @@
   <string name="kg_login_password_hint">Mot de passe</string>
   <string name="kg_login_submit_button">Connexion</string>
   <string name="kg_login_invalid_input">Nom d\'utilisateur ou mot de passe non valide.</string>
-  <string name="kg_login_account_recovery_hint">Vous avez oublié votre nom d\'utilisateur ou votre mot de passe ?\nRendez-vous sur la page <b>google.com/accounts/recovery</b>.</string>
+  <string name="kg_login_account_recovery_hint">Vous avez oublié votre nom d\'utilisateur ou votre mot de passe ?\nRendez-vous sur la page <b>google.com/accounts/recovery</b>.</string>
   <string name="kg_login_checking_password">Vérification du compte en cours…</string>
   <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">Vous avez saisi un code PIN incorrect à %d reprises. \n\nVeuillez réessayer dans %d secondes.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">Vous avez saisi un mot de passe incorrect à %d reprises. \n\nVeuillez réessayer dans %d secondes.</string>
@@ -1271,11 +1271,11 @@
   <string name="kg_failed_attempts_almost_at_login" formatted="false">Vous avez dessiné un schéma de déverrouillage incorrect à %d reprises. Si vous échouez encore %d fois, vous devrez déverrouiller votre téléphone à l\'aide d\'un compte de messagerie électronique.\n\n Veuillez réessayer dans %d secondes.</string>
   <string name="kg_text_message_separator">" — "</string>
   <string name="kg_reordering_delete_drop_target_text">Supprimer</string>
-  <string name="safe_media_volume_warning">Augmenter le volume au-dessus du niveau de sécurité ?"\n"L\'écoute à un volume élevé pendant des périodes prolongées peut endommager votre audition.</string>
+  <string name="safe_media_volume_warning">Augmenter le volume au-dessus du niveau de sécurité ?"\n"L\'écoute à un volume élevé pendant des périodes prolongées peut endommager votre audition.</string>
   <string name="continue_to_enable_accessibility">Pour activer l\'accessibilité, appuyez de manière prolongée avec deux doigts.</string>
   <string name="accessibility_enabled">L\'accessibilité a bien été activée.</string>
   <string name="enable_accessibility_canceled">Accessibilité annulée.</string>
-  <string name="user_switched">Utilisateur actuel : %1$s</string>
+  <string name="user_switched">Utilisateur actuel : %1$s</string>
   <string name="owner_name">Propriétaire</string>
   <string name="storage_phone">Stockage du téléphone</string>
   <string name="storage_external_usb">Stockage USB externe</string>

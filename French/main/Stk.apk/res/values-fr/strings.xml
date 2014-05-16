@@ -34,13 +34,13 @@
     <string name="enable_app">Activé</string>
     <string name="disable_app">Désactivé</string>
     <string name="stk_dialog_title">Outils SIM</string>
-    <string name="default_open_channel_msg">Ouvrir le canal ?</string>
+    <string name="default_open_channel_msg">Ouvrir le canal ?</string>
     <string name="default_send_data_msg">Envoi des données</string>
     <string name="default_receive_data_msg">Réception des données</string>
     <string name="default_close_channel_msg">Canal fermé</string>
     <string name="stk_dialog_accept">OUI</string>
     <string name="stk_dialog_reject">NON</string>
-   <!-- extra strings for others phones : -->
+   <!-- extra strings for others phones : -->
     <string name="app_name2">Boîte à outils SIM2</string>
     <string name="htc_set_up_call_default_title">Composer</string>
     <string name="need_uim_to_launch">Veuillez insérer la SIM pour lancer les Services SIM</string>

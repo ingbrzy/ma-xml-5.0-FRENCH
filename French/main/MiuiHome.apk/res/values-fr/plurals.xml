@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">Désinstaller %1$s et %2$d autres applis ?</item>
-        <item quantity="one">Désinstaller %s ?</item>
-        <item quantity="two">Désinstaller %s et 1 autre appli ?</item>
+        <item quantity="other">Désinstaller %1$s et %2$d autres applis ?</item>
+        <item quantity="one">Désinstaller %s ?</item>
+        <item quantity="two">Désinstaller %s et 1 autre appli ?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
         <item quantity="other">%1$d applis désinstallées</item>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
  <!-- removed 4.4.23 mi2 -->
   <string name="load_album_failed">Le chargement de la liste d\'albums a échoué, veuillez réessayer</string>
@@ -24,7 +24,7 @@
   <string name="album_download">Télécharger la pochette de l\'album</string>
   <string name="album_edit">Album</string>
   <string name="album_picker_not_found">L\'application "Galerie" n\'a pas été trouvée sur le périphérique</string>
-  <string name="album_search_failed">Pochette introuvable !</string>
+  <string name="album_search_failed">Pochette introuvable !</string>
   <string name="album_search_local_descript">Local | %1$d x %2$d</string>
   <string name="album_search_online_descript">En ligne | %1$d x %2$d</string>
   <string name="album_select">Veuillez sélectionner une pochette d\'album</string>
@@ -41,7 +41,7 @@
   <string name="artists_title">Artistes</string>
   <string name="auto_correct_id3_settings">Autocorrection des métadonnées ID3</string>
   <string name="auto_correct_id3_summary">L\'algorithme d\'empreinte digitale audio de Baidu corrigera les données ID3 lors de la lecture</string>
-  <string name="batch_correct_id3_completed">Rectification des métadonnées ID3 terminée !</string>
+  <string name="batch_correct_id3_completed">Rectification des métadonnées ID3 terminée !</string>
   <string name="billboard">Billboard</string>
   <string name="buffering">Chargement…</string>
   <string name="cancel">Annuler</string>
@@ -54,13 +54,13 @@
   <string name="complete">Terminé</string>
   <string name="confirm">Confirmer</string>
   <string name="correct_id3_by_internet">Autocorriger l\'ID3 avec Internet</string>
-  <string name="correct_id3_failed">Correction des données ID3 échouée !</string>
+  <string name="correct_id3_failed">Correction des données ID3 échouée !</string>
   <string name="correct_id3_in_processing">Correction des données ID3 de la chanson</string>
   <string name="correct_id3_not_support">La correction des données ID3 n\'est pas prise en charge par ce type de fichier</string>
   <string name="correct_id3_open_other_connect">Veuillez activer une connexion Internet dans les Paramètres pour lancer la correction de l\'ID3</string>
   <string name="correct_id3_settings">Correction des métadonnées ID3</string>
   <string name="correct_id3_start">Commencer la correction de l\'ID3</string>
-  <string name="correct_id3_success">ID3 corrigés avec succès !</string>
+  <string name="correct_id3_success">ID3 corrigés avec succès !</string>
   <string name="correct_id3_summary">Le téléchargement des informations des pistes audio via le réseau mobile peut engendrer une consomation importante de données</string>
   <string name="create_confirm">Confirmer</string>
   <string name="create_equalzier_create_text_prompt">Nom de l\'effet de l\'égaliseur</string>
@@ -125,7 +125,7 @@
   <string name="filter_by_duration_format">%2$dmin%5$2ds</string>
   <string name="filter_by_duration_max">5min</string>
   <string name="filter_by_duration_min">0s</string>
-  <string name="filter_by_duration_prefix">"Durée minimale : "</string>
+  <string name="filter_by_duration_prefix">"Durée minimale : "</string>
   <string name="filter_by_duration_summary">Filtrer les fichiers en fonction de leur durée</string>
   <string name="filter_by_folder">Filtrer par dossier</string>
   <string name="filter_by_folder_summary_off">Désactivé, appuyez pour activer le filtrage par dossier</string>
@@ -133,7 +133,7 @@
   <string name="filter_by_size">Filtrer par taille</string>
   <string name="filter_by_size_max">2 Mo</string>
   <string name="filter_by_size_min">0 Ko</string>
-  <string name="filter_by_size_prefix">"Taille minimale : "</string>
+  <string name="filter_by_size_prefix">"Taille minimale : "</string>
   <string name="filter_by_size_summary">Filtrer les fichiers en fonction de leur taille</string>
   <string name="filter_notification">Le filtre a été activé, vous pouvez modifier ces paramètres dans les paramètres du filtre.</string>
   <string name="folder_title_format" formatted="false">%s(%d)</string>
@@ -143,7 +143,7 @@
   <string name="hot_artists">Artistes populaires</string>
   <string name="id3_edit">Modifier les informations ID3</string>
   <string name="id3_edit_failed">Impossible de modifier les informations ID3</string>
-  <string name="id3_modify_confirm_check">Confirmer les modifications ID3 ?</string>
+  <string name="id3_modify_confirm_check">Confirmer les modifications ID3 ?</string>
   <string name="id3_modify_confirm_text">Enregistrer</string>
   <string name="impunity_declaration">Le service de musique en ligne que vous êtes sur le point d\'utiliser est propulsé par Baidu. Appuyez sur "Confirmer" pour accepter ses conditions d\'utilisations.</string>
   <string name="impunity_declaration_title">Déclaration</string>
@@ -160,7 +160,7 @@
   <string name="loading">Chargement…</string>
   <string name="lrc_progress_modify">Ajuster la vitesse de défilement des paroles</string>
   <string name="lrc_progress_modify_helper">Ajuster la vitesse de défilement des paroles en les faisant glisser vers le haut ou vers le bas</string>
-  <string name="lrc_search_failed">Paroles introuvables !</string>
+  <string name="lrc_search_failed">Paroles introuvables !</string>
   <string name="lrc_searching">Recherche de paroles…</string>
   <string name="lrc_select">Sélectionner les paroles</string>
   <string name="lyric_and_album">Paroles et albums</string>
@@ -182,7 +182,7 @@
   <string name="music_browser_label">Musique</string>
   <string name="music_filter">Filtrer les fichiers</string>
   <string name="music_filter_helper">Afin de cacher les fichiers non liés à la musique, un filtre a été appliqué pour ignorer les fichiers de moins de 800 Ko. Pour régler ce seuil allez dans Paramètres &gt; filtrer les fichiers</string>
-  <string name="music_not_loaded">Aucun fichier audio trouvé !</string>
+  <string name="music_not_loaded">Aucun fichier audio trouvé !</string>
   <string name="music_open_other_connect">Veuillez activer l\'écoute de musique en ligne via le reseau mobile dans les paramètres.</string>
   <string name="music_picker_title">Sélectionner un titre</string>
   <string name="music_settings">Paramètres</string>
@@ -251,7 +251,7 @@
   <string name="sdcard_missing_message_nosdcard">Carte SD indisponible.</string>
   <string name="search_hint">Recherchez musique</string>
   <string name="search_settings_description">Artistes, albums et morceaux</string>
-  <string name="search_suggestion">Suggestions de recherche :</string>
+  <string name="search_suggestion">Suggestions de recherche :</string>
   <string name="search_title">Rechercher</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_folder">Choix des dossiers</string>
@@ -299,7 +299,7 @@
   <string name="ktv_alert_title">Uniquement les appareils supportés peuvent ajouter des chansons</string>
   <string name="ktv_and_room">%1$s %2$s</string>
   <string name="ktv_connected_alert_titel">Connecté à %1$s</string>
-  <string name="ktv_disconnect_alert_titel">Se déconnecter de %1$s ?</string>
+  <string name="ktv_disconnect_alert_titel">Se déconnecter de %1$s ?</string>
   <string name="ktv_song_vod_fail">Impossible d\'ajouter %1$s</string>
   <string name="ktv_song_vod_success">%1$s ajouté</string>
   <string name="login">Connexion</string>
@@ -308,12 +308,12 @@
   <string name="pay_service_guide_dowload">Qualité du téléchargement</string>
   <string name="pay_service_guide_listen">Qualité du flux</string>
   <string name="pay_service_guide_new">Haute qualité maintenant disponible</string>
-  <string name="payment_fail">Paiement échoué !</string>
-  <string name="payment_success">Paiement effectué !</string>
+  <string name="payment_fail">Paiement échoué !</string>
+  <string name="payment_success">Paiement effectué !</string>
   <string name="playlist_my_ktv">Mon KTV</string>
-  <string name="request_fail">Requête échouée !</string>
+  <string name="request_fail">Requête échouée !</string>
   <string name="requesting">Requête…</string>
-  <string name="server_error">Une erreur s\'est produite coté serveur !</string>
+  <string name="server_error">Une erreur s\'est produite coté serveur !</string>
   <string name="track_bit_rate_hd">Haut</string>
   <string name="track_bit_rate_standard">Normal</string>
   <string name="track_bit_rate_uhd">Très haut</string>
@@ -324,8 +324,8 @@
   <string name="vip_recommend_sub_title">Seulement 5 RMB par mois</string>
   <string name="vip_recommend_summary">Écoutez ou téléchargez les musiques de vos artistes préférés à 320 kbps depuis Baidu Music.</string>
   <string name="vip_recommend_title">Musique de qualité élevée</string>
-  <string name="where_is_barcode">Où est le code QR ?</string>
-  <string name="data_usage_warning">Alerte usage de données !</string>
+  <string name="where_is_barcode">Où est le code QR ?</string>
+  <string name="data_usage_warning">Alerte usage de données !</string>
   <string name="data_usage_warning_summary">L\'utilisation de votre connexion mobile pour écouter de la musique de haute qualité augmente de manière significative votre usage de données.</string>
   <string name="enabled">Activer</string>
   <string name="expired">Expiré</string>
@@ -333,13 +333,13 @@
   <string name="higher_quality_music_summary">Écoutez et téléchargez la musique de haute qualité</string>
   <string name="menu_higher_quality_music">Musique haute qualité (accès mensuel)</string>
   <string name="music_quality">Qualité musique</string>
-  <string name="valid_period">"Valable à partir du : "</string>
+  <string name="valid_period">"Valable à partir du : "</string>
   <string name="vip_bought">"Vous avez déjà acheté un accès à la musique de haute qualité"</string>
   <string name="vip_expired">Votre accès à musique haute qualité a expiré</string>
   <string name="vip_rebuy">Renouveler</string>
   <string name="vip_recommend_rebuy">Renouveler l\'accès VIP pour 30 jours coûte 5 MiCredits</string>
   <string name="no_music_to_play">Aucune musique à lire</string>
-  <string name="source_from">Source : %1$s</string>
+  <string name="source_from">Source : %1$s</string>
   <string name="load_recommend_in_process">Chargement…</string>
   <string name="load_recommend_failed">Erreur, impossible de charger la liste</string>
   <string name="click_to_play_all">Appuyer pour tout lire</string>
@@ -351,7 +351,7 @@
   <string name="sync_alert_title">Paramètres de synchronisation</string>
   <string name="sync_alert_message">Synchronisez vos chansons favorites entre plusieurs appareils en utilisant votre compte Mi.</string>
       
- <!-- à traduire :
+ <!-- à traduire :
  4.5.16
   <string name="select_device">Select device</string>
   <string name="volume_alert_playback_alert_title">Volume alert</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_selection">
-        <item quantity="other">Supprimer les images sélectionnées ?</item>
-        <item quantity="one">Supprimer l\'image sélectionnée ?</item>
+        <item quantity="other">Supprimer les images sélectionnées ?</item>
+        <item quantity="one">Supprimer l\'image sélectionnée ?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d éléments sélectionnés</item>

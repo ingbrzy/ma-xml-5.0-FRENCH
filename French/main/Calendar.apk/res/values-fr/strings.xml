@@ -18,7 +18,7 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="accessibility_add_attendee">Ajouter un participant</string>
   <string name="accessibility_add_reminder">Ajouter un rappel</string>
@@ -50,9 +50,9 @@
   <string name="app_label">Agenda</string>
   <string name="attendees_label">Invités</string>
   <string name="birthday_calendar_display_name">Rappel d\'anniversaire</string>
-  <string name="birthday_event_description">Aujourd\'hui c\'est l\'anniversaire de %1$s !</string>
-  <string name="birthday_notification_text_three_days_later">Il reste 3 jours avant son anniversaire !</string>
-  <string name="birthday_notification_text_today">N\'oubliez pas de lui souhaiter un joyeux anniversaire !</string>
+  <string name="birthday_event_description">Aujourd\'hui c\'est l\'anniversaire de %1$s !</string>
+  <string name="birthday_notification_text_three_days_later">Il reste 3 jours avant son anniversaire !</string>
+  <string name="birthday_notification_text_today">N\'oubliez pas de lui souhaiter un joyeux anniversaire !</string>
   <string name="birthday_notification_title_three_days_later">L\'anniversaire de %1$s arrive bientôt.</string>
   <string name="birthday_notification_title_today">Anniversaire de %1$s</string>
   <string name="calendar_refresh">Actualiser</string>
@@ -90,7 +90,7 @@
   <string name="edit_label">Modifier</string>
   <string name="email_guests_label">Envoyer un mail aux invités</string>
   <string name="email_picker_label">Envoyer un mail via</string>
-  <string name="email_subject_prefix">"Re : "</string>
+  <string name="email_subject_prefix">"Re : "</string>
   <string name="empty_event">Événement vide non créé.</string>
   <string name="event_create">Nouvel événement</string>
   <string name="event_delete">Supprimer l\'événement</string>
@@ -224,10 +224,10 @@
   <string name="event_account">Compte calendrier</string>
   <string name="event_all_day_label">Tous les jours</string>
   <string name="event_hide_more">Masquer</string>
-  <string name="event_info_descrip">"Description : "</string>
-  <string name="event_info_repeat">"Récurrence : "</string>
-  <string name="event_info_when">"Date : "</string>
-  <string name="event_info_where">"Endroit : "</string>
+  <string name="event_info_descrip">"Description : "</string>
+  <string name="event_info_repeat">"Récurrence : "</string>
+  <string name="event_info_when">"Date : "</string>
+  <string name="event_info_where">"Endroit : "</string>
   <string name="event_show_more">Plus d\'options…</string>
   <string name="today_no_events">Aucun événement</string>
   <string name="lunar_date">Date lunaire</string>
@@ -235,7 +235,7 @@
   <string name="widget_events">Événements à venir</string>
   <string name="widget_no_events">Aucun événement à venir</string>
   <string name="widget_select_style">Sélectionner le style de widget</string>
- <!-- work_day_indication rest_day_indication blank space to remove smileys :) :( -->
+ <!-- work_day_indication rest_day_indication blank space to remove smileys :) :( -->
   <string name="work_day_indication">" "</string>
   <string name="rest_day_indication">" "</string>
   <string name="event_lunar_month">Mois</string>
@@ -264,8 +264,8 @@
   <string name="calendar_server_error">服务器错误</string>
   <string name="calendar_network_error">网络错误</string>
   <string name="label_recent_events">近期事件</string>
-  <string name="no_local_calendar">没有订阅日历 :)</string>
-  <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
+  <string name="no_local_calendar">没有订阅日历 :)</string>
+  <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="movable_list_header_label">简介</string>
   <string name="subscribe_all">全部订阅</string>
   <string name="enter_calendar">进入日历</string>

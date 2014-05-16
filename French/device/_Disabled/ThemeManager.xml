@@ -22,14 +22,14 @@
   <string name="theme_import_oper_complete">Terminé</string>
   <string name="theme_import_oper_start">Tout mettre à jour</string>
   <string name="theme_import_oper_stop">Annuler</string>
-  <string name="theme_import_oper_stop_request_content">Le thème doit être mis à jour pour être fonctionnel. Souhaitez-vous annuler la mise à jour ?</string>
+  <string name="theme_import_oper_stop_request_content">Le thème doit être mis à jour pour être fonctionnel. Souhaitez-vous annuler la mise à jour ?</string>
   <string name="theme_import_preparing">Analyse des thèmes locaux…</string>
   <string name="theme_import_stoping">Arrêt en cours…</string>
   <string name="theme_importing">Importation du thème en cours…</string>
   <string name="theme_is_imported">Thème importé.</string>
   <string name="theme_sdcard_importing">Importation en cours…</string>
   <string name="theme_upgrade_request_cancel">Annuler</string>
-  <string name="theme_upgrade_request_content">Vos thèmes locaux devraient être convertis pour en améliorer l\'efficacité. Ceci peut prendre quelques minutes et le téléphone pourrait sembler bloqué. Convertir les thèmes maintenant ?</string>
+  <string name="theme_upgrade_request_content">Vos thèmes locaux devraient être convertis pour en améliorer l\'efficacité. Ceci peut prendre quelques minutes et le téléphone pourrait sembler bloqué. Convertir les thèmes maintenant ?</string>
   <string name="theme_upgrade_request_title">Des mises à jour de thèmes sont disponibles</string>
   <string name="theme_upgrade_request_yes">OK</string>
 

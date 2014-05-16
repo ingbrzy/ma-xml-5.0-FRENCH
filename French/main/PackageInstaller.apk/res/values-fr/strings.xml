@@ -18,7 +18,7 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="Parse_error_dlg_text">Un problème est survenu lors de l\'analyse du paquet.</string>
   <string name="Parse_error_dlg_title">Erreur d\'analyse</string>
@@ -30,15 +30,15 @@ Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?"</
   <string name="app_not_found_dlg_text">L\'application ne figure pas dans la liste des applications installées.</string>
   <string name="app_not_found_dlg_title">Application non trouvée</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l\'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d\'énergie et de données.
-  Autoriser le démarrage automatique ?"</string>
-  <string name="caller_app">Source : %1$s</string>
+  Autoriser le démarrage automatique ?"</string>
+  <string name="caller_app">Source : %1$s</string>
   <string name="cancel">Annuler</string>
   <string name="dlg_app_replacement_statement">"L\'application que vous installez en remplacera une autre.
 
 Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="dlg_app_replacement_title">Remplacer l\'application ?</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) remplacera la version installée (%3$s). Toutes les données utilisateur existantes seront sauvegardées. 
-Voulez-vous continuer ?"</string>
+Voulez-vous continuer ?"</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Il s\'agit d\'une application système.
 
@@ -73,23 +73,23 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="perm_action_reject">Refuser</string>
   <string name="perm_notice">Alerte de sécurité</string>
   <string name="perm_privacy_app_finish">Terminer</string>
-  <string name="perm_privacy_app_installed">Installation réussie !</string>
+  <string name="perm_privacy_app_installed">Installation réussie !</string>
   <string name="perm_privacy_app_launch">Ouvrir</string>
   <string name="perm_privacy_app_trust">Faire confiance à cette application</string>
   <string name="perm_privacy_app_trust_summary">MIUI ne surveillera pas cette application</string>
   <string name="perm_sysopt_boost_auto_start">Autorisation de démarrage auto</string>
-  <string name="perm_sysopt_boost_auto_start_summary">L\'application démarrera automatiquement !</string>
+  <string name="perm_sysopt_boost_auto_start_summary">L\'application démarrera automatiquement !</string>
   <string name="privacy_relative">Autorisations de confidentialité</string>
   <string name="safe_guard_support">Propulsé par %1$s</string>
   <string name="safe_relative">Autorisations de sécurité</string>
   <string name="security_settings_desc">Autoriser cette application à :</string>
   <string name="settings">Paramètres</string>
   <string name="trust_switch_dialog_msg">"MIUI ne vous demandera plus de confirmation pour les opérations liées à votre sécurité et confidentialité provenant de cette application.
-  Faire confiance à cette application ?"</string>
+  Faire confiance à cette application ?"</string>
   <string name="uninstall_activity_text">%1$s fait partie de l\'application suivante :</string>
   <string name="uninstall_application_text">Voulez-vous désinstaller cette application ?</string>
   <string name="uninstall_application_title">Désinstaller l\'application</string>
-  <string name="uninstall_confirm_question">Voulez-vous désinstaller cette application ?</string>
+  <string name="uninstall_confirm_question">Voulez-vous désinstaller cette application ?</string>
   <string name="uninstall_done">Désinstallation terminée.</string>
   <string name="uninstall_failed">Échec de la désinstallation.</string>
   <string name="uninstall_failed_device_policy_manager">Impossible de désinstaller. Le package est un administrateur actif de l\'appareil.</string>
@@ -104,6 +104,6 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="unknown_installer">Installateur inconnu</string>
   <string name="virus_scan_clear">Supprimer</string>
   <string name="virus_scan_install">" "<u>Poursuivre l\'installation</u>" "</string>
-  <string name="virus_scan_is_risk">Cette application présente un risque !</string>
-  <string name="virus_scan_is_virus">Cette application contient un virus, veuillez la supprimée immédiatement !</string>
+  <string name="virus_scan_is_risk">Cette application présente un risque !</string>
+  <string name="virus_scan_is_virus">Cette application contient un virus, veuillez la supprimée immédiatement !</string>
 </resources>

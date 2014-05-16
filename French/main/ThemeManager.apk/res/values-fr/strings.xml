@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <!-- removed 4.3.19:  -->
-  <string name="resource_account_current">Compte : %1$s</string>
+  <string name="resource_account_current">Compte : %1$s</string>
   <!-- -->
   <string name="resource_delete">Supprimer</string>
   <string name="all_resources">Tout</string>
@@ -15,11 +15,11 @@
   <string name="apply_lockscreen_paper_tips">"Le fond d'écran de verrouillage est en cours d'utilisation et ne peut pas être changé, le nouveau fond d'écran de verrouillage ne sera pas visible."</string>
   <string name="apply_theme_no_select_message">Veuillez sélectionner des composants.</string>
   <string name="backup_preference_title">Sauvegarder le thème</string>
-  <string name="backup_theme_dialog_message">Sauvegarder le thème courant ?</string>
+  <string name="backup_theme_dialog_message">Sauvegarder le thème courant ?</string>
   <string name="backup_theme_dialog_ok">Sauvegarder</string>
   <string name="backup_theme_name">Ma sauvegarde</string>
   <string name="backup_theme_progress_message">Sauvegarde du thème en cours, veuillez patienter…</string>
-  <string name="backup_theme_success_message">Le thème a été sauvegardé avec succès !</string>
+  <string name="backup_theme_success_message">Le thème a été sauvegardé avec succès !</string>
   <string name="change_wallpaper">Fond d\'écran</string>
   <string name="close">Fermer</string>
   <string name="component_category_finest_title">Principaux</string>
@@ -36,15 +36,15 @@
   <string name="description_summary">Résumé</string>
   <string name="description_uploadtime">Mis à jour</string>
   <string name="description_version">Version</string>
-  <string name="description_version_szie">Version : %1$s Taille : %2$s</string>
+  <string name="description_version_szie">Version : %1$s Taille : %2$s</string>
   <string name="desktop_wallpaper">Écran d\'accueil</string>
-  <string name="download_failed">Échec du téléchargement !</string>
+  <string name="download_failed">Échec du téléchargement !</string>
   <string name="download_preview_failed">Impossible de charger l\'aperçu.</string>
   <string name="download_success">Téléchargé avec succès</string>
   <string name="fail_to_add_account">Impossible d\'ajouter le compte</string>
   <string name="live_wallpaper">Fond d\'écran animé</string>
   <string name="loading">Chargement…</string>
-  <string name="loading_resource_detail_fail">Impossible de charger la ressource !</string>
+  <string name="loading_resource_detail_fail">Impossible de charger la ressource !</string>
   <string name="loading_resource_detail_info">Chargement…</string>
   <string name="lockscreen_wallpaper">Écran de verrouillage</string>
   <string name="lockstyle_personal_settings">Personnalisation</string>
@@ -57,7 +57,7 @@
   <string name="resource_app_name">Navigateur de ressources</string>
   <string name="resource_apply">Appliquer</string>
   <string name="resource_buy">Acheter</string>
-  <string name="resource_can_not_selected">%1$s ne peut pas être sélectionné !</string>
+  <string name="resource_can_not_selected">%1$s ne peut pas être sélectionné !</string>
   <string name="resource_category">Catégories</string>
   <string name="resource_comment_1_star">1 Étoile</string>
   <string name="resource_comment_2_star">2 Étoiles</string>
@@ -72,7 +72,7 @@
   <string name="resource_comment_edit_comment">Ajouter un commentaire</string>
   <string name="resource_comment_edit_comment_waiting">Vérifie si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
-  <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
+  <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
   <string name="resource_comment_entry_tips">Afficher les commentaires</string>
   <string name="resource_comment_expand_full_text">Développer le texte▼</string>
   <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
@@ -82,22 +82,22 @@
   <string name="resource_comment_no_average_score">-.-</string>
   <string name="resource_comment_no_comment">Aucun commentaire</string>
   <string name="resource_comment_publish">Envoyer</string>
-  <string name="resource_comment_rate">Note :</string>
+  <string name="resource_comment_rate">Note :</string>
   <string name="resource_comment_sending">Soumission du commentaire…</string>
-  <string name="resource_comment_title">Commentaires : %1$s</string>
+  <string name="resource_comment_title">Commentaires : %1$s</string>
   <string name="resource_comment_upload_data_invalid">Désolé, le commentaire soumis n\'est pas valide</string>
   <string name="resource_comment_upload_failed">L\'enregistrement du commentaire a échoué</string>
   <string name="resource_comment_upload_hint">Les commentaires seront affichés après avoir été examinés.</string>
   <string name="resource_comment_upload_not_bought">Vous devez appliquer le thème avant de commenter.</string>
   <string name="resource_comment_upload_not_logined">Veuillez vous connecter d\'abord</string>
-  <string name="resource_comment_upload_success">Commentaire envoyé ! Il s\'affichera une fois vérifié.</string>
+  <string name="resource_comment_upload_success">Commentaire envoyé ! Il s\'affichera une fois vérifié.</string>
   <string name="resource_default">Sonnerie par défaut</string>
   <string name="resource_default_name">Ressources</string>
-  <string name="resource_delete_all">Supprimer les %1$d ressources sélectionnées ?</string>
-  <string name="resource_delete_confirm">Supprimer ces ressources ?</string>
-  <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string>
+  <string name="resource_delete_all">Supprimer les %1$d ressources sélectionnées ?</string>
+  <string name="resource_delete_confirm">Supprimer ces ressources ?</string>
+  <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string>
   <string name="resource_delta_update_successful">Mise à jour réussie</string>
-  <string name="resource_delta_update_total">%1$d patch(s) de MàJ. Économisé : %2$s</string>
+  <string name="resource_delta_update_total">%1$d patch(s) de MàJ. Économisé : %2$s</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_detail_comment_title">Commentaires</string>
   <string name="resource_detail_jump_to_online_title">Voir en ligne</string>
@@ -125,11 +125,11 @@
   <string name="resource_no_result">Aucun résultat.</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_online">%1$s en ligne</string>
- <!-- resource_pack_confirm et resource_pack_warning à vérifier/Revoir ? -->
-  <string name="resource_pack_confirm">Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d\'acheter les articles restants individuellement, souhaitez-vous continuer ?</string>
-  <string name="resource_pack_discount_info">Économisé : %1$s</string>
-  <string name="resource_pack_price_info">Original : %1$s</string>
-  <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restants, veuillez les acheter individuellement.</string>
+ <!-- resource_pack_confirm et resource_pack_warning à vérifier/Revoir ? -->
+  <string name="resource_pack_confirm">Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d\'acheter les articles restants individuellement, souhaitez-vous continuer ?</string>
+  <string name="resource_pack_discount_info">Économisé : %1$s</string>
+  <string name="resource_pack_price_info">Original : %1$s</string>
+  <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restants, veuillez les acheter individuellement.</string>
   <string name="resource_preview">Aperçu</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
@@ -143,8 +143,8 @@
   <string name="resource_selected">Sélection</string>
   <string name="resource_server_alert_dialog_title">Le service est actuellement indisponible</string>
   <string name="resource_server_out_of_service">Serveur indisponible, veuillez réessayer ultérieurement.</string>
-  <string name="resource_share_subject">Partage du thème : %1$s</string>
-  <string name="resource_share_text">"Je pense que tu pourrais aimer ce thème : %1$s ! Lien : %2$s"</string>
+  <string name="resource_share_subject">Partage du thème : %1$s</string>
+  <string name="resource_share_text">"Je pense que tu pourrais aimer ce thème : %1$s ! Lien : %2$s"</string>
   <string name="resource_share_title">Partager</string>
   <string name="resource_system_title">Ressources système</string>
   <string name="resource_tip_select_ringtone">Aucune sélectionnée</string>
@@ -159,8 +159,8 @@
   <string name="short_ringtone_resource">Court(&lt;5s)</string>
   <string name="theme_batch_has_update_text">%1$d mise(s) à jour disponible(s)</string>
   <string name="theme_batch_update_all">Tout mettre à jour</string>
-  <string name="theme_batch_update_dlg_content">Voulez-vous mettre à jour maintenant ?</string>
-  <string name="theme_batch_update_dlg_content_single">Mettre à jour maintenant ?</string>
+  <string name="theme_batch_update_dlg_content">Voulez-vous mettre à jour maintenant ?</string>
+  <string name="theme_batch_update_dlg_content_single">Mettre à jour maintenant ?</string>
   <string name="theme_batch_update_dlg_title">Mise à jour</string>
   <string name="theme_batch_updating_text">%1$d mise(s) à jour en cours…</string>
   <string name="theme_changed_failed_message">Échec de l\'application du thème %1$s.</string>
@@ -191,7 +191,7 @@
   <string name="theme_current_using_has_update">Le thème actuel a été mis à jour, appuyez ici pour l\'appliquer</string>
   <string name="theme_description_title_customized">Personnalisé</string>
   <string name="theme_description_title_default">Par défaut</string>
-  <string name="theme_immediately_apply_tip">Le thème a été mis à jour, l\'appliquer immédiatement ?</string>
+  <string name="theme_immediately_apply_tip">Le thème a été mis à jour, l\'appliquer immédiatement ?</string>
   <string name="theme_import_activity_label">Mettre à jour les thèmes</string>
   <string name="theme_import_from_sdcard">Importer depuis la carte SD</string>
   <string name="theme_name">%1$s</string>
@@ -210,12 +210,12 @@
   <string name="wallpaper_settings">Paramètres du fond d\'écran</string>
   <string name="account_info">Mon compte</string>
   <string name="account_unactivated">Compte non activé.</string>
- <!-- apply_theme_with_ringtones : vérifier longueur -->
+ <!-- apply_theme_with_ringtones : vérifier longueur -->
   <string name="apply_theme_with_ringtones">Appliquer le thème avec les sonneries</string>
   <string name="basic_info">Informations</string>
   <string name="payment_info">MiCredits</string>
   <string name="resource_account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
-  <string name="resource_account_fail_to_add">Impossible d\'ajouter le compte !</string>
+  <string name="resource_account_fail_to_add">Impossible d\'ajouter le compte !</string>
   <string name="resource_account_login">Connexion</string>
   <string name="resource_account_login_before_action">Veuillez vous connecter à un votre compte Mi.</string>
   <string name="resource_account_login_title">Connexion</string>
@@ -224,14 +224,14 @@
   <string name="resource_comment_score_count">%1$s utilisateurs</string>
   <string name="resource_exchange">Activer un code</string>
   <string name="resource_exchange_confirm">Confirmer</string>
-  <string name="resource_exchange_empty_format">Veuillez saisir un code !</string>
+  <string name="resource_exchange_empty_format">Veuillez saisir un code !</string>
   <string name="resource_exchange_has_bought">Vous avez déjà acheté ce thème.</string>
   <string name="resource_exchange_has_expired">Ce code a expiré.</string>
   <string name="resource_exchange_has_used">Ce code a déjà été utilisé.</string>
   <string name="resource_exchange_hint">Saisissez votre code</string>
   <string name="resource_exchange_purchase_unkown_error">Une erreur inconnue s\'est produite. Veuillez vous connecter via http://market.xiaomi.com pour voir l\'état de votre paiement.</string>
-  <string name="resource_exchange_share_code_content">Vous avez reçu un code cadeau pour le thème MIUI \"%1$s\". Votre code est : %2$s. Appuyer sur %3$s pour l\'utiliser maintenant.</string>
-  <string name="resource_exchange_share_code_dlg_content">Code cadeau, pour le thème \"%1$s\", acheté avec succès. Le code est : %2$s. Vous pouvez le partager avec un ami.</string>
+  <string name="resource_exchange_share_code_content">Vous avez reçu un code cadeau pour le thème MIUI \"%1$s\". Votre code est : %2$s. Appuyer sur %3$s pour l\'utiliser maintenant.</string>
+  <string name="resource_exchange_share_code_dlg_content">Code cadeau, pour le thème \"%1$s\", acheté avec succès. Le code est : %2$s. Vous pouvez le partager avec un ami.</string>
   <string name="resource_exchange_share_code_dlg_title">Envoyer un code</string>
   <string name="resource_exchange_success">Transaction réussie</string>
   <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème</string>

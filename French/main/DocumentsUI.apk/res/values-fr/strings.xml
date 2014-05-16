@@ -40,7 +40,7 @@
   <string name="create_error">Échec de la création du dossier.</string>
   <string name="query_error">Échec de la demande de documents.</string>
   <string name="root_recent">Récents</string>
-  <string name="root_available_bytes">Espace disponible : %1$s</string>
+  <string name="root_available_bytes">Espace disponible : %1$s</string>
   <string name="root_type_service">Services de stockage</string>
   <string name="root_type_shortcut">Raccourcis</string>
   <string name="root_type_device">Appareils</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="all_downloads">Tous les téléchargements</string>
   <string name="app_downloads">%s téléchargements</string>
@@ -15,7 +15,7 @@
   <string name="delete_the_downloaded_file">Supprimez les fichiers téléchargés.</string>
   <string name="deselect_all">Tout désélectionner</string>
   <string name="dialog_cannot_resume">Le téléchargement a été interrompu, et ne peut pas être repris.</string>
-  <string name="dialog_failed_body">Souhaitez-vous réessayer de télécharger le fichier ultérieurement ou préférez-vous le supprimer de la file d\'attente ?</string>
+  <string name="dialog_failed_body">Souhaitez-vous réessayer de télécharger le fichier ultérieurement ou préférez-vous le supprimer de la file d\'attente ?</string>
   <string name="dialog_file_already_exists">Impossible de procéder au téléchargement. Le fichier de destination existe déjà.</string>
   <string name="dialog_file_missing_body">Impossible de trouver le fichier téléchargé.</string>
   <string name="dialog_file_missing_title">Échec de l\'ouverture du fichier</string>
@@ -39,8 +39,8 @@
   <string name="download_share_dialog">Partager via</string>
   <string name="download_success">Terminé</string>
   <string name="download_title">Téléchargements</string>
-  <string name="download_title_sorted_by_date">Téléchargements : triés par date</string>
-  <string name="download_title_sorted_by_size">Téléchargements : triés par taille</string>
+  <string name="download_title_sorted_by_date">Téléchargements : triés par date</string>
+  <string name="download_title_sorted_by_size">Téléchargements : triés par taille</string>
   <string name="download_when_network_connected">Le téléchargement utilise le réseau mobile</string>
   <string name="downloads_operating">En cours…</string>
   <string name="editmode_menu_delete">Supprimer</string>
@@ -57,7 +57,7 @@
   <string name="paused_unknown">Erreur inconnue</string>
   <string name="paused_waiting_for_network">Attente connexion réseau</string>
   <string name="paused_waiting_to_retry">Attente nouvelle tentative</string>
- <!-- pref_download_settings_title à revoir ? text original : Data usage -->
+ <!-- pref_download_settings_title à revoir ? text original : Data usage -->
   <string name="pref_download_settings_title">Utilisation des données</string>
   <string name="pref_summary_any_bytes_popup">Toujours attendre d\'être connecté via Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">Une demande de confirmation apparaît si la taille du téléchargement via le réseau de l\'opérateur dépasse la limite</string>
@@ -76,5 +76,5 @@
   <string name="xunlei_brand">Propulsé par Xunlei</string>
   <string name="xunlei_switch">Accélérateur de télécharg. Xunlei</string>
   <string name="turn_off_xunlei_message">Votre vitesse de téléchargement sera, peut-être, réduite.</string>
-  <string name="turn_off_xunlei_title">Désactiver l\'accélérateur Xunlei ?</string>
+  <string name="turn_off_xunlei_title">Désactiver l\'accélérateur Xunlei ?</string>
 </resources>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="dlg_delete_vip">Supprimer ce numéro des exceptions ?</string>
+  <string name="dlg_delete_vip">Supprimer ce numéro des exceptions ?</string>
   <string name="menu_add_vip_custom">Ajouter des membres à la liste blanche</string>
   <string name="qm_auto_button_title">Programmer</string>
   <string name="qm_auto_setting_group">Activer et désactiver automatiquement</string>
   <string name="qm_auto_time_setting">Réglage des horaires</string>
-  <string name="qm_auto_time_setting_summary">De : %1$s, à : %2$s</string>
+  <string name="qm_auto_time_setting_summary">De : %1$s, à : %2$s</string>
   <string name="qm_auto_time_turn_off">à</string>
   <string name="qm_auto_time_turn_off_title">Sélectionner l\'heure de désactivation du mode silencieux</string>
   <string name="qm_auto_time_turn_on">De</string>

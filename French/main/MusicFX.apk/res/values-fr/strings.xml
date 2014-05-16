@@ -28,7 +28,7 @@
   <string name="picker_title">Configuration effets musicaux</string>
   <string name="pr_dialog_title">Préréglage de la réverbération</string>
   <string name="pr_summary">Autres effets de réverbération de la pièce</string>
-  <string name="pr_title">Réverbération :</string>
+  <string name="pr_title">Réverbération :</string>
   <string name="setup">Configuration</string>
   <string name="user">Utilisateur</string>
   <string name="virtualizer_strength">Effet 3D</string>

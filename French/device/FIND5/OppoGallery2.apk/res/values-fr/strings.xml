@@ -50,7 +50,7 @@
   <string name="cloud_header">/apps/NearMe/</string>
   <string name="cloud_root_folder">Cloud</string>
   <string name="confirm">Confirmer</string>
-  <string name="confirm_delete">Confirmer la suppression de %s élément(s) ?</string>
+  <string name="confirm_delete">Confirmer la suppression de %s élément(s) ?</string>
   <string name="confirm_restore_message">Les réglages de la caméra seront restaurés aux valeurs par défaut.</string>
   <string name="continue_all_tasks">Continuer toutes les tâches</string>
   <string name="crop">Rogner</string>
@@ -63,8 +63,8 @@
   <string name="delete">Supprimer</string>
   <string name="delete_cancel">Annuler</string>
   <string name="delete_ok">Supprimer</string>
-  <string name="delete_selected_video">Supprimer la vidéo sélectionnée ?</string>
-  <string name="delete_task_waring_text">Supprimez la tâche ?</string>
+  <string name="delete_selected_video">Supprimer la vidéo sélectionnée ?</string>
+  <string name="delete_task_waring_text">Supprimez la tâche ?</string>
   <string name="deleted">Supprimée</string>
   <string name="deleting">Suppression</string>
   <string name="description">Description</string>
@@ -142,7 +142,7 @@
   <string name="image_name">IMG19700102083752.jpg</string>
   <string name="image_progress">0%</string>
   <string name="import_complete">Importation terminée</string>
-  <string name="import_fail">Échec de l\'importation !</string>
+  <string name="import_fail">Échec de l\'importation !</string>
   <string name="invalid_character">Caractère non valide</string>
   <string name="iso">ISO</string>
   <string name="load_again">Recharger</string>
@@ -466,7 +466,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="rename_duplicate">%s existe déjà, impossible de renommer</string>
   <string name="rename_error">Impossible de renommer</string>
   <string name="rename_picture">Renommer</string>
-  <string name="resume_playing_message">Reprendre la lecture à partir de %s ?</string>
+  <string name="resume_playing_message">Reprendre la lecture à partir de %s ?</string>
   <string name="resume_playing_restart">Redémarrer</string>
   <string name="resume_playing_resume">Reprendre la lecture</string>
   <string name="resume_playing_title">Reprendre la vidéo</string>
@@ -569,11 +569,11 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="widget_type_photo">Sélectionner une image</string>
   <string name="widget_type_shuffle">Lecture aléatoire des images</string>
   <string name="width">Largeur</string>
-  <string name="wifi_disconnected_content">Le Wi-Fi est déconnecté, le transfert peut se faire via la connexion mobile, souhaitez-vous continuer ?</string>
+  <string name="wifi_disconnected_content">Le Wi-Fi est déconnecté, le transfert peut se faire via la connexion mobile, souhaitez-vous continuer ?</string>
   <string name="wifi_disconnected_title">Wi-Fi déconnecté</string>
   <string name="wifi_not_connected_cancel">Annuler</string>
   <string name="wifi_not_connected_continue">Continuer</string>
-  <string name="wifi_not_contected_msg">Le Wi-Fi n\'est pas connecté, cela peut engendrer beaucoup de donnée mobile, souhaitez-vous continuer ?</string>
+  <string name="wifi_not_contected_msg">Le Wi-Fi n\'est pas connecté, cela peut engendrer beaucoup de donnée mobile, souhaitez-vous continuer ?</string>
   <string name="wifi_not_contected_title">Wi-Fi non connecté</string>
   <string name="yes">Oui</string>
 </resources>

@@ -18,7 +18,7 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
 <!-- removed 4.3.19:  -->
   <string name="traffic_protection_label">Suivi du trafic de données</string>
@@ -46,10 +46,10 @@
   <string name="setup_complete_info" />
   <string name="setup_complete_label">Installation terminée</string>
   <string name="setup_complete_start">Commencez à utiliser votre téléphone</string>
-  <string name="setup_complete_summary">Configuration terminée ! Profitez de MIUI !</string>
+  <string name="setup_complete_summary">Configuration terminée ! Profitez de MIUI !</string>
   <string name="shutdown">Éteindre</string>
   <string name="sim_card_detection_dialog_message">Détection de la carte SIM, veuillez patienter…</string>
   <string name="sim_card_detection_info">Il est impossible de configurer un compte Mi sans carte SIM. Elle est nécessaire pour profiter des services tels que la synchronisation des comptes, la géolocalisation du téléphone, etc.</string>
   <string name="sim_card_detection_label">Détection de la carte SIM</string>
-  <string name="sim_card_detection_status_absent">Carte SIM non détectée !</string>
+  <string name="sim_card_detection_status_absent">Carte SIM non détectée !</string>
 </resources>

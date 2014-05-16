@@ -188,8 +188,8 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
   <string name="cancel">Annuler</string>
   <string name="app_name">Appareil photo</string>
   <string name="SmileShot_message">Appuyez sur la touche de l\'appareil photo. Permet de prendre des photos automatiquement lorsque les personnes sourient</string>
-  <string name="Title_ResetDailog">Réinitialiser les paramètres de l\'appareil photo ?</string>
-  <string name="Title_ChangeMemoryInUseDailog">Utiliser la carte mémoire comme emplacement de stockage par défaut ?</string>
+  <string name="Title_ResetDailog">Réinitialiser les paramètres de l\'appareil photo ?</string>
+  <string name="Title_ChangeMemoryInUseDailog">Utiliser la carte mémoire comme emplacement de stockage par défaut ?</string>
   <string name="Title_InsertMemoryCardDailog">Insérez une carte mémoire pour utiliser l\'appareil photo</string>
   <string name="OnScreen_HelpTextTouchAF">Appuyez sur l\'écran pour sélectionner une zone</string>
   <string name="media_scanner_running">Analyseur de médias en cours d\'exécution…</string>
@@ -207,7 +207,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
   <string name="camera_security_exit">La politique de sécurité limite l\'utilisation de l\'appareil photo. Quittez l\'appareil photo</string>
   <string name="cannot_write_file">Impossible d\'enregistrer le fichier sur la carte SD. La mémoire du périphérique a été définie comme emplacement par défaut</string>
   <string name="default_storage_changed_to_phone">La mémoire du téléphone est désormais l\'emplacement de stockage par défaut</string>
-  <string name="default_storage_changed_to_memory_card">Nouveau stockage par défaut : carte mémoire</string>
+  <string name="default_storage_changed_to_memory_card">Nouveau stockage par défaut : carte mémoire</string>
   <string name="context_menu_edit">Modifier les raccourcis</string>
   <string name="not_supported_zoom">Zoom non pris en charge pendant l\'enregistrement d\'une vidéo Full HD</string>
   <string name="zoom_not_available">Zoom impossible lorsque la taille de l\'image est réglée au maximum</string>
@@ -258,7 +258,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
   <string name="singleshotburst_storage_helptext">La qualité d\'enregistrement des photos en rafale est définie sur Bonne</string>
   <string name="sbeam_helptext">Prenez des photos et partagez-les avec d\'autres périphériques. Rapprochez les périphériques pour ajouter les périphériques que vous souhaitez ajouter via S Beam</string>
   <string name="storage_setting_dialog_title">Emplacement de stockage</string>
-  <string name="storage_setting_dialog_message">Carte SD insérée. Modifier l\'emplacement de stockage vers la carte SD ?</string>
+  <string name="storage_setting_dialog_message">Carte SD insérée. Modifier l\'emplacement de stockage vers la carte SD ?</string>
   <string name="storage_setting_dialog_burstshot_message">Les clichés uniques seront enregistrés sur la carte SD et les photos en rafale sur le périphérique</string>
   <string name="do_not_ask_again">Ne plus afficher</string>
   <string name="shutter">Obturateur</string>
@@ -301,7 +301,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
   <string name="self_shot_open_warning_popup">La prise de vue automatique ne peut être utilisée que lorsque le téléphone est ouvert</string>
   <string name="self_recording_open_warning_popup">L\'enregistreur automatique ne peut être utilisé que lorsque le téléphone est ouvert</string>
   <string name="contextual_filename">Nom de fichier contextuel</string>
-  <string name="enable_gps_dialog">Le balisage GPS doit être activé. Activer le balisage GPS ?</string>
+  <string name="enable_gps_dialog">Le balisage GPS doit être activé. Activer le balisage GPS ?</string>
   <string name="gallery_disable">La Galerie est désactivée</string>
   <string name="HDR_Normal">Normal</string>
   <string name="HDR_Strong">Fort</string>

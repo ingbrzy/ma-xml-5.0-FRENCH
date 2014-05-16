@@ -218,10 +218,10 @@
     <string name="RuacMmi">Rejeter les appels indésirables</string>
     <string name="CndMmi">Livraison du numéro d\'appel</string>
     <string name="DndMmi">Ne pas déranger</string>
-    <string name="CLIRDefaultOnNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
-    <string name="CLIRDefaultOnNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
-    <string name="CLIRDefaultOffNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
-    <string name="CLIRDefaultOffNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
+    <string name="CLIRDefaultOnNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
+    <string name="CLIRDefaultOnNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
+    <string name="CLIRDefaultOffNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
+    <string name="CLIRDefaultOffNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
     <string name="serviceNotProvisioned">Ce service n\'est pas pris en charge.</string>
     <string name="CLIRPermanent">Impossible de modifier le paramètre relatif au numéro de l\'appelant.</string>
     <string name="RestrictedChangedTitle">L\'accès limité a été modifié.</string>
@@ -795,7 +795,7 @@ Veuillez réessayer dans %d secondes.</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
     <string name="lockscreen_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Réessayez dans %d secondes.</string>
-    <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
+    <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
     <string name="lockscreen_glogin_forgot_pattern">Déverrouillage du compte</string>
     <string name="lockscreen_glogin_too_many_attempts">Trop de tentatives</string>
     <string name="lockscreen_glogin_instructions">Pour déverrouiller le téléphone, veuillez vous connecter avec votre compte Google.</string>
@@ -826,7 +826,7 @@ Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_not_system">L\'action FACTORY_TEST est uniquement prise en charge pour les paquets de données installés dans in/system/app.</string>
     <string name="factorytest_no_action">Impossible de trouver un paquet proposant l\'action FACTORY_TEST.</string>
     <string name="factorytest_reboot">Redémarrer</string>
-    <string name="js_dialog_title">La page \"%s\" indique :</string>
+    <string name="js_dialog_title">La page \"%s\" indique :</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">Voulez-vous quitter cette page ?
 
@@ -1224,7 +1224,7 @@ pour le compte \"%s\"</string>
     <string name="issued_to">Délivré à :</string>
     <string name="common_name">Nom commun :</string>
     <string name="org_name">Organisation :</string>
-    <string name="org_unit">Unité organisationnelle :</string>
+    <string name="org_unit">Unité organisationnelle :</string>
     <string name="issued_by">Émis par :</string>
     <string name="validity_period">Validité :</string>
     <string name="issued_on">Date d\'émission :</string>
@@ -1239,7 +1239,7 @@ pour le compte \"%s\"</string>
     <string name="status_bar_device_locked">Appareil verrouillé</string>
     <string name="list_delimeter">", "</string>
     <string name="sending">Envoi en cours…</string>
-    <string name="launchBrowserDefault">Lancer le navigateur ?</string>
+    <string name="launchBrowserDefault">Lancer le navigateur ?</string>
     <string name="SetupCallDefault">Prendre l\'appel ?</string>
     <string name="activity_resolver_use_always">Toujours</string>
     <string name="activity_resolver_use_once">Une seule fois</string>
@@ -1253,7 +1253,7 @@ pour le compte \"%s\"</string>
     <string name="progress_erasing_internal">Effacement du stockage interne…</string>
     <string name="progress_unmounting_internal">Désinstallation de la mémoire de stockage interne en cours…</string>
     <string name="managed_roaming_title">"Gestion de l'itinérance"</string>
-    <string name="managed_roaming_dialog_content">Réseau avec service limité détecté. Lancer une recherche réseau ?</string>
+    <string name="managed_roaming_dialog_content">Réseau avec service limité détecté. Lancer une recherche réseau ?</string>
     <string name="managed_roaming_dialog_ok_button">Oui</string>
     <string name="managed_roaming_dialog_cancel_button">Non</string>
     <string name="lockscreen_sim_pin_blocked">PIN1 bloqué. Entrez le code PUK1 pour débloquer PIN1</string>
@@ -1261,9 +1261,9 @@ pour le compte \"%s\"</string>
     <string name="lockscreen_sim_error_message_short">Carte non valide</string>
     <string name="lockscreen_sim_error_message">"La carte SIM n'est pas valide."</string>
     <string name="lockscreen_perso_locked_message">SIM / RUIM est verrouillé Perso</string>
-    <string name="keyguard_password_wrong_puk_code">Code PUK incorrect !</string>
-    <string name="keyguard_password_pin_failed">Opération PIN échoué !</string>
-    <string name="keyguard_password_puk_failed">Opération PUK échoué !</string>
+    <string name="keyguard_password_wrong_puk_code">Code PUK incorrect !</string>
+    <string name="keyguard_password_pin_failed">Opération PIN échoué !</string>
+    <string name="keyguard_password_puk_failed">Opération PUK échoué !</string>
     <string name="keyguard_pin_accepted">Code accepté</string>
     <string name="keyguard_password_enter_puk_code_for_subscription">"Entrez le code PUK et le nouveau code PIN pour l'abonnement"</string>
     <string name="keyguard_password_enter_pin_code_for_subscription">"Entrez le code PIN pour l'abonnement"</string>

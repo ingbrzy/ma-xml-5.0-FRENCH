@@ -18,7 +18,7 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
  <!-- supprimé dans mi2s 4.4.15 -->
   <string name="accessibility_button_addbookmark">Ajouter aux favoris</string>
@@ -53,7 +53,7 @@
   <string name="contextheader_folder_bookmarkcount">%d favori(s)</string>
   <string name="contextheader_folder_empty">Dossier vide</string>
   <string name="copy_page_url">Copier l\'URL de la page</string>
-  <string name="crash_recovcery_message">Le navigateur s\'est arrêté anormalement. Voulez-vous récupérer la dernière session de navigation ?</string>
+  <string name="crash_recovcery_message">Le navigateur s\'est arrêté anormalement. Voulez-vous récupérer la dernière session de navigation ?</string>
   <string name="current_page">"de "</string>
   <string name="defaultBookmarksUpButton">Favoris</string>
   <string name="dialog_geolocation_reject">Masquer la position</string>
@@ -62,8 +62,8 @@
   <string name="disk_space_selected">%1$s sélectionné</string>
   <string name="disk_space_used">%1$s utilisé</string>
   <string name="do_not_save">Annuler</string>
-  <string name="download_video_alert_message">Si votre forfait a des frais de données, télécharger des vidéos peut consommer votre quota, voulez-vous continuer ?</string>
-  <string name="download_video_alert_title">Avertissement de téléchargement !</string>
+  <string name="download_video_alert_message">Si votre forfait a des frais de données, télécharger des vidéos peut consommer votre quota, voulez-vous continuer ?</string>
+  <string name="download_video_alert_title">Avertissement de téléchargement !</string>
   <string name="download_video_menu_dialog_positive_txt">Installer</string>
   <string name="download_video_menu_dialog_summary">Vous devez installer MiuiVideo avant d\'utiliser cette fonction</string>
   <string name="download_video_menu_dialog_title">Installation…</string>
@@ -139,7 +139,7 @@
   <string name="webapp_splashview_loading">Chargement, veuillez attendre…</string>
   <string name="webapp_web_forward">Suivant</string>
   <string name="webapp_web_goback">Retour</string>
-  <string name="network_alert_message">Wi-Fi non disponible, utiliser le réseau mobile ?</string>
+  <string name="network_alert_message">Wi-Fi non disponible, utiliser le réseau mobile ?</string>
   <string name="yes">Oui</string>
   <string name="no">Non</string>
 <!-- -->
@@ -154,7 +154,7 @@
   <string name="add_new_bookmark">Ajouter un favori</string>
   <string name="add_quicklink_to_popular">Ajouter à la page d\'accueil</string>
   <string name="added_to_bookmarks">Ajouté aux favoris.</string>
-  <string name="alert_tips">Le site que vous visitez présente un risque potentiel de sécurité, voulez-vous continuer ?</string>
+  <string name="alert_tips">Le site que vous visitez présente un risque potentiel de sécurité, voulez-vous continuer ?</string>
   <string name="allow">Autoriser</string>
   <string name="already_in_top_level">Favori déjà au plus haut niveau</string>
   <string name="app_new_version">Vous avez déjà téléchargé la dernière version</string>
@@ -220,8 +220,8 @@
   <string name="clear_history">Effacer l\'historique</string>
   <string name="clear_history_group">Effacer l\'historique de %s</string>
   <string name="clear_search_history">Effacer l\'historique</string>
-  <string name="clip_dialog_title">Ouvrir le lien copié ?</string>
-  <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous les onglets ?</string>
+  <string name="clip_dialog_title">Ouvrir le lien copié ?</string>
+  <string name="close_all_tab_alert_message">Êtes-vous sûr de vouloir fermer tous les onglets ?</string>
   <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.fr</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -256,12 +256,12 @@
   <string name="delete_bookmark">Supprimer le favori</string>
   <string name="delete_bookmark_warning">Supprimer le favori \"%s\" ?</string>
   <string name="delete_folder">Supprimer le dossier</string>
-  <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
+  <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
   <string name="download">Télécharger</string>
   <string name="download_complete">Téléchargement terminé</string>
   <string name="download_default_path_txt">Définir comme chemin de téléchargement par défaut et ne plus me demander</string>
   <string name="download_dialog_default_path_invalid">Chemin de téléchargement non valide, le chemin de téléchargement par défaut sera utilisé</string>
-  <string name="download_dialog_file_length_hint_txt">Taille du fichier :</string>
+  <string name="download_dialog_file_length_hint_txt">Taille du fichier :</string>
   <string name="download_dialog_file_length_lessthan1kb">Moins de 1 Ko</string>
   <string name="download_dialog_file_length_nolength_error_txt">Échec du calcul de la taille du fichier</string>
   <string name="download_dialog_file_length_nolength_txt">Calcul de la taille du fichier</string>
@@ -288,7 +288,7 @@
   <string name="error_console_eval_text_hint">Évaluer le JavaScript</string>
   <string name="error_console_header_text_maximized">Console JavaScript</string>
   <string name="error_console_header_text_minimized">Afficher la console JavaScript</string>
-  <string name="exit_browser_warning">Quitter le navigateur ?</string>
+  <string name="exit_browser_warning">Quitter le navigateur ?</string>
   <string name="file_dir">Dossier</string>
   <string name="file_name">Nom</string>
   <string name="file_picker">Choisir le chemin</string>
@@ -313,7 +313,7 @@
   <string name="geolocation_settings_page_summary_allowed">Ce site a accès à votre position.</string>
   <string name="geolocation_settings_page_summary_not_allowed">"Ce site n'a pas accès à votre position."</string>
   <string name="geolocation_settings_page_title">Accès à la position</string>
-  <string name="google_bookmarks">"Google : "</string>
+  <string name="google_bookmarks">"Google : "</string>
   <string name="have_sent_bookmark_to_home_screen">Favori ajouté à la page d\'accueil</string>
   <string name="history">Historique</string>
   <string name="history_browsed">Historique de navigation</string>
@@ -355,7 +355,7 @@
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Notification de Wi-Fi disponible</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_title">Si vous utilisez le réseau mobile pour accéder à internet, MIUI vous avertira si une connexion Wi-Fi est disponible à proximité</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Connexion Wi-Fi locale disponible</string>
-  <string name="network_show_wifi_setting_tip_dialog_description">Souhaitez-vous vous connecter ?</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Souhaitez-vous vous connecter ?</string>
   <string name="network_show_wifi_setting_tip_dialog_notshow">Se souvenir de mon choix</string>
   <string name="new_incognito_tab">Nouvel onglet navigation privée</string>
   <string name="new_tab">Nouvel onglet</string>
@@ -427,7 +427,7 @@
   <string name="pref_development_visual_indicator">Activez l\'indicateur visuel</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Quitter en fermant dernier onglet</string>
   <string name="pref_extras_reset_default">Valeurs par défaut</string>
-  <string name="pref_extras_reset_default_dlg">Rétablir les valeurs par défaut ?</string>
+  <string name="pref_extras_reset_default_dlg">Rétablir les valeurs par défaut ?</string>
   <string name="pref_extras_reset_default_summary">Rétablir les paramètres par défaut</string>
   <string name="pref_extras_reset_default_title">Rétablir les valeurs par défaut</string>
   <string name="pref_extras_title">Options avancées</string>
@@ -475,10 +475,10 @@
   <string name="pref_privacy_clear_form_data_dlg">Supprimer toutes les données de formulaire enregistrées ?</string>
   <string name="pref_privacy_clear_form_data_summary">Effacer toutes les données de formulaire enregistrées</string>
   <string name="pref_privacy_clear_geolocation_access">Supprimer l\'accès</string>
-  <string name="pref_privacy_clear_geolocation_access_dlg">Supprimer l\'accès des sites aux données de localisation ?</string>
+  <string name="pref_privacy_clear_geolocation_access_dlg">Supprimer l\'accès des sites aux données de localisation ?</string>
   <string name="pref_privacy_clear_geolocation_access_summary">Supprimer l\'accès aux données de localisation pour tous les sites Web</string>
   <string name="pref_privacy_clear_history">Effacer l\'historique</string>
-  <string name="pref_privacy_clear_history_by_group_dlg">Êtes-vous sûr de vouloir effacer votre historique de navigation ?</string>
+  <string name="pref_privacy_clear_history_by_group_dlg">Êtes-vous sûr de vouloir effacer votre historique de navigation ?</string>
   <string name="pref_privacy_clear_history_dlg">Supprimer l\'historique de navigation ?</string>
   <string name="pref_privacy_clear_history_summary">Effacer l\'historique du navigateur</string>
   <string name="pref_privacy_clear_passwords">Effacer mots de passe</string>
@@ -553,8 +553,8 @@
   <string name="save">Enregistrer</string>
   <string name="save_bookmark">Ajouter aux favoris</string>
   <string name="save_dialog_title">Sauvegarder</string>
-  <string name="save_file_already_exist_alert_message">Le fichier existe déjà, voulez-vous le remplacer ?</string>
-  <string name="save_file_already_exist_alert_title">Le fichier existe !</string>
+  <string name="save_file_already_exist_alert_message">Le fichier existe déjà, voulez-vous le remplacer ?</string>
+  <string name="save_file_already_exist_alert_title">Le fichier existe !</string>
   <string name="save_to_bookmarks">Ajouter aux favoris</string>
   <string name="saving_snapshot">Enregistrement en cours…</string>
   <string name="search">Rechercher</string>
@@ -692,7 +692,7 @@
   <string name="miui_content_web_search">Rechercher</string>
   <string name="miui_content_share">Partager</string>
   <string name="miuichromium_default_text_encoding">Latin-1</string>
-  <string name="miuichromium_save_password_message">Mémoriser le mot de passe ?</string>
+  <string name="miuichromium_save_password_message">Mémoriser le mot de passe ?</string>
   <string name="miuichromium_save_password_notnow">Pas maintenant</string>
   <string name="miuichromium_save_password_remember">Retenir</string>
   <string name="miuichromium_save_password_never">Jamais</string>
@@ -701,7 +701,7 @@
   <string name="webview_js_dialog_before_unload_negative_button">Rester sur cette Page</string>
   <string name="webview_js_dialog_before_unload">"%s
 
-Êtes-vous sûr de vouloir quitter cette page ?"</string>
+Êtes-vous sûr de vouloir quitter cette page ?"</string>
   <string name="webview_ok">OK</string>
   <string name="webview_cancel">Quitter</string>
   <string name="webview_js_dialog_title">Dialogue</string>
@@ -712,11 +712,11 @@
   <string name="webview_today">Aujourd\'hui</string>
   <string name="webview_last_month">Le mois dernier</string>
   <string name="webview_older">Plus ancien</string>
-  <string name="pref_version_summary">Version : %s</string>
+  <string name="pref_version_summary">Version : %s</string>
   <string name="pref_category_title_version">Version</string>
   <string name="save_image_success">Image enregistrée</string>
   <string name="save_image_failed">"Échec de l'enregistrement de l'image"</string>
-  <string name="js_disable_confirm_title">Désactiver le JavaScript ?</string>
+  <string name="js_disable_confirm_title">Désactiver le JavaScript ?</string>
   <string name="js_disable_confirm_message">La désactivation du JavaScript peut causer l\'affichage incorrect de certains sites web</string>
   <string name="cloud_tab">Onglet Cloud</string>
   <string name="sync_item_browser_title">Synchroniser le navigateur</string>
