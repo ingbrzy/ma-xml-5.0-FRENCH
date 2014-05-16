@@ -105,13 +105,13 @@ la vidéo sur votre box ou TV"</string>
   <string name="cancel">Annuler</string>
   <string name="ok">OK</string>
   <string name="good">OK</string>
-  <string name="loading_video">" "<CDATA>Chargement…</CDATA>" "</string>
-  <string name="loading_tv">" "<CDATA>Chargement…</CDATA>" "</string>
-  <string name="loading">" "<CDATA>Chargement…</CDATA>" "</string>
-  <string name="loading_review">" "<CDATA>Chargement…</CDATA>" "</string>
-  <string name="searching">" "<CDATA>Recherche…</CDATA>" "</string>
+  <string name="loading_video"><CDATA>Chargement…</CDATA></string>
+  <string name="loading_tv"><CDATA>Chargement…</CDATA></string>
+  <string name="loading"><CDATA>Chargement…</CDATA></string>
+  <string name="loading_review"><CDATA>Chargement…</CDATA></string>
+  <string name="searching"><CDATA>Recherche…</CDATA></string>
   <string name="live_pending_to_be_play">Chargement…</string>
-  <string name="live_loading_symbol">" "<CDATA>Chargement…</CDATA>" "</string>
+  <string name="live_loading_symbol"><CDATA>Chargement…</CDATA></string>
   <string name="live_loading_to_be_play">Chargement…</string>
   <string name="play">Lire</string>
   <string name="file_not_exist">Fichier introuvable</string>
@@ -163,7 +163,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="disk_volume">Stockage amovible</string>
   <string name="unknown_source">Source inconnue</string>
   <string name="select_media_source">Sélectionner la source vidéo</string>
-  <string name="authenticating">" "<CDATA>Vérification </CDATA>" "</string>
+  <string name="authenticating"><CDATA>Vérification </CDATA></string>
   <string name="review_success">Commentaire soumis</string>
   <string name="comment_publish">Envoyer</string>
   <string name="connecting">Connexion…</string>
@@ -189,7 +189,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="live_tabs_my">Ma chaine</string>
   <string name="live_tabs_all">Chaines</string>
   <string name="live_tabs_choice">Programmes</string>
-  <string name="live_pending_symbol">" "<CDATA>Chargement </CDATA>" "</string>
+  <string name="live_pending_symbol"><CDATA>Chargement </CDATA></string>
   <string name="manage">Gérer</string>
   <string name="finish">Finir</string>
   <string name="clear_cache_success">Cache effacé</string>
@@ -223,6 +223,17 @@ la vidéo sur votre box ou TV"</string>
   <string name="variety">Variety</string>
   <string name="subchannel_all">All</string>
  <!-- à traduire :
+ 4.5.16
+  <string name="no_favoritehistory">No favorite Channel</string>
+  <string name="download_add_sucess">add task done</string>
+  <string name="click_to_list">click to view details</string>
+  <string name="btnplayerfavorite">Favorite</string>
+  <string name="btnplayerfullscreen">full</string>
+  <string name="btnplayerdefault">default</string>
+  <string name="makeappointment">make appointment</string>
+  <string name="cancelappointment">cancel appointment</string>
+--------
+
   <string name="all">All</string>
   <string name="special_subject">Specials</string>
   <string name="rank">Rating</string>

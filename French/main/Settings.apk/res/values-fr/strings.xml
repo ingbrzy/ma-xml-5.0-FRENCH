@@ -4185,7 +4185,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="button_text_known">OK, je le sais</string>
   <string name="dialog_message_auto_start_tips">Certaines applications de sécurité peuvent incorrectement indiquer que MIUI empêche leur fonctionnement correct. Pour vérifier les permissions accordées aux applications, allez dans Paramètres > Applications.</string>
   <string name="dialog_title_auto_start_tips">À propos des démarrages auto</string>
- 
+  <string name="translation_contributors_title">Contributeurs</string>
  <!-- à traduire 
   <string name="subs_settings">SUBS Status</string>
   <string name="app_ops_settings_summary">View or change app permissions</string>

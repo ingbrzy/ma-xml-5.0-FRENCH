@@ -218,7 +218,6 @@
   <string name="playlist_renamed_message">Playlist renommée.</string>
   <string name="playlists_title">Playlists</string>
   <string name="powered_by">Fourni par</string>
-  <string name="project_device">Xiaomi MiBox</string>
   <string name="project_device_mobile">Appareil mobile</string>
   <string name="queue">Playlist actuelle</string>
   <string name="quit_player">Quitter</string>
@@ -351,7 +350,14 @@
   <string name="not_now">Plus tard</string>
   <string name="sync_alert_title">Paramètres de synchronisation</string>
   <string name="sync_alert_message">Synchronisez vos chansons favorites entre plusieurs appareils en utilisant votre compte Mi.</string>
- <!-- à traduire : 
+      
+ <!-- à traduire :
+ 4.5.16
+  <string name="select_device">Select device</string>
+  <string name="volume_alert_playback_alert_title">Volume alert</string>
+  <string name="volume_alert_playback_message">To prevent possible hearing damage, do not listen at high volume levels for long periods.</string>
+---------------------
+ 
   <string name="sync_disable_toast">You can always enable sync later in Settings > Accounts > Mi Cloud</string>
   <string name="login_and_enable">Sign in and sync</string>
   <string name="sync_enable_toast">You can change this setting in Settings > Accounts > Mi Cloud</string>
