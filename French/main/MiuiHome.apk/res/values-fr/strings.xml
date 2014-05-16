@@ -96,8 +96,9 @@
   <string name="confirm_btn_label">OK</string>
   <string name="cancel_btn_label">Annuler</string>
   <string name="default_folder_title_tools">Outils</string>
-  <string name="default_folder_title_recommend">Autres applis</string>
-  <string name="default_folder_title_security">Système et Sécurité</string>
+  <string name="default_folder_title_recommend">Autres</string>
+  <string name="default_folder_title_game">Jeux</string>
+  <string name="default_folder_title_security">Système</string>
   <string name="default_shortcut_title_10086">google.fr</string>
   <string name="online_wallpaper">En ligne</string>
   <string name="custom_wallpaper_picker">Parcourir…</string>
