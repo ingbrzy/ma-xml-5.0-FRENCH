@@ -918,12 +918,12 @@ pièce jointe dépasse la limite autorisée"</string>
   <string name="no_update">La version est à jour</string>
   <string name="upgrade_check">Vérifier les mises à jour</string>
   <string name="no_display_this_version">Ne pas afficher cette version</string>
-  <string name="now_version">Version actuelle:</string>
-  <string name="new_version">Dernière version:</string>
-  <string name="new_feature_desc">Changement：</string>
-  <string name="new_down_desc1">Conseils：</string>
+  <string name="now_version">Version actuelle :</string>
+  <string name="new_version">Dernière version :</string>
+  <string name="new_feature_desc">Changement :</string>
+  <string name="new_down_desc1">Conseils :</string>
   <string name="new_down_desc2">Veuillez faire une sauvegarde</string>
-  <string name="new_down_desc3">Le processus consomme beaucoup de données, nous vous recommandons d\'utiliser une connection Wi-FI</string>
+  <string name="new_down_desc3">Le processus consomme beaucoup de données, nous vous recommandons d\'utiliser une connexion Wi-Fi</string>
   <string name="download_now">Téléchargement…</string>
   <string name="start_download">Démarrer le téléchargement</string>
   <string name="donot_download">Annuler</string>
