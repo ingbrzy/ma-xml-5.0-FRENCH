@@ -4,7 +4,6 @@
 <resources>
  <!-- removed in 4.5.15 -->
   <string name="file_cleanup">Nettoyage de fichier</string>
-  <string name="binded_accout_description">Les comptes sont fusionnés. Vous pouvez dorénavant utiliser votre compte Mi pour accéder aux données stockées sur votre compte KuaiPan</string>
   <string name="local_cache_size">Taille du cache local : %s</string>
   <string name="scanning_on_going">Scan en cours…</string>
   <string name="scanning" formatted="false">Scan de %d apps… (sur %d apps)</string>
@@ -29,7 +28,6 @@
   <string name="cleanup_stopped">Nettoyage interrompu</string>
   <string name="temp_file_title">Fichiers temporaires</string>
   <string name="thumbnail_title">Miniatures</string>
-  <string name="app_cache_title">Cache d\'application</string>
   <string name="empty_dir_title">Dossiers vides</string>
   <string name="app_garbage_title">Déchets d\'application</string>
   <string name="temp_file_cleanup_indication">%s fichiers temporaires</string>
@@ -50,13 +48,10 @@
   <string name="cleanup_complete">Nettoyage réussi</string>
   <string name="count_down_time">Commencer après %d secondes</string>
   <string name="cancel_with_count_down">Annuler (%d)</string>
-    <string name="garbage_size_metric">"%s 
+  <string name="garbage_size_metric">"%s 
 Superflu"</string>
   <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
   <string name="garbage_item_path_format" formatted="false">%s %s</string>
-  <string name="account_bind_prompt">Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter…</string>
-  <string name="migrate_announcement_title">Migration de compte</string>
- <!-- -->
  <!-- removed in 4.5.6 -->
   <string name="no_enough_space">Pas assez de stockage</string>
   <string name="trans_task_delete_confirm_message">Êtes-vous sûr de vouloir supprimer les %1$d tâches sélectionnées ?</string>
@@ -311,6 +306,6 @@ Superflu"</string>
   <string name="xiaomi_account">Compte Mi</string>
   <string name="yes">Oui</string>
   <string name="binded_accout_description">"Votre compte Mi est synchronisé avec KuaiPan. Vous pouvez maintenant utiliser votre compte Mi pour accéder aux données que vous avez stockées sur KuaiPan."</string>
-  <string name="account_bind_prompt">Déplacement des données d\'utilisateurs… Cela peut prendre quelques minutes.</string>
-  <string name="migrate_announcement_title">Déplacement terminé</string>
+  <string name="account_bind_prompt">Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter…</string>
+  <string name="migrate_announcement_title">Migration de compte</string>
 </resources>
