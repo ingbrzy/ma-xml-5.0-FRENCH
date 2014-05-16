@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="about_device">À propos de l\'appareil</string>
   <string name="active_xiaomi_account">Actif</string>
-  <string name="active_xiaomi_account_msg">Pour activer votre compte, rendez-vous sur : https://account.xiaomi.com/pass/serviceLogin.</string>
-  <string name="active_xiaomi_account_title">Activer le compte Xiaomi</string>
+  <string name="active_xiaomi_account_msg">Pour activer votre compte, rendez-vous sur : https://account.xiaomi.com/pass/serviceLogin.</string>
+  <string name="active_xiaomi_account_title">Activer le compte Mi</string>
   <string name="app_name">Mise à jour</string>
-  <string name="apply_buddy_update_info_message">Appuyez sur confirmer pour commencer le processus de mise à jour</string>
+  <string name="apply_buddy_update_info_message">Appuyez sur \"Confirmer\" pour commencer le processus de mise à jour</string>
   <string name="apply_existing_update_md5error_title">La signature MD5 ne correspond pas</string>
   <string name="apply_later_button_text">Annuler</string>
   <string name="apply_now_button_text">Confirmer</string>
   <string name="apply_unable_to_reboot_toast">Impossible de redémarrer pour entrer dans le Recovery</string>
   <string name="apply_update_dialog_cancel_button">Annuler</string>
-  <string name="apply_update_dialog_update_button">Mettre à jour</string>
+  <string name="apply_update_dialog_update_button">Confirmer</string>
   <string name="apply_update_fail">La mise à jour a échoué</string>
   <string name="apply_update_timer">L\'appareil redémarrera dans %d secondes</string>
   <string name="apply_upload_info_message">Appuyez sur \"Confirmer\" pour redémarrer automatiquement le téléphone et appliquer la mise à jour.</string>
   <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
   <string name="applying_rom_message">Application de la mise à jour</string>
-  <!-- applying_update à revoir ? original : Updating %s -->
-  <string name="applying_update">Application de la mise à jour…%s</string>
+  <!-- applying_update à revoir ? original : Updating %s -->
+  <string name="applying_update">Application de la mise à jour… (%s)</string>
   <string name="best_update">2. Meilleure mise à jour</string>
   <string name="boot_recovery">Redémarrer dans le Recovery</string>
   <string name="cancel_download_buton_text">Annuler</string>
@@ -35,8 +35,8 @@
   <string name="comment_upload_failed">"Échec de l'envoi du commentaire"</string>
   <string name="comment_upload_hint">Merci pour vos commentaires</string>
   <string name="comment_upload_not_logined">"Connectez-vous avant d'envoyer des commentaires"</string>
-  <string name="comment_upload_success">Commentaire envoyé avec succès !</string>
-  <string name="confirm_download_cancelation_dialog_message">Êtes-vous sûr de vouloir annuler le téléchargement en cours ?</string>
+  <string name="comment_upload_success">Commentaire envoyé avec succès !</string>
+  <string name="confirm_download_cancelation_dialog_message">Êtes-vous sûr de vouloir annuler le téléchargement en cours ?</string>
   <string name="copy_install_log">Copier</string>
   <string name="current_version_text">"Version actuelle "</string>
   <string name="current_version_update_monthly_build">Version actuelle (Mettre à jour vers la version mensuelle)</string>
@@ -51,14 +51,14 @@
   <string name="edit_comment">Ajouter un commentaire</string>
   <string name="edit_comment_title">Éditer un commentaire</string>
   <string name="edit_text_default">Écrire un commentaire</string>
-  <string name="emegency_build">Version :</string>
+  <string name="emegency_build">Version :</string>
   <string name="exception_while_downloading">Erreur lors du téléchargement de la mise à jour</string>
   <string name="expect">4. Les attentes</string>
   <string name="experimental_build">Version expérimentale</string>
   <string name="file_not_found_error_message">Les fichiers demandés sont introuvables sur le serveur</string>
   <string name="finish">Terminer</string>
   <string name="finish_download">Téléchargement terminé</string>
-  <string name="fourgrid_hint_text">"Merci d'utiliser la version développeur de MIUI. Vous pouvez nous dire ce que vous en pensez afin de nous aider à faire une meilleure rom MIUI !"</string>
+  <string name="fourgrid_hint_text">"Merci d'utiliser la version développeur de MIUI. Vous pouvez nous dire ce que vous en pensez afin de nous aider à faire une meilleure rom MIUI !"</string>
   <string name="fourgrid_no_notificaiont">"Ne pas afficher dans la barre d'état"</string>
   <string name="fourgrid_notificaiont">"Afficher dans la barre d'état"</string>
   <string name="get_update_error">Impossible d\'obtenir des informations sur la mise à jour</string>
@@ -80,13 +80,13 @@
   <string name="moving_data_to_sdcard_progress_format">Transféré %1$d Ko de %2$d Ko</string>
   <string name="my_best_update">La meilleure mise à jour que j\'ai choisie</string>
   <string name="my_expect_update">Les attentes que j\'ai choisies</string>
-  <string name="my_rank">Classement des mises à jour :</string>
+  <string name="my_rank">Classement des mises à jour :</string>
   <string name="my_update_feel">Mes sentiments</string>
   <string name="my_worst_update">La pire mise à jour que j\'ai choisie</string>
   <string name="network_error">Une erreur de connexion réseau s\'est produite, veuillez essayer de nouveau</string>
   <string name="new_update_content_title">Une mise à jour MIUI est disponible</string>
-  <string name="new_update_download_complete_body">Mise à jour possible : %s</string>
-  <string name="new_update_downloading_body">Téléchargement de la nouvelle version : %s</string>
+  <string name="new_update_download_complete_body">Mise à jour possible : %s</string>
+  <string name="new_update_downloading_body">Téléchargement de la nouvelle version : %s</string>
   <string name="new_updates_found_notification_title">Mise à jour système disponible</string>
   <string name="new_updates_found_title">Mises à jour disponibles</string>
   <string name="next">Suivant</string>
@@ -116,10 +116,10 @@
   <string name="share_qq">Poster via Tencent weibo</string>
   <string name="share_sina">Poster via Sina weibo</string>
   <string name="share_update">Partager les informations de mise à jour système</string>
-  <string name="share_update_content_sign">J\'ai mis à jour MIUI vers %1$s ! Mon rang d\'utilisateur de mise à jour est %2$s. Pour le changelog détaillé, veuillez visiter %3$s</string>
-  <string name="share_update_content_unsign">J\'ai mis à jour MIUI vers %1$s ! Pour le journal des modifications détaillé, consultez %2$s</string>
-  <string name="sign_in_add_account">Veuillez vous connecter avec un compte Xiaomi</string>
-  <string name="sign_in_add_account_helper">Aucun compte Xiaomi configuré, veuillez en ajouter un.</string>
+  <string name="share_update_content_sign">J\'ai mis à jour MIUI vers %1$s ! Mon rang d\'utilisateur de mise à jour est %2$s. Pour le changelog détaillé, veuillez visiter %3$s</string>
+  <string name="share_update_content_unsign">J\'ai mis à jour MIUI vers %1$s ! Pour le journal des modifications détaillé, consultez %2$s</string>
+  <string name="sign_in_add_account">Veuillez vous connecter avec un compte Mi</string>
+  <string name="sign_in_add_account_helper">Aucun compte Mi configuré, veuillez en ajouter un.</string>
   <string name="sign_in_info">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
   <string name="sign_in_info_rank_more">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Votre classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
@@ -133,7 +133,7 @@
   <string name="submit">Envoyer</string>
   <string name="submit_fail">Échec d\'envoi</string>
   <string name="submit_progress">Envoi en cours…</string>
-  <string name="submit_success">Envoi réussi, Merci !</string>
+  <string name="submit_success">Envoi réussi, Merci !</string>
   <string name="system_backup_apply_helper">"L\'appareil redémarrera automatiquement pour appliquer la mise à jour. "</string>
   <string name="system_backup_ask">Demander la prochaine fois</string>
   <string name="system_backup_button_text">Effectuer une sauvegarde du système avant la mise à jour</string>
@@ -147,26 +147,26 @@
   <string name="update_comment_hint" />
   <string name="update_comment_title">Vos commentaires</string>
   <string name="update_feedback">Mettre à jour les avis</string>
-  <string name="update_feedback_expired">"Quel dommage que vous ayez manqué de commenter la mise à jour !
+  <string name="update_feedback_expired">"Quel dommage que vous ayez manqué de commenter la mise à jour !
 Vous pourrez le faire mardi prochain"</string>
-  <string name="update_feel">1. Comment vous sentez-vous ?</string>
+  <string name="update_feel">1. Comment vous sentez-vous ?</string>
   <string name="update_general">Pas mal</string>
   <string name="update_happy">Joyeux</string>
   <string name="update_monthly_build_only">Mettre à jour vers la compilation mensuelle uniquement</string>
   <string name="update_sad">Triste</string>
-  <string name="update_success">Félicitations, la mise à jour est appliquée avec succès !</string>
-  <string name="update_success_body">Version : %s</string>
-  <string name="update_success_title">Système mis à jour !</string>
+  <string name="update_success">Félicitations, la mise à jour est appliquée avec succès !</string>
+  <string name="update_success_body">Version : %s</string>
+  <string name="update_success_title">Système mis à jour !</string>
   <string name="updater_finish_download">Téléchargement de la ROM terminé</string>
   <string name="upgrade_close">Fermer</string>
   <string name="upgrade_kernel">Le noyau actuel nécessite une mise à jour</string>
-  <string name="upgrade_kernel_msg">"La version du noyau actuel ne correspond pas à la ROM MIUI. Vous avez besoin de mettre à jour le noyau manuellement. Veuillez-vous référer au tutoriel de mise à niveau : "</string>
+  <string name="upgrade_kernel_msg">"La version du noyau actuel ne correspond pas à la ROM MIUI. Vous avez besoin de mettre à jour le noyau manuellement. Veuillez-vous référer au tutoriel de mise à niveau : "</string>
   <string name="verify_and_apply_dialog_message">Vérification de la signature MD5…</string>
   <string name="verify_and_apply_dialog_title">Vérifier l\'intégrité des fichiers</string>
   <string name="view_install_log">Afficher le journal d\'erreur</string>
   <string name="view_upgrade_tutorial">Visionner</string>
   <string name="weekly_build">Version hebdomadaire</string>
-  <string name="wifi_not_available_body">Il est recommandé d\'utiliser le Wi-Fi pour télécharger les mises à jour car la taille des fichiers peut être volumineuse. Vous n\'êtes pas connecté en Wi-Fi, êtes-vous sûr de vouloir continuer ?</string>
+  <string name="wifi_not_available_body">Il est recommandé d\'utiliser le Wi-Fi pour télécharger les mises à jour car la taille des fichiers peut être volumineuse. Vous n\'êtes pas connecté en Wi-Fi, êtes-vous sûr de vouloir continuer ?</string>
   <string name="wifi_not_available_title">Wi-Fi non connecté</string>
   <string name="worst_update">3. La pire mise à jour</string>
   <string name="now">Redémarrer maintenant</string>

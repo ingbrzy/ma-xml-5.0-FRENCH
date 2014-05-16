@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="accessibility_airplane_mode">Mode Avion</string>
   <string name="accessibility_back">Retour</string>
@@ -29,10 +29,10 @@
   <string name="accessibility_no_wifi">Wi-Fi déconnecté</string>
   <string name="accessibility_no_wimax">Aucun signal WiMAX</string>
   <string name="accessibility_notifications_button">Notifications</string>
-  <string name="accessibility_phone_one_bar">Signal : faible</string>
+  <string name="accessibility_phone_one_bar">Signal : faible</string>
   <string name="accessibility_phone_signal_full">Signal excellent</string>
-  <string name="accessibility_phone_three_bars">Signal : bon</string>
-  <string name="accessibility_phone_two_bars">Signal : moyen</string>
+  <string name="accessibility_phone_three_bars">Signal : bon</string>
+  <string name="accessibility_phone_two_bars">Signal : moyen</string>
   <string name="accessibility_recent">Applications récentes</string>
   <string name="accessibility_recents_item_dismissed">Application \"%s\" ignorée.</string>
   <string name="accessibility_remove_notification">Supprimer la notification</string>
@@ -46,7 +46,7 @@
   <string name="accessibility_wifi_three_bars">Signal Wi-Fi bon</string>
   <string name="accessibility_wifi_two_bars">Signal Wi-Fi moyen</string>
   <string name="accessibility_wimax_one_bar">Signal WiMAX : faible</string>
-  <string name="accessibility_wimax_signal_full">Signal WiMAX : excellent</string>
+  <string name="accessibility_wimax_signal_full">Signal WiMAX : excellent</string>
   <string name="accessibility_wimax_three_bars">Signal WiMAX : bon</string>
   <string name="accessibility_wimax_two_bars">Signal WiMAX : moyen</string>
   <string name="audio_effect_settings">Définir le type d\'écouteurs</string>
@@ -127,7 +127,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="mdb_restore_info2">Veuillez ne pas déconnecter la connexion USB</string>
   <string name="mdb_restore_label">Restauration MDB</string>
   <string name="mdb_restore_mode">Mode de restauration MDB</string>
-  <string name="mdb_usb_disconnection_exit">USB déconnecté, annulation de la restauration !</string>
+  <string name="mdb_usb_disconnection_exit">USB déconnecté, annulation de la restauration !</string>
   <string name="mount_storage">Oui</string>
   <string name="move_data_to_sdcard_message">Cela déplacera les données telles que les captures d\'écran, les photos et autre de la mémoire interne à la carte SD. Afin de conserver une expérience utilisateur stable et harmonieuse, il est préférable de conserver la carte SD dans le téléphone pour l\'usage quotidien.</string>
   <string name="move_data_to_sdcard_title">Export des données internes sur la carte SD</string>
@@ -210,9 +210,9 @@ Vous devez utiliser le chargeur fourni."</string>
 d MMMM yyyy"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configurer les modes de saisie</string>
-  <string name="status_bar_network_flow">Aujourd\'hui : %1$s, Reste : %2$s, Limite : %3$s</string>
-  <string name="status_bar_network_flow_exceed">Aujourd\'hui : %1$s, Dépassement : %2$s, Limite : %3$s</string>
-  <string name="status_bar_network_flow_today">Aujourd\'hui : %1$s</string>
+  <string name="status_bar_network_flow">Aujourd\'hui : %1$s, Reste : %2$s, Limite : %3$s</string>
+  <string name="status_bar_network_flow_exceed">Aujourd\'hui : %1$s, Dépassement : %2$s, Limite : %3$s</string>
+  <string name="status_bar_network_flow_today">Aujourd\'hui : %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Aucune application récente</string>
   <string name="status_bar_notification_inspect_item_title">Informations sur l\'application</string>
@@ -280,12 +280,12 @@ d MMMM yyyy"</string>
   <string name="usb_accessory_permission_prompt">Autoriser l\'application %1$s à accéder à l\'accessoire USB ?</string>
   <string name="usb_accessory_uri_prompt">Aucune application installée compatible avec accessoire USB. En savoir plus sur %1$s</string>
   <string name="usb_debugging_always">Toujours autoriser à partir de cet ordinateur</string>
-  <string name="usb_debugging_message">Le propriétaire de l\'empreinte de la clé RSA est : %1$s</string>
-  <string name="usb_debugging_title">Autoriser le débogage USB ?</string>
+  <string name="usb_debugging_message">Le propriétaire de l\'empreinte de la clé RSA est : %1$s</string>
+  <string name="usb_debugging_title">Autoriser le débogage USB ?</string>
   <string name="usb_device_confirm_prompt">Ouvrir %1$s lors de la connexion de ce périphérique USB ?</string>
   <string name="usb_device_permission_prompt">Autoriser l\'application %1$s à accéder au périphérique USB ?</string>
   <string name="usb_mode_dont_ask">Ne plus me le demander la prochaine fois</string>
-  <string name="usb_mode_mount_storage_title">Ouvrir le périphérique de stockage USB ?</string>
+  <string name="usb_mode_mount_storage_title">Ouvrir le périphérique de stockage USB ?</string>
   <string name="usb_mode_notification">Périphérique de stockage USB</string>
   <string name="usb_mtp_text">Fichiers</string>
   <string name="usb_notification">Périphérique USB connecté</string>

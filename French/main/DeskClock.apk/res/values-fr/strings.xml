@@ -18,7 +18,7 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="add_alarm">Ajouter une alarme</string>
   <string name="alarm_alert">Sonnerie</string>
@@ -52,19 +52,19 @@
   <string name="common_settings">Paramètres</string>
   <string name="confirm_abort">Confirmer</string>
   <string name="control_set_alarm">Régler l\'alarme</string>
-  <string name="control_set_alarm_with_existing">Alarme définie : %s</string>
+  <string name="control_set_alarm_with_existing">Alarme définie : %s</string>
   <string name="day">1 jour</string>
   <string name="day_concat">", "</string>
   <string name="days">%s jours</string>
   <string name="default_alarm_alert">Choisir la sonnerie par défaut</string>
   <string name="default_alarm_title">Sonnerie par défaut</string>
   <string name="default_label">Alarme</string>
-  <string name="delelte_selected_timezone">Supprimer le(s) fuseau(x) horaire(s) sélectionné(s) ?</string>
+  <string name="delelte_selected_timezone">Supprimer le(s) fuseau(x) horaire(s) sélectionné(s) ?</string>
   <string name="delete">Supprimer</string>
   <string name="delete_alarm">Supprimer alarme</string>
   <string name="delete_alarm_confirm">Supprimer alarme(s) ?</string>
   <string name="delete_timezone_title">Supprimer le fuseau horaire</string>
-  <string name="dialog_confirm_abort">Voulez-vous abandonner vos modifications ?</string>
+  <string name="dialog_confirm_abort">Voulez-vous abandonner vos modifications ?</string>
   <string name="done">OK</string>
   <string name="elapsed_time_format">(+%s)</string>
   <string name="every_day">Tous les jours</string>
@@ -111,7 +111,7 @@
   <string name="timer_got_it">OK</string>
   <string name="timer_message">Le délai de %1$d minute(s) est écoulé</string>
   <string name="timer_message_with_hour">Le délai de %1$d heure(s) et %2$d minute(s) est écoulé</string>
-  <string name="timer_start_alarm">Temps écoulé !</string>
+  <string name="timer_start_alarm">Temps écoulé !</string>
   <string name="timer_title">Minuteur</string>
   <string name="timezone_exist_error_message">Échec de l\'opération, le fuseau horaire semble déjà exister.</string>
   <string name="volume_button_setting_summary">Définir les actions de ces boutons lorsqu\'ils sont utilisés pendant une alarme</string>

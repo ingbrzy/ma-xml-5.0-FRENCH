@@ -18,7 +18,7 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
 <!-- supprimé dans 4.4.16 -->
   <string name="account_delete_dlg_title">Supprimer le compte</string>
@@ -32,7 +32,7 @@
   <string name="account_settings_signature_hint">Ajouter un texte aux messages envoyés</string>
   <string name="account_settings_signature_label">Signature</string>
   <string name="account_setup_basic_description_label">Nom du compte (facultatif)</string>
-  <string name="account_setup_basic_label">Veuillez remplir les informations de la boîte aux lettres %s :</string>
+  <string name="account_setup_basic_label">Veuillez remplir les informations de la boîte aux lettres %s :</string>
   <string name="account_setup_basic_name_label">Votre nom (facultatif)</string>
   <string name="account_setup_basics_default_label">Par défaut, envoyer les e-mails avec ce compte</string>
   <string name="account_setup_basics_exchange_title">Ajouter un compte Exchange</string>
@@ -45,7 +45,7 @@
   <string name="account_setup_exchange_username_label">Domaine\\Nom d\'utilisateur</string>
   <string name="account_setup_incoming_imap_server_label">Serveur IMAP</string>
   <string name="account_setup_incoming_pop_server_label">Serveur POP3</string>
-  <string name="account_setup_index_label">Veuillez choisir parmi la liste des fournisseurs de services Mail :</string>
+  <string name="account_setup_index_label">Veuillez choisir parmi la liste des fournisseurs de services Mail :</string>
   <string name="account_setup_index_title">Paramètres de compte</string>
   <string name="account_setup_index_other_mails">Autre compte de messagerie</string>
   <string name="account_setup_options_default_label">Par défaut, envoyer les e-mails avec ce compte</string>
@@ -57,7 +57,7 @@
   <string name="action_bar_mailbox_list_title">Dossiers</string>
   <string name="add_cc_bcc_menu">Ajouter Cc/Cci</string>
   <string name="add_quick_responses_action">Créer nouveau</string>
-  <string name="alert_selected_all_message">"a au moins %d messages, tout sélectionner ?"</string>
+  <string name="alert_selected_all_message">"a au moins %d messages, tout sélectionner ?"</string>
   <string name="alert_title_selected">Tout sélectionner</string>
   <string name="attachment_info_apk_install_disabled">"Les applications ne peuvent pas être installées directement depuis un mail. Enregistrez tout d'abord cette application, puis installez-la à l'aide de l'application Téléchargements."</string>
   <string name="attachment_info_application_settings">Paramètres application</string>
@@ -75,10 +75,12 @@
   <string name="cleared_trusted_senders_message">Les images intégrées ne seront pas affichées automatiquement.</string>
   <string name="close_action">Fermer</string>
   <string name="compose_action">Composer</string>
+  <string name="compose_send">Envoi…</string>
+  <string name="compose_sent">Envoyé avec succès !</string>
   <string name="compose_title">Nouveau message</string>
-  <string name="debug_enable_exchange_file_logging_label">Activer la journalisation des échanges avec la carte SD ?</string>
-  <string name="debug_enable_exchange_logging_label">Activer la journalisation des échanges ? (Bavard)</string>
-  <string name="debug_version_fmt">Version : %s</string>
+  <string name="debug_enable_exchange_file_logging_label">Activer la journalisation des échanges avec la carte SD ?</string>
+  <string name="debug_enable_exchange_logging_label">Activer la journalisation des échanges ? (Bavard)</string>
+  <string name="debug_version_fmt">Version : %s</string>
   <string name="delete_action">Supprimer</string>
   <string name="delete_quick_response_action">Supprimer</string>
   <string name="discard_action">Supprimer</string>
@@ -115,7 +117,7 @@
   <string name="message_compose_quoted_text_label">Inclure le texte des messages précédents</string>
   <string name="message_compose_reply_header_fmt">"
 
-%s a écrit :
+%s a écrit :
 
 "</string>
   <string name="message_compose_subject_hint">Objet</string>
@@ -140,15 +142,15 @@
   <string name="message_view_attachment_save_action">Enregistrer</string>
   <string name="message_view_attachment_saved">Enregistré</string>
   <string name="message_view_attachment_view_action">Afficher</string>
-  <string name="message_view_bcc_label">Cci :</string>
-  <string name="message_view_cc_label">Cc :</string>
-  <string name="message_view_date_label">Date :</string>
+  <string name="message_view_bcc_label">Cci :</string>
+  <string name="message_view_cc_label">Cc :</string>
+  <string name="message_view_date_label">Date :</string>
   <string name="message_view_display_attachment_toast">Impossible d\'afficher la pièce jointe.</string>
-  <string name="message_view_from_label">De :</string>
+  <string name="message_view_from_label">De :</string>
   <string name="message_view_invite_accept">" Oui"</string>
   <string name="message_view_invite_decline">" Non"</string>
   <string name="message_view_invite_maybe">" Peut-être"</string>
-  <string name="message_view_invite_text">Allez-vous participer ?</string>
+  <string name="message_view_invite_text">Allez-vous participer ?</string>
   <string name="message_view_invite_title">Invitation de Google Agenda</string>
   <string name="message_view_invite_toast_maybe">Vous avez répondu \"Peut-être\" à cette invitation.</string>
   <string name="message_view_invite_toast_no">Vous avez refusé cette invitation.</string>
@@ -165,8 +167,8 @@
   <string name="message_view_show_pictures_action">Afficher les images</string>
   <string name="message_view_status_attachment_not_saved">"Impossible d'enreg. pièce jointe."</string>
   <string name="message_view_status_attachment_saved">PJ enregistrée sous %s.</string>
-  <string name="message_view_subject_label">Objet :</string>
-  <string name="message_view_to_label">À :</string>
+  <string name="message_view_subject_label">Objet :</string>
+  <string name="message_view_to_label">À :</string>
   <string name="move_action">Déplacer</string>
   <string name="move_to_folder_dialog_title">Déplacer vers</string>
   <string name="newer_action">Plus récent</string>
@@ -273,7 +275,7 @@
   <string name="account_setup_check_settings_retr_info_msg">Récupération des informations sur le compte…</string>
   <string name="account_setup_creating_account_msg">Création du compte en cours…</string>
   <string name="account_setup_exchange_certificate_title">Certificat client</string>
-  <string name="account_setup_exchange_device_id_label">Numéro d\'appareil mobile :</string>
+  <string name="account_setup_exchange_device_id_label">Numéro d\'appareil mobile :</string>
   <string name="account_setup_exchange_no_certificate">Aucun</string>
   <string name="account_setup_exchange_remove_certificate">Supprimer</string>
   <string name="account_setup_exchange_select_certificate">Sélectionner</string>
@@ -294,7 +296,7 @@
   <string name="account_setup_failed_ioerror">"Impossible d'établir la connexion avec le serveur."</string>
   <string name="account_setup_failed_protocol_unsupported">"L'adresse de serveur saisie est incorrecte ou le serveur exige une version du protocole non compatible avec E-mail."</string>
   <string name="account_setup_failed_security">"Impossible d'établir la connexion avec le serveur en raison d'une erreur de sécurité."</string>
-  <string name="account_setup_failed_security_policies_unsupported">"Ce serveur nécessite des fonctionnalités de sécurité incompatibles avec votre appareil Android, dont : %s"</string>
+  <string name="account_setup_failed_security_policies_unsupported">"Ce serveur nécessite des fonctionnalités de sécurité incompatibles avec votre appareil Android, dont : %s"</string>
   <string name="account_setup_failed_tls_required">Protocole TLS requis mais non pris en charge par le serveur.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Si messages suppr. de boîte de récep.</string>
   <string name="account_setup_incoming_delete_policy_label">Supprimer les e-mails du serveur</string>
@@ -395,7 +397,7 @@
   <string name="auto_advance_summary">Choisissez l\'écran à afficher après la suppression d\'un message.</string>
   <string name="auto_sync_off">La synchronisation automatique est désactivée.</string>
   <string name="bcc">Cci</string>
-  <string name="bcc_heading">"Cci : "</string>
+  <string name="bcc_heading">"Cci : "</string>
   <string name="body_hint">Composez un message</string>
   <string name="bytes">%s octets</string>
   <string name="cancel">Annuler</string>
@@ -406,24 +408,27 @@
   <string name="cannot_move_special_mailboxes_toast">"Impossible de déplacer les messages se trouvant dans les dossiers \"Brouillons\", \"Boîte d'envoi\" et \"Messages envoyés\"."</string>
   <string name="cant_move_or_change_labels">"Impossible de déplacer les messages, car la sélection comprend plusieurs comptes."</string>
   <string name="cc">Cc</string>
-  <string name="cc_attribution">Cc : %1$s&lt;br&gt;</string>
-  <string name="cc_heading">"Cc : "</string>
+  <string name="cc_attribution">Cc : %1$s&lt;br&gt;</string>
+  <string name="cc_heading">"Cc : "</string>
   <string name="change_folders_selection_dialog_title">Modifier les dossiers</string>
   <string name="change_sync_settings">Modifier paramètres synchro</string>
   <string name="checking_for_mail">Vérification des e-mails en cours…</string>
   <string name="choosertitle_sharevia">Partager via</string>
   <string name="clear">Effacer</string>
   <string name="clear_display_images_whitelist_dialog_message">Les images intégrées ne seront plus affichées pour les expéditeurs que vous aviez autorisés.</string>
-  <string name="clear_display_images_whitelist_dialog_title">Supprimer les autorisations liées aux images ?</string>
+  <string name="clear_display_images_whitelist_dialog_title">Supprimer les autorisations liées aux images ?</string>
   <string name="clear_display_images_whitelist_title">Supprimer les autorisations liées aux images</string>
   <string name="collapse_recipient_details">Réduire les coordonnées du destinataire</string>
   <string name="compose">Rédiger</string>
-  <string name="confirm_discard_text">Supprimer ce message ?</string>
+  <string name="confirm_discard_text">Supprimer ce message ?</string>
   <string name="confirm_response">Envoi de la réponse en cours…</string>
-  <string name="confirm_send_message">Envoyer ce message ?</string>
+  <string name="confirm_send_message">Envoyer ce message ?</string>
+  <string name="confirm_save_message_title">Enregistrer en tant que brouillon ?</string>
+  <string name="confirm_save_message_yes">Oui</string>
+  <string name="confirm_save_message_no">Non</string>
   <string name="confirm_send_message_with_no_body">"Le corps du message est vide."</string>
   <string name="confirm_send_message_with_no_subject">"L'objet du message est vide."</string>
-  <string name="confirm_send_title">Envoyer le message ?</string>
+  <string name="confirm_send_title">Envoyer le message ?</string>
   <string name="contact_info_string">Afficher les coordonnées de %1$s</string>
   <string name="contact_info_string_default">Afficher les coordonnées de l\'expéditeur</string>
   <string name="content_description">%1$s à propos de %2$s, %3$s le %4$s, %5$s</string>
@@ -444,18 +449,18 @@
   <string name="copy_email">Copier l\'adresse mail</string>
   <string name="copy_number">Copier le numéro de téléphone</string>
   <string name="create_action">Créer</string>
-  <string name="custom_from_account_label">Envoyer depuis :</string>
+  <string name="custom_from_account_label">Envoyer depuis :</string>
   <string name="date">2888/88/88</string>
-  <string name="date_heading">"Date : "</string>
+  <string name="date_heading">"Date : "</string>
   <string name="date_message_received">%1$s à %2$s</string>
   <string name="date_message_received_today">Aujourd\'hui à %1$s</string>
   <string name="date_message_received_yesterday">Hier à %1$s</string>
   <string name="debug_clear_webview_cache">Vider le cache</string>
   <string name="debug_disable_graphics_acceleration_label">Désactiver l\'accélération graphique</string>
-  <string name="debug_enable_debug_logging_label">Activer le mode débogage avancé ?</string>
-  <string name="debug_enable_file_logging_label">Activer la journalisation de carte sd ?</string>
+  <string name="debug_enable_debug_logging_label">Activer le mode débogage avancé ?</string>
+  <string name="debug_enable_file_logging_label">Activer la journalisation de carte sd ?</string>
   <string name="debug_enable_strict_mode_label">Activer le mode strict (avec journalisation)</string>
-  <string name="debug_enable_verbose_logging_label">Activer la journalisation détaillée ?</string>
+  <string name="debug_enable_verbose_logging_label">Activer la journalisation détaillée ?</string>
   <string name="debug_force_one_minute_refresh_label">Forcer l\'actualisation toutes les minutes pour les comptes POP/IMAP</string>
   <string name="debug_title">Débogage</string>
  <!-- name="delete" raccourci en attendant mieux... --> 
@@ -463,7 +468,7 @@
   <string name="deleted">Supprimé.</string>
   <string name="device_admin_description">Active les stratégies de sécurité spécifiées par le serveur.</string>
   <string name="device_admin_label">E-mail</string>
-  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l'application E-mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, événements d'agenda, etc.)."</string>
+  <string name="disable_admin_warning">"AVERTISSEMENT : Si vous désactivez la gestion de votre appareil par l'application E-mail, tous les comptes de messagerie qui y sont associés seront supprimés, de même que leurs données (e-mails, contacts, événements d'agenda, etc.)."</string>
   <string name="discard">Supprimer</string>
   <string name="discard_drafts">Supprimer les brouillons</string>
   <string name="dismiss_tip_hover_text">Masquer le conseil</string>
@@ -478,9 +483,9 @@
   <string name="elided_padding_token">&#160;</string>
   <string name="email_feedback_uri"></string>
   <string name="empty_spam">Vider le dossier de spam</string>
-  <string name="empty_spam_dialog_title">Vider le dossier de spam ?</string>
+  <string name="empty_spam_dialog_title">Vider le dossier de spam ?</string>
   <string name="empty_trash">Vider la corbeille</string>
-  <string name="empty_trash_dialog_title">Vider la corbeille ?</string>
+  <string name="empty_trash_dialog_title">Vider la corbeille ?</string>
   <string name="enable_sync_in_account_settings">Activer dans %1$s</string>
   <string name="enumeration_comma">", "</string>
   <string name="exchange_name">Entreprise</string>
@@ -495,11 +500,11 @@
   <string name="folder_removed">Supprimé de %1$s</string>
   <string name="folder_shortcut_widget_label">Dossier E-mail</string>
   <string name="formatted_subject">%1$s %2$s</string>
-  <string name="forward_attribution">---------- Message transféré ----------&lt;br&gt;De : %1$s&lt;br&gt;Date : %2$s&lt;br&gt;Objet : %3$s&lt;br&gt;À : %4$s&lt;br&gt;</string>
+  <string name="forward_attribution">---------- Message transféré ----------&lt;br&gt;De : %1$s&lt;br&gt;Date : %2$s&lt;br&gt;Objet : %3$s&lt;br&gt;À : %4$s&lt;br&gt;</string>
   <string name="forward_attribution_no_headers">---------- Message transféré ----------</string>
   <string name="forward_download_failed_ticker">"Impossible de transférer une ou plusieurs pièces jointes."</string>
   <string name="forward_download_failed_title">Pièce jointe non transférée</string>
-  <string name="from_heading">"De : "</string>
+  <string name="from_heading">"De : "</string>
   <string name="general_preference_confirm_delete_label">Confirmer avant suppression</string>
   <string name="general_preference_confirm_delete_summary">Messages</string>
   <string name="general_preference_confirm_send_label">Confirmer avant envoi</string>
@@ -522,7 +527,7 @@
   <string name="info">Informations</string>
   <string name="invalid_recipient">L\'adresse %s est incorrecte.</string>
   <string name="kilobytes">%s Ko</string>
-  <string name="label_notification_ticker" formatted="false">%s : %s</string>
+  <string name="label_notification_ticker" formatted="false">%s : %s</string>
   <string name="load_more">Afficher plus</string>
   <string name="loading_conversation">Chargement en cours…</string>
   <string name="loading_conversations">Chargement en cours…</string>
@@ -574,7 +579,7 @@
   <string name="message_invite_accept">Oui</string>
   <string name="message_invite_calendar_view">Afficher dans l\'agenda</string>
   <string name="message_invite_decline">Non</string>
-  <string name="message_invite_label_attending">Participer ?</string>
+  <string name="message_invite_label_attending">Participer ?</string>
   <string name="message_invite_tentative">Peut-être</string>
   <string name="message_invite_title">Invitation Google Agenda</string>
   <string name="message_saved">Brouillon enregistré.</string>
@@ -645,7 +650,7 @@
   <string name="previous_action">Précédente</string>
   <string name="provider_note_live">"Seuls certains comptes \"Plus\" disposent d'un accès POP permettant à ce programme de se connecter. Si vous ne parvenez pas à vous connecter avec l'adresse e-mail et le mot de passe corrects, vous ne possédez peut-être pas de compte payant \"Plus\". Pour accéder à ces comptes de messagerie, lancez le navigateur Web."</string>
   <string name="provider_note_t_online">Avant de configurer ce compte de messagerie, consultez le site Web de T-Online et créez un mot de passe d\'accès à la messagerie POP3.</string>
-  <string name="quick_1">Merci !</string>
+  <string name="quick_1">Merci !</string>
   <string name="quick_2">Cela me convient.</string>
   <string name="quick_3">"Je lirai cela plus tard, et je vous recontacterai."</string>
   <string name="quick_4">"Organisons une réunion pour en discuter."</string>
@@ -661,8 +666,8 @@
   <string name="remove_star">Désactiver le suivi</string>
   <string name="reply">Répondre</string>
   <string name="reply_all">Répondre à tous</string>
-  <string name="reply_attribution" formatted="false">Le %s, %s a écrit :</string>
-  <string name="replyto_heading">"Répondre à : "</string>
+  <string name="reply_attribution" formatted="false">Le %s, %s a écrit :</string>
+  <string name="replyto_heading">"Répondre à : "</string>
   <string name="report">Signaler</string>
   <string name="report_phishing">Signaler comme phishing</string>
   <string name="report_spam">Signaler comme spam</string>
@@ -687,7 +692,7 @@
   <string name="security_notification_content_unsupported_title">"Imposs. appliquer règles sécu"</string>
   <string name="security_notification_content_update_title">Mise à jour de sécurité requise</string>
   <string name="security_unsupported_ticker_fmt">"Impossible de synchroniser le compte %s en raison des exigences de sécurité."</string>
-  <string name="select_attachment_type">Sélectionner le type de pièce jointe</string>
+  <string name="select_attachment_type">Sélectionner la source de la pièce jointe</string>
   <string name="send">Envoyer</string>
   <string name="send_failed">"Échec de l'envoi."</string>
   <string name="sender_whitelist_cleared">"Les images ne s'afficheront pas automatiquement."</string>
@@ -702,7 +707,7 @@
   <string name="signin">Connexion</string>
   <string name="silent_ringtone">Mode silencieux</string>
   <string name="single_new_message_notification_big_text">%1$s\n%2$s</string>
-  <string name="single_new_message_notification_title">%1$s : %2$s</string>
+  <string name="single_new_message_notification_title">%1$s : %2$s</string>
   <string name="status_network_error">Problème de connexion.</string>
   <string name="storage">Stockage</string>
   <string name="subject_and_snippet" formatted="false">%s – %s</string>
@@ -724,14 +729,14 @@
   <string name="tap_to_enable_sync">Appuyer ici pour activer la fonctionnalité</string>
   <string name="from">De</string>
   <string name="to">À</string>
-  <string name="to_heading">"À : "</string>
+  <string name="to_heading">"À : "</string>
   <string name="too_large_to_attach_additional">Le fichier n\'a pas été joint. Limite de %1$s atteinte.</string>
   <string name="too_large_to_attach_multiple">Un ou plusieurs fichiers n\'ont pas été joints. La limite est de %1$s.</string>
   <string name="too_large_to_attach_single">"Impossible de joindre un fichier dépassant %1$s."</string>
   <string name="trash_folder_selection_title">Sélect. dossier \"Corbeille\" du serveur pour %s.</string>
   <string name="turn_auto_sync_on_dialog_body">Les modifications que vous apporterez dans l\'ensemble des applications et des comptes, pas seulement dans Gmail, seront synchronisées avec le Web, vos autres appareils et votre %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activer</string>
-  <string name="turn_auto_sync_on_dialog_title">Activer la synchronisation automatique ?</string>
+  <string name="turn_auto_sync_on_dialog_title">Activer la synchronisation automatique ?</string>
   <string name="undo">Annuler</string>
   <string name="unread_string">conversation non lue</string>
   <string name="unsent_messages_in_outbox">%1$s message(s) non envoyé(s) dans %2$s</string>
@@ -799,15 +804,15 @@
   <string name="menu_att_mgr_order_sender">Trier par expéditeur</string>
   <string name="menu_att_mgr_order_rev_date">Trier par date</string>
   <string name="menu_att_mgr_order_size">Trier par taille</string>
-  <string name="colon">" :"</string>
+  <string name="colon">" :"</string>
   <string name="more_atts_total">%1$d pièces jointes</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Nom</string>
   <string name="att_mgr_title_order_sender">Expéditeur</string>
   <string name="att_mgr_title_order_rev_date">Date</string>
   <string name="att_mgr_title_order_size">Taille</string>
-  <string name="input_password_prompt">Veuillez saisir le mot de passe :</string>
-  <string name="wrong_password">Mot de passe incorrect !</string>
+  <string name="input_password_prompt">Veuillez saisir le mot de passe :</string>
+  <string name="wrong_password">Mot de passe incorrect !</string>
   <string name="str_select_all">Tout sélectionner</string>
   <string name="str_select_none">Désélectionner tout</string>
   <string name="att_mgr_no_attachment">Aucune pièce jointe</string>
@@ -820,13 +825,15 @@
   <string name="download_confirm_title">Confirmation de téléchargement</string>
   <string name="download_confirm_message">Pour ouvrir ce fichier, vous devez télécharger %1$so supplémentaires</string>
   <string name="downlaod_confirm_download">Télécharger</string>
-  <string name="download_cancel_confirm_title">Annuler le téléchargement ?</string>
+  <string name="download_cancel_confirm_title">Annuler le téléchargement ?</string>
   <string name="downlaod_cancel_confirm_download">Confirmer</string>
   <string name="downlaod_cancel_continue_download">Annuler</string>
+  <string name="downlaod_nonWifi_confirm_message">Le téléchargement consommera de la data, continuer ?</string>
   <string name="remote_folders_heading">Dossiers serveur</string>
   <string name="remove_account">Supprimer le compte</string>
   <string name="remove_account_confirm">Le compte \"%1$s\" va être supprimé.</string>
   <string name="Folders">Dossiers</string>
+  <string name="search_txt_size_limit_prompt">La recherche doit être supérieur à 3 caractères.</string>
   <string name="login">Connexion</string>
   <string name="other_mail">Autre mail</string>
   <string name="confirm">OK</string>
@@ -848,15 +855,15 @@
   <string name="local_search">Recherche locale</string>
   <string name="widget_all_mail">Tous</string>
   <string name="widget_other_views">Autres</string>
-  <string name="search_result">Résultat de recherche :</string>
+  <string name="search_result">Résultat de recherche :</string>
   <string name="set_network">Définir le réseau</string>
   <string name="net_check_title">Erreur réseau, veuillez vérifier vos paramètres réseau.</string>
   <string name="pull_to_refresh">Tirer pour actualiser</string>
   <string name="release_to_refresh">Relâcher pour actualiser</string>
   <string name="not_updated_yet">Pas encore mis à jour</string>
-  <string name="updated_at">Dernière màj : %1$s</string>
+  <string name="updated_at">Dernière màj : %1$s</string>
   <string name="updated_just_now">Mis à jour récemment</string>
-  <string name="please_fill_in_your_mailbox_information2">Veuillez saisir vos identifiants :</string>
+  <string name="please_fill_in_your_mailbox_information2">Veuillez saisir vos identifiants :</string>
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
   <string name="default_exchange">EXCHANGE</string>
@@ -870,36 +877,64 @@
   <string name="conversation_item_mark_read">Lu</string>
   <string name="conversation_item_mark_unread">Non lu</string>
   <string name="default_signature">Envoyé de mon Xiaomi</string>
+  <string name="account_name_toast">Ce nom est déjà utilisé, veuillez le renommer</string>
   <string name="outbox_alert_button_confirm">Éditer</string>
   <string name="contact_select">Choisir un contact</string>
-  <string name="request_entity_large">Fichier trop volumineux !</string>
+  <string name="request_entity_large">Fichier trop volumineux !</string>
   <string name="outbox_alert_title_sent_failed">Erreur, e-mail non envoyé</string>
-  <string name="outbox_alert_description_sent_failed">"Cause : la taille de la 
-la pièce jointe dépasse la limite autorisée"</string>
-  <string name="blank_feedback_toast">Le rapport est vide, veuillez en écrire un !</string>
+  <string name="outbox_alert_description_sent_failed">"Cause : la taille de la 
+pièce jointe dépasse la limite autorisée"</string>
+  <string name="blank_feedback_toast">Le rapport est vide, veuillez en écrire un !</string>
   <string name="ApplicationIconMore99">99+</string>
-  <string name="please_fill_in_your_mailbox_information">Veuillez remplir les informations liées à votre compte e-mail :</string>
-  <string name="actionbar_title_mail_aggregation">Regroupement de mail :</string>
+  <string name="please_fill_in_your_mailbox_information">Veuillez remplir les informations liées à votre compte e-mail :</string>
+  <string name="actionbar_title_mail_aggregation">Regroupement de mail :</string>
   <string name="empty_email_tip">Vous pouvez envoyer un mail vide</string>
+  <string name="empty_account_tip">Impossible de trouver de compte</string>
   <string name="account_setup_service_not_set">Vos paramètres de services e-mail doivent être configurés</string>
   <string name="account_setup_need_password_verification">Votre compte a ouvert une seconde identification, un mot de passe est requis</string>
   <string name="account_set_up_notice">Plus que quelques étapes, vous pouvez mettre en place votre compte email</string>
-  <string name="account_settings_list_title">Veuillez sélectionner les services de messagerie que vous souhaitez ajouter :</string>
+  <string name="account_settings_list_title">Veuillez sélectionner les services de messagerie que vous souhaitez ajouter :</string>
   <string name="wait_for_sync_body_2">Une demande du serveur exchange vous sera faite dans moins de 30 secondes. Veuillez confirmer puis activer les paramètres de sécurité et faire attention aux alertes système.</string>
   <string name="prompt_title">Invite</string>
   <string name="account_set_up_change_type_note">Si vous souhaitez permuter entre POP3 et IMAP, vous devez d\'abord supprimer le compte puis le reconfigurer.</string>
-  <string name="download_complete_not_cancel">Téléchargement terminé, annulation impossible!</string>
+  <string name="download_complete_not_cancel">Téléchargement terminé, annulation impossible !</string>
   <string name="select_no_file">Aucune pièce jointe n\'a été sélectionnée</string>
-  <string name="download_before_sharing">" n'est pas encore téléchargé, veuillez patienter jusqu'à la fin avant de pouvoir le partager !"</string>
-  <string name="no_matched_attachment">Pièce jointe introuvable !</string>
+  <string name="download_before_sharing">" n'est pas encore téléchargé, veuillez patienter jusqu'à la fin avant de pouvoir le partager !"</string>
+  <string name="no_matched_attachment">Pièce jointe introuvable !</string>
   <string name="validation_failed_prompt">La validation a échoué, veuillez configurer le serveur %s</string>
   <string name="time_error">Problème de temps</string>
- <!-- à traduire ajouté dans 4.5.6, supprimé dans 4.5.8
-  <string name="wait_for_sync_body_txt_array_1">Exchange Server will prompt you within</string>
-  <string name="wait_for_sync_body_txt_array_2">1–30</string>
-  <string name="wait_for_sync_body_txt_array_3">seconds.Please confirm the security setting and activate.Pay attention to</string>
-  <string name="wait_for_sync_body_txt_array_4">system alert</string>
+  <string name="wait_for_sync_body_txt_array_1">Une demande du serveur Exchange s\'affichera dans</string>
+  <string name="wait_for_sync_body_txt_array_2">1 à 30</string>
+  <string name="wait_for_sync_body_txt_array_3">secondes. Veuillez confirmer les paramètres de sécurité et d\'activation.Prenez garde aux</string>
+  <string name="wait_for_sync_body_txt_array_4">alertes système</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
-  <string name="wait_for_sync_note">Please slide from the top to get the notification. Click to finish the security setting.</string>
- -->
+  <string name="wait_for_sync_note">Veuillez faire glisser la barre de notification vers le bas et toucher pour finir les paramètres de sécurité.</string> 
+  <string name="parase_setup_data">Obtention des données de configuration…</string>
+  <string name="allread">Tous lus</string>
+  <!-- 校验!-->
+  <string name="eas_template">domain\\user</string>
+  <string name="upgrade_network_error">Anomalies du réseau, veuillez vérifier votre connexion réseau</string>
+  <string name="checking_message">Recherche de mise à jour…</string>
+  <string name="no_update">La version est à jour</string>
+  <string name="upgrade_check">Vérifier les mises à jour</string>
+  <string name="no_display_this_version">Ne pas afficher cette version</string>
+  <string name="now_version">Version actuelle :</string>
+  <string name="new_version">Dernière version :</string>
+  <string name="new_feature_desc">Changement :</string>
+  <string name="new_down_desc1">Conseils :</string>
+  <string name="new_down_desc2">Veuillez faire une sauvegarde</string>
+  <string name="new_down_desc3">Le processus consomme beaucoup de données, nous vous recommandons d\'utiliser une connexion Wi-Fi</string>
+  <string name="download_now">Téléchargement…</string>
+  <string name="start_download">Démarrer le téléchargement</string>
+  <string name="donot_download">Annuler</string>
+  <string name="upgrade_now">Mettre à jour</string>
+  <string name="donot_upgrade">Annuler</string>
+  <string name="downloading">Téléchargement…</string>
+  <string name="upgrade_title">Mise à jour</string>
+  <string name="download_complete_title">Le téléchargement est terminé</string>
+  <string name="no_enough_space">Il n\'y a pas assez d'espace</string>
+  <string name="no_sdcard">Veuillez insérer ou vérifier la carte SD</string>
+  <string name="download_complete_message">Veuillez cliquer sur Mettre à jour pour commencer le processus</string>
+  <string name="file_size">Taille</string>
+  <!--_-'-->
 </resources>

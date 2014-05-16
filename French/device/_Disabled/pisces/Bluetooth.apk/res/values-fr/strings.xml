@@ -148,7 +148,7 @@
   <string name="upload_fail_line1_2">Fichier : %1$s</string>
   <string name="upload_fail_ok">Réessayer</string>
   <string name="upload_line1">À : "%1$s"</string>
-  <string name="upload_line3">Type de fichier : %1$s (%2$s)</string>
+  <string name="upload_line3">Type de fichier : %1$s (%2$s)</string>
   <string name="upload_line5">Envoi de fichier en cours…</string>
   <string name="upload_succ_line5">Fichier envoyé</string>
   <string name="upload_succ_ok">OK</string>

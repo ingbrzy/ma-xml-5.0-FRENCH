@@ -18,10 +18,10 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="lockscreen_emergency_call">Appel d\'urgence</string>
-  <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
+  <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
   <string name="lockscreen_transport_prev_description">Titre précédent</string>
   <string name="lockscreen_transport_next_description">Titre suivant</string>
   <string name="lockscreen_transport_play_description">Bouton de lecture</string>
@@ -32,7 +32,7 @@
   <string name="unlockscreen_recharge_completed">Chargée</string>
   <string name="unlockscreen_low_battery">Branchez le chargeur</string>
   <string name="emergency_call_string">Appel d\'urgence</string>
-  <string name="forget_password_string">MDP oublié ?</string>
+  <string name="forget_password_string">MDP oublié ?</string>
   <string name="miui_unlockscreen_password_wrong">Veuillez réessayer.</string>
   <string name="contact_carrier_message">Veuillez contacter votre opérateur pour toute question</string>
   <string name="input_puk_code">Code PUK</string>
@@ -57,11 +57,11 @@
   <string name="lockscreen_glogin_password_hint">Mot de passe</string>
   <string name="lockscreen_glogin_checking_password">Vérification en cours…</string>
   <string name="login_website_in_case_forget_password">Veuillez aller sur http://i.xiaomi.com afin de réinitialiser votre mot de passe</string>
-  <string name="screen_on_proximity_sensor_title">Capteur de proximité obstrué !</string>
-  <string name="screen_on_proximity_sensor_summary">"Pour empêcher toute erreur de manipulation, le téléphone est désactivé !"</string>
-  <string name="screen_on_proximity_sensor_hint">"Astuce : Appuyez longuement sur le bouton Marche/Arrêt pour quitter le mode \"mauvaise utilisation\". Voir Paramètres &gt; Affichage pour désactiver"</string>
-  <string name="experimental_validate_thanks">Merci !</string>
-  <string name="experimental_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
+  <string name="screen_on_proximity_sensor_title">Capteur de proximité obstrué !</string>
+  <string name="screen_on_proximity_sensor_summary">"Pour empêcher toute erreur de manipulation, le téléphone est désactivé !"</string>
+  <string name="screen_on_proximity_sensor_hint">"Astuce : Appuyez longuement sur le bouton Marche/Arrêt pour quitter le mode \"mauvaise utilisation\". Voir Paramètres &gt; Affichage pour désactiver"</string>
+  <string name="experimental_validate_thanks">Merci !</string>
+  <string name="experimental_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
   <string name="experimental_validate">Valider</string>
   <string name="experimental_try_string">Essayer</string>
   <string name="experimental_validate_username">ID Xiaomi</string>
@@ -90,7 +90,7 @@ Réessayer dans %d secondes."</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
   <string name="lockscreen_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie.</string>
 
- <!-- à traduire :
+ <!-- à traduire :
    <string name="starting_camera_string">Starting camera</string>
  -->
 </resources>

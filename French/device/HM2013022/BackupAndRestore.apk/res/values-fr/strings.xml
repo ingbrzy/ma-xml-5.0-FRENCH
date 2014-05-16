@@ -16,7 +16,7 @@
   <string name="backuping">Sauvegarde</string>
   <string name="restoring">Restauration</string>
   <string name="warning">Avertissement</string>
-  <string name="cancel_backup_confirm">Annuler la sauvegarde ?</string>
+  <string name="cancel_backup_confirm">Annuler la sauvegarde ?</string>
   <string name="cancelling">Annulation</string>
   <string name="btn_ok">OK</string>
   <string name="bt_yes">Oui</string>
@@ -26,12 +26,12 @@
   <string name="backup_data">Sauvegarde de données</string>
   <string name="less_1K">Moins de 1000</string>
   <string name="notice">Notice</string>
-  <string name="nosdcard_notice">Veuillez insérer votre carte SD !</string>
-  <string name="restore_confirm_notice">Êtes-vous sûr de vouloir restaurer ?</string>
-  <string name="backup_confirm_overwrite_notice">"Le dossier existe déjà, l'écraser ?"</string>
+  <string name="nosdcard_notice">Veuillez insérer votre carte SD !</string>
+  <string name="restore_confirm_notice">Êtes-vous sûr de vouloir restaurer ?</string>
+  <string name="backup_confirm_overwrite_notice">"Le dossier existe déjà, l'écraser ?"</string>
   <string name="contitue">Continuer</string>
-  <string name="sdcard_removed">Carte SD retirée !</string>
-  <string name="sdcard_is_full">Carte SD pleine !</string>
+  <string name="sdcard_removed">Carte SD retirée !</string>
+  <string name="sdcard_is_full">Carte SD pleine !</string>
   <string name="backup_result">Résultat de la sauvegarde</string>
   <string name="restore_result">Résultat de la restauration</string>
   <string name="result_success">succès</string>
@@ -48,7 +48,7 @@
   <string name="contact_all">Tous</string>
   <string name="contact_phone">téléphone</string>
   <string name="selected">sélectionné</string>
-  <string name="delete_please_wait">Suppression, veuillez patienter !</string>
+  <string name="delete_please_wait">Suppression, veuillez patienter !</string>
   <string name="loading_please_wait">"Veuillez patienter pendant l'actualisation…"</string>
   <string name="edit_folder_name">Modifier le nom du dossier</string>
   <string name="file_no_exist_and_update">Fichier supprimé, rechargement.</string>

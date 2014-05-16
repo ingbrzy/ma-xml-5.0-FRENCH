@@ -18,7 +18,7 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="accessibility_calllog_detail">Détails du journal d\'appels</string>
   <string name="account_container_title">Sur le compte suivant</string>
@@ -37,19 +37,19 @@
   <string name="add_account">Ajouter un compte</string>
   <string name="add_blacklist">Ajouter à la liste noire</string>
   <string name="add_connection_button">Ajouter un contact</string>
-  <string name="add_contact_dlg_message_fmt">Ajouter %s aux contacts ?</string>
+  <string name="add_contact_dlg_message_fmt">Ajouter %s aux contacts ?</string>
   <string name="add_field">Ajouter un champ</string>
   <string name="add_new_account">Ajouter un compte</string>
   <string name="add_new_entry_for_section">Ajouter</string>
   <string name="add_organization">Ajouter une entreprise</string>
   <string name="add_to_my_contacts">Ajouter à mes Contacts</string>
   <string name="add_wait">Ajouter une attente</string>
-  <string name="add_xiaomi_account_dialog_btn">Utiliser un compte Xiaomi</string>
-  <string name="add_xiaomi_account_dialog_msg">Pour une meilleure expérience pensez à utiliser votre compte Xiaomi pour synchroniser et récupérer vos contacts, et pour les gérer à partir de votre ordinateur.</string>
+  <string name="add_xiaomi_account_dialog_btn">Utiliser un compte Mi</string>
+  <string name="add_xiaomi_account_dialog_msg">Pour une meilleure expérience pensez à utiliser votre compte Mi pour synchroniser et récupérer vos contacts, et pour les gérer à partir de votre ordinateur.</string>
   <string name="add_xiaomi_account_dialog_title">Choisir le compte de synchronisation</string>
-  <string name="aggregation_suggestion_edit_dialog_message">"Modifier le contact sélectionné ? Les informations saisies jusqu\'ici seront copiées."</string>
+  <string name="aggregation_suggestion_edit_dialog_message">"Modifier le contact sélectionné ? Les informations saisies jusqu\'ici seront copiées."</string>
   <string name="aggregation_suggestion_edit_dialog_title">Éditer les contacts sélectionnés</string>
-  <string name="aggregation_suggestion_join_dialog_message">Associer ce contact au contact sélectionné ?</string>
+  <string name="aggregation_suggestion_join_dialog_message">Associer ce contact au contact sélectionné ?</string>
   <string name="all_list_empty">Aucun contact</string>
   <string name="all_resources">Tout</string>
   <string name="antispam_mark_my_contribution">Ma contribution à la base de données</string>
@@ -59,9 +59,9 @@
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Supprimer des contacts par lot</string>
-  <string name="batch_delete_msg">Êtes-vous sûr de vouloir supprimer les %d contacts sélectionnés ? Si vous utilisez le service de synchronisation de contact, les informations dans le cloud seront également supprimées.</string>
+  <string name="batch_delete_msg">Êtes-vous sûr de vouloir supprimer les %d contacts sélectionnés ? Si vous utilisez le service de synchronisation de contact, les informations dans le cloud seront également supprimées.</string>
   <string name="bluetooth_connection_failed_toast">Connexion Bluetooth interrompue</string>
-  <string name="blurbJoinContactDataWith">Sélectionnez le contact que vous souhaitez fusionner avec %s :</string>
+  <string name="blurbJoinContactDataWith">Sélectionnez le contact que vous souhaitez fusionner avec %s :</string>
   <string name="btn_delete_multi_contacts">Supprimer %d contacts</string>
   <string name="btn_delete_one_contact">Supprimer contact</string>
   <string name="btn_rotation">Rotation</string>
@@ -113,14 +113,14 @@
   <string name="callrecordview_item_op_time_only_minutes">%dmin</string>
   <string name="callrecordview_item_op_time_only_seconds">%ds</string>
   <string name="callrecordview_item_op_time_rejected">Appel rejeté</string>
-  <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
-  <string name="callrecordview_item_op_time_short_outgoing">"Sortant : "</string>
+  <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
+  <string name="callrecordview_item_op_time_short_outgoing">"Sortant : "</string>
   <string name="callrecordview_menu_add_call_note">Ajout. note d\'appel</string>
   <string name="callrecordview_menu_delete">Effacer du journal d\'appels</string>
   <string name="callrecordview_menu_delete_accepted">Effacer les appels reçus du journal d\'appels</string>
   <string name="callrecordview_menu_delete_all">Effacer tous les appels</string>
   <string name="callrecordview_menu_delete_called">Effacer les appels émis du journal d\'appels</string>
-  <string name="callrecordview_menu_delete_confirm">%s ?</string>
+  <string name="callrecordview_menu_delete_confirm">%s ?</string>
   <string name="callrecordview_menu_delete_missed">Effacer les appels manqués du journal d\'appels</string>
   <string name="callrecordview_menu_delete_new">Effacer les nouveaux contacts du journal d\'appels</string>
   <string name="callrecordview_menu_delete_sim">Effacer %s entrées du journal d\'appels</string>
@@ -138,10 +138,10 @@
   <string name="callrecordview_menu_show_sim">%s appels</string>
   <string name="callrecordview_menu_show_stranger">Afficher les appels inconnus</string>
   <string name="callrecordview_menu_show_title">Filtre du journal d\'appels</string>
-  <string name="cancel_confirmation_dialog_message">Voulez-vous annuler les modifications ?</string>
-  <string name="cancel_export_confirmation_message">Êtes-vous sûr de vouloir annuler l\'exportation de %s ?</string>
-  <string name="cancel_import_confirmation_message">Êtes-vous sûr de vouloir annuler l\'importation de %s ?</string>
-  <string name="cancel_import_dialog_message">Êtes-vous sûr de vouloir arrêter l\'importation des contacts ?</string>
+  <string name="cancel_confirmation_dialog_message">Voulez-vous annuler les modifications ?</string>
+  <string name="cancel_export_confirmation_message">Êtes-vous sûr de vouloir annuler l\'exportation de %s ?</string>
+  <string name="cancel_import_confirmation_message">Êtes-vous sûr de vouloir annuler l\'importation de %s ?</string>
+  <string name="cancel_import_dialog_message">Êtes-vous sûr de vouloir arrêter l\'importation des contacts ?</string>
   <string name="cancel_import_dialog_title">Annuler l\'importation</string>
   <string name="cancel_vcard_import_or_export_failed">"Impossible d'annuler l'importation/exportation de la carte de visite"</string>
   <string name="chat">Chatter</string>
@@ -155,11 +155,11 @@
   <string name="chat_yahoo">Chatter via Yahoo</string>
   <string name="check_unsynchronized_accounts">Vérifier les contacts non synchronisés</string>
   <string name="checkhint">Vérifier l\'autre téléphone</string>
-  <string name="clearCallLogConfirmation">Êtes-vous sûr de vouloir effacer le journal d\'appel ?</string>
+  <string name="clearCallLogConfirmation">Êtes-vous sûr de vouloir effacer le journal d\'appel ?</string>
   <string name="clearCallLogConfirmation_title">Effacer le journal d\'appels</string>
   <string name="clearCallLogProgress_title">Effacement des appels…</string>
   <string name="clearFrequentsConfirmation">"Cette opération efface la liste des personnes que vous contactez le plus souvent dans les applications Contacts et Téléphone, et oblige vos applications de messagerie électronique à apprendre à nouveau les adresses que vous utilisez le plus souvent."</string>
-  <string name="clearFrequentsConfirmation_title">Effacer les contacts fréquents ?</string>
+  <string name="clearFrequentsConfirmation_title">Effacer les contacts fréquents ?</string>
   <string name="clearFrequentsProgress_title">Suppression des contacts fréquents</string>
   <string name="clear_default">Effacer les valeurs par défaut</string>
   <string name="clear_digits">effacer le numéro de téléphone</string>
@@ -170,10 +170,10 @@
   <string name="composer_failed_to_get_database_infomation">Impossible d\'obtenir les informations concernant la base de données.</string>
   <string name="composer_has_no_exportable_contact">Il n\'y a aucun contact exportable. Si vous avez réellement des contacts sur votre téléphone, ils peuvent être interdits d\'exportation par certains fournisseurs de données.</string>
   <string name="composer_not_initialized">"Le compositeur de carte de visite n'est pas correctement initialisé"</string>
-  <string name="confirm_delete_contact_all_call_logs">"Supprimer le journal d'appels ?"</string>
-  <string name="confirm_delete_selected_all_call_logs">"Supprimer le journal d'appels ?"</string>
-  <string name="confirm_delete_sim_entry_miui">Supprimer %d contacts de la carte SIM ?</string>
-  <string name="confirm_export_message">Exporter les contacts vers le fichier %s ?</string>
+  <string name="confirm_delete_contact_all_call_logs">"Supprimer le journal d'appels ?"</string>
+  <string name="confirm_delete_selected_all_call_logs">"Supprimer le journal d'appels ?"</string>
+  <string name="confirm_delete_sim_entry_miui">Supprimer %d contacts de la carte SIM ?</string>
+  <string name="confirm_export_message">Exporter les contacts vers le fichier %s ?</string>
   <string name="confirm_export_title">Confirmer l\'exportation</string>
   <string name="connections">Contacts</string>
   <string name="contactDetailAbout">À propos</string>
@@ -190,9 +190,9 @@
   <string name="contact_edit_title_edit">Modifier le contact</string>
   <string name="contact_edit_title_insert">Créer un contact %s</string>
   <string name="contact_edit_title_readonly">Contact inaltérable</string>
-  <string name="contact_editor_prompt_multiple_accounts">Vous pouvez synchroniser votre nouveau contact avec l\'un des comptes suivants. Lequel voulez-vous utiliser ?</string>
+  <string name="contact_editor_prompt_multiple_accounts">Vous pouvez synchroniser votre nouveau contact avec l\'un des comptes suivants. Lequel voulez-vous utiliser ?</string>
   <string name="contact_editor_prompt_one_account">Votre nouveau contact sera synchronisé avec %1$s.</string>
-  <string name="contact_editor_prompt_zero_accounts">Votre nouveau contact ne sera pas sauvegardé. Ajouter un compte permettant de sauvegarder les contacts en ligne ?</string>
+  <string name="contact_editor_prompt_zero_accounts">Votre nouveau contact ne sera pas sauvegardé. Ajouter un compte permettant de sauvegarder les contacts en ligne ?</string>
   <string name="contact_is_readOnly">Impossible d\'éditer les contacts en lecture seule</string>
   <string name="contact_list_loading">Chargement…</string>
   <string name="contact_pick_photo">Sélectionner une photo dans la galerie</string>
@@ -214,25 +214,25 @@
   <string name="create_group_item_label">[Créer un groupe]</string>
   <string name="customLabelPickerTitle">Libellé personnalisé</string>
   <string name="custom_list_filter">Définir un affichage personnalisé</string>
-  <string name="custom_nickname_hint">Entrez le titre tel que : M./Mme.</string>
+  <string name="custom_nickname_hint">Entrez le titre tel que : M./Mme.</string>
   <string name="date_picker_label">Rappel 3 jours avant et le jour de l\'anniversaire</string>
   <string name="date_time_set">Définir</string>
   <string name="date_year_toggle">Indiquer l\'année</string>
   <string name="default_ringtone">Sonnerie par défaut</string>
   <string name="deleteConfirmation">Ce contact sera supprimé.</string>
-  <string name="deleteConfirmationDetail">Voulez-vous vraiment supprimer \"%s\" ?</string>
+  <string name="deleteConfirmationDetail">Voulez-vous vraiment supprimer \"%s\" ?</string>
   <string name="deleteConfirmation_title">Supprimer</string>
-  <string name="delete_call_log_title">Sélectionnez le journal d\'appels à supprimer ?</string>
-  <string name="delete_contact_calllog_title">"Êtes-vous sûr de vouloir supprimer le journal d'appel du contact ?"</string>
+  <string name="delete_call_log_title">Sélectionnez le journal d\'appels à supprimer ?</string>
+  <string name="delete_contact_calllog_title">"Êtes-vous sûr de vouloir supprimer le journal d'appel du contact ?"</string>
   <string name="delete_dial_input">supprimer</string>
   <string name="delete_duplicate">Fusionner</string>
   <string name="delete_duplicate_message">"Fusion…"</string>
-  <string name="delete_group_dialog_message">Êtes-vous sûr de vouloir supprimer le groupe \"%1$s\" ? (Les contacts ne seront pas effacés)</string>
+  <string name="delete_group_dialog_message">Êtes-vous sûr de vouloir supprimer le groupe \"%1$s\" ? (Les contacts ne seront pas effacés)</string>
   <string name="delete_group_dialog_title">Supprimer le groupe</string>
-  <string name="delete_selected_sim_entry_miui">Supprimer les contacts sélectionnés ?</string>
+  <string name="delete_selected_sim_entry_miui">Supprimer les contacts sélectionnés ?</string>
   <string name="delete_sim_entries_finish">Suppression des contacts SIM réussie</string>
   <string name="delete_sim_entry_miui">Suppr. les contacts SIM</string>
-  <string name="delete_unknown_contact_calllog_title">"Supprimer les contacts inconnus du journal d'appel ?"</string>
+  <string name="delete_unknown_contact_calllog_title">"Supprimer les contacts inconnus du journal d'appel ?"</string>
   <string name="deleting">Suppression…</string>
   <string name="deleting_sim_entry_miui">Suppression des contacts de la carte SIM</string>
   <string name="description_add_contact">Ajouter un contact</string>
@@ -274,7 +274,7 @@
   <string name="description_summary">Résumé</string>
   <string name="description_uploadtime">Mis à jour</string>
   <string name="description_version">Version</string>
-  <string name="description_version_szie">Version : %1$s Taille : %2$s</string>
+  <string name="description_version_szie">Version : %1$s Taille : %2$s</string>
   <string name="description_view_contact">Afficher le contact %1$s</string>
   <string name="description_view_contact_detail">Afficher le contact</string>
   <string name="description_voicemail_button">messagerie vocale</string>
@@ -284,11 +284,11 @@
   <string name="device_import_account_dialog_title">Sélectionnez le compte à importer</string>
   <string name="device_import_account_dialog_title_suffix">"
  (%1$s contacts trouvés)"</string>
-  <string name="device_import_failed_message">Échec de l\'importation !</string>
+  <string name="device_import_failed_message">Échec de l\'importation !</string>
   <string name="device_import_local_account">Compte local</string>
   <string name="device_import_message">Importation en cours…</string>
   <string name="device_import_progress_begin_message">Préparation de l\'import…</string>
-  <string name="device_import_progress_end_message">Import terminé !</string>
+  <string name="device_import_progress_end_message">Import terminé !</string>
   <string name="device_import_progress_message">Importation en cours…</string>
   <string name="device_import_progress_toast">%1$d contacts importés</string>
   <string name="device_import_title">processus d\'importation</string>
@@ -321,9 +321,9 @@
   <string name="dialog_voicemail_airplane_mode_message">Veuillez désactiver le mode Avion avant d\'appeler la messagerie vocale.</string>
   <string name="dialog_voicemail_not_ready_message">Pour configurer la messagerie vocale, accédez à Menu &gt; Paramètres.</string>
   <string name="directory_search_label">Répertoire</string>
-  <string name="dirty_contacts_notification_description">Le stockage local a %d contacts non synchronisées</string>
+  <string name="dirty_contacts_notification_description">Il y a %d contacts non synchronisées</string>
   <string name="dirty_contacts_notification_message">(Vous pouvez désactiver les notifications via les paramètres)</string>
-  <string name="dirty_contacts_notification_title">Synchroniser les contacts qui ne le sont pas encore ?</string>
+  <string name="dirty_contacts_notification_title">Synchroniser les contacts qui ne le sont pas encore ?</string>
   <string name="display_all_contacts">Tous les contacts</string>
   <string name="display_more_groups">Autres groupes…</string>
   <string name="display_only_phones">Contacts avec numéro seulement</string>
@@ -336,9 +336,9 @@
   <string name="display_sim_contacts">Afficher les contacts SIM</string>
   <string name="display_ungrouped">Tous les autres contacts</string>
   <string name="display_warn_remove_ungrouped">Le retrait de \"%s\" de la synchronisation entraînera également le retrait des contacts n\'appartenant à aucun groupe.</string>
-  <string name="dlg_add_blacklist">Ajouter le numéro sélectionné à la liste noire ?</string>
-  <string name="dlg_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
-  <string name="download_failed">Échec du téléchargement !</string>
+  <string name="dlg_add_blacklist">Ajouter le numéro sélectionné à la liste noire ?</string>
+  <string name="dlg_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
+  <string name="download_failed">Échec du téléchargement !</string>
   <string name="download_preview_failed">Impossible de charger l\'aperçu.</string>
   <string name="duplicate_group_name">Le nom de groupe de contacts existe déjà</string>
   <string name="editContactDescription">Modifier contact</string>
@@ -353,31 +353,31 @@
   <string name="email_other">Envoyer un mail</string>
   <string name="email_work">Envoyer un mail à une adresse professionnelle</string>
   <string name="emptyGroup">Ce groupe est vide</string>
-  <string name="empty_divider_title">Vous pouvez :</string>
+  <string name="empty_divider_title">Vous pouvez :</string>
   <string name="enter_contact_name">Saisissez le nom du contact</string>
   <string name="eventLabelsGroup">Événements</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">L\'export vers la carte SIM est terminé</string>
-  <string name="export_sim_contact_finish_failure">Transféré : %1$d Restant : %2$d</string>
+  <string name="export_sim_contact_finish_failure">Transféré : %1$d Restant : %2$d</string>
   <string name="export_sim_contact_finish_success">%d contact(s) copié(s) de la carte SIM</string>
-  <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
+  <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
   <string name="export_to_sim2">Exporter vers la carte SIM 2</string>
   <string name="export_to_sim_title">Export vers la carte SIM…</string>
   <string name="export_vcard_description">Exporter au format vCard (carte de visite) vers la carte SD</string>
-  <string name="exporting_contact_failed_message">"Échec de l'exportation des données des contacts. (Raison : %s)"</string>
+  <string name="exporting_contact_failed_message">"Échec de l'exportation des données des contacts. (Raison : %s)"</string>
   <string name="exporting_contact_failed_title">"Échec de l'exportation des données des contacts"</string>
-  <string name="exporting_contact_list_message">Vos données de contact sont en cours d\'exportation vers : \"%s\".</string>
+  <string name="exporting_contact_list_message">Vos données de contact sont en cours d\'exportation vers : \"%s\".</string>
   <string name="exporting_contact_list_progress" formatted="false">%s sur %s contacts</string>
   <string name="exporting_contact_list_title">Exportation des contacts</string>
   <string name="exporting_vcard_canceled_title">Exportation de \"%s\" annulée</string>
   <string name="exporting_vcard_finished_title">Exportation de \"%s\" terminée</string>
   <string name="external_profile_title">Mon profil %1$s</string>
-  <string name="fail_reason_could_not_initialize_exporter">Impossible de démarrer le programme d\'exportation : \"%s\".</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"Impossible d'ouvrir \"%s\" : %s
-(Raison : %2$s)"</string>
-  <string name="fail_reason_error_occurred_during_export">Une erreur s\'est produite lors de l\'exportation : \"%s\".</string>
+  <string name="fail_reason_could_not_initialize_exporter">Impossible de démarrer le programme d\'exportation : \"%s\".</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"Impossible d'ouvrir \"%s\" : %s
+(Raison : %2$s)"</string>
+  <string name="fail_reason_error_occurred_during_export">Une erreur s\'est produite lors de l\'exportation : \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Impossible de collecter des métadonnées contenues dans le ou les fichiers vCard."</string>
   <string name="fail_reason_failed_to_read_files">"Impossible d'importer un ou plusieurs fichiers (%s)."</string>
   <string name="fail_reason_io_error">Erreur E/S</string>
@@ -388,7 +388,7 @@
   <string name="fail_reason_too_many_vcard">Nombre maximum de fichiers de carte de visite sur la carte SD dépassé</string>
   <string name="fail_reason_unknown">Erreur inconnue</string>
   <string name="fail_reason_vcard_parse_error">Impossible d\'analyser le fichier vCard pour une raison inattendue.</string>
-  <string name="fail_to_add_account">Impossible d\'ajouter le compte !</string>
+  <string name="fail_to_add_account">Impossible d\'ajouter le compte !</string>
   <string name="favoritesFrequentCalled">Appels fréquents</string>
   <string name="favoritesFrequentContacted">Contacts fréquents</string>
   <string name="favorites_list_empty">Aucun favori</string>
@@ -444,15 +444,15 @@
   <string name="import_to_xiaomi_account_confirm">Importer</string>
   <string name="import_to_xiaomi_account_progress_finish">Importation terminée</string>
   <string name="import_to_xiaomi_account_progress_message">Importation en cours…</string>
-  <string name="import_to_xiaomi_account_progress_title">Importer les contacts sur le compte Xiaomi</string>
-  <string name="import_to_xiaomi_account_title">Voulez-vous importer ces contacts dans votre compte Xiaomi ?</string>
+  <string name="import_to_xiaomi_account_progress_title">Importer les contacts sur le compte Mi</string>
+  <string name="import_to_xiaomi_account_title">Voulez-vous importer ces contacts dans votre compte Mi ?</string>
   <string name="import_vcard_description">Importer des contacts depuis la carte SD</string>
   <string name="import_weibo_dialog_title">Importer des contacts Sina Weibo</string>
-  <string name="import_weibo_error_no_matched_contacts">Mise à jour des contacts terminée : aucun contact assorti</string>
-  <string name="import_weibo_error_no_network">Mise à jour des contacts terminée : problème de réseau</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Mise à jour des contacts terminée : aucun numéro de téléphone dans le compte Xiaomi</string>
-  <string name="import_weibo_error_unknown">Mise à jour des contacts terminée : erreur inconnue</string>
-  <string name="import_weibo_error_user_cancel">Mise à jour des contacts terminée : l\'utilisateur a quitté</string>
+  <string name="import_weibo_error_no_matched_contacts">Mise à jour des contacts terminée : aucun contact assorti</string>
+  <string name="import_weibo_error_no_network">Mise à jour des contacts terminée : problème de réseau</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Mise à jour des contacts terminée : aucun numéro de téléphone dans le compte Mi</string>
+  <string name="import_weibo_error_unknown">Mise à jour des contacts terminée : erreur inconnue</string>
+  <string name="import_weibo_error_user_cancel">Mise à jour des contacts terminée : l\'utilisateur a quitté</string>
   <string name="import_weibo_fetch_followers">Récupération de followers Sina Weibo…</string>
   <string name="import_weibo_notification_title_done">Importation terminée</string>
   <string name="import_weibo_progress_name">%1$s</string>
@@ -490,7 +490,7 @@
   <string name="loading_group_members">Chargement des membres du groupe…</string>
   <string name="loading_groups">Chargement des groupes…</string>
   <string name="loading_recent">Chargement des contacts récents…</string>
-  <string name="loading_resource_detail_fail">Impossible de charger la ressource !</string>
+  <string name="loading_resource_detail_fail">Impossible de charger la ressource !</string>
   <string name="loading_resource_detail_info">Chargement…</string>
   <string name="local_invisible_directory">Autre</string>
   <string name="local_profile_title">Mon profil local</string>
@@ -572,7 +572,7 @@
   <string name="name_prefix">Titre</string>
   <string name="name_suffix">Titre post-nominal</string>
   <string name="next">suivant</string>
-  <string name="next_birthday">Prochain anniversaire : %s</string>
+  <string name="next_birthday">Prochain anniversaire : %s</string>
   <string name="nfc_vcard_file_name">Contact reçu via NFC</string>
   <string name="nicknameLabelsGroup">Surnom</string>
   <string name="nickname_editor_title">Modifier le Pseudo</string>
@@ -580,7 +580,7 @@
   <string name="nickname_picker_nickname_column">Titre</string>
   <string name="noAccounts">Vous devez posséder un compte pour créer des groupes.</string>
   <string name="noContactHelpTextAccountsInfo">Synchroniser les contacts Xiaomi, Google et Exchange.</string>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données sauvegardées dans le compte Xiaomi et MiTalk</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données sauvegardées dans le compte Mi</string>
   <string name="noContacts">Aucun contact</string>
   <string name="noContactsHelpText">"Vous n\'avez pas encore de contacts à afficher. 
 
@@ -588,7 +588,7 @@ Pour ajouter des contacts, appuyez sur"</string>
   <string name="noContactsHelpTextForCreateShortcut">"Aucun contact à afficher"</string>
   <string name="noContactsHelpTextWithSync">"Vous n\'avez aucun contact à afficher (si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes).
 
-Pour ajouter des contacts, appuyez sur Menu, et sélectionnez :
+Pour ajouter des contacts, appuyez sur Menu, et sélectionnez :
  
 "<li><font fgcolor="#ffffffff"><b>"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts sur le téléphone;
 "</b></font></li>" 
@@ -605,7 +605,7 @@ Pour ajouter des contacts, appuyez sur Menu, et sélectionnez :
 Pour ajouter des contacts, appuyez sur"</string>
   <string name="noContactsNoSimHelpTextWithSync">"Vous n\'avez aucun contact à afficher (si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes).
 
-Pour ajouter des contacts, appuyez sur "<font fgcolor="#ffffffff"><b>Menu</b></font>" et sélectionnez :
+Pour ajouter des contacts, appuyez sur "<font fgcolor="#ffffffff"><b>Menu</b></font>" et sélectionnez :
  
 "<li><font fgcolor="#ffffffff"><b>"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts sur le téléphone;
 "</b></font></li>" 
@@ -619,7 +619,7 @@ Pour ajouter des contacts, appuyez sur "<font fgcolor="#ffffffff"><b>Menu</b></f
   <string name="noContactsWithPhoneNumbers">Aucun contact disposant d\'un numéro téléphone</string>
   <string name="noFavoritesHelpText">"Vous ne disposez d\'aucun favori.
 
-Pour ajouter un contact à la liste de favoris :
+Pour ajouter un contact à la liste de favoris :
 
 "<li>Appuyez sur l\'onglet<b>Contacts</b>".
 "</li>" 
@@ -706,11 +706,11 @@ Pour ajouter un contact à la liste de favoris :
   <string name="pref_key_rebuild_t9_index_title">Reconstruire les données d\'index T9</string>
   <string name="pref_key_sim_manage">Gestion SIM</string>
   <string name="pref_key_sim_manage2">Gestion SIM 2</string>
-  <string name="pref_summary_import_from_account">Importer les contacts depuis les comptes Google et Exchange sur mon compte Xiaomi</string>
+  <string name="pref_summary_import_from_account">Importer les contacts depuis les comptes Google et Exchange sur mon compte Mi</string>
   <string name="pref_title_account_import">Importer depuis le compte</string>
-  <string name="pref_title_import_from_account">Importer vers le compte Xiaomi</string>
+  <string name="pref_title_import_from_account">Importer vers le compte Mi</string>
   <string name="preference_auto_ip_summary_disable">Désactivé</string>
-  <string name="preference_auto_ip_summary_on">"Préfixe IP du transporteur :%s"</string>
+  <string name="preference_auto_ip_summary_on">"Préfixe IP du transporteur :%s"</string>
   <string name="preference_auto_ip_title">IP automatique</string>
   <string name="preference_contacts">Contact</string>
   <string name="preference_contacts_display">Affichage des contacts</string>
@@ -754,7 +754,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="profile_name">Mon profil</string>
   <string name="profile_name_photo">Moi</string>
   <string name="quickcontact_missing_app">Aucune application pouvant gérer cette action n\'a été trouvée.</string>
-  <string name="quit_dialog_confirm_title">Êtes-vous sûr de vouloir quitter la fusion des contacts ?</string>
+  <string name="quit_dialog_confirm_title">Êtes-vous sûr de vouloir quitter la fusion des contacts ?</string>
   <string name="readOnlyContactDeleteConfirmation">Ce contact contient les informations de plusieurs comptes. Les informations de comptes en lecture seule seront masquées dans les listes des contacts et non supprimées</string>
   <string name="readOnlyContactDeleteConfirmationDetail">"%s" contient des informations provenant de plusieurs comptes. Les informations de comptes de lecture seule seront masquées dans votre liste de contacts mais ne seront pas supprimées.</string>
   <string name="readOnlyContactWarning">"Il est impossible de supprimer des contacts sur les comptes en lecture seule. Vous pouvez cependant les masquer dans vos contacts"</string>
@@ -787,7 +787,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_app_name">Navigateur de ressources</string>
   <string name="resource_apply">Appliquer</string>
   <string name="resource_buy">Acheter</string>
-  <string name="resource_can_not_selected">%1$s ne peut pas être sélectionné !</string>
+  <string name="resource_can_not_selected">%1$s ne peut pas être sélectionné !</string>
   <string name="resource_category">Catégories</string>
   <string name="resource_comment_1_star">1 Étoile</string>
   <string name="resource_comment_2_star">2 Étoiles</string>
@@ -802,7 +802,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_comment_edit_comment">Ajouter un commentaire</string>
   <string name="resource_comment_edit_comment_waiting">Vérifie si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
-  <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
+  <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
   <string name="resource_comment_entry_tips">Afficher les commentaires</string>
   <string name="resource_comment_expand_full_text">Développer le texte▼</string>
   <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
@@ -812,22 +812,22 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_comment_no_average_score">-.-</string>
   <string name="resource_comment_no_comment">Aucun commentaire</string>
   <string name="resource_comment_publish">Envoyer</string>
-  <string name="resource_comment_rate">Note :</string>
+  <string name="resource_comment_rate">Note :</string>
   <string name="resource_comment_sending">Soumission du commentaire…</string>
-  <string name="resource_comment_title">Commentaires : %1$s</string>
+  <string name="resource_comment_title">Commentaires : %1$s</string>
   <string name="resource_comment_upload_data_invalid">Désolé, le commentaire soumis n\'est pas valide</string>
   <string name="resource_comment_upload_failed">L\'enregistrement du commentaire a échoué</string>
   <string name="resource_comment_upload_hint">Les commentaires seront affichés après avoir été examinés.</string>
   <string name="resource_comment_upload_not_bought">Vous devez appliquer le thème avant de commenter.</string>
   <string name="resource_comment_upload_not_logined">Veuillez vous connecter d\'abord</string>
-  <string name="resource_comment_upload_success">Commentaire envoyé ! Il s\'affichera une fois vérifié.</string>
+  <string name="resource_comment_upload_success">Commentaire envoyé ! Il s\'affichera une fois vérifié.</string>
   <string name="resource_default">Sonnerie par défaut</string>
   <string name="resource_default_name">Ressources</string>
-  <string name="resource_delete_all">Supprimer les %1$d ressources sélectionnées ?</string>
-  <string name="resource_delete_confirm">Supprimer ces ressources ?</string>
-  <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string>
+  <string name="resource_delete_all">Supprimer les %1$d ressources sélectionnées ?</string>
+  <string name="resource_delete_confirm">Supprimer ces ressources ?</string>
+  <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string>
   <string name="resource_delta_update_successful">Mise à jour réussie</string>
-  <string name="resource_delta_update_total">%1$d patch(s) de MàJ. Économisé : %2$s</string>
+  <string name="resource_delta_update_total">%1$d patch(s) de MàJ. Économisé : %2$s</string>
   <string name="resource_detail">Détails</string>
   <string name="resource_detail_comment_title">Commentaires</string>
   <string name="resource_detail_jump_to_online_title">Voir en ligne</string>
@@ -842,7 +842,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_downloading">Téléchargement…</string>
   <string name="resource_expand_full_text">Voir plus…</string>
   <string name="resource_get_auth_checking">Vérification de l\'autorisation…</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre compte Xiaomi</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre compte Mi</string>
   <string name="resource_get_auth_exceed_max_limit_title">La limite autorisée est dépassée</string>
   <string name="resource_get_auth_missing">Les thèmes provenant de sources tierces ne sont pas supportés.</string>
   <string name="resource_get_auth_retrieving">Récupération de l\'autorisation…</string>
@@ -855,11 +855,11 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_no_result">Aucun résultat.</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_online">%1$s en ligne</string>
- <!-- resource_pack_confirm et resource_pack_warning à vérifier/Revoir ? -->
-  <string name="resource_pack_confirm">Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d\'acheter les articles restants individuellement, souhaitez-vous continuer ?</string>
-  <string name="resource_pack_discount_info">Économisé : %1$s</string>
-  <string name="resource_pack_price_info">Original : %1$s</string>
-  <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restants, veuillez les acheter individuellement.</string>
+ <!-- resource_pack_confirm et resource_pack_warning à vérifier/Revoir ? -->
+  <string name="resource_pack_confirm">Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d\'acheter les articles restants individuellement, souhaitez-vous continuer ?</string>
+  <string name="resource_pack_discount_info">Économisé : %1$s</string>
+  <string name="resource_pack_price_info">Original : %1$s</string>
+  <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restants, veuillez les acheter individuellement.</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_delete">Supprimer</string>
   <string name="resource_price_free">Gratuit</string>
@@ -873,8 +873,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="resource_selected">Sélection</string>
   <string name="resource_server_alert_dialog_title">Le service est actuellement indisponible</string>
   <string name="resource_server_out_of_service">Serveur indisponible, veuillez réessayer ultérieurement.</string>
-  <string name="resource_share_subject">Partage du thème : %1$s</string>
-  <string name="resource_share_text">"Je pense que tu pourrais aimer ce thème : %1$s ! Lien : %2$s"</string>
+  <string name="resource_share_subject">Partage du thème : %1$s</string>
+  <string name="resource_share_text">"Je pense que tu pourrais aimer ce thème : %1$s ! Lien : %2$s"</string>
   <string name="resource_share_title">Partager</string>
   <string name="resource_system_title">Ressources système</string>
   <string name="resource_tip_select_ringtone">Aucune sélectionnée</string>
@@ -892,7 +892,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="scan_duplicate_message">Total de (%1$d) contacts avec doublons</string>
   <string name="scan_merge">Recherche d\'éventuels contacts en double, veuillez patienter…</string>
   <string name="scanning">Recherche de périphériques…</string>
-  <string name="scanning_sdcard_failed_message">Échec de la recherche sur la carte SD (Raison : %s)</string>
+  <string name="scanning_sdcard_failed_message">Échec de la recherche sur la carte SD (Raison : %s)</string>
   <string name="scanning_sdcard_failed_title">Recherche impossible sur la carte SD</string>
   <string name="sdcard_not_mounted_dialog_message">Veuillez insérer une carte SD.\n</string>
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
@@ -937,21 +937,21 @@ Pour ajouter un contact à la liste de favoris :
   <string name="sim_contact_number_missing">Numéro de contact SIM manquant.</string>
   <string name="sim_contact_search_error">Une erreur s\'est produite lors de la recherche de contacts sur la carte SIM</string>
   <string name="sim_contacts">Contacts de la carte SIM</string>
-  <string name="sim_error_anr_full">Espace de stockage (SIM) pour numéros plein !</string>
-  <string name="sim_error_email_full">Espace de stockage e-mail plein !</string>
+  <string name="sim_error_anr_full">Espace de stockage (SIM) pour numéros plein !</string>
+  <string name="sim_error_email_full">Espace de stockage e-mail plein !</string>
   <string name="sim_error_email_too_long">Adresse e-mail trop longue.</string>
   <string name="sim_error_generic_failure">Défaillance générique de la carte SIM.</string>
   <string name="sim_error_not_ready">Chargement des contacts SIM, veuillez patienter…</string>
-  <string name="sim_error_number_too_long">Numéro SIM trop long !</string>
+  <string name="sim_error_number_too_long">Numéro SIM trop long !</string>
   <string name="sim_error_password_error">Erreur de mot de passe SIM.</string>
-  <string name="sim_error_storage_full">Espace de stockage de la carte SIM plein !</string>
-  <string name="sim_error_text_too_long">Nom trop long !</string>
+  <string name="sim_error_storage_full">Espace de stockage de la carte SIM plein !</string>
+  <string name="sim_error_text_too_long">Nom trop long !</string>
   <string name="sim_export_loading">Informations de la carte SIM en cours de lecture. Cette opération peut prendre quelques minutes, veuillez patienter…</string>
   <string name="sim_indexed_contact_not_exist">La position %1$d sur la carte SIM n\'est pas valide, elle se trouve peut-être entre %2$d et %3$d</string>
   <string name="sim_no_contact">Aucun contact sur la carte SIM</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Aucun membre dans le groupe</string>
-  <string name="smart_group_action_bar_title">%1$s : %2$s (%3$s)</string>
+  <string name="smart_group_action_bar_title">%1$s : %2$s (%3$s)</string>
   <string name="smart_group_company_label">Par société</string>
   <string name="smart_group_company_unavailable">Aucune information sur la société</string>
   <string name="smart_group_frequency_1">Ce mois-ci</string>
@@ -988,7 +988,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="sms_work_pager">Envoyer un SMS à un pager professionnel</string>
   <string name="social_widget_label">Contact</string>
   <string name="social_widget_loading">Chargement…</string>
-  <string name="splitConfirmation">Séparer ce contact en plusieurs contacts ?</string>
+  <string name="splitConfirmation">Séparer ce contact en plusieurs contacts ?</string>
   <string name="splitConfirmation_title">Séparer le contact</string>
   <string name="starredList">Favoris</string>
   <string name="starred_contacts">Favoris</string>
@@ -1008,7 +1008,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="toast_copying">Copie, veuillez patienter…</string>
   <string name="toast_displaying_all_contacts">Affichage de tous les contacts</string>
   <string name="toast_finish_delete_call_log">Le journal des appels a été effacé</string>
-  <string name="toast_for_failed_saving_nickname">Impossible d\'enregistrer le surnom !</string>
+  <string name="toast_for_failed_saving_nickname">Impossible d\'enregistrer le surnom !</string>
   <string name="toast_for_saving_nickname">Surnom enregistré</string>
   <string name="toast_join_with_empty_contact">Veuillez saisir le nom de ce contact avant de l\'associer à un autre.</string>
   <string name="toast_making_personal_copy">Création d\'une copie personnelle…</string>
@@ -1022,7 +1022,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="unknown">Inconnu</string>
   <string name="unknown_contact_name">Contact inconnu</string>
   <string name="upgrade_in_progress">Mise à jour de la liste de contacts…</string>
-  <string name="upgrade_out_of_memory">"Les contacts sont actuellement mis à jour. La mise à jour requiert environ %d Mo de capacité de stockage. Sélectionnez l'une des options suivantes :"</string>
+  <string name="upgrade_out_of_memory">"Les contacts sont actuellement mis à jour. La mise à jour requiert environ %d Mo de capacité de stockage. Sélectionnez l'une des options suivantes :"</string>
   <string name="upgrade_out_of_memory_retry">Réessayer</string>
   <string name="upgrade_out_of_memory_uninstall">Désinstaller certaines applications</string>
   <string name="use_photo_as_primary">Utiliser cette photo</string>
@@ -1061,23 +1061,23 @@ Pour ajouter un contact à la liste de favoris :
   <string name="zero_items_selected">Aucun élément sélectionné</string>
   <string name="account_unactivated">Compte non activé.</string>
   <string name="resource_account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
-  <string name="resource_account_fail_to_add">Impossible d\'ajouter le compte !</string>
+  <string name="resource_account_fail_to_add">Impossible d\'ajouter le compte !</string>
   <string name="resource_account_login">Connexion</string>
-  <string name="resource_account_login_before_action">Veuillez vous connecter à un votre compte Xiaomi.</string>
+  <string name="resource_account_login_before_action">Veuillez vous connecter à un votre compte Mi.</string>
   <string name="resource_account_login_title">Connexion</string>
   <string name="resource_account_switch">Changer de compte</string>
   <string name="resource_comment_loading_list">Chargement des commentaires…</string>
   <string name="resource_comment_score_count">%1$s utilisateurs</string>
   <string name="resource_exchange">Activer un code</string>
   <string name="resource_exchange_confirm">Confirmer</string>
-  <string name="resource_exchange_empty_format">Veuillez saisir un code !</string>
+  <string name="resource_exchange_empty_format">Veuillez saisir un code !</string>
   <string name="resource_exchange_has_bought">Vous avez déjà acheté ce thème.</string>
   <string name="resource_exchange_has_expired">Ce code a expiré.</string>
   <string name="resource_exchange_has_used">Ce code a déjà été utilisé.</string>
   <string name="resource_exchange_hint">Saisissez votre code</string>
   <string name="resource_exchange_purchase_unkown_error">Une erreur inconnue s\'est produite. Veuillez vous connecter via http://market.xiaomi.com pour voir l\'état de votre paiement.</string>
-  <string name="resource_exchange_share_code_content">Vous avez reçu un code cadeau pour le thème MIUI \"%1$s\". Votre code est : %2$s. Appuyer sur %3$s pour l\'utiliser maintenant.</string>
-  <string name="resource_exchange_share_code_dlg_content">Code cadeau, pour le thème \"%1$s\", acheté avec succès. Le code est : %2$s. Vous pouvez le partager avec un ami.</string>
+  <string name="resource_exchange_share_code_content">Vous avez reçu un code cadeau pour le thème MIUI \"%1$s\". Votre code est : %2$s. Appuyer sur %3$s pour l\'utiliser maintenant.</string>
+  <string name="resource_exchange_share_code_dlg_content">Code cadeau, pour le thème \"%1$s\", acheté avec succès. Le code est : %2$s. Vous pouvez le partager avec un ami.</string>
   <string name="resource_exchange_share_code_dlg_title">Envoyer un code</string>
   <string name="resource_exchange_success">Transaction réussie</string>
   <string name="resource_exchange_unavailable">Le code saisi n\'est pas valide pour ce thème</string>
@@ -1099,7 +1099,7 @@ Pour ajouter un contact à la liste de favoris :
 le contenu que vous recherchez n\'est actuellement pas disponible dans votre région."</string>
   <string name="resource_unknow_error">Une erreur inconnue s\'est produite.</string>
   <string name="resource_user_know">OK</string>
-  <string name="to_activate_the_account">Veuillez activer votre compte Xiaomi</string>
+  <string name="to_activate_the_account">Veuillez activer votre compte Mi</string>
   <string name="login_ok">Connexion</string>
   <string name="refresh">Actualiser</string>
   <string name="t9_search_guide">Saisir un numéro ou rechercher des contacts avec le T9.</string>
@@ -1114,7 +1114,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="yellowpage_navigation_search_result_network_error">Impossible de se connecter au réseau</string>
   <string name="yellowpage_navigation_search_result_no_more">Aucun autre résultat</string>
   <string name="yellowpage_navigation_search_result_service_error">Service actuellement indisponible</string>
-  <string name="yellowpage_navigation_search_result_unknown_error">Une erreur inconnue s\'est produite !</string>
+  <string name="yellowpage_navigation_search_result_unknown_error">Une erreur inconnue s\'est produite !</string>
   <string name="yellowpage_navigation_search_select_city">Veuillez sélectionner une ville</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Ajouté à l\'écran d\'accueil</string>
   <string name="imei_invalid">IMEI non valide</string>
@@ -1131,7 +1131,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_trial_end_restore">Terminer l\'essai</string>
   <string name="resource_trial_end_purchase">Acheter</string>
   <string name="callrecordview_menu_batch_delete">Suppression par lots</string>
-  <string name="delete_call_log_selected_title">Supprimer les entrées sélectionnées ?</string>
+  <string name="delete_call_log_selected_title">Supprimer les entrées sélectionnées ?</string>
   <string name="toast_finish_delete_selected_call_log">Entrées supprimées</string>
   <string name="yellowpage_navigation_network_location_enable">Activer</string>
   <string name="yellowpage_navigation_network_location_enable_later">Plus tard</string>

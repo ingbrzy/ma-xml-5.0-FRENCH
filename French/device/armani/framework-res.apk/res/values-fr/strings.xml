@@ -90,7 +90,7 @@
     <string name="mmiError">Problème de connexion ou code IHM non valide.</string>
     <string name="mmiFdnError">Opération réservée aux numéros autorisés</string>
     <string name="serviceEnabled">Le service a été activé.</string>
-    <string name="serviceEnabledFor">Ce service a été activé pour :</string>
+    <string name="serviceEnabledFor">Ce service a été activé pour :</string>
     <string name="serviceDisabled">Ce service a été désactivé.</string>
     <string name="serviceRegistered">Enregistrement réussi.</string>
     <string name="serviceErased">Effacement réussi.</string>
@@ -118,10 +118,10 @@
     <string name="RuacMmi">Rejeter les appels indésirables</string>
     <string name="CndMmi">"Livraison du numéro d'appel"</string>
     <string name="DndMmi">Ne pas déranger</string>
-    <string name="CLIRDefaultOnNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
-    <string name="CLIRDefaultOnNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
-    <string name="CLIRDefaultOffNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
-    <string name="CLIRDefaultOffNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
+    <string name="CLIRDefaultOnNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
+    <string name="CLIRDefaultOnNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
+    <string name="CLIRDefaultOffNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
+    <string name="CLIRDefaultOffNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
     <string name="serviceNotProvisioned">"Ce service n'est pas pris en charge."</string>
     <string name="CLIRPermanent">"Impossible de modifier le paramètre relatif au numéro de l'appelant."</string>
     <string name="RestrictedChangedTitle">"L'accès limité a été modifié."</string>
@@ -155,11 +155,11 @@
     <string name="roamingText11">"Bannière d'itinérance activée"</string>
     <string name="roamingText12">"Bannière d'itinérance désactivée"</string>
     <string name="roamingTextSearching">Recherche des services disponibles</string>
-    <string name="cfTemplateNotForwarded">{0} : non transféré</string>
-    <string name="cfTemplateForwarded">{0} : {1}</string>
-    <string name="cfTemplateForwardedTime">{0} : {1} au bout de {2} secondes</string>
-    <string name="cfTemplateRegistered">{0} : non transféré</string>
-    <string name="cfTemplateRegisteredTime">{0} : non transféré</string>
+    <string name="cfTemplateNotForwarded">{0} : non transféré</string>
+    <string name="cfTemplateForwarded">{0} : {1}</string>
+    <string name="cfTemplateForwardedTime">{0} : {1} au bout de {2} secondes</string>
+    <string name="cfTemplateRegistered">{0} : non transféré</string>
+    <string name="cfTemplateRegisteredTime">{0} : non transféré</string>
     <string name="fcComplete">Code de service terminé</string>
     <string name="fcError">Problème de connexion ou code de service non valide</string>
     <string name="httpErrorOk">OK</string>
@@ -193,9 +193,9 @@
     <string name="silent_mode_ring">Sonnerie activée</string>
     <string name="shutdown_progress">Arrêt en cours…</string>
     <string name="shutdown_confirm">"Votre téléphone va s'éteindre."</string>
-    <string name="shutdown_confirm_question">"Voulez-vous éteindre l'appareil ?"</string>
+    <string name="shutdown_confirm_question">"Voulez-vous éteindre l'appareil ?"</string>
     <string name="reboot_safemode_title">Redémarrer en mode sans échec</string>
-    <string name="reboot_safemode_confirm">Voulez-vous redémarrer en mode sans échec ? Cette opération aura pour effet de désactiver toutes les applications tierces que vous avez installées. Elles seront réactivées au prochain redémarrage.</string>
+    <string name="reboot_safemode_confirm">Voulez-vous redémarrer en mode sans échec ? Cette opération aura pour effet de désactiver toutes les applications tierces que vous avez installées. Elles seront réactivées au prochain redémarrage.</string>
     <string name="recent_tasks_title">Récentes</string>
     <string name="no_recent_tasks">Aucune application récente</string>
     <string name="global_actions">Options du téléphone</string>
@@ -446,9 +446,9 @@
     <string name="permlab_writeProfile">modifier votre fiche de contact</string>
     <string name="permdesc_writeProfile">"Permet à l'application de modifier les informations de profil stockées sur votre appareil, telles que votre nom et vos coordonnées, ou d'en ajouter. Elle peut alors vous identifier et envoyer vos informations de profil à des tiers."</string>
     <string name="permlab_readSocialStream">lire votre flux de réseau social</string>
-    <string name="permdesc_readSocialStream">"Permet à l'application d'accéder à vos mises à jour sur les réseaux sociaux, ainsi qu'à celles de vos amis, et de les synchroniser. Soyez prudent lorsque vous partagez des informations. Cette autorisation permet à l'application de lire les communications entre vous et vos amis sur les réseaux sociaux, indépendamment de leur caractère confidentiel. Remarque : il est possible que cette autorisation ne soit pas appliquée sur tous les réseaux sociaux."</string>
+    <string name="permdesc_readSocialStream">"Permet à l'application d'accéder à vos mises à jour sur les réseaux sociaux, ainsi qu'à celles de vos amis, et de les synchroniser. Soyez prudent lorsque vous partagez des informations. Cette autorisation permet à l'application de lire les communications entre vous et vos amis sur les réseaux sociaux, indépendamment de leur caractère confidentiel. Remarque : il est possible que cette autorisation ne soit pas appliquée sur tous les réseaux sociaux."</string>
     <string name="permlab_writeSocialStream">écrire sur votre flux social</string>
-    <string name="permdesc_writeSocialStream">"Permet à l'application d'afficher les mises à jour de vos amis sur les réseaux sociaux. Soyez prudent lorsque vous partagez des informations. Cette autorisation permet à l'application de générer des messages qui peuvent sembler provenir d'un ami. Remarque : il est possible que cette autorisation ne soit pas appliquée sur tous les réseaux sociaux."</string>
+    <string name="permdesc_writeSocialStream">"Permet à l'application d'afficher les mises à jour de vos amis sur les réseaux sociaux. Soyez prudent lorsque vous partagez des informations. Cette autorisation permet à l'application de générer des messages qui peuvent sembler provenir d'un ami. Remarque : il est possible que cette autorisation ne soit pas appliquée sur tous les réseaux sociaux."</string>
     <string name="permlab_readCalendar">"consulter les événements d'agenda ainsi que les informations confidentielles"</string>
     <string name="permdesc_readCalendar">"Permet à l'application de lire tous les événements d'agenda stockés sur votre téléphone, y compris ceux de vos amis ou de vos collègues. Cette autorisation peut lui permettre de partager ou d'enregistrer vos données d'agenda, indépendamment de leur caractère confidentiel ou sensible."</string>
     <string name="permlab_writeCalendar">"ajouter ou modifier des événements d'agenda et envoyer des e-mails aux invités à l'insu des propriétaires"</string>
@@ -716,7 +716,7 @@
     <string name="lockscreen_pattern_instructions">Dessinez un schéma pour déverrouiller le téléphone</string>
     <string name="lockscreen_emergency_call">"Appel d'urgence"</string>
     <string name="lockscreen_return_to_call">"Retour à l'appel"</string>
-    <string name="lockscreen_pattern_correct">Combinaison correcte !</string>
+    <string name="lockscreen_pattern_correct">Combinaison correcte !</string>
     <string name="lockscreen_pattern_wrong">Veuillez réessayer.</string>
     <string name="lockscreen_password_wrong">Veuillez réessayer.</string>
     <string name="faceunlock_multiple_failures">Nombre maximal autorisé de tentatives Face Unlock atteint.</string>
@@ -757,7 +757,7 @@ Veuillez réessayer dans %d secondes."</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d'usine sera rétablie, et toutes les données utilisateur seront perdues."</string>
     <string name="lockscreen_failed_attempts_now_wiping">"Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d'usine va être rétablie."</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Réessayez dans %d secondes.</string>
-    <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
+    <string name="lockscreen_forgot_pattern_button_text">Schéma oublié ?</string>
     <string name="lockscreen_glogin_forgot_pattern">Déverrouillage du compte</string>
     <string name="lockscreen_glogin_too_many_attempts">Trop de tentatives</string>
     <string name="lockscreen_glogin_instructions">Pour déverrouiller le téléphone, veuillez vous connecter avec votre compte Google.</string>
@@ -765,7 +765,7 @@ Veuillez réessayer dans %d secondes."</string>
     <string name="lockscreen_glogin_password_hint">Mot de passe</string>
     <string name="lockscreen_glogin_submit_button">Se connecter</string>
     <string name="lockscreen_glogin_invalid_input">"Nom d'utilisateur ou mot de passe incorrect."</string>
-    <string name="lockscreen_glogin_account_recovery_hint">"Vous avez oublié votre nom d'utilisateur ou votre mot de passe ?
+    <string name="lockscreen_glogin_account_recovery_hint">"Vous avez oublié votre nom d'utilisateur ou votre mot de passe ?
 Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_glogin_checking_password">Vérification en cours…</string>
     <string name="lockscreen_unlock_label">Déverrouiller</string>
@@ -808,13 +808,13 @@ Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_not_system">"L'action FACTORY_TEST est uniquement prise en charge pour les paquets de données installés dans in/system/app."</string>
     <string name="factorytest_no_action">"Impossible de trouver un paquet proposant l'action FACTORY_TEST."</string>
     <string name="factorytest_reboot">Redémarrer</string>
-    <string name="js_dialog_title">La page \"%s\" indique :</string>
+    <string name="js_dialog_title">La page \"%s\" indique :</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">"%s
 
-Voulez-vous vraiment quitter cette page ?"</string>
+Voulez-vous vraiment quitter cette page ?"</string>
     <string name="save_password_label">Confirmer</string>
-    <string name="double_tap_toast">Conseil : Appuyez deux fois pour faire un zoom avant ou arrière.</string>
+    <string name="double_tap_toast">Conseil : Appuyez deux fois pour faire un zoom avant ou arrière.</string>
     <string name="autofill_this_form">Saisie auto</string>
     <string name="setup_autofill">Conf. saisie auto</string>
     <string name="autofill_address_name_separator">" "</string>
@@ -834,9 +834,9 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="autofill_area">Région</string>
     <string name="autofill_emirate">Émirat</string>
     <string name="permlab_readHistoryBookmarks">"voir l'historique et les favoris Web"</string>
-    <string name="permdesc_readHistoryBookmarks">"Permet à l'application d'accéder à l'historique de toutes les URL auxquelles le navigateur a accédé, ainsi qu'à l'ensemble des favoris du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
+    <string name="permdesc_readHistoryBookmarks">"Permet à l'application d'accéder à l'historique de toutes les URL auxquelles le navigateur a accédé, ainsi qu'à l'ensemble des favoris du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
     <string name="permlab_writeHistoryBookmarks">"modifier l'historique et les favoris Web"</string>
-    <string name="permdesc_writeHistoryBookmarks">"Permet à l'application de modifier l'historique du navigateur ou les favoris enregistrés sur votre téléphone. Cette autorisation peut lui permettre d'effacer ou de modifier les données du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
+    <string name="permdesc_writeHistoryBookmarks">"Permet à l'application de modifier l'historique du navigateur ou les favoris enregistrés sur votre téléphone. Cette autorisation peut lui permettre d'effacer ou de modifier les données du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
     <string name="permlab_setAlarm">définir une alarme</string>
     <string name="permdesc_setAlarm">"Permet à l'application de régler la sonnerie d'un réveil installé. Cette fonctionnalité n'est pas disponible sur tous les réveils."</string>
     <string name="permlab_addVoicemail">ajouter un message vocal</string>
@@ -853,7 +853,7 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="permdesc_accessContentProvidersExternally">"Permettre à l'application titulaire d'accéder à des fournisseurs de contenu depuis la commande shell. Les applications standards ne devraient jamais avoir recours à cette autorisation."</string>
     <string name="permlab_updateLock">déconseiller mises à jour auto appareil</string>
     <string name="permdesc_updateLock">"Permet à l'application autorisée d'indiquer au système le moment opportun pour un redémarrage non interactif en vue de la mise à jour de l'appareil."</string>
-    <string name="save_password_message">Voulez-vous que le navigateur se souvienne de ce mot de passe ?</string>
+    <string name="save_password_message">Voulez-vous que le navigateur se souvienne de ce mot de passe ?</string>
     <string name="save_password_notnow">Pas maintenant</string>
     <string name="save_password_remember">Mémoriser</string>
     <string name="save_password_never">Jamais</string>
@@ -869,7 +869,7 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="searchview_description_clear">Effacer la requête</string>
     <string name="searchview_description_submit">Envoyer la requête</string>
     <string name="searchview_description_voice">Recherche vocale</string>
-    <string name="enable_explore_by_touch_warning_title">Activer \"Explorer au toucher\" ?</string>
+    <string name="enable_explore_by_touch_warning_title">Activer \"Explorer au toucher\" ?</string>
     <string name="enable_explore_by_touch_warning_message">%1$s souhaite activer la fonctionnalité \"Explorer au toucher\". Lorsque celle-ci est activée, vous pouvez entendre ou voir les descriptions des éléments que vous sélectionnez, ou bien interagir avec le téléphone en effectuant certains gestes.</string>
     <string name="oneMonthDurationPast">Il y a 1 mois</string>
     <string name="beforeOneMonthDurationPast">"Il y a plus d'un mois"</string>
@@ -921,23 +921,23 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="anr_title" />
     <string name="anr_activity_application">"L'application %2$s ne répond pas.
 
-Voulez-vous quitter ?"</string>
+Voulez-vous quitter ?"</string>
     <string name="anr_activity_process">"L'activité %1$s ne répond pas.
 
-Voulez-vous quitter ?"</string>
-    <string name="anr_application_process">"L'application %1$s ne répond pas. Voulez-vous quitter ?"</string>
+Voulez-vous quitter ?"</string>
+    <string name="anr_application_process">"L'application %1$s ne répond pas. Voulez-vous quitter ?"</string>
     <string name="anr_process">"Le processus %1$s ne répond pas.
 
-Voulez-vous quitter ?"</string>
+Voulez-vous quitter ?"</string>
     <string name="force_close">OK</string>
     <string name="report">Rapport</string>
     <string name="wait">Attendre</string>
     <string name="webpage_unresponsive">"La page ne répond pas.
  
-Voulez-vous la fermer ?"</string>
+Voulez-vous la fermer ?"</string>
     <string name="launch_warning_title">Application redirigée</string>
     <string name="launch_warning_replace">%1$s est maintenant lancée.</string>
-    <string name="launch_warning_original">Application lancée initialement : %1$s.</string>
+    <string name="launch_warning_original">Application lancée initialement : %1$s.</string>
     <string name="screen_compat_mode_scale">"Mise à l'échelle"</string>
     <string name="screen_compat_mode_show">Toujours afficher</string>
     <string name="screen_compat_mode_hint">Réactivez ce mode en accédant à Paramètres système > Applications > Téléchargements</string>
@@ -949,7 +949,7 @@ Voulez-vous la fermer ?"</string>
     <string name="android_upgrading_complete">Finalisation de la mise à jour.</string>
     <string name="heavy_weight_notification">"%1$s en cours d'exécution"</string>
     <string name="heavy_weight_notification_detail">"Appuyez ici pour changer d'application."</string>
-    <string name="heavy_weight_switcher_title">"Changer d'application ?"</string>
+    <string name="heavy_weight_switcher_title">"Changer d'application ?"</string>
     <string name="heavy_weight_switcher_text">"Une autre application est déjà en cours d'exécution. Arrêtez-la avant d'en lancer une nouvelle."</string>
     <string name="old_app_action">Revenir à %1$s</string>
     <string name="old_app_description">Ne pas lancer la nouvelle application</string>
@@ -988,14 +988,14 @@ Voulez-vous la fermer ?"</string>
     <string name="decline">Refuser</string>
     <string name="wifi_p2p_invitation_sent_title">Invitation envoyée</string>
     <string name="wifi_p2p_invitation_to_connect_title">Invitation à se connecter</string>
-    <string name="wifi_p2p_from_message">De :</string>
-    <string name="wifi_p2p_to_message">À :</string>
-    <string name="wifi_p2p_enter_pin_message">Saisissez le code PIN requis :</string>
-    <string name="wifi_p2p_show_pin_message">Code PIN :</string>
+    <string name="wifi_p2p_from_message">De :</string>
+    <string name="wifi_p2p_to_message">À :</string>
+    <string name="wifi_p2p_enter_pin_message">Saisissez le code PIN requis :</string>
+    <string name="wifi_p2p_show_pin_message">Code PIN :</string>
     <string name="wifi_p2p_frequency_conflict_message">"Le téléphone sera déconnecté du réseau Wi-Fi tant qu'il sera connecté à l'appareil %1$s."</string>
     <string name="select_character">Insérer un caractère</string>
     <string name="sms_control_title">Envoi de messages SMS</string>
-    <string name="sms_control_message">"&lt;b>%1$s&lt;/b> envoie un grand nombre de SMS. Autorisez-vous cette application à poursuivre l'envoi des messages ?"</string>
+    <string name="sms_control_message">"&lt;b>%1$s&lt;/b> envoie un grand nombre de SMS. Autorisez-vous cette application à poursuivre l'envoi des messages ?"</string>
     <string name="sms_control_yes">Autoriser</string>
     <string name="sms_control_no">Refuser</string>
     <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> souhaite envoyer un message à &lt;b>%2$s&lt;/b>.</string>
@@ -1004,7 +1004,7 @@ Voulez-vous la fermer ?"</string>
     <string name="sms_short_code_confirm_allow">Envoyer</string>
     <string name="sms_short_code_confirm_deny">Annuler</string>
     <string name="sms_short_code_remember_choice">Mémoriser mon choix</string>
-    <string name="sms_short_code_remember_undo_instruction">Pour modifier : Paramètres > Applications</string>
+    <string name="sms_short_code_remember_undo_instruction">Pour modifier : Paramètres > Applications</string>
     <string name="sms_short_code_confirm_always_allow">Toujours autoriser</string>
     <string name="sms_short_code_confirm_never_allow">Ne jamais autoriser</string>
     <string name="sim_removed_title">Carte SIM retirée</string>
@@ -1017,7 +1017,7 @@ Voulez-vous la fermer ?"</string>
     <string name="date_picker_dialog_title">Définir la date</string>
     <string name="date_time_set">Définir</string>
     <string name="date_time_done">OK</string>
-    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">NOUVEAU</font> :</string>
+    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">NOUVEAU</font> :</string>
     <string name="perms_description_app">Fourni par %1$s</string>
     <string name="no_permissions">Aucune autorisation requise</string>
     <string name="perm_costs_money">cela peut engendrer des frais</string>
@@ -1043,7 +1043,7 @@ Voulez-vous la fermer ?"</string>
     <string name="usb_cd_installer_notification_title">"Connecté en tant que programme d'installation"</string>
     <string name="usb_accessory_notification_title">Connecté à un accessoire USB</string>
     <string name="usb_notification_message">Appuyez ici pour accéder aux autres options USB.</string>
-    <string name="extmedia_format_title">Formater mémoire ?</string>
+    <string name="extmedia_format_title">Formater mémoire ?</string>
     <string name="extmedia_format_message">Tous les fichiers stockés sur la mémoire de stockage USB vont être effacés. Cette action est irréversible.</string>
     <string name="extmedia_format_button_format">Format</string>
     <string name="adb_active_notification_title">Débogage USB activé</string>
@@ -1090,7 +1090,7 @@ en utilisant %s"</string>
     <string name="create_contact_using">"Ajouter un contact
 en utilisant %s"</string>
     <string name="grant_credentials_permission_message_header">"Les applications suivantes demandent l'autorisation d'accéder à votre compte à partir de maintenant."</string>
-    <string name="grant_credentials_permission_message_footer">Voulez-vous autoriser cette demande ?</string>
+    <string name="grant_credentials_permission_message_footer">Voulez-vous autoriser cette demande ?</string>
     <string name="grant_permissions_header_text">"Demande d'accès"</string>
     <string name="allow">Autoriser</string>
     <string name="deny">Refuser</string>
@@ -1146,7 +1146,7 @@ pour le compte \"%s\""</string>
     <string name="gpsVerifYes">Oui</string>
     <string name="gpsVerifNo">Non</string>
     <string name="sync_too_many_deletes">Le nombre maximal de suppressions a été atteint.</string>
-    <string name="sync_too_many_deletes_desc">%1$d éléments vont être supprimés lors de la synchronisation %2$s pour le compte %3$s. Que voulez-vous faire ?</string>
+    <string name="sync_too_many_deletes_desc">%1$d éléments vont être supprimés lors de la synchronisation %2$s pour le compte %3$s. Que voulez-vous faire ?</string>
     <string name="sync_really_delete">Supprimer les éléments</string>
     <string name="sync_undo_deletes">Annuler les suppressions</string>
     <string name="sync_do_nothing">"Ne rien faire pour l'instant"</string>
@@ -1215,26 +1215,26 @@ pour le compte \"%s\""</string>
     <string name="data_usage_restricted_body">Appuyez pour suppr. restriction.</string>
     <string name="ssl_certificate">Certificat de sécurité</string>
     <string name="ssl_certificate_is_valid">Ce certificat est valide.</string>
-    <string name="issued_to">Délivré à :</string>
-    <string name="common_name">Nom commun :</string>
-    <string name="org_name">Organisation :</string>
-    <string name="org_unit">Unité organisationnelle :</string>
-    <string name="issued_by">Émis par :</string>
-    <string name="validity_period">Validité :</string>
-    <string name="issued_on">"Date d'émission :"</string>
-    <string name="expires_on">"Date d'expiration :"</string>
-    <string name="serial_number">Numéro de série :</string>
-    <string name="fingerprints">Empreintes :</string>
-    <string name="sha256_fingerprint">Empreinte SHA-256 :</string>
-    <string name="sha1_fingerprint">Empreinte SHA-1 :</string>
+    <string name="issued_to">Délivré à :</string>
+    <string name="common_name">Nom commun :</string>
+    <string name="org_name">Organisation :</string>
+    <string name="org_unit">Unité organisationnelle :</string>
+    <string name="issued_by">Émis par :</string>
+    <string name="validity_period">Validité :</string>
+    <string name="issued_on">"Date d'émission :"</string>
+    <string name="expires_on">"Date d'expiration :"</string>
+    <string name="serial_number">Numéro de série :</string>
+    <string name="fingerprints">Empreintes :</string>
+    <string name="sha256_fingerprint">Empreinte SHA-256 :</string>
+    <string name="sha1_fingerprint">Empreinte SHA-1 :</string>
     <string name="activity_chooser_view_see_all">Tout afficher</string>
     <string name="activity_chooser_view_dialog_title_default">Sélectionnez une activité</string>
     <string name="share_action_provider_share_with">Partager avec</string>
     <string name="status_bar_device_locked">Appareil verrouillé</string>
     <string name="list_delimeter">", "</string>
     <string name="sending">Envoi en cours…</string>
-    <string name="launchBrowserDefault">Lancer le navigateur ?</string>
-    <string name="SetupCallDefault">"Prendre l'appel ?"</string>
+    <string name="launchBrowserDefault">Lancer le navigateur ?</string>
+    <string name="SetupCallDefault">"Prendre l'appel ?"</string>
     <string name="activity_resolver_use_always">Toujours</string>
     <string name="activity_resolver_use_once">Une seule fois</string>
     <string name="default_audio_route_name">Téléphone</string>
@@ -1252,7 +1252,7 @@ pour le compte \"%s\""</string>
     <string name="display_manager_built_in_display_name">Écran intégré</string>
     <string name="display_manager_hdmi_display_name">Écran HDMI</string>
     <string name="display_manager_overlay_display_name">Superposition n° %1$d</string>
-    <string name="display_manager_overlay_display_title">%1$s : %2$d x %3$d, %4$d dpi</string>
+    <string name="display_manager_overlay_display_title">%1$s : %2$d x %3$d, %4$d dpi</string>
     <string name="wifi_display_notification_title">"L'affichage sans fil est connecté."</string>
     <string name="wifi_display_notification_message">"Cet écran s'affiche sur un autre appareil."</string>
     <string name="wifi_display_notification_disconnect">Déconnecter</string>
@@ -1281,7 +1281,7 @@ pour le compte \"%s\""</string>
     <string name="kg_login_password_hint">Mot de passe</string>
     <string name="kg_login_submit_button">Connexion</string>
     <string name="kg_login_invalid_input">"Nom d'utilisateur ou mot de passe non valide."</string>
-    <string name="kg_login_account_recovery_hint">"Vous avez oublié votre nom d'utilisateur ou votre mot de passe ?
+    <string name="kg_login_account_recovery_hint">"Vous avez oublié votre nom d'utilisateur ou votre mot de passe ?
 Rendez-vous sur la page "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Vérification du compte en cours…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Vous avez saisi un code PIN incorrect à %d reprises. 
@@ -1300,12 +1300,12 @@ Veuillez réessayer dans %d secondes."</string>
  Veuillez réessayer dans %d secondes."</string>
     <string name="kg_text_message_separator">" — "</string>
     <string name="kg_reordering_delete_drop_target_text">Supprimer</string>
-    <string name="safe_media_volume_warning">"Augmenter le volume au-dessus du niveau recommandé ?
+    <string name="safe_media_volume_warning">"Augmenter le volume au-dessus du niveau recommandé ?
 L'écoute à un volume élevé pendant des périodes prolongées peut endommager votre audition."</string>
     <string name="continue_to_enable_accessibility">"Pour activer l'accessibilité, appuyez de manière prolongée avec deux doigts."</string>
     <string name="accessibility_enabled">"L'accessibilité a bien été activée."</string>
     <string name="enable_accessibility_canceled">Accessibilité annulée.</string>
-    <string name="user_switched">Utilisateur actuel : %1$s</string>
+    <string name="user_switched">Utilisateur actuel : %1$s</string>
     <string name="owner_name">Propriétaire</string>
     <string name="enablePin">Unsuccessful. Enable SIM/RUIM Lock.</string>
     <string name="permgrouplab_screenlock">Écran de verrouillage</string>
@@ -1334,12 +1334,12 @@ L'écoute à un volume élevé pendant des périodes prolongées peut endommager
     <string name="permdesc_accessNotifications">"Permet aux applications de récupérer, d'examiner et d'autoriser les notifications, y compris celles envoyées par d'autres applications."</string>
     <string name="permlab_bindNotificationListenerService">"s'associer à l'interface de niveau supérieur d'un service d'écoute des notifications"</string>
     <string name="permdesc_bindNotificationListenerService">"Permet à l'application de s'associer à l'interface de niveau supérieur d'un service d'écoute des notifications. Ne devrait jamais être nécessaire pour les applications normales."</string>
-    <string name="keyguard_password_wrong_puk_code">Code PUK incorrect !</string>
-    <string name="keyguard_password_pin_failed">Opération PIN échoué !</string>
-    <string name="keyguard_password_puk_failed">Opération PUK échoué !</string>
+    <string name="keyguard_password_wrong_puk_code">Code PUK incorrect !</string>
+    <string name="keyguard_password_pin_failed">Opération PIN échoué !</string>
+    <string name="keyguard_password_puk_failed">Opération PUK échoué !</string>
     <string name="keyguard_pin_accepted">Code accepté</string>
     <string name="pinpuk_attempts">"
-Essais restants :"</string>
+Essais restants :"</string>
     <string name="lockscreen_sim_error_message_short">Carte non valide</string>
     <string name="lockscreen_sim_error_message">"La carte SIM n'est pas valide."</string>
     <string name="lockscreen_perso_locked_message">SIM / RUIM est verrouillé Perso</string>
@@ -1364,7 +1364,7 @@ Essais restants :"</string>
     <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
     <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
     <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
-    <string name="msim_kg_sim_pin_msg_format" formatted="false">SUB:%d : %s.</string>
+    <string name="msim_kg_sim_pin_msg_format" formatted="false">SUB:%d : %s.</string>
     <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
     <string name="permission_remember_choice">Mémoriser</string>
     <string name="permission">Permission</string>

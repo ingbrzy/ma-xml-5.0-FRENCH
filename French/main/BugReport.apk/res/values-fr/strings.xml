@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
  <!-- removed in 4.5.6 -->
-  <string name="bugreport_feedback_from">De : %s</string>
+  <string name="bugreport_feedback_from">De : %s</string>
   <string name="err_type">Type de retour</string>
   <string name="user_feedback">Commentaires des utilisateurs</string>
   <string name="menu_send">Envoyer le rapport</string>
@@ -42,8 +42,8 @@
   <string name="toast_feedback_submitted">Le commentaire a été soumis avec succès</string>
   <string name="toast_pending_log_collection">Collecte des journaux, veuillez patienter…</string>
   <string name="toast_report_copied_to_clipboard">Rapport copié dans le presse-papiers</string>
-  <string name="toast_report_sent_failed">Impossible d\'envoyer le rapport !</string>
-  <string name="toast_report_sent_succeed">Rapport envoyé avec succès !</string>
+  <string name="toast_report_sent_failed">Impossible d\'envoyer le rapport !</string>
+  <string name="toast_report_sent_succeed">Rapport envoyé avec succès !</string>
   <string name="wlan_unavailable_dialog_button_ok">Attendre</string>
   <string name="wlan_unavailable_dialog_button_sent">Envoyer maintenant</string>
   <string name="wlan_unavailable_dialog_content">L\'envoi du rapport requiert l\'usage de %s de données. Pour n\'envoyer le rapport que lorsque vous serez connecté à un réseau Wi-fi, appuyez sur Attendre.</string>

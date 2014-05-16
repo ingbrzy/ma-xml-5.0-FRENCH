@@ -470,7 +470,7 @@ D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux image
   <string name="pref_camera_animate_capture_entry_off">Désactivé</string>
   <string name="pref_camera_animate_capture_entry_on">Activé</string>
   
-  <!-- à traduire : 
+  <!-- à traduire : 
   
   <string name="pref_camera_animate_capture_title">Animate capture</string>
   <string name="pref_camera_guidelines_title">Guidelines</string>

@@ -27,7 +27,7 @@
     <string name="label_color">Couleur</string>
     <string name="label_orientation">Orientation</string>
     <string name="label_pages">Pages (%1$s)</string>
-    <string name="pages_range_example">ex. : 1-5, 8, 11-13</string>
+    <string name="pages_range_example">ex. : 1-5, 8, 11-13</string>
     <string name="print_preview">Aperçu avant impression</string>
     <string name="install_for_print_preview">Installer un lecteur PDF pour afficher l\'aperçu</string>
     <string name="printing_app_crashed">L\'application à l\'origine de l\'impression a planté</string>

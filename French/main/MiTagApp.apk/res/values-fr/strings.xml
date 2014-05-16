@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="add">Ajouter</string>
   <string name="add_configure">Ajouter une configuration</string>
@@ -18,7 +18,7 @@
   <string name="auto_brightness">Luminosité auto</string>
   <string name="auto_brightness_on_off">Luminosité auto %s</string>
   <string name="available_networks">Réseaux disponibles</string>
-  <string name="avg_read_tag">Moy. lectures/jour :</string>
+  <string name="avg_read_tag">Moy. lectures/jour :</string>
   <string name="back_to_home">Retour</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="body_characters">%d/650</string>
@@ -73,7 +73,7 @@ le tag avec le dos de votre téléphone"</string>
   <string name="err_fail_to_erase">Impossible d\'effacer le tag</string>
   <string name="err_fail_to_read">Impossible de lire le tag</string>
   <string name="err_fail_to_write">Impossible d\'écrire sur le tag</string>
-  <string name="err_nfc_off">"Veuillez activer le NFC dans :
+  <string name="err_nfc_off">"Veuillez activer le NFC dans :
 Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="err_no_enough_space">Espace disponible sur le tag insuffisant</string>
   <string name="err_no_nfc">"Votre appareil ne prend pas en charge la technologie NFC. Cette application peut ne pas fonctionner."</string>
@@ -95,7 +95,7 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="input_old_password">Veuillez saisir l\'ancien mot de passe</string>
   <string name="input_password">Veuillez saisir un mot de passe à 4 chiffres</string>
   <string name="input_password_gain">Veuillez confirmer le mot de passe</string>
-  <string name="input_password_warning">Le mot de passe va être écrit sur le tag, ne l\'oubliez pas !</string>
+  <string name="input_password_warning">Le mot de passe va être écrit sur le tag, ne l\'oubliez pas !</string>
   <string name="local_app">Applications téléchargées</string>
   <string name="media_value">Média %s%%</string>
   <string name="meeting_mode">Mode réunion</string>
@@ -131,13 +131,13 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="reading">Lecture…</string>
  <!-- remote_app à voir... -->
   <string name="remote_app">" "</string>
-  <string name="remove_alert">Supprimer les tâches sélectionnées ?</string>
+  <string name="remove_alert">Supprimer les tâches sélectionnées ?</string>
   <string name="ringer_mode">Mode de sonnerie</string>
   <string name="ringer_normal">Sonnerie</string>
   <string name="ringer_silent">Silencieux</string>
   <string name="ringer_value">Sonnerie %s%%</string>
   <string name="running">est en cours d\'exécution</string>
-  <string name="save_alert">Enregistrer cette tâche ?</string>
+  <string name="save_alert">Enregistrer cette tâche ?</string>
   <string name="save_btn">Enregistrer</string>
   <string name="saving">Enregistrement…</string>
   <string name="screen_timeout">Veille</string>
@@ -152,8 +152,8 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="set_now">Paramètres</string>
   <string name="settings">Paramètres</string>
   <string name="share">Partager</string>
-  <string name="share_content">"J'ai *%1$s* écrit sur un Mi NFC tag. Pour le lire, il suffit de le toucher avec le dos de votre appareil. Télécharge l\'application ici : http://app.xiaomi.com/detail/56946"</string>
-  <string name="share_subject">Partage d\'une appli : %1$s</string>
+  <string name="share_content">"J'ai *%1$s* écrit sur un tag NFC. Pour le lire, il suffit de le toucher avec le dos de votre appareil. Téléchargez l\'application ici : http://app.xiaomi.com/detail/56946"</string>
+  <string name="share_subject">Partage d\'une appli : %1$s</string>
   <string name="shortcut">Raccourcis</string>
   <string name="sleep_mode">Ne Pas Déranger</string>
   <string name="sms_content">Message</string>
@@ -165,21 +165,21 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="sound_voice">Volume d\'appel</string>
  <!--  start_configuration á vérif -->
   <string name="start_configuration"/>
-  <string name="sure_to_delete_user_config">Supprimer cette tâche ?</string>
+  <string name="sure_to_delete_user_config">Supprimer cette tâche ?</string>
   <string name="tag_history">Historique</string>
   <string name="tag_history_date_format">d/M</string>
   <string name="task">Tâches trigger</string>
   <string name="toast_import_failed">Impossible d\'importer le contact</string>
   <string name="toggle">Basculer</string>
   <string name="torch">Torche</string>
-  <string name="total_read_tag">Tags lus :</string>
-  <string name="total_write_tag">Tags écrits :</string>
+  <string name="total_read_tag">Tags lus :</string>
+  <string name="total_write_tag">Tags écrits :</string>
   <string name="touch_and_erase_more">"Pour effacer une autre copie,
 toucher le dos de votre téléphone avec un autre tag."</string>
   <string name="touch_and_write_more">"Pour écrire une autre copie,
 toucher le dos de votre téléphone avec un autre tag.""</string>
-  <string name="unavailable_net">"Échec de l'installation : impossible de se connecter à un réseau"</string>
-  <string name="unavailable_storage">"Échec de l'installation : impossible d'utiliser la carte SD"</string>
+  <string name="unavailable_net">"Échec de l'installation : impossible de se connecter à un réseau"</string>
+  <string name="unavailable_storage">"Échec de l'installation : impossible d'utiliser la carte SD"</string>
   <string name="unrecognized_tag">Contenu du tag non reconnu</string>
   <string name="update_config">Modifier les tâches</string>
   <string name="user_configs">Mes tâches</string>
@@ -200,10 +200,10 @@ toucher le dos de votre téléphone avec un autre tag.""</string>
   <string name="xiaomi_kilobytes_unit">%1$s Ko</string>
   <string name="xiaomi_megabytes_unit">%1$s Mo</string>
   <string name="xiaomi_update_dialog_message">"Version %1$s disponible
-Taille : %2$s"</string>
+Taille : %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Version %1$s disponible
-Taille delta patch : %2$s"</string>
-  <string name="xiaomi_update_dialog_title">Mise à jour %1$s !</string>
+Taille delta patch : %2$s"</string>
+  <string name="xiaomi_update_dialog_title">Mise à jour %1$s !</string>
   <string name="write_pon_pon_tile">Écrire</string>
   <string name="share_wifi">Partage Wi-Fi</string>
   <string name="err_tag_read_only">Écriture impossible, tag en lecture seule</string>

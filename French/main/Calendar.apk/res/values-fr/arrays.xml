@@ -18,7 +18,7 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Notification</item>
@@ -38,18 +38,6 @@
         <item>2 jours</item>
         <item>1 semaine</item>
     </string-array>
-    <integer-array name="reminder_minutes_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Aucun</item>
         <item>0 minute</item>
@@ -61,18 +49,6 @@
         <item>1 jour</item>
         <item>2 jours</item>
         <item>1 semaine</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Valeur du système</item>
@@ -222,5 +198,29 @@
     <string-array name="widget_style_list">
         <item>Arrière-plan transparent noir</item>
         <item>Arrière-plan blanc</item>
+    </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
     </string-array>
 </resources>

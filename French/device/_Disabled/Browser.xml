@@ -6,14 +6,14 @@
   <string name="accessibility_button_smaller">Plus petit</string>
   <string name="accessibility_button_tabs">Onglets</string>
   <string name="export_bookmark">Exporter les favoris</string>
-  <string name="export_bookmark_failure">L\'exportation des favoris vers la carte SD a échoué !</string>
+  <string name="export_bookmark_failure">L\'exportation des favoris vers la carte SD a échoué !</string>
   <string name="export_bookmark_sucess">L\'exportation des favoris vers la carte SD a été effectuée.</string>
   <string name="exported_bookmark_file_name">Mes favoris</string>
   <string name="file_picker_new_folder">Nouveau dossier</string>
   <string name="file_picker_sdcard_not_found">Aucune carte SD n\'est détectée, vérifiez si l\'appareil est n\'est pas connecté en USB ou en utilisation.</string>
   <string name="folder_name_too_long">Le nom de dossier est trop long</string>
   <string name="import_bookmark">Importer les favoris</string>
-  <string name="import_bookmark_failure">Échec de l\'importation des favoris !</string>
+  <string name="import_bookmark_failure">Échec de l\'importation des favoris !</string>
   <string name="import_bookmark_sucess">Favoris importés avec succès</string>
   <string name="importing_favorite_files">Importation des données…</string>
   <string name="navigation_button_close">Fermer</string>

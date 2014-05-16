@@ -12,7 +12,7 @@
         <item>Supprimer</item>
     </string-array>
     <string-array name="search_category_rbds_entries">
-        <item>Toutes les Stations</item>
+        <item>Toutes les stations</item>
         <item>Hits pour adultes</item>
         <item>Classique</item>
         <item>Rock classique</item>
@@ -23,7 +23,7 @@
         <item>Langue étrangère</item>
         <item>Information</item>
         <item>Jazz</item>
-        <item>News</item>
+        <item>Actualités</item>
         <item>Nostalgie</item>
         <item>Anciens succès</item>
         <item>Personnalité</item>
@@ -41,7 +41,7 @@
         <item>Météo</item>
     </string-array>
     <string-array name="search_category_rds_entries">
-        <item>Toutes les Stations</item>
+        <item>Toutes les stations</item>
         <item>Culture</item>
         <item>Affaires courantes</item>
         <item>Programmes pour enfants</item>
@@ -51,18 +51,18 @@
         <item>Easy Listening Music</item>
         <item>Éducation</item>
         <item>Urgence</item>
-        <item>Urgence Test</item>
+        <item>Test Urgence</item>
         <item>Finance</item>
         <item>Musique Folk</item>
         <item>Information</item>
         <item>Musique Jazz</item>
         <item>Light classical</item>
         <item>Loisir</item>
-        <item>News</item>
+        <item>Actualités</item>
         <item>Musique Nationale</item>
         <item>Autre musique</item>
         <item>Anciens succès musicaux</item>
-        <item>Phone In</item>
+        <item>Libre antenne</item>
         <item>Musique Pop</item>
         <item>Religion</item>
         <item>Musique Rock</item>
@@ -158,8 +158,8 @@
         <item>Configurer les paramètres de recherche FM</item>
     </string-array>
     <string-array name="cfg_rf">
-        <item>Set FM RSSI Delta</item>
-        <item>Seuil du signal</item>
+        <item>FM RSSI Delta</item>
+        <item>Set Signal Threshold</item>
         <item>Statistiques RF</item>
     </string-array>
     <string-array name="stats_options">

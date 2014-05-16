@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <string name="app_name">Moniteur</string>
     <string name="list_empty_text">Vide</string>
@@ -49,7 +49,7 @@ Hors limite"</string>
     <string name="main_button_usage_adjusting">Changement…</string>
     <string name="main_button_usage_adjust_manual">Ajuster l\'usage de données</string>
     <string name="main_button_usage_package_setting">Définir le quota de données</string>
-    <string name="main_traffic_used_only">Utilisé : %s</string>
+    <string name="main_traffic_used_only">Utilisé : %s</string>
     <string name="main_alert_message_no_mobile_package">Limite de données mobiles non définie</string>
     <string name="main_alert_message_no_imsi">Aucune carte SIM détectée</string>
     <string name="main_alert_message_slot_no_data_connection">"La carte SIM ne supporte pas la
@@ -63,9 +63,9 @@ connexion au réseau de données mobiles"</string>
     <string name="force_stop_dlg_title">Restreindre les données en arrière-plan</string>
     <string name="force_stop_dlg_text">"Si vous restreignez les données mobiles en arrière-plan, certaines applications et services ne fonctionneront uniquement si vous êtes connecté à un réseau Wi-Fi"</string>
     <string name="pref_about_traffic_title">Paramètres d\'utilisation des données</string>
-    <string name="pref_package_traffic_normal">Limite : %s</string>
-    <string name="pref_package_traffic_overlay">%1$s | Additionnel : %2$s</string>
-    <string name="pref_package_traffic_leisure">%1$s | Creux : %2$s</string>
+    <string name="pref_package_traffic_normal">Limite : %s</string>
+    <string name="pref_package_traffic_overlay">%1$s | Additionnel : %2$s</string>
+    <string name="pref_package_traffic_leisure">%1$s | Creux : %2$s</string>
     <string name="pref_package_traffic_settings">Quota de données mobiles</string>
     <string name="pref_adjust_traffic_data">Définir l\'usage des données</string>
     <string name="pref_about">À propos</string>
@@ -140,8 +140,8 @@ connexion au réseau de données mobiles"</string>
     <string name="pref_specified_traffic_settings">Paramètres de limite de données</string>
     <string name="input_traffic_pkg">Saisir le total</string>
     <string name="begin_date">Date de remise à zéro de votre forfait</string>
-    <string name="tips_dialog_title">Quota de données mobiles inconnu ?</string>
-   <!-- tips_message : supprimé variable, elles n'affichent rien..., à re-vérifier plus tard-->
+    <string name="tips_dialog_title">Quota de données mobiles inconnu ?</string>
+   <!-- tips_message : supprimé variable, elles n'affichent rien..., à re-vérifier plus tard-->
     <string name="tips_message">Si vous ne connaissez pas le quota de données mobiles associé à votre forfait, renseignez-vous auprès de votre opérateur.</string>
     <string name="daily_pkg_traffic">Définir la limite du pic d\'usage des données</string>
     <string name="input_aviable_traffic">Définir la limite</string>
@@ -178,12 +178,12 @@ Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
     <string name="data_usage_correction_timeout_title">Temps d\'attente de synchronisation dépassé</string>
     <string name="data_usage_correction_timeout_body">Appuyer pour mettre à jour manuellement</string>
     <string name="data_usage_no_total_package_title">Moniteur de données</string>
-    <string name="data_usage_no_total_package_body">Définir une limite d\'usage des données ?</string>
-    <string name="data_usage_no_total_package_body_dual">Voulez-vous définir une limite pour %s ?</string>
+    <string name="data_usage_no_total_package_body">Définir une limite d\'usage des données ?</string>
+    <string name="data_usage_no_total_package_body_dual">Voulez-vous définir une limite pour %s ?</string>
     <string name="network_assistant_upgraded_title">Mise à jour terminée</string>
     <string name="network_assistant_upgraded_body">Appuyer pour limiter l\'usage des données</string>
     <string name="lock_screen_traffic_warn_title">Alerte d\'usage des données</string>
-    <string name="notification_title">%1$s-%2$s : %3$s utilisés</string>
+    <string name="notification_title">%1$s-%2$s : %3$s utilisés</string>
     <string name="notification_content_title">%1$s utilisés en veille</string>
  <!-- à traduire 
     <string name="free_time_traffic_title">Enter off-peak data limit</string>

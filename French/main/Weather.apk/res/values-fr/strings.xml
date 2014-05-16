@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
  <!-- removed in 4.5.6 -->
     <string name="act_weather_find_city_search_online">"Appuyer pour rechercher "</string>
@@ -22,13 +22,13 @@
     <string name="act_weather_cycle_update">Actualisation…</string>
     <string name="act_weather_find_city_connect_net">Connectez-vous à un réseau puis réessayez</string>
     <string name="act_weather_find_city_searching">Recherche…</string>
-    <string name="act_weather_main_aqi_index">Qualité de l\'air : %s</string>
+    <string name="act_weather_main_aqi_index">Qualité de l\'air : %s</string>
     <string name="act_weather_main_data_null">Aucune donnée météo, appuyer pour actualiser</string>
     <string name="act_weather_range_select">Sélectionner une ville</string>
     <string name="act_weather_range_title">Prévisions météorologiques locales</string>
-    <string name="act_weather_update_time">Dernière màj : %s</string>
+    <string name="act_weather_update_time">Dernière màj : %s</string>
     <string name="add_city">Ajouter</string>
-    <string name="alert_message_delete">Supprimer le(s) %d élément(s) sélectionné(s) ?</string>
+    <string name="alert_message_delete">Supprimer le(s) %d élément(s) sélectionné(s) ?</string>
     <string name="alert_provider_message">Vous devez activer la géolocalisation via le réseau mobile.</string>
     <string name="alert_provider_title">Notification de géolocalisation</string>
     <string name="alert_title_delete">Supprimer</string>
@@ -89,7 +89,7 @@
     <string name="selected_format">%d élément(s) sélectionné(s)</string>
     <string name="send_sms_notification">Partager la météo</string>
     <string name="send_sms_notification_summary">Envoie la météo du jour à vos contacts par SMS</string>
-    <string name="send_weather_sms_cycle">%1$s prévisions météo :%2$s</string>
+    <string name="send_weather_sms_cycle">%1$s prévisions météo :%2$s</string>
     <string name="send_weather_sms_error">Aucune donnée météorologique</string>
     <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
     <string name="settings_weather_about">À Propos</string>
@@ -99,11 +99,11 @@
     <string name="settings_weather_pre_title">Météo</string>
     <string name="settings_weather_preview">Prévisualisation d\'animation météo</string>
     <string name="settings_weather_title">Paramètres</string>
-    <string name="share_aqi_content">"Aujourd'hui à %1$s la qualité de l'air est : %2$s, %3$s. %4$s %5$s."</string>
+    <string name="share_aqi_content">"Aujourd'hui à %1$s la qualité de l'air est : %2$s, %3$s. %4$s %5$s."</string>
     <string name="share_button_text">Partager</string>
     <string name="share_choice_titile">Partager</string>
     <string name="share_content">\#MIUI weather#</string>
-    <string name="share_weather_content">"Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
+    <string name="share_weather_content">"Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. %5$s."</string>
     <string name="share_weather_title">Partager les données météo</string>
     <string name="sina_share_fail">Échec de l\'envoi</string>
     <string name="sina_share_pendding">Envoi…</string>
@@ -112,7 +112,7 @@
     <string name="sina_token_invalid_warning">Jeton de sécurité du compte Weibo non valide, veuillez le réassocier</string>
     <string name="sms_notification">Partager par SMS</string>
     <string name="tip_weather">Notifications météo</string>
-    <string name="tip_weather_info_content_1">Habillez-vous chaudement !</string>
+    <string name="tip_weather_info_content_1">Habillez-vous chaudement !</string>
     <string name="tip_weather_info_title_1">%1$s une différence de température de %2$d dégrées est prévue</string>
     <string name="tip_weather_info_title_2">%1$s aujourd\'hui la température estimée sera de %2$s</string>
     <string name="trend_weather_today">Aujourd\'hui</string>

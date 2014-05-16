@@ -8,6 +8,6 @@
     <string name="vol_boost">Volume Boost</string>
     <string name="slide_bass">Basses</string>
     <string name="slide_treble">Aigus</string>
-    <string name="preset_header">"Qu'est-ce que vous écoutez ?"</string>
+    <string name="preset_header">"Qu'est-ce que vous écoutez ?"</string>
     <string name="reset_defaults">"Réinitialiser"</string>
 </resources>

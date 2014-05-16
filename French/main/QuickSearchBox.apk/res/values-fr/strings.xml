@@ -18,14 +18,14 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <string name="app_name">Recherche</string>
   <string name="apps_search_activity" />
   <string name="clear_shortcuts">Effacer les raccourcis</string>
   <string name="clear_shortcuts_agree">Effacer les raccourcis</string>
   <string name="clear_shortcuts_disagree">Conserver les raccourcis</string>
-  <string name="clear_shortcuts_prompt">"Voulez-vous supprimer tous les raccourcis vers les suggestions de recherche choisies récemment ?"\n\n"Pour effacer votre historique de navigation, utilisez les paramètres du navigateur."</string>
+  <string name="clear_shortcuts_prompt">"Voulez-vous supprimer tous les raccourcis vers les suggestions de recherche choisies récemment ?"\n\n"Pour effacer votre historique de navigation, utilisez les paramètres du navigateur."</string>
   <string name="clear_shortcuts_summary">Effacer les raccourcis vers les suggestions de recherche sélectionnées récemment</string>
   <string name="corpus_description_apps">Noms des applications installées</string>
   <string name="corpus_description_web">Rechercher sur internet, les favoris et l\'historique de navigation</string>

@@ -192,8 +192,8 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="cancel">Annuler</string>
     <string name="app_name">Appareil photo</string>
     <string name="SmileShot_message">"Appuyez sur la touche de l'appareil photo. Permet de prendre des photos automatiquement lorsque les personnes sourient"</string>
-    <string name="Title_ResetDailog">"Réinitialiser les paramètres de l'appareil photo ?"</string>
-    <string name="Title_ChangeMemoryInUseDailog">Utiliser la carte mémoire comme emplacement de stockage par défaut ?</string>
+    <string name="Title_ResetDailog">"Réinitialiser les paramètres de l'appareil photo ?"</string>
+    <string name="Title_ChangeMemoryInUseDailog">Utiliser la carte mémoire comme emplacement de stockage par défaut ?</string>
     <string name="Title_InsertMemoryCardDailog">"Insérez une carte mémoire pour utiliser l'appareil photo"</string>
     <string name="OnScreen_HelpTextTouchAF">"Appuyez sur l'écran pour sélectionner une zone"</string>
     <string name="media_scanner_running">"Analyseur de médias en cours d'exécution…"</string>
@@ -211,7 +211,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="camera_security_exit">"La politique de sécurité limite l'utilisation de l'appareil photo. Quittez l'appareil photo"</string>
     <string name="cannot_write_file">"Impossible d'enregistrer le fichier sur la carte SD. La mémoire du périphérique a été définie comme emplacement par défaut"</string>
     <string name="default_storage_changed_to_phone">"La mémoire du téléphone est désormais l'emplacement de stockage par défaut"</string>
-    <string name="default_storage_changed_to_memory_card">Nouveau stockage par défaut : carte mémoire</string>
+    <string name="default_storage_changed_to_memory_card">Nouveau stockage par défaut : carte mémoire</string>
     <string name="context_menu_edit">Modifier les raccourcis</string>
     <string name="not_supported_zoom">"Zoom non pris en charge pendant l'enregistrement d'une vidéo Full HD"</string>
     <string name="zoom_not_available">"Zoom impossible lorsque la taille de l'image est réglée au maximum"</string>
@@ -220,7 +220,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="user_profile_title">Profil utilisateur</string>
     <string name="preview_file_received_title">Prévisualiser le fichier reçu</string>
     <string name="network_title">Recevoir des photos si appareil photo inutilisé</string>
- <!-- à traduire :
+ <!-- à traduire :
     <string name="network_title_chn">Share shot while WLAN Direct connected</string>
  -->
     <string name="done">OK</string>
@@ -264,7 +264,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="singleshotburst_storage_helptext">"La qualité d'enregistrement des photos en rafale est définie sur Bonne"</string>
     <string name="sbeam_helptext">"Prenez des photos et partagez-les avec d'autres périphériques. Rapprochez les périphériques pour ajouter les périphériques que vous souhaitez ajouter via S Beam"</string>
     <string name="storage_setting_dialog_title">Emplacement de stockage</string>
-    <string name="storage_setting_dialog_message">"Carte SD insérée. Modifier l'emplacement de stockage vers la carte SD ?"</string>
+    <string name="storage_setting_dialog_message">"Carte SD insérée. Modifier l'emplacement de stockage vers la carte SD ?"</string>
     <string name="storage_setting_dialog_burstshot_message">Les clichés uniques seront enregistrés sur la carte SD et les photos en rafale sur le périphérique</string>
     <string name="do_not_ask_again">Ne plus afficher</string>
     <string name="shutter">Obturateur</string>
@@ -308,7 +308,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="self_shot_open_warning_popup">La prise de vue automatique ne peut être utilisée que lorsque le téléphone est ouvert</string>
     <string name="self_recording_open_warning_popup">"L'enregistreur automatique ne peut être utilisé que lorsque le téléphone est ouvert"</string>
     <string name="contextual_filename">Nom de fichier contextuel</string>
-    <string name="enable_gps_dialog">Le balisage GPS doit être activé. Activer le balisage GPS ?</string>
+    <string name="enable_gps_dialog">Le balisage GPS doit être activé. Activer le balisage GPS ?</string>
     <string name="face_detected">1 visage a été détecté</string>
     <string name="faces_detected">%d visages ont été détectés</string>
     <string name="face_touched">Mise au point visage</string>
@@ -333,7 +333,7 @@ Activez cette fonction, puis rapprochez les périphériques (en général dos co
     <string name="EFFECT_INTENSITY">"Intensité de l'effet"</string>
     <string name="PICTURES_TO_SAVE">Photos à enregistrer</string>
     <string name="HDR_HELPTEXT1">Combine plusieurs photos prises avec différentes expositions pour créer la meilleure photo</string>
-    <string name="HDR_HELPTEXT2">Dans les options, vous trouverez :</string>
+    <string name="HDR_HELPTEXT2">Dans les options, vous trouverez :</string>
     <string name="HDR_HELPTEXT3">"Sélectionnez l'intensité de l'effet de modification HDR"</string>
     <string name="HDR_HELPTEXT4">"Déterminez s'il convient d'enregistrer les photos HDR et originales ou la photo HDR uniquement"</string>
     <string name="panorama_warning_text_up">Haut</string>

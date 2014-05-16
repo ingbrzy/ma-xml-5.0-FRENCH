@@ -18,7 +18,7 @@
  -->
 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <string-array name="timezone_filters">
         <item>Amérique</item>
@@ -575,7 +575,7 @@ Vous pouvez maintenant transférer des fichiers"</item>
     <string-array name="network_speed_slow_summary">
         <item>Réseau lent en raison d\'un trafic trop important</item>
         <item>Réseau lent en raison de la faible intensité du signal</item>
-        <item>En mouvement…</item> <!-- à revoir ? <item>Moving…</item> = <item>En mouvement…</item> ? -->
+        <item>En mouvement…</item> <!-- à revoir ? <item>Moving…</item> = <item>En mouvement…</item> ? -->
     </string-array>
   <!-- for n5 at least -->
   <string-array name="captioning_typeface_selector_titles">

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
   <!--Sina -->
   <string name="sina_share_pendding">Envoi…</string>
@@ -23,7 +23,7 @@
   <string name="no_more_result">Aucun autre résultat</string>
   
   <string name="downloading">Téléchargement…</string>
-  <string name="download_completed">Téléchargement terminé ! Chemin d\'accès : %s</string>
+  <string name="download_completed">Téléchargement terminé ! Chemin d\'accès : %s</string>
   <string name="download_failed">Échec du téléchargement</string>
   <string name="download_failed_storage">Échec du téléchargement, veuillez vérifier votre carte SD</string>
   <string name="download_failed_network">Échec du téléchargement, veuillez vérifier vos paramètres réseaux</string>
@@ -51,15 +51,15 @@
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d s</string>
-  <string name="callrecordview_item_op_time_short_outgoing">"Sortant : "</string>
-  <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
+  <string name="callrecordview_item_op_time_short_outgoing">"Sortant : "</string>
+  <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
   <string name="callrecordview_item_op_time_missed">Non connecté</string>
   <string name="callrecordview_item_op_time_rejected">Rejeté</string>
   <string name="voicemail">Messagerie vocale</string>
   <string name="menu_delete_one">Retirer l\'élément du journal d\'appels</string>
   <string name="toast_finish_delete_call_log">Le journal d\'appels a été effacé</string>
-  <string name="confirm_delete_call_log_title">Supprimer le journal d\'appels ?</string>
-  <string name="confirm_delete_all_call_log_title">Confirmer la suppression du journal d\'appels ?</string>
+  <string name="confirm_delete_call_log_title">Supprimer le journal d\'appels ?</string>
+  <string name="confirm_delete_all_call_log_title">Confirmer la suppression du journal d\'appels ?</string>
   <string name="contact_detail_calllog_call_record_tips">Enreg. d\'appels</string>
   <string name="contact_detail_calllog_call_note_tips">Notes d\'appel</string>
 
@@ -70,8 +70,8 @@
   <string name="menu_about_yellow_page">À propos de cette page</string>
   <string name="menu_correct_yellow_page">Correction</string>
   <string name="menu_refresh">Actualiser</string>
-  <string name="confirm_to_add_blacklist">Mettre le numéro sélectionné sur liste noire ?</string>
-  <string name="confirm_to_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
+  <string name="confirm_to_add_blacklist">Mettre le numéro sélectionné sur liste noire ?</string>
+  <string name="confirm_to_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
 
   <!-- Mark related -->
   <string name="custom_mark_category">Personnalisé</string>
@@ -107,8 +107,8 @@
   <!-- Recharge related -->
   <string name="recharge_input_phone_title">Entrez un numéro de téléphone (China mobile, China Unicom ou China Telecom)</string>
   <string name="recharge_select_money_title">Veuillez sélectionner une valeur de recharge</string>
-  <string name="recharge_charge_range">Prix : %1$s-%2$s RMB</string>
-  <string name="recharge_charge_value">Prix : %s RMB</string>
+  <string name="recharge_charge_range">Prix : %1$s-%2$s RMB</string>
+  <string name="recharge_charge_value">Prix : %s RMB</string>
   <string name="recharge_pay">Recharger maintenant</string>
   <string name="recharge_pay_hint">Support fourni par Xiaomi</string>
   <string name="mishop_web_payment_title">Panier MiStore</string>
@@ -122,10 +122,10 @@
   <string name="recharge_phone_number_error">Numéro de téléphone non valide.</string>
   <string name="recharge_phone_number_empty">Veuillez saisir votre numéro de téléphone</string>
   <string name="recharge_user_confirm_title">Confirmer</string>
-  <string name="recharge_user_confirm_summary">Vous serez facturé %1$s pour %2$s RMB.\n\nMontant total : %3$s RMB</string>
-  <string name="recharge_order_id">ID de commande :</string>
+  <string name="recharge_user_confirm_summary">Vous serez facturé %1$s pour %2$s RMB.\n\nMontant total : %3$s RMB</string>
+  <string name="recharge_order_id">ID de commande :</string>
   <string name="recharge_status_description">État :</string>
-  <string name="recharge_actual_price">Prix :</string>
+  <string name="recharge_actual_price">Prix :</string>
   <string name="recharge_order_original_price">%s RMB</string>
   <string name="recharge_order_actual_price">%s RMB</string>
   <string name="recharge_order_pay">Commander</string>
@@ -137,11 +137,11 @@
   <!-- 运营商流量套餐相关 -->
   <string name="packages_pay">Acheter</string>
   <string name="packages_pay_confirm">Confirmer l\'achat</string>
- <!-- à traduire :
+ <!-- à traduire :
   <string name="packages_title">Preferential flow of packages</string>  xiaomi: Mobile data packages
  -->
   <string name="select_package_before_buy">Veuillez sélectionner le package que vous souhaitez acheter</string>
-  <string name="packages_select_to_buy_title">Vous choisissez d\'acheter :</string>
+  <string name="packages_select_to_buy_title">Vous choisissez d\'acheter :</string>
   <string name="packages_pay_hint">Envoyer un SMS (gratuit)</string>
   <string name="packages_pay_success">Message envoyé</string>
   <string name="packages_wait_for_op_reply">Veuillez attendre le message de confirmation de l\'opérateur</string>
@@ -158,7 +158,7 @@
   <string name="express_inquiry_serial_number_indication">Numéro de suivi</string>
   <string name="express_inquiry_logistics_indication">Entreprise postale</string>
   <string name="express_inquiry_button_text">Suivre</string>
-  <string name="express_inquiry_serial_number_prefix">"Numéro : "</string>
+  <string name="express_inquiry_serial_number_prefix">"Numéro : "</string>
   <string name="express_inquiry_no_result">Aucun résultat.</string>
   <string name="express_inquiry_internal_failure">Une erreur est survenue.\nVeuillez vérifier le numéro de suivi</string>
   <string name="express_inquiry_data_owner_prefix">Infos de suivi fourni par</string>
@@ -170,8 +170,8 @@
   <string name="express_inquiry_history">Historique</string>
   <string name="express_inquiry_delivered">Livré</string>
   <string name="express_inquiry_no_history">Pas d\'historique</string>
-  <string name="express_inquiry_delete_warning_single">Supprimer l\'élément sélectionné ?</string>
-  <string name="express_inquiry_delete_warning_multiple">Supprimer les %d éléments sélectionnés ?</string>
+  <string name="express_inquiry_delete_warning_single">Supprimer l\'élément sélectionné ?</string>
+  <string name="express_inquiry_delete_warning_multiple">Supprimer les %d éléments sélectionnés ?</string>
   <string name="express_sender">Expéditeur</string>
   <string name="express_sender_info">Info expéditeur</string>
   <string name="express_addressee">Adresse</string>
@@ -181,7 +181,7 @@
   <string name="express_create_order">Créer</string>
   <string name="express_view_order">Voir les commandes</string>
   <string name="express_go_back">Retour</string>
-  <string name="express_address_delete_warning">Êtes-vous sûr ?</string>
+  <string name="express_address_delete_warning">Êtes-vous sûr ?</string>
   <string name="express_sender_name">Nom de l\'expéditeur</string>
   <string name="express_addressee_name">Adresse</string>
   <string name="express_phone">Téléphone</string>
@@ -221,7 +221,7 @@
   <string name="navigation_search_automatically_positioned_city">Ville actuelle</string>
   <string name="navigation_search_positioning">Localisation…</string>
   <string name="navigation_search_positioning_failed">Impossible de localiser la ville</string>
-  <string name="navigation_search_no_city_list">Aucune donnée trouvée !</string>
+  <string name="navigation_search_no_city_list">Aucune donnée trouvée !</string>
   <string name="navigation_search_hot_cities">Populaire</string>
   <string name="navigation_search_all_cities">Toutes les villes</string>
 
@@ -229,7 +229,7 @@
   <string name="order_empty_hint">Aucune commande</string>
   <string name="order_merchant_title">Mes commandes</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
-  <string name="order_id">Ref. commande : %s</string>
+  <string name="order_id">Ref. commande : %s</string>
   <string name="order_status">%s</string>
   <string name="order_price">%s</string>
 

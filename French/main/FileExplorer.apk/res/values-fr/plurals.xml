@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <plurals name="delete_files_confirm">
         <item quantity="other">Supprimer %1$d fichiers</item>
@@ -11,12 +11,12 @@
         <item quantity="many">Supprimer %1$d fichiers</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-        <item quantity="other">" et %1$d dossiers ?"</item>
-        <item quantity="zero">" et %1$d dossier ?"</item>
-        <item quantity="one">" et %1$d dossier ?"</item>
-        <item quantity="two">" et %1$d dossiers ?"</item>
-        <item quantity="few">" et %1$d dossiers ?"</item>
-        <item quantity="many">" et %1$d dossiers ?"</item>
+        <item quantity="other">" et %1$d dossiers ?"</item>
+        <item quantity="zero">" et %1$d dossier ?"</item>
+        <item quantity="one">" et %1$d dossier ?"</item>
+        <item quantity="two">" et %1$d dossiers ?"</item>
+        <item quantity="few">" et %1$d dossiers ?"</item>
+        <item quantity="many">" et %1$d dossiers ?"</item>
     </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d éléments</item>
