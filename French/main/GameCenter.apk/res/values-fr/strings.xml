@@ -341,7 +341,7 @@
     <string name="main_search_hint">Search games</string>
     <string name="more_subjects">View all featured games</string>
     <string name="subject_lists">Collections</string>
-    <string name="update_new_version_available">(Nouvelle version disponible)</string>
+    <string name="update_new_version_available">(nouvelle version disponible)</string>
     <string name="client_update_now">Mettre à jour</string>
     <string name="client_do_not_update_now">Plus tard</string>
     <string name="update_success">Mise à jour effectuée !</string>
@@ -418,7 +418,7 @@
     <string name="gender_female">Femme</string>
     <string name="dialog_birthday_title">Anniversaire</string>
     <string name="txt_hide_my_birthday">Cacher</string>
-    <string name="dialog_nick_name_title">Mon pseudo</string>
+    <string name="dialog_nick_name_title">Mon surnom</string>
     <string name="modify_nick_name_hint">Surnom (2-12 caractères; lettres ou numéros)</string>
     <string name="recharge_alipay_title">Zhifubao</string>
     <string name="recharge_alipay_detail">Top up with Zhifubao</string>
