@@ -96,7 +96,7 @@
     <string name="issu_process_person">Service staff: %s</string>
     <string name="issu_processing">Received</string>
     <string name="issu_processed">Processed</string>
-    <string name="issu_evaluated">Feedback</string>
+    <string name="issu_evaluated">Assistance en ligne</string>
     <string name="issu_satisfied">Satisfied</string>
     <string name="issu_no_satisfied">Thank you for your feedback!</string>
     <string name="issu_comm_evaluated">Feedback</string>
@@ -191,7 +191,7 @@
     <string name="vip_home_vip_top_level">You are our Top VIP.</string>
     <string name="all_gifts">Tous</string>
     <string name="all_games">Tous</string>
-    <string name="last_recommend_gift">Packs cadeau</string>
+    <string name="last_recommend_gift">Packs cadeaux</string>
     <string name="my_games">Mes jeux</string>
     <string name="title_level">Niveau</string>
     <string name="title_intergral">Points</string>
@@ -242,7 +242,7 @@
     <string name="online_game_hot">Sélection</string>
     <string name="online_game_new">Nouveautés</string>
     <string name="online_game_beta">Betas</string>
-    <string name="online_game_gift">Packs cadeau</string>
+    <string name="online_game_gift">Packs cadeaux</string>
     <string name="menu_search">Recherche</string>
     <string name="menu_preferences">Paramètres</string>
     <string name="menu_install_all">Tout installer</string>
@@ -253,7 +253,9 @@
     <string name="pref_title_auto_update_setting">Auto-update</string>
     <string name="pref_title_update_onlyby_wifi">Only update via Wi-Fi</string>
     <string name="pref_title_data_save_mode">Reduce mobile data usage</string>
-    <string name="pref_title_clear_search_record">Clear search history</string>
+    <string name="pref_summary_data_save_mode">Image not loaded via data access</string>
+    <string name="cue_title_data_save_mode">Reduce mobile data usage，image not loaded</string>
+    <string name="pref_title_clear_search_record">Effacer l\'historique des recherches</string>
     <string name="pref_summary_update_notification">Tell me when there are game updates</string>
     <string name="pref_summary_auto_update_setting">Notify me when a download completes</string>
     <string name="pref_title_reserve_apk">Reserve apk</string>
@@ -379,12 +381,12 @@
     <string name="loading">Chargement…</string>
     <string name="account_tag">Mibi</string>
     <string name="home_tag">Sélection</string>
-    <string name="pref_clear_search_history_title">Vider l\'historique</string>
+    <string name="pref_clear_search_history_title">Effacer l\'historique</string>
     <string name="pref_clear_image_cache">Vider le cache</string>
     <string name="pref_clear_image_cache_toast">Cache vidé</string>
     <string name="pref_clear_image_cache_dialog">Vider le cache ?</string>
     <string name="pref_clear_search_history_summary">Efface tout les mots-clés recherchés</string>
-    <string name="clear_search_history_success">Historique vidé</string>
+    <string name="clear_search_history_success">Historique effacé</string>
     <string name="button_text_register">S\'enregistrer</string>
     <string name="button_text_login">Connexion</string>
     <string name="head_text_login">Connexion à un compte Mi</string>
@@ -477,7 +479,7 @@
     <string name="today_no_purchase_record">Aucun achat</string>
     <string name="this_month_no_purchase_record">Aucun achat</string>
     <string name="user_name_or_psw_empty">Saisir le nom d\'utilisateur et mot de passe.</string>
-    <string name="psw_invalid">Mot de passe incorrect/string>
+    <string name="psw_invalid">Mot de passe incorrect</string>
     <string name="login_with_xiaomi_account">Log in with your Xiaomi account</string>
     <string name="txt_xiaomi_id">Xiaomi ID: %s</string>
     <string name="no_local_game">"You haven't installed any games."</string>
@@ -621,9 +623,7 @@
     <string name="update_notify_summary">Notify me of game updates</string>
     <string name="new_edition_sync_title">Keep me updated</string>
     <string name="new_edition_sync_summary">Auto-update via WLAN</string>
-    <string name="pref_summary_data_save_mode">Image not loaded via data access</string>
     <string name="app_detail_tab_rating">Rating</string>
-    <string name="cue_title_data_save_mode">Reduce mobile data usage，image not loaded</string>
     <string name="update_game_update">Update immediate.</string>
     <string name="update_game_ignore">Ignore update of this game.</string>
     <string name="update_game_ignore_text">%d games ignore update.</string>
@@ -643,7 +643,7 @@
     <string name="view_vip_levelup">Comment mettre à niveau ?</string>
     <string name="gift_receiving">Receiving...</string>
     <string name="gift_pack_gift_count">%1$s pack(s) cadeau</string>
-    <string name="gift_pack_my_gift_empty">Vos packs cadeau seront afficher ici</string>
+    <string name="gift_pack_my_gift_empty">Vos packs cadeaux seront afficher ici</string>
     <string name="gift_pack_my_gift_login">Please login to apply gift packs</string>
     <string name="gift_pack_my_gift_login_alert">Please login to apply gift packs</string>
     <string name="gift_pack_gift_applied">Applied</string>
@@ -665,7 +665,7 @@
     <string name="gift_copied_exchange_code">Code copié dans le presse-papier</string>
     <string name="gift_time_start">start</string>
     <string name="gift_time_end">end</string>
-    <string name="gift_pack">Packs cadeau</string>
+    <string name="gift_pack">Packs cadeaux</string>
     <string name="gift_pack_list_end">"No gifts you like? Try 'Search' on the upper right corner"</string>
     <string name="gift_pack_vip_level_limit">Sorry，this gift is for VIP%1$s and above users only</string>
     <string name="gift_pack_list_empty">There is no gift now</string>
@@ -683,7 +683,7 @@
     <string name="button_text_recharge">Recharger</string>
     <string name="mibi_tab_format_xiaomi_account">Compte Mi : %s</string>
     <string name="mibi_tab_item_more">Plus</string>
-    <string name="mibi_tab_item_voucher">Game vouchers</string>
+    <string name="mibi_tab_item_voucher">Coupons de jeu</string>
     <string name="account_more_info_integral">Utiliser les points</string>
     <string name="account_more_info_grade">Niveau et points d\'expérience</string>
     <string name="mibi_tab_accoun_title">Informations compte</string>
@@ -696,7 +696,7 @@
     <string name="promotion_detail_none">Aucune promotion</string>
     <string name="promotion_detail_error">fail to get promotion information</string>
     <string name="purchase_mibi">%sMiCredits</string>
-    <string name="tab_mytickets">My vouchers</string>
+    <string name="tab_mytickets">Mes coupons</string>
     <string name="tab_history">Achats</string>
     <string name="ticket_detail_title">Voucher details</string>
     <string name="order_detail_title">Details of the Purchase</string>
@@ -704,8 +704,8 @@
     <string name="order_detail_order_name">Name of Commodity: &lt;font color=#787878>%s&lt;/font></string>
     <string name="order_detail_order_amount">Amount: &lt;font color=#787878>%s&lt;/font>米币</string>
     <string name="order_detail_order_date">LogTime: &lt;font color=#787878>%s&lt;/font></string>
-    <string name="ticket_list_empty_text">You do not already have the game voucher</string>
-    <string name="order_list_empty_text">You have no purchase</string>
+    <string name="ticket_list_empty_text">Aucun coupon de jeu</string>
+    <string name="order_list_empty_text">Aucun achat effectué</string>
     <string name="ticket_detail_button_get">Receive</string>
     <string name="ticket_detail_get_text">Received</string>
     <string name="ticket_detail_overdue">Expired</string>
@@ -713,8 +713,8 @@
     <string name="get_new_ticket_failed">Receive failed</string>
     <string name="ticket_source_text">%s</string>
     <string name="voucher_total">Total vouchers:</string>
-    <string name="ticket_empty_loading_view_text2">&lt;font color=#000000>What is Game voucher？&lt;/font>&lt;br> &lt;font color=#99000000>Game voucher is the center of the game pad issued to a Credit Voucher, you can use to Millet game center of combined transport as a cash credit voucher to spend in the online game&lt;/font></string>
-    <string name="ticket_detail_desc_text">&lt;font color=#99000000>Tips：&lt;/font>&lt;br> &lt;font color=#99000000>Game voucher can be offset against the cash in the game&lt;/font></string>
+    <string name="ticket_empty_loading_view_text2">&lt;font color=#000000>Qu\'est ce qu\'un coupon de jeu ?&lt;/font>&lt;br> &lt;font color=#99000000>Game voucher is the center of the game pad issued to a Credit Voucher, you can use to Millet game center of combined transport as a cash credit voucher to spend in the online game&lt;/font></string>
+    <string name="ticket_detail_desc_text">&lt;font color=#99000000>Astuce : &lt;/font>&lt;br> &lt;font color=#99000000>Game voucher can be offset against the cash in the game&lt;/font></string>
     <string name="from_gamecenter_download">Download From the GameCenter</string>
     <string name="account_more_info_vip">VIP</string>
     <string name="loading_default_text">Chargement…</string>
