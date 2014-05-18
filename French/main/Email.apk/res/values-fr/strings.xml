@@ -908,7 +908,7 @@ pièce jointe dépasse la limite autorisée"</string>
   <string name="wait_for_sync_body_txt_array_3">secondes. Veuillez confirmer les paramètres de sécurité et d\'activation.Prenez garde aux</string>
   <string name="wait_for_sync_body_txt_array_4">alertes système</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
-  <string name="wait_for_sync_note">Veuillez faire glisser la barre de notification vers le bas et toucher pour finir les paramètres de sécurité.</string> 
+  <string name="wait_for_sync_note">Veuillez faire glisser la barre de notification vers le bas et toucher pour finir les paramètres de sécurité.</string>
   <string name="parase_setup_data">Obtention des données de configuration…</string>
   <string name="allread">Tous lus</string>
   <!-- 校验!-->

@@ -6,7 +6,7 @@
   <string name="activate_phone_send_sms_fail">Échec de l\'envoi du SMS d\'activation, impossible d\'ouvrir le service de synchronisation</string>
   <string name="activate_phone_send_sms_failed_notif">Échec de l\'envoi du SMS d\'activation</string>
   <string name="activate_phone_server_error">Erreur de serveur, impossible d\'ouvrir le service de synchronisation</string>
-  <string name="activate_phone_server_error_notif">Erreur de serveur</string> 
+  <string name="activate_phone_server_error_notif">Erreur de serveur</string>
   <string name="activate_status_desc_getting_device_info">Obtention d\'informations de l\'appareil</string>
   <string name="activate_status_desc_failed_getting_device_info">Impossible d\'obtenir les informations de l\'appareil</string>
   <string name="activate_status_desc_failed_getting_sim_info">Impossible d\'obtenir les informations de la carte SIM</string>

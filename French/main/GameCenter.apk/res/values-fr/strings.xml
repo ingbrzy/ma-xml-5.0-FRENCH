@@ -17,7 +17,7 @@
     <string name="no_fitness">Oops!No results found</string>
     <string name="no_data">"Couldn't connect to network. Please check your network settings."</string>
     <string name="vip_jifen_text">%d Points</string>
-    <string name="vip_level_expried_text">Expire : %s</string>
+    <string name="vip_level_expried_text">Expire : %s</string>
     <string name="unknown_user_name">MiGamer888</string>
     <string name="login_now_text">Connexion</string>
     <string name="gift_free">Gratuit</string>
@@ -44,7 +44,7 @@
     <string name="remain_text_withnum">%s restants</string>
     <string name="jifen_text">Points :</string>
     <string name="login_fail">Connexion échouée.</string>
-    <string name="login_fail_with_errcode">Connexion échouée : errCode=%d</string>
+    <string name="login_fail_with_errcode">Connexion échouée : errCode=%d</string>
     <string name="title_gift">GamePacks</string>
     <string name="vip_title_gift">GamePacks</string>
     <string name="no_gift">Épuisé</string>
@@ -287,7 +287,7 @@
     <string name="bytes">%1$s/%2$s</string>
     <string name="pending">En attente</string>
     <string name="paused">En pause</string>
-    <string name="paused_with_reason">&lt;font color=#909090>En pause : %1$s%%&lt;/font> &lt;font color=#f76811>%2$s&lt;/font></string>
+    <string name="paused_with_reason">&lt;font color=#909090>En pause : %1$s%%&lt;/font> &lt;font color=#f76811>%2$s&lt;/font></string>
     <string name="install_pause_with_reason">&lt;font color=#f76811>%1$s&lt;/font></string>
     <string name="connecting">Connexion…</string>
     <string name="verifying">Vérification…</string>
@@ -346,11 +346,11 @@
     <string name="update_new_version_available">(nouvelle version disponible)</string>
     <string name="client_update_now">Mettre à jour</string>
     <string name="client_do_not_update_now">Plus tard</string>
-    <string name="update_success">Mise à jour effectuée !</string>
+    <string name="update_success">Mise à jour effectuée !</string>
     <string name="update_Discard_Read_Feature">Annuler</string>
     <string name="update_Read_Feature">Voir le changelog</string>
     <string name="client_download_start">Télécharger</string>
-    <string name="downloadComplete">Téléchargement effectué !</string>
+    <string name="downloadComplete">Téléchargement effectué !</string>
     <string name="category_info_invalid">Category info invalid</string>
     <string name="no_subject_info">Cette catégorie n\'existe plus.</string>
     <string name="check_update">Vérification des mises à jour…</string>
@@ -549,7 +549,7 @@
     <string name="good_comments">Positifs</string>
     <string name="bad_comments">Négatifs</string>
     <string name="welcome_title">Bienvenu !</string>
-    <string name="welcome_subtitle">Essayez ces jeux !</string>
+    <string name="welcome_subtitle">Essayez ces jeux !</string>
     <string name="game_detail_tab">Détails</string>
     <string name="game_comments_tab">Commentaires</string>
     <string name="gamedetail_screenshot_video">%1$s vidéo</string>
@@ -639,8 +639,8 @@
     <string name="gift_pack_install_game_title">Gift could only be applied for after the game is installed</string>
     <string name="gift_pack_install_game_info">Please apply for the gift after %1$s is installed</string>
     <string name="view_exchange_code">Check exchange code</string>
-    <string name="view_get_point">Comment recevoir des points ?</string>
-    <string name="view_vip_levelup">Comment mettre à niveau ?</string>
+    <string name="view_get_point">Comment recevoir des points ?</string>
+    <string name="view_vip_levelup">Comment mettre à niveau ?</string>
     <string name="gift_receiving">Receiving...</string>
     <string name="gift_pack_gift_count">%1$s pack(s) cadeau</string>
     <string name="gift_pack_my_gift_empty">Vos packs cadeaux seront afficher ici</string>
@@ -655,8 +655,8 @@
     <string name="gift_pack_gift_count_down_day">%1$s days to buy</string>
     <string name="gift_pack_gift_count_down_hour">%1$s hours to buy</string>
     <string name="gift_pack_gift_count_down_minute">%1$s minutes to buy</string>
-    <string name="gift_pack_gift_remain">Restant : %1$s</string>
-    <string name="gift_pack_gift_remain_gift_item">Restant : %1$s</string>
+    <string name="gift_pack_gift_remain">Restant : %1$s</string>
+    <string name="gift_pack_gift_remain_gift_item">Restant : %1$s</string>
     <string name="gift_pack_contents">Contents:</string>
     <string name="gift_pack_exchange_confirm">Do you confirm exchange the gift with %1$s points?</string>
     <string name="gift_pack_exchange_success">%1$s Got!</string>
@@ -669,7 +669,7 @@
     <string name="gift_pack_list_end">"No gifts you like? Try 'Search' on the upper right corner"</string>
     <string name="gift_pack_vip_level_limit">Sorry，this gift is for VIP%1$s and above users only</string>
     <string name="gift_pack_list_empty">There is no gift now</string>
-    <string name="gift_pack_gift_tips">Astuce : %1$s</string>
+    <string name="gift_pack_gift_tips">Astuce : %1$s</string>
     <string name="gift_pack_load_info_fail">fail to get Gift information</string>
     <string name="game_category">Catégorie</string>
     <string name="specific_category">Spécial</string>
@@ -681,7 +681,7 @@
     <string name="mibi_tab_online_platform_promotion">Platform promotion</string>
     <string name="mibi_tab_online_game_promotion">Game promotion</string>
     <string name="button_text_recharge">Recharger</string>
-    <string name="mibi_tab_format_xiaomi_account">Compte Mi : %s</string>
+    <string name="mibi_tab_format_xiaomi_account">Compte Mi : %s</string>
     <string name="mibi_tab_item_more">Plus</string>
     <string name="mibi_tab_item_voucher">Coupons de jeu</string>
     <string name="account_more_info_integral">Utiliser les points</string>
@@ -713,8 +713,8 @@
     <string name="get_new_ticket_failed">Receive failed</string>
     <string name="ticket_source_text">%s</string>
     <string name="voucher_total">Total vouchers:</string>
-    <string name="ticket_empty_loading_view_text2">&lt;font color=#000000>Qu\'est ce qu\'un coupon de jeu ?&lt;/font>&lt;br> &lt;font color=#99000000>Game voucher is the center of the game pad issued to a Credit Voucher, you can use to Millet game center of combined transport as a cash credit voucher to spend in the online game&lt;/font></string>
-    <string name="ticket_detail_desc_text">&lt;font color=#99000000>Astuce : &lt;/font>&lt;br> &lt;font color=#99000000>Game voucher can be offset against the cash in the game&lt;/font></string>
+    <string name="ticket_empty_loading_view_text2">&lt;font color=#000000>Qu\'est ce qu\'un coupon de jeu ?&lt;/font>&lt;br> &lt;font color=#99000000>Game voucher is the center of the game pad issued to a Credit Voucher, you can use to Millet game center of combined transport as a cash credit voucher to spend in the online game&lt;/font></string>
+    <string name="ticket_detail_desc_text">&lt;font color=#99000000>Astuce : &lt;/font>&lt;br> &lt;font color=#99000000>Game voucher can be offset against the cash in the game&lt;/font></string>
     <string name="from_gamecenter_download">Download From the GameCenter</string>
     <string name="account_more_info_vip">VIP</string>
     <string name="loading_default_text">Chargement…</string>
