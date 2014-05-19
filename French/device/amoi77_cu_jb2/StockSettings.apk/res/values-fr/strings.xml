@@ -11,7 +11,7 @@
     <string name="record_sound">Son déclencheur vidéo</string>
     <string name="focus_sound">Son mise au point</string>
     <string name="srs">Son SRS</string>
-    <string name="operation">Opération</string>
+    <string name="operation">Mode opérationnel</string>
     <string name="mipop">MIPop</string>
     <string name="flash_recovery">Flasher le Recovery</string>
     <string name="toolbox">Outils</string>
@@ -21,7 +21,7 @@
     <string name="default_sdcard">Carte SD par défaut</string>
     <string name="myappscreenmask">Filtre d\'écran</string>
     <string name="myappscreenmask_enter">Accès aux réglages</string>
-  <!-- à traduire ? 
+  <!-- à traduire ? Menus absents dans la version actuelle au 20140516
     <string name="schedulepoweronoff_enter">Enter Schedule power on off</string>
     <string name="camera_about">Camera Sound Switch</string>
     <string name="mipop_virtualkeys">MIPop Virtualkeys</string>
@@ -29,7 +29,7 @@
     <string name="weibo">Click here to visit my weibo.</string>
     <string name="radioinfo">Network Selecting</string>
     <string name="radioinfo_enter">Enter Network Selecting</string>
-    <string name="crt">CRT</string>
-    <string name="crt_enter">Enter CRT</string>
   -->
+    <string name="crt">Effet cathodique extinction écran</string>
+    <string name="crt_enter">Activer l\'effet</string>
 </resources>
