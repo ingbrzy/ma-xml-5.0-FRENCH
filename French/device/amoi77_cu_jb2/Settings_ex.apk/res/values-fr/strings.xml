@@ -12,9 +12,9 @@ Note importante : avant d'installer une nouvelle application pensez à désacti
 Ndt : les libellés sont intégrés au code du logiciel, il n'y aura pas de traduction disponible".</string>
     <string name="share_title">Continuer avec</string>
   <!-- à traduire ? 
-    <string name="share_toast">把软件分享给好友吧！</string> 
+    <string name="share_toast">把软件分享给好友吧！</string>
     <string name="str_share_text">"嗨，分享一个安卓上好用的软件给你哦，“护目镜（屏幕调节器）增强版”是安卓上好用的护眼和调节屏幕色温的应用，能在晚上使用手机时获得更低的屏幕亮度有效保护您的眼镜，同时也支持调节屏幕色温，方便实用无广告！赶紧去应用汇搜索下载试试吧！
-http://www.appchina.com/app/cn.mixiaoxiao.myappscreenmask/"</string> 
+http://www.appchina.com/app/cn.mixiaoxiao.myappscreenmask/"</string>
     <string name="title_activity_toggle">护目开关</string>
   -->
     <string name="action_settings">Paramètres</string>

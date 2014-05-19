@@ -356,7 +356,7 @@
   <string name="select_device">Select device</string>
   <string name="volume_alert_playback_alert_title">Volume alert</string>
   <string name="volume_alert_playback_message">To prevent possible hearing damage, do not listen at high volume levels for long periods.</string>
----------------------
+
  
   <string name="sync_disable_toast">You can always enable sync later in Settings > Accounts > Mi Cloud</string>
   <string name="login_and_enable">Sign in and sync</string>

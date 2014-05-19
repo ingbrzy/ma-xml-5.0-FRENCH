@@ -26,10 +26,10 @@
     <string name="camera_about">Camera Sound Switch</string>
     <string name="mipop_virtualkeys">MIPop Virtualkeys</string>
     <string name="about">Author Information</string>
-    <string name="weibo">Click here to visit my weibo.</string> 
-    <string name="radioinfo">Network Selecting</string> 
+    <string name="weibo">Click here to visit my weibo.</string>
+    <string name="radioinfo">Network Selecting</string>
     <string name="radioinfo_enter">Enter Network Selecting</string>
     <string name="crt">CRT</string>
-    <string name="crt_enter">Enter CRT</string> 
+    <string name="crt_enter">Enter CRT</string>
   -->
 </resources>
