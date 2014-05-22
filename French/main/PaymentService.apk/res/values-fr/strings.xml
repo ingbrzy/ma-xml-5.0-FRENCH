@@ -152,7 +152,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockpattern_need_to_confirm">Redessinez le schéma pour confirmer :</string>
   <string name="lockpattern_need_to_confirm_wrong">Ne correspond pas au schéma précédent, veuillez recommencer :</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Schéma non valide, %d tentatives restantes&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Schéma non valide, %d tentatives restantes&lt;/font></string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Votre nouveau schéma de déverrouillage :</string>
   <string name="lockpattern_pattern_entered_header">Schéma enregistré.</string>
@@ -191,7 +191,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_progress_hint_2_2">Vous recevrez un texte de confirmation sous peu.</string>
   <string name="msg_telecom_sending">Mise en contact avec votre fournisseur de réseau…</string>
   <string name="order_price">%1$s MiCredits</string>
-  <string name="password_error">Veuillez saisir votre mot de passe</string>
+  <string name="password_error">Mot de passe incorrect, veuillez réessayez</string>
   <string name="password_forget">Mot de passe oublié ?</string>
   <string name="password_hint">Veuillez saisir votre mot de passe Xiaomi :</string>
   <string name="pay_record_empty">Aucun historique de paiement</string>

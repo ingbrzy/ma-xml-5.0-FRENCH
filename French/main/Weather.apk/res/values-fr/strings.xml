@@ -125,7 +125,7 @@
     <string name="act_weather_cycle_no_forcast">Inconnu</string>
     <string name="button_abandon">Annuler les modifications</string>
     <string name="act_weather_find_city_net_no_good">Impossible de ce connecter au réseau</string>
-    <string name="act_weather_find_city_click_retry">Appuyer pour réessayer</string>
+    <string name="act_weather_find_city_click_retry">Réessayer</string>
     <string name="location_tag">Localiser</string>
     <string name="act_weather_find_city_no_result">Aucun résultat</string>
     <string name="act_weather_find_city_added">Ville ajoutée</string>

@@ -125,6 +125,7 @@
   <string name="context_menu_browse_web">Parcourir</string>
   <string name="context_menu_call">Appeler</string>
   <string name="context_menu_contact">Contact : %1$s</string>
+  <string name="context_menu_add_calendar">Ajouter au Calendrier</string>
   <string name="context_menu_copy">Copier</string>
   <string name="context_menu_copy_notice">Sélection copiée dans le presse papier</string>
   <string name="context_menu_new_contact">Nouveau contact</string>

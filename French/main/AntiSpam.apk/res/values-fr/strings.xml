@@ -23,8 +23,10 @@
   <string name="dlg_clear_current_sms">Supprimer tous les SMS bloqués de ce numéro ?</string>
   <string name="dlg_delete_keyword">Supprimer les mots clés sélectionnés ?</string>
   <string name="dlg_edit_keyword">Éditer le mot clé</string>
-  <string name="dlg_import_blacklist">Importation à la liste noire</string>
-  <string name="dlg_import_whitelist">Importation à la liste blanche</string>
+  <string name="dlg_import_blacklist">Ajout à la liste noire…</string>
+  <string name="dlg_remove_blacklist_ing">Suppression de la liste noire…</string>
+  <string name="dlg_import_whitelist">Ajout à la liste blanche…</string>
+  <string name="dlg_remove_whitelist_ing">Suppression de la liste blanche…</string>
   <string name="dlg_keyword_ok">Sauvegarder</string>
   <string name="dlg_no_block">Ne pas bloquer ce numéro ?</string>
   <string name="dlg_no_block_ok">Ne pas bloquer</string>
@@ -140,7 +142,7 @@
   <string name="st_antispam_des_anti">Bloquer</string>
   <string name="st_antispam_des_smart_anti">Liste noire intelligente</string>
   <string name="st_antispam_des_permit">Autoriser</string>
-  <string name="st_antispam_des_uesless">Inefficace</string>
+  <string name="st_antispam_des_uesless">Désactivé</string>
   <string name="st_antispam_des_permit_nokeyword">Autoriser (à l\'exception des mots-clés)</string>
   <string name="info_antispam_sms">Bloquer les messages</string>
   <string name="info_antispam_phone">Bloquer les appels</string>
@@ -217,6 +219,7 @@
   <string name="st_title_adress_num">%d sélectionné</string>
   <string name="SMS_BLACKLIST">Messages en liste noire</string>
   <string name="SMS_PREFIX">Préfixe en liste noire</string>
+  <string name="SMS_DEFAULT">Liste noire intelligente</string>
   <string name="SMS_MODENAME">Liste noire par défaut</string>
   <string name="SMS_KEYWORDS">Mots clés en liste noire</string>
   <string name="SMS_ADRESS">Lieu en liste noire</string>
@@ -225,6 +228,7 @@
   <string name="Call_MODENAME">Liste noire par défaut</string>
   <string name="Call_ADRESS">Lieu en liste noire</string>
   <string name="Call_PRIVATE_CALL">Appels privés</string>
+  <string name="Call_DEFAULT">Liste noire intelligente</string>
   <string name="PAST_BLOCK">Précédemment bloqué</string>
   <string name="AD_AntiSpam">Bloquer les sollicitations</string>
   <string name="AD_SCANNING">Analyse en cours…</string>
@@ -246,4 +250,11 @@
   <string name="ad_install_monitor_hint">vérifier la présence de publiciels lors de l\'installation d\'applications</string>
   <string name="ad_update_setting">Mettre à jour les paramètres d\'ajouts de blocage</string>
   <string name="menu_wh_remove">Supprimer de la liste blanche</string>
+  <string name="NACaddnumcontent">Saisir le numéro</string>
+  <string name="ACaddnumcontent">Saisissez le numéro, vous pouvez utilisez le joker *</string>
+  <string name="sms_delete_hint">Supprimer tous les messages bloqués envoyés depuis le numéro sélectionné ?</string>
+  <string name="call_delete_hint">Supprimer tous les appels bloqués émis depuis le numéro sélectionné ?</string>
+  <!-- à traduire 4.5.21
+  <string name="backsound_set_hint">Set your backsound to %s?</string>
+  -->
 </resources>

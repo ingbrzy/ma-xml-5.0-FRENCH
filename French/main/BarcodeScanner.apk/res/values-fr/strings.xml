@@ -17,7 +17,7 @@
     <string name="title">Titre :</string>
     <string name="web">Web :</string>
     <string name="copy_succeed">Copie effectuée</string>
-    <string name="place_barcode_into_rectangle">Placez le code QR ou code barre dans le rectangle</string>
+    <string name="place_barcode_into_rectangle">Placez le code QR ou code barre dans le viseur</string>
     <string name="scan_fail">L\'analyse a échouée</string>
     <string name="open_flash_error">Impossible d\'activer le flash</string>
     <string name="close_flash_error">Impossible de désactiver le flash</string>

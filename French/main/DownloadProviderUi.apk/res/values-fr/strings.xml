@@ -77,4 +77,5 @@
   <string name="xunlei_switch">Accélérateur de télécharg. Xunlei</string>
   <string name="turn_off_xunlei_message">Votre vitesse de téléchargement sera, peut-être, réduite.</string>
   <string name="turn_off_xunlei_title">Désactiver l\'accélérateur Xunlei ?</string>
+  <string name="paused_insufficient_space">En attente, espace insuffisant</string>
 </resources>

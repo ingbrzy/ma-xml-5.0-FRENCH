@@ -110,6 +110,7 @@
   <string name="timer_continue">Reprendre</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_message">Le délai de %1$d minute(s) est écoulé</string>
+  <string name="timer_message_with_seconds">Le délai de %1$d secondes est écoulé</string>
   <string name="timer_message_with_hour">Le délai de %1$d heure(s) et %2$d minute(s) est écoulé</string>
   <string name="timer_start_alarm">Temps écoulé !</string>
   <string name="timer_title">Minuteur</string>

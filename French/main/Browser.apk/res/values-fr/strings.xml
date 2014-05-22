@@ -20,6 +20,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+
+ <!-- supprimé dans mi2s 4.5.21 -->
+  <string name="network_show_wifi_setting_tip_dialog_notshow">Se souvenir de mon choix</string>
  <!-- supprimé dans mi2s 4.4.15 -->
   <string name="accessibility_button_addbookmark">Ajouter aux favoris</string>
   <string name="accessibility_button_back">Précédent</string>
@@ -356,7 +359,6 @@
   <string name="network_show_wifi_setting_tip_dialog_setting_title">Si vous utilisez le réseau mobile pour accéder à internet, MIUI vous avertira si une connexion Wi-Fi est disponible à proximité</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Connexion Wi-Fi locale disponible</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Souhaitez-vous vous connecter ?</string>
-  <string name="network_show_wifi_setting_tip_dialog_notshow">Se souvenir de mon choix</string>
   <string name="new_incognito_tab">Nouvel onglet navigation privée</string>
   <string name="new_tab">Nouvel onglet</string>
   <string name="not_remind_again">Ne plus me le rappeler</string>
@@ -391,7 +393,7 @@
   <string name="pref_content_autofit_summary">Configurer les pages Web pour qu\'elles s\'ajustent à l\'écran</string>
   <string name="pref_content_block_float_popups">Bloquer les pop-ups flottants</string>
   <string name="pref_content_block_popups">Bloquer les pop-ups</string>
-  <string name="pref_content_cloud_speedup">Activer accélération Cloud</string>
+  <string name="pref_content_cloud_speedup">Activer l\'accélération Cloud</string>
   <string name="pref_content_fontsize_setting">Paramètres de police</string>
   <string name="pref_content_homepage">Définir la page d\'accueil</string>
   <string name="pref_content_javascript">Activer JavaScript</string>
@@ -566,8 +568,6 @@
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Rech. ou saisir l\'URL</string>
-  <!-- Do not translate.  This string is not displayed in UI (no badge is selected for go to). 
-  <string name="search_label">Navigateur</string> -->
   <string name="search_s139">139</string>
   <string name="search_settings_description">Favoris et historique Web</string>
   <string name="search_shipin">Video</string>
@@ -730,4 +730,9 @@
   <string name="xiaomi_bookmark_title">Xiaomi</string>
   <string name="ssl_certificate">Certificat de sécurité</string>
   <string name="ssl_certificate_is_valid">Ce certificat est valide.</string>
+  <string name="snapshot_successed">Enregistrement pour lecture hors-ligne effectué</string>
+  <string name="dont_remind_again">Se souvenir de mon choix</string>
+  <string name="use_cellular_network_alert_title">Avertissement</string>
+  <string name="use_cellular_network_alert_message">Wi-Fi non disponible, utiliser le réseau mobile ?</string>
+  
 </resources>
