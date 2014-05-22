@@ -188,7 +188,5 @@
   <string name="yesterday_total_traffic_format">%s Trafic d\'hier</string>
   <string name="today_total_traffic_format">%s Trafic d\'aujourd\'hui</string>
   <string name="this_month_total_traffic_format">%s Trafic du mois</string>
- <!-- à traduire :
-  <string name="another_sim_card_adjusting">Another SIM card is adjusting.</string>
- -->
+  <string name="another_sim_card_adjusting">Une autre carte SIM est en cours d\'utilisation.</string>
 </resources>

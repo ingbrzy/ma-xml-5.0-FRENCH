@@ -5,6 +5,10 @@
   <!-- removed 4.3.19:  -->
   <string name="resource_account_current">Compte : %1$s</string>
   <!-- -->
+  <string name="apply_default_font_tip">Souhaitez-vous continuer à utiliser la police actuelle ?</string>
+  <string name="theme_yes">Oui</string>
+  <string name="theme_no">Non</string>
+  <string name="theme_fresh_man_notifaction">Nouveaux thèmes disponibles, vous pouvez les essayez.</string>
   <string name="resource_delete">Supprimer</string>
   <string name="all_resources">Tout</string>
   <string name="all_ringtone_resource">Tout</string>

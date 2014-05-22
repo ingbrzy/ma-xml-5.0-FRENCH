@@ -4010,11 +4010,6 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="pref_summary_cleanup_white_list">Les éléments de la liste blanche sont ignorés</string>
   <string name="pref_summary_garbage_cleanup_check_size">Avertir si la poubelle dépasse la taille définie</string>
   <string name="dialog_msg_load_cleanup_engine_error">Outil de nettoyage endommagé, il peut être est nécessaire de réinstaller la ROM</string>
- <!-- à traduire 
-  <string name="bt_trace_log">Enable Bluetooth Trace log</string>
-  <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
-  <string name="button_text_view_power">View power</string>
-  -->
   
   <!-- for n5 at least.. : -->
   <string name="force_rtl_layout_all_locales_summary">Forcer orient. droite à gauche pour toutes langues</string>
@@ -4186,7 +4181,12 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="dialog_message_auto_start_tips">Certaines applications de sécurité peuvent incorrectement indiquer que MIUI empêche leur fonctionnement correct. Pour vérifier les permissions accordées aux applications, allez dans Paramètres > Applications.</string>
   <string name="dialog_title_auto_start_tips">À propos des démarrages auto</string>
   <string name="translation_contributors_title">Contributeurs</string>
+  
  <!-- à traduire 
+  <string name="bt_trace_log">Enable Bluetooth Trace log</string>
+  <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
+  <string name="button_text_view_power">View power</string>
+
   <string name="subs_settings">SUBS Status</string>
   <string name="app_ops_settings_summary">View or change app permissions</string>
   <string name="location_category_enhanced_location">Enhanced Location</string>

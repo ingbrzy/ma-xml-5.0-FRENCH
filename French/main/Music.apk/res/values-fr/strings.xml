@@ -249,7 +249,7 @@
   <string name="sdcard_error_message_nosdcard">Une erreur s\'est produite sur votre stockage de carte SD.</string>
   <string name="sdcard_missing_message">Aucune carte SD n\'est insérée.</string>
   <string name="sdcard_missing_message_nosdcard">Carte SD indisponible.</string>
-  <string name="search_hint">Recherchez musique</string>
+  <string name="search_hint">Rechercher de la musique</string>
   <string name="search_settings_description">Artistes, albums et morceaux</string>
   <string name="search_suggestion">Suggestions de recherche :</string>
   <string name="search_title">Rechercher</string>
@@ -350,14 +350,13 @@
   <string name="not_now">Plus tard</string>
   <string name="sync_alert_title">Paramètres de synchronisation</string>
   <string name="sync_alert_message">Synchronisez vos chansons favorites entre plusieurs appareils en utilisant votre compte Mi.</string>
-      
+  <string name="select_device">Sélectionner l\'appareil</string>
+  <string name="scan_barcode_to_connect">Placez le code QR KTV dans le viseur</string>
+  <string name="volume_alert_playback_alert_title">Avertissement volume sonore</string>
+  <string name="volume_alert_playback_message">L\'écoute de musique à un volume sonore élevé provoque, à la longue, des dommages permanents et irréversibles du système auditif.</string>
+ 
  <!-- à traduire :
  4.5.16
-  <string name="select_device">Select device</string>
-  <string name="volume_alert_playback_alert_title">Volume alert</string>
-  <string name="volume_alert_playback_message">To prevent possible hearing damage, do not listen at high volume levels for long periods.</string>
-
- 
   <string name="sync_disable_toast">You can always enable sync later in Settings > Accounts > Mi Cloud</string>
   <string name="login_and_enable">Sign in and sync</string>
   <string name="sync_enable_toast">You can change this setting in Settings > Accounts > Mi Cloud</string>
@@ -365,6 +364,6 @@
   <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
   <string name="ktv_connected_alert_message">The songs you select will be added to the playlist named My KTV</string>
   <string name="ktv_unbind_message">"Failed to connect with KTV console. Make sure you're scanning the correct QR code."</string>
-  <string name="scan_barcode_to_connect">"Align the KTV console's QR code in the frame to scan"</string>
+
  -->
 </resources>
