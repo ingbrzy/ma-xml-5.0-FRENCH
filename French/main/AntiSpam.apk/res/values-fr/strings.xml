@@ -217,7 +217,8 @@
   <string name="hint_antispam_mode_edit">Mode personnalisé</string>
   <string name="st_title_adress">Sélectionner un lieu</string>
   <string name="st_title_adress_num">%d sélectionné</string>
-  <string name="SMS_BLACKLIST">Messages en liste noire</string>
+ <!-- trop long à vérifier/ revoir formulation : -->
+  <string name="SMS_BLACKLIST">SMS en liste noire</string>
   <string name="SMS_PREFIX">Préfixe en liste noire</string>
   <string name="SMS_DEFAULT">Liste noire intelligente</string>
   <string name="SMS_MODENAME">Liste noire par défaut</string>
@@ -229,6 +230,7 @@
   <string name="Call_ADRESS">Lieu en liste noire</string>
   <string name="Call_PRIVATE_CALL">Appels privés</string>
   <string name="Call_DEFAULT">Liste noire intelligente</string>
+ <!-- -->
   <string name="PAST_BLOCK">Précédemment bloqué</string>
   <string name="AD_AntiSpam">Bloquer les sollicitations</string>
   <string name="AD_SCANNING">Analyse en cours…</string>
