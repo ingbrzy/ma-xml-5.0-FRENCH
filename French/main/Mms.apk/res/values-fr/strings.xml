@@ -469,8 +469,8 @@
   <string name="unstick">Désépingler</string>
   <string name="unstick_conversation">Désépingler la conversation</string>
   <string name="stick_conversation">Épingler la conversation</string>
-  <string name="unsticked_conversation">Conversation épinglée</string>
-  <string name="sticked_conversation">Conversation désépinglée</string>
+  <string name="unsticked_conversation">Conversation désépinglée</string>
+  <string name="sticked_conversation">Conversation épinglée</string>
   <string name="unsupported_media_format">Format %1$s non compatible.</string>
   <string name="view">Afficher</string>
   <string name="view_bookmark">Voir le message original</string>
