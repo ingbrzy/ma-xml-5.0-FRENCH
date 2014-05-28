@@ -349,10 +349,10 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="activate_popup_desc_2_sim_cards">2 SMS vont être envoyés afin d\'activer vos cartes SIM pour permettre l\'usage de fonctions tel que la %s</string>
   <string name="activate_popup_desc_intl_sim_card">Un SMS international va être envoyé afin d\'activer votre carte SIM pour permettre l\'usage de fonctions tel que la %s</string>
   <string name="activate_popup_desc_mixed_sim_cards">2 SMS dont 1 international vont être envoyés afin d\'activer vos carte SIM pour permettre l\'usage de fonctions tel que la %s</string>
-  <string name="activate_popup_desc_new_2_intl_sim_cards">Vos carte SIM ont été changées. 2 SMS internationaux vont être envoyés afin d\'activer vos nouvelles cartes SIM pour permettre l\'usage de fonctions tel que la %s</string>
-  <string name="activate_popup_desc_new_2_sim_cards">Vos carte SIM ont été changées. 2 SMS vont être envoyés afin d\'activer vos cartes nouvelles SIM pour permettre l\'usage de fonctions tel que la %s</string>
-  <string name="activate_popup_desc_new_intl_sim_card">Votre carte SIM a été changée. Un SMS international va être envoyé afin d\'activer votre nouvelle carte SIM pour permettre l\'usage de fonctions tel que la %s</string>
-  <string name="activate_popup_desc_new_mixed_sim_cards">Vos carte SIM ont été changées. 2 SMS dont 1 international vont être envoyés afin d\'activer vos nouvelles carte SIM pour permettre l\'usage de fonctions tel que la %s</string>
-  <string name="activate_popup_desc_new_sim_card">Votre carte SIM a été changée. Un SMS va être envoyé afin d\'activer votre nouvelle carte SIM pour permettre l\'usage de fonctions tel que la %s</string>
-  <string name="activate_popup_desc_new_sim_card_downlink">Votre carte SIM a été changée. Veuillez saisir votre numéro de téléphone pour permettre l\'usage de fonctions tel que la %s</string>
+  <string name="activate_popup_desc_new_2_intl_sim_cards">Nouvelles carte SIM détectées. 2 SMS internationaux vont être envoyés afin d\'activer vos cartes SIM pour permettre l\'usage de fonctions tel que la %s</string>
+  <string name="activate_popup_desc_new_2_sim_cards">Nouvelles carte SIM détectées. 2 SMS vont être envoyés afin d\'activer vos cartes SIM pour permettre l\'usage de fonctions tel que la %s</string>
+  <string name="activate_popup_desc_new_intl_sim_card">Nouvelle carte SIM détectée. Un SMS international va être envoyé afin d\'activer votre carte SIM pour permettre l\'usage de fonctions tel que la %s</string>
+  <string name="activate_popup_desc_new_mixed_sim_cards">Nouvelles carte SIM détectées. 2 SMS dont 1 international vont être envoyés afin d\'activer vos carte SIM pour permettre l\'usage de fonctions tel que la %s</string>
+  <string name="activate_popup_desc_new_sim_card">Nouvelle carte SIM détectée. Un SMS va être envoyé afin d\'activer votre carte SIM pour permettre l\'usage de fonctions tel que la %s</string>
+  <string name="activate_popup_desc_new_sim_card_downlink">Nouvelle carte SIM détectée. Veuillez saisir votre numéro de téléphone pour permettre l\'usage de fonctions tel que la %s</string>
 </resources>

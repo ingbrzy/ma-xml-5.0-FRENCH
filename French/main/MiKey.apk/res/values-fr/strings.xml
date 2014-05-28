@@ -87,13 +87,13 @@
     <string name="action_zero_volume">Silencieux</string>
     <string name="settings">Paramètres</string>
     <string name="setting_feedback">Retour d\'expérience</string>
-    <string name="setting_speed_slow">Lent</string>
+    <string name="setting_speed_slow">Lente</string>
     <string name="setting_speed_quick">Rapide</string>
     <string name="setting_speed_text">Vitesse</string>
     <string name="setting_keeplive_text">Exécuter en arrière-plan</string>
     <string name="setting_vibrate_text">Vibrer</string>
     <string name="setting_instant_photo_text">Auto Focus</string>
-    <string name="setting_instant_photo_desc">"Mise au point avant de prendre une photo"</string>
+    <string name="setting_instant_photo_desc">"Mise au point rapide avant de prendre une photo"</string>
     <string name="setting_speed_desc">"Vitesse d\'appuie sur le bouton"</string>
     <string name="setting_keeplive_desc">"Permettre à l\'application de s\'exécuter en arrière-plan.
 Peut augmenter la consommation de la batterie"</string>
@@ -144,14 +144,12 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="goto_update">Mettre à jour</string>
     <string name="update_message">Mettre à jour !</string>
     <string name="toolbox_outer_desc">Appuyez sur + ou sur une étape existante</string>
-    <string name="buy">Acheter MiKey</string>
+    <string name="buy">Acheter une MiKey</string>
     <string name="action_open_mi_route">Liste des appareils</string>
-
-<!-- à traduire -->
-    <string name="showSlip">View drop-down</string>
-    <string name="setting_silent_mode_default">Mode écouteurs (Unplug MiKey)</string>
-    <string name="setting_silent_mode_desc">Select always headphones mode for unplug MiKey, otherwise it will cause no sound.</string>
-    <string name="setting_silent_mode_dust_cap">Dust cap (MiKey)</string>
+    <string name="setting_silent_mode_default">Mode écouteurs</string>
+    <string name="setting_silent_mode_dust_cap">Bouchon anti-poussière (MiKey)</string>
+    <string name="setting_silent_mode_desc">Retirez la Mikey après de sélectionner le mode écouteur, sinon vous n\'aurez plus de son.</string>
+    <string name="showSlip">Afficher dans le menu déroulant</string>
 
 <!-- à traduire
     <string name="faq_speed_title">连击不成功？</string>
