@@ -1282,9 +1282,13 @@
   <string name="storage_phone">Stockage du téléphone</string>
   <string name="storage_external_usb">Stockage USB externe</string>
   <string name="zz_keyguard_accessibility_voice_unlock">Déverrouillage vocal</string>
+  <string name="sd_accessing_swtich_user_message">Toutes les données non sauvegardées sur le compte du propriétaire seront perdus ou endommagées.</string>
+  <string name="sd_accessing_swtich_user_title">Changer d\'utilisateur ?</string>
+  <!-- strings non présentent dans beta stable 15,  supprimées ? utilisée dans stable 13 ? a vérifier  éventuellement... ! -->
   <string name="reboot_title">Redémarrez le téléphone ?</string>
   <string name="reboot_confirm">Votre téléphone va redémarrer.</string>
   <string name="global_action_reboot_summary">Fermez toutes les applications et redémarrer le téléphone</string>
   <string name="gps_assistance_enable_title">Messages d\'alerte</string>
   <string name="gps_assistance_enable_message">L\'assistance de GPS est allumée pour accélérer le positionnement GPS, ce qui peut entraîner des frais supplémentaires.</string>
+  <!-- -->
 </resources>

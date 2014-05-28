@@ -79,4 +79,16 @@
         <item quantity="other">%1$d sur %2$d</item>
         <item quantity="one">1 correspondance</item>
     </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d secondes</item>
+        <item quantity="one">1 seconde</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d heures</item>
+        <item quantity="one">1 heure</item>
+    </plurals>
 </resources>

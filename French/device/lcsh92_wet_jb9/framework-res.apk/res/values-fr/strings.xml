@@ -1286,30 +1286,25 @@
   <string name="global_action_reboot_summary">Fermez toutes les applications et redémarrer le téléphone</string>
   <string name="gps_assistance_enable_title">Messages d\'alerte</string>
   <string name="gps_assistance_enable_message">L\'assistance de GPS est allumée pour accélérer le positionnement GPS, ce qui peut entraîner des frais supplémentaires.</string>
-  
-  <string name="storage_ic_usb1">External IC-USB storage1</string>
-  <string name="storage_ic_usb2">External IC-USB storage2</string>
+  <string name="sd_accessing_swtich_user_message">Toutes les données non sauvegardées sur le compte du propriétaire seront perdus ou endommagées.</string>
+  <string name="sd_accessing_swtich_user_title">Changer d\'utilisateur ?</string>
+  <string name="reboot">Redémarrer</string>
+  <string name="global_action_reboot">Redémarrer</string>
+  <string name="shutdown_quickly">Démarrage rapide</string>
+  <string name="not_show_again">Ne plus afficher</string>
+  <string name="status_bar_settings_airplane_dlg_title">Mode avion</string>
+  <string name="status_bar_settings_airplane_dlg_message">Active le mode avion</string>
+  <string name="wlan_direct_name">RedMi Note</string>
+  <string name="data_service">Services de données</string>
 
-    <string name="sd_accessing_swtich_user_title">Switch user?</string>
-    <string name="sd_accessing_swtich_user_message">All unsaved data in owner account will be lost or damaged.</string>
-    <string name="shutdown_quickly">Quick boot</string>
-    <string name="status_bar_settings_airplane_dlg_title">Airplane mode</string>
-    <string name="status_bar_settings_airplane_dlg_message">Turn on Airplane mode.</string>
-    <string name="gemini_3g_disable_warning_case5">The phone will have some data traffic if open data connection. Specific fees charged by the operator. Recognizing the need to open it?</string>
-    <string name="not_show_again">"Don't remind next time."</string>
-    <string name="data_service">Data Services</string>
-    <string name="data_service_content">"Your phone's data connection is turned off, in order to get a better experience, we suggested you to open data connection.
+<!-- à traduire
+  <string name="gemini_3g_disable_warning_case5">The phone will have some data traffic if open data connection. Specific fees charged by the operator. Recognizing the need to open it?</string>
+  <string name="data_service_content">"Your phone's data connection is turned off, in order to get a better experience, we suggested you to open data connection.
 
 Since open data connection, you can use phone cards for Internet access, please confirm whether you want to open?
 
 "</string>
-  <string name="wlan_direct_name">红米手机</string>
-  <string name="reboot">Reboot</string>
-  <string name="global_action_reboot">Reboot</string>
-  
-  
-  
-  
-  
-  
+  <string name="storage_ic_usb1">External IC-USB storage1</string>
+  <string name="storage_ic_usb2">External IC-USB storage2</string>
+ -->
 </resources>

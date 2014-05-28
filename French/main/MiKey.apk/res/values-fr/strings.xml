@@ -139,20 +139,21 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="place_barcode_into_rectangle">Placez le code QR ou code barre dans le viseur</string>
     <string name="scan_result">Résultat de la recherche</string>
     <string name="recognize">Analyser</string>
-	
+    <string name="test_user_entry">Test</string>
+    <string name="action_toolbox">Boite à outils</string>
+    <string name="goto_update">Mettre à jour</string>
+    <string name="update_message">Mettre à jour !</string>
+    <string name="toolbox_outer_desc">Appuyez sur + ou sur une étape existante</string>
+    <string name="buy">Acheter MiKey</string>
+    <string name="action_open_mi_route">Liste des appareils</string>
+
 <!-- à traduire -->
     <string name="showSlip">View drop-down</string>
-    <string name="action_toolbox">Toolbox</string>
-    <string name="goto_update">Update</string>
-    <string name="setting_silent_mode_default">Headphones Mode (Unplug MiKey)</string>
+    <string name="setting_silent_mode_default">Mode écouteurs (Unplug MiKey)</string>
     <string name="setting_silent_mode_desc">Select always headphones mode for unplug MiKey, otherwise it will cause no sound.</string>
     <string name="setting_silent_mode_dust_cap">Dust cap (MiKey)</string>
-    <string name="test_user_entry">Test</string>
-    <string name="toolbox_outer_desc">Select plus or existing function</string>
-    <string name="update_message">Update!</string>
 
-    <string name="action_open_mi_route">智能设备列表</string>
-    <string name="buy">购买米键</string>
+<!-- à traduire
     <string name="faq_speed_title">连击不成功？</string>
     <string name="faq_speed_text">由于手机差异，导致响应速度不同，可以在设置中调节点击速度，找到适合自己手机的节奏。</string>
     <string name="faq_focus_title">闪拍模糊？太慢？</string>
@@ -173,5 +174,5 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="faq_stat_text">排名每晚零时会清零，当你醒来又是一个新的开始。</string>
     <string name="faq_vsm_title">使用注意事项</string>
     <string name="faq_vsm_text">确保在取下手机后盖前，先将米键拔出！</string>
-
+-->
 </resources>

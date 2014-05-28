@@ -89,8 +89,5 @@
 Réessayer dans %d secondes."</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
   <string name="lockscreen_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie.</string>
-
- <!-- à traduire :
-   <string name="starting_camera_string">Starting camera</string>
- -->
+   <string name="starting_camera_string">Initialisation de la caméra</string>
 </resources>

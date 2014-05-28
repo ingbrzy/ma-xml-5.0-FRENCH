@@ -941,16 +941,18 @@ pièce jointe dépasse la limite autorisée"</string>
   <string name="xiaomi_bytes_unit">%1$s O</string>
   <string name="xiaomi_kilobytes_unit">%1$s Ko</string>
   <string name="xiaomi_megabytes_unit">%1$s Mo</string>
+  <string name="xiaomi_update_dialog_title">Mise à jour %1$s !</string>
+  <string name="xiaomi_update_dialog_message">"Version %1$s
+Taille : %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Version %1$s
+Taille du patch Delta : %2$s"</string>
+  <string name="xiaomi_external_storage_unavailable">Espace de stockage non disponible, veuillez vérifier votre carte SD.</string>
+  
  <!-- à traduire :
   <string name="device_activity_btn_str">Return To Activate</string>
   <string name="device_not_activiey_lint1">Device Manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
-  <string name="xiaomi_update_dialog_title">%1$s update!</string>
-  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
- +Size: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
- +Delta update size: %2$s"</string>
-  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+
  -->
 </resources>
