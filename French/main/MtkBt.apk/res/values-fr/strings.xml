@@ -149,8 +149,8 @@ Would you like to view this image?"</string>
     <string name="toast_bpp_enable_fail">Enable print service failed</string>
     <string name="toast_connect_fail">Connection failed</string>
     <string name="toast_get_printer_attr_fail">Getting printer capabilities failed</string>
-    <string name="toast_get_printer_attr">Get printer capabilities...</string>
-    <string name="toast_get_default_value">Get default value...</string>
+    <string name="toast_get_printer_attr">Get printer capabilities…</string>
+    <string name="toast_get_default_value">Get default value…</string>
     <string name="print">Print</string>
     <string name="get_default_value">Get Default Value</string>
     <string name="paper_size">Paper size</string>
@@ -286,7 +286,7 @@ Would you like to view this image?"</string>
     <string name="bluetooth_hid_unplug_confirm_title">Unplug Wireless Input Device</string>
     <string name="bluetooth_hid_auth_confirm_title">Accept Wireless Input Device request</string>
     <string name="bluetooth_hid_summary_connected">Connected</string>
-    <string name="bluetooth_hid_summary_connecting">Connecting...</string>
+    <string name="bluetooth_hid_summary_connecting">Connecting…</string>
     <string name="bluetooth_hid_summary_not_connected">Paired but not connected</string>
     <string name="bluetooth_hid_yes">Yes</string>
     <string name="bluetooth_hid_no">No</string>
@@ -305,7 +305,7 @@ Would you like to view this image?"</string>
     <string name="bluetooth_hid_disconnect_confirm">Do you want to disconnect wireless Input Device %1$s?</string>
     <string name="bluetooth_hid_unplug_confirm">Do you want to unplug wireless Input Device %1$s?</string>
     <string name="bluetooth_hid_auth_confirm">Do you want to accept wireless Input Device request from %1$s?</string>
-    <string name="bluetooth_hid_summary_disconnecting">Disconnecting...</string>
+    <string name="bluetooth_hid_summary_disconnecting">Disconnecting…</string>
     <string name="bluetooth_map_server_authorize_request_ticker">Remote Message Access authorization request</string>
     <string name="bluetooth_map_server_authorize_request_title">Remote Message Access authorization request</string>
     <string name="bluetooth_map_server_authorize_request_message">Select to allow message access connection</string>
@@ -364,7 +364,7 @@ Would you like to view this image?"</string>
     <string name="bt_prxr_settings_enable_title">Proximity reporter</string>
     <string name="bt_prxr_settings_enable_summary">Turn on</string>
     <string name="bt_prxr_settings_busy_title">Proximity reporter</string>
-    <string name="bt_prxr_settings_busy_message">Loading. Please wait...</string>
+    <string name="bt_prxr_settings_busy_message">Loading. Please wait…</string>
     <string name="bt_prxr_settings_enable_fail">Enable/disable proximity reporter error</string>
     <string name="bt_prxr_ll_notification_ticker">Link loss</string>
     <string name="bt_prxr_ll_notification_title">Proximity link loss</string>

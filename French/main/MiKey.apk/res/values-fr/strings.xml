@@ -109,7 +109,7 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="notification_control_play">Lire</string>
     <string name="notification_control_stop">Stop</string>
     <string name="notification_recorder_file_location">Chemin d\'accès :</string>
-    <string name="notification_recorder_start">Démarrage de l\'enregistrement...</string>
+    <string name="notification_recorder_start">Démarrage de l\'enregistrement…</string>
     <string name="sdcard">sdcard</string>
     <string name="setting_silent_mode">Mode silencieux</string>
     <string name="silent_mode_tip_main">Le bouton de basculement en mode silencieux est désactivé</string>

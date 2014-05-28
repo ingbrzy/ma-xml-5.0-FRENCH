@@ -641,7 +641,7 @@
     <string name="view_exchange_code">Check exchange code</string>
     <string name="view_get_point">Comment recevoir des points ?</string>
     <string name="view_vip_levelup">Comment mettre à niveau ?</string>
-    <string name="gift_receiving">Receiving...</string>
+    <string name="gift_receiving">Receiving…</string>
     <string name="gift_pack_gift_count">%1$s pack(s) cadeau</string>
     <string name="gift_pack_my_gift_empty">Vos packs cadeaux seront afficher ici</string>
     <string name="gift_pack_my_gift_login">Please login to apply gift packs</string>

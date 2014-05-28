@@ -20,7 +20,7 @@
     <string name="notification_content_title">Mise à jour</string>
     <string name="notification_content_text_completed">Téléchargement réussi</string>
     <string name="notification_content_newversion">Mise à jour : version</string>
-    <string name="new_version_query">Recherche de mises à jour...</string>
+    <string name="new_version_query">Recherche de mises à jour…</string>
     <string name="no_new_version">Votre téléphone est à jour.</string>
     <string name="unknown_error">Erreur</string>
     <string name="unknown_error_content">Désolé, une erreur est survenue, sortez et recommencez.</string>
@@ -43,7 +43,7 @@
     <string name="btn_cancel_check">Annuler</string>
     <string name="cancel_check_title">Annuler</string>
     <string name="cancel_check_content">Êtes-vous sur de vouloir annuler la mise a jour ?</string>
-    <string name="downloading_title">Téléchargement...</string>
+    <string name="downloading_title">Téléchargement…</string>
     <string name="ver_title">Description</string>
     <string name="ver_content">La mise à jour de votre téléphone peut améliorer sa stabilité est corriger certains bugs.</string>
     <string name="ver_notes_title">Note de mise à jour</string>
@@ -67,10 +67,10 @@
     <string name="updateFailTitle">Installation échouée</string>
     <string name="updateSuccess">Vous avez déjà installé cette version %s.</string>
     <string name="updateFailed">Installation échouée %s.</string>
-    <string name="package_unzip">Décompression du paquet,ne pas interrompre...</string>
+    <string name="package_unzip">Décompression du paquet,ne pas interrompre…</string>
     <string name="package_unzip_error">Erreur de décompression</string>
     <string name="appstor">Applications</string>
-    <string name="wait_for_app_store">Veuillez patienter...</string>
+    <string name="wait_for_app_store">Veuillez patienter…</string>
     <string name="install">Installation</string>
     <string name="app_btninstall">Actif</string>
     <string name="app_btndonw">Télécharger</string>

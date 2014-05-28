@@ -1199,10 +1199,10 @@ Veuillez réessayer dans %d secondes."</string>
     <string name="media_route_chooser_title_for_remote_display">"Diffuser l'écran sur l'appareil"</string>
     <string name="media_route_controller_disconnect">Déconnecter</string>
     <string name="media_route_status_available">Disponible</string>
-    <string name="media_route_status_connecting">Connexion en cours...</string>
+    <string name="media_route_status_connecting">Connexion en cours…</string>
     <string name="media_route_status_in_use">"En cours d'utilisation"</string>
     <string name="media_route_status_not_available">Indisponible</string>
-    <string name="media_route_status_scanning">Analyse en cours...</string>
+    <string name="media_route_status_scanning">Analyse en cours…</string>
     <string name="mediasize_na_foolscap">Foolscap</string>
     <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
     <string name="mediasize_na_index_3x5">Index Card 3x5</string>

@@ -2,12 +2,15 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
-  <!-- removed in 4.3.12 mi3w -->
+  <!-- removed in 4.5.27 -->
+  <string name="balance_giftcard_payment">%1$s MiCredits (%2$s MiCredit carte-cadeau)</string>
+  <string name="balance_no_giftcard_payment">%1$s MiCredits (impossible d\'utiliser une carte-cadeau pour cet achat)</string>
+  <!-- removed in 4.3.12 -->
   <string name="prepaid_picker_title_default">Sélectionnez le montant</string>
   <string name="prepaid_picker_title_selected">Montant</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Recharge maximum de %1$s RMB par mois uniquement</string>
-  <!-- removed in 4.4.22 mi2 -->
+  <!-- removed in 4.4.22 -->
   <string name="error_network_title">Erreur réseau</string>
   <string name="error_auth_title">Erreur de compte</string>
   <string name="error_has_bought_title">Répéter l\'achat</string>
@@ -30,8 +33,6 @@ Veuillez réessayer dans cinq minutes"</string>
 %1$s"</string>
   <string name="app_name">Service de paiement</string>
   <string name="balance">Solde : %1$s MiCredits</string>
-  <string name="balance_giftcard_payment">%1$s MiCredits (%2$s MiCredit carte-cadeau)</string>
-  <string name="balance_no_giftcard_payment">%1$s MiCredits (impossible d\'utiliser une carte-cadeau pour cet achat)</string>
   <string name="balance_payment">%1$s MiCredits</string>
   <string name="bankcall_bank_account">Carte bancaire :</string>
   <string name="bankcall_call_hint">"Vous allez recevoir une demande de règlement d'Union (020-96585). Veuillez suivre les instructions pour compléter la transaction."</string>
@@ -116,7 +117,7 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="giftcard_record">MiCredit reçus</string>
   <string name="giftcard_value">" (Carte-cadeau %1$s MiCredit)"</string>
   
- <!-- à traduire, en attentant l'anglais est mieux que le chinois... -->
+ <!-- à traduire, en attentant l'anglais est mieux que le chinois… -->
   <string name="hfb_app_name">UMPay</string>
   <string name="hfb_complete">Purchased successfully!</string>
   <string name="hfb_confirm">Confirm</string>
@@ -168,7 +169,9 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockscreen_forgot_pattern_button_text"><u>Schéma oublié ?</u></string>
   <string name="login">Connexion</string>
   <string name="memu_refresh">Actualiser</string>
-  <string name="mibi_license_message">Vous êtes sur le point d\'utiliser Micredit, un service fourni par Xiaomi Inc. Avant de pouvoir utiliser ce service, vous devez accepter le %1$s.</string>
+  <string name="mibi_license_message">"Vous êtes sur le point d\'utiliser Micredit, un service fourni par Xiaomi Inc. Avant de pouvoir utiliser ce service, vous devez accepter le %1$s.
+  
+Une connexion internet est requise pour utiliser Micredit"</string>
   <string name="mibi_license_message_span">Contrat d\'utilisation</string>
   <string name="mibi_license_title">Contrat d\'utilisation de MiCredit</string>
   <string name="mili_center">MiCredit</string>
@@ -319,4 +322,19 @@ Vérifiez la configuration de la date de votre appareil puis réessayez."</strin
   <string name="giftcard_expire_notification_prime_title">Oops ! Votre code de promotion est sur ​​le point d\'expirer…</string>
   <string name="giftcard_expire_notification_sub_title">Votre carte-cadeau MiCredit expire le %1$s</string>
   <string name="btn_agree">Accepter</string>
+  <string name="label_giftcard">Carte-cadeau :</string>
+  <string name="title_bind_phone">Association du numéro de téléphone</string>
+  <string name="summary_bind_phone">Pour assurer la sécurité de votre compte, veuillez associer votre n° de téléphone, avant de finaliser le paiement</string>
+  <string name="button_sms_code">Confirmer</string>
+  <string name="title_sms_code">Veuillez saisir le code de vérification reçu par SMS</string>
+  <string name="summary_sms_code">Pour assurer la sécurité de votre compte, veuillez saisir le code de vérification reçu sur le numéro %1$s, avant de finaliser le paiement</string>
+  <string name="sms_code_hint">Code de vérification par SMS</string>
+  <string name="sms_code_error">Le code de vérification est incorrect, veuillez réessayer</string>
+  <string name="button_bind_phone">Associer</string>
+  <string name="button_count_down_reget">Obtenir le code de vérification (%1$s)</string>
+  <string name="button_reget">Obtenir le code de vérification</string>
+  <string name="giftcard_payment">%1$s MiCredits</string>
+  <string name="partner_giftcard_payment">%1$s MiCredits (uniquement pour %2$s)</string>
+  <string name="prepaid_error_not_choose_carrier">Aucun opérateur sélectionné.</string>
+  <string name="prepaid_card_order_info">%1$s carte prépayée : %2$s RMB</string>
  </resources>
