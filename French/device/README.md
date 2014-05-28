@@ -4,8 +4,9 @@
 * amoi77_cu_jb2: AMOI N821 jb-4.2
 * anzu: Sony Xperia Arc S jb-4.1
 * aries: Xiaomi MI2/MI2-S jb-4.1
+* armani: Xiaomi Hongmi 1s (WCDMA) jb-4.2
 * C8690: Newman N2  jb-4.1
-* cancro: Xiaomi MI3 (WCDMA) jb-4.3
+* cancro: Xiaomi MI3 (WCDMA) jb-4.4
 * CRESPO: Google-Samsung Nexus S jb-4.2
 * endeavoru: HTC One X jb-4.1
 * FIND5: OPPO Find 5 jb-4.1
@@ -20,6 +21,7 @@
 * hwu9508: Huawei Honor 2 jb-4.1
 * ja3g: Samsung Galaxy S4 jb-4.2
 * jflte: Samsung Galaxy S4 jb-4.2
+* lcsh92_wet_jb9: Xiaomi Hongmi Note(WCDMA) jb-4.2
 * leo: HTC Touch HD2 jb-4.2
 * LT30: Sony Xperia T jb-4.1
 * L36h: Sony Xperia Z jb-4.2

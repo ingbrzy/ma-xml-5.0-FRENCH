@@ -10,7 +10,7 @@
     <string name="name">Nom :</string>
     <string name="nickname">Surnom :</string>
     <string name="note">Note :</string>
-    <string name="phone">Téléphone :</string>
+    <string name="phone">Tel. :</string>
     <string name="picker_lable">Galerie</string>
     <string name="recognize">Analyser</string>
     <string name="scan_result">Résultat</string>
