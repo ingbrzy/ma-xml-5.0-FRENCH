@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<!-- temp fix -->
-  <string name="deep_clean_summary_install_apps_today">%1$s | aujourd\'hui</string>
-  <string name="deep_clean_summary_install_apps_interval">%1$s | %2$d jours</string>
-  <string name="deep_clean_summary_install_apps_new">%s | jamais utilisée</string>
-  <string name="deep_clean_summary_install_apps_virus">%s | virus détecté</string>
-  <string name="deep_clean_summary_install_apps_risk">%s | risque détecté</string>
-</resources>
