@@ -61,7 +61,7 @@
   <string name="activating">Activation…</string>
   <string name="add_weibo_account">Ajouter un compte</string>
   <string name="alert_title_remove_account">Supprimer le compte</string>
-  <string name="alert_notif_title_dspt">Veuillez rétablir la synchronisation pour assurer la sécurité des données</string>
+  <string name="alert_notif_title_dspt">Vos données seront perdues si vous égarez votre téléphone</string>
   <string name="app_name">Xiaomi Services Framework</string>
   <string name="available_functionality">Fonctions disponibles</string>
   <string name="bad_authentication">Identifiant ou mot de passe incorrect</string>
@@ -133,7 +133,7 @@
   <string name="login_notice">Connexion…</string>
   <string name="master_alert_notif_dspt" formatted="false">"Durant cette période, ont été ajoutés : %s contacts téléphoniques, %s SMS, %s photos, %s notes et d\'autres données. 
 
- Si votre téléphone est perdu ou cassé, ces données seront définitivement perdues. Il est recommandé de rétablir la synchronisation afin d\'assurer la sécurité des données"</string>
+Si votre téléphone est perdu ou cassé, ces données seront définitivement perdues. Il est recommandé de rétablir la synchronisation afin d\'assurer la sécurité des données."</string>
   <string name="master_alert_notif_title">Les données n\'ont pas été synchronisées depuis %s jours</string>
   <string name="micloud_account">Compte Mi</string>
   <string name="micloud_account_label">Compte : %1$s</string>
@@ -216,8 +216,8 @@ Vous pouvez faire autre chose…"</string>
   <string name="start_micloud">Commencer</string>
   <string name="sub_alert_notif_dspt" formatted="false">"Vous avez %s contacts téléphoniques, %s SMS, %s photos, %s notes et d\'autres données qui ne sont pas synchronisées. 
 
- Si votre téléphone est perdu ou cassé, ces données seront définitivement perdues. Il est recommandé d\'activer la synchronisation afin d\'assurer la sécurité des données"</string>
-  <string name="sub_alert_notif_title">Le service de synchronisation n\'as pas été activé</string>
+Si votre téléphone est perdu ou cassé, ces données seront définitivement perdues. Il est recommandé d\'activer la synchronisation afin d\'assurer la sécurité des données."</string>
+  <string name="sub_alert_notif_title">Synchronisation non activée</string>
   <string name="sync_dspt">Activer la synchronisation</string>
   <string name="sync_off">Désactivé</string>
   <string name="sync_on">Activé</string>

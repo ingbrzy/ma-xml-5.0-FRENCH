@@ -34,9 +34,8 @@
   <string name="dlg_remove_blacklist_ok">Supprimer</string>
   <string name="dlg_retore">Restaurer vers l\'application de messagerie ?</string>
   <string name="dlg_retore_ok">Restaurer</string>
-  <!-- fw_blocked à vérifier  ? : <string name="fw_blocked">Blocked:</string> -->
   <string name="fw_blocked">Statistiques de blocage</string>
-  <string name="fw_blocked_count">Bloqué(s) :</string>
+  <string name="fw_blocked_count">"Bloqués : "</string>
   <string name="fw_blocked_count_call">%d appel(s) et</string>
   <string name="fw_blocked_count_sms">%d SMS</string>
   <string name="log_count">(%d)</string>
@@ -174,7 +173,7 @@
   <string name="dlg_remove_whitelist">Supprimer ces numéros des exceptions ?</string>
   <string name="dlg_remove_address_blacklist">Supprimer cet emplacement de la liste noire et restaurer les messages associés à la boîte de réception ?</string>
   <string name="dlg_remove_address_whitelist">Supprimer cet emplacement des exceptions ?</string>
-  <string name="st_show_num_keyword">" Mots-clés"</string>
+  <string name="st_show_num_keyword">" mots-clés"</string>
   <string name="st_show_num_number">" numéros"</string>
   <string name="label_callwait">Appel en attente</string>
   <string name="open_callwait">Activé</string>

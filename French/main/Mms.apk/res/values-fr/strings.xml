@@ -152,7 +152,7 @@
   <string name="delivery_toast_body">Message reçu par %s</string>
   <string name="disable_notifications_dialog_message">Cesser de dupliquer les notifications SMS à partir de l\'application Messages par défaut ?</string>
   <string name="discard">Supprimer</string>
-  <string name="discard_message">Ignorer</string>
+  <string name="discard_message">Erreur</string>
   <string name="discard_message_reason">Votre message va être supprimé, car aucun destinataire valide n\'a été spécifié.</string>
   <string name="discard_slideshow">Supprimer le diaporama</string>
   <string name="dl_failure_notification">Impossible de télécharger le message \"%1$s\" de %2$s.</string>
@@ -343,7 +343,7 @@
   <string name="privacy_mode_hint">Vous ne pouvez pas envoyer de message en mode invité</string>
   <string name="private_message">Message privé</string>
   <string name="private_new_notification">Notification de nouveau message</string>
-  <string name="private_protect">Protéger les messages privés</string>
+  <string name="private_protect">Protection des messages privés</string>
   <string name="private_settings">Paramètres de messagerie privée</string>
   <string name="processing">En cours…</string>
   <string name="prvate_contact">Contact privé</string>

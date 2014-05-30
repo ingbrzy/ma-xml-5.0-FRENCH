@@ -793,8 +793,8 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dndm_dlg_remove_ok">Supprimer</string>
   <string name="dndm_dlg_remove_vip">Supprimer de la liste d\'exceptions ?</string>
   <string name="dndm_menu_add_vip_custom">Ajouter une exception</string>
-  <string name="dndm_mute_all">Mettre sous silence les appels et les messages</string>
-  <string name="dndm_notification">Le mode NPD est activé.</string>
+  <string name="dndm_mute_all">Les appels et messages ne sonneront pas</string>
+  <string name="dndm_notification">Mode \"Ne pas déranger\" activé</string>
   <string name="dndm_open">Activer le mode NPD</string>
   <string name="dndm_repeated_call_setting_title">Appels répétés</string>
   <string name="dndm_repeated_call_summary_3min">Si le même correspondant appelle de nouveau dans les trois minutes qui suivent, le téléphone sonnera</string>
@@ -3639,9 +3639,9 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_last_scan_yesterday">"Dernière analyse : hier "</string>
   <string name="virus_scan_last_time">Dernière analyse : %s</string>
   <string name="virus_scan_last_virus">Virus trouvés lors de la dernière analyse.</string>
-  <string name="virus_scan_lib_unknow">Dernière MàJ : inconnu</string>
+  <string name="virus_scan_lib_unknow">Dernière mise à jour : inconnu</string>
   <string name="virus_scan_lib_update_success">Mise à jour effectuée !</string>
-  <string name="virus_scan_lib_update_time">Dernière MàJ : %s</string>
+  <string name="virus_scan_lib_update_time">Dernière mise à jour : %s</string>
   <string name="virus_scan_link_wifi_to_update_lib">Mettre à jour automatiquement</string>
   <string name="virus_scan_list_empty_content">Aucun élément suspect détecté</string>
   <string name="virus_scan_list_item_risk">Risque</string>
@@ -3661,7 +3661,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_settings">Paramètres</string>
   <string name="virus_scan_settings_title">Paramètres des définitions de virus</string>
   <string name="virus_scan_start">Analyse antivirus</string>
-  <string name="virus_scan_stop">Pause</string>
+  <string name="virus_scan_stop">Annuler</string>
   <string name="virus_scan_support">Propulsé par Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (apk)</string>
   <string name="virus_scan_update_lib">Mettre à jour auto. les définitions de virus</string>
