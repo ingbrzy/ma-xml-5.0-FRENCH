@@ -38,6 +38,18 @@
         <item>2 jours</item>
         <item>1 semaine</item>
     </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Aucun</item>
         <item>0 minute</item>
@@ -211,16 +223,4 @@
         <item>Arrière-plan transparent noir</item>
         <item>Arrière-plan blanc</item>
     </string-array>
-    <integer-array name="reminder_minutes_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </integer-array>
 </resources>
