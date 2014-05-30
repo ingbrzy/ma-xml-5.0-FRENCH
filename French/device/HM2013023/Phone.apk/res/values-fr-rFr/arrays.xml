@@ -1,4 +1,4 @@
-<?xml version="1.0" encodi
+<?xml version="1.0" encoding="utf-8"?>
     <string-array name="preferred_network_mode_choices">
         <item>LTE/CDMA</item>
         <item>EvDo uniquement</item>
