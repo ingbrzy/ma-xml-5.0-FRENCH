@@ -221,7 +221,7 @@
   <string name="button_day">J</string>
   <string name="button_month">M</string>
   <string name="default_reminder_mode">Mode de rappel par défaut</string>
-  <string name="event_account">Compte calendrier</string>
+  <string name="event_account">Compte</string>
   <string name="event_all_day_label">Tous les jours</string>
   <string name="event_hide_more">Masquer</string>
   <string name="event_info_descrip">"Description : "</string>
@@ -252,8 +252,10 @@
   <string name="pref_title_alarm_remind">Alarme de rappel</string>
   <string name="event_date_format">dd/MM</string>
   <string name="event_full_date_format">dd/MM/yyyy</string>
-
+  <string name="pref_error_no_ringtone_select">Aucune sélectionnée</string>
+  
  <!-- strings affichées uniquement si téléphone en chinois
+  <string name="view_all_matches">查看所有赛程</string>
   <string name="online_calendar_activity_label">订阅日历</string>
   <string name="add_calendar">订阅</string>
   <string name="exist_calendar">已订阅</string>

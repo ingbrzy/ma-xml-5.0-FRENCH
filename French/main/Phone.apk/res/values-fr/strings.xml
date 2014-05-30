@@ -21,9 +21,6 @@
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
 <!-- MTK STRINGS -->
-
-
-
   <string name="activity_not_found">Application non installée sur votre téléphone.</string>
   <string name="add_call_reject_number">Ajouter un numéro à bloquer</string>
   <string name="airplane_mode_on">Le mode Avion est activé.</string>
@@ -395,16 +392,15 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="vt_voice_connecting">Connexion appel vocal</string>
   <string name="vt_wait_voice">Appel vocal en attente de connexion</string>
   <string name="which_call_to_activate">Quel appel activer ?</string>
+  <string name="setting_for_3G_service">Services 3G</string>
+  <string name="ring_only_once_title">Une seule sonnerie</string>
+  <string name="ring_only_once_summary">Une seule sonnerie si appel vidéo accepté en mode appel vocal</string>
   
   <!-- à traduire : 
-  <string name="setting_for_3G_service">3G service</string>
-  <string name="ring_only_once_title">Ring only once</string>
-  <string name="ring_only_once_summary">Ring only once when choosing to accept a video call by voice call mode</string>
   <string name="call_silent_summary">Turn silent when incoming call</string>
   <string name="call_silent_title">Turn silent</string>
   <string name="end_call_because_can_not_hold">"End current call, because it can't be hold."</string>
   -->
-
 
 <!-- end mtk -->
 
@@ -1585,27 +1581,28 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="set_sub_global_deactivate_failed">Désactivation globale échouée</string>
   <string name="set_sub_not_supported_phone_in_call">Activation ou désactivation non autorisée lorsque le téléphone est en appel.</string>
   <string name="open_miui">Ouvrir</string>
-  
- <!-- à traduire  
-  <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
-  <string name="modify_call_failure_str">"Modify Call request failed
-"</string>
-  <string name="modify_call_option_title">Which type of call?</string>
+  <string name="ims_accounts_title">Compte IMS</string>
+  <string name="ims_domain_address_title">Serveur IMS</string>
+  <string name="no_volte">Impossible de passer un appel IMS</string>
+  <string name="use_ims_default_summary">Utiliser IMS pour tous les appels vocaux</string>
+  <string name="onscreenModifyCallText">Modifier l\'appel</string>
+  <string name="accept_modify_call_request_prompt">Accepter la requête de modification d\'appel ?</string>
+  <string name="modify_call_option_title">Quel type d\'appel ?</string>
   <string name="modify_call_option_vt">VT</string>
-  <string name="modify_call_option_vt_tx">Video transmit</string>
-  <string name="modify_call_option_vt_rx">Video receive</string>
-  <string name="modify_call_option_voice">Voice Only</string>
-  <string name="accept_modify_call_request_prompt">Accept modify call request?</string>
+  <string name="modify_call_option_vt_tx">Transmission vidéo</string>
+  <string name="modify_call_option_vt_rx">Réception vidéo</string>
+  <string name="modify_call_failure_str">"Échec de la requête de modification de l\'appel
+"</string>
+  <string name="ims_edit_title">Paramètres du compte IMS</string>
+  <string name="callwait_open_hint">\"Appel en attente\" est une fonction fournie par votre opérateur mobile. Si vous recevez une notification d\'erreur, contactez votre opérateur et vérifiez que cette fonction est disponible et activée.</string>
+ <!-- à traduire  
+ mtk crap:
+  <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
   <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
   <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
   <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
 "</string>
-  <string name="onscreenModifyCallText">Modify Call</string>
-  <string name="no_volte">Unable to make IMS call</string>
-  <string name="ims_edit_title">IMS account details</string>
-  <string name="ims_accounts_title">IMS Account</string>
-  <string name="ims_domain_address_title">IMS Server</string>
-  <string name="use_ims_default_summary">Use IMS for all voice calls</string>
+
  -->
  </resources>

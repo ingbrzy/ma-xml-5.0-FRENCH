@@ -736,4 +736,11 @@
   <string name="use_cellular_network_alert_message">Wi-Fi non disponible, utiliser le réseau mobile ?</string>
   <string name="date_picker_dialog_other_button_label">Autres</string>
   <string name="copy_to_clipboard_failure_message">Impossible de copier dans le presse-papier</string>
+  <string name="miuichromium_error_page_title">Impossible de trouver cette page</string>
+  <string name="miuichromium_error_page_reason_network">Afficher l\'URL du lien</string>
+  <string name="miuichromium_error_page_mobile">Réseaux mobiles</string>
+  <string name="miuichromium_error_page_wlan">Paramètres Wi-Fi</string>
+  <string name="miuichromium_error_page_reason_server">Impossible de charger cette page</string>
+  <string name="miuichromium_error_page_reload">Recharger</string>
+  <string name="miuichromium_error_page_url">Afficher l\'URL de la page</string>
 </resources>

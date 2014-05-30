@@ -42,7 +42,7 @@
   <string name="access_token_expired_warning">Votre compte Weibo a expiré, veuillez le rattacher</string>
   <string name="access_token_invalid_warning">Votre compte Weibo est non valide, veuillez le rattacher</string>
   <string name="account">Compte</string>
-  <string name="account_dspt">Un compte Mi permet de synchroniser et sauvegarder vos messages, contacts, photos, etc.</string>
+  <string name="account_dspt">Synchronisez et sauvegardez vos contacts, journal d\'appels, messages, photos et plus.</string>
   <string name="account_hint_text">Mail ou numéro de téléphone</string>
   <string name="account_name">Compte : %1$s</string>
   <string name="activate_phone_failed_notif_title">Échec de l\'activation du service MiCloud</string>
