@@ -46,7 +46,7 @@
   <string name="dialog_yes">Oui</string>
   <string name="download_current_rom">Télécharger la dernière version complète de la ROM</string>
   <string name="download_ota_rom">Mettre à jour (%s)</string>
-  <string name="download_whole_rom">>Mettre à jour (%s)</string>
+  <string name="download_whole_rom">Mettre à jour (%s)</string>
   <string name="downloading_description">Téléchargement…</string>
   <string name="edit_comment">Ajouter un commentaire</string>
   <string name="edit_comment_title">Éditer un commentaire</string>
