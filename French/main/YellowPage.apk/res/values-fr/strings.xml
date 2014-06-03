@@ -11,7 +11,10 @@
 
   <!-- Name of the application -->
   <string name="app_label">Pages jaunes</string>
+
+  <!-- Global -->
   <string name="phone_info_divider">" | "</string>
+  <string name="call">Appel</string>
 
   <!-- Loading process related -->
   <string name="check_network">Voir les paramètres réseau</string>
@@ -21,7 +24,6 @@
   <string name="data_error">Désolé, le service n\'est pas disponible, veuillez réessayer plus tard</string>
   <string name="locating_fail">Échec de localisation, veuillez vérifier vos paramètres de localisation ou réessayer</string>
   <string name="no_more_result">Aucun autre résultat</string>
-  
   <string name="downloading">Téléchargement…</string>
   <string name="download_completed">Téléchargement terminé ! Chemin d\'accès : %s</string>
   <string name="download_failed">Échec du téléchargement</string>
@@ -46,7 +48,6 @@
   <string name="provider">Identifié par %s</string>
 
   <!-- Call log related -->
-  <string name="call">Appel</string>
   <string name="callrecordview_item_newcontact">Nouveau contact</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -153,7 +154,7 @@
   <string name="login_ok">Se connecter</string>
   <string name="login_before_use">Vous devez vous connecter avant de pouvoir l\'utiliser.</string>
 
-  <!--  Express inquiry related -->
+  <!-- Express inquiry related -->
   <string name="express_inquiry">Suivi</string>
   <string name="express_inquiry_serial_number_indication">Numéro de suivi</string>
   <string name="express_inquiry_logistics_indication">Entreprise postale</string>
