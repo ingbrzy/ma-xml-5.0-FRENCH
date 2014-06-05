@@ -32,6 +32,7 @@
   <string name="accessibility_phone_one_bar">Signal : faible</string>
   <string name="accessibility_phone_signal_full">Signal excellent</string>
   <string name="accessibility_phone_three_bars">Signal : bon</string>
+  <string name="accessibility_phone_four_bars">Signal : très bon</string>
   <string name="accessibility_phone_two_bars">Signal : moyen</string>
   <string name="accessibility_recent">Applications récentes</string>
   <string name="accessibility_recents_item_dismissed">Application \"%s\" ignorée.</string>

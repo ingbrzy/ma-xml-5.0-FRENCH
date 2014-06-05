@@ -492,4 +492,7 @@
   <string name="toast_feedback_start">Envoi des données du rapport…</string>
   <string name="confirm_send_mms">L\'un des destinataires contient une adresse e-mail. Ce message sera envoyé en tant que MMS.</string>
   <string name="quick_reply">Répondre</string>
+  <string name="sp_category_title_prefix">%s</string>
+  <string name="sp_category_all">Tout les messages de services</string>
+  <string name="sp_category_bank">Messages de services bancaires</string>
 </resources>

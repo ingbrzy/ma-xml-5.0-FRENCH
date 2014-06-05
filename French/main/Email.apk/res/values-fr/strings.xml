@@ -947,8 +947,16 @@ Taille : %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Version %1$s
 Taille du patch Delta : %2$s"</string>
   <string name="xiaomi_external_storage_unavailable">Espace de stockage non disponible, veuillez vérifier votre carte SD.</string>
+  <string name="mail">Mail</string>
   
  <!-- à traduire :
+  <string name="dialog_insufficient_space_on_external">"Can't finish download. There isn't enough space on external storage."</string>
+  <string name="dialog_insufficient_space_on_internal">"There isn't enough space on internal storage."</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">No enough space for %s.</string>
+  <string name="dialog_auto_download_failed">"Can't finish auto-download"</string>
+  <string name="att_download_failed_title">Attachment download failed</string>
+  <string name="att_download_failed_content">Download failed</string>
+ 
   <string name="device_activity_btn_str">Return To Activate</string>
   <string name="device_not_activiey_lint1">Device Manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>

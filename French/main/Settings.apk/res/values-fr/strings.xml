@@ -3695,7 +3695,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="preferred_application_warning_replace">Remplacer</string>
   <string name="preferred_application_warning_title">Remplacer %s par défaut</string>
   <string name="preferred_application_warning_use_system">Utiliser %s par défaut</string>
-  <string name="button_text_quick_scan">Démarrer l\'analyse</string>
+  <string name="button_text_quick_scan">Démarrer</string>
   <string name="deep_clean_tips_cache_content">Certaines applis utilisent des fichiers cache pour télécharger des ressources additionnelles. Soyez prudent lors du nettoyage de ces fichiers.</string>
   <string name="deep_clean_tips_cache_title">Fichiers cache</string>
   <string name="deep_clean_tips_large_file_content">Fichiers volumineux (&gt;10Mo) qui prennent de la place sur votre appareil.</string>
@@ -3712,7 +3712,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="optimize_tips_residual_title">Contenu résiduel</string>
   <string name="perm_app_manage_empty">Aucune appli surveillée</string>
   <string name="perm_root_manage_empty">Aucune appli avec la permission ROOT</string>
-  <string name="quick_scan_done_title">Analyse terminée !</string>
+  <string name="quick_scan_done_title">Analyse terminée</string>
   <string name="virus_scan_is_cloud_scanning">Analyse MiCloud…</string>
   <string name="show_profile_info_on_lockscreen_label">Afficher infos de profil sur écran de verrouillage</string>
   <string name="profile_info_settings_title">Infos de profil</string>
@@ -3810,12 +3810,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="list_sub_view_item_view">Détail</string>
   <string name="list_sub_view_item_clean">Nettoyer</string>
   <string name="list_sub_view_item_install">Installer</string>
- <!-- à traduire, à revoir ? list_sub_view_item_lock list_sub_view_item_unlock :
-    list_sub_view_item_lock: Add to white list
-    list_sub_view_item_unlock: Add to white list
- -->
-  <string name="list_sub_view_item_lock">Verrouiller</string>
-  <string name="list_sub_view_item_unlock">Déverrouiller</string>
+  <string name="list_sub_view_item_lock">Ajouter à la liste blanche</string>
+  <string name="list_sub_view_item_unlock">Retirer de la liste blanche</string>
   <string name="power_save_on_time_goout_title">Restaurer vers</string>
   <string name="power_save_choose_recovery_mode">Sélectionnez un mode</string>
   <string name="power_new_choose_mode">Sélectionnez un mode</string>
@@ -3853,7 +3849,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="scanning_prefix">Analyse : %s</string>
   <string name="cleanning_prefix">Nettoyage : %s</string>
   <string name="scanning_start_hints">Préparation du moteur d\'analyse</string>
-  <string name="pref_category_title_auto_update_cleanup_db">Paramètres de la base de donnée</string>
+  <string name="pref_category_title_auto_update_cleanup_db">Paramètres de mise à jour</string>
   <string name="pref_title_auto_update_cleanup_db">Mises à jour auto.</string>
   <string name="pref_summary_auto_update_cleanup_db">MàJ : %s</string>
   <string name="pref_title_manual_check_cleanup_db_update">Vérifier maintenant</string>
@@ -3874,11 +3870,11 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="button_text_a_key_uninstall">Désinstaller</string>
   <string name="optimize_installed_apps_header_left">Applis téléchargées : %d</string>
   <string name="deep_clean_title_uninstall_apps">Applis</string>
-  <string name="deep_clean_summary_install_apps_today">aujourd\'hui</string>
-  <string name="deep_clean_summary_install_apps_interval">il y a %d jours</string>
-  <string name="deep_clean_summary_install_apps_new">jamais utilisée</string>
-  <string name="deep_clean_summary_install_apps_virus">virus détecté</string>
-  <string name="deep_clean_summary_install_apps_risk">risque détecté</string>
+  <string name="deep_clean_summary_install_apps_today">Utilisé aujourd\'hui</string>
+  <string name="deep_clean_summary_install_apps_interval">Utilisé il y a %d jours</string>
+  <string name="deep_clean_summary_install_apps_new">Jamais utilisée</string>
+  <string name="deep_clean_summary_install_apps_virus">Virus détecté</string>
+  <string name="deep_clean_summary_install_apps_risk">Risque détecté</string>
   <string name="optimize_installed_apps_list_empty_content">Aucune application trouvée</string>
   <string name="uninstall_confirm_title">Désinstaller ces applications</string>
   <string name="button_text_uninstall">Désinstaller</string>
@@ -3966,13 +3962,13 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="white_list_large_file_header">Fichiers volumineux : %d</string>
   <string name="white_list_residual_header">Résidus : %d</string>
   <string name="white_list_title">Liste blanche</string>
-  <string name="button_text_delete_from_white_list">Retirer</string>
-  <string name="toast_add_white_list_success">Ajoutée à la liste blanche, configuration de la liste blanche via les paramètres</string>
+  <string name="button_text_delete_from_white_list">Retirer de la liste</string>
+  <string name="toast_add_white_list_success">" ajouté à la liste blanche"</string>
   <string name="dialog_title_check_all">Tout sélectionner</string>
-  <string name="toast_removed_from_white_list">Supprimé de la liste blanche</string>
+  <string name="toast_removed_from_white_list">" supprimé de la liste blanche"</string>
   <string name="notification_button_text_of_low_memory">Nettoyer</string>
-  <string name="notification_title_of_low_memory">Espace de stockage faible, %s utilisés</string>
-  <string name="notification_summary_of_low_memory">Impossible d\'installer de nouvelles applis lorsque l\'espace est faible</string>
+  <string name="notification_title_of_low_memory">%s utilisés</string>
+  <string name="notification_summary_of_low_memory">Mémoire système faible.</string>
   <string name="power_20s_enter_mode">Mode %2$s dans %1$ds</string>
   <string name="power_notify_lowbattery">Si le niveau de charge est inférieur à %1$d%%</string>
   <string name="power_recovery_mode">Retour au mode %1$s</string>
@@ -3993,10 +3989,11 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="Settings_title_power_center">Paramètres de gestion d\'énergie</string>
   <string name="Settings_title_anti_virus">Paramètres anti-virus</string>
   <string name="garbage_white_list_empty_content">Liste blanche vide</string>
+  <!-- toast_garbage_cleanup_success à vérifier ? -->
   <string name="toast_garbage_cleanup_success">Nettoyage effectué</string>
   <string name="pref_title_expand_cache_group">Développer les groupes</string>
   <string name="pref_summary_expand_cache_group">Les groupes de la liste \"Cache\" seront développés par défaut</string>
-  <string name="dialog_msg_check_all">Confirmer la sélection de %1$s contenant %2$d éléments</string>
+  <string name="dialog_msg_check_all">%1$s contient %2$d éléments</string>
   <string name="msg_system_cache_hints">"Vider le cache n\'affecte pas vos données fichiers, paramètres, comptes, etc.</string>
   <string name="dialog_title_cleanup_system_cache">Vider le cache de données ?</string>
   <string name="dialog_msg_cleanup_system_cache">Cela va vider le cache de toutes les applications.</string>
@@ -4005,11 +4002,11 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="dialog_msg_cleanup_apps">"Toutes les données appli. vont être supprimées. Cela inclus tous les fichiers, paramètres, comptes, etc."</string>
   <string name="dialog_msg_backup_and_cleanup_apps">Une fois la sauvegarde effectuée, toutes les données appli. seront supprimées. Cela inclus tous les fichiers, paramètres, comptes, etc.</string>
   <string name="dialog_title_load_cleanup_engine_error">Erreur</string>
-  <string name="pref_category_title_cleanup_white_list">Liste de blanche</string>
+  <string name="pref_category_title_cleanup_white_list">Liste blanche</string>
   <string name="pref_title_cleanup_white_list">Liste des éléments ignorés</string>
   <string name="pref_summary_cleanup_white_list">Les éléments de la liste blanche sont ignorés</string>
   <string name="pref_summary_garbage_cleanup_check_size">Avertir si la poubelle dépasse la taille définie</string>
-  <string name="dialog_msg_load_cleanup_engine_error">Outil de nettoyage endommagé, il peut être est nécessaire de réinstaller la ROM</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Outil de nettoyage endommagé, il peut être nécessaire de réinstaller la ROM</string>
   
   <!-- for n5 at least.. : -->
   <string name="force_rtl_layout_all_locales_summary">Forcer orient. droite à gauche pour toutes langues</string>

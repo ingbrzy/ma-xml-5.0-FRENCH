@@ -36,8 +36,8 @@
   <string name="dlg_retore_ok">Restaurer</string>
   <string name="fw_blocked">Statistiques de blocage</string>
   <string name="fw_blocked_count">"Bloqués : "</string>
-  <string name="fw_blocked_count_call">%d appel(s) et</string>
-  <string name="fw_blocked_count_sms">%d SMS</string>
+  <string name="fw_blocked_count_call">%d appel(s)</string>
+  <string name="fw_blocked_count_sms">" et %d SMS"</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">"%d personnes l\'ont marqué comme "</string>
   <string name="marked_by_user">"Vous l\'avez marqué comme "</string>
@@ -65,7 +65,7 @@
   <string name="st_block_all">Bloquer les appels et SMS</string>
   <string name="st_block_mute">Bloquer les appels et couper le son des SMS</string>
   <string name="st_block_private_call_button">Bloquer les numéros privés</string>
-  <string name="st_block_setting_group">Paramètres de la liste de blocage</string>
+  <string name="st_block_setting_group">Paramètres de la liste noire</string>
   <string name="st_block_setting_title">Appels et SMS</string>
   <string name="st_block_title">Bloquer et enregistrer</string>
   <string name="st_block_unknown_call">Bloquer les numéros inconnus</string>
@@ -105,41 +105,41 @@
   <string name="menu_report_block">Marquer comme spam</string>
   <string name="st_sub_title_customize_mode_name">Nom du mode</string>
   <string name="st_title_open_antispam">Liste noire</string>
-  <string name="st_title_antispam_mode">Mode de blocage</string>
+  <string name="st_title_antispam_mode">Règles</string>
   <string name="st_sub_title_whiteblack_list_group">Liste noire</string>
   <string name="st_title_keywords_blacklist">Filtre par mots-clés</string>
-  <string name="st_title_blacklist_numbers">Liste noire</string>
+  <string name="st_title_blacklist_numbers">Numéros bloqués</string>
   <string name="st_title_whitelist_numbers">Exceptions</string>
-  <string name="st_title_backsound_group">Paramètres de son</string>
+  <string name="st_title_backsound_group">Message bloqué</string>
   <string name="st_title_anticomintcall_backsound_setting">Son de blocage</string>
   <string name="st_title_settings_other_group">Paramètres supplémentaires</string>
   <string name="st_title_show_antispamnotification">Notification d\'appels bloqués</string>
-  <string name="st_title_mode_choose_group">Sélection du mode</string>
+  <string name="st_title_mode_choose_group">Règles de blocage</string>
   <string name="st_title_adblock_group">Bloquer les publicités</string>
   <string name="st_title_adblock_setting">Paramètres anti-pub</string>
-  <string name="st_antispam_mode_smart">Liste noire intelligente</string>
-  <string name="st_antispam_mode_blacklist">Utiliser uniquement la liste noire</string>
+  <string name="st_antispam_mode_smart">Liste noire partagée</string>
+  <string name="st_antispam_mode_blacklist">Numéros bloqués</string>
   <string name="st_antispam_mode_only_contacts">Autoriser uniquement les contacts</string>
   <string name="st_antispam_mode_only_whitelist">Autoriser uniquement les exceptions</string>
   <string name="st_antispam_mode_only_all_deny">Bloquer tout</string>
-  <string name="st_antispam_mode_add_new">Ajouter un mode</string>
+  <string name="st_antispam_mode_add_new">Ajouter une règle</string>
   <string name="st_antispam_title_whitelist">Exceptions</string>
-  <string name="st_antispam_title_contactandanoy_group">Contacts et inconnus</string>
+  <string name="st_antispam_title_contactandanoy_group">Paramètres</string>
   <string name="st_antispam_title_contact_sms">Messages de contacts</string>
   <string name="st_antispam_title_contact_incoming">Appels de contacts</string>
-  <string name="st_antispam_title_anoy_sms">Messages d\'inconnus</string>
-  <string name="st_antispam_title_anoy_incoming">Appels d\'inconnus</string>
-  <string name="st_antispam_title_null_incoming">Appels privés</string>
-  <string name="st_antispam_mode_smart_sum">Appliquer la liste noire et bloquer certains appels provenant d\'inconnus</string>
-  <string name="st_antispam_mode_blacklist_sum">Bloquer les messages et les appels des numéros inscrits sur la liste noire</string>
-  <string name="st_antispam_mode_only_contacts_sum">Autoriser uniquement les appels et les messages des contacts</string>
-  <string name="st_antispam_mode_only_whitelist_sum">Autoriser uniquement les appels et les messages des numéros inscrits sur la liste des exceptions</string>
-  <string name="st_antispam_mode_only_all_deny_sum">Bloquer tous les appels et tous les messages</string>
-  <string name="st_antispam_mode_customize_sum">Créer vos propres paramètres</string>
-  <string name="st_antispam_mode_denyownself_sum">Mode de liste noire personnalisé</string>
+  <string name="st_antispam_title_anoy_sms">Messages de numéros inconnus</string>
+  <string name="st_antispam_title_anoy_incoming">Appels de numéros inconnus</string>
+  <string name="st_antispam_title_null_incoming">Appels de numéros privés</string>
+  <string name="st_antispam_mode_smart_sum">Bloque les numéros que vous avez ajouté ou qui ont étés signalés par d\'autres utilisateurs</string>
+  <string name="st_antispam_mode_blacklist_sum">Bloque les messages et les appels des numéros inscrits sur la liste noire</string>
+  <string name="st_antispam_mode_only_contacts_sum">Autorise uniquement les appels et les messages des contacts</string>
+  <string name="st_antispam_mode_only_whitelist_sum">Autorise uniquement les appels et les messages des numéros inscrits sur la liste des exceptions</string>
+  <string name="st_antispam_mode_only_all_deny_sum">Bloque tous les appels et tous les messages</string>
+  <string name="st_antispam_mode_customize_sum">Création de liste noire personnalisée</string>
+  <string name="st_antispam_mode_denyownself_sum">Règles personnalisées</string>
   <string name="st_antispam_notification_sum">Notifier les appels et les messages bloqués</string>
   <string name="st_antispam_des_anti">Bloquer</string>
-  <string name="st_antispam_des_smart_anti">Liste noire intelligente</string>
+  <string name="st_antispam_des_smart_anti">Filtre</string>
   <string name="st_antispam_des_permit">Autoriser</string>
   <string name="st_antispam_des_uesless">Désactivé</string>
   <string name="st_antispam_des_permit_nokeyword">Autoriser (à l\'exception des mots-clés)</string>
@@ -153,7 +153,7 @@
   <string name="note_sms_none">Aucun message à modifier</string>
   <string name="note_call_none">Aucun enregistrement d\'appel à modifier</string>
   <string name="note_keyword_none">Aucun mot clé à modifier</string>
-  <string name="note_preference_delete">Le mode est en cours d\'utilisation, il ne peut donc pas être supprimé</string>
+  <string name="note_preference_delete">Impossible de supprimer une règle en cours d\'utilisation</string>
   <string name="user_define_title">Personnalisé</string>
   <string name="blacklist_prefix_add_hint">Ajouter tous les numéros avec préfixe à la liste noire</string>
   <string name="whitelist_prefix_add_hint">Ajouter tous les numéros avec préfixe aux exceptions</string>
@@ -206,6 +206,7 @@
   <string name="st_title_back_sound_stop">Ce numéro n\'est pas attribué</string>
   <string name="st_title_call_wait_setting">Paramètres d\'appel en attente</string>
   <string name="st_title_call_wait">Appel en attente</string>
+  <!-- st_sum_call_wait à revor formulation -->
   <string name="st_sum_call_wait">Si votre signal d\'occupation n\'est pas réglé par défaut, cela peut être source de confusions pour un appelant.</string>
   <string name="st_antispam_bw_man_add">Ajouter un numéro de téléphone</string>
   <string name="st_antispam_bw_head_add">Ajouter un préfixe</string>
@@ -219,7 +220,7 @@
  <!-- trop long à vérifier/ revoir formulation : -->
   <string name="SMS_BLACKLIST">SMS en liste noire</string>
   <string name="SMS_PREFIX">Préfixe en liste noire</string>
-  <string name="SMS_DEFAULT">Liste noire intelligente</string>
+  <string name="SMS_DEFAULT">Liste noire partagée</string>
   <string name="SMS_MODENAME">Liste noire par défaut</string>
   <string name="SMS_KEYWORDS">Mots clés en liste noire</string>
   <string name="SMS_ADRESS">Lieu en liste noire</string>
@@ -228,7 +229,7 @@
   <string name="Call_MODENAME">Liste noire par défaut</string>
   <string name="Call_ADRESS">Lieu en liste noire</string>
   <string name="Call_PRIVATE_CALL">Appels privés</string>
-  <string name="Call_DEFAULT">Liste noire intelligente</string>
+  <string name="Call_DEFAULT">Liste noire partagée</string>
  <!-- -->
   <string name="PAST_BLOCK">Précédemment bloqué</string>
   <string name="AD_AntiSpam">Bloquer les sollicitations</string>
@@ -255,7 +256,5 @@
   <string name="ACaddnumcontent">Saisissez le numéro, vous pouvez utilisez le joker *</string>
   <string name="sms_delete_hint">Supprimer tous les messages bloqués envoyés depuis le numéro sélectionné ?</string>
   <string name="call_delete_hint">Supprimer tous les appels bloqués émis depuis le numéro sélectionné ?</string>
-  <!-- à traduire 4.5.21
-  <string name="backsound_set_hint">Set your backsound to %s?</string>
-  -->
+  <string name="backsound_set_hint">Utiliser %s comme avertissement sonore ?</string>
 </resources>

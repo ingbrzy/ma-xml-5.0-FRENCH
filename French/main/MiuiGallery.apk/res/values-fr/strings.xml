@@ -2,6 +2,8 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- removed in 4.6.5 mi2 -->
+  <string name="picker_tab_camera">Appareil photo</string>
 <!-- removed in 4.5.6 mi2 -->
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s image(s) dans %s album(s), êtes-vous sûr de vouloir les supprimer ?</string>
   <string name="model">Modèle</string>
@@ -483,7 +485,6 @@
   <string name="pick_too_much_tips">"Impossible de sélectionner autant d\'éléments (%d maximum)."</string>
   <string name="operation_add_picture">Ajouter des images</string>
   <string name="preparing_data_to_delete">Préparation de la suppression.</string>
-  <string name="picker_tab_camera">Appareil photo</string>
   <string name="picker_no_items_selected">Aucun élément sélectionné</string>
   <string name="picker_select_album_title_empty">Sélectionner un album</string>
   <string name="picker_no_album_selected">Aucun album sélectionné</string>
@@ -510,4 +511,18 @@
   <string name="item_not_sync">Cet élément n\'a pas été synchronisé sur le cloud et ne peut pas être téléchargé</string>
   <string name="move">Déplacer</string>
   <string name="yellow_page">Pages jaunes</string>
+  <string name="picker_tab_photo">Photo</string>
+  <!-- à traduire
+  <string name="local_time">(Local)</string>
+  <string name="photo_page_detail_show_in_the_map">Show the location in the map</string>
+  <string name="start_slide_show">Start slide show</string>
+  <string name="click_to_add_picture">Click to add images</string>
+  <string name="sync_in_progress_message">Sync is now in progressing...</string>
+  <string name="alert_init_merged_title">All your photos. Together at last.</string>
+  <string name="alert_init_merged_message">"Now, photos on your device and photos you've stored in Mi Cloud will be displayed together."</string>
+  <string name="long_press_to_refocus">Keep pressing to refocus</string>
+  <string name="ubifocus_data_missing">Some data is lost</string>
+  <string name="ubifocus_map_error">Some data is wrong</string>
+  <string name="ubifocus_refocus_fail_tip">Cannot refocus due to some missing or wrong data</string>
+  -->
 </resources>
