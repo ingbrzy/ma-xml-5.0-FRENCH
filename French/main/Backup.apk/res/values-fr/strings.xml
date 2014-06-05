@@ -231,7 +231,7 @@
   <string name="task_service_not_launched">Le service n\'est pas démarré, veuillez patienter !</string>
   <string name="task_stopped_exception">Tâche interrompue</string>
   <string name="total_num">%d au total</string>
-  <string name="unit_byte">o</string>
+  <string name="unit_byte">" octets"</string>
   <string name="unit_piece">" élément(s)"</string>
   <string name="unknown_hint">Inconnu</string>
   <string name="wifi_title">Paramètres Wi-Fi</string>

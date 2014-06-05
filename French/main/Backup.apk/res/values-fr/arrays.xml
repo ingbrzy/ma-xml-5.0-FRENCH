@@ -12,7 +12,7 @@
     <item>Gestionnaire d\'autorisation</item>
     <item>Appareil photo</item>
     <item>Assistant réseau</item>
-    <item>Stockage météo</item>
+    <item>Données météo</item>
     <item>Météo</item>
   </string-array>
   <string-array name="system_data_label">
