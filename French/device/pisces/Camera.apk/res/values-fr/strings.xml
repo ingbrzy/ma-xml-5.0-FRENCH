@@ -21,7 +21,6 @@
   <string name="aperture">Ouverture</string>
   <string name="app_details">Détails de l\'application :</string>
   <string name="auto">Automatique</string>
-  <string name="auto_scene_exit_button_text">Quitter le mode scène</string>
   <string name="bg_replacement_message">Placez votre appareil sur une surface stable et veillez à ce qu\'il n\'y ai aucun mouvement derrière vous. Puis sortez de la vision de la caméra.</string>
   <string name="camera_disabled">L\'appareil photo a été désactivé en raison des règles de sécurité.</string>
   <string name="camera_error_title">Erreur de l\'appareil photo.</string>
@@ -185,17 +184,30 @@
   <string name="pref_camera_audio_capture_title">Capture audio</string>
   <string name="pref_camera_auto_focus_title_entry_off">Désactivé</string>
   <string name="pref_camera_auto_focus_title_entry_on">Activé</string>
-  <string name="pref_camera_auto_scene_title">Détecter la scène auto.</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centre pondéré</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Trame moyenne</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesure de spot</string>
   <string name="pref_camera_autoexposure_title">Mode d\'exposition automatique</string>
-  <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
+  <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
-  <string name="pref_camera_coloreffect_entry_negative">Négatif</string>
+  <string name="pref_camera_coloreffect_entry_vivid">Vif</string>
+  <string name="pref_camera_coloreffect_entry_yesteryear">Rétro</string>
+  <string name="pref_camera_coloreffect_entry_brannan">Aube</string>
+  <string name="pref_camera_coloreffect_entry_sketch">Croquis</string>
+  <string name="pref_camera_coloreffect_entry_seventy">1970s</string>
+  <string name="pref_camera_coloreffect_entry_fisheye">Fish Eye</string>
+  <string name="pref_camera_coloreffect_entry_jstyle">Japonais</string>
+  <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
+  <string name="pref_camera_coloreffect_entry_mosaic">Mosaïque</string>
+  <string name="pref_camera_coloreffect_entry_earlybird">Automne</string>
+  <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
+  <string name="pref_camera_coloreffect_entry_planet">Petit monde</string>
+  <string name="pref_camera_coloreffect_entry_mirror">Miroir</string>
+  <string name="pref_camera_coloreffect_entry_gaussianblur">Flou gaussien</string>
+  <string name="pref_camera_coloreffect_entry_negative"/>
   <string name="pref_camera_coloreffect_entry_none">Aucun</string>
-  <string name="pref_camera_coloreffect_entry_posterize">Postérisation</string>
-  <string name="pref_camera_coloreffect_entry_sepia">Sépia</string>
+  <string name="pref_camera_coloreffect_entry_posterize"/>
+  <string name="pref_camera_coloreffect_entry_sepia"/>
   <string name="pref_camera_coloreffect_title">Effet de couleur</string>
   <string name="pref_camera_contrast_title">Contraste</string>
   <string name="pref_camera_current_k_value">Valeur actuelle</string>
@@ -218,6 +230,7 @@
   <string name="pref_camera_focusmode_entry_normal">Standard</string>
   <string name="pref_camera_focusmode_title">Mise au point</string>
   <string name="pref_camera_hand_night_title">Mode nuit</string>
+  <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Live</string>
   <string name="pref_camera_hdr_type_entry_normal">Normal</string>
   <string name="pref_camera_hdr_type_title">Type HDR</string>
@@ -253,6 +266,7 @@
   <string name="pref_camera_multilevel_entry_low">Moins que normal</string>
   <string name="pref_camera_multilevel_entry_lower">Faible</string>
   <string name="pref_camera_multilevel_entry_lowest">Le plus faible</string>
+  <string name="pref_camera_multilevel_entry_middle">Moyen (par défaut)</string>
   <string name="pref_camera_multilevel_entry_normal">Normal</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">Un visage</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">Deux visages</string>
@@ -261,12 +275,11 @@
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
   <string name="pref_camera_picture_format_title">Sélectionner le format de l\'image</string>
-  <string name="pref_camera_picturesize_entry_3200x1800">Plein écran 16:9</string>
-  <string name="pref_camera_picturesize_entry_3200x2400">Standard 4:3</string>
-  <string name="pref_camera_picturesize_entry_4208x2368">Plein écran 16:9</string>
-  <string name="pref_camera_picturesize_entry_4208x3120">Standard 4:3</string>
+  <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Plein écran 16:9</string>
   <string name="pref_camera_picturesize_title">Taille d\'image</string>
   <string name="pref_camera_picturesize_title_simple_mode">Repère de la caméra</string>
+  <string name="pref_camera_raw_data_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
   <string name="pref_camera_recordlocation_entry_on">Activé</string>
   <string name="pref_camera_recordlocation_title">Enregistrer la position</string>
@@ -281,7 +294,6 @@
   <string name="pref_camera_scenedetect_title">Détection de scène automatique</string>
   <string name="pref_camera_scenemode_entry_auto">Automatique</string>
   <string name="pref_camera_scenemode_entry_backlight">Rétro-éclairage</string>
-  <string name="pref_camera_scenemode_entry_backlight_portrait">Portrait rétro-éclairé</string>
   <string name="pref_camera_scenemode_entry_beach">Plage</string>
   <string name="pref_camera_scenemode_entry_fireworks">Feux d\'artifice</string>
   <string name="pref_camera_scenemode_entry_flowers">Fleurs</string>
@@ -321,6 +333,7 @@
   <string name="pref_camera_volumekey_function_entry_exposure">Exposition</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Obturateur</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
+  <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Fonctions des touches de volume</string>
   <string name="pref_camera_watermark_entry_off">Désactivé</string>
   <string name="pref_camera_watermark_entry_on">Activé</string>
@@ -363,10 +376,10 @@
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Qualité vidéo</string>
-  <string name="pref_video_slow_speed_title_simple_mode">Slow-motion</string>
-  <string name="pref_video_speed_entry_fast">Rapide</string>
+  <string name="pref_video_slow_speed_title_simple_mode">Fast-motion</string>
+  <string name="pref_video_speed_entry_fast">Lent</string>
   <string name="pref_video_speed_entry_normal">Normal</string>
-  <string name="pref_video_speed_entry_slow">Lent</string>
+  <string name="pref_video_speed_entry_slow">Rapide</string>
   <string name="pref_video_speed_title">Vitesse de la vidéo</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">0.3 seconde (10 fois)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">4 secondes (120 fois)</string>
@@ -420,7 +433,7 @@
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
   <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>
   <string name="simple_mode_button_text_panorama">Quitter le mode panorama</string>
-  <string name="simple_mode_button_text_slow_video">Quitter le mode Slow-motion</string>
+  <string name="simple_mode_button_text_slow_video">Quitter le mode Fast-motion</string>
   <string name="simple_mode_title">Mode simple</string>
   <string name="slideshow">Diaporama</string>
   <string name="snapshot_lower_than_video">La taille de capture vidéo est inférieure à la taille de la vidéo. Plafonnement de la taille de la vidéo. Veuillez sélectionner une résolution supérieure ou égale à la taille actuelle de la vidéo.</string>
@@ -469,4 +482,23 @@
   <string name="wifi_security">Sécurité :</string>
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
+  <string name="pref_camera_ubi_focus_title">Ubi Focus</string>
+  <string name="pref_camera_opti_zoom_title">Opti Zoom</string>
+  <string name="pref_camera_chroma_flash_title">Chroma Flash</string>
+  <string name="simple_mode_button_text_ubi_focus">Quitter Ubi Focus</string>
+  <string name="simple_mode_button_text_chroma_flash">Quitter Chroma Flash</string>
+  <string name="simple_mode_button_text_opti_zoom">Quitter OptiZoom</string>
+  <string name="ubi_focus_exit_button_text">Quitter le mode Ubi Focus</string>
+  <string name="chroma_flash_exit_button_text">Quitter le mode Chroma Flash</string>
+  <string name="opti_zoom_exit_button_text">Quitter le mode OptiZoom</string>
+  <string name="pref_camera_auto_opti_zoom_title">Opti Zoom quand le ratio est supérieur à 2</string>
+  <string name="confirm_enable_opti_zoom_message">Voulez-vous activer le mode Opti Zoom pour vos photos ?</string>
+  <string name="enable_feature">Oui</string>
+  <string name="not_enable_feature">Rappeler la prochaine fois</string>
+  <string name="pref_camera_auto_chroma_flash_title">Flash Chroma Auto</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
+ <!-- à traduire
+  <string name="pref_touch_down_capture_title">Touch Down Capture</string>
+ -->
+
 </resources>

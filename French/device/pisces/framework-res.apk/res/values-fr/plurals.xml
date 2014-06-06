@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Il vous reste %d tentatives avant que votre carte SIM ne soit verrouillée.</item>
+        <item quantity="one">Il vous reste %d tentative avant que votre carte SIM ne soit verrouillée.</item>
+    </plurals>
     <plurals name="num_seconds_ago">
         <item quantity="other">Il y a %d secondes</item>
         <item quantity="one">Il y a 1 seconde</item>
@@ -10,14 +14,15 @@
     </plurals>
     <plurals name="num_hours_ago">
         <item quantity="other">Il y a %d heures</item>
-        <item quantity="one">il y a 1 heure</item>
+        <item quantity="one">Il y a 1 heure</item>
     </plurals>
     <plurals name="last_num_days">
+	    <item quantity="one">Hier</item>
         <item quantity="other">Les %d derniers jours</item>
     </plurals>
     <plurals name="num_days_ago">
         <item quantity="other">Il y a %d jours</item>
-        <item quantity="one">hier</item>
+        <item quantity="one">Hier</item>
     </plurals>
     <plurals name="in_num_seconds">
         <item quantity="other">dans %d secondes</item>
@@ -36,20 +41,20 @@
         <item quantity="one">demain</item>
     </plurals>
     <plurals name="abbrev_num_seconds_ago">
-        <item quantity="other">il y a %d secondes</item>
-        <item quantity="one">il y a 1 seconde</item>
+        <item quantity="other">Il y a %d secondes</item>
+        <item quantity="one">Il y a 1 seconde</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">il y a %d minutes</item>
-        <item quantity="one">il y a 1 minute</item>
+        <item quantity="other">Il y a %d minutes</item>
+        <item quantity="one">Il y a 1 minute</item>
     </plurals>
     <plurals name="abbrev_num_hours_ago">
         <item quantity="other">Il y a %d heures</item>
-        <item quantity="one">il y a 1 heure</item>
+        <item quantity="one">Il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_num_days_ago">
         <item quantity="other">Il y a %d jours</item>
-        <item quantity="one">hier</item>
+        <item quantity="one">Hier</item>
     </plurals>
     <plurals name="abbrev_in_num_seconds">
         <item quantity="other">dans %d secondes</item>
@@ -90,5 +95,9 @@
     <plurals name="matches_found">
         <item quantity="other">%1$d sur %2$d</item>
         <item quantity="one">1 correspondance</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Réessayer dans %d s</item>
+        <item quantity="one">Réessayer dans 1 s</item>
     </plurals>
 </resources>
