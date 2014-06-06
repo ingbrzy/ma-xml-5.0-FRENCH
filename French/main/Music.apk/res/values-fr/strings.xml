@@ -354,16 +354,13 @@
   <string name="scan_barcode_to_connect">Placez le code QR KTV dans le viseur</string>
   <string name="volume_alert_playback_alert_title">Avertissement volume sonore</string>
   <string name="volume_alert_playback_message">L\'écoute de musique à un volume sonore élevé provoque, à la longue, des dommages permanents et irréversibles du système auditif.</string>
- 
- <!-- à traduire :
- 4.5.16
-  <string name="sync_disable_toast">You can always enable sync later in Settings > Accounts > Mi Cloud</string>
-  <string name="login_and_enable">Sign in and sync</string>
-  <string name="sync_enable_toast">You can change this setting in Settings > Accounts > Mi Cloud</string>
-  <string name="collect_bill_success">Bill added to favorites</string>
+  <string name="login_and_enable">Connexion et synchronisation</string>
+  <string name="sync_disable_toast">Vous pouvez activer la synchronisation plus tard via Paramètres > Comptes > MiCloud</string>
+  <string name="sync_enable_toast">Vous pouvez activer ce paramètre via Paramètres > Comptes > MiCloud</string>
+  <string name="collect_bill_success">Ajouté aux favoris</string>
+  <string name="ktv_connected_alert_message">Les musiques sélectionnées seront ajoutées à la playlist \"Mon KTV\"</string>
+  <string name="ktv_unbind_message">"Erreur, veuillez vous assurer que le code QR KTV soit correct"</string>
+ <!-- à traduire :
   <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
-  <string name="ktv_connected_alert_message">The songs you select will be added to the playlist named My KTV</string>
-  <string name="ktv_unbind_message">"Failed to connect with KTV console. Make sure you're scanning the correct QR code."</string>
-
  -->
 </resources>

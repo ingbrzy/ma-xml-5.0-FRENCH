@@ -416,7 +416,7 @@
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
   <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>
   <string name="simple_mode_button_text_panorama">Quitter le mode panorama</string>
-  <string name="simple_mode_button_text_slow_video">Quitter le mode Fast-motion</string>
+  <string name="simple_mode_button_text_slow_video">Quitter le mode Slow-motion</string>
   <string name="simple_mode_title">Mode simple</string>
   <string name="slideshow">Diaporama</string>
   <string name="snapshot_lower_than_video">La taille de capture vidéo est inférieure à la taille de la vidéo. Plafonnement de la taille de la vidéo. Veuillez sélectionner une résolution supérieure ou égale à la taille actuelle de la vidéo.</string>
@@ -466,7 +466,7 @@
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
   <string name="auto_scene_exit_button_text">Quitter le mode scène</string>
-  <string name="pref_camera_scenemode_entry_backlight_portrait">Portrait avec rétro-éclairage</string>
+  <string name="pref_camera_scenemode_entry_backlight_portrait">Portrait rétro-éclairé</string>
   <string name="pref_camera_auto_scene_title">Détection de scène</string>
   <string name="pref_camera_picturesize_entry_4208x3120">Standard 4:3</string>
   <string name="pref_camera_picturesize_entry_4208x2368">Plein écran 16:9</string>
