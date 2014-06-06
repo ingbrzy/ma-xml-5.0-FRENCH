@@ -734,6 +734,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">"Double cœur "</string>
   <string name="device_cpu4_info">"Quadruple cœur "</string>
+  <string name="device_cpu8_info">"Octo cœur "</string>
   <string name="device_edit_title">Changer le nom du périphérique</string>
   <string name="device_info_default">Inconnu</string>
   <string name="device_info_label">Informations sur l\'appareil</string>
@@ -4178,7 +4179,6 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="dialog_message_auto_start_tips">Certaines applications de sécurité peuvent incorrectement indiquer que MIUI empêche leur fonctionnement correct. Pour vérifier les permissions accordées aux applications, allez dans Paramètres > Applications.</string>
   <string name="dialog_title_auto_start_tips">À propos des démarrages auto</string>
   <string name="translation_contributors_title">Contributeurs</string>
-  
  <!-- à traduire 
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
