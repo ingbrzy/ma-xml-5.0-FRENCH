@@ -734,7 +734,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">"Double cœur "</string>
   <string name="device_cpu4_info">"Quadruple cœur "</string>
-  <string name="device_cpu8_info">"Octo cœur "</string>
+  <string name="device_cpu8_info">"Octuple cœur "</string>
   <string name="device_edit_title">Changer le nom du périphérique</string>
   <string name="device_info_default">Inconnu</string>
   <string name="device_info_label">Informations sur l\'appareil</string>
