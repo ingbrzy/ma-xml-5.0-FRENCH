@@ -512,17 +512,17 @@
   <string name="move">Déplacer</string>
   <string name="yellow_page">Pages jaunes</string>
   <string name="picker_tab_photo">Photo</string>
-  <!-- à traduire
   <string name="local_time">(Local)</string>
-  <string name="photo_page_detail_show_in_the_map">Show the location in the map</string>
-  <string name="start_slide_show">Start slide show</string>
-  <string name="click_to_add_picture">Click to add images</string>
-  <string name="sync_in_progress_message">Sync is now in progressing...</string>
-  <string name="alert_init_merged_title">All your photos. Together at last.</string>
-  <string name="alert_init_merged_message">"Now, photos on your device and photos you've stored in Mi Cloud will be displayed together."</string>
+  <string name="photo_page_detail_show_in_the_map">Afficher la position sur la carte</string>
+  <string name="start_slide_show">Démarrer le diaporama</string>
+  <string name="click_to_add_picture">Appuyer pour ajouter des images</string>
+  <string name="sync_in_progress_message">Synchronisation en cours…</string>
+  <string name="alert_init_merged_title">Information</string>
+  <string name="alert_init_merged_message">Dorénavant les photos stockées sur votre appareil et celles stockées sur MiCloud seront affichées ensemble.</string>
+  <string name="ubifocus_data_missing">Certaines données sont perdues</string>
+  <string name="ubifocus_map_error">Certaines données sont incorrectes</string>
+ <!-- à traduire
   <string name="long_press_to_refocus">Keep pressing to refocus</string>
-  <string name="ubifocus_data_missing">Some data is lost</string>
-  <string name="ubifocus_map_error">Some data is wrong</string>
   <string name="ubifocus_refocus_fail_tip">Cannot refocus due to some missing or wrong data</string>
   -->
 </resources>
