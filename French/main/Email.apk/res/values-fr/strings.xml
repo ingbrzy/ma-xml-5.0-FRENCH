@@ -948,10 +948,10 @@ Taille : %2$s"</string>
 Taille du patch Delta : %2$s"</string>
   <string name="xiaomi_external_storage_unavailable">Espace de stockage non disponible, veuillez vérifier votre carte SD.</string>
   <string name="mail">Mail</string>
-  <string name="dialog_insufficient_space_on_internal">Impossible de terminer le téléchargement. L\'espace disponible sur la mémoire interne est insuffisant.</string>
-  <string name="dialog_insufficient_space_on_external">Impossible de terminer le téléchargement. L\'espace disponible sur la carte SD est insuffisant.</string>
+  <string name="dialog_insufficient_space_on_internal">Le téléchargement a échoué. L\'espace disponible sur la mémoire interne est insuffisant.</string>
+  <string name="dialog_insufficient_space_on_external">Le téléchargement a échoué. L\'espace disponible sur la carte SD est insuffisant.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Espace de stockage insuffisant pour %s.</string>
-  <string name="dialog_auto_download_failed">Impossible de terminer le téléchargement</string>
+  <string name="dialog_auto_download_failed">Le téléchargement automatique a échoué, veuillez essayez manuellement.</string>
   <string name="att_download_failed_title">Avertissement</string>
   <string name="att_download_failed_content">Le téléchargement de la pièce jointe a échoué</string>
   <string name="outbox_alert_button_resend">Renvoyer</string>
