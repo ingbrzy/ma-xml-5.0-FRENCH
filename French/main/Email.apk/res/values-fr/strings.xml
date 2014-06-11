@@ -954,6 +954,10 @@ Taille du patch Delta : %2$s"</string>
   <string name="dialog_auto_download_failed">Impossible de terminer le téléchargement</string>
   <string name="att_download_failed_title">Avertissement</string>
   <string name="att_download_failed_content">Le téléchargement de la pièce jointe a échoué</string>
+  <string name="outbox_alert_button_resend">Renvoyer</string>
+  <string name="outbox_alert_button_no_resend">Ne pas renvoyer</string>
+  <string name="outbox_alert_mailbox_not_found">Adresse email introuvable</string>
+  
  <!-- à traduire :
   <string name="device_activity_btn_str">Return To Activate</string>
   <string name="device_not_activiey_lint1">Device Manager is not activated</string>

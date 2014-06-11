@@ -4179,6 +4179,13 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="dialog_message_auto_start_tips">Certaines applications de sécurité peuvent incorrectement indiquer que MIUI empêche leur fonctionnement correct. Pour vérifier les permissions accordées aux applications, allez dans Paramètres > Applications.</string>
   <string name="dialog_title_auto_start_tips">À propos des démarrages auto</string>
   <string name="translation_contributors_title">Contributeurs</string>
+  <string name="app_feedback">Signaler un bug</string>
+  <string name="app_backup">Sauvegarde</string>
+  <string name="google_backup_section_title">Sauvegarde et restauration Google</string>
+  <string name="system_backup_section_title">Sauvegarde</string>
+  <string name="local_backup_section_title">Sauvegarde locale</string>
+  <string name="local_backup_section_summary">Permet de sauvegarder les comptes, applis et paramètres système</string>
+  
  <!-- à traduire 
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
