@@ -233,10 +233,18 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="press_color_to_apply">Appuyez sur la couleur pour appliquer</string>
   <string name="permlab_receiveDmRegisterSms">recevoir les SMS DM Register</string>
   <string name="permdesc_receiveDmRegisterSms">Permet à l\'application de recevoir et de traiter les messages SMS DM Register. Aucune application hormis DM APP ne devrait utiliser ceci.</string>
-
+  <string name="pin_pass">Code accepté</string>
+  <string name="puk_pass">PIN débloqué</string>
+  <string name="secure_warning_title">AVERTISSEMENT</string>
+  <string name="secure_warning_message">Ce contenu est protégé par DRM. Vous ne pouvez le lire que sur cet appareil.</string>
  <!-- à traduire :
   <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
   <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>
   <string name="recip_unsupport_selection">Sorry, you can not move the caret to the start when there are recipients in RecipientsView.</string>
- -->
+  <string name="wifi_display_bt_hdmi_off_wfd_on">Bluetooth and HDMI will be turned off when you turn on wireless display. Do you want to continue?</string>
+  <string name="wifi_display_wfd_off_hdmi_on">Wireless display will be turned off when you turn on HDMI. Do you want to continue?</string>
+  <string name="wifi_display_reconnect">Reconnect</string>
+  <string name="wifi_display_disconnect_then_reconnect">Wireless display disconnect. Do you want to reconnect?</string>
+  <string name="wifi_display_disconnected">Wireless display disconnected.</string>
+  -->
 </resources>
