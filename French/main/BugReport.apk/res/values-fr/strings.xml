@@ -31,7 +31,7 @@
   <string name="network_unavailable_dialog_content">Vos commentaires seront envoyés lorsque le réseau mobile sera disponible</string>
   <string name="network_unavailable_dialog_title">Réseau indisponible</string>
   <string name="packaging_dialog_content">Le rapport est en cours de génération, veuillez patienter…</string>
-  <string name="report_miui">Rapporter à MIUI</string>
+  <string name="report_miui">Rapport de crash</string>
   <string name="section_description">Description</string>
   <string name="section_err_type">Type de retour</string>
   <string name="section_screenshot">Captures d\'écran</string>

@@ -80,20 +80,20 @@
   <string name="ok_button">OK</string>
   <string name="security_setting">Paramètres de sécurité</string>
   <string name="lockscreen_forgot_pattern_button_text"><u>Schéma oublié ?</u></string>
-  <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage :</string>
-  <string name="lockpattern_settings_help_how_to_record">Comment dessiner un schéma de déverrouillage :</string>
-  <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points. Veuillez réessayer :</string>
+  <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage</string>
+  <string name="lockpattern_settings_help_how_to_record">Comment dessiner un schéma de déverrouillage</string>
+  <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points. Veuillez réessayer</string>
   <string name="lockpattern_pattern_entered_header">Schéma enregistré.</string>
-  <string name="lockpattern_need_to_confirm">Redessinez le schéma pour confirmer :</string>
-  <string name="lockpattern_need_to_confirm_wrong">Ne correspond pas au schéma précédent, veuillez recommencer :</string>
+  <string name="lockpattern_need_to_confirm">Redessinez le schéma pour confirmer</string>
+  <string name="lockpattern_need_to_confirm_wrong">Ne correspond pas au schéma précédent, veuillez recommencer</string>
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Schéma non valide, %d tentatives restantes&lt;/font></string>
-  <string name="lockpattern_pattern_confirmed_header">Votre nouveau schéma de déverrouillage :</string>
+  <string name="lockpattern_pattern_confirmed_header">Votre nouveau schéma de déverrouillage</string>
   <string name="lockpattern_recording_inprogress">Ôtez le doigt lorsque vous avez terminé.</string>
   <string name="lockpattern_retry_text"><u>Réinitialiser le schéma de verrouillage</u></string>
-  <string name="forget_password"><u>Mot de passe oublié</u></string>
+  <string name="forget_password"><u>Schéma oublié ?</u></string>
   <string name="change_security_lock">Modifier le verrouillage de sécurité</string>
-  <string name="lockpassword_confirm_your_pattern_header">Confirmez votre schéma</string>
-  <string name="lockpassword_input_your_pattern_header">Confirmez votre schéma</string>
+  <string name="lockpassword_confirm_your_pattern_header">Veuillez confirmez votre schéma</string>
+  <string name="lockpassword_input_your_pattern_header">Veuillez dessiner votre schéma</string>
   <string name="lockpassword_choose_your_pattern_header">Choisissez votre schéma</string>
   <string name="lockpattern_continue_button_text">Continuer</string>
   <string name="lockpattern_redraw_button_text">Recommencer</string>
@@ -128,23 +128,23 @@
   <string name="jump_updatepattern_tip">Pour la sécurité de votre compte Mi, il est déconseillé de ne pas protéger l\'accès à Authenticator</string>
   <string name="jump_lockpattern_title">Avertissement</string>
   <string name="update_pattern_jump"><u>Fermer</u></string>
-  <string name="original_pattern_tip">Schéma de déverrouillage actuelﾠ:</string>
-  <string name="new_pattern_tip">Dessinez un nouveau schémaﾠ:</string>
+  <string name="original_pattern_tip">Schéma de déverrouillage actuel</string>
+  <string name="new_pattern_tip">Dessinez un nouveau schéma</string>
   <string name="title_createpattern">Définir un schéma de verrouillage</string>
   <string name="title_updatepattern">Modification du schéma</string>
-  <string name="title_forgetpattern">Mot de passe oubliéﾠ?</string>
+  <string name="title_forgetpattern">Schéma oubliéﾠ?</string>
   <string name="resetbtn_patternforgotten">Restaurer</string>
   <string name="authenticator_page_reactivation">Réactiver</string>
-  <string name="success_set_password">Mot de passe modifié avec succès</string>
-  <string name="success_reset_password">Mot de passe réinitialisé avec succès</string>
-  <string name="correct_enter_password">Mot de passe</string>
-  <string name="correct_enter_update_password">Mot de passe correct</string>
-  <string name="title_patternforgotten">"Mot de passe oubliéﾠ?
+  <string name="success_set_password">Schéma modifié avec succès</string>
+  <string name="success_reset_password">Schéma réinitialisé avec succès</string>
+  <string name="correct_enter_password"/>
+  <string name="correct_enter_update_password"/>
+  <string name="title_patternforgotten">"Schéma oubliéﾠ?
 Vous pouvezﾠ:"</string>
-  <string name="activation_page_info">"Veuillez vous connecter sur account.xiaomi.com puis cliquez sur \"管理\" et \"重置\"
+  <string name="activation_page_info">"Connectez-vous sur account.xiaomi.com puis cliquez sur \"管理\" et \"重置\".
 
-Pour le moment vous devez basculer le site en chinois pour avoir accès à ces options"</string>
-  <string name="activation_page">Application non activée</string>
+Pour le moment vous devez basculer le site en chinois pour avoir accès à ces options."</string>
+  <string name="activation_page">Veuillez activer l\'application</string>
   <string name="activation_page_btn_txt">Activer</string>
   <string name="timesync_preference_screen_title">Correction horaire pour les codes</string>
   <string name="timesync_preference_screen_summary">"Synchronise l'horloge interne d'Authenticator avec les serveurs de Xiaomi"</string>
@@ -152,15 +152,15 @@ Pour le moment vous devez basculer le site en chinois pour avoir accès à ces o
   <string name="timesync_about_feature_preference_title">À propos de cette fonctionnalité</string>
   <string name="timesync_about_feature_screen_title">À propos de cette fonctionnalité</string>
   <string name="timesync_sync_now_screen_title">Synchroniser</string>
-  <string name="timesync_sync_now_progress_dialog_title">Synchroniser</string>
+  <string name="timesync_sync_now_progress_dialog_title">Information</string>
   <string name="timesync_sync_now_progress_dialog_details">Connexion au serveur en cours…</string>
-  <string name="timesync_sync_now_time_corrected_dialog_title">Heure corrigée</string>
+  <string name="timesync_sync_now_time_corrected_dialog_title">Information</string>
   <string name="timesync_sync_now_time_corrected_dialog_details">"L'horloge interne de Xiaomi Authenticator a été ajustée de manière à correspondre à l'heure fournie par les serveurs. 
 
 Les paramètres de date et d'heure de cet appareil n'ont pas été modifiés."</string>
-  <string name="timesync_sync_now_time_already_correct_dialog_title">Heure correcte</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_title">Information</string>
   <string name="timesync_sync_now_time_already_correct_dialog_details">"L'horloge interne de Xiaomi Authenticator n'a pas été ajustée, car elle semble déjà être synchronisée avec les serveurs."</string>
-  <string name="timesync_sync_now_connectivity_error_dialog_title">Synchroniser</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title">Avertissement</string>
   <string name="timesync_sync_now_connectivity_error_dialog_details">Un problème est survenu lors de la communication avec les serveurs. Veuillez vérifier les paramètres réseau, puis réessayer.</string>
   <string name="success_copy_to_clipboard">Copié dans le presse-papier</string>
  <!-- à traduire

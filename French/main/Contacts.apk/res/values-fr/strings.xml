@@ -920,8 +920,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="share_visible_contacts">Partager les contacts visibles</string>
   <string name="shortcutActivityTitle">Sélectionner le raccourci du contact</string>
   <string name="shortcutContact">Contact</string>
-  <string name="shortcutDialContact">Numérotation directe</string>
-  <string name="shortcutMessageContact">Message direct</string>
+  <string name="shortcutDialContact">"Numérotation directe "</string>
+  <string name="shortcutMessageContact">"Message direct "</string>
   <string name="showAllContactsJoinItem">Afficher tous les contacts</string>
   <string name="simContacts_airplaneMode">Pour importer des contacts de la carte SIM veuillez désactiver le mode Avion.</string>
   <string name="simContacts_empty">Aucun contact trouvé sur la carte SIM.</string>

@@ -9,8 +9,8 @@
   <string name="sina_token_invalid_warning">Jeton de sécurité du compte Weibo non valide, veuillez le réassocier</string>
   <string name="app_name">Mise à jour</string>
   <string name="apply_now_button_text">Confirmer</string>
-  <string name="download_whole_rom">Mettre à jour (%s)</string>
-  <string name="download_ota_rom">Mettre à jour (%s)</string>
+  <string name="download_whole_rom">Mettre à jour (%so)</string>
+  <string name="download_ota_rom">Mettre à jour (%so)</string>
   <string name="apply_later_button_text">Plus tard</string>
   <string name="apply_update_timer">L\'appareil redémarrera dans %d secondes</string>
   <string name="reboot_now">Redémarrer maintenant</string>

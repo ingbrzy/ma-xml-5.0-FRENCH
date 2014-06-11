@@ -326,7 +326,7 @@
   <string name="owner_album_subtitle">Partagé avec %1$s membres</string>
   <string name="path">Chemin d\'accès</string>
   <string name="people">Contacts</string>
-  <string name="photo_page_always_rotate">Auto-pivoter les images</string>
+  <string name="photo_page_always_rotate">Pivoter autom. les images</string>
   <string name="photo_page_save_image">Enregistrer</string>
   <string name="photo_page_save_uri_image_fail">Impossible d\'enregistrer la photo.</string>
   <string name="photo_page_save_uri_image_ok">Enregistrer les photos dans le dossier de la caméra.</string>
@@ -427,7 +427,7 @@
   <string name="slideshow_interval">Intervalle du diaporama</string>
   <string name="slideshow_interval_dialog_title">L\'intervalle d\'affichage du diaporama doit être supérieur à 0</string>
   <string name="slideshow_interval_invalid">Intervalle non valide. Celui-ci doit être compris entre 1 et 3600. L\'intervalle par défaut va être utilisé en attendant.</string>
-  <string name="slideshow_repeat_mode">Boucler</string>
+  <string name="slideshow_repeat_mode">Lire en boucle</string>
   <string name="slideshow_time_select_title">Sélectionner l\'intervalle du diaporama</string>
   <string name="slideshow_time_title">Intervalle du diaporama</string>
   <string name="storage_all_volumes">Tous les périphériques de stockage</string>

@@ -284,8 +284,8 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="micloud_warn_full_title">Espace de stockage MiCloud plein !</string>
   <string name="micloud_warn_low_sum">Espace de stockage rempli à 90%.</string>
   <string name="micloud_warn_low_title">Espace de stockage faible !</string>
-  <string name="micloud_web_discription_01">Connectez-vous à http://i.xiaomi.com</string>
-  <string name="micloud_web_discription_02">pour stocker et accéder à vos fichiers depuis n\'importe où.</string>
+  <string name="micloud_web_discription_01">Vous pouvez accéder à votre cloud personnel</string>
+  <string name="micloud_web_discription_02">depuis n\'importe où via http://i.xiaomi.com.</string>
   <string name="micloud_welcome_skip_login"><u>Passer l\'inscription</u></string>
   <string name="micloud_upgrade_space">Augmenter l\'espace de stockage</string>
   <string name="phone_num_hint_text">Numéro de téléphone</string>
