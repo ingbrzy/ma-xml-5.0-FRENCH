@@ -16,11 +16,22 @@
 * limitations under the License.
 */
  -->
-
+ 
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH 
+
+Note : Traductions pour plusieurs téléphones, ne pas supprimer de lignes
+
+-->
 <resources>
 <!-- MTK STRINGS -->
+ <!-- à traduire ?? à vérifier..
+  <string name="gprs_state_off">Off</string>
+  -->
+  <string name="sim_slot_alert_message_disable">Vous devriez laisser la carte SIM %s dans le premier slot, cela peut ne pas fonctionner correctement.</string>
+  <string name="sim_slot_alert_message_3g">Insérez la carte SIM %s dans le premier slot pour profiter des réseaux 3G.</string>
+  <string name="network_settings">Paramètres réseaux</string>
+  <string name="sim_picker_settings">Paramètres SIM</string>
   <string name="activity_not_found">Application non installée sur votre téléphone.</string>
   <string name="add_call_reject_number">Ajouter un numéro à bloquer</string>
   <string name="airplane_mode_on">Le mode Avion est activé.</string>
@@ -408,7 +419,6 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="simContacts_title">Sélection des contacts à importer</string>
   <string name="ContactScreen">Gérer les contacts SIM</string>
   <string name="ExportContactScreen">Exporter des contacts du téléphone vers la carte SIM</string>
-  <string name="absent_num">Numéro absent</string>
   <string name="accessibility_call_muted">Son coupé</string>
   <string name="accessibility_speakerphone_enabled">Haut-parleur activé</string>
   <string name="addSimEntries">Ajouter Contact SIM</string>
@@ -1403,7 +1413,7 @@ Appuyez sur OK pour continuer."</string>
   <string name="sum_cfu_enabled">Transfert de tous les appels vers {0}</string>
   <string name="sum_cfu_enabled_indicator">Transfert de tous les appels</string>
   <string name="sum_cfu_enabled_no_number">Numéro indisponible</string>
-  <string name="sum_cw_disabled">Me signaler les appels entrants lorsque je suis en communication</string>
+  <string name="sum_cw_disabled">Ne pas me signaler les appels entrants lorsque je suis en communication</string>
   <string name="sum_cw_enabled">Me signaler les appels entrants lorsque je suis en communication</string>
   <string name="sum_default_caller_id">Utiliser les paramètres opérateur pour afficher mon numéro pour les appels sortants</string>
   <string name="sum_fdn">Gérer la liste de numéros autorisés</string>
@@ -1564,9 +1574,9 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="onscreenSwitchText">Changer d\'abonnement</string>
   <string name="onscreenAddParticipant">Ajouter un participant</string>
   <string name="managed_roaming_title">Gestion de l\'itinérance</string>
-  <string name="managed_roaming_title_sub1">Itinérance (SUB1)</string>
-  <string name="managed_roaming_title_sub2">Itinérance (SUB2)</string>
-  <string name="managed_roaming_title_sub3">Itinérance (SUB3)</string>
+  <string name="managed_roaming_title_sub1">Itinérance (SIM1)</string>
+  <string name="managed_roaming_title_sub2">Itinérance (SIM2)</string>
+  <string name="managed_roaming_title_sub3">Itinérance (SIM3)</string>
   <string name="managed_roaming_dialog_content">Réseau avec service limité détecté. Lancer une recherche réseau ?</string>
   <string name="managed_roaming_dialog_ok_button">Oui</string>
   <string name="managed_roaming_dialog_cancel_button">Non</string>
@@ -1591,12 +1601,13 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="modify_call_option_vt">VT</string>
   <string name="modify_call_option_vt_tx">Transmission vidéo</string>
   <string name="modify_call_option_vt_rx">Réception vidéo</string>
+  <string name="modify_call_option_voice">Voix uniquement</string>
   <string name="modify_call_failure_str">"Échec de la requête de modification de l\'appel
 "</string>
   <string name="ims_edit_title">Paramètres du compte IMS</string>
   <string name="callwait_open_hint">\"Appel en attente\" est une fonction fournie par votre opérateur mobile. Si vous recevez une notification d\'erreur, contactez votre opérateur et vérifiez que cette fonction est disponible et activée.</string>
- <!-- à traduire  
- mtk crap:
+  <string name="call_record_path_name_of_sdcard_miui">Carte SD</string>
+  <!-- à traduire  
   <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
   <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>

@@ -18,7 +18,11 @@
  -->
  
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH 
+
+Note : Traductions pour plusieurs téléphones, ne pas supprimer de lignes
+
+-->
 <resources>
  <!-- removed 4.4.22 mi2 -->
   <string name="incoming_call_vibrate_abbreviation">"Appels "</string>
@@ -757,6 +761,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dirac_mode_general">Général</string>
   <string name="dirac_mode_general_earbuds">Écouteurs standards</string>
   <string name="dirac_mode_general_inear">Intra-aur. standards</string>
+  <string name="dirac_mode_piston_1">Xiaomi Piston-1</string>
   <string name="dirac_mode_piston_2">Xiaomi Piston-2</string>
   <string name="dirac_mode_piston_youth">Xiaomi Piston-Youth</string>
   <string name="dirac_mode_earbuds">Écouteurs Xiaomi</string>
@@ -4185,27 +4190,51 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="system_backup_section_title">Sauvegarde</string>
   <string name="local_backup_section_title">Sauvegarde locale</string>
   <string name="local_backup_section_summary">Permet de sauvegarder les comptes, applis et paramètres système</string>
-  
+  <string name="bluetooth_connected_no_map">Connecté (sans accès aux messages)</string>
+  <string name="preferred_sms_warning_message">Utiliser \"%1$s\" comme application SMS par défaut peut avoir un effet négatif sur votre batterie et peut compromettre la sécurité de vos données.</string>
+  <string name="preferred_sms_warning_use_system">Ne pas utiliser</string>
+  <string name="preferred_sms_title">Application SMS par défaut</string>
+  <string name="security_keyguard_category_name">Écran de verrouillage</string>
+  <string name="security_password_category_name">Mot de passe</string>
+  <string name="bluetooth_unlock_title">Déverrouillage via un appareil Bluetooth</string>
+  <string name="bluetooth_unlock_turned_off">Déverrouillage via Bluetooth désactivé</string>
+  <string name="bluetooth_unlock_turned_on">Déverrouillage via Bluetooth activé</string>
+  <string name="bluetooth_unlock_settings_unlock_device">Associé</string>
+  <string name="bluetooth_unlock_settings_devices_title">Appareil</string>
+  <string name="bluetooth_unlock_no_matched_device_yet">Aucun appareil disponible</string>
+  <string name="bluetooth_unlock_change_matched_device">Sélectionner un autre appareil</string>
+  <string name="bluetooth_unlock_add_device">Ajouter un appareil</string>
+  <string name="bluetooth_unlock_delete_device">Supprimer cet appareil</string>
+  <string name="bluetooth_unlock_device_matched_text">Utiliser cet appareil pour déverrouiller</string>
+  <string name="bluetooth_unlock_delete_device_confirm_msg">Êtes-vous sur de vouloir supprimer cet appareil ?</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Le nouvel appareil va remplacer l\'ancien, êtes-vous sur de vouloir continuer ?</string>
+  <string name="subs_settings">État de l\'abonnement</string>
+<string name="sim_pin_change_failed_enable_sim_lock">"Impossible de modifier le code PIN de la carte SIM/RUIM.
+ Activez le verrouillage de la carte SIM/RUIM."</string>
+  <string name="sim_enable_disable_lock_not_supported">"Impossible de modifier le verrouillage de la carte SIM/RUIM.
+ La carte SIM/RUIM ne prend pas cette option en charge."</string>
+  <string name="app_ops_settings_summary">"Afficher ou modifier les autorisations de l'application"</string>
+  <string name="location_category_enhanced_location">Localisation améliorée</string>
+  <string name="wifi_disabled_association_rejected">Association rejetée</string>
+  <string name="wifi_display_pause">Pause</string>
+  <string name="wifi_display_resume">Reprendre</string>
+  <string name="wifi_display_wps_config">Configuration WPS</string>
+  <string name="wifi_display_certification_heading">Certification</string>
+  <string name="wifi_display_status_in_use">En utilisation</string>
+  <string name="sim_radio_off">Inactif</string>
+  <string name="set_mobile_data_failed">Configuration échouée</string>
+  <string name="mobile_data_switching_message">Basculement de la connexion de données. Veuillez patienter…</string>
+
  <!-- à traduire 
+  <string name="bluetooth_unlock_confirm_device_text">Please clap the device to confirm</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Apply to</string>
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
   <string name="button_text_view_power">View power</string>
-
-  <string name="subs_settings">SUBS Status</string>
-  <string name="app_ops_settings_summary">View or change app permissions</string>
-  <string name="location_category_enhanced_location">Enhanced Location</string>
-  <string name="sim_pin_change_failed_enable_sim_lock">"Unable to Change SIM/RUIM PIN.
- Enable SIM/RUIM Lock."</string>
-  <string name="sim_enable_disable_lock_not_supported">"Unable to Change SIM/RUIM Lock.
- SIM/RUIM doesn't support it."</string>
-  <string name="wifi_disabled_association_rejected">Association rejected</string>
-  <string name="wifi_display_certification_heading">Certification</string>
+  <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_display_session_info">Session info</string>
   <string name="wifi_display_listen_mode">Enable listen mode</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
-  <string name="wifi_display_pause">Pause</string>
-  <string name="wifi_display_resume">Resume</string>
-  <string name="wifi_display_wps_config">WPS configuration</string>
   <string name="wifi_display_listen_channel">Listen channel</string>
   <string name="wifi_display_operating_channel">Operating channel</string>
   -->
