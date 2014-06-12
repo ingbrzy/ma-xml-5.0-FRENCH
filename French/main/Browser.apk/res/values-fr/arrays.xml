@@ -20,6 +20,14 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<resources>
+    <string-array name="pre_webapp_text_sizes">
+        <item>Énorme</item>
+        <item>Grande</item>
+        <item>Normale</item>
+        <item>Petite</item>
+    </string-array>
+</resources>
     <string-array name="pref_content_plugins_choices">
         <item>Toujours activés</item>
         <item>À la demande</item>

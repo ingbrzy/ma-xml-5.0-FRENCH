@@ -59,8 +59,6 @@
   <string name="crash_recovcery_message">Le navigateur s\'est arrêté anormalement. Voulez-vous récupérer la dernière session de navigation ?</string>
   <string name="current_page">"de "</string>
   <string name="defaultBookmarksUpButton">Favoris</string>
-  <string name="dialog_geolocation_reject">Masquer la position</string>
-  <string name="dialog_geolocation_share">Partager la position</string>
   <string name="disk_space_available">%1$s disponible</string>
   <string name="disk_space_selected">%1$s sélectionné</string>
   <string name="disk_space_used">%1$s utilisé</string>
@@ -130,15 +128,11 @@
   <string name="tab_bookmarks">Favoris</string>
   <string name="too_many_subwindows_dialog_message">Seule une fenêtre pop-up peut être ouverte à la fois.</string>
   <string name="too_many_subwindows_dialog_title">Fenêtre contextuelle déjà ouverte</string>
-  <string name="webapp_add_to_desktop">Ajouter sur l\'écran d\'accueil</string>
-  <string name="webapp_addtodeskpop_append">App. ajoutée sur l\'écran d\'accueil</string>
-  <string name="webapp_app_name">Boutique Web MiMarket</string>
   <string name="webapp_bottom_bar_addtodesk">Ajouter sur l\'écran d\'accueil</string>
   <string name="webapp_bottom_bar_exit">Quitter</string>
   <string name="webapp_bottom_bar_hidebar">Masquer la barre du bas</string>
   <string name="webapp_bottom_bar_openbrowser">Ouvrir dans le navigateur</string>
   <string name="webapp_bottom_bar_showbar">Afficher la barre du bas</string>
-  <string name="webapp_dialog_title">Ajouter l\'app. sur l\'écran d\'accueil</string>
   <string name="webapp_splashview_loading">Chargement, veuillez attendre…</string>
   <string name="webapp_web_forward">Suivant</string>
   <string name="webapp_web_goback">Retour</string>
@@ -147,6 +141,12 @@
   <string name="no">Non</string>
 <!-- -->
 
+  <string name="webapp_dialog_title">Ajouter l\'app. sur l\'écran d\'accueil</string>
+  <string name="webapp_add_to_desktop">Ajouter sur l\'écran d\'accueil</string>
+  <string name="webapp_addtodeskpop_append">App. ajoutée sur l\'écran d\'accueil</string>
+  <string name="webapp_app_name">Boutique Web MiMarket</string>
+  <string name="dialog_geolocation_reject">Masquer la position</string>
+  <string name="dialog_geolocation_share">Partager la position</string>
   <string name="disable_autofill">Désactiver la saisie automatique</string>
   <string name="MIUI_startpage">Page d\'accueil</string>
   <string name="accessibility_button_clear">Effacer la saisie</string>
@@ -743,4 +743,25 @@
   <string name="miuichromium_error_page_reason_server">Impossible de charger cette page</string>
   <string name="miuichromium_error_page_reload">Recharger</string>
   <string name="miuichromium_error_page_url">Afficher l\'URL de la page</string>
+  <string name="webapp_add_to_favorite_toast">Ajouté aux favoris</string>
+  <string name="webapp_webapp_favortes_title">Mes favoris</string>
+  <string name="webapp_menu_addtodesk">Ajouter à l\'accueil</string>
+  <string name="webapp_menu_already_addtodesk">Déjà ajouté !</string>
+  <string name="webapp_menu_share">Partager</string>
+  <string name="webapp_menu_settings">Paramètres</string>
+  <string name="webapp_menu_nightmode">Mode nuit</string>
+  <string name="webapp_menu_favorites">Mes favoris</string>
+  <string name="webapp_menu_exit">Quitter</string>
+  <string name="webapp_settings_title">Paramètres</string>
+  <string name="pref_webapp_settings_fontsize">Taille de la police</string>
+  <string name="pref_webapp_settings_savewidth">Ne pas télécharger les images en 2G/3G</string>
+  <string name="pref_webapp_settings_hidebottombar">Masquer la barre inférieure</string>
+  <string name="loading_tips">Tirer pour actualiser</string>
+  <string name="up_to_loading_tips">Relâcher pour actualiser</string>
+  <string name="cloud_loading_tips">Tirer pour synchroniser</string>
+  <string name="cloud_up_to_loading_tips">Relâcher pour synchroniser</string>
+  <string name="cloud_time_tips">Dernière synchronisation</string>
+  <string name="sub_sync_item_browser_title_webapp">Synchroniser les webapps</string>
+  <string name="sub_sync_item_browser_title_webapp_summary">Synchronise les webapps et celles favoris</string>
+  <string name="cloud_no_new_data_toast">Aucunes nouvelles données, veuillez ressayer plus tard.</string>
 </resources>

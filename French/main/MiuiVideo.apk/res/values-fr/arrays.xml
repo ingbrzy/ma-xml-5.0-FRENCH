@@ -20,4 +20,10 @@
         <item>Épisodes</item>
         <item>Résumé</item>
     </string-array>
+<!-- à traduire
+    <string-array name="addon_list_tabs">
+        <item>All Specials</item>
+        <item>My Specials</item>
+    </string-array>
+-->
 </resources>

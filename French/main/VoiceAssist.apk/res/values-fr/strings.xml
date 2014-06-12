@@ -2,4 +2,11 @@
 <resources>
     <string name="app_name">Assistant</string>
     <string name="help_content">Cette application est compatible uniquement avec la langue chinoise</string>
+    <string name="setting">Paramètres</string>
+    <string name="voice_engine">Moteurs de synthèse vocale</string>
+    <string name="more_engines">Afficher plus (Xiaomi market)...</string>
+    <string name="voice_report">Notifications vocales</string>
+    <string name="report_method">Configurer le mode</string>
+    <string name="phone_report">Appel entrant</string>
+    <string name="sms_report">Nouveau SMS</string>
 </resources>

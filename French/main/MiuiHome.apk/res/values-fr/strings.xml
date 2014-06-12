@@ -103,7 +103,7 @@
   <string name="custom_wallpaper_picker">Parcourir…</string>
   <string name="reset_scene_prompt">Le bureau sera remis dans sa disposition d\'origine</string>
   <string name="preferences_title">Paramètres du lanceur MIUI</string>
-  <string name="preferences_general_title">Paramètres généraux</string>
+  <string name="preferences_general_title">Paramètres additionnels</string>
   <string name="pref_keep_in_memory_title">Garder en mémoire</string>
   <string name="pref_keep_in_memory_summary">Empêcher le lanceur de se fermer lorsque la mémoire est faible.</string>
   <string name="pref_enable_drawing_cache_title">Cache graphique</string>
@@ -139,12 +139,12 @@
   <string name="photo_confirm">Confirmer</string>
   <string name="photo_load_failed">Impossible de charger la photo !</string>
   <string name="frame_load_failed">Impossible de charger le widget cadre photo !</string>
-  <string name="gadget_weather_loading">Aucunes données météorologiques</string>
+  <string name="gadget_weather_loading">Aucunes données</string>
   <string name="gadget_weather_title">Météo</string>
   <string name="gadget_weather_title_24">Météo</string>
   <string name="gadget_weather_app_not_installed">MIUI Météo n\'est pas installé</string>
   <string name="gadget_weather_time_format">EEE d MMM</string>
-  <string name="gadget_weather_aqi_title">Qualité de l\'air</string>
+  <string name="gadget_weather_aqi_title">"Qualité de l\'air : "</string>
   <string name="aqi_quality_index_good">Bon</string>
   <string name="aqi_quality_index_moderate">Modérée</string>
   <string name="aqi_quality_index_light_pollution">Légère pollution</string>

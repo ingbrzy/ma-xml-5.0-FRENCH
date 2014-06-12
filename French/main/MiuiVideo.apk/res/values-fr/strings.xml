@@ -218,45 +218,72 @@ la vidéo sur votre box ou TV"</string>
   <string name="null_category">inconnu</string>
   <string name="null_videoname">inconnu</string>
   <string name="top_null_videoname">nom de la vidéo inconnu</string>
-
- <!-- FIX; cn to en-->
-  <string name="variety">Variety</string>
-  <string name="subchannel_all">All</string>
- <!-- à traduire :
- 4.5.16
-  <string name="no_favoritehistory">No favorite Channel</string>
+  <string name="delete_addon">Supprimer</string>
+  <string name="delete_addon_content">Supprimer cet élément ?</string>
+  <string name="addon_update_desc">Nouvelle version disponible, mettre à jour ?</string>
+  <string name="upgrade">Mettre à jour</string>
+  <string name="no_media">Vide</string>
+  <string name="no_tv">Aucune chaîne</string>
+  <string name="no_special_subject">Vide</string>
+  <string name="mediaset">Séries</string>
+  <string name="no_favoritehistory">Aucune chaîne favorite</string>
+  <string name="btnplayerfavorite">Favoris</string>
+  <string name="btnplayerfullscreen">Plein-écran</string>
+  <string name="btnplayerdefault">Par défaut</string>
+  <string name="install_comfirm">Appuyer pour installer</string>
+  <string name="load_data_failed">Impossible de se connecter au réseau</string>
+  <string name="no_filter_media">Aucun résultat, essayez de modifier votre recherche.</string>
+  <string name="no_search_result">Aucun résultat, essayez de modifier votre recherche.</string>
+  <string name="button_all">Tous</string>
+  <string name="button_ep">Épisodes</string>
+  <string name="button_film">Films</string>
+  <string name="button_show">Variétés</string>
+  <string name="button_sport">Sports</string>
+  <string name="button_information">Informations</string>
+  <string name="be_living_status">Live</string>
+  <string name="jni_res_connect_error">Impossible de se connecter au réseau</string>
+  <string name="no_subject">Aucun sujet</string>
+  <string name="hide_media">Masquer</string>
+  <string name="cancel_hide">Ré-afficher</string>
+  <string name="online_video">Vidéos en ligne</string>
+  <string name="variety">Variétés</string>
+  <string name="subchannel_all">Tous</string>
+  <string name="others">Autres</string>
+  <string name="music">Musique</string>
+  <string name="livetv">Live</string>
+  <string name="all">Tous</string>
+  <string name="rank">Populaire</string>
+  <string name="jni_res_unkown_error">Une erreur inconnue s\'est produite</string>
+  <string name="jni_invalid_param">Paramètres incorrectes</string>
+  <string name="network_setting">Réseau</string>
+  <string name="media_source_unavailable">Source indisponible</string>
+  
+ <!-- à vérifier -->
+  <string name="mydlna">Ressources DLNA</string>
+  <string name="dlna_name">Appareil partagé</string>
+  <string name="dlna_list_name">Appareil DLNA</string>
+  <!-- -->
+  
+ <!-- à traduire éventuellement :
+  <string name="no_hot_special">not special</string>
+  <string name="addon_category">Hot Specials</string>
+  <string name="add_more_addons">add more specials</string>
+  <string name="pick_addon_to_delete">choose items</string>
+  <string name="start_addon">start addon</string>
+  <string name="addon_install_complete_disc">您已完成%s专区插件的安装，您可直接启动进入专区，或从“我的视频”里进入专区</string>
   <string name="download_add_sucess">add task done</string>
   <string name="click_to_list">click to view details</string>
-  <string name="btnplayerfavorite">Favorite</string>
-  <string name="btnplayerfullscreen">full</string>
-  <string name="btnplayerdefault">default</string>
   <string name="makeappointment">make appointment</string>
   <string name="cancelappointment">cancel appointment</string>
-
-  <string name="all">All</string>
   <string name="special_subject">Specials</string>
-  <string name="rank">Rating</string>
-  <string name="others">Other</string>
-  <string name="music">Music</string>
-  <string name="livetv">Live</string>
-  <string name="online_video">Online Video</string>
   <string name="update">Updated</string>
   <string name="local_count_ji">PRC %d Ep.</string>
   <string name="count_bu">Prt. %d</string>
   <string name="gong_count_dlna">%d DLNA</string>
-  <string name="jni_res_connect_error">"Couldn't connect to network"</string>
   <string name="jni_res_timout">Network connection timed out</string>
   <string name="jni_res_session_timout">User session timed out</string>
   <string name="jni_res_json_parse_error">Parsing error</string>
-  <string name="jni_res_unkown_error">An unknown error occurred</string>
-  <string name="jni_invalid_param">Parameters invalid</string>
   <string name="jni_no_media_source">No media source</string>
-  <string name="load_data_failed">"Couldn't connect to network"</string>
-  <string name="no_filter_media">"Couldn't find anything. Try altering your search."</string>
-  <string name="no_search_result">"Couldn't find anything. Try altering your search."</string>
-  <string name="no_media">Empty</string>
-  <string name="no_tv">No channels</string>
-  <string name="no_special_subject">Empty</string>
   <string name="loading_review_failed">Failed to load comment</string>
   <string name="waitfornewset">Follow content</string>
   <string name="cancel_waitfornewset">Stop following</string>
@@ -266,8 +293,6 @@ la vidéo sur votre box ou TV"</string>
   <string name="no_myfavorite_advice_onlylocal">Star local videos</string>
   <string name="mediasetupdated">Series updated</string>
   <string name="updatedalready">Updated</string>
-  <string name="mediaset">Series</string>
-  <string name="mydlna">DLNA resource</string>
   <string name="browse_folder">Browser</string>
   <string name="filter_mediaex">Filter</string>
   <string name="pick_video_to_delete">Choose items</string>
@@ -275,13 +300,6 @@ la vidéo sur votre box ou TV"</string>
   <string name="pick_myfavorite_to_cancel">Choose items</string>
   <string name="to_play_airekan">Cast</string>
   <string name="cant_connecting">"Couldn't connect to server"</string>
-  <string name="button_all">All</string>
-  <string name="button_ep">Episode</string>
-  <string name="button_film">Film</string>
-  <string name="button_show">Variety</string>
-  <string name="button_sport">Sports</string>
-  <string name="button_information">Information</string>
-  <string name="be_living_status">Live</string>
   <string name="forecast_living_status">Direct broadcast</string>
   <string name="start_time">start time</string>
   <string name="to_live_status">Waiting for broadcast to begin</string>
@@ -293,16 +311,12 @@ la vidéo sur votre box ou TV"</string>
   <string name="quarter_bell_alert_button_cancel">cancel</string>
   <string name="quarter_bell_alert_button_makeappointment">reservation</string>
   <string name="quarter_bell_alert_button_cancelappointment">remove reservation</string>
-  <string name="no_subject">No subject</string>
-  <string name="hide_media">Hide</string>
-  <string name="cancel_hide">Unhide</string>
   <string name="show_hidemedia">Show hidden files</string>
   <string name="notshow_hidemedia">"Don't show hidden files"</string>
   <string name="pick_video_to_hide">Choose items</string>
   <string name="pick_hide_to_show">Choose items</string>
   <string name="hided_cannot_favorite">"Can't star hidden items"</string>
   <string name="favorited_cannot_hide">"Can't hide starred items"</string>
-  <string name="network_setting">Network</string>
   <string name="receive_ad_notify">Message notification/push function</string>
   <string name="receive_ad_notify_summary">After the opening, to receive the latest and popular video notice</string>
   <string name="load_file_fail">Local file destroyed</string>
@@ -320,7 +334,6 @@ la vidéo sur votre box ou TV"</string>
   <string name="paused">Paused</string>
   <string name="offline_continue">Continue</string>
   <string name="offline_media_more">Cahce more</string>
-  <string name="media_source_unavailable">Source is unavailable</string>
   <string name="download_add_success">Add download task success</string>
   <string name="download_delete">remove task</string>
   <string name="download_is_in_tasklist">Has been in caching list</string>
@@ -342,7 +355,5 @@ la vidéo sur votre box ou TV"</string>
   <string name="btnplayerforecast">Forecast</string>
   <string name="filter_program">Filter program</string>
   <string name="filter">Filter</string>
-  <string name="dlna_name">Shared device</string>
-  <string name="dlna_list_name">DLNA device</string>
  -->
 </resources>
