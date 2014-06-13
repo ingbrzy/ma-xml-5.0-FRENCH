@@ -719,11 +719,11 @@
   <string name="js_disable_confirm_title">Désactiver le JavaScript ?</string>
   <string name="js_disable_confirm_message">La désactivation du JavaScript peut causer l\'affichage incorrect de certains sites web</string>
   <string name="cloud_tab">Onglet Cloud</string>
-  <string name="sync_item_browser_title">Synchroniser le navigateur</string>
+  <string name="sync_item_browser_title">Synchr. du navigateur</string>
   <string name="sync_item_browser_summary">Synchroniser les données sur le cloud pour utiliser le navigateur sur différents appareils facilement</string>
-  <string name="sub_sync_item_browser_title_history">Synchroniser l\'historique</string>
+  <string name="sub_sync_item_browser_title_history">Synchr. de l\'historique</string>
   <string name="sub_sync_item_browser_title_history_summary">Synchroniser l\'historique du navigateur</string>
-  <string name="sub_sync_item_browser_title_novel">Synchroniser les nouvelles</string>
+  <string name="sub_sync_item_browser_title_novel">Synchr. des nouvelles</string>
   <string name="sub_sync_item_browser_title_novel_summary">Synchroniser les nouvelles du navigateur</string>
   <string name="sub_sync_item_browser_title_cloud_tab">Synchroniser les onglets</string>
   <string name="sub_sync_item_browser_title_cloud_tab_summary">Synchroniser les onglets ouverts du navigateur sur les autres appareils</string>
@@ -761,7 +761,7 @@
   <string name="cloud_loading_tips">Tirer pour synchroniser</string>
   <string name="cloud_up_to_loading_tips">Relâcher pour synchroniser</string>
   <string name="cloud_time_tips">Dernière synchronisation</string>
-  <string name="sub_sync_item_browser_title_webapp">Synchroniser les webapps</string>
-  <string name="sub_sync_item_browser_title_webapp_summary">Synchronise les webapps et celles favoris</string>
+  <string name="sub_sync_item_browser_title_webapp">Synch. des webapps</string>
+  <string name="sub_sync_item_browser_title_webapp_summary">Synchroniser les webapps installées</string>
   <string name="cloud_no_new_data_toast">Aucunes nouvelles données, veuillez ressayer plus tard.</string>
 </resources>
