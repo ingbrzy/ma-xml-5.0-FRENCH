@@ -130,8 +130,10 @@
   <string name="keyguard_close">Fermer</string>
   <string name="more_siminfo_for_button">Plus d\'informations</string>
   <string name="more_info_title">Débloquer la carte SIM marquée</string>
-  <string name="for_first_simcard">Pour la première carte de SIM</string>
-  <string name="for_second_simcard">Pour la deuxième carte de SIM</string>
+  <string name="for_first_simcard">Pour la carte de SIM 1</string>
+  <string name="for_second_simcard">Pour la carte de SIM 2</string>
+  <string name="for_third_simcard">Pour la carte de SIM 3</string>
+  <string name="for_fourth_simcard">For la carte de SIM 4</string>
   <string name="default_sim_setting_prompt">Maintenant les paramètres par défaut sont :</string>
   <string name="keyguard_video_call">Appel vidéo :</string>
   <string name="dm_prompt">Terminal a déjà été verrouillé</string>
@@ -237,14 +239,54 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="puk_pass">PIN débloqué</string>
   <string name="secure_warning_title">AVERTISSEMENT</string>
   <string name="secure_warning_message">Ce contenu est protégé par DRM. Vous ne pouvez le lire que sur cet appareil.</string>
- <!-- à traduire :
+  <string name="safe_media_volume_warning_title">Avertissement</string>
+  <string name="new_simcard">Nouvelle carte SIM</string>
+  <string name="slot_id">Slot %d :</string>
+  <string name="MMRejectCause13">Appels d\'urgences uniquement</string>
+  <string name="sim_missing_card">Aucune carte SIM détectée</string>
+  <string name="wifi_display_unstable_connection">Connexion instable</string>
+  <string name="sim_missing_slot3">Slot 3 : Aucune SIM détectée</string>
+  <string name="sim_missing_slot4">Slot 4 : Aucune SIM détectée</string>
+  <string name="sim_missing_slot1_card">Slot 1 : Aucune SIM détectée</string>
+  <string name="sim_missing_slot2_card">Slot 2 : Aucune SIM détectée</string>
+  <string name="virtual_sim_on_slot1">SIM virtuelle 1 activée</string>
+  <string name="virtual_sim_on_slot2">SIM virtuelle 2 activée</string>
+  <string name="virtual_sim_on_slot3">SIM virtuelle 3 activée</string>
+  <string name="virtual_sim_on_slot4">SIM virtuelle 4 activée</string>
+  <string name="virtual_sim_on">SIM virtuelle activée</string>
+  <string name="sdcard_ready_title">Carte SD prête</string>
+  <string name="sim_missing_detail_card">Veuillez vérifier si la carte SIM est insérée correctement</string>
+  <string name="headset_pin_recognition">Ces écouteurs ne sont pas compatibles avec le téléphone, veuillez en essayer d\'autres</string>
+  <string name="wifi_display_do_not_remind_again">Ne pas redemander</string>
+  <string name="wifi_display_reconnect">Reconnecter</string>
+  <string name="wifi_display_disconnect_then_reconnect">Affichage sans fil déconnecté. Essayer de se reconnecter ?</string>
+  <string name="wifi_display_disconnected">Affichage sans fil déconnecté</string>
+  <string name="hdmi_notification_content">Appuyer pour configurer</string>
+  <string name="hdmi_notification_title">Cable HDMI connecté</string>
+
+ <!-- à traduire
   <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
+  <string name="lockscreen_missing_sim_dialog_message">SIM card is unplugged. Please make sure your SIM card is properly plugged in.</string>
+  <string name="msensor_toast_text">Compass interference. Wave the phone in figure 8 motion to re-calibrate the compass.</string>
   <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>
   <string name="recip_unsupport_selection">Sorry, you can not move the caret to the start when there are recipients in RecipientsView.</string>
+  <string name="sd_accessing_swtich_user_message">All unsaved data in owner account will be lost or damaged.</string>
+  <string name="sd_accessing_swtich_user_title">Switch user?</string>
+  <string name="sdcard_default_path_change">Default write disk was changed.</string>
+  <string name="sdcard_select_default_path">Do you want to change the default write disk?</string>
+  <string name="simlock_entersimmelock">Enter SIM ME lock</string>
+  <string name="simlock_slot_locked_message">The slot has been permanently locked</string>
+  <string name="tethered_notification_message_bandwidth_set">Bandwidth is set</string>
+  <string name="usb_autorun_cdrom_notification_title">Connected as an autorun cdrom</string>
+  <string name="usb_storage_ready_title">External USB storage ready</string>
   <string name="wifi_display_bt_hdmi_off_wfd_on">Bluetooth and HDMI will be turned off when you turn on wireless display. Do you want to continue?</string>
+  <string name="wifi_display_change_resolution_reminder">Change resolution will reconnect wireless display automatically.</string>
+  <string name="wifi_display_connection_is_not_steady">The current connection of wireless display is not steady.</string>
+  <string name="wifi_display_sound_path_reminder">"Multimedia sound won't play from your headset."</string>
+  <string name="wifi_display_unstable_suggestion">The current connection of wireless display is not steady, please try to get closer to your display device.</string>
+  <string name="wifi_display_wfd_and_wifi_are_turned_on">Wireless display and WLAN are turned on.</string>
   <string name="wifi_display_wfd_off_hdmi_on">Wireless display will be turned off when you turn on HDMI. Do you want to continue?</string>
-  <string name="wifi_display_reconnect">Reconnect</string>
-  <string name="wifi_display_disconnect_then_reconnect">Wireless display disconnect. Do you want to reconnect?</string>
-  <string name="wifi_display_disconnected">Wireless display disconnected.</string>
-  -->
+  <string name="wifi_display_wifi_ap_affects_quality">Current WLAN AP may affect the quality of Wireless display.</string>
+  <string name="wifi_wps_failed_overlap">Another WPS session was detected. Please try again in a few minutes.</string>
+ -->
 </resources>
