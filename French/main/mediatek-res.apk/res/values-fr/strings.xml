@@ -262,31 +262,31 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="wifi_display_disconnect_then_reconnect">Affichage sans fil déconnecté. Essayer de se reconnecter ?</string>
   <string name="wifi_display_disconnected">Affichage sans fil déconnecté</string>
   <string name="hdmi_notification_content">Appuyer pour configurer</string>
-  <string name="hdmi_notification_title">Cable HDMI connecté</string>
+  <string name="hdmi_notification_title">Câble HDMI connecté</string>
+  <string name="sd_accessing_swtich_user_title">Changer d\'utilisateur ?</string>
+  <string name="sd_accessing_swtich_user_message">Toutes les données non sauvegardées sur le compte du propriétaire seront perdus ou endommagées.</string>
+  <string name="sdcard_select_default_path">"Souhaitez-vous changer le disque d'écriture par défaut ?"</string>
+  <string name="sdcard_default_path_change">"Le stockage du téléphone deviendra le disque d'écriture par défaut."</string>
+  <string name="wifi_display_wfd_off_hdmi_on">"L'affichage sans-fil sera désactivé lorsque vous activerez la fonction HDMI. Continuer ?"</string>
+  <string name="wifi_display_bt_hdmi_off_wfd_on">"Les fonctions Bluetooth et HDMI seront désactivées lorsque vous activerez l'affichage sans-fil. Continuer ?"</string> 
+  <string name="simlock_slot_locked_message">"Le slot a été définitivement verrouillée."</string>
+  <string name="simlock_entersimmelock">"Saisissez verrouillage SIM ME"</string>
+  <string name="lockscreen_missing_sim_dialog_message">"La carte SIM est déconnectée. Veuillez vous assurer que votre carte SIM est correctement connectée."</string>
+  <string name="wifi_wps_failed_overlap">Une autre session WPS a été détectée. Veuillez réessayer dans quelques minutes.</string>
+  <string name="wifi_display_connection_is_not_steady">"La connexion d'affichage sans fil n'est pas stable."</string>
+  <string name="usb_storage_ready_title">Stockage USB externe prêt</string>
+  <string name="wifi_display_wfd_and_wifi_are_turned_on">Affichage sans fil et Wi-Fi activés</string>
+  <string name="usb_autorun_cdrom_notification_title">Connecté comme un CDROM AutoRun</string>
+  <string name="wifi_display_wifi_ap_affects_quality">Le hotspot Wi-Fi activé sur cet appareil peut affecter la qualité de l\'affichage sans fil.</string>
+  <string name="wifi_display_unstable_suggestion">La connexion n\'est pas stable, essayez de vous rapprocher de votre dispositif d\'affichage.</string>
+  <string name="wifi_display_sound_path_reminder">Le son multimédia de votre téléphone sera désactivé.</string>
+  <string name="wifi_display_change_resolution_reminder">Après un changement de résolution, l\'affichage sans fil se reconnectera automatiquement.</string>
 
  <!-- à traduire
   <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
-  <string name="lockscreen_missing_sim_dialog_message">SIM card is unplugged. Please make sure your SIM card is properly plugged in.</string>
   <string name="msensor_toast_text">Compass interference. Wave the phone in figure 8 motion to re-calibrate the compass.</string>
   <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>
   <string name="recip_unsupport_selection">Sorry, you can not move the caret to the start when there are recipients in RecipientsView.</string>
-  <string name="sd_accessing_swtich_user_message">All unsaved data in owner account will be lost or damaged.</string>
-  <string name="sd_accessing_swtich_user_title">Switch user?</string>
-  <string name="sdcard_default_path_change">Default write disk was changed.</string>
-  <string name="sdcard_select_default_path">Do you want to change the default write disk?</string>
-  <string name="simlock_entersimmelock">Enter SIM ME lock</string>
-  <string name="simlock_slot_locked_message">The slot has been permanently locked</string>
   <string name="tethered_notification_message_bandwidth_set">Bandwidth is set</string>
-  <string name="usb_autorun_cdrom_notification_title">Connected as an autorun cdrom</string>
-  <string name="usb_storage_ready_title">External USB storage ready</string>
-  <string name="wifi_display_bt_hdmi_off_wfd_on">Bluetooth and HDMI will be turned off when you turn on wireless display. Do you want to continue?</string>
-  <string name="wifi_display_change_resolution_reminder">Change resolution will reconnect wireless display automatically.</string>
-  <string name="wifi_display_connection_is_not_steady">The current connection of wireless display is not steady.</string>
-  <string name="wifi_display_sound_path_reminder">"Multimedia sound won't play from your headset."</string>
-  <string name="wifi_display_unstable_suggestion">The current connection of wireless display is not steady, please try to get closer to your display device.</string>
-  <string name="wifi_display_wfd_and_wifi_are_turned_on">Wireless display and WLAN are turned on.</string>
-  <string name="wifi_display_wfd_off_hdmi_on">Wireless display will be turned off when you turn on HDMI. Do you want to continue?</string>
-  <string name="wifi_display_wifi_ap_affects_quality">Current WLAN AP may affect the quality of Wireless display.</string>
-  <string name="wifi_wps_failed_overlap">Another WPS session was detected. Please try again in a few minutes.</string>
  -->
 </resources>
