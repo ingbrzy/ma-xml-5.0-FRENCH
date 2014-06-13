@@ -1,14 +1,15 @@
 * --- Xiaomi
-* mione_plus Xiaomi Mi1/Mi1-S jb-4.1
-* aries: Xiaomi Mi2/Mi2-S jb-4.1
-* taurus: Xiaomi Mi2-A jb-4.1
-* cancro: Xiaomi Mi3 (WCDMA) kk-4.4
-* pisces: Xiaomi Mi3 (TD-SCDMA) kk-4.4
-* HM2013022: Xiaomi HongMi1 (TD-SCDMA) jb-4.2
-* HM2013023: Xiaomi HongMi1 (WCDMA) jb-4.2* aries: Xiaomi MI2/MI2-S jb-4.1
-* armani: Xiaomi HongMi1-S (WCDMA) jb-4.2
-* lcsh92_wet_jb9: Xiaomi HongMi-Note(WCDMA) jb-4.2
-* lcsh92_wet_tdd: Xiaomi HongMi-Note(TD-SCDMA) jb-4.2
+* mione_plus Xiaomi Mi1/Mi1-S (snapdragon) jb-4.1
+* aries: Xiaomi Mi2/Mi2-S (snapdragon) jb-4.1
+* taurus: Xiaomi Mi2-A (snapdragon) jb-4.1
+* cancro: Xiaomi Mi3 (WCDMA-snapdragon) kk-4.4
+* pisces: Xiaomi Mi3 (TD_SCDMA-tegra) kk-4.4
+* HM2013022: Xiaomi HongMi1 (TD_SCDMA-MTK) jb-4.2
+* HM2013023: Xiaomi HongMi1 (WCDMA-MTK) jb-4.2
+* armani: Xiaomi HongMi1-S (WCDMA-snapdragon) jb-4.2
+* ????: Xiaomi HongMi1-S (TD_SCDMA-MTK) jb-4.2
+* lcsh92_wet_jb9: Xiaomi HongMi-Note/Note pro (WCDMA-MTK) jb-4.2
+* lcsh92_wet_tdd: Xiaomi HongMi-Note/Note pro (TD_SCDMA-MTK) jb-4.2
 * --- Samsung
 * CRESPO: Google-Samsung Nexus S jb-4.2
 * GT-I9000: Samsung Galaxy S jb-4.2

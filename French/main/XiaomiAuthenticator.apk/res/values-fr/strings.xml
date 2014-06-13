@@ -163,11 +163,11 @@ Les paramètres de date et d'heure de cet appareil n'ont pas été modifiés."</
   <string name="timesync_sync_now_connectivity_error_dialog_title">Avertissement</string>
   <string name="timesync_sync_now_connectivity_error_dialog_details">Un problème est survenu lors de la communication avec les serveurs. Veuillez vérifier les paramètres réseau, puis réessayer.</string>
   <string name="success_copy_to_clipboard">Copié dans le presse-papier</string>
+  <string name="tip1_patternforgotten">Désinstallez l\'application Authenticator, réinstallez-la puis procédez à l\'activation.</string>
+  <string name="tip2_patternforgotten">Appuyer sur le bouton si-dessous pour réinitialiser votre mot de passe</string>
+  <string name="details_patternforgotten">"Réinitialisation du mot de passe :
+Connectez-vous sur https://account.xiaomi.com et sélectionnez l'option de récupération du mot de passe"</string>
  <!-- à traduire
   <string name="timesync_about_feature_screen_details">"If you press \"Sync now\", Authenticator will attempt to sync its internal clock with servers once. The device's Date &amp; Time settings will not be changed. &lt;p> Authenticator does not transmit any personal data or account information while synchronizing its internal clock with Google servers. &lt;p> &lt;b>Why this is useful&lt;/b> &lt;p> Authenticator generates 2-step verification codes based on 1) the current time, and 2) a secret number known to the app and the server. &lt;p> If Authenticator and the server disagree on what time it is, the codes that the app generates may not be accepted when you try to log in. &lt;p> By default Authenticator uses the device's Date &amp; Time settings, and in most cases you will be able to generate valid codes by making sure your time, date, and time zone settings are configured correctly. However, when time mismatches do occur, they can be hard to troubleshoot (especially if you use network-provided time or time zones)."</string>
-  <string name="tip1_patternforgotten">卸载小米安全令牌，重新安装和激活</string>
-  <string name="tip2_patternforgotten">点击下方按钮“立即重置”，清空原帐户数据，重新激活</string>
-  <string name="details_patternforgotten">"Réactivationﾠ:
-Connectez-vous sur account.xiaomi.com,登陆保护管理页面，点击 “重新激活”"</string>
   -->
   </resources>
