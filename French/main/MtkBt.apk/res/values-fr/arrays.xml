@@ -10,6 +10,6 @@
     </string-array>
     <string-array name="bluetooth_ftp_server_permission_entries">
         <item>Lecture seule</item>
-        <item>Controle complet</item>
+        <item>Contrôle complet</item>
     </string-array>
 </resources>
