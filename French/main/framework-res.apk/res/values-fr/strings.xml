@@ -1814,7 +1814,6 @@ L'écoute à un volume élevé pendant des périodes prolongées peut endommager
     <string name="ext_media_badremoval_notification_title_sd">Carte SD retirée de manière inattendue</string>
     <string name="ext_media_badremoval_notification_message_sd">Pour éviter toute perte de données, démontez la carte SD avant de la retirer</string>
     <string name="ext_media_safe_unmount_notification_title_sd">La carte SD peut être retirée en toute sécurité</string>
-    <string name="ext_media_safe_unmount_notification_title_sd">La carte SD peut être retirée en toute sécurité</string>
     <string name="ext_media_safe_unmount_notification_message_sd">Carte SD retirée</string>
     <string name="ext_media_nomedia_notification_title_sd">Carte SD retirée</string>
     <string name="ext_media_nomedia_notification_message_sd">Carte SD retirée. Insérez une nouvelle carte</string>
@@ -1840,7 +1839,6 @@ L'écoute à un volume élevé pendant des périodes prolongées peut endommager
     <string name="switch_off">Désactivé</string>
     <string name="togglebutton_pressed">Activé</string>
     <string name="SS_SWITCH_TO_PREVIOUS_SIZE">Revenir à la taille précédente</string>
-
     <string name="clipboard_copied_to_clipboard">Copié dans le Presse-papiers</string>
     <string name="clipboard_save_gallery">Saved to Gallery</string>
     <string name="clipboard_exceed_msg">Nombre maximum de clips protégés (%d) atteint</string>
@@ -2364,8 +2362,6 @@ L'écoute à un volume élevé pendant des périodes prolongées peut endommager
     <string name="webviewchromium_color_picker_saturation">Saturation</string>
     <string name="webviewchromium_color_picker_value">Valeur</string>
     <string name="webviewchromium_date_picker_dialog_clear">Effacer</string>
-    <string name="webviewchromium_date_picker_dialog_set">Définir</string>
-    <string name="webviewchromium_date_picker_dialog_title">Définir la date</string>
     <string name="webviewchromium_date_time_picker_dialog_title">"Définir la date et l'heure"</string>
     <string name="webviewchromium_low_memory_error">"Impossible d'effectuer l'opération précédente, car la mémoire est insuffisante."</string>
     <string name="webviewchromium_media_player_error_button">OK</string>
@@ -2384,5 +2380,4 @@ L'écoute à un volume élevé pendant des périodes prolongées peut endommager
     <string name="wifi_display_notification_connecting_title">"Diffusion de l'écran en cours"</string>
     <string name="write_fail_reason_cancelled">Tâche annulée.</string>
     <string name="write_fail_reason_cannot_write">Erreur lors de la modification du contenu.</string>
-  
 </resources>
