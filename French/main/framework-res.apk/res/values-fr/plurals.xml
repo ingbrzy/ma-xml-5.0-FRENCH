@@ -97,4 +97,28 @@
         <item quantity="other">%1$d sur %2$d</item>
         <item quantity="one">1 correspondance</item>
     </plurals>
+	
+    <plurals name="duration_seconds">
+        <item quantity="other">%d secondes</item>
+        <item quantity="one">1 seconde</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d heures</item>
+        <item quantity="one">1 heure</item>
+    </plurals>
+	
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Il vous reste %d tentatives avant que votre carte SIM ne soit verrouillée.</item>
+        <item quantity="one">Il vous reste %d tentative avant que votre carte SIM ne soit verrouillée.</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Réessayer dans %d s</item>
+        <item quantity="one">Réessayer dans 1 s</item>
+    </plurals>
+
+
 </resources>
