@@ -143,7 +143,7 @@
     <string name="silent_mode_vibrate">Sonnerie en mode vibreur</string>
     <string name="silent_mode_ring">Sonnerie activée</string>
     <string name="shutdown_progress">Arrêt en cours…</string>
-    <string name="shutdown_confirm">Votre tablette va s\'éteindre.</string>
+    <string name="shutdown_confirm">Votre téléphone va s\'éteindre.</string>
     <string name="shutdown_confirm_question">Voulez-vous éteindre l\'appareil ?</string>
     <string name="reboot_safemode_title">Redémarrer en mode sans échec</string>
     <string name="reboot_safemode_confirm">Voulez-vous redémarrer en mode sans échec ? Cette opération aura pour effet de désactiver toutes les applications tierces que vous avez installées. Elles seront réactivées au prochain redémarrage.</string>
