@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paramètres avancés</string>
+    <string name="ZOE">Prendre en charge ZOE</string>
+    <string name="stock_album">HTC Album</string>
+</resources>

@@ -16,7 +16,8 @@
 * limitations under the License.
 */
 
-framework 4.1, 4.2 et 4.4 + quelques strings constructeurs
+framework 4.1, 4.2 et 4.4 + quelques strings constructeurs, utilisé si le framework du téléphone n'est pas dans trouvé dans le dossier /device/?????/framework-res.apk
+ 
 
  -->
 <resources>
@@ -2255,8 +2256,7 @@ L'écoute à un volume élevé pendant des périodes prolongées peut endommager
     <string name="oppo_battery_charge_full_temp_low">La température est basse. Dans un souci de sécurité la batterie ne peut être entièrement chargé!</string>
     <string name="oppo_battery_charge_full_temp_high">La température est haute. Dans un souci de sécurité la batterie ne peut être entièrement chargé!</string>
 	
-    <string name="reboot_confirm_question">Would you like to reboot?</string>
-	
+    <string name="reboot_confirm_question">Souhaitez-vous redémarrer ?</string>
     <string name="global_action_reboot_summary">Fermez toutes les applications et redémarrer le téléphone</string>
     <string name="gps_assistance_enable_title">Messages d\'alerte</string>
     <string name="gps_assistance_enable_message">L\'assistance de GPS est allumée pour accélérer le positionnement GPS, ce qui peut entraîner des frais supplémentaires.</string>
