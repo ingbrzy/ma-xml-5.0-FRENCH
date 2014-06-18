@@ -1757,12 +1757,6 @@ L'écoute à un volume élevé pendant des périodes prolongées peut endommager
     <string name="zzz_skt_usim_unregistered1">Vérification de la carte USIM.</string>
     <string name="zzz_skt_usim_unregistered2">Carte USIM est nécessaire pour télécharger.</string>
     <string name="zzz_limited_service">Service limité</string>
-    <string name="lockscreen_uim_unlock_progress_dialog_message">Déverrouillage de la carte UIM…</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message">Vous avez dessiné un modèle de déverrouillage incorrect à %1$d reprises. Réessayez dans %2$d secondes</string>
-    <string name="full_internal_storage_view_text">"Une erreur risque de survenir car la mémoire de l'appareil est saturée. Supprimez des éléments"</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">Mot de passe erroné à %1$d reprises. Réessayez dans %2$d secondes</string>
-    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">Code PIN erroné à %1$d reprises. Réessayez dans %2$d secondes</string>
-    <string name="lockscreen_failed_attempts_almost_glogin">Vous avez dessiné un modèle de déverrouillage incorrect à %1$d reprises. Il vous reste %2$d essais avant que vous ne deviez déverrouiller votre appareil à l\'aide de votre compte Google. Réessayez dans %3$d secondes</string>
     <string name="zzz_pcwlock_locked">Téléphone verrouillé</string>
     <string name="zzz_pcwlock_owner">Propriétaire du téléphone</string>
     <string name="zzz_pcwlock_call">Appeler</string>
