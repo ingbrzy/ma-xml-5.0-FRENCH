@@ -365,7 +365,6 @@
   <string name="impunity_declaration_settings">Notifier quand l\'accès au réseau est requis</string>
   <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application</string>
   <string name="take_effect_afater_restart">L\'application doit être redémarrée pour que les nouveaux paramètres prennent effet</string>
-   <string name="music_filter">Filtrer les fichiers</string>
  <!-- à traduire :
   <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
   -->
