@@ -268,7 +268,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="setting_use_network_summery">Autorise l\'usage de données sur les réseaux mobiles</string>
   <string name="show_hidemedia">Afficher les fichiers masqués</string>
   <string name="notshow_hidemedia">Ne pas afficher les fichiers masqués</string>
-  
+  <string name="addon_category">Addons</string>
  <!-- à vérifier -->
   <string name="mydlna">Ressources DLNA</string>
   <string name="dlna_name">Appareil partagé</string>
