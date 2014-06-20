@@ -129,7 +129,7 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="birthday">Anniversaire :</string>
     <string name="note">Note :</string>
     <string name="add_to_contacts">Ajouter à un contact</string>
-    <string name="faq_title">F.A.Q  MiKey</string>
+    <string name="faq_title">F.A.Q. MiKey</string>
     <string name="vcard_prompt">Impossible d\'importer ce contact car le nom est manquant</string>
     <string name="scan_fail">L\'analyse a échouée</string>
     <string name="open_flash_error">Impossible d\'activer le flash</string>
@@ -144,33 +144,40 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="goto_update">Mettre à jour</string>
     <string name="update_message">Mettre à jour !</string>
     <string name="toolbox_outer_desc">Appuyez sur + ou sur une étape existante</string>
-    <string name="buy">Acheter une MiKey</string>
     <string name="action_open_mi_route">Liste des appareils</string>
     <string name="setting_silent_mode_default">Mode écouteurs</string>
     <string name="setting_silent_mode_dust_cap">Bouchon anti-poussière (MiKey)</string>
     <string name="setting_silent_mode_desc">Retirez la Mikey après de sélectionner le mode écouteur, sinon vous n\'aurez plus de son.</string>
     <string name="showSlip">Afficher dans le menu déroulant</string>
+    <string name="action_open_camera360_capture">Camera360 (effets)</string>
+    <string name="action_open_camera360_edit">Camera360 (retouche d\'image)</string>
+    <string name="app_not_installed">Appli non installée</string>
+    <string name="setting_buy">Acheter une MiKey</string>
+    <string name="setting_toolbar">Barre d\'outils</string>
+    <string name="setting_toolbar_desc">"Les fonctions de la barre d\'outils sont accessibles rapidement via le menu déroulant de la barre de notification.".</string>
+    <string name="setting_toolbar_tip">"Appuyer sur le symbole + pour ajouter une fonction.
+Appui long pour en supprimer une.
 
-<!-- à traduire
-    <string name="faq_speed_title">连击不成功？</string>
-    <string name="faq_speed_text">由于手机差异，导致响应速度不同，可以在设置中调节点击速度，找到适合自己手机的节奏。</string>
-    <string name="faq_focus_title">闪拍模糊？太慢？</string>
-    <string name="faq_focus_text">闪拍对焦是默认开启的，对焦与测光会使得闪拍变慢，但能够得到清晰的影像。希望速度更快可以尝试关闭闪拍对焦，这会导致图片模糊曝光错误。</string>
-    <string name="faq_plug_title">识别总是错误？</string>
-    <string name="faq_plug_text">按此方法插入米键可以有效避免识别错误的问题。按住边缘插入，避免按到按键。</string>
-    <string name="faq_misreq_title">失灵了怎么办？</string>
-    <string name="faq_misreq_text">锁屏下按键短暂失灵是因为手机休眠所致。 未锁屏下变成了音乐等第三方软件的控制，是因为米键被劫持，请关闭音乐，清除内存和通知栏，在米键App中插入米键，选择米键就好。 这一问题工程师正在解决，由于比较复杂，一两个更新迭代无法完成，请各位米粉见谅，我们仍在不懈的努力。</string>
-    <string name="faq_comp_title">哪些手机能用米键？</string>
-    <string name="faq_comp_text">除小米1代之外的小米手机都能够使用。因为1代小米上有一个更牛X的米键。 米键目前仅支持MIUI-V5系统，同时需要下载米键App才能使用。</string>
-    <string name="faq_voice_title">打电话没有声音？</string>
-    <string name="faq_voice_text">把米键重新插入一次，确保选择了“米键”</string>
-    <string name="faq_slow_title">单击反应慢？</string>
-    <string name="faq_slow_text">可以将设置中的“点击速度”调整为“0”，这样能够给你想要的感觉～</string>
-    <string name="faq_quni_title">米键能用多久？</string>
-    <string name="faq_quni_text">能够承受大于30000次的点击，想怎么按就怎么按。</string>
-    <string name="faq_stat_title">点击次数怎么变成了“0”？</string>
-    <string name="faq_stat_text">排名每晚零时会清零，当你醒来又是一个新的开始。</string>
-    <string name="faq_vsm_title">使用注意事项</string>
-    <string name="faq_vsm_text">确保在取下手机后盖前，先将米键拔出！</string>
--->
+La barre d\'outils est accessible via le menu déroulant de la barre de notification."</string>
+<!-- à traduire : !! -->
+  <string name="faq_comp_text">For MIUI and Xiaomi phones. The current version of MiKey is available at &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
+  <string name="faq_comp_title">Supported devices</string>
+  <string name="faq_focus_text">Flash extends the time of taking the picture, but the resulting picture is sharper. Although you can turn it off, the picture might be blurred.</string>
+  <string name="faq_focus_title">Slow taking pictures?</string>
+  <string name="faq_misreq_text">"If the control of music on the lock screen doesn't respond, quit app and remove it from memory. Reconnect your MiKey and try again."</string>
+  <string name="faq_misreq_title">Solving common problems</string>
+  <string name="faq_plug_text">This method of inserting MiKey will help avoid potential problems. Do not press the button while inserting MiKey.</string>
+  <string name="faq_plug_title">How to connect MiKey?</string>
+  <string name="faq_quni_text">Button will last over 30000 clicks.</string>
+  <string name="faq_quni_title">What is the lifespan?</string>
+  <string name="faq_slow_text">Set the frequency of clicks to "0"</string>
+  <string name="faq_slow_title">Slow reaction?</string>
+  <string name="faq_speed_text">Differences between the device causes a different reaction times. Set the time between clicks MiKey according to your needs.</string>
+  <string name="faq_speed_title">Unknown action?</string>
+  <string name="faq_stat_text">Ranking clears ar the start of each new day.</string>
+  <string name="faq_stat_title">I have "0" clicks in the morning?</string>
+  <string name="faq_voice_text">Please re-insert MiKey and try again.</string>
+  <string name="faq_voice_title">No sound during a call?</string>
+  <string name="faq_vsm_text">Make sure that you have disconnected your MiKey before removing the back cover!</string>
+  <string name="faq_vsm_title">Warning!</string>
 </resources>
