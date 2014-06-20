@@ -1,4 +1,4 @@
 <resources>
-    <string name="slider_text" value="Faire glisser pour arrêter" />
-    <string name="snooze_message" value="Répéter dans %d min" />
+    <string name="slider_text">Faire glisser pour arrêter</string>
+    <string name="snooze_message">Répéter dans %d min</string>
 </resources>
