@@ -22,7 +22,7 @@ Hors limite"</string>
     <string name="main_toolbar_firewall">Pare-feu</string>
     <string name="main_toolbar_statistic">Statistiques</string>
     <string name="main_toolbar_purchase">Achats</string>
-    <string name="main_button_usage_adjust">Définir le quota de données mobiles</string>
+    <string name="main_button_usage_adjust">Définir le quota de données</string>
     <string name="app_mobile">Mobile</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="usage_sorted_activity_lable">Usage des données</string>
@@ -146,8 +146,6 @@ connexion au réseau de données mobiles"</string>
     <string name="daily_pkg_traffic">Définir la limite du pic d\'usage des données</string>
     <string name="input_aviable_traffic">Définir la limite</string>
     <string name="pkg_traffic">Définir la limite d\'usage des données</string>
-    <string name="free_traffic_settings">Paramètres du creux d\'usage des données</string>
-    <string name="free_time_traffic">Limite du creux d\'usage des données</string>
     <string name="power_save_on_time_start_time_summary">De</string>
     <string name="power_save_on_time_end_time_summary">à</string>
     <string name="manual_input_traffic">Définir l\'usage de données</string>
@@ -157,7 +155,6 @@ connexion au réseau de données mobiles"</string>
     <string name="settings">Paramètres d\'usage des données</string>
     <string name="adjust_traffic_data">Définir l\'usage de données</string>
     <string name="per_month_pkg_traffic_settings">Définir la limite d\'usage des données</string>
-    <string name="free_time_traffic_settings">Paramètres du creux d\'usage des données</string>
     <string name="data_usage_warning_title">Alerte d\'usage des données</string>
     <string name="data_usage_warning_body">Appuyer pour afficher les détails d\'usage des données</string>
     <string name="data_usage_mobile_limit_title">Les données mobiles ont été désactivées</string>
@@ -185,8 +182,53 @@ Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
     <string name="lock_screen_traffic_warn_title">Alerte d\'usage des données</string>
     <string name="notification_title">%1$s-%2$s : %3$s utilisés</string>
     <string name="notification_content_title">%1$s utilisés en veille</string>
- <!-- à traduire 
+    <string name="spinner_title">%1$s - Données mobiles : %2$s</string>
+    <string name="traffic_config_alert_ok">OK</string>
+    <string name="traffic_config_alert_cancel">Annuler</string>
+    <string name="traffic_config_alert_nomore">Ne pas redemander</string>
+    <string name="traffic_config_alert_setted">Limite définie</string>
+
+  <!-- à revoir , creux d'usage ? -->
+    <string name="free_time_traffic_settings">Paramètres du creux d\'usage des données</string>
+    <string name="free_traffic_settings">Paramètres du creux d\'usage des données</string>
+    <string name="free_time_traffic">Limite du creux d\'usage des données</string>
+ <!-- 
     <string name="free_time_traffic_title">Enter off-peak data limit</string>
     <string name="free_time_traffic_hint">Enter off-peak data limit</string>
- -->
+ --> 
+
+ <!-- à traduire 
+  <string name="traffic_config_alert_title">%s difference</string>
+  <string name="traffic_config_alert_body">"Your carrier's data usage accounting shows you have %s remaining.
+Do you want to update your local data usage limit?"</string>
+  <string name="traffic_config_alert_body_normal">"
+Your carrier's data usage accounting shows you have %1$s of peak usage remaining. This is different from the %2$s limit you've set locally."</string>
+  <string name="traffic_config_alert_body_leisure">"
+Your carrier's data usage accounting shows you have %1$s of off-peak usage remaining. This is different from the %2$s limit you've set locally."</string>
+  <string name="traffic_config_alert_body_leisure_notset">"
+Your carrier's data usage accounting shows you have %1$s of off-peak usage remaining. You haven't set a limit."</string>
+  <string name="datausage_purchase_title_pkglist">Buy data</string>
+  <string name="datausage_purchase_title_confirm">Purchase details</string>
+  <string name="datausage_purchase_title_order">Buy data</string>
+  <string name="datausage_purchase_banner_title">"You're %s over your limit"</string>
+  <string name="datausage_purchase_view_detail">View details</string>
+  <string name="datausage_purchase_buy">Buy</string>
+  <string name="datausage_purchase_pay_confirm">Pay</string>
+  <string name="datausage_purchase_pay_hint">To cancel call %s</string>
+  <string name="datausage_purchase_pay_captcha_hint">Enter verification code</string>
+  <string name="datausage_purchase_pay_captcha_tips">"After you've entered your verification code tap Pay. You'll receive a confirmation within 10 minutes."</string>
+  <string name="datausage_purchase_get_captcha">Get verification code(%d)</string>
+  <string name="datausage_purchase_get_captcha_again">Send again</string>
+  <string name="datausage_purchase_get_captcha_failed">"Can't get verification code. Check your data connection and try again."</string>
+  <string name="datausage_purchase_confirm_tip">Order:</string>
+  <string name="datausage_purchase_ordering">Purchasing…</string>
+  <string name="datausage_purchase_result_ok">"You purchased %s
+See the message sent by your service provider for more info."</string>
+  <string name="datausage_purchase_result_failed">"Can't complete purchase"</string>
+  <string name="datausage_purchase_backto_ns">Back</string>
+  <string name="datausage_purchase_goto_monthsetting">Readjust data limit</string>
+  <string name="datausage_purchase_pkglist_nodata">"There's a conflict with your existing data plan and your current order. Contact your service provider for more information."</string>
+  <string name="datausage_purchase_pkglist_networkerror">"Can't connect to the network. Check your data connection and try again."</string>
+  <string name="datausage_purchase_pkglist_servererror">Server error</string>
+-->
 </resources>

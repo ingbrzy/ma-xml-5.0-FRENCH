@@ -127,8 +127,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="delete_media_content">Supprimer cet élément ?</string>
   <string name="delete">Supprimer</string>
   <string name="login_tip_title">Connectez-vous</string>
-  <string name="login_tip_content">Connectez-vous avec votre compte Mi pour synchroniser et mettre à jour les émissions que vous suivez.</string>
-  <string name="declaration_content">"Acceptez-vous les conditions d'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs de contenu vidéo ?"</string>
+  <string name="login_tip_content">Connectez-vous avec votre compte Mi pour synchroniser et mettre à jour les émissions que vous suivez.</string
   <string name="today">"Aujourd\'hui "</string>
   <string name="yestorday">"Hier "</string>
   <string name="di_count_ji">Ep. %d</string>
@@ -257,6 +256,18 @@ la vidéo sur votre box ou TV"</string>
   <string name="jni_invalid_param">Paramètres incorrectes</string>
   <string name="network_setting">Réseau</string>
   <string name="media_source_unavailable">Source indisponible</string>
+  <string name="sure">Accepter</string>
+  <string name="ok_no_more">OK et ne pas redemander</string>
+  <string name="loading_text"><CDATA>Chargement... </CDATA></string>
+  <string name="declaration_content">"Acceptez-vous les conditions d'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs de contenu vidéo ?"</string>
+  <string name="declaration_content_short">"Acceptez-vous les conditions d'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs ?"</string>
+  <string name="home_net_title">Avertissement</string>
+  <string name="home_net_content">Cette application va utiliser votre connexion au réseau mobile de données, continuer?</string>
+  <string name="backkey_remark">*Note : appuyez sur Retour pour quitter</string>
+  <string name="setting_use_network">Autoriser l\'utilisation du réseau</string>
+  <string name="setting_use_network_summery">Autorise l\'usage de données sur les réseaux mobiles</string>
+  <string name="show_hidemedia">Afficher les fichiers masqués</string>
+  <string name="notshow_hidemedia">Ne pas afficher les fichiers masqués</string>
   
  <!-- à vérifier -->
   <string name="mydlna">Ressources DLNA</string>
@@ -311,8 +322,6 @@ la vidéo sur votre box ou TV"</string>
   <string name="quarter_bell_alert_button_cancel">cancel</string>
   <string name="quarter_bell_alert_button_makeappointment">reservation</string>
   <string name="quarter_bell_alert_button_cancelappointment">remove reservation</string>
-  <string name="show_hidemedia">Show hidden files</string>
-  <string name="notshow_hidemedia">"Don't show hidden files"</string>
   <string name="pick_video_to_hide">Choose items</string>
   <string name="pick_hide_to_show">Choose items</string>
   <string name="hided_cannot_favorite">"Can't star hidden items"</string>
@@ -355,5 +364,20 @@ la vidéo sur votre box ou TV"</string>
   <string name="btnplayerforecast">Forecast</string>
   <string name="filter_program">Filter program</string>
   <string name="filter">Filter</string>
+  
+  <string name="gong_count_netdevice">%d net devices</string>
+  <string name="net_device_name">net device</string>
+  <string name="thunder_cinema">thunder cinema</string>
+  <string name="xunlei_login_error">thunder login in error</string>
+  <string name="xunlei_cinema_title">thunder cinema</string>
+  <string name="get_cert_file_failed">can not get thunder certificate,please press the back key</string>
+  <string name="failed_title">attention</string>
+  <string name="failed_text_parse_file">error! wrong file format</string>
+  <string name="failed_text">can not get certificate, retry please!</string>
+  <string name="failed_text_11">verify fail! retry please!</string>
+  <string name="failed_text_49">the account do not buy this film, can not play, you can buy it in thunder cinema</string>
+  <string name="failed_text_21">the film you try to play is not online, please wait!</string>
+  <string name="failed_text_708">the number of terminal is too many, please play it on the terminal you play ever</string>
+  <string name="failed_text_502">the film you try to play is offline or expired, can not play it</string>
  -->
 </resources>

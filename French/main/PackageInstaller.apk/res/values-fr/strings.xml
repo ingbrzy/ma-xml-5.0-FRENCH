@@ -106,4 +106,9 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="virus_scan_install">" "<u>Poursuivre l\'installation</u>" "</string>
   <string name="virus_scan_is_risk">Cette application présente un risque !</string>
   <string name="virus_scan_is_virus">Cette application contient un virus, veuillez la supprimée immédiatement !</string>
+  <string name="ad_relative">Adware</string>
+  <string name="ad_block_button_title">Bloquer le adware</string>
+  <string name="adware_title">AdWare</string>
+  <string name="adware_hint">Les adwares sont utilisés par des entreprises pour afficher des publicités sur votre appareil.</string>
+  <string name="adware_count">Adwares contenus : %d</string>
 </resources>

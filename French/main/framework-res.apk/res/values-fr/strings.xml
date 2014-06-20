@@ -16,7 +16,7 @@
 * limitations under the License.
 */
 
-framework 4.1, 4.2 et 4.4 + quelques strings constructeurs, utilisé si le framework du téléphone n'est pas dans trouvé dans le dossier /device/?????/framework-res.apk
+framework 4.1, 4.2 et 4.4 + quelques strings constructeurs, utilisé uniquement si le framework du téléphone n'est pas dans trouvé dans le dossier /device/?????/framework-res.apk
  
 
  -->

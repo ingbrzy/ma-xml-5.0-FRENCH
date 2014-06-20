@@ -340,4 +340,6 @@ Superflu"</string>
   <string name="share_box">Partages</string>
   <string name="share_box_send">Envoyé</string>
   <string name="share_box_receive">Reçu</string>
+  <string name="file_not_exist">ficher non existant</string>
+  <string name="open_file_failed">erreur lors de l\'ouverture</string>
 </resources>

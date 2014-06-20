@@ -241,17 +241,17 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="AD_NOT_BLOCK">Ne pas bloquer</string>
   <string name="AD_BLOCKED">Bloqué</string>
   <string name="AD_COUNT">%d bloqué</string>
-  <string name="AD_TITLE_COUNT">%d applications contiennent des publiciels</string>
-  <string name="AD_TITLE_NON_COUNT">Aucun publiciel détecté</string>
+  <string name="AD_TITLE_COUNT">%d applications contiennent des adwares</string>
+  <string name="AD_TITLE_NON_COUNT">Aucun adware détecté</string>
   <string name="AD_BLOCK">Bloquer les sollicitations</string>
   <string name="AD_ALLOW">Autoriser les sollicitations</string>
   <string name="AD_Unistall">Désinstaller</string>
   <string name="AD_APPInfo">Informations sur l\'application</string>
   <string name="AD_Info">Information publicitaire</string>
-  <string name="AD_Info_Hint">Les publiciels sont utilisés par des entreprises pour envoyer des annonces à votre appareil.</string>
+  <string name="AD_Info_Hint">Les adwares sont utilisés par des entreprises pour afficher des publicités sur votre appareil.</string>
   <string name="ad_relative_setting">Paramètres en relation</string>
   <string name="ad_install_monitor">Installer le moniteur</string>
-  <string name="ad_install_monitor_hint">vérifier la présence de publiciels lors de l\'installation d\'applications</string>
+  <string name="ad_install_monitor_hint">vérifier la présence de adwares lors de l\'installation d\'applications</string>
   <string name="ad_update_setting">Mettre à jour les paramètres d\'ajouts de blocage</string>
   <string name="menu_wh_remove">Supprimer de la liste blanche</string>
   <string name="NACaddnumcontent">Saisir le numéro</string>
@@ -259,4 +259,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="sms_delete_hint">Supprimer tous les messages bloqués envoyés depuis le numéro sélectionné ?</string>
   <string name="call_delete_hint">Supprimer tous les appels bloqués émis depuis le numéro sélectionné ?</string>
   <string name="backsound_set_hint">Utiliser %s comme avertissement sonore ?</string>
+  <string name="ad_block_hint">Bloqués : %d</string>
+  <string name="ad_single_block_hint">Bloqué</string>
+  <string name="ad_permission_hint">L\'utilisation d\'un bloqueur de publicités peut impacter les performances de l\'application ou l\'empêcher de fonctionner correctement"</string>
 </resources>

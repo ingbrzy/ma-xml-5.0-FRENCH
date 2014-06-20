@@ -73,11 +73,19 @@
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Supprimer ces %1$d conversations ?</item>
+        <item quantity="zero">Supprimer ces %1$d conversations ?</item>
         <item quantity="one">Supprimer cette conversation ?</item>
+        <item quantity="two">Supprimer ces %1$d conversations ?</item>
+        <item quantity="few">Supprimer ces %1$d conversations ?</item>
+        <item quantity="many">Supprimer ces %1$d conversations ?</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Archiver ces %1$d conversations ?</item>
+        <item quantity="zero">Archiver ces %1$d conversations ?</item>
         <item quantity="one">Archiver cette conversation ?</item>
+        <item quantity="two">Archiver ces %1$d conversations ?</item>
+        <item quantity="few">Archiver ces %1$d conversations ?</item>
+        <item quantity="many">Archiver ces %1$d conversations ?</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
         <item quantity="other">Supprimer les brouillons de ces %1$d conversations ?</item>
@@ -92,28 +100,28 @@
         <item quantity="one">%1$d conversation ignorée.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">%1$d conversations marquées comme spam.</item>
-        <item quantity="one">%1$d conversation marquée comme spam.</item>
+        <item quantity="other">%1$d conversations marquées comme spam</item>
+        <item quantity="one">%1$d conversation marquée comme spam</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">"%1$d conversations signalées comme n'étant pas du spam"</item>
-        <item quantity="one">"%1$d conversation signalée comme n'étant pas du spam"</item>
+        <item quantity="other">"%1$d conversations retirées du dossier \"spam\""</item>
+        <item quantity="one">"%1$d conversation retirée du dossier \"spam\""</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">"%1$d conversations marquées comme n'étant pas importantes"</item>
-        <item quantity="one">"%1$d conversation marquée comme n'étant pas importante"</item>
+        <item quantity="other">"%1$d conversations retirées du dossier \"important\""</item>
+        <item quantity="one">"%1$d conversation retirée du dossier \"important\""</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">%1$d conversations signalées comme étant du phishing</item>
-        <item quantity="one">%1$d conversation signalée comme étant du phishing</item>
+        <item quantity="other">%1$d conversations signalées comme spam</item>
+        <item quantity="one">%1$d conversation signalée comme spam</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">%1$d conversations archivées.</item>
-        <item quantity="one">%1$d conversation archivée.</item>
+        <item quantity="other">%1$d conversations archivées</item>
+        <item quantity="one">%1$d conversation archivée</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">%1$d conversations supprimées.</item>
-        <item quantity="one">%1$d conversation supprimée.</item>
+        <item quantity="other">%1$d conversations supprimées</item>
+        <item quantity="one">%1$d conversation supprimée</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Dossiers modifiés.</item>
@@ -121,47 +129,93 @@
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d nouveaux messages. Afficher</item>
+        <item quantity="zero">%1$d nouveaux messages. Afficher</item>
+        <item quantity="one">%1$d nouveau message. Afficher</item>
+        <item quantity="two">%1$d nouveaux messages. Afficher</item>
+        <item quantity="few">%1$d nouveaux messages. Afficher</item>
+        <item quantity="many">%1$d nouveaux messages. Afficher</item>
     </plurals>
     <plurals name="show_messages_read">
         <item quantity="other">%1$d messages plus anciens</item>
+        <item quantity="zero">%1$d messages plus anciens</item>
+        <item quantity="one">%1$d message plus ancien</item>
+        <item quantity="two">%1$d messages plus anciens</item>
+        <item quantity="few">%1$d messages plus anciens</item>
+        <item quantity="many">%1$d messages plus anciens</item>
     </plurals>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d non lus</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d messages vont être supprimés de manière définitive.</item>
+        <item quantity="zero">%1$d messages vont être supprimés de manière définitive.</item>
         <item quantity="one">%1$d message va être supprimé de manière définitive.</item>
+        <item quantity="two">%1$d messages vont être supprimés de manière définitive.</item>
+        <item quantity="few">%1$d messages vont être supprimés de manière définitive.</item>
+        <item quantity="many">%1$d messages vont être supprimés de manière définitive.</item>
     </plurals>
     <plurals name="move_messages">
-        <item quantity="other">Déplacer des messages</item>
+        <item quantity="other">Déplacer les messages</item>
+        <item quantity="zero">Déplacer les messages</item>
         <item quantity="one">Déplacer le message</item>
+        <item quantity="two">Déplacer les messages</item>
+        <item quantity="few">Déplacer les messages</item>
+        <item quantity="many">Déplacer les messages</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%d O</item>
+        <item quantity="zero">%d O</item>
         <item quantity="one">%d O</item>
+        <item quantity="two">%d O</item>
+        <item quantity="few">%d O</item>
+        <item quantity="many">%d O</item>
     </plurals>
     <plurals name="message_view_attachment_kilobytes">
         <item quantity="other">%d Ko</item>
+        <item quantity="zero">%d Ko</item>
         <item quantity="one">%d Ko</item>
+        <item quantity="two">%d Ko</item>
+        <item quantity="few">%d Ko</item>
+        <item quantity="many">%d Ko</item>
     </plurals>
     <plurals name="message_view_attachment_megabytes">
         <item quantity="other">%d Mo</item>
+        <item quantity="zero">%d Mo</item>
         <item quantity="one">%d Mo</item>
+        <item quantity="two">%d Mo</item>
+        <item quantity="few">%d Mo</item>
+        <item quantity="many">%d Mo</item>
     </plurals>
     <plurals name="message_view_attachment_gigabytes">
         <item quantity="other">%d Go</item>
+        <item quantity="zero">%d Go</item>
         <item quantity="one">%d Go</item>
+        <item quantity="two">%d Go</item>
+        <item quantity="few">%d Go</item>
+        <item quantity="many">%d Go</item>
     </plurals>
    <plurals name="contact_num_selected">
        <item quantity="other">%d sélectionnés</item>
-       <item quantity="one">1 sélectionné</item>
+       <item quantity="zero">%d sélectionné</item>
+       <item quantity="one">%d  sélectionné</item>
+       <item quantity="two">%d sélectionnés</item>
+       <item quantity="few">%d sélectionnés</item>
+       <item quantity="many">%d sélectionnés</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%1$d éléments sélectionnés</item>
+        <item quantity="zero">%1$d élément sélectionné</item>
         <item quantity="one">%1$d élément sélectionné</item>
+        <item quantity="two">%1$d éléments sélectionnés</item>
+        <item quantity="few">%1$d éléments sélectionnés</item>
+        <item quantity="many">%1$d éléments sélectionnés</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Ces conversations sont fusionnées, êtes-vous sûr de vouloir les supprimer ?</item>
+        <item quantity="zero">Ces conversations sont fusionnées, êtes-vous sûr de vouloir les supprimer ?</item>
         <item quantity="one">Cette conversation est fusionné, êtes-vous sûr de vouloir la supprimer ?</item>
+        <item quantity="two">Ces conversations sont fusionnées, êtes-vous sûr de vouloir les supprimer ?</item>
+        <item quantity="few">Ces conversations sont fusionnées, êtes-vous sûr de vouloir les supprimer ?</item>
+        <item quantity="many">Ces conversations sont fusionnées, êtes-vous sûr de vouloir les supprimer ?</item>
     </plurals>
 </resources>

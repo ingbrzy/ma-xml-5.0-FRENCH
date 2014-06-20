@@ -2,6 +2,8 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- removed in 4.6.20 mi2 -->
+  <string name="item_not_sync">Cet élément n\'a pas été synchronisé sur le cloud et ne peut pas être téléchargé</string>
 <!-- removed in 4.6.5 mi2 -->
   <string name="picker_tab_camera">Appareil photo</string>
 <!-- removed in 4.5.6 mi2 -->
@@ -508,7 +510,6 @@
   <string name="loading_video">Téléchargement de la vidéo…</string>
   <string name="external_usb_device_hm">Stockage externe USB</string>
   <string name="internal_sd_card_hm">Stockage interne</string>
-  <string name="item_not_sync">Cet élément n\'a pas été synchronisé sur le cloud et ne peut pas être téléchargé</string>
   <string name="move">Déplacer</string>
   <string name="yellow_page">Pages jaunes</string>
   <string name="picker_tab_photo">Photo</string>
@@ -519,10 +520,16 @@
   <string name="sync_in_progress_message">Synchronisation en cours…</string>
   <string name="alert_init_merged_title">Information</string>
   <string name="alert_init_merged_message">Dorénavant les photos stockées sur votre appareil et celles stockées sur MiCloud seront affichées ensemble.</string>
+  <string name="item_not_sync_for_origin_video">Cette vidéo n\'a pas été synchronisée avec le cloud, le fichier d\'origine ne peut donc pas être récupéré</string>
+  <string name="item_not_sync_for_origin_image">Cette image n\'a pas été synchronisée avec le cloud, le fichier d\'origine ne peut donc pas être récupéré</string>
   <string name="ubifocus_data_missing">Certaines données sont perdues</string>
   <string name="ubifocus_map_error">Certaines données sont incorrectes</string>
  <!-- à traduire
   <string name="long_press_to_refocus">Keep pressing to refocus</string>
   <string name="ubifocus_refocus_fail_tip">Cannot refocus due to some missing or wrong data</string>
+  <string name="item_not_sync_for_refocus_data">Cette image n\'a pas été synchronisée avec le cloud, its refocus data can not be downloaded</string>
+  <string name="download_refocus_data">Download refocusing data</string>
+  <string name="refocus_data_downloading">Downloading refocusing data…</string>
+  <string name="ubifocus_guide_text">Long press to refocus</string>
   -->
 </resources>

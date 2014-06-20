@@ -2,6 +2,17 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+  <!-- removed 4.6.19:  -->
+  <string name="apply_theme_no_select_message">Veuillez sélectionner des composants.</string>
+  <string name="apply_lockscreen_paper_tips">"Le fond d'écran de verrouillage est en cours d'utilisation et ne peut pas être changé, le nouveau fond d'écran de verrouillage ne sera pas visible."</string>
+  <string name="component_settings_title">Personnaliser le thème</string>
+  <string name="component_include_title">Contient %1$s composants</string>
+  <string name="component_select_title">%1$s composants sélectionnés</string>
+  <string name="title_local">Local</string>
+  <string name="title_online">En ligne</string>
+  <string name="resource_preview">Aperçu</string>
+  <string name="restore_default_theme_alert">Vous êtes peut-être victime d\'une contrefaçon de thème, veuillez parcourir le market pour l\'acheter ou le re-télécharger.</string>
+  
   <!-- removed 4.3.19:  -->
   <string name="resource_account_current">Compte : %1$s</string>
   <!-- -->
@@ -16,8 +27,6 @@
   <string name="apply_font_btn_exclude">Appl. sans police</string>
   <string name="apply_font_btn_reboot">Redémarrer</string>
   <string name="apply_font_tip">Le thème contient une police, un redémarrage est nécessaire pour l\'appliquer.</string>
-  <string name="apply_lockscreen_paper_tips">"Le fond d'écran de verrouillage est en cours d'utilisation et ne peut pas être changé, le nouveau fond d'écran de verrouillage ne sera pas visible."</string>
-  <string name="apply_theme_no_select_message">Veuillez sélectionner des composants.</string>
   <string name="backup_preference_title">Sauvegarder le thème</string>
   <string name="backup_theme_dialog_message">Sauvegarder le thème courant ?</string>
   <string name="backup_theme_dialog_ok">Sauvegarder</string>
@@ -28,9 +37,6 @@
   <string name="close">Fermer</string>
   <string name="component_category_finest_title">Principaux</string>
   <string name="component_category_more_title">Plus</string>
-  <string name="component_include_title">Contient %1$s composants</string>
-  <string name="component_select_title">%1$s composants sélectionnés</string>
-  <string name="component_settings_title">Personnaliser le thème</string>
   <string name="default_name">Par défaut</string>
   <string name="deleting">Suppression…</string>
   <string name="description_author">Auteur</string>
@@ -134,7 +140,6 @@
   <string name="resource_pack_discount_info">Économisé : %1$s</string>
   <string name="resource_pack_price_info">Original : %1$s</string>
   <string name="resource_pack_warning">Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n\'est plus valable pour les articles restants, veuillez les acheter individuellement.</string>
-  <string name="resource_preview">Aperçu</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuit</string>
   <string name="resource_price_unit">" MiCredits"</string>
@@ -156,7 +161,6 @@
   <string name="resource_title_select_ringtone">Sélectionner la sonnerie</string>
   <string name="resource_update">MàJ</string>
   <string name="resource_waiting_download">En attente…</string>
-  <string name="restore_default_theme_alert">Vous êtes peut-être victime d\'une contrefaçon de thème, veuillez parcourir le market pour l\'acheter ou le re-télécharger.</string>
   <string name="sdcard_not_mounted_dialog_message">Carte SD non disponible, veuillez en insérer une.</string>
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
   <string name="selected_resource_file_invalid">Le fichier sélectionné est non valide.</string>
@@ -202,8 +206,6 @@
   <string name="theme_select_others">Autres</string>
   <string name="third_party_pickers_activity_title">Définir %1$s</string>
   <string name="title_component">Mixer</string>
-  <string name="title_local">Local</string>
-  <string name="title_online">En ligne</string>
   <string name="title_system_resource">Ressources système</string>
   <string name="wallpaper_crop">Rogner</string>
   <string name="wallpaper_decoded_error">Impossible de décoder</string>
@@ -270,4 +272,14 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_trial_end_message">La période d\'essai de \"%1$s\" est terminée. S\'il vous a plu, vous pouvez l\'acheter.</string>
   <string name="resource_trial_end_restore">Terminer l\'essai</string>
   <string name="resource_trial_end_purchase">Acheter</string>
+  <string name="theme_user_agreement_content1">"Avant d\'utiliser cette application, merci de lire le "</string>
+  <string name="theme_user_agreement_content2">Contrat d\'utilisation</string>
+  <string name="theme_user_agreement_content3">" et les "</string>
+  <string name="theme_user_agreement_content4">Règles de confidentialité</string>
+  <string name="theme_user_agreement_content5">.</string>
+  <string name="theme_user_agreement_title">Information</string>
+  <string name="theme_user_agreement_allow">Accepter</string>
+  <string name="theme_user_agreement_remind_never">Ne pas redemander</string>
+  <string name="theme_user_agreement_remind_again">Notifier quand l\'accès au réseau est requis</string>
+  <string name="theme_user_agreement_remind_summary">Prendra effet au prochain redémarrage</string>
 </resources>

@@ -811,7 +811,7 @@
   <string name="att_mgr_title_order_sender">Expéditeur</string>
   <string name="att_mgr_title_order_rev_date">Date</string>
   <string name="att_mgr_title_order_size">Taille</string>
-  <string name="input_password_prompt">Veuillez saisir le mot de passe :</string>
+  <string name="input_password_prompt">Veuillez saisir le mot de passe</string>
   <string name="wrong_password">Mot de passe incorrect !</string>
   <string name="str_select_all">Tout sélectionner</string>
   <string name="str_select_none">Désélectionner tout</string>
@@ -855,7 +855,7 @@
   <string name="local_search">Recherche locale</string>
   <string name="widget_all_mail">Tous</string>
   <string name="widget_other_views">Autres</string>
-  <string name="search_result">Résultat de recherche :</string>
+  <string name="search_result">Résultats :</string>
   <string name="set_network">Définir le réseau</string>
   <string name="net_check_title">Erreur réseau, veuillez vérifier vos paramètres réseau.</string>
   <string name="pull_to_refresh">Tirer pour actualiser</string>
@@ -882,8 +882,7 @@
   <string name="contact_select">Choisir un contact</string>
   <string name="request_entity_large">Fichier trop volumineux !</string>
   <string name="outbox_alert_title_sent_failed">Erreur, e-mail non envoyé</string>
-  <string name="outbox_alert_description_sent_failed">"Cause : la taille de la 
-pièce jointe dépasse la limite autorisée"</string>
+  <string name="outbox_alert_description_sent_failed">"Cause : la taille de la pièce jointe dépasse la limite autorisée"</string>
   <string name="blank_feedback_toast">Le rapport est vide, veuillez en écrire un !</string>
   <string name="ApplicationIconMore99">99+</string>
   <string name="please_fill_in_your_mailbox_information">Veuillez remplir les informations liées à votre compte e-mail :</string>
@@ -957,7 +956,9 @@ Taille du patch Delta : %2$s"</string>
   <string name="outbox_alert_button_resend">Renvoyer</string>
   <string name="outbox_alert_button_no_resend">Ne pas renvoyer</string>
   <string name="outbox_alert_mailbox_not_found">Adresse email introuvable</string>
-  
+  <string name="account_setup_incoming_mail_adress_label">Adresse email</string>
+  <string name="account_setup_incoming_mail_domain_label">Domaine</string>
+  <string name="account_setup_incoming_mail_domain_hint">Ne peut être vide</string>
  <!-- à traduire :
   <string name="device_activity_btn_str">Return To Activate</string>
   <string name="device_not_activiey_lint1">Device Manager is not activated</string>

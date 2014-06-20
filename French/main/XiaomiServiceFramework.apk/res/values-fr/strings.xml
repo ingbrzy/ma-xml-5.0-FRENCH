@@ -124,6 +124,7 @@
   <string name="error_dup_phone">Ce numéro de téléphone est déjà associé avec un autre compte</string>
   <string name="error_invalid_dev_id">Identité de l\'appareil non valide</string>
   <string name="error_network">Erreur réseau</string>
+  <string name="error_device_id">Impossible d\'obtenir l\'IMEI</string>
   <string name="error_no_sms_service">Impossible d\'envoyer un SMS, réseau mobile indisponible</string>
   <string name="error_server">Erreur du serveur</string>
   <string name="error_sim_not_ready">Carte SIM non prête</string>

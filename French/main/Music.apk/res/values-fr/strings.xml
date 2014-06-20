@@ -2,6 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+ <!-- removed 4.6.19 mi2 -->
+  <string name="music_filter">Filtrer les fichiers</string>
+  <string name="music_filter_helper">Afin de cacher les fichiers non liés à la musique, un filtre a été appliqué pour ignorer les fichiers de moins de 800 Ko. Pour régler ce seuil allez dans Paramètres &gt; filtrer les fichiers</string>
  <!-- removed 4.4.23 mi2 -->
   <string name="load_album_failed">Le chargement de la liste d\'albums a échoué, veuillez réessayer</string>
   <string name="load_album_in_process">Chargement de la liste d\'albums</string>
@@ -145,8 +148,8 @@
   <string name="id3_edit_failed">Impossible de modifier les informations ID3</string>
   <string name="id3_modify_confirm_check">Confirmer les modifications ID3 ?</string>
   <string name="id3_modify_confirm_text">Enregistrer</string>
-  <string name="impunity_declaration">Le service de musique en ligne que vous êtes sur le point d\'utiliser est propulsé par Baidu. Appuyez sur "Confirmer" pour accepter ses conditions d\'utilisations.</string>
   <string name="impunity_declaration_title">Déclaration</string>
+  <string name="impunity_declaration">Le service de musique en ligne que vous êtes sur le point d\'utiliser est propulsé par Baidu. Appuyez sur "Confirmer" pour accepter ses conditions d\'utilisations.</string>
   <string name="keep_quit_position_settings">Mémoriser la dernière position</string>
   <string name="keep_quit_position_summary">Restaurer la piste à la dernière position connue au redémarrage de l\'application</string>
   <string name="listen_to_music_online_settings">Écouter de la musique en ligne</string>
@@ -180,8 +183,6 @@
   <string name="modify_tracks_id3_background">Modifier les informations ID3 des morceaux sélectionnées en arrière-plan</string>
   <string name="more">Plus</string>
   <string name="music_browser_label">Musique</string>
-  <string name="music_filter">Filtrer les fichiers</string>
-  <string name="music_filter_helper">Afin de cacher les fichiers non liés à la musique, un filtre a été appliqué pour ignorer les fichiers de moins de 800 Ko. Pour régler ce seuil allez dans Paramètres &gt; filtrer les fichiers</string>
   <string name="music_not_loaded">Aucun fichier audio trouvé !</string>
   <string name="music_open_other_connect">Veuillez activer l\'écoute de musique en ligne via le reseau mobile dans les paramètres.</string>
   <string name="music_picker_title">Sélectionner un titre</string>
@@ -360,7 +361,12 @@
   <string name="collect_bill_success">Ajouté aux favoris</string>
   <string name="ktv_connected_alert_message">Les musiques sélectionnées seront ajoutées à la playlist \"Mon KTV\"</string>
   <string name="ktv_unbind_message">"Erreur, veuillez vous assurer que le code QR KTV soit correct"</string>
+  <string name="impunity_declaration_ignore">Ne pas redemander</string>
+  <string name="impunity_declaration_settings">Notifier quand l\'accès au réseau est requis</string>
+  <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application</string>
+  <string name="take_effect_afater_restart">L\'application doit être redémarrée pour que les nouveaux paramètres prennent effet</string>
+  
  <!-- à traduire :
   <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
- -->
+  -->
 </resources>

@@ -2,6 +2,8 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+ <!-- removed in 4.6.20 -->
+  <string name="default_shortcut_title_10086">google.fr</string>
  <!-- removed in 4.5.8 -->
   <string name="group_folder">Nouveau dossier</string>
   <string name="group_live_folders">Dossiers</string>
@@ -98,12 +100,11 @@
   <string name="default_folder_title_recommend">Autres</string>
   <string name="default_folder_title_game">Jeux</string>
   <string name="default_folder_title_security">Système</string>
-  <string name="default_shortcut_title_10086">google.fr</string>
   <string name="online_wallpaper">En ligne</string>
   <string name="custom_wallpaper_picker">Parcourir…</string>
   <string name="reset_scene_prompt">Le bureau sera remis dans sa disposition d\'origine</string>
   <string name="preferences_title">Paramètres du lanceur MIUI</string>
-  <string name="preferences_general_title">Paramètres additionnels</string>
+  <string name="preferences_general_title">Paramètres généraux</string>
   <string name="pref_keep_in_memory_title">Garder en mémoire</string>
   <string name="pref_keep_in_memory_summary">Empêcher le lanceur de se fermer lorsque la mémoire est faible.</string>
   <string name="pref_enable_drawing_cache_title">Cache graphique</string>
@@ -209,4 +210,10 @@
   <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillée en mode paysage</string>
   <string name="screen_button_disabled_message">Les boutons du bas de l\'écran ont été désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
   <string name="screen_button_enabled_message">Les boutons du bas de l\'écran sont activés</string>
+  <string name="status_pending">en attente</string>
+  <string name="status_downloading">téléchargement</string>
+  <string name="status_paused">en pause</string>
+  <string name="status_downloaded">téléchargé</string>
+  <string name="status_installing">installation</string>
+  <string name="bad_wallpaper_source_prompt">Impossible de charger le fond d\'écran</string>
 </resources>

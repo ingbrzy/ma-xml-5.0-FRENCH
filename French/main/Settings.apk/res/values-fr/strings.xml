@@ -4224,7 +4224,9 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="sim_radio_off">Inactif</string>
   <string name="set_mobile_data_failed">Configuration échouée</string>
   <string name="mobile_data_switching_message">Basculement de la connexion de données. Veuillez patienter…</string>
-
+  <string name="title_font">Police</string>
+  <string name="title_font_current">En cours d\'utilisation</string>
+  
  <!-- à traduire 
   <string name="bluetooth_unlock_confirm_device_text">Please clap the device to confirm</string>
   <string name="bluetooth_unlock_settings_toggle_title">Apply to</string>

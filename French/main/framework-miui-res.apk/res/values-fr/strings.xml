@@ -230,13 +230,13 @@ Réessayer dans %d secondes."</string>
   <string name="sync_data_merge_warning_cancel">Annuler</string>
   <string name="sync_data_merge_warning_ok">Fusionner</string>
   <string name="sync_data_recover_warning_ok">Restaurer</string>
- <!-- à traduire
-  <string name="sync_data_merge_warning_desc">Data of %s in your phone will be merged with the cloud data unrecoverable, please be careful!</string>
-  <string name="sync_data_recover_warning_title">Data Recovery Warning</string>
-  <string name="sync_data_recover_warning_desc">Data of %s in your phone will be recovered from the cloud, please be careful!</string>
-  <string name="sync_data_loading">Retrieving information from server</string>
-  <string name="sync_data_merge_warning_title">Data Merge Warning</string>
- -->
+  <string name="sync_data_loading">Acquisition de données depuis le serveur</string>
+  <string name="sync_data_merge_warning_title">Avertissement</string>
+  <string name="sync_data_recover_warning_title">Avertissement</string>
+ <!-- 2 strings suivantes à reformuler ? -->
+  <string name="sync_data_recover_warning_desc">Les données de %s vont être restaurées depuis le cloud, il ne sera pas possible de revenir en arrière !</string>
+  <string name="sync_data_merge_warning_desc">Les données locales de %s vont être fusionnées avec celles du cloud, il ne sera pas possible de revenir en arrière !</string>
+
   <string name="autumn_begins">Début de l\'Automne</string>
   <string name="autumn_equinox">Équinoxe d\'Automne</string>
   <string name="clear_and_bright">Clair et lumineux</string>
