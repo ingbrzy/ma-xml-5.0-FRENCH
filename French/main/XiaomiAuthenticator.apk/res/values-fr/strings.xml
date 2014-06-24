@@ -34,11 +34,11 @@
   <string name="about_preference_screen_title">À propos</string>
   <string name="version_preference_title">Version</string>
   <string name="opensource_preference_title">Projet open-source</string>
-  <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
+  <string name="opensource_page_url">http://code.xiaomi.com/p/Xiaomi-authenticator/</string>
   <string name="terms_preference_title">Conditions d\'utilisation</string>
-  <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
+  <string name="terms_page_url">http://m.xiaomi.com/tospage</string>
   <string name="privacy_preference_title">Règles de confidentialité</string>
-  <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
+  <string name="privacy_page_url">http://www.xiaomi.com/policies/privacy/</string>
   <string name="check_code">"Afin de vérifier que la valeur de la clé est correcte pour %1$s, assurez-vous que cette valeur correspond à celle de la vérification d'intégrité fournie par le serveur :&lt;br/>"</string>
   <string name="general_security_exception">Exception générale de sécurité.</string>
   <string name="decoding_exception">Exception de décodage</string>

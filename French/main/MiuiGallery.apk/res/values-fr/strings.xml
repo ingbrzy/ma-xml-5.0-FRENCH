@@ -117,7 +117,7 @@
   <string name="cloud_be_shared_guide_title">Cet album a été partagé par un ami</string>
   <string name="cloud_camera_display_name">Non trié</string>
   <string name="cloud_gallery_no_pictures">Aucune image trouvée dans MiCloud</string>
-  <string name="cloud_gallery_recyclebin_full">Corbeille MiCloud pleine, veuillez la vider sur i.xiaomi.com.</string>
+  <string name="cloud_gallery_recyclebin_full">Corbeille MiCloud pleine, veuillez la vider sur i.mi.com.</string>
   <string name="cloud_gallery_space_full">Échec de l\'envoi ! Mémoire de la galerie MiCloud pleine</string>
   <string name="cloud_media_set_set">Albums MiCloud</string>
   <string name="cloud_owner_album_share_guide">Vous pouvez partager cet album avec des amis</string>
@@ -402,7 +402,7 @@
   <string name="set_screensaver_path_title">Diaporama d\'écran de veille</string>
   <string name="set_wallpaper">Définir comme fond d\'écran</string>
   <string name="settings">Paramètres</string>
-  <string name="settings_i_xiaomi_com">Connectez-vous sur i.xiaomi.com pour gérer votre stockage MiCloud</string>
+  <string name="settings_i_xiaomi_com">Connectez-vous sur i.mi.com pour gérer votre stockage MiCloud</string>
   <string name="shadow">Ombres</string>
   <string name="share_album">Partager l\'album</string>
   <string name="share_album_owner">Propriétaire</string>

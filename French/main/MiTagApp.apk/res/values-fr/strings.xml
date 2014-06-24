@@ -152,7 +152,7 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="set_now">Paramètres</string>
   <string name="settings">Paramètres</string>
   <string name="share">Partager</string>
-  <string name="share_content">"J'ai *%1$s* écrit sur un tag NFC. Pour le lire, il suffit de le toucher avec le dos de votre appareil. Téléchargez l\'application ici : http://app.xiaomi.com/detail/56946"</string>
+  <string name="share_content">"J'ai *%1$s* écrit sur un tag NFC. Pour le lire, il suffit de le toucher avec le dos de votre appareil. Téléchargez l\'application ici : http://app.mi.com/detail/56946"</string>
   <string name="share_subject">Partage d\'une appli : %1$s</string>
   <string name="shortcut">Raccourcis</string>
   <string name="sleep_mode">Ne Pas Déranger</string>

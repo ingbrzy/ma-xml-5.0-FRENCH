@@ -76,7 +76,7 @@ Réessayer dans %d secondes."</string>
   <string name="lockscreen_transport_play_description">Bouton de lecture</string>
   <string name="lockscreen_transport_prev_description">Titre précédent</string>
   <string name="lockscreen_unlock_sim_via_puk">Entrez le code PUK pour déverrouiller la carte SIM</string>
-  <string name="login_website_in_case_forget_password">Veuillez aller sur http://i.xiaomi.com afin de réinitialiser votre mot de passe</string>
+  <string name="login_website_in_case_forget_password">Veuillez aller sur https://i.mi.com afin de réinitialiser votre mot de passe</string>
   <string name="lunar_calendar">Calendrier lunaire</string>
   <string name="lunar_ba">Coq</string>
   <string name="lunar_chu">Nouvel An</string>

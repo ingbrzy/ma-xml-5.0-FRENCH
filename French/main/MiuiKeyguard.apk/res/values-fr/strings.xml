@@ -56,7 +56,7 @@
   <string name="lockscreen_glogin_instructions">Pour déverrouiller le téléphone, veuillez vous connecter avec votre compte Google.</string>
   <string name="lockscreen_glogin_password_hint">Mot de passe</string>
   <string name="lockscreen_glogin_checking_password">Vérification en cours…</string>
-  <string name="login_website_in_case_forget_password">Veuillez aller sur http://i.xiaomi.com afin de réinitialiser votre mot de passe</string>
+  <string name="login_website_in_case_forget_password">Veuillez aller sur https://i.mi.com afin de réinitialiser votre mot de passe</string>
   <string name="screen_on_proximity_sensor_title">Capteur de proximité obstrué !</string>
   <string name="screen_on_proximity_sensor_summary">"Pour empêcher toute erreur de manipulation, le téléphone est désactivé !"</string>
   <string name="screen_on_proximity_sensor_hint">"Astuce : Appuyez longuement sur le bouton Marche/Arrêt pour quitter le mode \"mauvaise utilisation\". Voir Paramètres &gt; Affichage pour désactiver"</string>

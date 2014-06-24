@@ -139,7 +139,7 @@
   <string name="find_device_error_network">Réseau indisponible, veuillez vérifier vos paramètres</string>
   <string name="find_device_error_server">Erreur de serveur</string>
   <string name="find_device_notice_p1">Rendez-vous sur</string>
-  <string name="find_device_notice_p2">i.xiaomi.com</string>
+  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">pour localiser, verrouiller ou restaurer votre téléphone.</string>
   <string name="find_device_success_title">Localisation de l\'appareil</string>
   <string name="find_password_on_web_msg">Veuillez visiter account.xiaomi.com pour réinitialiser votre mot de passe</string>
@@ -191,7 +191,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_intro_02_part_01">Arrêtez d\'utiliser clés USB/Mails pour déplacer vos fichiers !</string>
   <string name="micloud_intro_02_part_02">Synchronisez vos contacts, messages, photos et autres données sur divers appareils.</string>
   <string name="micloud_intro_03_part_01">Sécurisez le contenu de votre appareil à distance</string>
-  <string name="micloud_intro_03_part_02">Localisez, verrouillez ou supprimez le contenu de votre appareil via i.xiaomi.com.</string>
+  <string name="micloud_intro_03_part_02">Localisez, verrouillez ou supprimez le contenu de votre appareil via i.mi.com.</string>
   <string name="micloud_more">En apprendre plus</string>
   <string name="micloud_password_confirm_hint">Confirmer mot passe</string>
   <string name="micloud_password_error_inconsistent">Les mots de passe ne correspondent pas</string>
@@ -286,7 +286,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="micloud_warn_low_sum">Espace de stockage rempli à 90%.</string>
   <string name="micloud_warn_low_title">Espace de stockage faible !</string>
   <string name="micloud_web_discription_01">Vous pouvez accéder à votre cloud personnel</string>
-  <string name="micloud_web_discription_02">depuis n\'importe où via http://i.xiaomi.com.</string>
+  <string name="micloud_web_discription_02">depuis n\'importe où via https://i.mi.com.</string>
   <string name="micloud_welcome_skip_login"><u>Passer l\'inscription</u></string>
   <string name="micloud_upgrade_space">Augmenter l\'espace de stockage</string>
   <string name="phone_num_hint_text">Numéro de téléphone</string>
