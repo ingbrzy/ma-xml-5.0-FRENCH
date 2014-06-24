@@ -42,8 +42,9 @@ Note : Traductions pour plusieurs téléphones, ne pas supprimer de lignes
   <string name="accelerometer_title">Rotation auto de l\'écran</string>
   <string name="access_control_app_entry_multiple">Ouvrir %s</string>
   <string name="access_control_app_entry_single">Ouvrir l\'application sélectionnée</string>
-  <string name="access_control_need_password">%s a été protégé</string>
-  <string name="access_control_need_to_unlock">Mot de passe requis pour déverrouiller</string>
+  <string name="access_control_need_password">"L'application %s est protégée
+"</string>
+  <string name="access_control_need_to_unlock">Schéma de déverrouillage requis</string>
   <string name="access_control_no_back_footer">Appuyez sur [icon] pour quitter</string>
   <string name="access_control_password_title">Activer le mot de passe</string>
   <string name="access_control_recording_intro_header">Dessiner un schéma pour créer le verrouillage</string>
