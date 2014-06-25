@@ -147,7 +147,7 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="action_open_mi_route">Liste des appareils</string>
     <string name="setting_silent_mode_default">Mode écouteurs</string>
     <string name="setting_silent_mode_dust_cap">Bouchon anti-poussière (MiKey)</string>
-    <string name="setting_silent_mode_desc">Retirez la Mikey après de sélectionner le mode écouteur, sinon vous n\'aurez plus de son.</string>
+    <string name="setting_silent_mode_desc">Retirez la Mikey après avoir sélectionné le mode écouteur, car sinon vous n\'aurez plus de son.</string>
     <string name="showSlip">Afficher dans le menu déroulant</string>
     <string name="action_open_camera360_capture">Camera360 (effets)</string>
     <string name="action_open_camera360_edit">Camera360 (retouche d\'image)</string>
