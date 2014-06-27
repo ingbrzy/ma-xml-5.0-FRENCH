@@ -169,9 +169,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="lockscreen_forgot_pattern_button_text"><u>Schéma oublié ?</u></string>
   <string name="login">Connexion</string>
   <string name="memu_refresh">Actualiser</string>
-  <string name="mibi_license_message">"Vous êtes sur le point d\'utiliser Micredit, un service fourni par Xiaomi Inc. Avant de pouvoir utiliser ce service, vous devez accepter le %1$s.
-  
-Une connexion internet est requise pour utiliser Micredit"</string>
+  <string name="mibi_license_message">Vous êtes sur le point d\'utiliser Micredit, un service fourni par Xiaomi Inc. Avant de pouvoir utiliser ce service, vous devez accepter le %1$s. Une connexion internet est requise pour utiliser Micredit</string>
   <string name="mibi_license_message_span">Contrat d\'utilisation</string>
   <string name="mibi_license_title">Contrat d\'utilisation de MiCredit</string>
   <string name="mili_center">MiCredit</string>
@@ -337,4 +335,11 @@ Vérifiez la configuration de la date de votre appareil puis réessayez."</strin
   <string name="partner_giftcard_payment">%1$s MiCredits (uniquement pour %2$s)</string>
   <string name="prepaid_error_not_choose_carrier">Aucun opérateur sélectionné.</string>
   <string name="prepaid_card_order_info">%1$s carte prépayée : %2$s RMB</string>
+  <string name="title_prompt">Notifications</string>
+  <string name="title_need_prompt">Rappeler lors de l\'accès réseau</string>
+  <string name="mibi_license_net_prompt_title">Avertissement</string>
+  <string name="mibi_license_net_prompt_message">L\'utilisation de MiCredit requiert l\'accès à internet.</string>
+  <string name="mibi_license_checkbox_prompt">Ne pas redemander</string>
+
+    <string name="mibi_license_message">"You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s. You need an internet connection to use Mi Credit."</string>
  </resources>

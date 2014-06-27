@@ -342,4 +342,9 @@ Superflu"</string>
   <string name="share_box_receive">Reçu</string>
   <string name="file_not_exist">ficher non existant</string>
   <string name="open_file_failed">erreur lors de l\'ouverture</string>
+  <string name="system_alert">Avertissement</string>
+  <string name="network_connect_confirm_des">L\'utilisation de KuaiPan requiert l\'accès à internet.</string>
+  <string name="operation_agree">Accepter</string>
+  <string name="never_notify_network_connect">Ne pas redemander</string>
+  <string name="connect_network_setting_des">Rappeler lors de l\'accès réseau</string>
 </resources>

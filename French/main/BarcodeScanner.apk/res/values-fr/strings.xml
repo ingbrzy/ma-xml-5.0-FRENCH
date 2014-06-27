@@ -23,6 +23,7 @@
     <string name="close_flash_error">Impossible de désactiver le flash</string>
     <string name="fail_generate_barcode">Erreur lors de la génération du code QR</string>
     <string name="vcard_prompt">Impossible d\'importer ce contact car le nom est manquant</string>
+    <string name="camera_error">Une erreur liée à la caméra s\'est produite</string>
   <!-- à traduire ?
     <string name="app_name">Barcode Scanner</string>
   -->

@@ -19,7 +19,7 @@
   <string name="apply_default_font_tip">Souhaitez-vous continuer à utiliser la police actuelle ?</string>
   <string name="theme_yes">Oui</string>
   <string name="theme_no">Non</string>
-  <string name="theme_fresh_man_notifaction">Nouveaux thèmes disponibles, vous pouvez les essayez.</string>
+  <string name="theme_fresh_man_notifaction">Nouveaux thèmes disponibles</string>
   <string name="resource_delete">Supprimer</string>
   <string name="all_resources">Tout</string>
   <string name="all_ringtone_resource">Tout</string>
@@ -196,10 +196,10 @@
   <string name="theme_component_title_ringtone">Sonnerie</string>
   <string name="theme_component_title_statusbar">Barre d\'état</string>
   <string name="theme_component_title_wallpaper">Fond d\'écran</string>
-  <string name="theme_current_using_has_update">Le thème actuel a été mis à jour, appuyez ici pour l\'appliquer</string>
+  <string name="theme_current_using_has_update">Le thème a été mis à jour</string>
   <string name="theme_description_title_customized">Personnalisé</string>
   <string name="theme_description_title_default">Par défaut</string>
-  <string name="theme_immediately_apply_tip">Le thème a été mis à jour, l\'appliquer immédiatement ?</string>
+  <string name="theme_immediately_apply_tip">Appliquer la mise à jour ?</string>
   <string name="theme_import_activity_label">Mettre à jour les thèmes</string>
   <string name="theme_import_from_sdcard">Importer depuis la carte SD</string>
   <string name="theme_name">%1$s</string>
@@ -261,7 +261,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="resource_user_know">OK</string>
   <string name="to_activate_the_account">Veuillez activer votre compte Mi</string>
   <string name="settings">Paramètres</string>
-  <string name="purchased_list">Liste d\'achats</string>
+  <string name="purchased_list">Achats</string>
   <string name="resource_import_failed">Échec de l\'importation</string>
   <string name="resource_ringtone_playing_error">erreur de lecture</string>
   <string name="resource_download_trial">Essai gratuit</string>
@@ -276,10 +276,10 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="theme_user_agreement_content2">Contrat d\'utilisation</string>
   <string name="theme_user_agreement_content3">" et les "</string>
   <string name="theme_user_agreement_content4">Règles de confidentialité</string>
-  <string name="theme_user_agreement_content5">.</string>
-  <string name="theme_user_agreement_title">Information</string>
+  <string name="theme_user_agreement_content5">. Acceptez-vous ces conditions ?</string>
+  <string name="theme_user_agreement_title">Conditions d\'utilisation</string>
   <string name="theme_user_agreement_allow">Accepter</string>
   <string name="theme_user_agreement_remind_never">Ne pas redemander</string>
   <string name="theme_user_agreement_remind_again">Notifier quand l\'accès au réseau est requis</string>
-  <string name="theme_user_agreement_remind_summary">Prendra effet au prochain redémarrage</string>
+  <string name="theme_user_agreement_remind_summary">Ce paramètres prendra effet au prochain redémarrage</string>
 </resources>

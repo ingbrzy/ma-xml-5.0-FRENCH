@@ -2,6 +2,15 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- supprimé 4.6.26 -->
+  <string name="Dashboard_Perm_AutoStart_Switch">Démarrer automatiquement le gestionnaire</string>
+  <string name="HIPS_Perm_Recorder_VoiceCall">Enregistrer des appels audio</string>
+  <string name="HIPS_Perm_Recorder_Desc">Enregistrer des vidéos/photos</string>
+  <string name="HIPS_Perm_Recorder_Hint">%1$s applis peuvent utiliser la caméra et le micro.</string>
+  <string name="HIPS_Perm_Picture">Utiliser l\'appareil photo</string>
+  <string name="HIPS_Perm_RecordAudio">Utiliser le micro</string>
+  <string name="HIPS_Perm_RecordVideo">Utiliser la caméra</string>
+<!-- -->
   <string name="Dashboard_App">Applications</string>
   <string name="Dashboard_HIPS_Disable_Content">Désactiver ceci diminue votre sécurité, cela provoquera l\'arrêt du suivi de vos application et de la protection de votre confidentialité par MIUI. Êtes-vous sûr de vouloir le désactiver ?</string>
   <string name="Dashboard_HIPS_Disable_Title">LBE Guard</string>
@@ -11,7 +20,6 @@
   <string name="Dashboard_Perm">Permissions</string>
   <string name="Dashboard_Perm_AutoStart">Démarrage</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Activer ou désactiver le démarrage automatique des applications</string>
-  <string name="Dashboard_Perm_AutoStart_Switch">Démarrer automatiquement le gestionnaire</string>
   <string name="Dashboard_Perm_HIPS">Gérer les permissions des applications</string>
   <string name="Dashboard_Perm_HIPS_Desc">Surveillance de %1$d application(s)</string>
   <string name="Dashboard_Perm_HIPS_Desc2">Surveillance de %1$d application(s)</string>
@@ -129,7 +137,7 @@
   <string name="HIPS_Perm_PhoneID_Number">Obtenir votre numéro de téléphone</string>
   <string name="HIPS_Perm_PromptAll">Tout accepter</string>
   <string name="HIPS_Perm_ROOT">ROOT</string>
-  <string name="HIPS_Perm_ROOT_Desc_Stable">Non disponible dans la version stable de MIUI</string>
+  <string name="HIPS_Perm_ROOT_Desc_Stable">Permission Root non supportée</string>
   <string name="HIPS_Perm_ROOT_Desc">Gérer les autorisations ROOT</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s applications sont autorisées à obtenir la permission ROOT</string>
   <string name="HIPS_Perm_ROOT_Title">Obtenir la permission ROOT</string>
@@ -207,24 +215,33 @@
   <string name="HIPS_Perm_WIFI_Connectivity">Utiliser le Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">Utiliser la connexion Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s applis peuvent utiliser le Wi-Fi</string>
-  <string name="HIPS_Perm_AudioRecorder">Enregistrements Audio</string>
-  <string name="HIPS_Perm_AudioRecorder_Desc">Appels locaux et enregistrements audio</string>
-  <string name="HIPS_Perm_AudioRecorder_Hint">%1$s applis peuvent enregistrer vos appels et de l\'audio</string>
+  <string name="HIPS_Perm_AudioRecorder">Enregistrement audio</string>
+  <string name="HIPS_Perm_AudioRecorder_Desc">Utiliser le microphone</string>
+  <string name="HIPS_Perm_AudioRecorder_Hint">%1$s applis peuvent utiliser le microphone</string>
   <string name="HIPS_Perm_VideoRecorder">Photos et vidéos</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">Prendre des photos et filmer</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s applis peuvent prendre des photos et filmer</string>
-  <string name="HIPS_Perm_Picture">Utiliser l\'appareil photo</string>
-  <string name="HIPS_Perm_RecordAudio">Utiliser le micro</string>
-  <string name="HIPS_Perm_RecordVideo">Utiliser la caméra</string>
   <string name="HIPS_Perm_Recorder">Caméra et micro</string>
   <string name="HIPS_Perm_Recorder_Audio">Enregistrer de l\'audio</string>
   <string name="HIPS_Perm_Recorder_AudioVideo">Enregistrer Audio et Vidéo</string>
   <string name="HIPS_Perm_Recorder_Camera">Prendre des photos</string>
-  <string name="HIPS_Perm_Recorder_Desc">Enregistrer des vidéos/photos</string>
-  <string name="HIPS_Perm_Recorder_Hint">%1$s applis peuvent utiliser la caméra et le micro.</string>
   <string name="HIPS_Perm_Recorder_Video">Enregistrer des vidéos</string>
-  <string name="HIPS_Perm_Recorder_VoiceCall">Enregistrer des appels audio</string>
   <string name="HIPS_Perm_DisableKeyguard">Déverrouiller l\'écran</string>
   <string name="HIPS_Perm_DisableKeyguard_Desc">Déverrouiller l\'écran</string>
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s applis peuvent déverrouiller l\'écran</string>
+  <string name="HIPS_Perm_AutoStart">Démarrer automatiquement</string>
+  <string name="HIPS_Perm_AutoStart_Desc">Démarrer automatiquement au lancement du téléphone</string>
+  <string name="HIPS_Perm_AutoStart_Hint">%1$s applis peuvent démarrer automatiquement</string>
+  <string name="HIPS_Perm_Notification">Afficher des notifications</string>
+  <string name="HIPS_Perm_Notification_Desc">Afficher des notifications dans la barre de\'état</string>
+  <string name="HIPS_Perm_Notification_Hint">%1$s applis peuvent afficher des notifications</string>
+  <string name="HIPS_Perm_Calendar">Accéder au calendrier</string>
+  <string name="HIPS_Perm_Calendar_Desc">Accès aux données du calendrier</string>
+  <string name="HIPS_Perm_Calendar_Hint">%1$s applis peuvent accéder au calendrier</string>
+  <string name="HIPS_Perm_SystemAlert">Afficher des pop-up</string>
+  <string name="HIPS_Perm_SystemAlert_Desc">Afficher une fenêtre flottante</string>
+  <string name="HIPS_Perm_SystemAlert_Hint">%1$s applis peuvent afficher des pop-up</string>
+  <string name="HIPS_Perm_Wakelock">Empêcher la veille</string>
+  <string name="HIPS_Perm_Wakelock_Desc">Empêche la veille du téléphone</string>
+  <string name="HIPS_Perm_Wakelock_Hint">%1$s applis peuvent empêcher la veille</string>
 </resources>

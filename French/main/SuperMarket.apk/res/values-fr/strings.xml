@@ -302,9 +302,13 @@
     <string name="favorite_cancel_no_network">"Failed to unstar app. Couldn't connect to network."</string>
     <string name="favorite_login_hint">Sign in to your Xiaomi Account to manage your favorite apps</string>
     <string name="login_now">Connexion</string>
-    <string name="activate_now">Activate_now</string>
     <string name="my_app">Mes applications</string>
     <string name="no_download_history">Aucun téléchargement</string>
     <string name="no_favorites">Aucun favori</string>
     <string name="download_history_login_hint">Veuillez vous connecter à votre compte Xiaomi pour accéder à votre historique de téléchargement</string>
+    <string name="expansion_info">(expansion files %1$s)</string>
+    <string name="expansion_main_download_name">%1$s pack 1</string>
+    <string name="expansion_append_download_name">%1$s pack 2</string>
+    <string name="expansion_confirm_title">App with expansion</string>
+   <string name="expansion_confirm_message">This application is with expansion pack, the installation process may take longer. Whether to continue the installation?</string>
 </resources>

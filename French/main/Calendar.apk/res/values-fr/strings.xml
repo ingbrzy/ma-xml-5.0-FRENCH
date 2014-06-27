@@ -253,7 +253,13 @@
   <string name="event_date_format">dd/MM</string>
   <string name="event_full_date_format">dd/MM/yyyy</string>
   <string name="pref_error_no_ringtone_select">Aucune sélection</string>
-  
+  <string name="cta_notice_title">Avertissement</string>
+  <string name="cta_notice_message">"Les rappels d'anniversaires de vos contacts requiert l\'accès aux contacts.</string>
+  <string name="cta_notice_checkbox">Ne pas redemander</string>
+  <string name="cta_notice_ok">Accepter</string>
+  <string name="cta_notify_settings">Rappeler lors de l\'accès aux contacts</string>
+
+
  <!-- strings affichées uniquement si téléphone en chinois
   <string name="view_all_matches">查看所有赛程</string>
   <string name="online_calendar_activity_label">订阅日历</string>

@@ -508,7 +508,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="auto_record_whitelist_no_item_miui">Appuyez sur le bouton + pour ajouter des numéros.</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1 numéro</string>
   <string name="auto_record_whitelist_summary_miui">%d numéros</string>
-  <string name="auto_record_yellowpage_miui">Pages jaunes</string>
+  <string name="auto_record_yellowpage_miui">Annuaire</string>
   <string name="auto_redial_pref_summary_miui">Recomposer automatiquement si la ligne est occupée</string>
   <string name="auto_redial_pref_title_miui">Recomposition automatique</string>
   <string name="auto_retry_mode_summary">Activer le mode Réessayer automatiquement</string>

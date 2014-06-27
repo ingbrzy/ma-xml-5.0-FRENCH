@@ -2,6 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- rm 4.6.29-->
+  <string name="variety">Variétés</string>
+  <string name="all">Tous</string>
 <!-- removed in 4.5.6 -->
   <string name="live_tabs_hot">Populaire</string>
 <!-- -->
@@ -245,12 +248,10 @@ la vidéo sur votre box ou TV"</string>
   <string name="hide_media">Masquer</string>
   <string name="cancel_hide">Ré-afficher</string>
   <string name="online_video">Vidéos en ligne</string>
-  <string name="variety">Variétés</string>
   <string name="subchannel_all">Tous</string>
   <string name="others">Autres</string>
   <string name="music">Musique</string>
   <string name="livetv">Live</string>
-  <string name="all">Tous</string>
   <string name="rank">Populaire</string>
   <string name="jni_res_unkown_error">Une erreur inconnue s\'est produite</string>
   <string name="jni_invalid_param">Paramètres incorrectes</string>
@@ -269,13 +270,16 @@ la vidéo sur votre box ou TV"</string>
   <string name="show_hidemedia">Afficher les fichiers masqués</string>
   <string name="notshow_hidemedia">Ne pas afficher les fichiers masqués</string>
   <string name="addon_category">Addons</string>
+  <string name="info_title">Information</string>
+  <string name="prex_playcount">lectures :</string>
+  <string name="post_playcount">" fois"</string>
  <!-- à vérifier -->
   <string name="mydlna">Ressources DLNA</string>
   <string name="dlna_name">Appareil partagé</string>
   <string name="dlna_list_name">Appareil DLNA</string>
   <!-- -->
   
- <!-- à traduire éventuellement :
+ <!-- à traduire éventuellement (non visibles...?) :
   <string name="no_hot_special">not special</string>
   <string name="add_more_addons">add more specials</string>
   <string name="pick_addon_to_delete">choose items</string>

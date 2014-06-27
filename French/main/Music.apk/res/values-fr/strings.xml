@@ -124,6 +124,7 @@
   <string name="fade_effect_summary">Activer le fondu entre chaque morceaux joués</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="file_not_found">Le fichier n\'existe pas</string>
+  <string name="music_filter">Filtrer les fichiers</string>
   <string name="filter_by_duration">Filtrer par durée</string>
   <string name="filter_by_duration_format">%2$dmin%5$2ds</string>
   <string name="filter_by_duration_max">5min</string>

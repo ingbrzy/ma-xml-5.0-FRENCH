@@ -81,6 +81,7 @@
   <string name="delete">Supprimer</string>
   <string name="selected_category_format">%1$s (%2$d l\'ont marqué, appuyez pour approuver)</string>
   <string name="mark_title_null_hint">La saisie ne peut être laissée vide</string>
+  <string name="notices_and_terms">Mentions légales et conditions d\'utilisation</string>
 
    <!-- Setting related -->
   <string name="smart_antispam">Identifier les numéros inconnus automatiquement</string>
@@ -93,6 +94,8 @@
   <string name="user_notice_yp_detail_summary_format">L\'information partielle sur cette page jaune doit être mise à jour en ligne, veuillez lire %1$s et %2$s, appuyez sur "Accepter" pour valider ou sur "Annuler" pour voir les informations (en cache uniquement).</string>
   <string name="about_smart_antispam_summary">À propos de l\'identification de numéros inconnus</string>
   <string name="about_telephone_fraud">À propos de la fraude téléphonique</string>
+  <string name="turn_on_yellowpage_service_title">Utiliser le service d\'annuaire</string>
+  <string name="notfiy_connect_title">Autorisation d\'accès au réseau</string
   <string name="notify_connect_every_time">Demander l\'autorisation d\'accès au réseau à chaque fois</string>
   <string name="do_not_remind_me">Ne pas me rappeler</string>
   
