@@ -24,7 +24,7 @@
   <string name="all_resources">Tout</string>
   <string name="all_ringtone_resource">Tout</string>
   <string name="app_name">Thèmes</string>
-  <string name="apply_font_btn_exclude">Appl. sans police</string>
+  <string name="apply_font_btn_exclude">Pas maintenant</string>
   <string name="apply_font_btn_reboot">Redémarrer</string>
   <string name="apply_font_tip">Le thème contient une police, un redémarrage est nécessaire pour l\'appliquer.</string>
   <string name="backup_preference_title">Sauvegarder le thème</string>
@@ -167,8 +167,8 @@
   <string name="short_ringtone_resource">Court(&lt;5s)</string>
   <string name="theme_batch_has_update_text">%1$d mise(s) à jour disponible(s)</string>
   <string name="theme_batch_update_all">Tout mettre à jour</string>
-  <string name="theme_batch_update_dlg_content">Voulez-vous mettre à jour maintenant ?</string>
-  <string name="theme_batch_update_dlg_content_single">Mettre à jour maintenant ?</string>
+  <string name="theme_batch_update_dlg_content">Mettre à jour %1$s et %2$d autres thèmes ?</string>
+  <string name="theme_batch_update_dlg_content_single">Mettre à jour %1$s ?</string>
   <string name="theme_batch_update_dlg_title">Mise à jour</string>
   <string name="theme_batch_updating_text">%1$d mise(s) à jour en cours…</string>
   <string name="theme_changed_failed_message">Échec de l\'application du thème %1$s.</string>
@@ -205,8 +205,8 @@
   <string name="theme_name">%1$s</string>
   <string name="theme_select_others">Autres</string>
   <string name="third_party_pickers_activity_title">Définir %1$s</string>
-  <string name="title_component">Mixer</string>
-  <string name="title_system_resource">Ressources système</string>
+  <string name="title_component">Modifier le thème</string>
+  <string name="title_system_resource">Ressources locales</string>
   <string name="wallpaper_crop">Rogner</string>
   <string name="wallpaper_decoded_error">Impossible de décoder</string>
   <string name="wallpaper_loading_text">Chargement…</string>
