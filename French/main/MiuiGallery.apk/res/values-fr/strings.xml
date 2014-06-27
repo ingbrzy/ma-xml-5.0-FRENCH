@@ -313,7 +313,7 @@
   <string name="open_public_title">Partager publiquement</string>
   <string name="open_single_image_failure">Impossible d\'ouvrir le fichier image !</string>
   <string name="open_sync_title">Sync requis</string>
-  <string name="operation_delete_confirm_message_folder">'Les dossiers et fichiers seront supprimés en même temps. '</string>
+  <string name="operation_delete_confirm_message_folder">Les dossiers et fichiers seront supprimés en même temps.</string>
   <string name="operation_failed">L\'opération a échoué !</string>
   <string name="operation_in_process">Traitement en cours…</string>
   <string name="operation_refresh">Actualiser</string>
