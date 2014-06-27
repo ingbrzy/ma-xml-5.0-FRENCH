@@ -281,5 +281,5 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="theme_user_agreement_allow">Accepter</string>
   <string name="theme_user_agreement_remind_never">Ne pas redemander</string>
   <string name="theme_user_agreement_remind_again">Notifier quand l\'accès au réseau est requis</string>
-  <string name="theme_user_agreement_remind_summary">Ce paramètres prendra effet au prochain redémarrage</string>
+  <string name="theme_user_agreement_remind_summary">Ce paramètre prendra effet au prochain redémarrage</string>
 </resources>

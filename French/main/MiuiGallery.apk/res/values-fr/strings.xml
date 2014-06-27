@@ -313,7 +313,7 @@
   <string name="open_public_title">Partager publiquement</string>
   <string name="open_single_image_failure">Impossible d\'ouvrir le fichier image !</string>
   <string name="open_sync_title">Sync requis</string>
-  <string name="operation_delete_confirm_message_folder">Les dossiers et fichiers seront supprimés en même temps.</string>
+  <string name="operation_delete_confirm_message_folder">"Les dossiers et fichiers seront supprimés en même temps. "</string>
   <string name="operation_failed">L\'opération a échoué !</string>
   <string name="operation_in_process">Traitement en cours…</string>
   <string name="operation_refresh">Actualiser</string>
@@ -393,7 +393,7 @@
   <string name="set_label_all_albums">Tous les albums</string>
   <string name="set_label_local_albums">Albums en local</string>
   <string name="set_label_mtp_devices">Appareils MTP</string>
-  <string name="set_lock_and_wallpaper">Application du  fond d\'écran…</string>
+  <string name="set_lock_and_wallpaper">Application du fond d\'écran…</string>
   <string name="set_lock_or_wallpaper">Application du fond d\'écran…</string>
   <string name="set_lockscreen">Application du fond d\'écran…</string>
   <string name="set_recent_album">Définir en tant qu\'album récent</string>

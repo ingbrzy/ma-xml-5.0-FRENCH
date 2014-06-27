@@ -310,5 +310,5 @@
     <string name="expansion_main_download_name">%1$s pack 1</string>
     <string name="expansion_append_download_name">%1$s pack 2</string>
     <string name="expansion_confirm_title">App with expansion</string>
-   <string name="expansion_confirm_message">This application is with expansion pack, the installation process may take longer. Whether to continue the installation?</string>
+    <string name="expansion_confirm_message">This application is with expansion pack, the installation process may take longer. Whether to continue the installation?</string>
 </resources>
