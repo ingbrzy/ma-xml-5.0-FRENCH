@@ -3,7 +3,7 @@
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <string name="main_toolbar_saving">Compression</string>
-    <string name="traffic_saving_tecsupport">Propulsé par Opera Max</string>
+    <string name="traffic_saving_tecsupport">Propulsé par Oupeng</string>
     <string name="traffic_saving_notify_start_title">Compression des données</string>
     <string name="traffic_saving_notify_start_content">%s économisés ce mois-ci</string>
     <string name="traffic_saving_toast_start_mobile">Compression des données activée</string>
