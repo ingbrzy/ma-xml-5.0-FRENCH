@@ -143,7 +143,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="st_antispam_des_smart_anti">Filtre</string>
   <string name="st_antispam_des_permit">Autoriser</string>
   <string name="st_antispam_des_uesless">Désactivé</string>
-  <string name="st_antispam_des_permit_nokeyword">Autoriser (à l\'exception des mots-clés)</string>
+  <string name="st_antispam_des_permit_nokeyword">Autoriser</string>
   <string name="info_antispam_sms">Bloquer les messages</string>
   <string name="info_antispam_phone">Bloquer les appels</string>
   <string name="info_antispam_phone_sms">Bloquer les messages et les appels</string>

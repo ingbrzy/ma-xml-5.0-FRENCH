@@ -170,7 +170,7 @@
   <string name="theme_batch_update_dlg_content">Mettre à jour %1$s et %2$d autres thèmes ?</string>
   <string name="theme_batch_update_dlg_content_single">Mettre à jour %1$s ?</string>
   <string name="theme_batch_update_dlg_title">Mise à jour</string>
-  <string name="theme_batch_updating_text">%1$d mise(s) à jour en cours…</string>
+  <string name="theme_batch_updating_text">Mise à jour (%1$d)…</string>
   <string name="theme_changed_failed_message">Échec de l\'application du thème %1$s.</string>
   <string name="theme_changed_message">Appliqué avec succès</string>
   <string name="theme_changing_dialog_title">Application du nouveau thème, veuillez patienter…</string>
@@ -188,7 +188,7 @@
   <string name="theme_component_title_launcher">Lanceur</string>
   <string name="theme_component_title_lockstyle">Écran de verrouillage</string>
   <string name="theme_component_title_lockwallpaper">Fond d\'écran de verrouillage</string>
-  <string name="theme_component_title_miwallpaper">Fond d\'écran</string>
+  <string name="theme_component_title_miwallpaper">Fond d\'écran Mi</string>
   <string name="theme_component_title_mms">Application Messages</string>
   <string name="theme_component_title_notification">Notifications</string>
   <string name="theme_component_title_others">Autres</string>
@@ -216,8 +216,7 @@
   <string name="wallpaper_settings">Paramètres du fond d\'écran</string>
   <string name="account_info">Mon compte</string>
   <string name="account_unactivated">Compte non activé.</string>
- <!-- apply_theme_with_ringtones : vérifier longueur -->
-  <string name="apply_theme_with_ringtones">Appliquer le thème avec les sonneries</string>
+  <string name="apply_theme_with_ringtones">Utiliser les sonneries du thème</string>
   <string name="basic_info">Informations</string>
   <string name="payment_info">MiCredits</string>
   <string name="resource_account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
@@ -276,10 +275,17 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="theme_user_agreement_content2">Contrat d\'utilisation</string>
   <string name="theme_user_agreement_content3">" et les "</string>
   <string name="theme_user_agreement_content4">Règles de confidentialité</string>
-  <string name="theme_user_agreement_content5">. Acceptez-vous ces conditions ?</string>
+  <string name="theme_user_agreement_content5">.</string>
   <string name="theme_user_agreement_title">Conditions d\'utilisation</string>
   <string name="theme_user_agreement_allow">Accepter</string>
+  
+  <!-- modifié à retraduire :
+  theme_user_agreement_remind_never      Don't show again
+  theme_user_agreement_remind_again      Show Terms of Use prompt
+  theme_user_agreement_remind_summary    Show the Terms of Use prompt every time. This setting will take effect after you reboot your device.
+ -->
+  
   <string name="theme_user_agreement_remind_never">Ne pas redemander</string>
-  <string name="theme_user_agreement_remind_again">Notifier quand l\'accès au réseau est requis</string>
+  <string name="theme_user_agreement_remind_again">A quand l\'accès au réseau est requis</string>
   <string name="theme_user_agreement_remind_summary">Ce paramètre prendra effet au prochain redémarrage</string>
 </resources>

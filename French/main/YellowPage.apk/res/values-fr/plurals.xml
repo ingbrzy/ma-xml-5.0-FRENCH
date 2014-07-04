@@ -2,8 +2,14 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- supprimé 4.7.3-->
     <plurals name="all_numbers_count">
         <item quantity="other">%d entrées</item>
         <item quantity="one">1 entrée</item>
+    </plurals>
+<!-- -->
+    <plurals name="more_coupons_count">
+        <item quantity="other">%d coupons</item>
+        <item quantity="one">1 coupon</item>
     </plurals>
 </resources>

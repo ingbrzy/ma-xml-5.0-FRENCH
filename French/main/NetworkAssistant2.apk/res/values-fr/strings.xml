@@ -2,6 +2,58 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+    <string name="main_toolbar_saving">Compression</string>
+    <string name="traffic_saving_tecsupport">Propulsé par Opera Max</string>
+    <string name="traffic_saving_notify_start_title">Compression des données</string>
+    <string name="traffic_saving_notify_start_content">%s économisés ce mois-ci</string>
+    <string name="traffic_saving_toast_start_mobile">Compression des données activée</string>
+    <string name="traffic_saving_toast_start_none_mobile">La compression des données démarrera lorsque vous serez connecté sur un réseau mobile</string>
+    <string name="traffic_saving_toast_start_unreachable">Erreur, impossible d\{activer la compression des données</string>
+    <string name="traffic_saving_toast_stop">Compression des données désactivée</string>
+    <string name="traffic_saving_title">Économie de données</string>
+    <string name="traffic_saving_button_start">Activer</string>
+    <string name="traffic_saving_button_stop">Désactiver</string>
+    <string name="traffic_saving_button_sorted">Détails</string>
+    <string name="traffic_saving_msg_today">Aujourd\'hui :</string>
+    <string name="traffic_saving_msg_month">Ce mois-ci : %1$s</string>
+    <string name="traffic_saving_history_title">Historique</string>
+    <string name="traffic_saving_history_total_traffic">Données économisées</string>
+    <string name="traffic_saving_history_total_money">Montant économisé</string>
+    <string name="traffic_saving_history_total_money_unit">cts €</string>
+    <string name="pref_traffic_saving_title">Paramètres d\'économie des données</string>
+    <string name="pref_traffic_saving_switch">Compresser les données</string>
+    <string name="pref_traffic_saving_switch_hint">Permet d\'économiser des données grâce à la compression</string>
+    <string name="pref_traffic_saving_notify_switch">Afficher dans la barre d\'état</string>
+    <string name="pref_traffic_saving_notify_switch_hint">Affiche les informations relatives à l\'économie de données dans le menu déroulant.</string>
+    <string name="pref_traffic_saving_issue">F.A.Q.</string>
+    <string name="pref_traffic_saving_issue_content">"Ceci est  une application d'économie de données mobiles 2G et 3G qui compresse les vidéos et les photos sur quasiment toute application de votre téléphone. Obtenez jusqu'à 50 % en plus sur votre forfait données gratuitement.
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;1. Cette application fouille-t-elle dans mes données privées ?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Non ! Les données privées sont envoyées en utilisant des connexions cryptées ne peuvent être pas optimisées. Donc, toutes vos données privées sont acheminées directement vers la destination souhaitée au lieu de transiter par les serveurs de compression. Nous n'analysons ni stockons aucune de vos données privées !
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;2. Quel est l'effet sur la consommation de la batterie ?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+L'efficacité énergétique est un aspect dont nous nous soucions, et nous prévoyons d'autres optimisations dans ce domaine.
+&lt;br /&gt;&lt;br /&gt;
+Nos tests montrent que la consommation de la batterie avec la compression activée est quasiment identique par rapport à la même configuration sans. Lorsque vous regardez des vidéos, vous réduisez de fait légèrement la consommation de la batterie si la fonction est activé (nos tests montrent un gain de 5 % environ). C'est parce que le CPU utilise beaucoup moins d'énergie que les processus de transmission de données, donc des économies élevées de trafic auront une incidence positive sur la consommation de la batterie.
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;3. Je ne vois aucune économie. Est-ce normal ?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+La compression réalise des économies de données sur le texte, les images et les vidéos transférés via des connexions normales non cryptées.L\'application ne peut pas compresser le trafic binaire ou crypté (par exemple, les installations ou mises à jour d'applications de Google Play). Néanmoins, nous sommes convaincus qu'il y a des applications sur votre téléphone qui obtiendront de bons scores de compression !
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;4. Les vidéos sont-elles de faible qualité quand la compression est activée ?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Oui, c'est le compromis nécessaire pour réaliser des économies sur votre forfait données : les vidéos sont optimisées au détriment de la qualité. C'est tout à fait semblable à ce que font les applications intelligentes (par exemple, YouTube) si vous êtes connecté via un réseau mobile au lieu de Wi-Fi. Nous envisageons d'ajouter un paramètre de réglage de la qualité vidéo dans les versions futures, alors restez à l'écoute !
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;5. Pourquoi certaines vidéos YouTube ne sont-elles pas optimisées ?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Il se peut que YouTube utilise une connexion cryptée (HTTPS) pour récupérer la vidéo. Dans ce cas, il n'est pas possible de l'optimiser. Une autre raison pourrait être que vous obtenez déjà une vidéo de qualité inférieure (l'application YouTube fait cela lorsque vous êtes connecté via 3G/4G). Dans ce cas, Opera Max n'a pas besoin d'effectuer une optimisation supplémentaire.
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;6. Pourrais-je optimiser le trafic Wi-Fi à l'avenir ?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+C'est une option que nous envisageons, en raison du nombre de demandes à ce sujet. Restez à l'écoute pour les mises à jour."</string>
+
     <string name="app_name">Moniteur</string>
     <string name="list_empty_text">Vide</string>
     <string name="firewall_activity_lable">Limiter l\'utilisation des données par application</string>
@@ -197,7 +249,7 @@ Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
     <string name="free_time_traffic_hint">Enter off-peak data limit</string>
  --> 
 
- <!-- à traduire 
+ <!-- à traduire utilisé seulement si téléphone en chinois ?
   <string name="traffic_config_alert_title">%s difference</string>
   <string name="traffic_config_alert_body">"Your carrier's data usage accounting shows you have %s remaining.
 Do you want to update your local data usage limit?"</string>

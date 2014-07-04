@@ -44,4 +44,14 @@
         <item>Obtenir le modèle SMS automatiquement</item>
         <item>Définir le modèle SMS manuellement</item>
     </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Hier "</item>
+        <item>"Aujourd'hui "</item>
+        <item>"Ce mois "</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Trafic 2G/3G "</item>
+        <item>"Trafic Wi-Fi "</item>
+        <item>"Global "</item>
+    </string-array>
 </resources>

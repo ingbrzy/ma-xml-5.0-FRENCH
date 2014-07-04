@@ -3937,7 +3937,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="free_wifi_connected_count">%1$s utilisateurs connectés</string>
   <string name="free_wifi_speed_title">Connexion lente ?</string>
   <string name="free_wifi_connected_time">Durée de connexion : %1$s</string>
-  <string name="free_wifi_confirm">Confirmer</string>
+  <string name="free_wifi_confirm">OK</string>
   <string name="tab_title_internal_storage">Stockage interne</string>
   <string name="tab_title_external_storage">Stockage externe</string>
   <string name="tab_title_sdcard_storage">Carte SD</string>
