@@ -4233,12 +4233,15 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="cta_button_text_cancel">Annuler</string>
   <string name="cta_button_text_agree">Accepter</string>
   <string name="cta_settings">Autoriser l\'accès à internet</string>
+  <string name="accessibility_service_no_apps_confirm">OK</string>
+  <string name="accessibility_service_no_apps_prompt">TalkBack est un service d\'accessibilité qui permet aux non-voyants et aux malvoyants d\'utiliser leurs appareils. Cette application peut être téléchargée gratuitement à partir du Google Play</string>
+  <string name="bluetooth_preference_connected_devices">Appareils connectés</string>
+  <string name="bluetooth_unlock_confirm_device_text">Veuillez appuyer sur l\'appareil pour confirmer</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Appliquer à</string>
 <!-- à traduire :
-  <string name="bluetooth_unlock_confirm_device_text">Please clap the device to confirm</string>
-  <string name="bluetooth_unlock_settings_toggle_title">Apply to</string>
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
-  <string name="button_text_view_power">View power</string>
+  <string name="button_text_view_power">Vue de l'alimentation</string>
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_display_session_info">Session info</string>
   <string name="wifi_display_listen_mode">Enable listen mode</string>

@@ -746,4 +746,5 @@
   <string name="sub_sync_item_browser_title_webapp_summary">Synchroniser les webapps installées</string>
   <string name="cloud_no_new_data_toast">Aucunes nouvelles données, veuillez ressayer plus tard.</string>
   <string name="pref_content_brightness_setting">Paramètres de luminosité</string>
+  <string name="enter_developer_mode">Mode développeur</string>
 </resources>

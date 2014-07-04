@@ -1146,4 +1146,8 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="cta_notice_ok">Accepter</string>
   <string name="cta_notice_settings">Rappeler lors de l\'accès réseau</string>
   <string name="yellowpage_navigation_network_location_enabled">Le service de localisation est actif, vous pouvez le désactiver via les paramètres</string>
+  <string name="yellowpage_navigation_more_items">Plus</string>
+  <string name="yellowpage_user_profile">Profil</string>
+  <string name="yellowpage_navigation_send_to_desktop_downloading">Téléchargement…</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">Échec, veuillez vérifier vos paramètres réseau.</string>
 </resources>
