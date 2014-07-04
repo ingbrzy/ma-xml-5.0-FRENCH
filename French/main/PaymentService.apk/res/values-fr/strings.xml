@@ -5,9 +5,9 @@
  <!-- supprimé 4.7.3 -->
   <string name="progress_warning_check">"Votre paiement n'a pas encore été crédité sur votre compte.
 Veuillez patienter encore deux jours ouvrables."</string>
-  <string name="progress_warning_contact_server">Votre paiement n'a toujours pas été crédité sur votre compte.
+  <string name="progress_warning_contact_server">"Votre paiement n'a toujours pas été crédité sur votre compte.
 1. Contactez le service client de Shenzhou  au : %1$s 
-2. Quand demandé, Fournissez ce code : %2$s</string>
+2. Quand demandé, veuillez fournir le code : %2$s"</string>
   <!-- removed in 4.5.27 -->
   <string name="balance_giftcard_payment">%1$s MiCredits (%2$s MiCredit carte-cadeau)</string>
   <string name="balance_no_giftcard_payment">%1$s MiCredits (impossible d\'utiliser une carte-cadeau pour cet achat)</string>
@@ -342,7 +342,7 @@ Vérifiez la configuration de la date de votre appareil puis réessayez."</strin
   <string name="mibi_license_net_prompt_message">L\'utilisation de MiCredit requiert l\'accès à internet.</string>
   <string name="mibi_license_checkbox_prompt">Ne pas redemander</string>
   <string name="progress_mipay_creating">Génération de la commande…</string>
-  <string name="mipay_error">Une erreur s'est produite avec Mipay</string>
+  <string name="mipay_error">Une erreur s\'est produite avec Mipay</string>
   <string name="progress_warning_check_with_contact">"Votre paiement n'a pas encore été crédité sur votre compte.
 Veuillez patienter encore deux jours ouvrables.
 Service client : 400-100-5678"</string>
