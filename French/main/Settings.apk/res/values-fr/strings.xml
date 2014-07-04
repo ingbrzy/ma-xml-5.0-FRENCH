@@ -4241,7 +4241,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
 <!-- à traduire :
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
-  <string name="button_text_view_power">Vue de l'alimentation</string>
+  <string name="button_text_view_power">View power</string>
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_display_session_info">Session info</string>
   <string name="wifi_display_listen_mode">Enable listen mode</string>
