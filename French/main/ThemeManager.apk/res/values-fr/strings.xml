@@ -278,14 +278,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="theme_user_agreement_content5">.</string>
   <string name="theme_user_agreement_title">Conditions d\'utilisation</string>
   <string name="theme_user_agreement_allow">Accepter</string>
-  
-  <!-- modifié à retraduire :
-  theme_user_agreement_remind_never      Don't show again
-  theme_user_agreement_remind_again      Show Terms of Use prompt
-  theme_user_agreement_remind_summary    Show the Terms of Use prompt every time. This setting will take effect after you reboot your device.
- -->
-  
-  <string name="theme_user_agreement_remind_never">Ne pas redemander</string>
-  <string name="theme_user_agreement_remind_again">A quand l\'accès au réseau est requis</string>
+  <string name="theme_user_agreement_remind_never">Ne pas afficher</string>
+  <string name="theme_user_agreement_remind_again">Afficher les ToS à chaque fois</string>
   <string name="theme_user_agreement_remind_summary">Ce paramètre prendra effet au prochain redémarrage</string>
 </resources>
