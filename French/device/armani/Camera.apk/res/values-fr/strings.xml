@@ -376,7 +376,7 @@
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Qualité vidéo</string>
-  <string name="pref_video_slow_speed_title_simple_mode">Fast-motion</string>
+  <string name="pref_video_slow_speed_title_simple_mode">Slow-motion</string>
   <string name="pref_video_speed_entry_fast">Lent</string>
   <string name="pref_video_speed_entry_normal">Normal</string>
   <string name="pref_video_speed_entry_slow">Rapide</string>
@@ -482,4 +482,6 @@
   <string name="wifi_security">Sécurité :</string>
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
+  <string name="pref_video_fast_speed_title_simple_mode">Fast-motion</string>
+  <string name="simple_mode_button_text_fast_video">Quitter le mode fast-motion</string>
 </resources>

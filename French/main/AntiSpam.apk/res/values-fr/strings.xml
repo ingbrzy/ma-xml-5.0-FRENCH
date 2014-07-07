@@ -262,4 +262,8 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="ad_block_hint">Bloqués : %d</string>
   <string name="ad_single_block_hint">Bloqué</string>
   <string name="ad_permission_hint">L\'utilisation d\'un bloqueur de publicités peut impacter les performances de l\'application ou l\'empêcher de fonctionner correctement"</string>
+  <!-- armani ? -->
+  <string name="sim_not_ready">Carte SIM non prête</string>
+  <string name="st_title_back_sound_unsetting">Aucun</string>
+  <string name="st_title_not_sim">Vide</string>
 </resources>
