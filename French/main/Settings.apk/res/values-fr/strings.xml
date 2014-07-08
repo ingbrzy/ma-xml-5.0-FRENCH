@@ -4140,7 +4140,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="bluetooth_profile_map">Accès aux messages</string>
   <string name="security_enable_widgets_disabled_summary">Désactivé par l\'administrateur</string>
   <string name="security_enable_widgets_title">Activer les widgets</string>
-  <string name="bluetooth_map_acceptance_dialog_text">Une demande d\'accès à vos messages a été envoyée pour \%1$s\. Accorder l\'accès à \%2$s\ ?</string>
+  <string name="bluetooth_map_acceptance_dialog_text">Une demande d\'accès à vos messages a été envoyée pour \"%1$s\". Accorder l\'accès à \"%2$s\" ?</string>
   <string name="bluetooth_map_request">Demande d\'accès aux messages</string>
   <string name="bluetooth_remember_choice">Ne plus me demander</string>
   <string name="ssl_ca_cert_warning">Il est possible que le réseau soit surveillé.</string>
@@ -4221,7 +4221,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="wifi_display_resume">Reprendre</string>
   <string name="wifi_display_wps_config">Configuration WPS</string>
   <string name="wifi_display_certification_heading">Certification</string>
-  <string name="wifi_display_status_in_use">En utilisation</string>
+  <string name="wifi_display_status_in_use">"En cours d'utilisation"</string>
   <string name="sim_radio_off">Inactif</string>
   <string name="set_mobile_data_failed">Configuration échouée</string>
   <string name="mobile_data_switching_message">Basculement de la connexion de données. Veuillez patienter…</string>

@@ -236,7 +236,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_style_settings">Paramètres de la barre d\'état</string>
   <string name="status_bar_toggle_ac">Contrôle d\'accès</string>
-  <string name="status_bar_toggle_auto_brightness">Luminosité automatique</string>
+  <string name="status_bar_toggle_auto_brightness">Luminosité auto</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Luminosité</string>
   <string name="status_bar_toggle_data">Données</string>
