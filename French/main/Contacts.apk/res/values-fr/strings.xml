@@ -170,8 +170,8 @@
   <string name="composer_failed_to_get_database_infomation">Impossible d\'obtenir les informations concernant la base de données.</string>
   <string name="composer_has_no_exportable_contact">Il n\'y a aucun contact exportable. Si vous avez réellement des contacts sur votre téléphone, ils peuvent être interdits d\'exportation par certains fournisseurs de données.</string>
   <string name="composer_not_initialized">"Le compositeur de carte de visite n'est pas correctement initialisé"</string>
-  <string name="confirm_delete_contact_all_call_logs">"Supprimer le journal d'appels ?"</string>
-  <string name="confirm_delete_selected_all_call_logs">"Supprimer le journal d'appels ?"</string>
+  <string name="confirm_delete_contact_all_call_logs">"Supprimer le journal d'appels de ce contact ?"</string>
+  <string name="confirm_delete_selected_all_call_logs">"Supprimer du journal d'appels ?"</string>
   <string name="confirm_delete_sim_entry_miui">Supprimer %d contacts de la carte SIM ?</string>
   <string name="confirm_export_message">Exporter les contacts vers le fichier %s ?</string>
   <string name="confirm_export_title">Confirmer l\'exportation</string>
