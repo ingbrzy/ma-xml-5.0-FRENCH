@@ -128,8 +128,10 @@
   <string name="cit_OTG_waiting_in">Merci d\'insérer le périphérique USB OTG.</string>
   <string name="cit_OTG_waiting_out">Merci de débrancher le périphérique USB OTG.</string>
   <string name="cit_pass">Passer</string>
-  <string name="cit_play_sd_mp3_summary">Ce test lancera musique.mp3 situé dans le dossier racine de la carte SD</string>
-  <string name="cit_play_sd_mp3_title">Teste de lecture MP3</string>
+  <string name="cit_play_sd_mp3_summary">Ce test lancera music.mp3 situé dans le dossier racine de la carte SD</string>
+  <string name="cit_play_sd_mp3_hifi_summary">Ce test utilisera la sortie Hi-Fi pour lancer music.mp3 situé dans le dossier racine de la carte SD</string>
+  <string name="cit_play_sd_mp3_title">Test de lecture MP3</string>
+  <string name="cit_play_sd_mp3_hifi_title">Test de lecture MP3(HIFI)</string>
   <string name="cit_playing_sd_mp3">musique.mp3 est en cours de lecture…</string>
   <string name="cit_pointer_location_title">Test de l\'écran tactile</string>
   <string name="cit_power_check_summary">Ce test affiche la quantité de batterie disponible</string>
