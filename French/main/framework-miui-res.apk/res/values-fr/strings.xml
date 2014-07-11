@@ -6,12 +6,12 @@
   <string name="activate_fail_notification_title">Réactivation de la synchronisation</string>
   <string name="activating">Activation…</string>
   <string name="alwaysUsePrompt">Définir par défaut (ne plus demander)</string>
-  <string name="android_lockscreen_glogin_instructions">Pour déverrouiller, connectez-vous avec votre compte</string>
+  <string name="android_lockscreen_glogin_instructions">Pour déverrouiller, connectez-vous avec votre compte Mi</string>
   <string name="app_no_notification">Masquer les notifications</string>
   <string name="app_notificaiton_on_notificationBar">Menu déroulant</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Barre d\'état et\nmenu déroulant</string>
   <string name="callNoAnswerTimeFormat">A sonné %s fois</string>
-  <string name="call_record_or">ou</string>
+  <string name="call_record_or">" ou "</string>
   <string name="call_record_sample_prefix_miui">Appel</string>
   <string name="caller_info_name_delimiter">Ou</string>
   <string name="check_phone_error_title">Impossible d\'ouvrir la Synchronisation</string>
@@ -76,7 +76,7 @@ Réessayer dans %d secondes."</string>
   <string name="lockscreen_transport_play_description">Bouton de lecture</string>
   <string name="lockscreen_transport_prev_description">Titre précédent</string>
   <string name="lockscreen_unlock_sim_via_puk">Entrez le code PUK pour déverrouiller la carte SIM</string>
-  <string name="login_website_in_case_forget_password">Veuillez aller sur https://i.mi.com afin de réinitialiser votre mot de passe</string>
+  <string name="login_website_in_case_forget_password">Veuillez aller sur i.mi.com afin de réinitialiser votre mot de passe</string>
   <string name="lunar_calendar">Calendrier lunaire</string>
   <string name="lunar_ba">Coq</string>
   <string name="lunar_chu">Nouvel An</string>
@@ -130,9 +130,9 @@ Réessayer dans %d secondes."</string>
   <string name="perm_auto_backup">Sauvegarde automatique</string>
   <string name="perm_data_update_dspt">Mise à jour des watermark autorisée</string>
   <string name="perm_data_update_lab">Mise à jour des données</string>
-  <string name="perm_payment_dspt">Permettre à l\'application de payer avec le service de paiement Xiaomi</string>
-  <string name="perm_payment_lab">Service de paiement Xiaomi</string>
-  <string name="perm_send_push_dspt">Autoriser les messages push à Xiaomi</string>
+  <string name="perm_payment_dspt">Permettre à l\'application de payer avec le service de paiement de Xiaomi</string>
+  <string name="perm_payment_lab">MiPay</string>
+  <string name="perm_send_push_dspt">Autoriser les messages push de Xiaomi</string>
   <string name="perm_send_push_lab">Envoyer un message push</string>
   <string name="perm_tigger_toggle_dspt">Permettre aux applications d\'utiliser les boutons du widget de la barre d\'état</string>
   <string name="perm_tigger_toggle_lab">Utiliser les boutons du widget de la barre d\'état</string>

@@ -1203,6 +1203,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
   <string name="preferred_network_type_3g_only_warning_miui">"Vous avez choisi 3G seulement. Cela signifie qu'en l'absence de couverture 3G, vous n'aurez AUCUN réseau !
 Appuyez sur OK pour continuer."</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G privilégiée</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_miui">4G privilégiée</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automatique</string>
   <string name="preferred_network_type_pref_entries_global_miui">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">2G seulement (moins énergivore)</string>

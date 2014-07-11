@@ -684,6 +684,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
   <string name="data_usage_tab_mobile">Mobiles</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
+  <string name="data_usage_tab_slot">SIM</string>
   <string name="data_usage_total_during_range">%2$s : environ %1$s utilisés</string>
   <string name="data_usage_total_during_range_mobile">"%2$s : env. %1$s utilisés, selon votre téléphone. Le suivi conso de votre opérateur peut différer."</string>
   <string name="data_usage_uninstalled_apps">Applications supprimées</string>
@@ -775,8 +776,6 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition de l\'écran</string>
   <string name="disable_power_key_long_press_under_keyguard">Désactiver le bouton d\'arrêt</string>
   <string name="disable_text">Désactiver</string>
-  <string name="disabled">Désactivée</string>
-  <string name="disconnect">Déconnecter</string>
   <string name="display_font_size_label">Taille de police :</string>
   <string name="display_label">Écran</string>
   <string name="display_order_text">Trier par :</string>
@@ -4228,7 +4227,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="title_font">Police</string>
   <string name="title_font_current">En cours d\'utilisation</string>
   <string name="cta_dialog_title">Avertissement</string>
-  <string name="cta_dialog_msg">Les diverses fonctions du centre de sécurité, dont le téléchargement des bases de définitions de virus, requiert l\'accès à internet.</string>
+  <string name="cta_dialog_msg">Le centre de sécurité requiert l\'accès à internet pour recevoir des mises à jour.</string>
   <string name="cta_checkbox_title">Ne pas redemander</string>
   <string name="cta_button_text_cancel">Annuler</string>
   <string name="cta_button_text_agree">Accepter</string>
@@ -4238,6 +4237,15 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="bluetooth_preference_connected_devices">Appareils connectés</string>
   <string name="bluetooth_unlock_confirm_device_text">Veuillez appuyer sur l\'appareil pour confirmer</string>
   <string name="bluetooth_unlock_settings_toggle_title">Appliquer à</string>
+  <string name="manage_xiaomi_router">Gestion du routeur Xiaomi</string>
+  <string name="xiaomi_router_notif_title">Notification routeur Xiaomi</string>
+  <string name="xiaomi_router_notif_summary">Notifier quand un routeur Xiaomi est détecté</string>
+  <string name="xiaomi_router_available_notif_title">Routeur Xiaomi détecté</string>
+  <string name="xiaomi_router_available_notif_summary">Appuyer pour afficher</string>
+  <string name="bluetooth_device_address">Adresse :</string>
+  <string name="use_network_warning">Une connexion à internet est requise pour configurer et synchroniser votre compte Mi.</string>
+  <string name="preferred_sms_settings">L\'application définie sera utilisée pour lire et composer les SMS.</string>
+  
 <!-- à traduire :
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
@@ -4248,5 +4256,11 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
   <string name="wifi_display_listen_channel">Listen channel</string>
   <string name="wifi_display_operating_channel">Operating channel</string>
+  <string name="bugreport_tool_log">Capture Bugreport</string>
+  <string name="modem_tool_log">Capture Modem Logs</string>
+  <string name="modem_tool_log_start">Start Capturing</string>
+  <string name="modem_tool_log_stop">Stop Capturing</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   -->
 </resources>

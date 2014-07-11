@@ -357,4 +357,5 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="activate_status_desc_query_activation_info_server_error">"Erreur serveur lors de l'activation de votre compte."</string>
   <string name="activate_status_desc_query_activation_info_no_info">Aucune information d\'activation présente sur le serveur</string>
   <string name="activate_status_desc_query_activation_info">Communication avec le serveur</string>
+  <string name="bank_cards">Cartes bancaires</string>
 </resources>

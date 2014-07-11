@@ -451,4 +451,6 @@
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalle de temps</string>
+  <string name="pref_camera_countdown_title">Compte à rebours</string>
+  <string name="simple_mode_button_text_countdown">Quitter le compte à rebours</string>
 </resources>

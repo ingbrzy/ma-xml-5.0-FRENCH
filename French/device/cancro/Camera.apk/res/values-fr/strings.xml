@@ -376,7 +376,7 @@
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Qualité vidéo</string>
-  <string name="pref_video_slow_speed_title_simple_mode">Fast-motion</string>
+  <string name="pref_video_slow_speed_title_simple_mode">Slow-motion</string>
   <string name="pref_video_speed_entry_fast">Lent</string>
   <string name="pref_video_speed_entry_normal">Normal</string>
   <string name="pref_video_speed_entry_slow">Rapide</string>
@@ -499,8 +499,14 @@
   <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capture auto lorsque stable</string>
   <string name="ubi_focus_capture_fail">Erreur, veuillez réessayer.</string>
- <!-- à traduire
-  <string name="pref_touch_down_capture_title">Touch Down Capture</string>
- -->
-
+  <string name="simple_mode_button_text_fast_video">Quitter le mode fast-motion</string>
+  <string name="pref_video_fast_speed_title_simple_mode">Fast-motion</string>
+  <string name="pref_video_4kuhd_title_simple_mode">Mode 4K</string>
+  <string name="simple_mode_button_text_4kuhd">Quitter le mode 4K</string>
+  <string name="pref_camera_countdown_title">Compte à rebours</string>
+  <string name="simple_mode_button_text_countdown">Quitter le compte à rebours</string>
+  <string name="cannot_move_warning_message">Capture de la photo, ne bougez pas l\'appareil</string>
+  <string name="object_track_enable_toast">"Faites glisser votre doigt sur l'écran de prévisualisation pour activer le suivi de l'objet."</string>
+  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre de l'objectif) et éloignés</string>
+  <string name="pref_touch_down_capture_title">Glisser bas pour capturer</string>
 </resources>

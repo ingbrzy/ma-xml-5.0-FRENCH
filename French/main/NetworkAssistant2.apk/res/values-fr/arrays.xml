@@ -36,9 +36,9 @@
         <item>9 secs</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>Usage mobile</item>
-        <item>Usage Wi-Fi</item>
-        <item>Usage total</item>
+        <item>"Trafic mobile "</item>
+        <item>"Trafic Wi-Fi "</item>
+        <item>"Données économisées "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Obtenir le modèle SMS automatiquement</item>
@@ -50,8 +50,8 @@
         <item>"Ce mois "</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Trafic 2G/3G "</item>
+        <item>"Trafic mobile "</item>
         <item>"Trafic Wi-Fi "</item>
-        <item>"Global "</item>
+        <item>"Données économisées "</item>
     </string-array>
 </resources>

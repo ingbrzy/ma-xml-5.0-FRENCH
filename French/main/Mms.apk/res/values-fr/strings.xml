@@ -477,7 +477,7 @@
   <string name="view_message_details">Afficher les détails</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">OK</string>
-  <string name="sp_conversation_title">Messages de notification</string>
+  <string name="sp_conversation_title">Notifications</string>
   <string name="title_collapse_sp_messages">Combiner les messages opérateur</string>
   <string name="pref_collapse_sp_messages_summary">Combine les messages envoyés par l\'opérateur sous la même entrée</string>
   <string name="sp_mark_as_read">Marquer tous les messages comme lus ?</string>
@@ -498,7 +498,12 @@
   <string name="alert_dlg_cancel_button">Annuler</string>
   <string name="alert_dlg_ok_button">OK</string>
   <string name="send_message_dlg_check_hint">Ne pas redemander</string>
-
+  <string name="view_hms_details">Détails</string>
+  <string name="xiaomi_service_number">Numéro de service</string>
+  <string name="retrive_hms_tips">Réception en cours…</string>
+  <string name="hms_first_use_tips">Pour recevoir des messages service, veuillez vous connecter à un réseau Wi-Fi</string>
+  <string name="send_hms_editor_hints">Message Cloud</string>
+  
  <!-- à traduire
   <string name="app_name">Device Management</string>
   <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service. Are you sure to cancel?</string>

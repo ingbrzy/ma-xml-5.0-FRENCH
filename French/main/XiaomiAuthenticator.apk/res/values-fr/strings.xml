@@ -70,7 +70,7 @@
   <string name="welcome_page_details">"— Protège votre compte Mi contre les accès non autorisées
 — En cas de perte ou vol de votre appareil, vos identifiants Mi sont sécurisés"</string>
   <string name="welcome_page_alert" />
-  <string name="acknowledge_button">Continuer</string>
+  <string name="acknowledge_btn">Continuer</string>
   <string name="mycard_scan_barcode">MiID Code Scanner</string>
   <string name="scan_barcode_info">Placez le code QR dans le viseur</string>
   <string name="scan_barcode">MiID scan</string>
@@ -111,7 +111,7 @@
   <string name="title_lockpattern">Schéma de verrouillage requis</string>
   <string name="title_visible_pattern">Rendre visible le schéma</string>
   <string name="summary_lockpattern">Exiger un schéma de verrouillage unique pour Authenticator</string>
-  <string name="title_change_lockpattern">……k</string>
+  <string name="title_change_lockpattern">Modifier le schéma de verrouillage</string>
   <string name="title_password">Mot de passe</string>
   <string name="title_nopassword">Ne pas demander pour les petits paiements</string>
   <string name="title_nopassword_dialog">Limite journalière</string>
@@ -167,7 +167,8 @@ Les paramètres de date et d'heure de cet appareil n'ont pas été modifiés."</
   <string name="tip2_patternforgotten">Appuyer sur le bouton si-dessous pour réinitialiser votre mot de passe</string>
   <string name="details_patternforgotten">"Réinitialisation du mot de passe :
 Connectez-vous sur https://account.xiaomi.com et sélectionnez l'option de récupération du mot de passe"</string>
- <!-- à traduire
-  <string name="timesync_about_feature_screen_details">"If you press \"Sync now\", Authenticator will attempt to sync its internal clock with servers once. The device's Date &amp; Time settings will not be changed. &lt;p> Authenticator does not transmit any personal data or account information while synchronizing its internal clock with Google servers. &lt;p> &lt;b>Why this is useful&lt;/b> &lt;p> Authenticator generates 2-step verification codes based on 1) the current time, and 2) a secret number known to the app and the server. &lt;p> If Authenticator and the server disagree on what time it is, the codes that the app generates may not be accepted when you try to log in. &lt;p> By default Authenticator uses the device's Date &amp; Time settings, and in most cases you will be able to generate valid codes by making sure your time, date, and time zone settings are configured correctly. However, when time mismatches do occur, they can be hard to troubleshoot (especially if you use network-provided time or time zones)."</string>
-  -->
+  <string name="continue_btn">Continuer</string>
+  <string name="authenticator_invalid_tip">Veuillez relancer l\'application\page qui requiert le code de vérification et réessayer ou essayez générer un nouveau code de vérification</string>
+  <string name="authenticator_invalid_title">Compte : %1$s, code incorrect</string>
+  <string name="timesync_about_feature_screen_details">"Si vous appuyez sur \"Synchroniser\",  Authenticator tentera de synchroniser son horloge interne avec les serveurs. Les paramètres de date et d\'heure de l\'appareil ne seront pas modifiés. &lt;p&gt; Authenticator ne transmet pas de données personnelles ni d\'informations sur le compte lors de la synchronisation de son horloge interne avec les serveurs. &lt;p&gt; &lt;b&gt;Pourquoi est-ce utile ?&lt;/b&gt; &lt;p&gt; Authenticator génère des codes de validation en deux étapes en se basant sur 1) l\'heure actuelle et 2) un nombre secret connu de l\'application et du serveur. &lt;p&gt; Si l\'heure dans Authenticator et l\'heure sur le serveur ne sont pas identiques, il est possible que les codes générés par l\'application ne soient pas acceptés lorsque vous tentez de vous connecter. &lt;p&gt; Authenticator utilise par défaut la date et l\'heure de l\'appareil et, dans la plupart des cas, vous serez en mesure de générer des codes valides en vous assurant que l\'heure, la date et les paramètres de fuseau horaire de votre appareil sont correctement configurés. Toutefois, il peut être difficile de résoudre les éventuels problèmes de décalage, surtout si vous utilisez l\'heure ou le fuseau horaire fournis par le réseau."</string>
   </resources>

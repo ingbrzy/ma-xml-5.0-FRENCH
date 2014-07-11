@@ -2,6 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- supprimé 4.7.9 -->
+  <string name="HIPS_Perm_Location_Access">Obtenir votre position actuelle</string>
+  <string name="HIPS_Perm_Location_Monitor">Suivre votre position</string>
 <!-- supprimé 4.6.26 -->
   <string name="Dashboard_Perm_AutoStart_Switch">Démarrer automatiquement le gestionnaire</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">Enregistrer des appels audio</string>
@@ -107,12 +110,10 @@
   <string name="HIPS_Perm_GetCallState">Obtenir l\'état de l\'appel actuel</string>
   <string name="HIPS_Perm_ListenCallState">Surveiller l\'état de l\'appel</string>
   <string name="HIPS_Perm_Location">Positionnement</string>
-  <string name="HIPS_Perm_Location_Access">Obtenir votre position actuelle</string>
   <string name="HIPS_Perm_Location_CellInfo">Obtenir la localisation cellulaire</string>
   <string name="HIPS_Perm_Location_CellLocation">Obtenir la localisation cellulaire</string>
   <string name="HIPS_Perm_Location_Desc">Localiser votre téléphone par le biais du réseau ou du GPS</string>
   <string name="HIPS_Perm_Location_Hint">%1$s applis peuvent localiser votre téléphone</string>
-  <string name="HIPS_Perm_Location_Monitor">Suivre votre position</string>
   <string name="HIPS_Perm_Location_Source_Cellular">Source : Réseau cellulaire</string>
   <string name="HIPS_Perm_Location_Source_GPS">Source : GPS</string>
   <string name="HIPS_Perm_Location_Source_Network">Source : Réseau</string>

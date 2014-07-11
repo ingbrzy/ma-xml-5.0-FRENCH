@@ -747,4 +747,13 @@
   <string name="cloud_no_new_data_toast">Aucunes nouvelles données, veuillez ressayer plus tard.</string>
   <string name="pref_content_brightness_setting">Paramètres de luminosité</string>
   <string name="enter_developer_mode">Mode développeur</string>
+  <string name="miui_autologin_bar_title">Se connecter avec le compte système</string>
+  <string name="account_prifix">Compte :</string>
+  <string name="miui_autologin_bar_error">Impossible de se connecter, veuillez réessayer.</string>
+  <string name="pref_adblock_title">Adblock</string>
+  <string name="pref_enable_adblock_notification">Notification Adblock</string>
+  <string name="pref_clear_adblock_statistics">Effacer les statistiques</string>
+  <string name="pref_adblock_counts">Total : %d publicités bloquées</string>
+  <string name="pref_clear_adblock_statistics_dlg">Réinitialiser le compteur ?</string>
+  <string name="adblock_notification">%d publicités bloquées</string>
 </resources>
