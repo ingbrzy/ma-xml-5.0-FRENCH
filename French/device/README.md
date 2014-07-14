@@ -10,8 +10,8 @@
 * HM2013023: Xiaomi HongMi1 (WCDMA-MTK) jb-4.2
 * armani: Xiaomi HongMi1-S (WCDMA-snapdragon) jb-4.2
 * ????: Xiaomi HongMi1-S (TD_SCDMA-MTK) jb-4.2
-* lcsh92_wet_jb9: Xiaomi HongMi-Note/Note pro (WCDMA-MTK) jb-4.2
-* lcsh92_wet_tdd: Xiaomi HongMi-Note/Note pro (TD_SCDMA-MTK) jb-4.2
+* lcsh92_wet_jb9: Xiaomi HongMi-Note/Note pro (WCDMA-MTK) jb-4.3
+* lcsh92_wet_tdd: Xiaomi HongMi-Note/Note pro (TD_SCDMA-MTK) jb-4.3
 
 ** Samsung **
 
