@@ -376,7 +376,6 @@
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Qualité vidéo</string>
-  <string name="pref_video_slow_speed_title_simple_mode">Fast-motion</string>
   <string name="pref_video_speed_entry_fast">Lent</string>
   <string name="pref_video_speed_entry_normal">Normal</string>
   <string name="pref_video_speed_entry_slow">Rapide</string>
@@ -433,7 +432,10 @@
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
   <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>
   <string name="simple_mode_button_text_panorama">Quitter le mode panorama</string>
-  <string name="simple_mode_button_text_slow_video">Quitter le mode Fast-motion</string>
+  <string name="simple_mode_button_text_slow_video">Quitter le mode Slow-motion</string>
+  <string name="simple_mode_button_text_fast_video">Quitter le mode Fast-motion</string>
+  <string name="pref_video_slow_speed_title_simple_mode">Slow-motion</string>
+  <string name="pref_video_fast_speed_title_simple_mode">Fast-motion</string>
   <string name="simple_mode_title">Mode simple</string>
   <string name="slideshow">Diaporama</string>
   <string name="snapshot_lower_than_video">La taille de capture vidéo est inférieure à la taille de la vidéo. Plafonnement de la taille de la vidéo. Veuillez sélectionner une résolution supérieure ou égale à la taille actuelle de la vidéo.</string>
@@ -487,8 +489,5 @@
   <string name="ubi_focus_exit_button_text">Quitter le mode Ubi Focus</string>
   <string name="pref_camera_auto_chroma_flash_title">Flash Chroma Auto</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
- <!-- à traduire
-  <string name="pref_touch_down_capture_title">Touch Down Capture</string>
- -->
-  
+  <string name="pref_touch_down_capture_title">Glisser bas pour capturer</string>
 </resources>
