@@ -3399,7 +3399,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_battery_history_minutes">%1$d min</string>
   <string name="power_battery_history_zero_minutes">0 min</string>
   <string name="power_center_battery_full">La batterie est chargée</string>
-  <string name="power_center_charge_time">La charge terminera dans %1$s</string>
+  <string name="power_center_charge_time">La charge se terminera dans %1$s</string>
   <string name="power_center_consume_rank">Consommation</string>
   <string name="power_center_consume_time">%1$s restants</string>
   <string name="power_center_custom_summary_default">Optimise les réglages, économise la batterie</string>

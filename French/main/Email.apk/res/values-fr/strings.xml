@@ -823,7 +823,7 @@
   <string name="search_attachment">Recherche</string>
   <string name="attachment_mgr_name">Pièce jointe</string>
   <string name="download_confirm_title">Confirmation de téléchargement</string>
-  <string name="download_confirm_message">Pour ouvrir ce fichier, vous devez télécharger %1$so supplémentaires</string>
+  <string name="download_confirm_message">Pour ouvrir ce fichier, vous devez télécharger %1$s supplémentaires</string>
   <string name="downlaod_confirm_download">Télécharger</string>
   <string name="download_cancel_confirm_title">Annuler le téléchargement ?</string>
   <string name="downlaod_cancel_confirm_download">Confirmer</string>

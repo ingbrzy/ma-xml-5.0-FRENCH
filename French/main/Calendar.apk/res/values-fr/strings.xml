@@ -222,7 +222,7 @@
   <string name="button_month">M</string>
   <string name="default_reminder_mode">Mode de rappel par défaut</string>
   <string name="event_account">Compte</string>
-  <string name="event_all_day_label">Tous les jours</string>
+  <string name="event_all_day_label">Toute la journée</string>
   <string name="event_hide_more">Masquer</string>
   <string name="event_info_descrip">"Description : "</string>
   <string name="event_info_repeat">"Récurrence : "</string>
