@@ -12,7 +12,7 @@
 * ????: Xiaomi HongMi1-S (TD_SCDMA-MTK) jb-4.2
 * lcsh92_wet_jb9: Xiaomi HongMi-Note/Note pro (WCDMA-MTK) jb-4.3
 * lcsh92_wet_tdd: Xiaomi HongMi-Note/Note pro (TD_SCDMA-MTK) jb-4.3
-
+* Mocha: Xiaomi MiPad (Nvidia) kk-4.4 (Voir dépot TABLET)
 ** Samsung **
 
 * CRESPO: Google-Samsung Nexus S jb-4.2
