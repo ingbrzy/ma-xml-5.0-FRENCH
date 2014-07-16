@@ -118,7 +118,7 @@ connexion au réseau de données mobiles"</string>
     <string name="pref_leisure_not_opened">Désactivé</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
-    <string name="pref_app_traffic_managent">Restreindre l\'usage des données par appli</string>
+    <string name="pref_app_traffic_managent">Restreindre l\'usage des données par application</string>
     <string name="traffic_protection_label">Alerte d\'usage des données</string>
     <string name="traffic_protection_summary">Alerter lorsqu\'en approche du seuil défini</string>
     <string name="traffic_protection_unknown"><u>Configurer plus tard</u></string>

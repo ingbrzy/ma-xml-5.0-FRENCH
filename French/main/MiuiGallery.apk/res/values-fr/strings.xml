@@ -49,7 +49,7 @@
   <string name="add_to_cloud_type_not_support_message">Type de fichier non pris en charge.</string>
   <string name="add_to_cloud_unknow_reasons">Une erreur inconnue s\'est produite</string>
   <string name="adding_recipients">Ajout de destinataires…</string>
-  <string name="album_member">Membre de l\'album %s</string>
+  <string name="album_member">Membres de l\'album %s</string>
   <string name="album_name">Nom de l\'album</string>
   <string name="album_quota_fulfiled">"Impossible de créer l'album; le nombre d'albums a atteint la limite…"</string>
   <string name="album_share_exit_confirm">Êtes-vous certain de vouloir quitter l\'album partagé ?</string>
@@ -367,7 +367,7 @@
   <string name="save_photo">Enregistrer la photo retouchée ?</string>
   <string name="saving_failure">Impossible d\'enregistrer la photo</string>
   <string name="saving_image">Enregistrement de l\'image…</string>
-  <string name="scan_barcode_guide">Pour obtenir l\'album du code QR touchez l\'icône de partage sur le coin supérieur droit.</string>
+  <string name="scan_barcode_guide">Pour obtenir le code QR de l\'album touchez l\'icône de partage sur le coin supérieur droit.</string>
   <string name="scan_barcode_to_join">Scannez le code QR pour rejoindre un album.</string>
   <string name="scan_qr_code_buttom_text">Scannez le code QR pour voir cet album.</string>
   <string name="scan_qr_code_failure">Impossible de scanner le code QR.</string>
