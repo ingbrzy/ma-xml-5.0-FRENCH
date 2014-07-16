@@ -8,17 +8,18 @@
 * pisces: Xiaomi Mi3 (TD_SCDMA-tegra) kk-4.4
 * HM2013022: Xiaomi HongMi1 (TD_SCDMA-MTK) jb-4.2
 * HM2013023: Xiaomi HongMi1 (WCDMA-MTK) jb-4.2
-* armani: Xiaomi HongMi1-S (WCDMA-snapdragon) jb-4.2
+* armani: Xiaomi HongMi1-S (WCDMA-snapdragon) jb-4.3
 * ????: Xiaomi HongMi1-S (TD_SCDMA-MTK) jb-4.2
-* lcsh92_wet_jb9: Xiaomi HongMi-Note/Note pro (WCDMA-MTK) jb-4.3
-* lcsh92_wet_tdd: Xiaomi HongMi-Note/Note pro (TD_SCDMA-MTK) jb-4.3
+* lcsh92_wet_jb9: Xiaomi HongMi-Note/Note pro (WCDMA-MTK) jb-4.2
+* lcsh92_wet_tdd: Xiaomi HongMi-Note/Note pro (TD_SCDMA-MTK) jb-4.2
 
 ** Samsung **
 
 * CRESPO: Google-Samsung Nexus S jb-4.2
 * GT-I9000: Samsung Galaxy S jb-4.2
-* GT-I9100: Samsung Galaxy S2 jb-4.1
+* GT-I9100: Samsung Galaxy S2 jb-4.1 & 4.2
 * GT-N7000: Samsung Galaxy Note jb-4.1
+* hlte: Samsung Galaxy Note 3 kk-4.4
 * ja3g: Samsung Galaxy S4 - i9500 jb-4.2
 * jflte: Samsung Galaxy S4 - i9505 jb-4.2
 * m0: Samsung Galaxy3 - i9300 jb-4.1
@@ -38,8 +39,8 @@
 * endeavoru: HTC One X jb-4.1
 * leo: HTC Touch HD2 jb-4.2
 * m7: HTC One jb-4.2
-* pyramid: HTC Sensation jb-4.1
-* saga: HTC Desire S jb-4.1
+* pyramid: HTC Sensation jb-4.2
+* saga: HTC Desire S jb-4.2
 * shooteru: HTC Evo 3D jb-4.1
 * ville: HTC One S jb-4.1
 * vision: HTC Desire Z
@@ -76,7 +77,7 @@
 * zte77_cu_jb2: ZTE V970 jb-4.2
 
 ** Huawei **
-
+* hwH30-U10: Huawei Honor 3C jb-4.2.zip  
 * hwp6-u06: Huawei P6-U06 jb-4.2
 * hwu9508: Huawei Honor 2 jb-4.1
 * u8818: Huawei Ascend G300 jb-4.1
@@ -87,6 +88,6 @@
 * C8690: Newman N2 jb-4.1
 * FIND5: Oppo Find 5 jb-4.1
 * mx2: Meizu MX2 jb-4.1
-* V7: Zopo C2
+* V7: Zopo C2 jb-4.1
 * V8: Jiayu G5
 * grouper: Google-ASUS Nexus 7 2012 Wi-Fi kk-4.4
