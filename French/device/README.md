@@ -20,10 +20,12 @@
 * GT-I9000: Samsung Galaxy S jb-4.2
 * GT-I9100: Samsung Galaxy S2 jb-4.1 & 4.2
 * GT-N7000: Samsung Galaxy Note jb-4.1
-* hlte: Samsung Galaxy Note 3 kk-4.4
+* ha3g: Samsung Galaxy Note 3 (Exynos) kk-4.4
+* hlte: Samsung Galaxy Note 3 (Qualcomm) kk-4.4
 * ja3g: Samsung Galaxy S4 - i9500 jb-4.2
 * jflte: Samsung Galaxy S4 - i9505 jb-4.2
-* m0: Samsung Galaxy3 - i9300 jb-4.1
+* m0: Samsung Galaxy S3 - i9300 jb-4.1
+* m0: Samsung Galaxy S3 - i9305 jb-4.4
 * maguro: Google-Samsung Galaxy Nexus GSM jb-4.2
 * t03g: Samsung Galaxy Note 2 jb-4.1
 
@@ -64,7 +66,9 @@
 * mako: Google-LG Nexus 4 jb-4.2
 * p760: LG L9 jb-4.2
 * p880: LG Optimus 4X jb-4.2
-** Motorola
+
+** Motorola **
+
 * umts_jordan: Motorola Defy jb-4.1
 * umts_spyder: Motorola RAZR XT910 jb-4.2
 
