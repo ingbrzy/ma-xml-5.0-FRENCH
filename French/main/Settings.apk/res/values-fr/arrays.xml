@@ -645,4 +645,8 @@ Vous pouvez maintenant transférer des fichiers"</item>
     <item>IPv4</item>
     <item>IPv4 &amp; IPv6</item>
   </string-array>
+  <string-array name="priority_storage_entries">
+    <item>Stockage interne</item>
+    <item>Stockage externe</item>
+  </string-array>
 </resources>

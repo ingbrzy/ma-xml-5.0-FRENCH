@@ -143,7 +143,7 @@ Réessayer dans %d secondes."</string>
   <string name="pincode_set_to_default_msg">Le code PIN est 1234, veuillez réinitialiser le code PIN ici.</string>
   <string name="private_num">Numéro privé</string>
   <string name="provider_sougou">Fourni par Sougou</string>
-  <string name="provider_114">Fourni par 114号码百事通</string>
+  <string name="provider_114">Fourni par 114</string>
   <string name="puk_operation_failed">L\'opération PUK a échoué.</string>
   <string name="reboot_confirm">Le téléphone va redémarrer</string>
   <string name="reboot_confirm_title">Êtes-vous sûr de vouloir redémarrer votre téléphone ?</string>
@@ -214,7 +214,7 @@ Réessayer dans %d secondes."</string>
   <string name="yellow_page_module_sms_sent">Message envoyé</string>
   <string name="yellow_page_sms_send_failed">Échec de l\'envoi du SMS !</string>
   <string name="yellow_page_sms_sending">Envoi en cours…</string>
-  <string name="yellow_page_sms_disabled_in_privacy_mode">Impossible d\'envoyer un message en mode invité</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">Impossible d\'envoyer des messages en mode invité</string>
   <string name="grant_permissions_account">Autoriser l\'accès au compte</string>
   <string name="grant_permissions_apps">Autoriser l\'accès aux applis</string>
   <string name="v5_date_time_picker_dialog_title">Régler l\'heure de rappel</string>
@@ -224,12 +224,12 @@ Réessayer dans %d secondes."</string>
   <string name="sync_data_notes">notes</string>
   <string name="sync_data_contact">contacts</string>
   <string name="sync_data_mms">SMS</string>
-  <string name="sync_data_call_log">enregist. d\'appels</string>
-  <string name="sync_data_cloud_album">albums cloud</string>
+  <string name="sync_data_call_log">journal d\'appels</string>
+  <string name="sync_data_cloud_album">albums photos</string>
   <string name="sync_data_recover_warning_cancel">Annuler</string>
   <string name="sync_data_merge_warning_cancel">Annuler</string>
   <string name="sync_data_merge_warning_ok">Fusionner</string>
-  <string name="sync_data_recover_warning_ok">Restaurer</string>
+  <string name="sync_data_recover_warning_ok">OK</string>
   <string name="sync_data_loading">Acquisition de données depuis le serveur</string>
   <string name="sync_data_merge_warning_title">Avertissement</string>
   <string name="sync_data_recover_warning_title">Avertissement</string>

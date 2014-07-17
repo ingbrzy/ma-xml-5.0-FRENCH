@@ -746,7 +746,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="device_info_label">Informations sur l\'appareil</string>
   <string name="device_info_not_available">Non disponible</string>
   <string name="device_info_settings">État du téléphone</string>
-  <string name="device_internal_memory">Mémoire Interne</string>
+  <string name="device_internal_memory">Mémoire interne</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">Version MIUI</string>
   <string name="device_name">Nom de l\'appareil</string>
@@ -754,7 +754,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="device_name_input_hint">Entrez le nom du périphérique</string>
   <string name="device_name_usage_point">Autoriser l\'appareil à être découvert par d\'autres périphériques Bluetooth afin de permettre le transfert de fichiers et autres.</string>
   <string name="device_picker">Sélecteur d\'appareil Bluetooth</string>
-  <string name="device_sd_memory">Carte SD :</string>
+  <string name="device_sd_memory">Carte SD</string>
   <string name="device_status">État</string>
   <string name="device_status_activity_title">État</string>
   <string name="device_status_summary">Numéro de téléphone, signal, etc.</string>
@@ -4245,7 +4245,13 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="bluetooth_device_address">Adresse :</string>
   <string name="use_network_warning">Une connexion à internet est requise pour configurer et synchroniser votre compte Mi.</string>
   <string name="preferred_sms_settings">L\'application définie sera utilisée pour lire et composer les SMS.</string>
-  
+  <string name="high_performance_title">Il semble que vous utilisez une application de benchmark. Définissez le mode d\'économie de la batterie sur \"Performances\" pour de meilleurs résultats."</string>
+  <string name="high_performance_notif_title">Information</string>
+  <string name="high_performance_notif_summary">Le mode Performances est actif. Ceci risque d\'avoir un impact négatif sur l\'autonomie.</string>
+  <string name="priority_storage_title">Paramètres de stockage</string>
+  <string name="priority_storage_summary">Veuillez sélectionner l\'emplacement par défaut de stockage des données d\'applications</string>
+  <string name="priority_storage_settings_summary">"Si aucune carte SD n\'est détectée, les données seront automatiquement enregistrées dans le stockage interne de l\'appareil"</string>
+  <string name="priority_storage_app_settings">Les données d\'applications seront enregistrées sur le %1$s</string>
 <!-- à traduire :
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
   <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>

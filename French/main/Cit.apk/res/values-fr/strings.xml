@@ -273,6 +273,7 @@
   <string name="cit_tool_nfc_st_run">Exécuter</string>
   <string name="cit_tool_nfc_st_stop">Arrêter</string>
  <!-- à traduire
+  <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>

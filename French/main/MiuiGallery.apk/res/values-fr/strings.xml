@@ -21,7 +21,7 @@
   <string name="modified_time">Date de modification</string>
   <string name="photo_size">Taille</string>
   <string name="bigscreen_video_quit">Appuyer pour quitter</string>
-  <string name="home_page_tab_photo">Photo</string>
+  <string name="home_page_tab_photo">Photos</string>
   <string name="home_page_tab_cloud">Cloud</string>
   <string name="home_page_tab_local">Local</string>
   <string name="error_title">Erreur de synchronisation</string>
@@ -122,7 +122,7 @@
   <string name="cloud_media_set_set">Albums MiCloud</string>
   <string name="cloud_owner_album_share_guide">Vous pouvez partager cet album avec des amis</string>
   <string name="cloud_screenshots_display_name">Captures d\'écran</string>
-  <string name="cloud_share_guide_message">"Vous pouvez partager votre album MiCloud avec des amis."</string>
+  <string name="cloud_share_guide_message">"Partagez vos albums MiCloud avec des amis."</string>
   <string name="cloud_share_guide_title">Partage MiCloud !</string>
   <string name="cloud_tab_albums">Albums</string>
   <string name="cloud_tab_all">Tout</string>
@@ -169,7 +169,7 @@
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_sharer">Partagé par</string>
-  <string name="details_title">%1$d élément(s) sur %2$d :</string>
+  <string name="details_title">%1$d élément(s) sur %2$d</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Documentaire</string>
   <string name="done">OK</string>
@@ -206,7 +206,7 @@
   <string name="fail_init_gallery_db_helper">Application fermée, impossible d\'ouvrir la base de données de la galerie, le disque est plein.</string>
   <string name="fail_to_pick_email">Aucun Mail valide sélectionné</string>
   <string name="fail_to_sync_album">Impossible de synchroniser l\'album au serveur. Veuillez vérifier votre connexion réseau !</string>
-  <string name="file_size">Taille fichier</string>
+  <string name="file_size">Taille</string>
   <string name="filllight">Éclairage d\'appoint</string>
   <string name="fisheye">Objectif fisheye</string>
   <string name="flash">Flash</string>
@@ -236,7 +236,7 @@
   <string name="has_invalid_recipient">Destinataire(s) non valide(s) : %1$s</string>
   <string name="height">Hauteur</string>
   <string name="highlight">Reflets</string>
-  <string name="home_my_captured_items">Photo(s) capturée(s)</string>
+  <string name="home_my_captured_items">" photos capturées"</string>
   <string name="how_many_pics">%d photo(s)</string>
   <string name="how_many_sub_folders">%d dossier(s)</string>
   <string name="how_many_videos">%d vidéo(s)</string>
@@ -377,7 +377,7 @@
   <string name="screensaver_path">"Album : "</string>
   <string name="screensaver_path_not_set">Non défini</string>
   <string name="sd_not_available">Carte SD non montée ou indisponible</string>
-  <string name="seconds">secondes</string>
+  <string name="seconds">" secondes"</string>
   <string name="select_album">Sélectionner un album</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_image">Sélectionner une photo</string>
@@ -506,7 +506,7 @@
   <string name="confirm_download_video_title">Télécharger la vidéo</string>
   <string name="image_download_item_title">Télécharger l\'image (%s)</string>
   <string name="loading_image">Téléchargement de l\'image…</string>
-  <string name="loading_suspend">Téléchargement mis en attente : il redémarrera lorsqu\'une connexion Wi-Fi sera disponible.</string>
+  <string name="loading_suspend">Téléchargement mis en attente. Il redémarrera lorsqu\'une connexion Wi-Fi sera disponible.</string>
   <string name="loading_video">Téléchargement de la vidéo…</string>
   <string name="external_usb_device_hm">Stockage externe USB</string>
   <string name="internal_sd_card_hm">Stockage interne</string>
@@ -534,19 +534,20 @@
   <string name="confirm_delete_has_local_image">Supprimer %s photo(s) ?</string>
   <string name="confirm_delete_has_local_video">Supprimer %s vidéo(s) ?</string>
   <string name="confirm_delete_init_title">Information</string>
-  <string name="skip_hide_special_album">"Les albums système (Camera, Capture d\'écran) ne peuvent pas être masqués."</string>
-  <string name="bigscreen_slide_playing">Le diaporama est affiché sur l\'appareil \"%s\"</string>
+  <string name="skip_hide_special_album">"Les albums système (Camera, Capture d\'écran) ne peuvent pas être masqués"</string>
+  <string name="bigscreen_slide_playing">Le diaporama est affiché sur \"%s\"</string>
   <!-- confirm_delete_init_message a vérifier / Ou les sélectionner ? via l\'onglet local ?? 
   Photo will be deleted from this device and from your Mi Cloud as well. If you only want delete in local, please operate in Local
   -->
   <string name="confirm_delete_init_message">Les photos seront supprimées de cet appareil et de votre espace MiCloud. Si vous voulez les supprimer uniquement localement, veuillez le faire via l\'onglet Local.</string>
-
+  <string name="priority_storage">Utiliser la carte SD externe</string>
+  <string name="priority_storage_summary">Télécharger en priorité sur la carte SD externe</string>
  <!-- à traduire
   <string name="long_press_to_refocus">Keep pressing to refocus</string>
   <string name="item_not_sync_for_refocus_data">Cette image n\'a pas été synchronisée avec le cloud, its refocus data can not be downloaded</string>
   <string name="download_refocus_data">Download refocusing data</string>
   <string name="refocus_data_downloading">Downloading refocusing data…</string>
-  <string name="ubifocus_guide_text">Long press to refocus</string>
+  <string name="ubifocus_guide_text">>Touch &amp; hold to refocus</string>
   <string name="ubifocus_refocus_data_missing">Cannot refocus due to some missing data</string>
   <string name="ubifocus_refocus_map_error">Cannot refocus due to some wrong data</string>
   <string name="ubifocus_refocus_download_tip">Please download refocus data before refocusing</string>

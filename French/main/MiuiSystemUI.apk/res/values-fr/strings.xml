@@ -2,6 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- supprimé 4.7.11 -->
+  <string name="status_bar_toggle_power_low">Économie d\'énergie</string>
+<!-- -->
   <string name="accessibility_airplane_mode">Mode Avion</string>
   <string name="accessibility_back">Retour</string>
   <string name="accessibility_battery_level">Batterie à %d pour cent</string>
@@ -248,7 +251,6 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_mute">Silencieux</string>
   <string name="status_bar_toggle_network_type">Type de réseau</string>
   <string name="status_bar_toggle_power_high">Performance</string>
-  <string name="status_bar_toggle_power_low">Économie d\'énergie</string>
   <string name="status_bar_toggle_power_mid">Normal</string>
   <string name="status_bar_toggle_power_mode">Mode puissance</string>
   <string name="status_bar_toggle_privacy_mode">Mode invité</string>

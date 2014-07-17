@@ -273,6 +273,8 @@ la vidéo sur votre box ou TV"</string>
   <string name="info_title">Information</string>
   <string name="prex_playcount">lectures :</string>
   <string name="post_playcount">" fois"</string>
+  <string name="priority_storage">Utiliser la carte SD externe</string>
+  <string name="priority_storage_summary">Télécharger en priorité sur la carte SD externe</string>
  <!-- à vérifier -->
   <string name="mydlna">Ressources DLNA</string>
   <string name="dlna_name">Appareil partagé</string>

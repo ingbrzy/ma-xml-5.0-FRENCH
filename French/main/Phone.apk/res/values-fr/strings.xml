@@ -1608,6 +1608,11 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="ims_edit_title">Paramètres du compte IMS</string>
   <string name="callwait_open_hint">\"Appel en attente\" est une fonction fournie par votre opérateur mobile. Si vous recevez une notification d\'erreur, contactez votre opérateur et vérifiez que cette fonction est disponible et activée.</string>
   <string name="call_record_path_name_of_sdcard_miui">Carte SD</string>
+  <string name="ivr_menu_list_title">Menu vocal</string>
+  <string name="ivr_menu_dialing_msg">Transfert…</string>
+  <string name="ivr_menu_list_sub_menu_count_format">Appuyez sur %s</string>
+  <string name="non_ivr_menu_view_menu">Afficher le menu</string>
+  <string name="non_ivr_menu_collapse_menu">Masquer le menu</string>
   <!-- à traduire  
   <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>

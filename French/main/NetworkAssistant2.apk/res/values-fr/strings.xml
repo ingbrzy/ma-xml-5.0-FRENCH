@@ -14,7 +14,8 @@
     <string name="traffic_saving_button_start">Activer</string>
     <string name="traffic_saving_button_stop">Désactiver</string>
     <string name="traffic_saving_button_sorted">Détails</string>
-    <string name="traffic_saving_msg_today">Aujourd\'hui :</string>
+    <string name="traffic_saving_button_sorted_chose_simcard">Sélectionner la SIM</string>
+    <string name="traffic_saving_msg_today">Économisé auj. :</string>
     <string name="traffic_saving_msg_month">Ce mois-ci : %1$s</string>
     <string name="traffic_saving_history_title">Historique</string>
     <string name="traffic_saving_history_total_traffic">Données économisées</string>

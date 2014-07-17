@@ -377,9 +377,9 @@
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Qualité vidéo</string>
   <string name="pref_video_slow_speed_title_simple_mode">Slow-motion</string>
-  <string name="pref_video_speed_entry_fast">Lent</string>
+  <string name="pref_video_speed_entry_fast">Rapide</string>
   <string name="pref_video_speed_entry_normal">Normal</string>
-  <string name="pref_video_speed_entry_slow">Rapide</string>
+  <string name="pref_video_speed_entry_slow">Lent</string>
   <string name="pref_video_speed_title">Vitesse de la vidéo</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">0.3 seconde (10 fois)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">4 secondes (120 fois)</string>
@@ -495,7 +495,7 @@
   <string name="confirm_enable_opti_zoom_message">Voulez-vous activer le mode Opti Zoom pour vos photos ?</string>
   <string name="enable_feature">Oui</string>
   <string name="not_enable_feature">Rappeler la prochaine fois</string>
-  <string name="pref_camera_auto_chroma_flash_title">Flash Chroma Auto</string>
+  <string name="pref_camera_auto_chroma_flash_title">Flash Chroma</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capture auto lorsque stable</string>
   <string name="ubi_focus_capture_fail">Erreur, veuillez réessayer.</string>
@@ -509,4 +509,10 @@
   <string name="object_track_enable_toast">"Faites glisser votre doigt sur l'écran de prévisualisation pour activer le suivi de l'objet."</string>
   <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre de l'objectif) et éloignés</string>
   <string name="pref_touch_down_capture_title">Glisser bas pour capturer</string>
+  <string name="burst_shoot_exit_button_text">Quitter le mode rafale</string>
+  <string name="pref_burst_shoot_title">Mode rafale</string>
+  
+  <!-- à traduire
+  <string name="pref_long_press_shutter_button_focus_title">Long press Shutter button to focus</string>
+  -->
 </resources>
