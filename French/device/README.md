@@ -25,7 +25,7 @@
 * ja3g: Samsung Galaxy S4 - i9500 jb-4.2
 * jflte: Samsung Galaxy S4 - i9505 jb-4.2
 * m0: Samsung Galaxy S3 - i9300 jb-4.1
-* m0: Samsung Galaxy S3 - i9305 jb-4.4
+* m3: Samsung Galaxy S3 - i9305 jb-4.4
 * maguro: Google-Samsung Galaxy Nexus GSM jb-4.2
 * t03g: Samsung Galaxy Note 2 jb-4.1
 
