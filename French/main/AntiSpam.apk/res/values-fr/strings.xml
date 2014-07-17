@@ -236,7 +236,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="PAST_BLOCK">Précédemment bloqué</string>
   <string name="AD_AntiSpam">Bloquer les sollicitations</string>
   <string name="AD_SCANNING">Analyse en cours…</string>
-  <string name="AD_BLOCK_ALL">Tout Bloquer</string>
+  <string name="AD_BLOCK_ALL">Tout bloquer</string>
   <string name="AD_SCAN_BUTTON">Analyser</string>
   <string name="AD_NOT_BLOCK">Non bloqué</string>
   <string name="AD_BLOCKED">Bloqué</string>
