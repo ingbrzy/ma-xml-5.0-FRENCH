@@ -776,6 +776,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition de l\'écran</string>
   <string name="disable_power_key_long_press_under_keyguard">Désactiver le bouton d\'arrêt</string>
   <string name="disable_text">Désactiver</string>
+  <string name="disabled">Désactivée</string>
   <string name="display_font_size_label">Taille de police :</string>
   <string name="display_label">Écran</string>
   <string name="display_order_text">Trier par :</string>
