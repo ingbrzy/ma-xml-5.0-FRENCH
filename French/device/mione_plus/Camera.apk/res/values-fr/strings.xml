@@ -10,7 +10,6 @@
   <string name="accessibility_camera_switch_back_state">Basculer la caméra (actuellement sur la caméra arrière)</string>
   <string name="accessibility_camera_switch_front_state">Basculer la caméra (actuellement sur la caméra frontale)</string>
   <string name="accessibility_close_more_ptions">Désactiver plus d\'options</string>
-  <string name="accessibility_ev_control">Contrôle de compensation d\'exposition</string>
   <string name="accessibility_more_ptions_closed">Plus d\'options désactivées</string>
   <string name="accessibility_more_ptions_opened">Plus d\'options activées</string>
   <string name="accessibility_open_more_ptions">Activer plus d\'options</string>
@@ -32,7 +31,6 @@
   <string name="camera_settings_label">Paramètres de l\'appareil photo</string>
   <string name="can_not_play_video">Pour lire la vidéo, vous devez déverrouiller l\'écran</string>
   <string name="cancel">Annuler</string>
-  <string name="cannot_connect_camera">"Impossible de se connecter à la caméra."</string>
   <string name="cannot_connect_camera_once">"Impossible de se connecter à l'appareil photo, veuillez le redémarrer"</string>
   <string name="cannot_connect_camera_twice">"Impossible de se connecter à l'appareil photo, veuillez redémarrer votre téléphone"</string>
   <string name="clear_effects">Effacer les effets</string>
@@ -100,7 +98,6 @@
   <string name="find_qq_qrcode">Trouver un code QR QQ</string>
   <string name="find_web_qrcode">Trouver un code QR de site Internet</string>
   <string name="find_wechat_qrcode">Trouver un code QR WeChat</string>
-  <string name="find_weixin_qrcode">Trouver un code QR weixin</string>
   <string name="find_wifi_qrcode">Trouver un code QR Wi-Fi</string>
   <string name="flash">Flash</string>
   <string name="flash_off">Flash désactivé</string>
@@ -141,7 +138,6 @@
   <string name="not_enough_space">Mémoire insuffisante</string>
   <string name="not_selectable_in_scene_mode">Non sélectionnable en mode scène</string>
   <string name="ok">OK</string>
-  <string name="open">Ouvrir</string>
   <string name="orientation">Orientation</string>
   <string name="pano_dialog_panorama_failed">"Impossible d'enregistrer le panorama"</string>
   <string name="pano_dialog_prepare_preview">Préparation vue panoramique…</string>
@@ -263,7 +259,6 @@
   <string name="pref_camera_preview_entry_2000">2 secondes</string>
   <string name="pref_camera_preview_entry_5000">5 secondes</string>
   <string name="pref_camera_preview_entry_off">Désactivé</string>
-  <string name="pref_camera_preview_title">Aperçu</string>
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
   <string name="pref_camera_recordlocation_entry_on">Activé</string>
   <string name="pref_camera_recordlocation_title">Enregistrer la position</string>
@@ -330,7 +325,6 @@
   <string name="pref_camera_volumekey_function_entry_shutter">Obturateur</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
   <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
-  <string name="pref_camera_volumekey_function_entry_exposure">Exposition</string>
   <string name="pref_camera_volumekey_function_title">Fonctions des touches de volume</string>
   <string name="pref_camera_watermark_entry_off">Désactivé</string>
   <string name="pref_camera_watermark_entry_on">Activé</string>
@@ -352,9 +346,6 @@
   <string name="pref_grp_restore_settings">Restaurer les paramètres</string>
   <string name="pref_settings_mode">Mode caméra</string>
   <string name="pref_video_captrue_ability_title">Capacité de capture</string>
-  <string name="pref_video_continuous_focus">Focus continu</string>
-  <string name="pref_video_continuous_focus_entry_off">Désactivé</string>
-  <string name="pref_video_continuous_focus_entry_on">Activé</string>
   <string name="pref_video_focusmode_entry_auto">Toucher</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Mode focus</string>
@@ -423,7 +414,6 @@
   <string name="simple_mode_button_text_panorama">Quitter le mode panorama</string>
   <string name="simple_mode_button_text_slow_video">Quitter le mode Slow-motion</string>
   <string name="simple_mode_title">Mode simple</string>
-  <string name="skip">Ignorer</string>
   <string name="slideshow">Diaporama</string>
   <string name="snapshot_lower_than_video">La taille de capture vidéo est inférieure à la taille de la vidéo. Plafonnement de la taille de la vidéo. Veuillez sélectionner une résolution supérieure ou égale à la taille actuelle de la vidéo.</string>
   <string name="snapshot_qcif_and_d1">Seule la taille d\'instantané vidéo est prise en charge pour cette résolution.</string>
@@ -457,7 +447,6 @@
   <string name="web_url_warning">Le site web du code QR peut entraîner un risque, le navigateur MIUI va scanner le code QR pour vous.</string>
   <string name="website_details">"Détails du site web : "</string>
   <string name="wechat_details">"Weixin : "</string>
-  <string name="weixin_details">"Détails Weixin : "</string>
   <string name="white_balance">Balance des blancs</string>
   <string name="width">Largeur</string>
   <string name="wifi_connect_fail">Délai de connexion dépassé ou échec du réseau Wi-Fi</string>
@@ -469,4 +458,7 @@
   <string name="wifi_security">Sécurité :</string>
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
+  <string name="pref_captrue_mirror_title">Miroir caméra frontale</string>
+  <string name="wifi_connect_current_connetion">Connexion au réseau Wi-Fi effectuée</string>
+  <string name="wifi_connect_not_found">Impossible de trouver le réseau Wi-Fi</string>
 </resources>
