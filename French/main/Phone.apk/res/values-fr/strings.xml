@@ -1610,6 +1610,7 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="call_record_path_name_of_sdcard_miui">Carte SD</string>
   <string name="ivr_menu_list_title">Menu vocal</string>
   <string name="ivr_menu_dialing_msg">Transfert…</string>
+  <string name="ivr_menu_dialing_msg_no_mute">En cours de transfert vers le service sélectionné (ignorez les messages d\'erreur)…</string>
   <string name="ivr_menu_list_sub_menu_count_format">Appuyez sur %s</string>
   <string name="non_ivr_menu_view_menu">Afficher le menu</string>
   <string name="non_ivr_menu_collapse_menu">Masquer le menu</string>
