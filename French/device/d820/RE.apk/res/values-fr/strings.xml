@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="boxandroidlibv2_alert_dialog_cancel">Annuler</string>
+    <string name="boxandroidlibv2_alert_dialog_ok">OK</string>
+    <string name="boxandroidlibv2_alert_dialog_password">Mot de passe</string>
+    <string name="boxandroidlibv2_alert_dialog_text_entry">Ce site ou application requiert une authentification.</string>
+    <string name="boxandroidlibv2_alert_dialog_username">Identifiant</string>
+    <string name="boxandroidlibv2_title_activity_oauth">OAuthActivity</string>
+    <string name="boxandroidlibv2_Select">Sélectionner</string>
+    <string name="boxandroidlibv2_Cancel">Annuler</string>
+    <string name="boxandroidlibv2_Please_wait">Veuillez patienter…</string>
+    <string name="boxandroidlibv2_Problem_fetching_folder">Erreur lors de la lecture du dossier.</string>
+    <string name="boxandroidlibv2_Create_folder">Créer un dossier</string>
+    <string name="app_name">R.E. Manager</string>
+	<!-- ??
+    <string name="info_text_weight">0</string>
+    <string name="locale">0</string>
+	-->
+</resources>
