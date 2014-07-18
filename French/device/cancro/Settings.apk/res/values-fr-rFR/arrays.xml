@@ -22,4 +22,8 @@
     <item>Mode performance</item>
     <item>Mode normal (par défaut)</item>
   </string-array>
+  <string-array name="power_dialog_cpu_state_items">
+    <item>Performances</item>
+    <item>Équilibré</item>
+  </string-array>
 </resources>
