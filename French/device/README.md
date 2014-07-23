@@ -52,6 +52,7 @@
 ** SONY **
 
 * anzu: Sony Xperia Arc S jb-4.1
+* c6903: Sony Xperia Z1
 * haida: Sony Xperia Neo V jb-4.1
 * LT30: Sony Xperia T jb-4.1
 * L36h: Sony Xperia Z jb-4.2
