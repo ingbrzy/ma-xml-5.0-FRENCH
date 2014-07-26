@@ -19,8 +19,6 @@
     <string name="traffic_saving_msg_month">Économisé ce mois :</string>
     <string name="traffic_saving_history_title">Historique</string>
     <string name="traffic_saving_history_total_traffic">Données économisées</string>
-    <string name="traffic_saving_history_total_money">Montant économisé</string>
-    <string name="traffic_saving_history_total_money_unit">¥</string>
     <string name="pref_traffic_saving_title">Paramètres d\'économie des données</string>
     <string name="pref_traffic_saving_switch">Compresser les données</string>
     <string name="pref_traffic_saving_switch_hint">Permet d\'économiser des données grâce à la compression</string>
