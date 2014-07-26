@@ -961,6 +961,9 @@ Taille du patch Delta : %2$s"</string>
   <string name="account_setup_incoming_mail_domain_label">Domaine</string>
   <string name="account_setup_incoming_mail_domain_hint">Ne peut être vide</string>
  <!-- à traduire :
+    <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
+    <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
+    <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
   <string name="device_activity_btn_str">Return To Activate</string>
   <string name="device_not_activiey_lint1">Device Manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>

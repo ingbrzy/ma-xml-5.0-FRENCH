@@ -25,7 +25,7 @@
   <string name="cit_blue_tooth_scan_check_summary">Le test affichera une liste de tous les périphériques Bluetooth disponibles</string>
   <string name="cit_blue_tooth_scan_check_title">Test de l\'analyse Bluetooth</string>
   <string name="cit_bluetooth_address_open_error">Impossible d\'obtenir les informations d\'adresse Bluetooth</string>
-  <string name="cit_bluetooth_not_support">Le téléphone ne supporte pas de périphérique Bluetooth</string>
+  <string name="cit_bluetooth_not_support">Cet appareil ne supporte pas le Bluetooth</string>
   <string name="cit_bluetooth_scan_retry">Rescanner</string>
   <string name="cit_bluetooth_scanning">Recherche de périphériques Bluetooth…</string>
   <string name="cit_bluetooth_scanning_bluetooth_done">Scan terminé</string>

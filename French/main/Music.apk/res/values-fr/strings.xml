@@ -84,7 +84,7 @@
   <string name="dirac_mode_piston_100">Xiaomi Piston-1</string>
   <string name="download">Télécharger</string>
   <string name="download_album_settings">Téléchargement de pochette auto</string>
-  <string name="download_album_summary">Le téléchargement des pochettes via le réseau mobile peut engendrer une consomation importante de données</string>
+  <string name="download_album_summary">Le téléchargement des pochettes via le réseau mobile peut engendrer une consommation importante de données</string>
   <string name="download_all_album">Télécharger toutes les pochettes d\'album</string>
   <string name="download_all_avatar">Télécharger tous les avatars</string>
   <string name="download_all_track">Télécharger toutes les pistes</string>
@@ -142,13 +142,13 @@
   <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">Dossiers</string>
   <string name="frequentlyplayed_title">Joué fréquemment</string>
-  <string name="headphone_settings">Paramètres de type de casque</string>
+  <string name="headphone_settings">Paramètres écouteurs</string>
   <string name="hot_artists">Artistes populaires</string>
   <string name="id3_edit">Modifier les informations ID3</string>
   <string name="id3_edit_failed">Impossible de modifier les informations ID3</string>
-  <string name="id3_modify_confirm_check">Confirmer les modifications ID3 ?</string>
+  <string name="id3_modify_confirm_check">Confirmer</string>
   <string name="id3_modify_confirm_text">Enregistrer</string>
-  <string name="impunity_declaration_title">Déclaration</string>
+  <string name="impunity_declaration_title">Conditions d\'utilisation</string>
   <string name="impunity_declaration">Le service de musique en ligne que vous êtes sur le point d\'utiliser est propulsé par Baidu. Appuyez sur "Confirmer" pour accepter ses conditions d\'utilisations.</string>
   <string name="keep_quit_position_settings">Mémoriser la dernière position</string>
   <string name="keep_quit_position_summary">Restaurer la piste à la dernière position connue au redémarrage de l\'application</string>
@@ -174,8 +174,8 @@
   <string name="lyric_picker_not_found">Le gestionnaire de fichier est introuvable sur le périphérique</string>
   <string name="mediaplaybacklabel">Musique</string>
   <string name="mi_effect">MiEffets</string>
-  <string name="mi_effect_summary">"Toujours utiliser l'égaliseur MiSound lors l\'utilisation d'enceintes"</string>
-  <string name="mi_effect_title">"Utiliser l'égaliseur MiSound"</string>
+  <string name="mi_effect_summary">"Toujours utiliser l'égaliseur de son lors l'utilisation d'enceintes"</string>
+  <string name="mi_effect_title">"Utiliser l'égaliseur"</string>
   <string name="mobile_connect_settings">Réseau mobile</string>
   <string name="modify_id3_for_list">La liste actuelle des informations des musiques ID3 sera modifiée</string>
   <string name="modify_id3_for_selected">Les informations des musiques ID3 seront modifiées</string>
@@ -252,7 +252,7 @@
   <string name="sdcard_missing_message_nosdcard">Carte SD indisponible.</string>
   <string name="search_hint">Rechercher de la musique</string>
   <string name="search_settings_description">Artistes, albums et morceaux</string>
-  <string name="search_suggestion">Suggestions de recherche :</string>
+  <string name="search_suggestion">Suggestions de recherche</string>
   <string name="search_title">Rechercher</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_folder">Choix des dossiers</string>
@@ -358,12 +358,12 @@
   <string name="login_and_enable">Connexion et synchronisation</string>
   <string name="sync_disable_toast">Vous pouvez activer la synchronisation plus tard via Paramètres > Comptes > MiCloud</string>
   <string name="sync_enable_toast">Vous pouvez activer ce paramètre via Paramètres > Comptes > MiCloud</string>
-  <string name="collect_bill_success">Ajouté aux favoris</string>
+  <string name="collect_bill_success">Playlist ajoutée aux favoris</string>
   <string name="ktv_connected_alert_message">Les musiques sélectionnées seront ajoutées à la playlist \"Mon KTV\"</string>
   <string name="ktv_unbind_message">"Erreur, veuillez vous assurer que le code QR KTV soit correct"</string>
   <string name="impunity_declaration_ignore">Ne pas redemander</string>
-  <string name="impunity_declaration_settings">Notifier quand l\'accès au réseau est requis</string>
-  <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application</string>
+  <string name="impunity_declaration_settings">Afficher les conditions d\'utilisation</string>
+  <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application Musique</string>
   <string name="take_effect_afater_restart">L\'application doit être redémarrée pour que les nouveaux paramètres prennent effet</string>
   <string name="priority_storage">Télécharger sur la carte SD</string>
   <string name="priority_storage_summary">Télécharge en priorité sur la carte SD, si présente.</string>

@@ -298,6 +298,7 @@
   <string name="content_desc_send_sms">Envoyer un SMS</string>
   <string name="correct_yellow_page">Retour d\'expérience</string>
  <!-- à traduire éventuellement... pas utilisé/utilisable en france
+  <string name="nearby_average_price">Average %d RMB</string>
   <string name="group_name_service">Service</string>
   <string name="group_name_group_buying">Group buying</string>
   <string name="group_name_review">Reviews（%s total）</string>

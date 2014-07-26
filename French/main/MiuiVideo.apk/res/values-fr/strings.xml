@@ -138,7 +138,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="authenticated_failed">Authentification échouée</string>
   <string name="authenticating_manually">Échec de l\'authentification</string>
   <string name="no_login_xiaomi_account">Connectez-vous avec votre compte Mi pour commenter.</string>
-  <string name="xiaomi_account_type_unsupported">Le système ne supporte pas les comptes Xiaomi.</string>
+  <string name="xiaomi_account_type_unsupported">Ce système ne supporte pas les comptes Mi</string>
   <string name="all_specials">En vedette</string>
   <string name="clear_history">Effacer l\'historique</string>
   <string name="clear_cache">Effacer le cache image</string>
@@ -160,7 +160,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="cancel_select_all">Tout désélectionner</string>
   <string name="nologin_no_waitfornewset">Vous devez vous connecter pour suivre cette émission.</string>
   <string name="open_camera">Caméra</string>
-  <string name="sdcard_storage">Mémoire interne</string>
+  <string name="sdcard_storage">Carte SD</string>
   <string name="browse_devices">Parcourir…</string>
   <string name="disk_volume">Stockage amovible</string>
   <string name="unknown_source">Source inconnue</string>
@@ -177,7 +177,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="no_comment_tip">"Erreur, veuillez saisir un texte"</string>
   <string name="update_to_count_ji">%d épisodes disponibles</string>
   <string name="update_to_count_qi">%s saison(s) disponible(s)</string>
-  <string name="count_ji_quan">%d épisodes (complet)</string>
+  <string name="count_ji_quan">%d épisodes</string>
   <string name="year">" An(s) "</string>
   <string name="month">" mois "</string>
   <string name="day">" jour(s) "</string>
@@ -241,7 +241,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="button_film">Films</string>
   <string name="button_show">Variétés</string>
   <string name="button_sport">Sports</string>
-  <string name="button_information">Informations</string>
+  <string name="button_information">Infos</string>
   <string name="be_living_status">Live</string>
   <string name="jni_res_connect_error">Impossible de se connecter au réseau</string>
   <string name="no_subject">Aucun sujet</string>
@@ -271,7 +271,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="notshow_hidemedia">Ne pas afficher les fichiers masqués</string>
   <string name="addon_category">Addons</string>
   <string name="info_title">Information</string>
-  <string name="prex_playcount">lectures :</string>
+  <string name="prex_playcount">"Lu "</string>
   <string name="post_playcount">" fois"</string>
   <string name="priority_storage">Utiliser la carte SD externe</string>
   <string name="priority_storage_summary">Télécharger en priorité sur la carte SD externe</string>
