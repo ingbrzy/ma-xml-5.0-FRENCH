@@ -14,4 +14,14 @@
     <item>1 920 x 1 080 xhdpi</item>
     <item>1 280 x 720 tvdpi et 1 920 x 1 080 xhdpi</item>
   </string-array>
+  <string-array name="power_mode_entries">
+    <item>Mode performance</item>
+    <item>Mode normal (par défaut)</item>
+	<item>Mode économie d\'énergie</item>
+  </string-array>
+  <string-array name="power_dialog_cpu_state_items">
+    <item>Performances</item>
+    <item>Équilibré</item>
+	<item>Économique</item>
+  </string-array>
 </resources>
