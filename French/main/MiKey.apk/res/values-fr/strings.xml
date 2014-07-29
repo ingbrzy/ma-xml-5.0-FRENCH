@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <string name="app_name">MiKey</string>
     <string name="short_click_1">1x</string>
@@ -37,8 +37,8 @@
     <string name="category_app">Applications</string>
     <string name="category_system_settings">Paramètres système</string>
     <string name="action_close">Fermer</string>
-    <string name="delete_confirm">Confirmer la suppression ?</string>
-    <string name="delete_gesture">Confirmer la suppression ?</string>
+    <string name="delete_confirm">Confirmer la suppression ?</string>
+    <string name="delete_gesture">Confirmer la suppression ?</string>
     <string name="recommend">Recommandé</string>
     <string name="add">Ajouter</string>
     <string name="running_notification">MiKey</string>
@@ -53,7 +53,7 @@
     <string name="earphone">Écouteurs</string>
     <string name="select_device">Dispositif non détecté</string>
     <string name="times">clics</string>
-    <string name="rank_prefix">"Classement : "</string>
+    <string name="rank_prefix">"Classement : "</string>
     <string name="rank_suffix">" points"</string>
     <string name="no_usage">…</string>
     <string name="device_not_recognized">Erreur de reconnaissance, veuillez ré-insérer la MiKey</string>
@@ -83,7 +83,7 @@
     <string name="front_camera">Capteur frontal</string>
     <string name="back_camera">Capteur arrière</string>
     <string name="write_pic_fail">Erreur, impossible d\'enregistrer la photo</string>
-    <string name="task_title_prefix">"N) "</string>
+    <string name="task_title_prefix">%1$s) %2$s</string>
     <string name="action_zero_volume">Silencieux</string>
     <string name="settings">Paramètres</string>
     <string name="setting_feedback">Retour d\'expérience</string>
@@ -98,7 +98,7 @@
     <string name="setting_keeplive_desc">"Permettre à l\'application de s\'exécuter en arrière-plan.
 Peut augmenter la consommation de la batterie"</string>
     <string name="setting_vibrate_desc">"En retour, le téléphone émettra une vibration"</string>
- <!-- setting_vibrate_desc à retraduire : 
+ <!-- setting_vibrate_desc à retraduire : 
 "The ability to feel the implementation of the functions are not repeated to give vibration feedback 
 The feedback function can not be delivered, such as "flash shot", "Mute" is through the vibration 
 Feedback implementation. 
@@ -108,7 +108,7 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="file_delimiter">/</string>
     <string name="notification_control_play">Lire</string>
     <string name="notification_control_stop">Stop</string>
-    <string name="notification_recorder_file_location">Chemin d\'accès :</string>
+    <string name="notification_recorder_file_location">Chemin d\'accès :</string>
     <string name="notification_recorder_start">Démarrage de l\'enregistrement…</string>
     <string name="sdcard">Carte SD</string>
     <string name="setting_silent_mode">Mode silencieux</string>
@@ -146,7 +146,7 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="toolbox_outer_desc">Appuyez sur + ou sur une étape existante</string>
     <string name="action_open_mi_route">Liste des appareils</string>
     <string name="setting_silent_mode_default">Mode écouteurs</string>
-    <string name="setting_silent_mode_dust_cap">Bouchon anti-poussière (MiKey)</string>
+    <string name="setting_silent_mode_dust_cap">MiKey</string>
     <string name="setting_silent_mode_desc">Retirez la Mikey après avoir sélectionné le mode écouteur, car sinon vous n\'aurez plus de son.</string>
     <string name="showSlip">Afficher dans le menu déroulant</string>
     <string name="action_open_camera360_capture">Camera360 (effets)</string>
@@ -159,6 +159,20 @@ Users can use this switch to completely turn off the anti-vibration"
 Appui long pour en supprimer une.
 
 La barre d\'outils est accessible via le menu déroulant de la barre de notification."</string>
+    <string name="toggle_wifi">Wi-Fi</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_shake">Vibration</string>
+    <string name="toggle_ring">Sonnerie</string>
+    <string name="toggle_gps">GPS</string>
+    <string name="toggle_data">Donneés/string>
+    <string name="toggle_sleep">Veille</string>
+    <string name="toggle_bright">Luminosité</string>
+    <string name="toggle_flight">Mode avion</string>
+    <string name="toggle_nfc">NFC</string>
+    <string name="toast_open">Ouvrir</string>
+    <string name="toast_close">Fermer</string>
+    <string name="chooser_dust_cap">MiKey</string>
+
 <!-- à traduire : !! -->
   <string name="faq_comp_text">For MIUI and Xiaomi phones. The current version of MiKey is available at &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
   <string name="faq_comp_title">Supported devices</string>
