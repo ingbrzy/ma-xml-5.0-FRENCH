@@ -32,3 +32,12 @@ Thumbs.db
 *.log
 *.sql
 *.sqlite
+French/main/MiShop.apk/*
+
+French/main/GameCenter.apk/res/drawable-fr-xhdpi/new_update.png
+French/main/GameCenter.apk/res/drawable-fr-xhdpi/tag_installed.png
+French/main/Mipay.apk/res/values-fr/strings.xml
+French/main/BaiduNetworkLocation.apk/res/values-fr/strings.xml
+French/device/NX403A/StockSettings.apk/res/values-fr/strings.xml
+French/device/cancro/SVIService.apk/res/values/strings.xml
+French/device/cancro/xtra_t_app.apk/res/values/strings.xml

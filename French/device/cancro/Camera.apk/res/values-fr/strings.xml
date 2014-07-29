@@ -482,13 +482,13 @@
   <string name="wifi_security">Sécurité :</string>
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
-  <string name="pref_camera_ubi_focus_title">Ubi Focus</string>
+  <string name="pref_camera_ubi_focus_title">ReFocus</string>
   <string name="pref_camera_opti_zoom_title">Opti Zoom</string>
   <string name="pref_camera_chroma_flash_title">Chroma Flash</string>
-  <string name="simple_mode_button_text_ubi_focus">Quitter Ubi Focus</string>
+  <string name="simple_mode_button_text_ubi_focus">Quitter ReFocus</string>
   <string name="simple_mode_button_text_chroma_flash">Quitter Chroma Flash</string>
   <string name="simple_mode_button_text_opti_zoom">Quitter OptiZoom</string>
-  <string name="ubi_focus_exit_button_text">Quitter le mode Ubi Focus</string>
+  <string name="ubi_focus_exit_button_text">Quitter le mode ReFocus</string>
   <string name="chroma_flash_exit_button_text">Quitter le mode Chroma Flash</string>
   <string name="opti_zoom_exit_button_text">Quitter le mode OptiZoom</string>
   <string name="pref_camera_auto_opti_zoom_title">Opti Zoom quand le ratio est supérieur à 2</string>

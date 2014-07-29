@@ -482,9 +482,9 @@
   <string name="wifi_security">Sécurité :</string>
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
-  <string name="pref_camera_ubi_focus_title">Ubi Focus</string>
-  <string name="simple_mode_button_text_ubi_focus">Quitter Ubi Focus</string>
-  <string name="ubi_focus_exit_button_text">Quitter le mode Ubi Focus</string>
+  <string name="pref_camera_ubi_focus_title">ReFocus</string>
+  <string name="simple_mode_button_text_ubi_focus">Quitter ReFocus</string>
+  <string name="ubi_focus_exit_button_text">Quitter le mode ReFocus</string>
   <string name="pref_camera_auto_chroma_flash_title">Flash Chroma Auto</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
  <!-- à traduire
