@@ -507,7 +507,7 @@
   <string name="simple_mode_button_text_countdown">Quitter le compte à rebours</string>
   <string name="cannot_move_warning_message">Capture de la photo, ne bougez pas l\'appareil</string>
   <string name="object_track_enable_toast">"Faites glisser votre doigt sur l'écran de prévisualisation pour activer le suivi de l'objet."</string>
-  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre de l'objectif) et éloignés</string>
+  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre de l'objectif) et éloignés"</string>
   <string name="pref_touch_down_capture_title">Glisser bas pour capturer</string>
   <string name="burst_shoot_exit_button_text">Quitter le mode rafale</string>
   <string name="pref_burst_shoot_title">Mode rafale</string>
