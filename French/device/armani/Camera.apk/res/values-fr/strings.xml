@@ -482,9 +482,7 @@
   <string name="pref_video_4kuhd_title_simple_mode">Mode 4K </string>
   <string name="simple_mode_button_text_4kuhd">Quitter le mode 4K</string>
   <string name="simple_mode_button_text_countdown">Quitter le compte à rebours</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé./string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
   <string name="ubi_focus_capture_fail">Erreur, veuillez réessayer</string>
-  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre de l'objectif) et éloignés"</string>
-  
-  
+  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre de l'objectif) et éloignés"</string>  
 </resources>
