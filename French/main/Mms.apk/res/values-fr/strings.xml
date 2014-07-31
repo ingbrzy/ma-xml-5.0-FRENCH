@@ -503,6 +503,11 @@
   <string name="retrive_hms_tips">Réception en cours…</string>
   <string name="hms_first_use_tips">Pour recevoir des messages service, veuillez vous connecter à un réseau Wi-Fi</string>
   <string name="send_hms_editor_hints">Message Cloud</string>
+  <string name="share_img">Partager</string>
+  <string name="file_width_height">Dimensions :</string>
+  <string name="file_create_time">Date :</string>
+  <string name="file_size">Taille :</string>
+  <string name="file_title">Nom :</string>
   
  <!-- à traduire
   <string name="app_name">Device Management</string>

@@ -340,11 +340,6 @@
         <item>Délai de l\'ouverture de session écoulé, nouvelle tentative…</item>
         <item>Appareil connecté</item>
     </string-array>
-    <string-array name="power_mode_entries">
-        <item>Mode performance</item>
-        <item>Mode normal</item>
-        <item>Mode économie d\'énergie</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP ou antérieur</item>
         <item>Windows Vista ou ultérieur</item>
@@ -463,11 +458,6 @@ Vous pouvez maintenant transférer des fichiers"</item>
         <item>5 minutes</item>
         <item>10 minutes</item>
         <item>Jamais</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Performances</item>
-        <item>Équilibré</item>
-        <item>Économique</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Ne jamais vibrer</item>
@@ -644,5 +634,17 @@ Vous pouvez maintenant transférer des fichiers"</item>
   <string-array name="tethered_ipv6_entries">
     <item>IPv4</item>
     <item>IPv4 &amp; IPv6</item>
+  </string-array>
+  <string-array name="priority_storage_entries">
+    <item>Stockage interne</item>
+    <item>Stockage externe</item>
+  </string-array>
+  <string-array name="power_mode_entries">
+    <item>Mode performance</item>
+    <item>Mode normal (par défaut)</item>
+  </string-array>
+  <string-array name="power_dialog_cpu_state_items">
+    <item>Performances</item>
+    <item>Équilibré</item>
   </string-array>
 </resources>

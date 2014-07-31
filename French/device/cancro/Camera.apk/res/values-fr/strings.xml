@@ -167,7 +167,7 @@
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Appuyez sur le déclencheur pour commencer à prendre des photos panoramiques</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Restez stable lors du déplacement</string>
-  <string name="pano_how_to_use_prompt_to_move">Lors de la prise, essayez de garder le mouvement du téléphone stable</string>
+  <string name="pano_how_to_use_prompt_to_move">Déplacez l\'appareil horizontalement et en douceur</string>
   <string name="pano_review_saving_indication_str">Enregistrement…</string>
   <string name="pano_too_fast_prompt">Trop rapide</string>
   <string name="path">Chemin d\'accès</string>
@@ -377,9 +377,9 @@
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Qualité vidéo</string>
   <string name="pref_video_slow_speed_title_simple_mode">Slow-motion</string>
-  <string name="pref_video_speed_entry_fast">Lent</string>
+  <string name="pref_video_speed_entry_fast">Rapide</string>
   <string name="pref_video_speed_entry_normal">Normal</string>
-  <string name="pref_video_speed_entry_slow">Rapide</string>
+  <string name="pref_video_speed_entry_slow">Lent</string>
   <string name="pref_video_speed_title">Vitesse de la vidéo</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">0.3 seconde (10 fois)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">4 secondes (120 fois)</string>
@@ -482,20 +482,20 @@
   <string name="wifi_security">Sécurité :</string>
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
-  <string name="pref_camera_ubi_focus_title">Ubi Focus</string>
+  <string name="pref_camera_ubi_focus_title">ReFocus</string>
   <string name="pref_camera_opti_zoom_title">Opti Zoom</string>
   <string name="pref_camera_chroma_flash_title">Chroma Flash</string>
-  <string name="simple_mode_button_text_ubi_focus">Quitter Ubi Focus</string>
+  <string name="simple_mode_button_text_ubi_focus">Quitter ReFocus</string>
   <string name="simple_mode_button_text_chroma_flash">Quitter Chroma Flash</string>
   <string name="simple_mode_button_text_opti_zoom">Quitter OptiZoom</string>
-  <string name="ubi_focus_exit_button_text">Quitter le mode Ubi Focus</string>
+  <string name="ubi_focus_exit_button_text">Quitter le mode ReFocus</string>
   <string name="chroma_flash_exit_button_text">Quitter le mode Chroma Flash</string>
   <string name="opti_zoom_exit_button_text">Quitter le mode OptiZoom</string>
   <string name="pref_camera_auto_opti_zoom_title">Opti Zoom quand le ratio est supérieur à 2</string>
   <string name="confirm_enable_opti_zoom_message">Voulez-vous activer le mode Opti Zoom pour vos photos ?</string>
   <string name="enable_feature">Oui</string>
   <string name="not_enable_feature">Rappeler la prochaine fois</string>
-  <string name="pref_camera_auto_chroma_flash_title">Flash Chroma Auto</string>
+  <string name="pref_camera_auto_chroma_flash_title">Flash Chroma</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capture auto lorsque stable</string>
   <string name="ubi_focus_capture_fail">Erreur, veuillez réessayer.</string>
@@ -507,6 +507,13 @@
   <string name="simple_mode_button_text_countdown">Quitter le compte à rebours</string>
   <string name="cannot_move_warning_message">Capture de la photo, ne bougez pas l\'appareil</string>
   <string name="object_track_enable_toast">"Faites glisser votre doigt sur l'écran de prévisualisation pour activer le suivi de l'objet."</string>
-  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre de l'objectif) et éloignés</string>
+  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre de l'objectif) et éloignés"</string>
   <string name="pref_touch_down_capture_title">Glisser bas pour capturer</string>
+  <string name="burst_shoot_exit_button_text">Quitter le mode rafale</string>
+  <string name="pref_burst_shoot_title">Mode rafale</string>
+  
+  <!-- à traduire
+  <string name="pref_priority_storage_title">Priority saved to external SD card</string>
+  <string name="pref_long_press_shutter_button_focus_title">Long press Shutter button to focus</string>
+  -->
 </resources>

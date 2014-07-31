@@ -355,7 +355,7 @@
   <string name="emptyGroup">Ce groupe est vide</string>
   <string name="empty_divider_title">Vous pouvez :</string>
   <string name="enter_contact_name">Saisissez le nom du contact</string>
-  <string name="eventLabelsGroup">Événements</string>
+  <string name="eventLabelsGroup">Anniversaire</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">L\'export vers la carte SIM est terminé</string>
   <string name="export_sim_contact_finish_failure">Transféré : %1$d Restant : %2$d</string>
@@ -1150,4 +1150,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Téléchargement…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Échec, veuillez vérifier vos paramètres réseau.</string>
+  <!-- à traduire
+  <string name="yellowpage_navigation_search_result_average_price">Average %d RMB</string>
+  -->
 </resources>

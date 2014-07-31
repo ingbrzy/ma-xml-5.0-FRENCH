@@ -167,7 +167,7 @@
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Appuyez sur le déclencheur pour commencer à prendre des photos panoramiques</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Restez stable lors du déplacement</string>
-  <string name="pano_how_to_use_prompt_to_move">Lors de la prise, essayez de garder le mouvement du téléphone stable</string>
+  <string name="pano_how_to_use_prompt_to_move">Déplacez l\'appareil horizontalement et en douceur</string>
   <string name="pano_review_saving_indication_str">Enregistrement…</string>
   <string name="pano_too_fast_prompt">Trop rapide</string>
   <string name="path">Chemin d\'accès</string>
@@ -482,9 +482,9 @@
   <string name="wifi_security">Sécurité :</string>
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
-  <string name="pref_camera_ubi_focus_title">Ubi Focus</string>
-  <string name="simple_mode_button_text_ubi_focus">Quitter Ubi Focus</string>
-  <string name="ubi_focus_exit_button_text">Quitter le mode Ubi Focus</string>
+  <string name="pref_camera_ubi_focus_title">ReFocus</string>
+  <string name="simple_mode_button_text_ubi_focus">Quitter ReFocus</string>
+  <string name="ubi_focus_exit_button_text">Quitter le mode ReFocus</string>
   <string name="pref_camera_auto_chroma_flash_title">Flash Chroma Auto</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
  <!-- à traduire

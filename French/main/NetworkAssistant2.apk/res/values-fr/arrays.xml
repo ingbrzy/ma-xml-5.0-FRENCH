@@ -54,4 +54,8 @@
         <item>"Trafic Wi-Fi "</item>
         <item>"Données économisées "</item>
     </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Trafic mobile "</item>
+        <item>"Trafic Wi-Fi "</item>
+    </string-array>
 </resources>

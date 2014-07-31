@@ -136,7 +136,7 @@
   <string name="month_medium_december">Déc</string>
   <string name="month_view">Mois</string>
   <string name="monthly">Tous les mois</string>
-  <string name="monthly_on_day">Mensuel (le %s)</string>
+  <string name="monthly_on_day">Mensuel (même jour)</string>
   <string name="monthly_on_day_count">Mensuel (chaque %1$s %2$s)</string>
   <string name="more_string">+ %1$s</string>
   <string name="new_event_dialog_label">Nouvel événement</string>
@@ -219,6 +219,7 @@
   <string name="account_and_calendar">Compte et Calendrier</string>
   <string name="account_and_calendar_to_display">Compte et Calendrier à afficher</string>
   <string name="button_day">J</string>
+  <string name="button_week">S</string>
   <string name="button_month">M</string>
   <string name="default_reminder_mode">Mode de rappel par défaut</string>
   <string name="event_account">Compte</string>
@@ -258,7 +259,10 @@
   <string name="cta_notice_checkbox">Ne pas redemander</string>
   <string name="cta_notice_ok">Accepter</string>
   <string name="cta_notify_settings">Rappeler lors de l\'accès aux contacts</string>
-
+  <string name="text_year">Année</string>
+  <string name="week_view_today_toast">Semaine en cours</string>
+  <string name="alarm_label">OK</string>
+  <string name="edit_event_confirm_message">Ignorer les modifications de l\'événement ?</string>
 
  <!-- strings affichées uniquement si téléphone en chinois
   <string name="view_all_matches">查看所有赛程</string>
