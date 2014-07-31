@@ -136,7 +136,7 @@
   <string name="month_medium_december">Déc</string>
   <string name="month_view">Mois</string>
   <string name="monthly">Tous les mois</string>
-  <string name="monthly_on_day">Mensuel (le %s)</string>
+  <string name="monthly_on_day">Mensuel (même jour)</string>
   <string name="monthly_on_day_count">Mensuel (chaque %1$s %2$s)</string>
   <string name="more_string">+ %1$s</string>
   <string name="new_event_dialog_label">Nouvel événement</string>
@@ -262,6 +262,7 @@
   <string name="text_year">Année</string>
   <string name="week_view_today_toast">Semaine en cours</string>
   <string name="alarm_label">OK</string>
+  <string name="edit_event_confirm_message">Ignorer les modifications de l\'événement ?</string>
 
  <!-- strings affichées uniquement si téléphone en chinois
   <string name="view_all_matches">查看所有赛程</string>

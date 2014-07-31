@@ -1614,14 +1614,13 @@ sélectionnez le réseau préféré automatiquement"</string>
   <string name="ivr_menu_list_sub_menu_count_format">Appuyez sur %s</string>
   <string name="non_ivr_menu_view_menu">Afficher le menu</string>
   <string name="non_ivr_menu_collapse_menu">Masquer le menu</string>
+  <string name="fdn_contacts_empty_miui">Aucun contact dans la liste FDN.</string>
   <!-- à traduire
-  <string name="fdn_contacts_empty_miui">No contacts in FDN list.</string>
   <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
   <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
   <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
   <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
 "</string>
-
  -->
  </resources>

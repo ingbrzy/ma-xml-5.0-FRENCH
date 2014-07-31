@@ -347,4 +347,5 @@ Superflu"</string>
   <string name="operation_agree">Accepter</string>
   <string name="never_notify_network_connect">Ne pas redemander</string>
   <string name="connect_network_setting_des">Rappeler lors de l\'accès réseau</string>
+  <string name="folder_name_illegal">Nom de dossier incorrect</string>
 </resources>

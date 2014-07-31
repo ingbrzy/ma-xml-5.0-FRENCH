@@ -85,13 +85,19 @@
   <string name="one_month">Un mois</string>
   <string name="menu_all_task_pause">Tout mettre en pause</string>
   <string name="menu_all_task_start">Tout démarrer</string>
+  <string name="download_list_open_xl_ok">Ok</string>
+  <string name="download_list_open_xl_cancel">Annuler</string>
+  <string name="Only_the_wifi">Wi-Fi uniquement</string>
+  <string name="all_the_internet">Wi-Fi et réseaux mobiles</string>
+  <string name="download_list_open_xl_title">Accélérateur de téléchargement Xunlei</string>
+  <string name="download_list_intoAuthAlert">Veuillez patienter</string>
+  <string name="turn_off_xunlei_tips">Accélérateur Xunlei inactif</string>
+  <string name="download_list_get_hightspeed_flow_auto_open">Accélérateur  Xunlei actif</string>
 <!-- à traduire
     <string name="download_list_get_free_vip">Xunlei trial</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei trial session created</string>
     <string name="download_list_get_hightspeed_flow_sucess_tail">Enjoy faster download speeds powered by Xunlei</string>
     <string name="download_list_get_hightspeed_flow_pay_ok">Payment complete.</string>
-    <string name="download_list_get_hightspeed_flow_auto_open">Xunlei download acceleration is on</string>
-    <string name="turn_off_xunlei_tips">Xunlei download acceleration is off</string>
     <string name="auth_activity_title">Xunlei account</string>
     <string name="xunlei_speed_service">Xunlei speed up service</string>
     <string name="open_xunlei_speed_service">Open Xunlei speed up service</string>
@@ -108,16 +114,10 @@
     <string name="mi_money_">mi_money)</string>
     <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
     <string name="xunlei_member_annual_fee">Xunlei member for one year(platinum)</string>
-    <string name="Only_the_wifi">Only effective under the wifi</string>
-    <string name="all_the_internet">All network</string>
     <string name="get_order_fail_msg">Get Order Fail</string>
     <string name="get_order_dialog_msg">Getting Order Info</string>
     <string name="get_account_dialog_msg">Getting Account Info</string>
-    <string name="download_list_open_xl_title">Open xunlei download engine</string>
-    <string name="download_list_open_xl_message">Open xunlei download engine，Unlimited high-speed download service immediately。</string>
-    <string name="download_list_open_xl_ok">Determine</string>
-    <string name="download_list_open_xl_cancel">Cancle</string>
     <string name="download_list_intoAuth">Are entering miui authorization page</string>
-    <string name="download_list_intoAuthAlert">Please wait</string>
+    <string name="download_list_open_xl_message">Open xunlei download engine, unlimited high-speed download service immediately.</string>
   -->
 </resources>

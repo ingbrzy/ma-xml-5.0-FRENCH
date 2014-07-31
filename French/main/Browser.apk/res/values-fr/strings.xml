@@ -759,4 +759,6 @@
   <string name="cloud_sync_failed_toast">La synchronisation a échouée, veuillez ressayer plus tard</string>
   <string name="cloud_sync_closed_toast">Synchronisation avec le cloud impossible, veuillez l\'activer via les paramètres</string>
   <string name="close_cloud_tab_tip">Fermer les onglets sur %s ?</string>
+  <string name="bookmarks_history">Favoris/Historique</string>
+  <string name="delete_homepage">Supprimer la page d\'accueil</string>
 </resources>

@@ -542,6 +542,9 @@
   <string name="confirm_delete_init_message">Les photos seront supprimées de cet appareil et de votre espace MiCloud. Si vous voulez les supprimer uniquement localement, veuillez le faire via l\'onglet Local.</string>
   <string name="priority_storage">Utiliser la carte SD externe</string>
   <string name="priority_storage_summary">Télécharger en priorité sur la carte SD externe</string>
+  <string name="crop_recognize_text">Détecter</string>
+  <string name="crop_save_text_setas">Appliquer</string>
+  <string name="recognizing_image">Analyse de l\'image…</string>
  <!-- à traduire
   <string name="long_press_to_refocus">Keep pressing to refocus</string>
   <string name="item_not_sync_for_refocus_data">Cette image n\'a pas été synchronisée avec le cloud, its refocus data can not be downloaded</string>
