@@ -79,7 +79,7 @@
   <string name="legal_workday">Jours ouvrés</string>
   <string name="legal_workday_invalidate">Données expirées (Actuellement l\'alarme sonne de lun. à ven.)</string>
   <string name="legal_workday_invalidate_message">(Données expirées, mettre à jour dans les Paramètres)</string>
-  <string name="legal_workday_message">" (Alarme désactivée pendant les vacances)"</string>
+  <string name="legal_workday_message">" (Pas pendant les vacances)"</string>
   <string name="loading_ringtone">Chargement de la sonnerie…</string>
   <string name="menu_add_worldclock">Nouveau fuseau</string>
   <string name="menu_desk_clock">Horloge de bureau</string>
