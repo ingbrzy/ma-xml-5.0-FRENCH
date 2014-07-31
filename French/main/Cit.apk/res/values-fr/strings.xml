@@ -25,7 +25,7 @@
   <string name="cit_blue_tooth_scan_check_summary">Le test affichera une liste de tous les périphériques Bluetooth disponibles</string>
   <string name="cit_blue_tooth_scan_check_title">Test de l\'analyse Bluetooth</string>
   <string name="cit_bluetooth_address_open_error">Impossible d\'obtenir les informations d\'adresse Bluetooth</string>
-  <string name="cit_bluetooth_not_support">Le téléphone ne supporte pas de périphérique Bluetooth</string>
+  <string name="cit_bluetooth_not_support">Cet appareil ne supporte pas le Bluetooth</string>
   <string name="cit_bluetooth_scan_retry">Rescanner</string>
   <string name="cit_bluetooth_scanning">Recherche de périphériques Bluetooth…</string>
   <string name="cit_bluetooth_scanning_bluetooth_done">Scan terminé</string>
@@ -273,6 +273,7 @@
   <string name="cit_tool_nfc_st_run">Exécuter</string>
   <string name="cit_tool_nfc_st_stop">Arrêter</string>
  <!-- à traduire
+  <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>

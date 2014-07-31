@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- à traduire :
+    <string-array name="ztouch_photo_select_warning">
+        <item>Only one photo could be selected!</item>
+        <item>2 photos have been selected!</item>
+        <item>3 photos have been selected!</item>
+        <item>4 photos have been selected!</item>
+    </string-array>
+    <string-array name="cluster_items">
+        <item>Personal Life</item>
+        <item>Animals or Pets</item>
+        <item>Street Snap</item>
+        <item>LOMO</item>
+        <item>Others</item>
+    </string-array>
+ -->
+</resources>

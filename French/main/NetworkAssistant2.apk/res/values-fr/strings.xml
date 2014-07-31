@@ -3,7 +3,7 @@
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
     <string name="main_toolbar_saving">Compression</string>
-    <string name="traffic_saving_tecsupport">Propulsé par Oupeng</string>
+    <string name="traffic_saving_tecsupport">Propulsé par Opera Max</string>
     <string name="traffic_saving_notify_start_title">Compression des données</string>
     <string name="traffic_saving_notify_start_content">%s économisés ce mois-ci</string>
     <string name="traffic_saving_toast_start_mobile">Compression des données activée</string>
@@ -14,12 +14,11 @@
     <string name="traffic_saving_button_start">Activer</string>
     <string name="traffic_saving_button_stop">Désactiver</string>
     <string name="traffic_saving_button_sorted">Détails</string>
-    <string name="traffic_saving_msg_today">Aujourd\'hui :</string>
-    <string name="traffic_saving_msg_month">Ce mois-ci : %1$s</string>
+    <string name="traffic_saving_button_sorted_chose_simcard">Sélectionner la SIM</string>
+    <string name="traffic_saving_msg_today">Économisé aujourd\'hui :</string>
+    <string name="traffic_saving_msg_month">Économisé ce mois :</string>
     <string name="traffic_saving_history_title">Historique</string>
     <string name="traffic_saving_history_total_traffic">Données économisées</string>
-    <string name="traffic_saving_history_total_money">Montant économisé</string>
-    <string name="traffic_saving_history_total_money_unit">¥</string>
     <string name="pref_traffic_saving_title">Paramètres d\'économie des données</string>
     <string name="pref_traffic_saving_switch">Compresser les données</string>
     <string name="pref_traffic_saving_switch_hint">Permet d\'économiser des données grâce à la compression</string>
@@ -231,6 +230,27 @@ Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
     <string name="traffic_config_alert_cancel">Annuler</string>
     <string name="traffic_config_alert_nomore">Ne pas redemander</string>
     <string name="traffic_config_alert_setted">Limite définie</string>
+    <string name="mi_service_app_detail">Détails usage des données</string>
+    <string name="mi_service_framework">Framework Mi</string>
+    <string name="mi_service_traffic_detail">Détails Framework</string>
+    <string name="none_mi_service_app_detail">Vide</string>
+    <string name="pref_traffic_saving_whitelist">Exceptions</string>
+    <string name="pref_traffic_saving_whitelist_hint">L\'utilisation des données de ces applis de sera pas restreint</string>
+    <string name="traffic_saving_history_total_money">Économisé</string>
+    <string name="traffic_saving_history_total_money_unit">RMB</string>
+    <string name="traffic_saving_history_total_month">"Économisé ce mois-ci : "</string>
+    <string name="traffic_saving_history_total_month_default">"Moyenne économies mensuelles : "</string>
+    <string name="traffic_saving_history_total_month_value">"Listen to &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; songs / Chat for &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hours / Read &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
+    <string name="traffic_saving_history_total_month_value_default">"Listen to &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; songs / Chat for &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hours / Read &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
+    <string name="traffic_saving_history_total_rate">Taux</string>
+    <string name="traffic_saving_whitelist_btn_add">Ajouter</string>
+    <string name="traffic_saving_whitelist_btn_add_app">Ajouter</string>
+    <string name="traffic_saving_whitelist_btn_added">Ajouté à la liste</string>
+    <string name="traffic_saving_whitelist_btn_remove">Supprimer</string>
+    <string name="traffic_saving_whitelist_btn_removed">Supprimé de la liste</string>
+    <string name="traffic_saving_whitelist_count">L\'utilisation des données de %s applis de sera pas restreint</string>
+    <string name="traffic_saving_whitelist_no_app">Aucune application</string>
+
 
   <!-- à revoir , creux d'usage ? -->
     <string name="free_time_traffic_settings">Paramètres du creux d\'usage des données</string>
@@ -242,37 +262,37 @@ Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
  --> 
 
  <!-- à traduire utilisé seulement si téléphone en chinois ?
-  <string name="traffic_config_alert_title">%s difference</string>
-  <string name="traffic_config_alert_body">"Your carrier's data usage accounting shows you have %s remaining.
+      <string name="traffic_config_alert_title">%s difference</string>
+      <string name="traffic_config_alert_body">"Your carrier's data usage accounting shows you have %s remaining.
 Do you want to update your local data usage limit?"</string>
-  <string name="traffic_config_alert_body_normal">"
+      <string name="traffic_config_alert_body_normal">"
 Your carrier's data usage accounting shows you have %1$s of peak usage remaining. This is different from the %2$s limit you've set locally."</string>
-  <string name="traffic_config_alert_body_leisure">"
+      <string name="traffic_config_alert_body_leisure">"
 Your carrier's data usage accounting shows you have %1$s of off-peak usage remaining. This is different from the %2$s limit you've set locally."</string>
-  <string name="traffic_config_alert_body_leisure_notset">"
+      <string name="traffic_config_alert_body_leisure_notset">"
 Your carrier's data usage accounting shows you have %1$s of off-peak usage remaining. You haven't set a limit."</string>
-  <string name="datausage_purchase_title_pkglist">Buy data</string>
-  <string name="datausage_purchase_title_confirm">Purchase details</string>
-  <string name="datausage_purchase_title_order">Buy data</string>
-  <string name="datausage_purchase_banner_title">"You're %s over your limit"</string>
-  <string name="datausage_purchase_view_detail">View details</string>
-  <string name="datausage_purchase_buy">Buy</string>
-  <string name="datausage_purchase_pay_confirm">Pay</string>
-  <string name="datausage_purchase_pay_hint">To cancel call %s</string>
-  <string name="datausage_purchase_pay_captcha_hint">Enter verification code</string>
-  <string name="datausage_purchase_pay_captcha_tips">"After you've entered your verification code tap Pay. You'll receive a confirmation within 10 minutes."</string>
-  <string name="datausage_purchase_get_captcha">Get verification code(%d)</string>
-  <string name="datausage_purchase_get_captcha_again">Send again</string>
-  <string name="datausage_purchase_get_captcha_failed">"Can't get verification code. Check your data connection and try again."</string>
-  <string name="datausage_purchase_confirm_tip">Order:</string>
-  <string name="datausage_purchase_ordering">Purchasing…</string>
-  <string name="datausage_purchase_result_ok">"You purchased %s
+      <string name="datausage_purchase_title_pkglist">Buy data</string>
+      <string name="datausage_purchase_title_confirm">Purchase details</string>
+      <string name="datausage_purchase_title_order">Buy data</string>
+      <string name="datausage_purchase_banner_title">"You're %s over your limit"</string>
+      <string name="datausage_purchase_view_detail">View details</string>
+      <string name="datausage_purchase_buy">Buy</string>
+      <string name="datausage_purchase_pay_confirm">Pay</string>
+      <string name="datausage_purchase_pay_hint">To cancel call %s</string>
+      <string name="datausage_purchase_pay_captcha_hint">Enter verification code</string>
+      <string name="datausage_purchase_pay_captcha_tips">"After you've entered your verification code tap Pay. You'll receive a confirmation within 10 minutes."</string>
+      <string name="datausage_purchase_get_captcha">Get verification code(%d)</string>
+      <string name="datausage_purchase_get_captcha_again">Send again</string>
+      <string name="datausage_purchase_get_captcha_failed">"Can't get verification code. Check your data connection and try again."</string>
+      <string name="datausage_purchase_confirm_tip">Order:</string>
+      <string name="datausage_purchase_ordering">Purchasing…</string>
+      <string name="datausage_purchase_result_ok">"You purchased %s
 See the message sent by your service provider for more info."</string>
-  <string name="datausage_purchase_result_failed">"Can't complete purchase"</string>
-  <string name="datausage_purchase_backto_ns">Back</string>
-  <string name="datausage_purchase_goto_monthsetting">Readjust data limit</string>
-  <string name="datausage_purchase_pkglist_nodata">"There's a conflict with your existing data plan and your current order. Contact your service provider for more information."</string>
-  <string name="datausage_purchase_pkglist_networkerror">"Can't connect to the network. Check your data connection and try again."</string>
-  <string name="datausage_purchase_pkglist_servererror">Server error</string>
+      <string name="datausage_purchase_result_failed">"Can't complete purchase"</string>
+      <string name="datausage_purchase_backto_ns">Back</string>
+      <string name="datausage_purchase_goto_monthsetting">Readjust data limit</string>
+      <string name="datausage_purchase_pkglist_nodata">"There's a conflict with your existing data plan and your current order. Contact your service provider for more information."</string>
+      <string name="datausage_purchase_pkglist_networkerror">"Can't connect to the network. Check your data connection and try again."</string>
+      <string name="datausage_purchase_pkglist_servererror">Server error</string>
 -->
 </resources>

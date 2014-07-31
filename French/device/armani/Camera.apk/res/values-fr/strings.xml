@@ -167,7 +167,7 @@
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Appuyez sur le déclencheur pour commencer à prendre des photos panoramiques</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Restez stable lors du déplacement</string>
-  <string name="pano_how_to_use_prompt_to_move">Lors de la prise, essayez de garder le mouvement du téléphone stable</string>
+  <string name="pano_how_to_use_prompt_to_move">Déplacez l\'appareil horizontalement et en douceur</string>
   <string name="pano_review_saving_indication_str">Enregistrement…</string>
   <string name="pano_too_fast_prompt">Trop rapide</string>
   <string name="path">Chemin d\'accès</string>
@@ -203,7 +203,7 @@
   <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
   <string name="pref_camera_coloreffect_entry_planet">Petit monde</string>
   <string name="pref_camera_coloreffect_entry_mirror">Miroir</string>
-  <string name="pref_camera_coloreffect_entry_gaussianblur">Flou gaussien</string>
+  <string name="pref_camera_coloreffect_entry_gaussianblur">Flou</string>
   <string name="pref_camera_coloreffect_entry_negative"/>
   <string name="pref_camera_coloreffect_entry_none">Aucun</string>
   <string name="pref_camera_coloreffect_entry_posterize"/>
@@ -214,8 +214,6 @@
   <string name="pref_camera_default_suffix">" (par défaut)"</string>
   <string name="pref_camera_denoise_title">Mode de débruitage d\'ondelettes</string>
   <string name="pref_camera_exposuretime_title">"Durée d'exposition"</string>
-  <string name="pref_camera_facedetection_entry_off">Désactivé</string>
-  <string name="pref_camera_facedetection_entry_on">Activé</string>
   <string name="pref_camera_facedetection_title">Détection de visage</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Désactivé</string>
@@ -257,8 +255,6 @@
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Focus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Prise en rafale</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Action du déclencheur</string>
-  <string name="pref_camera_movie_solid_entry_off">Désactivé</string>
-  <string name="pref_camera_movie_solid_entry_on">Activé</string>
   <string name="pref_camera_movie_solid_title">Film solide</string>
   <string name="pref_camera_multilevel_entry_high">Plus que normal</string>
   <string name="pref_camera_multilevel_entry_higher">Élevé</string>
@@ -287,8 +283,6 @@
   <string name="pref_camera_redeyereduction_entry_disable">Désactiver</string>
   <string name="pref_camera_redeyereduction_entry_enable">Activer</string>
   <string name="pref_camera_redeyereduction_title">Réduction des yeux rouges</string>
-  <string name="pref_camera_referenceline_entry_off">Désactivé</string>
-  <string name="pref_camera_referenceline_entry_on">Activé</string>
   <string name="pref_camera_referenceline_title">Ligne de référence</string>
   <string name="pref_camera_saturation_title">Saturation</string>
   <string name="pref_camera_scenedetect_title">Détection de scène automatique</string>
@@ -317,11 +311,7 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Désactiver</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activer</string>
   <string name="pref_camera_skinToneEnhancement_title">Amélioration de la teinte de peau</string>
-  <string name="pref_camera_sound_entry_off">Désactivé</string>
-  <string name="pref_camera_sound_entry_on">Activé</string>
   <string name="pref_camera_sound_title">Son de l\'appareil photo</string>
-  <string name="pref_camera_sound_title_entry_off">Désactivé</string>
-  <string name="pref_camera_sound_title_entry_on">Activé</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>
   <string name="pref_camera_touchafaec_title">Mise au point tactile</string>
@@ -350,8 +340,6 @@
   <string name="pref_camera_zsl_entry_off">Désactivé</string>
   <string name="pref_camera_zsl_entry_on">Activé (Max 1M Pixels)</string>
   <string name="pref_camera_zsl_title">ZSL</string>
-  <string name="pref_captrue_mirror_entry_off">Désactivé</string>
-  <string name="pref_captrue_mirror_entry_on">Activé</string>
   <string name="pref_captrue_mirror_title">Miroir caméra frontale</string>
   <string name="pref_exposure_title">Exposition</string>
   <string name="pref_grp_advanced_settings">Paramètres avancés</string>
@@ -359,8 +347,6 @@
   <string name="pref_grp_picture_settings">Paramètres d\'image</string>
   <string name="pref_grp_restore_settings">Restaurer les paramètres</string>
   <string name="pref_manual_exposure_title">Exposition manuelle</string>
-  <string name="pref_scan_qrcode_entry_off">Désactivé</string>
-  <string name="pref_scan_qrcode_entry_on">Activé</string>
   <string name="pref_scan_qrcode_title">Scanner code QR</string>
   <string name="pref_setting_title">Paramètres</string>
   <string name="pref_settings_mode">Mode caméra</string>
@@ -484,9 +470,19 @@
   <string name="wifi_security">Sécurité :</string>
   <string name="wifi_ssid">SSID :</string>
   <string name="wifi_warning">Veuillez vérifier la sécurité avant de vous connecter à ce réseau Wi-Fi</string>
-  <string name="pref_camera_ubi_focus_title">Ubi Focus</string>
-  <string name="simple_mode_button_text_ubi_focus">Quitter Ubi Focus</string>
-  <string name="ubi_focus_exit_button_text">Quitter le mode Ubi Focus</string>
+  <string name="pref_camera_ubi_focus_title">ReFocus</string>
+  <string name="simple_mode_button_text_ubi_focus">Quitter le mode ReFocus</string>
+  <string name="ubi_focus_exit_button_text">Quitter le mode ReFocus</string>
   <string name="pref_camera_auto_chroma_flash_title">Flash Chroma Auto</string>
   <string name="pref_touch_down_capture_title">Glisser bas pour capturer</string>
+  <string name="cannot_move_warning_message">Capture de la photo, ne bougez pas l\'appareil</string>
+  <string name="object_track_enable_toast">"Faites glisser votre doigt sur l'écran de prévisualisation pour activer le suivi de l'objet."</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Capture auto lorsque stable</string>
+  <string name="pref_camera_countdown_title">Compte à rebours</string>
+  <string name="pref_video_4kuhd_title_simple_mode">Mode 4K </string>
+  <string name="simple_mode_button_text_4kuhd">Quitter le mode 4K</string>
+  <string name="simple_mode_button_text_countdown">Quitter le compte à rebours</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
+  <string name="ubi_focus_capture_fail">Erreur, veuillez réessayer</string>
+  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre de l'objectif) et éloignés"</string>  
 </resources>

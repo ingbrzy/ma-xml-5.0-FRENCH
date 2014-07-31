@@ -39,7 +39,7 @@
 ** HTC **
 
 * ace: HTC Desire HD jb-4.2
-* endeavoru: HTC One X jb-4.1
+* endeavoru: HTC One X jb-4.1 & kk-4.4
 * leo: HTC Touch HD2 jb-4.2
 * m7: HTC One jb-4.2
 * pyramid: HTC Sensation jb-4.2
@@ -52,6 +52,7 @@
 ** SONY **
 
 * anzu: Sony Xperia Arc S jb-4.1
+* c6903: Sony Xperia Z1 kk 4.4
 * haida: Sony Xperia Neo V jb-4.1
 * LT30: Sony Xperia T jb-4.1
 * L36h: Sony Xperia Z jb-4.2

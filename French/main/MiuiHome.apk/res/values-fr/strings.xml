@@ -2,6 +2,8 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+ <!-- supprimé 4.7.11 -->
+  <string name="status_bar_toggle_power_low">Économie d\'énergie</string>
  <!-- removed in 4.6.20 -->
   <string name="default_shortcut_title_10086">google.fr</string>
  <!-- removed in 4.5.8 -->
@@ -204,7 +206,6 @@
   <string name="status_bar_toggle_sync_auto">Synchro automatique</string>
   <string name="status_bar_toggle_sync_manual">Synchro manuelle</string>
   <string name="status_bar_toggle_syncing">Synchroniser</string>
-  <string name="status_bar_toggle_power_low">Économie d\'énergie</string>
   <string name="status_bar_toggle_power_mid">Normal</string>
   <string name="status_bar_toggle_power_high">Performance</string>
   <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillée en mode paysage</string>

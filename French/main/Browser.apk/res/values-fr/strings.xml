@@ -249,7 +249,7 @@
   <string name="copy_link">Copier le lien</string>
   <string name="create_shortcut_bookmark">Créer un raccourci sur la page d\'accueil</string>
   <string name="delete">Supprimer</string>
-  <string name="delete_bookmark">Supprimer le favori</string>
+  <string name="delete_bookmark">Suppr. le favori</string>
   <string name="delete_bookmark_warning">Supprimer le favori \"%s\" ?</string>
   <string name="delete_folder">Supprimer le dossier</string>
   <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
@@ -498,7 +498,7 @@
   <string name="pref_security_save_form_data_summary">Mémoriser les données saisies dans les formulaires pour les réutiliser</string>
   <string name="pref_security_show_security_warning">Avertissement de sécurité</string>
   <string name="pref_security_show_security_warning_summary">"Afficher un avertissement en cas de problème de sécurité d'un site"</string>
-  <string name="pref_set_homepage_to">Définir sur</string>
+  <string name="pref_set_homepage_to">Adresse Web</string>
   <string name="pref_setting_title">Paramètres de pagination</string>
   <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
   <string name="pref_ua_string">Choisir l\'User agent</string>
@@ -546,7 +546,7 @@
   <string name="same_bookmarks_warning">Ce favori existe déjà</string>
   <string name="same_folder_name_warning">Ce dossier existe déjà</string>
   <string name="save">Enregistrer</string>
-  <string name="save_bookmark">Ajouter aux favoris</string>
+  <string name="save_bookmark">+ favoris</string>
   <string name="save_dialog_title">Sauvegarder</string>
   <string name="save_file_already_exist_alert_message">Le fichier existe déjà, voulez-vous le remplacer ?</string>
   <string name="save_file_already_exist_alert_title">Le fichier existe !</string>
@@ -560,7 +560,7 @@
   <string name="security_warning">Avertissement de sécurité</string>
   <string name="select_dot">Sélectionner le texte</string>
   <string name="send_bookmark_to_home_screen">Ajouter à l\'écran d\'accueil</string>
-  <string name="send_to_popular">Ajouter aux liens rapides</string>
+  <string name="send_to_popular">+ liens rapides</string>
   <string name="set_as_homepage">Définir comme page d\'accueil</string>
   <string name="share_link">Partager le lien</string>
   <string name="share_page">Partager la page</string>
@@ -748,7 +748,7 @@
   <string name="pref_content_brightness_setting">Paramètres de luminosité</string>
   <string name="enter_developer_mode">Mode développeur</string>
   <string name="miui_autologin_bar_title">Se connecter avec le compte système</string>
-  <string name="account_prifix">Compte :</string>
+  <string name="account_prifix">"Compte : "</string>
   <string name="miui_autologin_bar_error">Impossible de se connecter, veuillez réessayer.</string>
   <string name="pref_adblock_title">Adblock</string>
   <string name="pref_enable_adblock_notification">Notification Adblock</string>
@@ -756,4 +756,9 @@
   <string name="pref_adblock_counts">Total : %d publicités bloquées</string>
   <string name="pref_clear_adblock_statistics_dlg">Réinitialiser le compteur ?</string>
   <string name="adblock_notification">%d publicités bloquées</string>
+  <string name="cloud_sync_failed_toast">La synchronisation a échouée, veuillez ressayer plus tard</string>
+  <string name="cloud_sync_closed_toast">Synchronisation avec le cloud impossible, veuillez l\'activer via les paramètres</string>
+  <string name="close_cloud_tab_tip">Fermer les onglets sur %s ?</string>
+  <string name="bookmarks_history">Favoris/Historique</string>
+  <string name="delete_homepage">Supprimer la page d\'accueil</string>
 </resources>

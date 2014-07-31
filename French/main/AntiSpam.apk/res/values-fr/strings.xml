@@ -234,7 +234,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="Call_DEFAULT">Liste noire partagée</string>
  <!-- -->
   <string name="PAST_BLOCK">Précédemment bloqué</string>
-  <string name="AD_AntiSpam">Bloquer les sollicitations</string>
+  <string name="AD_AntiSpam">Bloquer les adwares</string>
   <string name="AD_SCANNING">Analyse en cours…</string>
   <string name="AD_BLOCK_ALL">Tout bloquer</string>
   <string name="AD_SCAN_BUTTON">Analyser</string>
@@ -243,16 +243,16 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="AD_COUNT">%d adwares</string>
   <string name="AD_TITLE_COUNT">%d applications contiennent des adwares</string>
   <string name="AD_TITLE_NON_COUNT">Aucun adware détecté</string>
-  <string name="AD_BLOCK">Bloquer les sollicitations</string>
-  <string name="AD_ALLOW">Autoriser les sollicitations</string>
+  <string name="AD_BLOCK">Bloquer les adwares</string>
+  <string name="AD_ALLOW">Autoriser les adwares</string>
   <string name="AD_Unistall">Désinstaller</string>
   <string name="AD_APPInfo">Informations sur l\'application</string>
   <string name="AD_Info">Information publicitaire</string>
   <string name="AD_Info_Hint">Les adwares sont utilisés par des entreprises pour afficher des publicités sur votre appareil.</string>
   <string name="ad_relative_setting">Paramètres en relation</string>
-  <string name="ad_install_monitor">Installer le moniteur</string>
-  <string name="ad_install_monitor_hint">vérifier la présence de adwares lors de l\'installation d\'applications</string>
-  <string name="ad_update_setting">Mettre à jour les paramètres d\'ajouts de blocage</string>
+  <string name="ad_install_monitor">Moniteur d\'installations</string>
+  <string name="ad_install_monitor_hint">Vérifie la présence de adwares. Peut réduire les performance de l\'application ou l\'empêcher de fonctionner correctement.</string>
+  <string name="ad_update_setting">Mettre à jour</string>
   <string name="menu_wh_remove">Supprimer de la liste blanche</string>
   <string name="NACaddnumcontent">Saisir le numéro</string>
   <string name="ACaddnumcontent">Saisissez le numéro, vous pouvez utilisez le joker *</string>
@@ -262,6 +262,12 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="ad_block_hint">Bloqués : %d</string>
   <string name="ad_single_block_hint">Bloqué</string>
   <string name="ad_permission_hint">L\'utilisation d\'un bloqueur de publicités peut impacter les performances de l\'application ou l\'empêcher de fonctionner correctement"</string>
+  <string name="report">Rapport</string>
+  <string name="report_error">Merci, le rapport sera uploadé automatiquement lorsque vous serez connecté à un réseau Wi-Fi</string>
+  <string name="report_only">Veuillez sélectionner au moins un message</string>
+  <string name="report_sms">Message</string>
+  <string name="report_success">Rapport envoyé</string>
+  
   <!-- armani ? -->
   <string name="sim_not_ready">Carte SIM non prête</string>
   <string name="st_title_back_sound_unsetting">Aucun</string>

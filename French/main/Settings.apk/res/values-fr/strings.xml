@@ -290,7 +290,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="battery_info_scale_label">Batterie :</string>
   <string name="battery_info_screen_on">Écran activé :</string>
   <string name="battery_info_status_charging">Batterie en charge</string>
-  <string name="battery_info_status_charging_ac">(Secteur)</string>
+  <string name="battery_info_status_charging_ac">(secteur)</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
   <string name="battery_info_status_charging_wireless">(sans fil)</string>
   <string name="battery_info_status_discharging">N\'est pas en charge</string>
@@ -698,7 +698,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="date_time_12_hour_sample">01:00 PM</string>
   <string name="date_time_24_hour_sample">13:00</string>
   <string name="date_time_24hour">Utiliser le format 24h</string>
-  <string name="date_time_auto">Date/Heure automatiques</string>
+  <string name="date_time_auto">Date/Heure automatique</string>
   <string name="date_time_auto_summaryOff">Utiliser la date et l\'heure fournies par le réseau</string>
   <string name="date_time_auto_summaryOn">Utiliser la date et l\'heure fournies par le réseau</string>
   <string name="date_time_date_format">Choisir le format de la date</string>
@@ -746,7 +746,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="device_info_label">Informations sur l\'appareil</string>
   <string name="device_info_not_available">Non disponible</string>
   <string name="device_info_settings">État du téléphone</string>
-  <string name="device_internal_memory">Mémoire Interne</string>
+  <string name="device_internal_memory">Mémoire interne</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">Version MIUI</string>
   <string name="device_name">Nom de l\'appareil</string>
@@ -754,7 +754,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="device_name_input_hint">Entrez le nom du périphérique</string>
   <string name="device_name_usage_point">Autoriser l\'appareil à être découvert par d\'autres périphériques Bluetooth afin de permettre le transfert de fichiers et autres.</string>
   <string name="device_picker">Sélecteur d\'appareil Bluetooth</string>
-  <string name="device_sd_memory">Carte SD :</string>
+  <string name="device_sd_memory">Carte SD</string>
   <string name="device_status">État</string>
   <string name="device_status_activity_title">État</string>
   <string name="device_status_summary">Numéro de téléphone, signal, etc.</string>
@@ -776,6 +776,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition de l\'écran</string>
   <string name="disable_power_key_long_press_under_keyguard">Désactiver le bouton d\'arrêt</string>
   <string name="disable_text">Désactiver</string>
+  <string name="disabled">Désactivée</string>
   <string name="display_font_size_label">Taille de police :</string>
   <string name="display_label">Écran</string>
   <string name="display_order_text">Trier par :</string>
@@ -1105,7 +1106,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="location_neighborhood_level">Autoriser l\'envoi anonyme d\'informations de localisation à Google. Permet aussi aux applications autorisées d\'utiliser les données du Wi-Fi ou des réseaux mobiles afin de déterminer votre position approximative.</string>
   <string name="location_neighborhood_level_wifi">Position déterminée par le Wi-Fi</string>
   <string name="location_network_based">Localis. via Wi-Fi et réseaux mobiles</string>
-  <string name="location_settings_title">Services de localisation</string>
+  <string name="location_settings_title">Localisation</string>
   <string name="location_sources_heading">Sources de localisation</string>
   <string name="location_street_level">Autoriser les applications à utiliser le GPS pour vous localiser</string>
   <string name="location_title">Ma position</string>
@@ -2112,8 +2113,8 @@ Faire confiance à cette application ?"</string>
   <string name="unlock_set_unlock_summary">Veuillez activer l\'écran de mot de passe pour valider la protection par mot de passe</string>
   <string name="unmount_inform_text">La mémoire de stockage USB va être désinstallée.</string>
   <string name="untitled_apn">Sans nom</string>
-  <string name="upload_debug_log_summary">Envoyer le journal de débogage lorsqu\'une connexion Wi-Fi est disponible afin de permettre à l\'équipe de développer une ROM plus stable</string>
-  <string name="upload_debug_log_title">Envoyer journal de débogage</string>
+  <string name="upload_debug_log_summary">Aidez-nous à améliorer MIUI en envoyant anonymement vos rapport de bugs et statistiques d\'utilisation</string>
+  <string name="upload_debug_log_title">Collecte de données anonymes</string>
   <string name="usage_log">Statistiques d\'utilisation de l\'application</string>
   <string name="usage_name_percent">%1$s - %2$s%%</string>
   <string name="usage_stats_label">Données statistiques</string>
@@ -2382,7 +2383,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_display_summary_on">Activé</string>
   <string name="wifi_dns1">DNS 1</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dont_skip">"Ne pas ignorer"</string>
+  <string name="wifi_dont_skip">Ne pas ignorer</string>
   <string name="wifi_eap_anonymous">Anonyme</string>
   <string name="wifi_eap_ca_cert">Certificat CA</string>
   <string name="wifi_eap_identity">Identité</string>
@@ -4226,7 +4227,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="mobile_data_switching_message">Basculement de la connexion de données. Veuillez patienter…</string>
   <string name="title_font">Police</string>
   <string name="title_font_current">En cours d\'utilisation</string>
-  <string name="cta_dialog_title">Avertissement</string>
+  <string name="cta_dialog_title">Information</string>
   <string name="cta_dialog_msg">Le centre de sécurité requiert l\'accès à internet pour recevoir des mises à jour.</string>
   <string name="cta_checkbox_title">Ne pas redemander</string>
   <string name="cta_button_text_cancel">Annuler</string>
@@ -4245,6 +4246,14 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="bluetooth_device_address">Adresse :</string>
   <string name="use_network_warning">Une connexion à internet est requise pour configurer et synchroniser votre compte Mi.</string>
   <string name="preferred_sms_settings">L\'application définie sera utilisée pour lire et composer les SMS.</string>
+  <string name="high_performance_title">Il semble que vous utilisez une application de benchmark. Définissez le mode d\'économie de la batterie sur \"Performances\" pour de meilleurs résultats."</string>
+  <string name="high_performance_notif_title">Information</string>
+  <string name="high_performance_notif_summary">Le mode Performances est actif. Ceci risque d\'avoir un impact négatif sur l\'autonomie.</string>
+  <string name="priority_storage_title">Paramètres de stockage</string>
+  <string name="priority_storage_summary">Veuillez sélectionner l\'emplacement par défaut de stockage des données d\'applications</string>
+  <string name="priority_storage_settings_summary">"Si aucune carte SD n\'est détectée, les données seront automatiquement enregistrées dans le stockage interne de l\'appareil"</string>
+  <string name="priority_storage_app_settings">Les données d\'applications seront enregistrées sur le %1$s</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Activer également la connexion au réseau de données mobiles ?</string>
   
 <!-- à traduire :
   <string name="bt_trace_log">Enable Bluetooth Trace log</string>
