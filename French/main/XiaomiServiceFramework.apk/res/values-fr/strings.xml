@@ -360,4 +360,5 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="bank_cards">Cartes bancaires</string>
   <string name="error_login">Impossible de ce connecter</string>
   <string name="relogin_notice">Veuillez vous reconnecter</string>
+  <string name="barcode_add_account_prompt">Pour ajouter un compte, veuillez rescanner le code QR après vous être connecté.</string>
 </resources>
