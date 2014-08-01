@@ -260,8 +260,8 @@ la vidéo sur votre box ou TV"</string>
   <string name="sure">Accepter</string>
   <string name="ok_no_more">OK et ne pas redemander</string>
   <string name="loading_text"><CDATA>Chargement... </CDATA></string>
-  <string name="declaration_content">"Acceptez-vous les conditions d'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs de contenu vidéo ?"</string>
-  <string name="declaration_content_short">"Acceptez-vous les conditions d'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs ?"</string>
+  <string name="declaration_content">"Acceptez-vous les conditions d\'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs de contenu vidéo ?"</string>
+  <string name="declaration_content_short">"Acceptez-vous les conditions d\'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs ?"</string>
   <string name="home_net_title">Avertissement</string>
   <string name="home_net_content">Cette application va utiliser votre connexion au réseau mobile de données, continuer ?</string>
   <string name="backkey_remark">*Note : appuyez sur Retour pour quitter</string>

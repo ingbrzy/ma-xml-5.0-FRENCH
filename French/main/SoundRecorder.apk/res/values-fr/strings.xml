@@ -29,7 +29,7 @@
   <string name="app_name">Dictaphone</string>
   <string name="back">Retour</string>
   <string name="button_ok">OK</string>
-  <string name="call_record">Enregistrer l\'appel (%d)</string>
+  <string name="call_record">Appels enregistrés (%d)</string>
   <string name="delete">Supprimer</string>
   <string name="delete_dialog_message">Voulez-vous supprimer l\'enregistrement en cours ?</string>
   <string name="deleting_message">Suppression en cours…</string>
@@ -43,7 +43,7 @@
   <string name="error_filename_illegal_char">Le nom du fichier contient des caractères non autorisés.</string>
   <string name="error_filename_too_long">Nom de fichier trop long</string>
   <string name="error_sdcard_access">Impossible d\'accéder au stockage externe ou interne</string>
-  <string name="fm_record">Enregistrement FM (%d)</string>
+  <string name="fm_record">Enregistrements FM (%d)</string>
   <string name="hour">%d heure(s)</string>
   <string name="low_battery_error">La batterie est inférieure à 5%, pour s\'assurer que l\'enregistrement ne soit pas perdu il a été arrêté et sauvegardé.</string>
   <string name="low_battery_message_title">Batterie faible</string>
@@ -92,11 +92,11 @@
   <string name="toast_uninstall_fileexplorer">L\'application \"Explorateur\" n\'est pas installée !</string>
   <string name="view_list_of_recordings">Voir les enregistrements</string>
   <string name="record_list_fm">Enregistrements FM</string>
-  <string name="record_list_call">Enregistrements d\'appels</string>
-  <string name="record_list_cloud">Enregistrements en ligne</string>
-  <string name="record_list_cloud_fm">Enregistrements FM en ligne</string>
-  <string name="record_list_cloud_call">Enregistrements d\'appels en ligne</string>
-  <string name="cloud_record">%d enregistrement sur MiCloud</string>
+  <string name="record_list_call">Appels enregistrés</string>
+  <string name="record_list_cloud">Enregistrements sur MiCloud</string>
+  <string name="record_list_cloud_fm">Enregistrements FM sur MiCloud</string>
+  <string name="record_list_cloud_call">Appels enregistrés sur MiCloud</string>
+  <string name="cloud_record">Enregistrements sur MiCloud (%d)</string>
   <string name="loading_recording">Chargement des enregistrements…</string>
   <string name="status_bar_back">Toucher pour revenir en arrière</string>
   <string name="access_error">"Impossible d'enregistrer en mode Invité"</string>
