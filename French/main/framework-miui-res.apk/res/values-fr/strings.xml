@@ -236,7 +236,9 @@ Réessayer dans %d secondes."</string>
  <!-- 2 strings suivantes à reformuler ? -->
   <string name="sync_data_recover_warning_desc">Les données de %s vont être restaurées depuis le cloud, il ne sera pas possible de revenir en arrière !</string>
   <string name="sync_data_merge_warning_desc">Les données locales de %s vont être fusionnées avec celles du cloud, il ne sera pas possible de revenir en arrière !</string>
-
+  <string name="softap_notifif_summary">%d connecté</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" activé</string>
+ 
   <string name="autumn_begins">Début de l\'Automne</string>
   <string name="autumn_equinox">Équinoxe d\'Automne</string>
   <string name="clear_and_bright">Clair et lumineux</string>
