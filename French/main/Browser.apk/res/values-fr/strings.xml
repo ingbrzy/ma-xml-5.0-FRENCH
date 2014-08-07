@@ -744,7 +744,7 @@
   <string name="cloud_time_tips">Dernière synchronisation</string>
   <string name="sub_sync_item_browser_title_webapp">Synch. des webapps</string>
   <string name="sub_sync_item_browser_title_webapp_summary">Synchroniser les webapps installées</string>
-  <string name="cloud_no_new_data_toast">Aucunes mise à jour disponible</string>
+  <string name="cloud_no_new_data_toast">Aucune mise à jour disponible</string>
   <string name="pref_content_brightness_setting">Paramètres de luminosité</string>
   <string name="enter_developer_mode">Mode développeur</string>
   <string name="miui_autologin_bar_title">Se connecter avec le compte système</string>

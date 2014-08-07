@@ -8,7 +8,7 @@
     </plurals>
 <!-- à vérifier la longueur : applis ou application ? -->
     <plurals name="AD_TITLE_COUNT">
-        <item quantity="other">%d applis contiennent des adwares<</item>
+        <item quantity="other">%d applis contiennent des adwares</item>
         <item quantity="one">1 appli contient un adware</item>
     </plurals>
 </resources>
