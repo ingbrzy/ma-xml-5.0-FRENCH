@@ -2,6 +2,7 @@
 <resources>
   <string name="app_name">Radio</string>
   <string name="menu_record_start">Commencer l\'enregistrement</string>
+  <string name="toast_fm_scaning">Balayage…</string>
   <string name="menu_record_stop">Arrêter l\'enregistrement</string>
   <string name="menu_sleep">Mise en veille de l\'écran</string>
   <string name="menu_sleep_cancel">Annuler la veille</string>

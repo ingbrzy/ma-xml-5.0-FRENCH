@@ -21,6 +21,7 @@
     <string name="menu_delete">Supprimer</string>
     <string name="menu_settings">Paramètres</string>
     <string name="menu_record_start">Commencer l\'enregistrement</string>
+  <string name="toast_fm_scaning">Balayage…</string>
     <string name="menu_record_stop">Arrêter l\'enregistrement</string>
     <string name="menu_scan_start">Analyser</string>
     <string name="menu_scan_stop">Arrêter la recherche</string>

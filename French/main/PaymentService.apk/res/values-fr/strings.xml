@@ -346,4 +346,8 @@ Vérifiez la configuration de la date de votre appareil puis réessayez."</strin
   <string name="progress_warning_check_with_contact">"Votre paiement n'a pas encore été crédité sur votre compte.
 Veuillez patienter encore deux jours ouvrables.
 Service client : 400-100-5678"</string>
+<!-- à traduire :
+  <string name="giftcard_define_detail">Use these certificates just like regular Mi Credits. You may receive credits after participating in Xiaomi events and promotions.</string>
+  <string name="giftcard_title">Mi Credit Certificates</string>
+-->
  </resources>

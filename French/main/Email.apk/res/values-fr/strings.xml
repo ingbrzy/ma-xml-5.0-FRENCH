@@ -960,6 +960,14 @@ Taille du patch Delta : %2$s"</string>
   <string name="account_setup_incoming_mail_adress_label">Adresse email</string>
   <string name="account_setup_incoming_mail_domain_label">Domaine</string>
   <string name="account_setup_incoming_mail_domain_hint">Ne peut être vide</string>
+  <string name="folder_drafts_name_en0">Brouillons</string>
+  <string name="folder_drafts_name_en1">Brouillon</string>
+  <string name="folder_sent_name_en0">Envoyé</string>
+  <string name="folder_sent_name_en1">Messages envoyés</string>
+  <string name="folder_sent_name_en2">Message envoyé</string>
+  <string name="folder_trash_name_en0">Corbeille</string>
+  <string name="folder_trash_name_en1">Messages supprimés</string>
+  <string name="folder_trash_name_en2">Message supprimé</string>
  <!-- à traduire :
     <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
     <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
@@ -968,5 +976,16 @@ Taille du patch Delta : %2$s"</string>
   <string name="device_not_activiey_lint1">Device Manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
+  <string name="conversation_list_net_check">Unavailable to connect to the network, please check the network configuration or try again later</string>
+  <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
+  <string name="no_wifi_promot">No WLAN is used now, please keep an eye on your traffic flow</string>
+  <string name="ser_resp_err_map_certificate_validator_err">"Failed to validate server certificate
+\u0009 (Check whether the setting is 'Auto sync time')"</string>
+  <string name="ser_resp_err_map_connect_err">Error in network connection. Please try another network</string>
+  <string name="ser_resp_err_map_nouser">No such user</string>
+  <string name="ser_resp_err_map_or">Or</string>
+  <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
+  <string name="ser_resp_err_map_serclosed">Service closed</string>
+  <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
  -->
 </resources>

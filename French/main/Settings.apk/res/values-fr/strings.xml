@@ -1274,7 +1274,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="msd_driver_download">Télécharger le pilote</string>
   <string name="msd_driver_mac_download">Aller sur http://miuiandroid.com/mac/ pour télécharger à partir de votre MAC</string>
   <string name="msd_driver_windows_xp_download">Aller sur http://miuiandroid.com/windows/ pour télécharger à partir de votre PC</string>
-  <string name="msd_help_summary">"Problèmes d'accès au stockage de l'appareil via un ordinateur ? 
+  <string name="msd_help_summary">"Problèmes d'accès à l'appareil via un ordinateur ? 
  Sélectionnez votre système d'exploitation : "</string>
   <string name="msd_help_title">Aide</string>
   <string name="msd_install">Installer le pilote</string>
@@ -1291,7 +1291,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="msd_install_retry_mac">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit :</string>
   <string name="msd_install_retry_windows_vista">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit :</string>
   <string name="msd_install_retry_windows_xp">Si l\'ordinateur n\'a pas correctement détecté l\'appareil, essayez ce qui suit :</string>
-  <string name="msd_install_status_done">Pilote déjà installé</string>
+  <string name="msd_install_status_done">Pilote installé</string>
   <string name="msd_install_status_undo">Installer le pilote</string>
   <string name="msd_install_succeed">Pilote installé</string>
   <string name="msd_install_windows_xp_step_2_1">1.Si l\'Assistant d\'installation apparaît, veuillez suivre les étapes pour terminer l\'installation du pilote</string>
@@ -4248,6 +4248,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="preferred_sms_settings">L\'application définie sera utilisée pour lire et composer les SMS.</string>
   <string name="high_performance_title">Il semble que vous utilisez une application de benchmark. Définissez le mode d\'économie de la batterie sur \"Performances\" pour de meilleurs résultats."</string>
   <string name="high_performance_notif_title">Information</string>
+ <!-- à vérifier high_performance_notif_summary raccourci dans 4.8.7, pour v6 ? à voir plus tard (Performance mode is on.) -->
   <string name="high_performance_notif_summary">Le mode Performances est actif. Ceci risque d\'avoir un impact négatif sur l\'autonomie.</string>
   <string name="priority_storage_title">Paramètres de stockage</string>
   <string name="priority_storage_summary">Veuillez sélectionner l\'emplacement par défaut de stockage des données d\'applications</string>

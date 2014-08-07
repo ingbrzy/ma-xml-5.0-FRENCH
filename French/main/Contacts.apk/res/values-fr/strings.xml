@@ -933,8 +933,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="sim_card_no_free_space_title">Carte SIM saturée</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Tout désélectionner</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Tout sélectionner</string>
-  <string name="sim_contact_existing">Le contact SIM est déjà existant.</string>
-  <string name="sim_contact_number_missing">Numéro de contact SIM manquant.</string>
+  <string name="sim_contact_existing">Le contact SIM est déjà existant</string>
+  <string name="sim_contact_number_missing">Numéro de contact SIM manquant</string>
   <string name="sim_contact_search_error">Une erreur s\'est produite lors de la recherche de contacts sur la carte SIM</string>
   <string name="sim_contacts">Contacts de la carte SIM</string>
   <string name="sim_error_anr_full">Espace de stockage (SIM) pour numéros plein !</string>
@@ -1145,7 +1145,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="cta_notice_checkbox">Ne pas redemander</string>
   <string name="cta_notice_ok">Accepter</string>
   <string name="cta_notice_settings">Rappeler lors de l\'accès réseau</string>
-  <string name="yellowpage_navigation_network_location_enabled">Le service de localisation est actif, vous pouvez le désactiver via les paramètres</string>
+  <string name="yellowpage_navigation_network_location_enabled">Service de localisation activé</string>
   <string name="yellowpage_navigation_more_items">Plus</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Téléchargement…</string>

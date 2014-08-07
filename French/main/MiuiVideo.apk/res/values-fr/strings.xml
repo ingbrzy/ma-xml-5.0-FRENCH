@@ -280,6 +280,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="filter">Filtre</string>
   <string name="btnplayerforecast">Prévisions</string>
   <string name="btnplayerselect">Choisir une chaine</string>
+  <string name="suffix_countdown">secondes</string>
  <!-- à vérifier -->
   <string name="mydlna">Ressources DLNA</string>
   <string name="dlna_name">Appareil partagé</string>
@@ -287,6 +288,8 @@ la vidéo sur votre box ou TV"</string>
   <!-- -->
   
  <!-- à traduire éventuellement (non visibles...?) :
+  <string name="ad_moredetail">more detail</string>
+  <string name="prefix_countdown">advertisement left:</string>
   <string name="no_hot_special">Empty</string>
   <string name="add_more_addons">Add more</string>
   <string name="pick_addon_to_delete">Select items to delete</string>

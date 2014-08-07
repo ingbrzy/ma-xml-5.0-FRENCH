@@ -238,10 +238,8 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="AD_SCANNING">Analyse en cours…</string>
   <string name="AD_BLOCK_ALL">Tout bloquer</string>
   <string name="AD_SCAN_BUTTON">Analyser</string>
-  <string name="AD_NOT_BLOCK">Non bloqué</string>
+  <string name="AD_NOT_BLOCK">Autorisé</string>
   <string name="AD_BLOCKED">Bloqué</string>
-  <string name="AD_COUNT">%d adwares</string>
-  <string name="AD_TITLE_COUNT">%d applications contiennent des adwares</string>
   <string name="AD_TITLE_NON_COUNT">Aucun adware détecté</string>
   <string name="AD_BLOCK">Bloquer les adwares</string>
   <string name="AD_ALLOW">Autoriser les adwares</string>
