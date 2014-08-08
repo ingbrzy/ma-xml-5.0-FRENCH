@@ -45,7 +45,14 @@
   <string name="toast_report_sent_failed">Impossible d\'envoyer le rapport !</string>
   <string name="toast_report_sent_succeed">Rapport envoyé avec succès !</string>
   <string name="wlan_unavailable_dialog_button_ok">Attendre</string>
-  <string name="wlan_unavailable_dialog_button_sent">Envoyer maintenant</string>
+  <string name="wlan_unavailable_dialog_button_sent">Envoyer</string>
   <string name="wlan_unavailable_dialog_content">L\'envoi du rapport requiert l\'usage de %s de données. Pour n\'envoyer le rapport que lorsque vous serez connecté à un réseau Wi-fi, appuyez sur Attendre.</string>
   <string name="wlan_unavailable_dialog_title">Usage des données</string>
+  <string name="action_cancel">Annuler</string>
+  <string name="action_confirm">Sélectionner</string>
+  <string name="refresh">Actualiser</string>
+  <string name="app_empty">Aucune application téléchargée</string>
+  <string name="app_title">Centre de rapports de bugs</string>
+  <string name="non_system_app_select">Applis téléchargées</string>
+  <string name="system_app_select">Applis système</string>
 </resources>

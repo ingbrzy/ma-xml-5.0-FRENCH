@@ -951,7 +951,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="dialog_insufficient_space_on_internal">Le téléchargement a échoué. L\'espace disponible sur la mémoire interne est insuffisant.</string>
   <string name="dialog_insufficient_space_on_external">Le téléchargement a échoué. L\'espace disponible sur la carte SD est insuffisant.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Espace de stockage insuffisant pour %s.</string>
-  <string name="dialog_auto_download_failed">Le téléchargement automatique a échoué, veuillez essayez manuellement.</string>
+  <string name="dialog_auto_download_failed">Le téléchargement automatique a échoué, veuillez essayer manuellement.</string>
   <string name="att_download_failed_title">Avertissement</string>
   <string name="att_download_failed_content">Le téléchargement de la pièce jointe a échoué</string>
   <string name="outbox_alert_button_resend">Renvoyer</string>
@@ -968,24 +968,26 @@ Taille du patch Delta : %2$s"</string>
   <string name="folder_trash_name_en0">Corbeille</string>
   <string name="folder_trash_name_en1">Messages supprimés</string>
   <string name="folder_trash_name_en2">Message supprimé</string>
+  <string name="ser_resp_err_map_nouser">Utilisateur inconnu</string>
+  <string name="ser_resp_err_map_or">Ou</string>
+  <string name="ser_resp_err_map_pserr">Identifiant ou mot de passe incorrect</string>
+  <string name="ser_resp_err_map_serclosed">Service désactivé</string>
+  <string name="ser_resp_err_map_connect_err">Erreur réseau, veuillez réessayer plus tard ou depuis un autre réseau</string>
+  <!-- à reformuler no_wifi_promot ? -->
+  <string name="no_wifi_promot">Wi-Fi non utilisé actuellement, cela risque d\'engendrer du trafic de données mobiles</string>
+  <string name="conversation_list_net_check">Erreur réseau, veuillez réessayer plus tard ou depuis un autre réseau</string>
+  <string name="mail_body_turncated">Cet email est trop lourd pour être chargé, seulement une partie sera affiché</string>
+  <string name="ser_resp_err_map_ssl">"Erreur. Essayez l\'option 'SSL/TLS (accepter tous les certificats)' dans 'Type de sécurité'"</string>
+  <string name="device_activity_btn_str">Retour pour activer</string>
+  <string name="device_not_activiey_lint1">Gestionnaire de périphériques inactif</string>
+  
  <!-- à traduire :
-    <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
-    <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
-    <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
-  <string name="device_activity_btn_str">Return To Activate</string>
-  <string name="device_not_activiey_lint1">Device Manager is not activated</string>
+  <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
+  <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
+  <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
   <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
-  <string name="conversation_list_net_check">Unavailable to connect to the network, please check the network configuration or try again later</string>
-  <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
-  <string name="no_wifi_promot">No WLAN is used now, please keep an eye on your traffic flow</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Failed to validate server certificate
 \u0009 (Check whether the setting is 'Auto sync time')"</string>
-  <string name="ser_resp_err_map_connect_err">Error in network connection. Please try another network</string>
-  <string name="ser_resp_err_map_nouser">No such user</string>
-  <string name="ser_resp_err_map_or">Or</string>
-  <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
-  <string name="ser_resp_err_map_serclosed">Service closed</string>
-  <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
  -->
 </resources>
