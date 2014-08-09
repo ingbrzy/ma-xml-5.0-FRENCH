@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
@@ -106,7 +106,7 @@
   <string name="checking_input">Vérification de la saisie…</string>
   <string name="cloud_messaging">Messagerie MiCloud</string>
   <string name="cmcc_data_sync_notice">Synchronisez vos messages, contacts et autres données entre différents appareils.</string>
-  <string name="cmcc_micloud_dspt">Les services MiCloud incluent la synchronisation mobile, la localisation de l’appareil et d\'autres services. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
+  <string name="cmcc_micloud_dspt">Le service MiCloud inclut la synchronisation des données de l’appareil, sa localisation et d\'autres services. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
   <string name="completed">Terminé</string>
   <string name="confirm">Confirmer</string>
   <string name="data_keep_in_phone">Conserver les données sur l\'appareil</string>
@@ -177,7 +177,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_click_email">\n\nPour activer votre compte, /n suivez le lien dans le mail d\'activation.</string>
   <string name="micloud_click_email_to_valid">\n\nPour activer votre compte, suivez le /n lien d\'activation envoyé sur votre boîte mail.</string>
   <string name="micloud_delete_account">Supprimer le compte</string>
-  <string name="micloud_dspt">Les services de synchronisation incluent la messagerie MiCloud, la synchronisation mobile, la localisation de l\'appareil et d\'autres fonctionnalités. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
+  <string name="micloud_dspt">"Ce service inclut la messagerie MiCloud, la synchronisation des données de l’appareil, sa localisation et d'autres fonctionnalités. Vous pouvez aussi gérer vos données en ligne à tout moment !"</string>
   <string name="micloud_email">Adresse mail</string>
   <string name="micloud_error_email">Adresse mail non valide</string>
   <string name="micloud_error_empty_captcha_code">Saisissez le code captcha</string>

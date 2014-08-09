@@ -164,7 +164,7 @@
     <string name="show_all_local_app_with_count">%1$d applications installées</string>
     <string name="enable_updata_local_app">%1$s màj disponible(s)</string>
     <string name="update_all">Tout mettre à jour</string>
-    <string name="search_local_app_text_hint">Rechercher parmi les %1$d applis installées</string>
+    <string name="search_local_app_text_hint">Rechercher parmi les %1$d applications installées</string>
     <string name="menu_update">Mettre à jour</string>
     <string name="menu_ignore">Ignorer</string>
     <string name="menu_detail">View app details</string>
@@ -196,7 +196,7 @@
     <string name="install_fail">Failed to install</string>
     <string name="system_app_sign_not_match_fail">"Failed to update: App signatures don't match"</string>
     <string name="remove_package_fail">Failed to install: Process timed out</string>
-    <string name="no_network">"Couldn't connect to network. Check your connection settings and try again."</string>
+    <string name="no_network">Connexion de données indisponible, veuillez vérifier vos paramètres.</string>
     <string name="no_data">Request failed. Try again later.</string>
     <string name="no_fitness">Aucun résultat</string>
     <string name="no_update">Aucune mise à jour disponible</string>
@@ -235,14 +235,14 @@
     <string name="notif_summary_auto_update_successful">%1$s applis ont été mises à jour</string>
     <string name="notif_summary_auto_update_failed">Échec de la mise à jour automatique</string>
     <string name="notif_description_from_market">from Market</string>
-    <string name="notif_title_auto_update_on">Auto-update apps is on</string>
-    <string name="notif_summary_auto_update_on">Xiaomi App Market will update your apps automatically</string>
+    <string name="notif_title_auto_update_on">Màj auto des applis activée</string>
+    <string name="notif_summary_auto_update_on">Xiaomi Market va mettre à jour vos application automatiquement</string>
     <string name="share_subject">Partage de %1$s</string>
     <string name="share_text">Hé, il y a une appli que tu pourrais aimer : %1$s, jette un œil ! %2$s</string>
     <string name="already_bottom">Vous avez atteint le bas de la page !</string>
     <string name="install_title">Installation</string>
-    <string name="install_no_network_description">Network unavailable, please try later</string>
-    <string name="install_on_data_description">Downloading without WLAN may cost data charges, continue to install %1$s and %2$s apps?</string>
+    <string name="install_no_network_description">Connexion de données indisponible, veuillez réessayer plus tard.</string>
+    <string name="install_on_data_description">Le téléchargement via la connexion de données mobiles sera décompté de votre quota, continuer l\'installation de %1$s et %2$s autres applications ?</string>
     <string name="install_all_title">Confirmation</string>
     <string name="install_all_description">Installer %1$s et %2$s autres applis ?</string>
     <string name="install_btn_cancel">Annuler</string>

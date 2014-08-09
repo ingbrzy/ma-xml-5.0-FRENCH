@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
@@ -87,15 +87,15 @@ la vidéo sur votre box ou TV"</string>
   <string name="declaration">Conditions d\'utilisation</string>
   <string name="have_no_cameravideo">Aucune vidéo</string>
   <string name="no_video">Aucune vidéo</string>
-  <string name="video">Vidéo</string>
+  <string name="video">" "</string>
   <string name="myfavorite_onlylocal">Favoris</string>
-  <string name="favorite">Favoris</string>
+  <string name="favorite">" "</string>
   <string name="count_myfavorite">" favori(s)"</string>
   <string name="no_myfavorite_advice">" "</string>
   <string name="no_myfavorite">Aucun favori</string>
   <string name="no_favorite">Aucun favori</string>
-  <string name="count_ge">"%d élément(s) "</string>
-  <string name="gong_count_xiang">"%d vidéo(s) "</string>
+  <string name="count_ge">"Éléments : %d "</string>
+  <string name="gong_count_xiang">"Éléments : %d "</string>
   <string name="search">Recherche</string>
   <string name="video_library">Vidéo</string>
   <string name="director_colon">"Réalisateur : "</string>

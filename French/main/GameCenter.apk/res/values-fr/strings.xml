@@ -13,9 +13,9 @@
     <string name="visiting_appointments">Appointments</string>
     <string name="vip_club">VIP club</string>
     <string name="gift_list_title">Contenu du pack :</string>
-    <string name="no_network">"Couldn't connect to network. Please check your network connection settings."</string>
+    <string name="no_network">Connexion de données indisponible, veuillez vérifier vos paramètres.</string>
     <string name="no_fitness">Aucun résultat</string>
-    <string name="no_data">"Couldn't connect to network. Please check your network settings."</string>
+    <string name="no_data">Connexion de données indisponible, veuillez vérifier vos paramètres.</string>
     <string name="vip_jifen_text">%d Points</string>
     <string name="vip_level_expried_text">Expire : %s</string>
     <string name="unknown_user_name">MiGamer888</string>
@@ -332,7 +332,7 @@
     <string name="share_subject">Partage du jeu %1$s</string>
     <string name="share_text">Hé, il y a une jeu que tu pourrais aimer : %1$s, jette un œil ! %2$s</string>
     <string name="install_title">Installation</string>
-    <string name="install_no_network_description">"Couldn't connect to network. Please check your network settings."</string>
+    <string name="install_no_network_description">Connexion de données indisponible, veuillez vérifier vos paramètres.</string>
     <string name="install_on_data_description">Downloading games via your mobile data network may use a significant amount of data. Download %1$sand%2$sgames？</string>
     <string name="install_only_on_wifi_description">You are not connected to Wi-Fi. To begin downloading, change your download preferences in Settings.</string>
     <string name="install_all_description">Installer %1$s et %2$s autres jeux ?</string>
