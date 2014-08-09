@@ -14,6 +14,7 @@
     <string name="short_click_9">9x</string>
     <string name="short_click_10">10x</string>
     <string name="long_click">Appui long</string>
+    <string name="hint_long_press_del">Appui long pour effacer</string>
     <string name="action_open_flashlight">Lampe-torche</string>
     <string name="action_open_other_app">Ouvrir une application</string>
     <string name="action_open_camera">Appareil photo</string>
@@ -78,6 +79,7 @@
     <string name="splash_tip">Connectez votre MiKey</string>
     <string name="default_action_title">Action par défaut</string>
     <string name="action_home">Accueil</string>
+    <string name="action_kuaidi">Kuaidi taxi</string>
     <string name="message_photo_end">Photo enregistrée</string>
     <string name="select_camera">Veuillez sélectionner la caméra</string>
     <string name="front_camera">Capteur frontal</string>
