@@ -211,9 +211,7 @@ Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
     <string name="data_usage_limit_snoozed_body">Vous avez dépassé votre limite d\'usage de données</string>
     <string name="data_usage_restricted_title">Données en arrière-plan désactivées</string>
     <string name="data_usage_restricted_body">Appuyer pour activer les données en arrière plan</string>
- <!-- à traduire 
-    <string name="data_usage_leisure_warning_title">Data usage limit</string>
- -->
+    <string name="data_usage_leisure_warning_title">Limite d\'usage de données</string>
     <string name="data_usage_leisure_warning_body">Appuyer pour afficher les détails d\'usage des données.</string>
     <string name="data_usage_correction_timeout_title">Temps d\'attente de synchronisation dépassé</string>
     <string name="data_usage_correction_timeout_body">Appuyer pour mettre à jour manuellement.</string>

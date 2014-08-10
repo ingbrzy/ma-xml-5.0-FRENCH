@@ -1150,7 +1150,5 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Téléchargement…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Échec, veuillez vérifier vos paramètres réseau.</string>
-  <!-- à traduire
-  <string name="yellowpage_navigation_search_result_average_price">Average %d RMB</string>
-  -->
+  <string name="yellowpage_navigation_search_result_average_price">%d RMB en moyenne</string>
 </resources>

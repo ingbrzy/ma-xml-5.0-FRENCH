@@ -545,14 +545,12 @@
   <string name="crop_recognize_text">Détecter</string>
   <string name="crop_save_text_setas">Appliquer</string>
   <string name="recognizing_image">Analyse de l\'image…</string>
- <!-- à traduire
-  <string name="long_press_to_refocus">Keep pressing to refocus</string>
-  <string name="item_not_sync_for_refocus_data">Cette image n\'a pas été synchronisée avec le cloud, its refocus data can not be downloaded</string>
-  <string name="download_refocus_data">Download refocusing data</string>
-  <string name="refocus_data_downloading">Downloading refocusing data…</string>
-  <string name="ubifocus_guide_text">>Touch &amp; hold to refocus</string>
-  <string name="ubifocus_refocus_data_missing">Cannot refocus due to some missing data</string>
-  <string name="ubifocus_refocus_map_error">Cannot refocus due to some wrong data</string>
-  <string name="ubifocus_refocus_download_tip">Please download refocus data before refocusing</string>
-  -->
+  <string name="long_press_to_refocus">Restez appuyer pour modifier le focus</string>
+  <string name="item_not_sync_for_refocus_data">Cette image n\'a pas été synchronisée avec le cloud, les données de focus ne peuvent pas être téléchargées</string>
+  <string name="download_refocus_data">Télécharger les données de focus</string>
+  <string name="refocus_data_downloading">Téléchargement des données de focus…</string>
+  <string name="ubifocus_guide_text">Restez appuyer pour modifier le focus</string>
+  <string name="ubifocus_refocus_data_missing">Données manquantes, impossible de modifier le focus</string>
+  <string name="ubifocus_refocus_map_error">Données non valides, impossible de modifier le focus</string>
+  <string name="ubifocus_refocus_download_tip">Veuillez télécharger les données de focus afin de pouvoir le modifier.</string>
 </resources>

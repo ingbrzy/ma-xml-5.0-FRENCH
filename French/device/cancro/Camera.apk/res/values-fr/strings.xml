@@ -511,9 +511,6 @@
   <string name="pref_touch_down_capture_title">Glisser bas pour capturer</string>
   <string name="burst_shoot_exit_button_text">Quitter le mode rafale</string>
   <string name="pref_burst_shoot_title">Mode rafale</string>
-  
-  <!-- à traduire
-  <string name="pref_priority_storage_title">Priority saved to external SD card</string>
-  <string name="pref_long_press_shutter_button_focus_title">Long press Shutter button to focus</string>
-  -->
+  <string name="pref_long_press_shutter_button_focus_title">Appui long sur le bouton de l\'obturateur pour faire le focus</string>
+  <string name="pref_priority_storage_title">Sauvegarder en priorité sur la carte SD</string>
 </resources>
