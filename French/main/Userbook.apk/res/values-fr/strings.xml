@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Readme</string>
-    <string name="loading_userbook">Chargement…</string>
-    <string name="bakc_key_toast_txt">Appuyez une seconde fois pour quitter</string>
+  <string name="app_name">Guide</string>
+  <string name="loading_userbook">Chargement…</string>
+  <string name="bakc_key_toast_txt">Appuyez une seconde fois pour quitter</string>
+  <string name="cta_dialog_button_text">Accepter</string>
+  <string name="cta_dialog_msg">"Vous êtes sur le point d\'utiliser un service fourni par Xiaomi qui requiert l\'accès à internet pour recevoir des informations. Acceptez-vous ?
+*Remarque : appuyer sur retour pour quitter"</string>
+  <string name="cta_dialog_title">Information</string>
+  <string name="downloading_data">Téléchargement…</string>
+  <string name="downloading_error">Erreur de téléchargement, veuillez vérifier vos paramètres ou ressayer plus tard.</string>
+  <string name="non_wifi_not_download_data">"Impossible d'utiliser votre connexion de données pour télécharger les données. Veuillez réessayer lorsque vous serez connecté à un réseau Wi-Fi."</string>
 </resources>
