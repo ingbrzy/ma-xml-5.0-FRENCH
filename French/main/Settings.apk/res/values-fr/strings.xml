@@ -4255,22 +4255,22 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="priority_storage_settings_summary">"Si aucune carte SD n\'est détectée, les données seront automatiquement enregistrées dans le stockage interne de l\'appareil"</string>
   <string name="priority_storage_app_settings">Les données d\'applications seront enregistrées sur le %1$s</string>
   <string name="enable_mobile_data_when_opening_hotspot">Activer également la connexion au réseau de données mobiles ?</string>
-  
-<!-- à traduire :
-  <string name="bt_trace_log">Enable Bluetooth Trace log</string>
-  <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
-  <string name="button_text_view_power">View power</string>
-  <string name="wifi_type_approval_title">Type Approval</string>
+  <string name="wifi_type_approval_title">Type d\'approbation</string>
+ <!-- à revoir/vérifier button_text_view_power view power -->
+  <string name="button_text_view_power">Afficher l\'énergie</string>
+  <string name="bt_trace_log">Activer Trace log Bluetooth</string>
+  <string name="bt_trace_log_summary">Active le journal de suivi Bluetooth</string>
+  <string name="modem_tool_log_start">Démarrer la capture</string>
+  <string name="modem_tool_log_stop">Stopper la capture</string>
+  <string name="modem_tool_log_start_toast">"Enregistrement du journal du modem vers %s"</string>
+  <string name="modem_tool_log_stop_toast">"Arrêt de l'enregistrement du journal du modem (%s)"</string>
+  <string name="bugreport_tool_log">Générer un rapport de bug</string>
+  <string name="modem_tool_log">Générer un journal Modem</string>
+ <!-- à traduire ? certains téléphones = .."></strings> ?! :
   <string name="wifi_display_session_info">Session info</string>
   <string name="wifi_display_listen_mode">Enable listen mode</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
   <string name="wifi_display_listen_channel">Listen channel</string>
   <string name="wifi_display_operating_channel">Operating channel</string>
-  <string name="bugreport_tool_log">Capture Bugreport</string>
-  <string name="modem_tool_log">Capture Modem Logs</string>
-  <string name="modem_tool_log_start">Start Capturing</string>
-  <string name="modem_tool_log_stop">Stop Capturing</string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
-  -->
+ -->
 </resources>
