@@ -258,7 +258,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="network_setting">Réseau</string>
   <string name="media_source_unavailable">Source indisponible</string>
   <string name="sure">Accepter</string>
-  <string name="ok_no_more">OK et ne pas redemander</string>
+  <string name="ok_no_more">Ne pas redemander</string>
   <string name="loading_text"><CDATA>Chargement... </CDATA></string>
   <string name="declaration_content">"Acceptez-vous les conditions d\'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs de contenu vidéo ?"</string>
   <string name="declaration_content_short">"Acceptez-vous les conditions d\'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs ?"</string>
@@ -281,6 +281,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="btnplayerforecast">Prévisions</string>
   <string name="btnplayerselect">Choisir une chaine</string>
   <string name="suffix_countdown">secondes</string>
+  <string name="no_hot_special">Aucun addon</string>
  <!-- à vérifier -->
   <string name="mydlna">Ressources DLNA</string>
   <string name="dlna_name">Appareil partagé</string>
@@ -290,7 +291,6 @@ la vidéo sur votre box ou TV"</string>
  <!-- à traduire éventuellement (non visibles...?) :
   <string name="ad_moredetail">more detail</string>
   <string name="prefix_countdown">advertisement left:</string>
-  <string name="no_hot_special">Empty</string>
   <string name="add_more_addons">Add more</string>
   <string name="pick_addon_to_delete">Select items to delete</string>
   <string name="start_addon">Activate addon</string>
