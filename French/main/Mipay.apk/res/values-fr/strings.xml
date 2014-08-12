@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+<resources>
+    <string name="mipay_app_name">Cartes bancaires</string>
+    <string name="mipay_bank_cards_title">Mes cartes</string>
+    <string name="mipay_bank_cards_add">Ajouter une carte bancaire</string>
+    <string name="mipay_pay_record_title">Historique des paiements</string>
+    <string name="mipay_pay_record_empty">Aucun paiement</string>
+    <string name="mipay_loading">Chargement…</string>
+    <string name="mipay_button_next">Suivant</string>
+    <string name="mipay_button_cancel">Annuler</string>
+    <string name="mipay_button_ok">Confirmer</string>
+    <string name="mipay_set_password_hint">Veuillez saisir 6 numéros</string>
+    <string name="mipay_set_password_first_summary">Configuration d\'un nouveau mot de passe</string>
+    <string name="mipay_cancel_bind_bank_card">Annuler l\'ajout d'une carte bancaire ?</string>
+    <string name="mipay_bank_card_hint">Veuillez saisir votre numéro de compte</string>
+    <string name="mipay_bank_card_safe_info">Ce service est chiffré, il est autorisé par Xiaomi et certaines banques</string>
+    <string name="mipay_bank_card_support_list">Banques supportées</string>
+    <string name="mipay_error_network">Connexion au réseau de données impossible, veuillez vérifier vos paramètres ou ressayer plus tard.</string>
+    <string name="mipay_error_auth">Erreur d\'authentification, veuillez vous reconnecter.</string>
+    <string name="mipay_error_server">Erreur serveur. Veuillez ressayer plus tard</string>
+    <string name="mipay_error_common">Erreur système. Veuillez ressayer plus tard</string>
+</resources>
