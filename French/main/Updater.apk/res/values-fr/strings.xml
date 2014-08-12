@@ -82,7 +82,7 @@
   <string name="internal_build">version interne</string>
   <string name="top_secret_build">version top-secrète</string>
   <string name="stable_build">version stable</string>
-  <string name="unstable_build">version instable</string>
+  <string name="unstable_build">version stable</string>
   <string name="about_device">À propos de l\'appareil</string>
 
 
