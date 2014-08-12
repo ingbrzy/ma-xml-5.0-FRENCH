@@ -13,7 +13,7 @@
     <string name="mipay_button_ok">Confirmer</string>
     <string name="mipay_set_password_hint">Veuillez saisir 6 numéros</string>
     <string name="mipay_set_password_first_summary">Configuration d\'un nouveau mot de passe</string>
-    <string name="mipay_cancel_bind_bank_card">Annuler l\'ajout d'une carte bancaire ?</string>
+    <string name="mipay_cancel_bind_bank_card">Annuler l\'ajout d\'une carte bancaire?</string>
     <string name="mipay_bank_card_hint">Veuillez saisir votre numéro de compte</string>
     <string name="mipay_bank_card_safe_info">Ce service est chiffré, il est autorisé par Xiaomi et certaines banques</string>
     <string name="mipay_bank_card_support_list">Banques supportées</string>
