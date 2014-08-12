@@ -36,7 +36,7 @@
   <string name="confirm_change_mode_title">Changer de mode</string>
   <string name="confirm_change_to_expert_mode_message">Passer en mode professionnel ?</string>
   <string name="confirm_change_to_simple_mode_message">Basculer vers le mode simple ?</string>
-  <string name="confirm_location_message">Cet appareil permet d\'enregistrer vos informations de localisation, souhaitez-vous activer les services de localisation ?</string>
+  <string name="confirm_location_message">Souhaitez-vous enregistrer les coordonnées de prise de vue des photos ?</string>
   <string name="confirm_restore_message">Les réglages de la caméra seront restaurés aux valeurs par défaut.</string>
   <string name="confirm_restore_title">Restaurer les paramètres par défaut</string>
   <string name="connect_wifi">Se connecter à ce réseau Wi-Fi</string>
@@ -153,7 +153,7 @@
   <string name="measure_whitebalance_text">Veuillez mettre un papier blanc ou une carte grise devant la caméra, puis pressez le bouton</string>
   <string name="mimetype">Type MIME</string>
   <string name="model">Modèle</string>
-  <string name="no_save">"Ne pas sauvegarder"</string>
+  <string name="no_save">Non, merci</string>
   <string name="no_storage">Veuillez insérer une carte SD avant d\'utiliser l\'appareil photo.</string>
   <string name="no_thumbnail">Aucune vignette</string>
   <string name="not_enough_space">Mémoire insuffisante</string>
@@ -208,7 +208,7 @@
   <string name="pref_camera_coloreffect_entry_none">Aucun</string>
   <string name="pref_camera_coloreffect_entry_posterize"/>
   <string name="pref_camera_coloreffect_entry_sepia"/>
-  <string name="pref_camera_coloreffect_title">Effet de couleur</string>
+  <string name="pref_camera_coloreffect_title">Effets</string>
   <string name="pref_camera_contrast_title">Contraste</string>
   <string name="pref_camera_current_k_value">Valeur actuelle</string>
   <string name="pref_camera_default_suffix">" (par défaut)"</string>
@@ -289,7 +289,7 @@
   <string name="pref_camera_redeyereduction_title">Réduction des yeux rouges</string>
   <string name="pref_camera_referenceline_entry_off">Désactivé</string>
   <string name="pref_camera_referenceline_entry_on">Activé</string>
-  <string name="pref_camera_referenceline_title">Ligne de référence</string>
+  <string name="pref_camera_referenceline_title">Lignes de référence</string>
   <string name="pref_camera_saturation_title">Saturation</string>
   <string name="pref_camera_scenedetect_title">Détection de scène automatique</string>
   <string name="pref_camera_scenemode_entry_auto">Automatique</string>
@@ -338,7 +338,7 @@
   <string name="pref_camera_watermark_entry_off">Désactivé</string>
   <string name="pref_camera_watermark_entry_on">Activé</string>
   <string name="pref_camera_watermark_title">Horodatage en filigrane</string>
-  <string name="pref_camera_whitebalance_entry_auto">Automatique</string>
+  <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Nuageux</string>
   <string name="pref_camera_whitebalance_entry_daylight">Lumière du jour</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
@@ -406,7 +406,7 @@
   <string name="review_cancel">ANNULER</string>
   <string name="rotate_left">Faire pivoter à gauche</string>
   <string name="rotate_right">Faire pivoter à droite</string>
-  <string name="save">Sauvegarder</string>
+  <string name="save">Oui</string>
   <string name="scan_qrcode">Scanner le code QR</string>
   <string name="secure_access_web_url">Accès Internet sécurisé</string>
   <string name="see_app_details">Voir les détails de l\'app</string>
@@ -427,7 +427,7 @@
   <string name="show_on_map">Afficher sur la carte</string>
   <string name="show_videos_only">Vidéos uniquement</string>
   <string name="simple_mode_button_text_audio_capture">Fermer la capture audio</string>
-  <string name="simple_mode_button_text_color_effect">Fermer les filtres</string>
+  <string name="simple_mode_button_text_color_effect">Quitter</string>
   <string name="simple_mode_button_text_face_beauty">Fermer ajust. facial</string>
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
   <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>

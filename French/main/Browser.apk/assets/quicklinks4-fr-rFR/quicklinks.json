@@ -86,7 +86,7 @@
         },
         {
             "title":"eBay",
-            "url":"http://www.ebay.fr/",
+            "url":"https://m.ebay.fr/",
             "thumbnail":"thumb_ebay.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",

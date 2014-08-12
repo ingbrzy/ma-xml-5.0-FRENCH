@@ -278,7 +278,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="theme_user_agreement_content5">.</string>
   <string name="theme_user_agreement_title">Conditions d\'utilisation</string>
   <string name="theme_user_agreement_allow">Accepter</string>
-  <string name="theme_user_agreement_remind_never">Ne pas afficher</string>
+  <string name="theme_user_agreement_remind_never">Ne plus afficher</string>
   <string name="theme_user_agreement_remind_again">Afficher les ToS à chaque fois</string>
   <string name="theme_user_agreement_remind_summary">Ce paramètre prendra effet au prochain redémarrage</string>
 </resources>

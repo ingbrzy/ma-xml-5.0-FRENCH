@@ -3187,7 +3187,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="button_text_fix">Corriger</string>
   <string name="button_text_security">OK</string>
   <string name="button_text_view">Afficher</string>
-  <string name="cache_garbage">Fichiers cache</string>
+  <string name="cache_garbage">Cache</string>
   <string name="cache_list_empty_hints">Aucun fichier en cache</string>
   <string name="cache_manage_title">%1$d fichier(s) en cache, %2$s peuvent être libérés</string>
   <string name="cache_manager_actionbar_title">Cache système</string>
@@ -3425,7 +3425,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_chooser_standby_summary">Désactive les fonctions Internet</string>
   <string name="power_chooser_standby_title">Mode marathon</string>
   <string name="power_chooser_title">Batterie</string>
-  <string name="power_chooser_user_define_summary">Créer une configuration personnalisée pour la batterie</string>
+  <string name="power_chooser_user_define_summary">Configuration personnalisée</string>
   <string name="power_chooser_user_define_title">Ajouter un profil personnalisé</string>
   <string name="power_consume_other">Autres</string>
   <string name="power_consume_rank_hardware">Matériel</string>

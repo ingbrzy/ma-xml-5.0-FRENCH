@@ -253,7 +253,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="pref_camera_coloreffect_entry_sepia">Sépia</string>
   <string name="pref_camera_coloreffect_entry_sketch">Croquis</string>
   <string name="pref_camera_coloreffect_entry_solarize">Solariser</string>
-  <string name="pref_camera_coloreffect_title">Effet de couleur</string>
+  <string name="pref_camera_coloreffect_title">Effets</string>
   <string name="pref_camera_contrast_entry_level0">Niveau 0</string>
   <string name="pref_camera_contrast_entry_level1">Niveau 1</string>
   <string name="pref_camera_contrast_entry_level10">Niveau 10</string>
@@ -424,7 +424,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="pref_camera_videoencoder_entry_1">H263</string>
   <string name="pref_camera_videoencoder_entry_2">H264</string>
   <string name="pref_camera_videoencoder_title">Encodeur vidéo</string>
-  <string name="pref_camera_whitebalance_entry_auto">Automatique</string>
+  <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Nuageux</string>
   <string name="pref_camera_whitebalance_entry_daylight">Lumière du jour</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>

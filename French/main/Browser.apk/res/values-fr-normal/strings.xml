@@ -12,7 +12,7 @@
     <string name="dialog_geolocation_share">Refuser</string>
     <string name="webapp_menu_addtodesk">Ajouter à l\'accueil</string>
     <string name="webapp_menu_already_addtodesk">Déjà ajouté !</string>
-    <string name="webapp_menu_share">Partager</string>
+    <string name="webapp_menu_share">Partage</string>
     <string name="webapp_menu_settings">Paramètres</string>
     <string name="webapp_menu_nightmode">Mode nuit</string>
     <string name="webapp_menu_favorites">Mes favoris</string>

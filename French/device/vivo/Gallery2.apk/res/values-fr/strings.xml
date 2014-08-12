@@ -42,7 +42,7 @@
   <string name="pref_camera_flashmode_entry_on">Activé</string>
   <string name="pref_camera_flashmode_entry_off">Désactivé</string>
   <string name="pref_camera_whitebalance_title">Balance des blancs</string>
-  <string name="pref_camera_whitebalance_entry_auto">Automatique</string>
+  <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Incandescent</string>
   <string name="pref_camera_whitebalance_entry_daylight">Lumière du jour</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
@@ -410,7 +410,7 @@ D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux image
   <string name="gallery_jb_plus_label">Galerie</string>
   <string name="camera_jb_label">Appareil photo</string>
   <string name="gallery_jb_label">Galerie</string>
-  <string name="pref_camera_coloreffect_title">Effet de couleur</string>
+  <string name="pref_camera_coloreffect_title">Effets</string>
   <string name="pref_camera_coloreffect_entry_none">Aucun</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sépia</string>
