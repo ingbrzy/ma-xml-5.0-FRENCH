@@ -192,8 +192,8 @@
   <string name="forward_prefix">"TR : "</string>
   <string name="found_old_messages">Transférer les messages de %1$s vers %2$s ?</string>
   <string name="found_old_messages_title">Transférer les messages depuis vos autres cartes SIM ?</string>
-  <string name="found_wild_messages">Récupérer les messages depuis vos autres cartes SIM ?</string>
-  <string name="found_wild_messages_title">Récupérer les messages</string>
+  <string name="found_wild_messages">Des messages reçus sur les numéros suivants ont été stockés sur votre MiCloud : %s. Souhaitez-vous les restaurer ?</string>
+  <string name="found_wild_messages_title">Récupération de messages</string>
   <string name="from_label">"De : "</string>
   <string name="group_message">Message groupé</string>
   <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>

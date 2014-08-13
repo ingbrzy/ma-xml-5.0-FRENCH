@@ -2,6 +2,15 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+ <!-- Supprimé 4.8.12-->
+  <string name="express_addressee">Adresse</string>
+  <string name="express_confirm_dest_city_prefix">Destination :</string>
+  <string name="express_company">Compagnie</string>
+  <string name="express_no_order">Aucune commande</string>
+  <string name="express_order_state">État :</string>
+  <string name="express_order_state_note">Statut</string>
+  <string name="express_orders">Commandes</string>
+  <string name="express_sender">Expéditeur</string>
  <!-- Supprimé 4.7.17-->
   <string name="notices_and_terms">Mentions légales et conditions d\'utilisation</string>
   <string name="group_name_other">Autres</string>
@@ -188,9 +197,8 @@
   <string name="express_inquiry_no_history">Pas d\'historique</string>
   <string name="express_inquiry_delete_warning_single">Supprimer l\'élément sélectionné ?</string>
   <string name="express_inquiry_delete_warning_multiple">Supprimer les %d éléments sélectionnés ?</string>
-  <string name="express_sender">Expéditeur</string>
   <string name="express_sender_info">Info expéditeur</string>
-  <string name="express_addressee">Adresse</string>
+
   <string name="express_addressee_info">Info adresse</string>
   <string name="express_add_new_address">Ajouter une adresse</string>
   <string name="express_create_order">Aperçu</string>
@@ -280,7 +288,6 @@
   <string name="review_nickname_prefix">De :</string>
   <string name="quick_yellow_page_tab_phones">Téléphone</string>
   <string name="quick_yellow_page_tab_call_log">Journal d\'appels</string>
-  <string name="express_no_order">Aucune commande</string>
   <string name="express_field_empty">Vide</string>
   <string name="recharge_phone">N° de commande :</string>
   <string name="more_coupons">Tous les coupons</string>
@@ -290,12 +297,15 @@
   <string name="express_cancel_order">Annuler</string>
   <string name="express_delete_order">Supprimer</string>
   <string name="express_order_state_unknown">Inconnu</string>
-  <string name="express_orders">Commandes</string>
   <string name="express_contact_prefix">"Contact "</string>
   <string name="confirm_to_send_to_desktop">Envoyer %s vers l\'écran d\'accueil ?</string>
   <string name="content_desc_send_sms">Envoyer un SMS</string>
   <string name="correct_yellow_page">Retour d\'expérience</string>
   <string name="notify_connect_summary">Demander l\'autorisation d\'accès au réseau à chaque fois</string>
+  <string name="express_tracking_number">Numéro de suivi</string>
+  <string name="express_no_tracking_number">Aucun numéro de suivi</string>
+  <string name="express_inquiry_provider_info">Propulsé par</string>
+  
  <!-- à traduire éventuellement... pas utilisé/utilisable en france
   <string name="nearby_average_price">Average %d RMB</string>
   <string name="group_name_service">Service</string>
@@ -306,7 +316,6 @@
   <string name="user_notice_identify_summary_format_cta">"Your phone will use MIUI's label directory to block unwanted calls when connected to WLAN. By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Some of your label directory info is outdated. Do you want to update it? By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="express_inquiry_go_to_provider">Go to provider</string>
-  <string name="express_inquiry_provider_info">Powered by</string>
   <string name="express_send">Ship</string>
   <string name="express_submit_order">Submit</string>
   <string name="express_order_result">Result</string>
@@ -315,12 +324,10 @@ Custom service will contact you in a moment"</string>
   <string name="express_order_ongoing">Ordering…</string>
   <string name="express_order_succeeded">Succeeded</string>
   <string name="express_order_failed">Failed</string>
-  <string name="express_company">Logistics</string>
   <string name="express_company_empty">No companies</string>
-  <string name="express_order_internal_id">Order ID:</string>
-  <string name="express_order_created_time">Created time:</string>
-  <string name="express_order_state">State:</string>
-  <string name="express_order_state_note">Status</string>
+  <string name="express_order_info">Order info</string>
+  <string name="express_order_internal_id">Order ID</string>
+  <string name="express_order_created_time">Created time</string>
   <string name="express_order_state_ordered">Ordered</string>
   <string name="express_order_state_processing">Processing</string>
   <string name="express_order_state_accepted">Accepted</string>

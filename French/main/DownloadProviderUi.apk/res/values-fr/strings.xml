@@ -108,6 +108,9 @@
   <string name="experience_xunlei_account_speed">Devenez membre Xunlei pour accélérer vos téléchargements</string>
   
 <!-- à traduire Xunlei
+    <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
+    <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
+    <string name="add_flow_success_msg">Get 300MB High Speed Flow Succeess</string>
     <string name="download_list_get_hightspeed_flow_pay_ok">Payment complete.</string>
     <string name="choose_open_time">Please select the opening time</string>
     <string name="high_speed_channel">High speed channel data</string>

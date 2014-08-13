@@ -304,7 +304,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
   <string name="pref_camera_iso_entry_isodeblur">ISO Auto(HJR)</string>
-  <string name="pref_camera_iso_title">Sélectionner ISO</string>
+  <string name="pref_camera_iso_title">Sensibilité ISO</string>
   <string name="pref_camera_jpegquality_entry_0">Jpeg 55%</string>
   <string name="pref_camera_jpegquality_entry_1">Jpeg 65%</string>
   <string name="pref_camera_jpegquality_entry_2">Jpeg 75%</string>
@@ -408,7 +408,7 @@ Une touche suffit pour sauvegarder intelligemment et les récupérer sans USB."<
   <string name="pref_camera_smile_title">Détection de visage</string>
   <string name="pref_camera_sound_entry_off">Désactivé</string>
   <string name="pref_camera_sound_entry_on">Activé</string>
-  <string name="pref_camera_sound_title">Son de l\'appareil photo</string>
+  <string name="pref_camera_sound_title">Couper le son du déclencheur</string>
   <string name="pref_camera_time_lapse_entry_off">Désactivé</string>
   <string name="pref_camera_time_lapse_entry_on">Activé</string>
   <string name="pref_camera_time_lapse_title">Intervalle de temps</string>

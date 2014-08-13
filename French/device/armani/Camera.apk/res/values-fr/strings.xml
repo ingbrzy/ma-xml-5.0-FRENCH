@@ -247,7 +247,7 @@
   <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
-  <string name="pref_camera_iso_title">Sélectionner ISO</string>
+  <string name="pref_camera_iso_title">Sensibilité ISO</string>
   <string name="pref_camera_jpegquality_entry_high">Haute</string>
   <string name="pref_camera_jpegquality_entry_low">Basse</string>
   <string name="pref_camera_jpegquality_entry_normal">Standard</string>
@@ -274,7 +274,7 @@
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Plein écran 16:9</string>
   <string name="pref_camera_picturesize_title">Taille d\'image</string>
-  <string name="pref_camera_picturesize_title_simple_mode">Repère de la caméra</string>
+  <string name="pref_camera_picturesize_title_simple_mode">Format d\'image</string>
   <string name="pref_camera_raw_data_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
   <string name="pref_camera_recordlocation_entry_on">Activé</string>
@@ -311,7 +311,7 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Désactiver</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activer</string>
   <string name="pref_camera_skinToneEnhancement_title">Amélioration de la teinte de peau</string>
-  <string name="pref_camera_sound_title">Son de l\'appareil photo</string>
+  <string name="pref_camera_sound_title">Couper le son du déclencheur</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>
   <string name="pref_camera_touchafaec_title">Mise au point tactile</string>
@@ -345,7 +345,7 @@
   <string name="pref_grp_picture_settings">Paramètres d\'image</string>
   <string name="pref_grp_restore_settings">Restaurer les paramètres</string>
   <string name="pref_manual_exposure_title">Exposition manuelle</string>
-  <string name="pref_scan_qrcode_title">Scanner code QR</string>
+  <string name="pref_scan_qrcode_title">Détecter les codes QR</string>
   <string name="pref_setting_title">Paramètres</string>
   <string name="pref_settings_mode">Mode caméra</string>
   <string name="pref_video_captrue_ability_title">Capacité de capture</string>
@@ -471,7 +471,7 @@
   <string name="pref_camera_ubi_focus_title">ReFocus</string>
   <string name="simple_mode_button_text_ubi_focus">Quitter le mode ReFocus</string>
   <string name="ubi_focus_exit_button_text">Quitter le mode ReFocus</string>
-  <string name="pref_camera_auto_chroma_flash_title">Flash Chroma Auto</string>
+  <string name="pref_camera_auto_chroma_flash_title">ChromaFlash</string>
   <string name="pref_touch_down_capture_title">Glisser bas pour capturer</string>
   <string name="cannot_move_warning_message">Capture de la photo, ne bougez pas l\'appareil</string>
   <string name="object_track_enable_toast">"Faites glisser votre doigt sur l'écran de prévisualisation pour activer le suivi de l'objet."</string>

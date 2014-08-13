@@ -222,7 +222,7 @@
   <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
-  <string name="pref_camera_iso_title">Sélectionner ISO</string>
+  <string name="pref_camera_iso_title">Sensibilité ISO</string>
   <string name="pref_camera_jpegquality_entry_fine">Fine</string>
   <string name="pref_camera_jpegquality_entry_normal">Standard</string>
   <string name="pref_camera_jpegquality_entry_superfine">Très fine</string>
@@ -242,7 +242,7 @@
   <string name="pref_camera_picturesize_entry_4208x2368">Plein écran 16:9</string>
   <string name="pref_camera_picturesize_entry_4208x3120">Standard 4:3</string>
   <string name="pref_camera_picturesize_title">Taille d\'image</string>
-  <string name="pref_camera_picturesize_title_simple_mode">Repère de la caméra</string>
+  <string name="pref_camera_picturesize_title_simple_mode">Format d\'image</string>
   <string name="pref_camera_preview_entry_1000">1 seconde</string>
   <string name="pref_camera_preview_entry_2000">2 secondes</string>
   <string name="pref_camera_preview_entry_5000">5 secondes</string>
@@ -299,7 +299,7 @@
   <string name="pref_camera_skinToneEnhancement_title">Amélioration de la teinte de peau</string>
   <string name="pref_camera_sound_entry_off">Désactivé</string>
   <string name="pref_camera_sound_entry_on">Activé</string>
-  <string name="pref_camera_sound_title">Son de l\'appareil photo</string>
+  <string name="pref_camera_sound_title">Couper le son du déclencheur</string>
   <string name="pref_camera_sound_title_entry_off">Désactivé</string>
   <string name="pref_camera_sound_title_entry_on">Activé</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>

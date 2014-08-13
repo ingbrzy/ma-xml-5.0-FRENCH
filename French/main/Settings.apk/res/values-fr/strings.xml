@@ -24,6 +24,8 @@ Note : Traductions pour plusieurs téléphones, ne pas supprimer de lignes
 
 -->
 <resources>
+ <!-- removed 4.8.12 -->
+  <string name="applications_sort_type_title">Trier</string>
  <!-- removed 4.4.22 mi2 -->
   <string name="incoming_call_vibrate_abbreviation">"Appels "</string>
   <string name="notification_vibrate_abbreviation">"Notifications "</string>
@@ -3667,7 +3669,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_safe">Sûr</string>
   <string name="virus_scan_settings">Paramètres</string>
   <string name="virus_scan_settings_title">Paramètres des définitions de virus</string>
-  <string name="virus_scan_start">Analyse antivirus</string>
+  <string name="virus_scan_start">Analyse</string>
   <string name="virus_scan_stop">Annuler</string>
   <string name="virus_scan_support">Propulsé par Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (apk)</string>
@@ -3875,7 +3877,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="touch_sensitive_turn_off_confirm">Confirmer</string>
   <string name="touch_sensitive_turn_off_cancel">Annuler</string>
   <string name="button_text_a_key_uninstall">Désinstaller</string>
-  <string name="optimize_installed_apps_header_left">Applis téléchargées : %d</string>
+  <string name="optimize_installed_apps_header_left">Applis installées : %d</string>
   <string name="deep_clean_title_uninstall_apps">Applis</string>
   <string name="deep_clean_summary_install_apps_today">Utilisé aujourd\'hui</string>
   <string name="deep_clean_summary_install_apps_interval">Utilisé il y a %d jours</string>
@@ -3894,7 +3896,6 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="pref_summary_garbage_cleanup_check_time">Me prévient lorsque la Corbeille atteint une certaine taille</string>
   <string name="pref_title_garbage_cleanup_check_size">Alarme : taille de la corbeille</string>
   <string name="toast_application_no_residual_on_sdcard">Cette application n\'a pas de fichiers stockés sur la carte SD</string>
-  <string name="applications_sort_type_title">Trier</string>
   <string name="applications_sort_type_item_time">Fréquence d\'utilisation</string>
   <string name="applications_sort_type_item_size">Taille</string>
   <string name="dialog_title_uninstall_apps">Désinstaller</string>
@@ -4266,6 +4267,14 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="modem_tool_log_stop_toast">"Arrêt de l'enregistrement du journal du modem (%s)"</string>
   <string name="bugreport_tool_log">Générer un rapport de bug</string>
   <string name="modem_tool_log">Générer un journal Modem</string>
+  <string name="cache_data_sort_type_item_name">Nom</string>
+  <string name="cache_data_sort_type_item_size">Taille</string>
+  <string name="deepclean_cache_header_left">Fichiers cache : %d</string>
+  <string name="deepclean_sort_type_title">Trier</string>
+  <string name="empty_content_size">Aucun</string>
+  <string name="large_file_sort_type_item_name">Nom</string>
+  <string name="large_file_sort_type_item_size">Taille</string>
+  
  <!-- à traduire ? certains téléphones = .."></strings> ?! :
   <string name="wifi_display_session_info">Session info</string>
   <string name="wifi_display_listen_mode">Enable listen mode</string>
