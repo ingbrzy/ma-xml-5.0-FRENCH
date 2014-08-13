@@ -352,7 +352,6 @@ Custom service will contact you in a moment"</string>
   <string name="express_dest_city_label">Destination</string>
   <string name="express_select_city">Select city</string>
   <string name="express_company_phone_prefix">Contact:</string>
-  <string name="express_confirm_dest_city_prefix">Destination:</string>
   <string name="express_company_pricing_details">Pricing detail</string>
   <string name="express_company_list_empty">No companies</string>
   <string name="navigation_search_default_hint">Type in words you want to search (e.g. xiaomi)</string>
