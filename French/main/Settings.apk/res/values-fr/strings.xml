@@ -226,7 +226,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="auto_startup_count">%d application(s)</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d'énergie et de données.
  Autoriser le démarrage automatique ?"</string>
-  <string name="automatic_brightness">Ajuster automatiquement la luminosité de l\'écran</string>
+  <string name="automatic_brightness">Ajuster automatiquement la luminosité</string>
   <string name="available_size">%s disponible</string>
   <string name="awake">Durée de fonctionnement de l\'appareil</string>
   <string name="back_key">Touche Retour</string>
@@ -4249,8 +4249,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="preferred_sms_settings">L\'application définie sera utilisée pour lire et composer les SMS.</string>
   <string name="high_performance_title">Il semble que vous utilisez une application de benchmark. Définissez le mode d\'économie de la batterie sur \"Performances\" pour de meilleurs résultats."</string>
   <string name="high_performance_notif_title">Information</string>
- <!-- à vérifier high_performance_notif_summary raccourci dans 4.8.7, pour v6 ? à voir plus tard (Performance mode is on.) -->
-  <string name="high_performance_notif_summary">Le mode Performances est actif. Ceci risque d\'avoir un impact négatif sur l\'autonomie.</string>
+  <string name="high_performance_notif_summary">Le mode Performances est actif</string>
   <string name="priority_storage_title">Paramètres de stockage</string>
   <string name="priority_storage_summary">Veuillez sélectionner l\'emplacement par défaut de stockage des données d\'applications</string>
   <string name="priority_storage_settings_summary">"Si aucune carte SD n\'est détectée, les données seront automatiquement enregistrées dans le stockage interne de l\'appareil"</string>

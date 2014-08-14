@@ -208,7 +208,7 @@
   <string name="fail_to_sync_album">Impossible de synchroniser l\'album au serveur. Veuillez vérifier votre connexion réseau !</string>
   <string name="file_size">Taille</string>
   <string name="filllight">Éclairage d\'appoint</string>
-  <string name="fisheye">Objectif fisheye</string>
+  <string name="fisheye">Fisheye</string>
   <string name="flash">Flash</string>
   <string name="flash_off">Flash désactivé</string>
   <string name="flash_on">Flash déclenché</string>

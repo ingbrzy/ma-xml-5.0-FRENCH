@@ -195,7 +195,7 @@
   <string name="pref_camera_coloreffect_entry_brannan">Aube</string>
   <string name="pref_camera_coloreffect_entry_sketch">Croquis</string>
   <string name="pref_camera_coloreffect_entry_seventy">1970s</string>
-  <string name="pref_camera_coloreffect_entry_fisheye">Fish Eye</string>
+  <string name="pref_camera_coloreffect_entry_fisheye">Fisheye</string>
   <string name="pref_camera_coloreffect_entry_jstyle">Japonais</string>
   <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaïque</string>
@@ -311,7 +311,7 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Désactiver</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activer</string>
   <string name="pref_camera_skinToneEnhancement_title">Amélioration de la teinte de peau</string>
-  <string name="pref_camera_sound_title">Couper le son du déclencheur</string>
+  <string name="pref_camera_sound_title">Son de déclenchement</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>
   <string name="pref_camera_touchafaec_title">Mise au point tactile</string>
@@ -412,7 +412,7 @@
   <string name="show_on_map">Afficher sur la carte</string>
   <string name="show_videos_only">Vidéos uniquement</string>
   <string name="simple_mode_button_text_audio_capture">Fermer la capture audio</string>
-  <string name="simple_mode_button_text_color_effect">Quitter</string>
+  <string name="simple_mode_button_text_color_effect">Quitter le mode effets</string>
   <string name="simple_mode_button_text_face_beauty">Fermer ajust. facial</string>
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
   <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>

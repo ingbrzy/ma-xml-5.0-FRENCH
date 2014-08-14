@@ -12,7 +12,7 @@
     <string name="mipay_button_cancel">Annuler</string>
     <string name="mipay_button_ok">Confirmer</string>
     <string name="mipay_set_password_hint">Veuillez saisir 6 numéros</string>
-    <string name="mipay_set_password_first_summary">Configuration d\'un nouveau mot de passe</string>
+    <string name="mipay_set_password_first_summary">Configuration d\'un mot de passe de paiement</string>
     <string name="mipay_cancel_bind_bank_card">Annuler l\'ajout d\'une carte bancaire ?</string>
     <string name="mipay_bank_card_hint">Veuillez saisir votre numéro de compte</string>
     <string name="mipay_bank_card_safe_info">Ce service est chiffré, il est autorisé par Xiaomi et certaines banques</string>
@@ -21,4 +21,18 @@
     <string name="mipay_error_auth">Erreur d\'authentification, veuillez vous reconnecter.</string>
     <string name="mipay_error_server">Erreur serveur. Veuillez ressayer plus tard</string>
     <string name="mipay_error_common">Erreur système. Veuillez ressayer plus tard</string>
+    <string name="mipay_pay_check_password_title">Saisissez votre mot de passe de paiement</string>
+    <string name="mipay_process_bind_bank_card">Ajout d\'une carte bancaire</string>
+    <string name="mipay_check_login_password_summary">Saisissez le mot de passe de votre compte Mi</string>
+    <string name="mipay_process_forget_password">Réinitialisation du mot de passe</string>
+    <string name="mipay_cancel_forget_password">Annuler la réinitialisation de votre mot de passe de paiement ?</string>
+    <string name="mipay_cancel_modify_password">Annuler la modification de votre mot de passe de paiement ?</string>
+    <string name="mipay_check_password_summary">Veuillez saisir votre mot de passe de paiement</string>
+    <string name="mipay_process_modify_password">Modification du mot de passe</string>
+    <string name="mipay_setting_title">Paramètres de sécurité</string>
+    <string name="mipay_add_bank_card">Carte bancaire</string>
+    <string name="mipay_bank_cards">Cartes bancaires</string>
+    <string name="mipay_setting_forget_password">Réinitialiser le mot de passe</string>
+    <string name="mipay_setting_modify_password">Modifier le mot de passe</string>
+    <string name="mipay_setting_title_password">Mot de passe de paiement</string>
 </resources>

@@ -44,7 +44,7 @@
     <string name="pref_category_title_auto_update">Auto-update apps</string>
     <string name="pref_category_title_delta_update">Incremental updating</string>
     <string name="pref_category_title_update_all">Update all</string>
-    <string name="pref_title_auto_update_via_wifi">Auto-update via WLAN</string>
+    <string name="pref_title_auto_update_via_wifi">Mises à jour auto via Wi-Fi</string>
     <string name="pref_title_auto_update_via_wifi_checkbox">Auto-update</string>
     <string name="pref_title_data_save">Réduire l\'usage des données</string>
     <string name="pref_title_clear_search_record">Effacer l\'historique des recherches</string>
@@ -69,8 +69,8 @@
     <string name="pref_title_update_all">To get all the updates that are available for your apps in one touch, go to the Updates tab and tap Update all.</string>
     <string name="clear_search_record_message">Effacer l\'historique des recherches ?</string>
     <string name="result_of_clear_history">Historique des recherches effacé</string>
-    <string name="pref_summary_auto_update_via_wifi">Automatically update apps via WLAN when screen is locked</string>
-    <string name="pref_summary_data_save">"Don't show images in Market when using mobile network"</string>
+    <string name="pref_summary_auto_update_via_wifi">Mettre à jour automatiquement les applis via Wi-Fi quand l\'écran est éteint.</string>
+    <string name="pref_summary_data_save">"Ne pas afficher les images lorsque connecté au réseau mobile"</string>
     <string name="pref_summary_feature_intro">"Learn about Xiaomi App Market's special features"</string>
     <string name="pref_summary_web_market0">Site web :</string>
     <string name="pref_summary_web_dev0">Site web :</string>

@@ -95,7 +95,7 @@
   <string name="add_weibo_account">Associer un compte</string>
   <string name="alert_title_remove_account">Supprimer les données synchronisée ?</string>
   <string name="alert_notif_title_dspt">Vos données seront perdues si vous égarez votre téléphone</string>
-  <string name="app_name">MiCloud Framework</string>
+  <string name="app_name">Xiaomi Service Framework</string>
   <string name="bad_authentication">Identifiant ou mot de passe incorrect</string>
   <string name="bind_sina_weibo">Autoriser Sina Weibo</string>
   <string name="bind_weibo_description">Trouver les contacts téléphoniques, amis et d\'autres informations directement à partir de votre compte.</string>

@@ -2,6 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- rm ?.?.? -->
+  <string name="setting_use_network">Autoriser l\'utilisation du réseau</string>
+  <string name="setting_use_network_summery">Autorise l\'usage de données sur les réseaux mobiles</string>
 <!-- rm 4.6.29-->
   <string name="variety">Variétés</string>
   <string name="all">Tous</string>
@@ -265,8 +268,6 @@ la vidéo sur votre box ou TV"</string>
   <string name="home_net_title">Avertissement</string>
   <string name="home_net_content">Cette application va utiliser votre connexion au réseau mobile de données, continuer ?</string>
   <string name="backkey_remark">*Note : appuyez sur Retour pour quitter</string>
-  <string name="setting_use_network">Autoriser l\'utilisation du réseau</string>
-  <string name="setting_use_network_summery">Autorise l\'usage de données sur les réseaux mobiles</string>
   <string name="show_hidemedia">Afficher les fichiers masqués</string>
   <string name="notshow_hidemedia">Ne pas afficher les fichiers masqués</string>
   <string name="addon_category">Addons</string>
@@ -287,6 +288,11 @@ la vidéo sur votre box ou TV"</string>
   <string name="dlna_name">Appareil partagé</string>
   <string name="dlna_list_name">Appareil DLNA</string>
   <!-- -->
+  <string name="receive_ad_notify">Notifications de contenus</string>
+  <string name="receive_ad_notify_summary">Recevoir des notifications à propos de nouveaux contenus</string>
+  <string name="download_is_success">Téléchargement terminé</string>
+  <string name="setting_network_alert">Alerte réseau</string>
+  <string name="setting_network_alert_summery">Demander lors de la visualisation de vidéos</string>
   
  <!-- à traduire éventuellement (non visibles...?) :
   <string name="ad_moredetail">more detail</string>
@@ -339,8 +345,6 @@ la vidéo sur votre box ou TV"</string>
   <string name="pick_hide_to_show">Choose items</string>
   <string name="hided_cannot_favorite">"Can't star hidden items"</string>
   <string name="favorited_cannot_hide">"Can't hide starred items"</string>
-  <string name="receive_ad_notify">Content notifications</string>
-  <string name="receive_ad_notify_summary">Receive notifications about new and updated online content</string>
   <string name="load_file_fail">Local file has been deleted</string>
   <string name="load_offline_file_fail">Local file no longer exists</string>
   <string name="load_failed_to_try">"Couldn't load file"</string>

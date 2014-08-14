@@ -569,7 +569,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="call_record_setting_miui">Paramètres d\'enregistrement d\'appel</string>
   <string name="call_record_unknown_error">Une erreur inconnue est survenue pendant l\'enregistrement !</string>
   <string name="call_recording_notification_summary_miui">Afficher une notification dans la barre d\'état à la fin de l\'enregistrement</string>
-  <string name="call_recording_notification_title_miui">Enregistrement de notification d\'appels</string>
+  <string name="call_recording_notification_title_miui">Notification d\'enregistrement d\'appel</string>
   <string name="call_recording_prompt_miui">Ouvrir l\'enregistrement des appels</string>
   <string name="call_settings">Paramètres d\'appel</string>
   <string name="call_settings_category_miui">Paramètres d\'appel</string>
