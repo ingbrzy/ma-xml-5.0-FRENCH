@@ -4273,6 +4273,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="empty_content_size">Aucun</string>
   <string name="large_file_sort_type_item_name">Nom</string>
   <string name="large_file_sort_type_item_size">Taille</string>
+  <string name="ct_mobile_data_hints">Impossible d\'activer la connexion de données sur la carte SIM 2 lorsqu\'elle est activée sur la carte SIM 1</string>
   
  <!-- à traduire ? certains téléphones = .."></strings> ?! :
   <string name="wifi_display_session_info">Session info</string>
