@@ -2,25 +2,45 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
- <!-- removed in 4.5.6 -->
-  <string name="bugreport_feedback_from">De : %s</string>
-  <string name="err_type">Type de retour</string>
-  <string name="user_feedback">Commentaires des utilisateurs</string>
-  <string name="menu_send">Envoyer le rapport</string>
- <!-- -->
-  <string name="action_submit">Envoyer</string>
-  <string name="app_label">Rapports</string>
-  <string name="btn_send">Envoyer</string>
-  <string name="description">Description (obligatoire)</string>
-  <string name="discard_draft_dialog_button_cancel">Annuler</string>
-  <string name="discard_draft_dialog_button_discard">OK</string>
-  <string name="discard_draft_dialog_content">Le rapport a été modifié, appuyez sur le bouton OK pour supprimer le brouillon.</string>
-  <string name="discard_draft_dialog_title">Supprimer le brouillon</string>
+ <!-- removed in 4.?.? -->
   <string name="err_type_call">Problèmes d\'appel</string>
   <string name="err_type_data_lost">Données perdues</string>
   <string name="err_type_force_close">Fermetures forcées</string>
   <string name="err_type_network">Problèmes de réseau</string>
   <string name="err_type_others">Autres</string>
+ <!-- removed in 4.5.6 -->
+  <string name="bugreport_feedback_from">De : %s</string>
+  <string name="user_feedback">Commentaires des utilisateurs</string>
+  <string name="menu_send">Envoyer le rapport</string>
+ <!-- -->
+  <string name="signal_problem1">Aucun signal</string>
+  <string name="signal_problem2">Signal faible</string>
+  <string name="network_err">Connexion de données indisponible, veuillez vérifier vos paramètres ou réessayer plus tard.</string>
+  <string name="systemui">Barre de notification</string>
+  <string name="screen_lock">Écran de verrouillage</string>
+  <string name="nonsystemapp_description">Décrivez le problème (en anglais)</string>
+  <string name="suggestion_description">"Description (en anglais) :
+ I hope you'll add X feature, because…"</string>
+  <string name="userbook_name">Guide utilisateur</string>
+  <string name="title_hot_problem">Bugs courants</string>
+  <string name="loading_apps">Chargement…</string>
+  <string name="hot_problem">Voir les bugs courants</string>
+  <string name="loading_hot_problem">Chargement…</string>
+  <string name="err_type_signal">Réseau</string>
+  <string name="err_type_systemapp">Applis système</string>
+  <string name="err_type_bluetooth">Bluetooth</string>
+  <string name="err_type_wifi">Wi-Fi</string>
+  <string name="err_type_camera">Appareil photo</string>
+  <string name="err_type_nonsystemapp">Autres applis</string>
+  <string name="err_type">Type de retour</string>
+  <string name="action_submit">Envoyer</string>
+  <string name="app_label">Rapports</string>
+  <string name="btn_send">Envoyer</string>
+  <string name="description">Décrivez le problème (en anglais)</string>
+  <string name="discard_draft_dialog_button_cancel">Annuler</string>
+  <string name="discard_draft_dialog_button_discard">OK</string>
+  <string name="discard_draft_dialog_content">Le rapport a été modifié, appuyez sur le bouton OK pour supprimer le brouillon.</string>
+  <string name="discard_draft_dialog_title">Supprimer le brouillon</string>
   <string name="err_type_power_consuming">Consommation d\'énergie</string>
   <string name="err_type_reboot">Redémarrages aléatoires</string>
   <string name="err_type_suggestion">Suggestions</string>
