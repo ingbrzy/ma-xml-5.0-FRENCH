@@ -221,7 +221,7 @@
   <string name="frame_movie">Film</string>
   <string name="frame_semicircle">Demi-cercle</string>
   <string name="frame_white">Blanc</string>
-  <string name="gallery_cloud_provider_name">Galerie MiCloud</string>
+  <string name="gallery_cloud_provider_name">Galerie</string>
   <string name="gallery_setting">Paramètres de la Galerie</string>
   <string name="get_album_info_in_process">"Demande d'informations de l'album partagé, veuillez patienter…"</string>
   <string name="global_setting">Paramètres</string>

@@ -1997,7 +1997,7 @@ Le code PIN est peut-être incorrect."</string>
 %1$s"</string>
   <string name="sync_plug"></string>
   <string name="sync_settings">Comptes &amp; synchronisation</string>
-  <string name="sync_wifi_label">Wi-Fi</string>
+  <string name="sync_wifi_label">Paramètres Wi-Fi</string>
   <string name="sync_wifi_only">Wi-Fi uniquement</string>
   <string name="system">Système</string>
   <string name="system_package">"Les mises à jour du système ne peuvent pas être installées sur des supports externes."</string>
@@ -3363,16 +3363,16 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="opt_state_pause">Pause</string>
   <string name="opt_state_running">Optimisation…</string>
   <string name="opt_virus_scan">Analyser maintenant</string>
-  <string name="opt_virus_suggest">Nombre de fichier(s) suspect(s) : %d, vous devriez faire une analyse de virus</string>
+  <string name="opt_virus_suggest">Nombre de fichiers suspects : %d, vous devriez faire une analyse de virus</string>
   <string name="opt_waiting">En attente</string>
-  <string name="optimize_ad_header_left">Fichier(s) pub. : %d</string>
+  <string name="optimize_ad_header_left">Fichiers pub. : %d</string>
   <string name="optimize_ad_list_empty_content">Aucun fichier pub. trouvé</string>
   <string name="optimize_apk_header_left">Fichiers apk : %d</string>
   <string name="optimize_apk_list_empty_content">Aucun fichier apk trouvé</string>
-  <string name="optimize_cache_header_left">Fichier(s) cache : %d</string>
+  <string name="optimize_cache_header_left">Fichiers cache : %d</string>
   <string name="optimize_cache_list_empty_content">Aucun fichier cache trouvé</string>
   <string name="optimize_done">Ok, c\'est fini !</string>
-  <string name="optimize_large_file_header_left">Fichier(s) volumineux : %d</string>
+  <string name="optimize_large_file_header_left">Fichiers volumineux : %d</string>
   <string name="optimize_large_file_list_empty_content">Aucun fichier volumineux trouvé</string>
   <string name="optimize_now">Démarrer</string>
   <string name="optimize_residual_header_left">Résidus : %d</string>
@@ -3859,8 +3859,8 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="cleanning_prefix">Nettoyage : %s</string>
   <string name="scanning_start_hints">Préparation du moteur d\'analyse</string>
   <string name="pref_category_title_auto_update_cleanup_db">Paramètres de mise à jour</string>
-  <string name="pref_title_auto_update_cleanup_db">Mises à jour auto.</string>
-  <string name="pref_summary_auto_update_cleanup_db">MàJ : %s</string>
+  <string name="pref_title_auto_update_cleanup_db">Mises à jour automatiques</string>
+  <string name="pref_summary_auto_update_cleanup_db">Dernière MàJ : %s</string>
   <string name="pref_title_manual_check_cleanup_db_update">Vérifier maintenant</string>
   <string name="msg_cleanup_db_update_checking">Vérification…</string>
   <string name="msg_update_error_code_success">Mise à jour effectuée</string>
