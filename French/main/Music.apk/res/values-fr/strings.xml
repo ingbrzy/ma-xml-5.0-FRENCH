@@ -6,9 +6,9 @@
   <string name="music_filter_helper">Afin de cacher les fichiers non liés à la musique, un filtre a été appliqué pour ignorer les fichiers de moins de 800 Ko. Pour régler ce seuil allez dans Paramètres &gt; filtrer les fichiers</string>
  <!-- removed 4.4.23 mi2 -->
   <string name="load_album_failed">Le chargement de la liste d\'albums a échoué, veuillez réessayer</string>
-  <string name="load_album_in_process">Chargement de la liste d\'albums</string>
+  <string name="load_album_in_process">Chargement de la liste d\'albums…</string>
   <string name="load_artist_failed">Le chargement de la liste d\'artistes a échoué, veuillez réessayer</string>
-  <string name="load_artist_in_process">Chargement de la liste d\'artistes</string>
+  <string name="load_artist_in_process">Chargement de la liste d\'artistes…</string>
   <string name="load_album_artist_failed">Le chargement de la liste d\'albums et d\'artistes a échoué. Veuillez réessayer.</string>
   <string name="load_album_artist_in_process">Chargement de la liste d\'albums et d\'artistes…</string>
   <string name="synchronize_guide_toast">Pour activer la synchronisation, aller à Paramètres &gt; Sync playlists</string>
@@ -155,11 +155,11 @@
   <string name="listen_to_music_online_settings">Écouter de la musique en ligne</string>
   <string name="listen_to_online_summary">Autoriser l\'utilisation du réseau mobile pour écouter de la musique en ligne.</string>
   <string name="load_audio_failed">Le chargement de la liste d\'albums a échoué, veuillez réessayer</string>
-  <string name="load_audio_in_process">Chargement de la liste audio</string>
+  <string name="load_audio_in_process">Chargement de la liste audio…</string>
   <string name="load_bill_failed">Impossible de charger la liste Billboard, veuillez réessayer</string>
-  <string name="load_bill_in_process">Chargement de la liste Billboard</string>
+  <string name="load_bill_in_process">Chargement de la liste Billboard…</string>
   <string name="load_channel_failed">Impossible de charger la liste de chaines, veuillez réessayer</string>
-  <string name="load_channel_in_process">Chargement de la liste de chaines</string>
+  <string name="load_channel_in_process">Chargement de la liste de chaines…</string>
   <string name="loading">Chargement…</string>
   <string name="lrc_progress_modify">Ajuster la vitesse de défilement des paroles</string>
   <string name="lrc_progress_modify_helper">Ajuster la vitesse de défilement des paroles en les faisant glisser vers le haut ou vers le bas</string>

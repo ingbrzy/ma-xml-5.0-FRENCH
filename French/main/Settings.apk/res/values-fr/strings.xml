@@ -3447,7 +3447,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_customizer_user_define_name">Personnalisé</string>
   <string name="power_customizer_user_define_summary">Paramètres définis par l\'utilisateur</string>
   <string name="power_dialog_auto_clean_memory_summary">Quand l\'appareil est verrouillé, nettoyer les processus, mis en cache, gourmands en énergie</string>
-  <string name="power_dialog_auto_clean_memory_title">Nettoyer la mémoire automatiquement</string>
+  <string name="power_dialog_auto_clean_memory_title">Nettoyage automatique de la mémoire</string>
   <string name="power_dialog_cancel">Annuler</string>
   <string name="power_dialog_cpu_state_balance">Équilibré</string>
   <string name="power_dialog_cpu_state_balance_desc">Augmenter les performances du processeur seulement en fonction des besoins</string>
@@ -3455,7 +3455,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_dialog_cpu_state_performance_desc">Performances prioritaires sur l\'autonomie de la batterie</string>
   <string name="power_dialog_cpu_state_save">Économiser la batterie</string>
   <string name="power_dialog_cpu_state_save_desc">Autonomie de la batterie prioritaire sur les performances</string>
-  <string name="power_dialog_cpu_state_title">Usage CPU</string>
+  <string name="power_dialog_cpu_state_title">Gouverneur CPU</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">Impossible de supprimer : vous êtes en train d\'utiliser ce profil.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Impossible de supprimer : votre appareil est réglé pour passer à ce profil lorsque la batterie est faible,
  Vous devez modifier cette configuration avant de pouvoir supprimer ce profil."</string>
@@ -3469,17 +3469,17 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_dialog_screen_brightness_automatic_on">Luminosité de l\'écran variera en fonction de la lumière environnante</string>
   <string name="power_dialog_screen_brightness_title">Luminosité</string>
   <string name="power_dialog_sleep_title">Veille</string>
-  <string name="power_dialog_vibration_title">Vibrer</string>
+  <string name="power_dialog_vibration_title">Vibreur</string>
   <string name="power_mgr">Énergie</string>
   <string name="power_mode_airplane_mode">Mode avion</string>
   <string name="power_mode_auto_clean_memery_lock_screen">Après %1$d min</string>
-  <string name="power_mode_auto_clean_memory">Nettoyer la mémoire automatiquement</string>
+  <string name="power_mode_auto_clean_memory">Nettoyer la mémoire</string>
   <string name="power_mode_auto_clean_memory_in_five_minutes">Après 5 minutes</string>
   <string name="power_mode_auto_clean_memory_in_one_minute">Après 1 minute</string>
   <string name="power_mode_auto_clean_memory_in_ten_minutes">Après 10 minutes</string>
   <string name="power_mode_auto_clean_memory_never">Jamais</string>
   <string name="power_mode_bluetooth">Bluetooth</string>
-  <string name="power_mode_cpu_state">Usage CPU</string>
+  <string name="power_mode_cpu_state">Gouverneur CPU</string>
   <string name="power_mode_cpu_state_balance">Équilibré</string>
   <string name="power_mode_cpu_state_balance_desc">Augmenter les performances du processeur seulement en fonction des besoins</string>
   <string name="power_mode_cpu_state_performance">Performances</string>
@@ -3499,8 +3499,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="power_mode_sleep_never">Jamais</string>
   <string name="power_mode_switch_off">Inactif</string>
   <string name="power_mode_switch_on">Actif</string>
-  <string name="power_mode_synchronization">Sync.</string>
-  <string name="power_mode_touch_with_ring">Notification sonore au touché</string>
+  <string name="power_mode_synchronization">Synchronisation</string>
+  <string name="power_mode_touch_with_ring">Notification sonore au toucher</string>
   <string name="power_mode_touch_with_vibration">Vibrer au toucher</string>
   <string name="power_mode_vibration">Vibreur</string>
   <string name="power_mode_vibration_no">Désactivé</string>
