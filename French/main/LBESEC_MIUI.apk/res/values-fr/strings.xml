@@ -24,13 +24,13 @@
   <string name="Dashboard_Perm_AutoStart">Démarrage</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Activer ou désactiver le démarrage automatique des applications</string>
   <string name="Dashboard_Perm_HIPS">Gérer les permissions des applications</string>
-  <string name="Dashboard_Perm_HIPS_Desc">Surveillance de %1$d application(s)</string>
-  <string name="Dashboard_Perm_HIPS_Desc2">Surveillance de %1$d application(s)</string>
+  <string name="Dashboard_Perm_HIPS_Desc">Applications surveillées : %1$d</string>
+  <string name="Dashboard_Perm_HIPS_Desc2">Applications surveillées : %1$d</string>
   <string name="Dashboard_Perm_HIPS_Disabled">La surveillance des permissions est désactivée</string>
   <string name="Dashboard_Perm_HIPS_Risky">Permissions risquées (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Safe">Permissions normales (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Switch">Moniteur de permission</string>
-  <string name="Dashboard_Perm_Header">Surveillance de %1$d application(s)</string>
+  <string name="Dashboard_Perm_Header">Applications surveillées : %1$d</string>
   <string name="Dashboard_Perm_Header_Disabled">Le moniteur de permission est désactivé</string>
   <string name="Dashboard_Perm_SU">Gérer les permissions ROOT</string>
   <string name="Dashboard_Perm_SU_Desc">Surveillance de %1$d application(s) pour les permissions ROOT</string>

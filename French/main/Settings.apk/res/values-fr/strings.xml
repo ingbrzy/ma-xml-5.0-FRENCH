@@ -223,7 +223,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="auto_restore_summary">Lors de la réinstallation d\'une application restaurer les paramètres et les données sauvegardées</string>
   <string name="auto_restore_title">Restaurer automatiquement</string>
   <string name="auto_startup_application_manage">Démarrage</string>
-  <string name="auto_startup_count">%d application(s)</string>
+  <string name="auto_startup_count">Applications autorisées : %d</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d'énergie et de données.
  Autoriser le démarrage automatique ?"</string>
   <string name="automatic_brightness">Ajuster automatiquement la luminosité</string>
@@ -1365,7 +1365,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="perm_disable">Désactiver</string>
   <string name="perm_enable">Activer le moniteur d\'autorisations</string>
   <string name="perm_good">Bon</string>
-  <string name="perm_header">Surveillance de %1$d application(s)</string>
+  <string name="perm_header">Applications surveillées : %1$d</string>
   <string name="perm_header_disabled">Moniteur de permission désactivé</string>
   <string name="perm_hide_system_app">Masquer les applications du système</string>
   <string name="perm_hips">Gérer les autorisations d\'application</string>
@@ -1462,14 +1462,14 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="perm_notice">Alerte de sécurité</string>
   <string name="perm_operating">En cours…</string>
   <string name="perm_optimize">Optimiser</string>
-  <string name="perm_privacy_app_count">%1$d autorisation(s)</string>
+  <string name="perm_privacy_app_count">Autorisations : %1$d</string>
   <string name="perm_privacy_app_count_trust_summary">Faire confiance à l\'application</string>
   <string name="perm_privacy_app_finish">Terminer</string>
   <string name="perm_privacy_app_installed">Installation réussie !</string>
   <string name="perm_privacy_app_launch">Démarrer</string>
   <string name="perm_privacy_app_log">Journal</string>
   <string name="perm_privacy_app_manage">Détails</string>
-  <string name="perm_privacy_app_trust">Je fais confiance à cette app</string>
+  <string name="perm_privacy_app_trust">Faire confiance à cette appli</string>
   <string name="perm_privacy_app_trust_dialog_content">MIUI ne vous demandera plus de confirmation pour les autorisations liées à votre sécurité et confidentialité provenant de cette application.</string>
   <string name="perm_privacy_app_trust_dialog_title">Faire confiance à cette app</string>
   <string name="perm_privacy_app_trust_summary">De confiance</string>
@@ -1483,7 +1483,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="perm_show_system_app">Afficher les applications du système</string>
   <string name="perm_su">Gérer les autorisations ROOT</string>
   <string name="perm_su_desc">Surveille %1$d apps pour la permission ROOT</string>
-  <string name="perm_su_desc1">Gérer les autorisations ROOT</string>
+  <string name="perm_su_desc1">Gestion des autorisations ROOT</string>
   <string name="perm_su_disabled">Permission ROOT désactivée</string>
   <string name="perm_su_disabled_desc">Donner l\'autorisation ROOT aux applications tierces peut provoquer des instabilités système, la perte de données personnelles et système, ou des dommages matériels. Veuillez être certain de ce que vous faites.</string>
   <string name="perm_su_disabled_in_stable">ROOT n\'est pas disponible dans la version stable de MIUI</string>
@@ -2235,7 +2235,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="virus_scan_app_force_stop">Analyse arrêtée</string>
   <string name="virus_scan_app_is_stop_scan">Souhaitez-vous arrêter l\'analyse antivirus ?</string>
   <string name="virus_scan_app_multi_engines">"Vous avez choisi plusieurs moteurs, le temps de balayage peut prendre plus de temps"</string>
-  <string name="virus_scan_app_no_risk">Aucun risque détecté</string>
+  <string name="virus_scan_app_no_risk">Aucune menace détectée</string>
   <string name="virus_scan_app_passed">Le scan s\'est terminé avec succès</string>
   <string name="virus_scan_app_risk">Menace trouvée !</string>
   <string name="virus_scan_app_safe_scanning">Analyse en cours…</string>
@@ -3175,7 +3175,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="app_manage_tab_title">Applications</string>
   <string name="app_name">Centre de sécurité</string>
   <string name="app_uninstall_residual">Nettoyer les fichiers résiduels de désinstallation ?</string>
-  <string name="auto_start_summary">%1$d application(s) autorisée(s)</string>
+  <string name="auto_start_summary">Applications autorisées : %1$d</string>
   <string name="auto_start_title">Gérer les démarrages automatiques</string>
   <string name="battery_desc_other_apps">Énergie totale consommée par les autres applis</string>
   <string name="black_white_list_tab_title">Filtres</string>
@@ -3540,8 +3540,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="process_manage_title">%1$d processus en cours, %2$s peuvent être libérés</string>
   <string name="process_manager_actionbar_title">Usage de la mémoire</string>
   <string name="protection_adb">Débogage USB</string>
-  <string name="protection_category_dangerous_title">Risque(s) (%d)</string>
-  <string name="protection_category_recommend_title">Optimisation(s) recommandée(s) (%d)</string>
+  <string name="protection_category_dangerous_title">Risques : %d</string>
+  <string name="protection_category_recommend_title">Optimisations recommandées : %d</string>
   <!-- protection_category_security_title à revoir/remplacer -->
   <string name="protection_category_security_title">Nettoyage (%d)</string>
   <string name="protection_perm">Paramètres permissions</string>
@@ -3594,7 +3594,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="summary_virus_update">Mettre à jour automatiquement les définitions de virus quand connecter via Wi-Fi</string>
   <string name="system_cache_title">Cache système</string>
   <string name="title_app_update_no">Mises à jour disponibles pour %d applis</string>
-  <string name="title_app_update_yes">Toutes les applis sont à jour</string>
+  <string name="title_app_update_yes">Applications toutes à jour</string>
   <string name="title_data_flow_no">Moniteur de données inactif</string>
   <string name="title_data_flow_yes">Moniteur de données actif</string>
   <string name="title_install_virus_no">Moniteur d\'installations inactif</string>
@@ -3606,7 +3606,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="title_permission_no">Gestionnaire de permission inactif</string>
   <string name="title_permission_yes">Gestionnaire de permission actif</string>
   <string name="title_show_notification_no">Masquer les notifications</string>
-  <string name="title_show_notification_yes">Afficher les notifications</string>
+  <string name="title_show_notification_yes">Affichage des notifications</string>
   <string name="title_usb_no">Débogage USB actif</string>
   <string name="title_usb_yes">Débogage USB inactif</string>
   <string name="title_virus_no">Virus détecté</string>
@@ -3629,13 +3629,13 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_clean_dialog_message">Nettoyage…</string>
   <string name="virus_scan_clear">Nettoyer</string>
   <string name="virus_scan_caller_unknown">Inconnu</string>
-  <string name="virus_scan_dangerous">Risque</string>
-  <string name="virus_scan_description">Cette appli présente un risque majeur pour la sécurité de votre téléphone.</string>
+  <string name="virus_scan_dangerous">Risqué</string>
+  <string name="virus_scan_description">Cette appli représente une menace majeure pour la sécurité de votre téléphone.</string>
   <string name="virus_scan_file_type_risk_apk">Application suspecte (apk)</string>
   <string name="virus_scan_file_type_risk_installed">Application suspecte (installée)</string>
   <string name="virus_scan_file_type_virus_apk">Virus (apk)</string>
   <string name="virus_scan_file_type_virus_installed">Virus (installé)</string>
-  <string name="virus_scan_find">%d risque(s) détecté(s)</string>
+  <string name="virus_scan_find">Menaces détectées : %d</string>
   <string name="virus_scan_finish">OK</string>
   <string name="virus_scan_finish_text">OK, les mauvaises choses ont disparues !</string>
   <string name="virus_scan_guard_provider_missed">Le scanneur de virus est corrompu. Veuillez effectuer une restauration d\'usine de votre téléphone.</string>
@@ -3653,19 +3653,19 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_lib_update_time">Dernière mise à jour : %s</string>
   <string name="virus_scan_link_wifi_to_update_lib">Mettre à jour automatiquement</string>
   <string name="virus_scan_list_empty_content">Aucun élément suspect détecté</string>
-  <string name="virus_scan_list_item_risk">Risque</string>
+  <string name="virus_scan_list_item_risk">Menaces</string>
   <string name="virus_scan_list_item_virus">Virus</string>
   <string name="virus_scan_list_loading_hits">Analyse…</string>
   <string name="virus_scan_monitoring">Moniteur d\'installations</string>
   <string name="virus_scan_never_scaned">Analyse recommandée</string>
-  <string name="virus_scan_not_found_risk">Aucun risque détecté</string>
+  <string name="virus_scan_not_found_risk">Aucune menace détecté</string>
   <string name="virus_scan_not_found_virus">Aucun virus détecté</string>
   <string name="virus_scan_others_title">Autres paramètres</string>
   <string name="virus_scan_package_label_unknown">inconnu</string>
   <string name="virus_scan_parpare">Démarrage…</string>
-  <string name="virus_scan_risk_button_name">Risque</string>
-  <string name="virus_scan_risk_list_empty">Aucun risque détecté</string>
-  <string name="virus_scan_risk_title">%d application(s) suspecte(s) détectée(s)</string>
+  <string name="virus_scan_risk_button_name">Menaces</string>
+  <string name="virus_scan_risk_list_empty">Aucune application suspecte détectée</string>
+  <string name="virus_scan_risk_title">Applications suspectes détectées : %d</string>
   <string name="virus_scan_safe">Sûr</string>
   <string name="virus_scan_settings">Paramètres</string>
   <string name="virus_scan_settings_title">Paramètres des définitions de virus</string>
@@ -3677,7 +3677,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="virus_scan_update_now">Mettre à jour maintenant</string>
   <string name="virus_scan_use_cloud">Définitions de virus en ligne</string>
   <string name="virus_scan_virus_list_empty">Aucun virus détecté</string>
-  <string name="virus_scan_virus_title">%d virus détecté(s) !</string>
+  <string name="virus_scan_virus_title">Virus détectés : %d</string>
   <string name="virus_scan_viruslib_version">Définitions de virus version : %s</string>
   <string name="virus_scanner_lib_update_success">Les définitions de virus ont été mis à jour automatiquement.</string>
   <string name="virus_scanner_module">Tencent</string>
@@ -3883,7 +3883,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="deep_clean_summary_install_apps_interval">Utilisé il y a %d jours</string>
   <string name="deep_clean_summary_install_apps_new">Jamais utilisée</string>
   <string name="deep_clean_summary_install_apps_virus">Virus détecté</string>
-  <string name="deep_clean_summary_install_apps_risk">Risque détecté</string>
+  <string name="deep_clean_summary_install_apps_risk">Menace détectée</string>
   <string name="optimize_installed_apps_list_empty_content">Aucune application trouvée</string>
   <string name="uninstall_confirm_title">Désinstaller ces applications</string>
   <string name="button_text_uninstall">Désinstaller</string>
@@ -4182,7 +4182,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="incoming_call_breathing_light_freq_title">Fréquence de clignotement (appels)</string>
   <string name="notification_breathing_light_freq_title">Fréquence de clignotement (notifications)</string>
   <string name="mms_breathing_light_freq_title">Fréquence de clignotement (messages)</string>
-  <string name="button_text_known">OK, je le sais</string>
+  <string name="button_text_known">OK</string>
   <string name="dialog_message_auto_start_tips">Certaines applications de sécurité peuvent incorrectement indiquer que MIUI empêche leur fonctionnement correct. Pour vérifier les permissions accordées aux applications, allez dans Paramètres > Applications.</string>
   <string name="dialog_title_auto_start_tips">À propos des démarrages auto</string>
   <string name="translation_contributors_title">Contributeurs</string>
