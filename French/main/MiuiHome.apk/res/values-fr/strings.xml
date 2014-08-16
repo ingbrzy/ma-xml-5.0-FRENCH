@@ -51,7 +51,7 @@
   <string name="unnamed_folder_name">Dossier sans nom</string>
   <string name="chooser_wallpaper">Sélectionner à partir de…</string>
   <string name="activity_not_found">Application non installée</string>
-  <string name="cancel_action">Annuler</string>
+  <string name="cancel_action">Non</string>
   <string name="apply_as_lock_wallpaper">Appliquer</string>
   <string name="apply_as_lock_wallpaper_message">Appliquer ce fond d\'écran sur votre écran de verrouillage ?</string>
   <string name="lock_screen_failed_message">Échec, non appliqué</string>
