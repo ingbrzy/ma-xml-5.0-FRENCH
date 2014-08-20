@@ -24,15 +24,13 @@ Note : Traductions pour plusieurs téléphones, ne pas supprimer de lignes
 
 -->
 <resources>
- <!-- removed 4.8.12 -->
-  <string name="applications_sort_type_title">Trier</string>
  <!-- removed 4.4.22 mi2 -->
   <string name="incoming_call_vibrate_abbreviation">"Appels "</string>
   <string name="notification_vibrate_abbreviation">"Notifications "</string>
   <string name="mms_vibrate_abbreviation">"Messages "</string>
   <string name="breathing_light_color_title">" : couleur de la LED"</string>
 <!-- -->
-
+  <string name="applications_sort_type_title">Trier</string>
   <string name="about_settings">À propos du téléphone</string>
   <string name="about_settings_summary">Informations légales, état et version du logiciel</string>
   <string name="ac_enable_title">Activer le contrôle d\'accès</string>

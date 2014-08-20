@@ -133,7 +133,7 @@ Réessayer dans %d secondes."</string>
   <string name="perm_payment_dspt">Permettre à l\'application de payer avec le service de paiement de Xiaomi</string>
   <string name="perm_payment_lab">MiPay</string>
   <string name="perm_send_push_dspt">Autoriser les messages push de Xiaomi</string>
-  <string name="perm_send_push_lab">Envoyer un message push</string>
+  <string name="perm_send_push_lab">Réception de messages push</string>
   <string name="perm_tigger_toggle_dspt">Permettre aux applications d\'utiliser les boutons du widget de la barre d\'état</string>
   <string name="perm_tigger_toggle_lab">Utiliser les boutons du widget de la barre d\'état</string>
   <string name="perm_use_find_device">Localiser l\'appareil</string>
