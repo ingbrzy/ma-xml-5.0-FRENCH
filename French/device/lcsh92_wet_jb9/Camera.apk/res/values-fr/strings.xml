@@ -1,5 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="pref_long_press_shutter_button_focus_title">Appui long sur déclencheur pour focus</string>
+  <string name="pref_video_4kuhd_title_simple_mode">Mode 4K</string>
+  <string name="ubi_focus_capture_fail">Erreur, veuillez réessayer</string>
+  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre) et éloignés"</string>
+  <string name="simple_mode_button_text_4kuhd">Quitter le mode 4K</string>
+  <string name="pref_priority_storage_title">Sauvegarder sur la carte SD</string>
+  <string name="burst_shoot_exit_button_text">Quitter le mode rafale</string>
+  <string name="pref_burst_shoot_title">Mode rafale</string>
+  <string name="cannot_move_warning_message">Capture de la photo, ne bougez pas l\'appareil</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Capture auto lorsque stable</string>
+  <string name="pref_camera_countdown_title">Compte à rebours</string>
   <string name="Import">Importer</string>
   <string name="access_sd_fail">Impossible d\'accéder à la mémoire de stockage USB.</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Basculer entre la l\'appareil photo et la vidéo (actuellement sur %s)</string>
@@ -367,7 +378,7 @@
   <string name="pref_video_captrue_ability_title">Capacité de capture</string>
   <string name="pref_video_focusmode_entry_auto">Toucher</string>
   <string name="pref_video_focusmode_entry_continuous">AutoFocus continu</string>
-  <string name="pref_video_focusmode_title">Mode focus</string>
+  <string name="pref_video_focusmode_title">Mode de focus</string>
   <string name="pref_video_quality_entry_1080p">Full HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_720p">HD</string>

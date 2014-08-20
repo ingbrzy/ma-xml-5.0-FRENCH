@@ -367,7 +367,7 @@
   <string name="pref_video_captrue_ability_title">Capacité de capture</string>
   <string name="pref_video_focusmode_entry_auto">Toucher</string>
   <string name="pref_video_focusmode_entry_continuous">AutoFocus continu</string>
-  <string name="pref_video_focusmode_title">Mode focus</string>
+  <string name="pref_video_focusmode_title">Mode de focus</string>
   <string name="pref_video_quality_entry_1080p">Full HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_720p">HD</string>
