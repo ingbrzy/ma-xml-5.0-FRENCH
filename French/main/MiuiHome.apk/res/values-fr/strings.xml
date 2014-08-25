@@ -53,7 +53,7 @@
   <string name="activity_not_found">Application non installée</string>
   <string name="cancel_action">Non</string>
   <string name="apply_as_lock_wallpaper">Appliquer</string>
-  <string name="apply_as_lock_wallpaper_message">Appliquer ce fond d\'écran sur votre écran de verrouillage ?</string>
+  <string name="apply_as_lock_wallpaper_message">Appliquer également sur l\'écran de verrouillage ?</string>
   <string name="lock_screen_failed_message">Échec, non appliqué</string>
   <string name="lock_screen_success_message">Appliqué</string>
   <string name="out_of_space">Espace saturé sur cette page</string>

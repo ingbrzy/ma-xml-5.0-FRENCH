@@ -167,7 +167,7 @@
   <string name="edit">Modifier</string>
   <string name="edit_nickname_for_nocontact">Aucun destinataire trouvé. Vous devez avoir au moins un destinataire pour éditer son nom.</string>
   <string name="edit_nickname_for_nocontact_by_robot">Vous devez avoir au moins un destinataire pour éditer des noms.</string>
-  <string name="edit_phrase">Modifier la phrase</string>
+  <string name="edit_phrase">Modifier les phrases</string>
   <string name="edit_slide_activity">Modifier la diapositive</string>
   <string name="edit_slideshow_activity">Modifier le diaporama</string>
   <string name="enable_password_protect">Schéma de verrouillage requis</string>

@@ -236,8 +236,8 @@
   <string name="HIPS_Perm_Notification">Afficher des notifications</string>
   <string name="HIPS_Perm_Notification_Desc">Afficher des notifications dans la barre de\'état</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s applis peuvent afficher des notifications</string>
-  <string name="HIPS_Perm_Calendar">Accéder au calendrier</string>
-  <string name="HIPS_Perm_Calendar_Desc">Accès aux données du calendrier</string>
+  <string name="HIPS_Perm_Calendar">Calendrier</string>
+  <string name="HIPS_Perm_Calendar_Desc">Accéder aux données du calendrier</string>
   <string name="HIPS_Perm_Calendar_Hint">%1$s applis peuvent accéder au calendrier</string>
   <string name="HIPS_Perm_SystemAlert">Afficher des pop-up</string>
   <string name="HIPS_Perm_SystemAlert_Desc">Afficher une fenêtre flottante</string>

@@ -59,9 +59,9 @@
   <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
   <string name="always_use_device">Utiliser par défaut pour ce périphérique USB</string>
   <string name="app_label">IU système</string>
-  <string name="battery_low_percent_format">%d%% restants.</string>
+  <string name="battery_low_percent_format">%d%% restants</string>
   <string name="battery_low_subtitle">Le niveau de la batterie est faible.</string>
-  <string name="battery_low_title">Brancher le chargeur</string>
+  <string name="battery_low_title">Veuillez connecter le chargeur</string>
   <string name="battery_low_why">Utilisation batterie</string>
   <string name="bluetooth_tethered">Connexion Bluetooth partagée</string>
   <string name="call_status_dialing">Numérotation</string>

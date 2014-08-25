@@ -62,10 +62,10 @@
   <string name="preference_enable_earpiece_title">Utiliser le récepteur pour la lecture audio</string>
   <string name="preference_led_indicator">Écran de verrouillage</string>
   <string name="preference_led_indicator_prompt">Lors d\'un enregistrement, si l\'écran est verrouillé, l\'indiquer via la LED et la barre d\'état</string>
-  <string name="preference_record_scenes_dialog_title">Sélectionner une scène d\'enregistrement</string>
+  <string name="preference_record_scenes_dialog_title">Sélectionner le mode d\'enregistrement</string>
   <string name="preference_record_type_dialog_title">Choisir un type d\'enregistrement</string>
   <string name="preference_record_type_title">Type d\'enregistrement</string>
-  <string name="preference_scenes">Paramètres des scènes</string>
+  <string name="preference_scenes">Mode d\'enregistrement</string>
   <string name="preference_silent_mode">Enregistrement en silencieux</string>
   <string name="preference_silent_mode_summary">Activer pour permettre les enregistrements en silencieux</string>
   <string name="record_list">Liste des enregistrements</string>

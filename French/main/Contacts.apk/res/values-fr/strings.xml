@@ -134,7 +134,7 @@
   <string name="callrecordview_menu_show_all">Afficher tous les appels</string>
   <string name="callrecordview_menu_show_called">Afficher les appels sortants</string>
   <string name="callrecordview_menu_show_missed">Afficher les appels manqués</string>
-  <string name="callrecordview_menu_show_new">Nouveaux contacts</string>
+  <string name="callrecordview_menu_show_new">Afficher les nouveaux contacts</string>
   <string name="callrecordview_menu_show_sim">%s appels</string>
   <string name="callrecordview_menu_show_stranger">Afficher les appels inconnus</string>
   <string name="callrecordview_menu_show_title">Filtre du journal d\'appels</string>
@@ -1122,7 +1122,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="group_name">Mes groupes</string>
   <string name="resource_import_failed">Échec de l\'importation</string>
   <string name="resource_ringtone_playing_error">erreur de lecture</string>
-  <string name="resource_download_trial">Essai gratuit</string>
+  <string name="resource_download_trial">Essayer</string>
   <string name="resource_apply_trial">"Essayer "</string>
   <string name="resource_on_trial">Essai de \"%1$s\" en cours</string>
   <string name="resource_trial_time">(%1$d minutes)</string>

@@ -807,7 +807,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
   <string name="dndm_repeated_call_summary_3min">Si le même correspondant appelle de nouveau dans les trois minutes qui suivent, le téléphone sonnera</string>
   <string name="dndm_repeated_call_summary_none">Mettre sous silence les appels répétés du même numéro</string>
   <string name="dndm_special_call_setting_group">Exceptions</string>
-  <string name="dndm_summary">Lorsque le mode NPD est activé et le téléphone verrouillé les appels et les notifications seront mis sous silence.</string>
+  <string name="dndm_summary">Lorsque le mode NPD est activé et le téléphone verrouillé, les appels et les notifications seront mis sous silence.</string>
   <string name="dndm_vip_call_button_title">Autoriser les appels des exceptions</string>
   <string name="dndm_vip_call_setting_title">Paramètres des exceptions</string>
   <string name="dndm_vip_call_summary_contact">Tous les contacts</string>
@@ -1532,7 +1532,7 @@ Donner cette autorisation aux applications peut provoquer des instabilités syst
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Veille GSM</string>
   <string name="power_idle">Téléphone inactif</string>
-  <string name="power_mode">Mode d\'alimentation</string>
+  <string name="power_mode">Gouverneur CPU</string>
   <string name="power_phone">Appels vocaux</string>
   <string name="power_screen">Écran</string>
   <string name="power_usage_history">Utilisation de la batterie</string>
@@ -1968,7 +1968,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="storage_title_usb">Connexion USB à l\'ordinateur</string>
   <string name="storageuse_settings_summary">Afficher l\'espace de stockage utilisé par les applications</string>
   <string name="storageuse_settings_title">Utilisation du stockage</string>
-  <string name="strict_mode">Mode Strict activé</string>
+  <string name="strict_mode">Activer le mode strict</string>
   <string name="strict_mode_summary">Afficher un cadre rouge si le thread principal reste occupé</string>
   <string name="subscription_01_summary">Définir les options pour les paramètres réseau SUB1</string>
   <string name="subscription_01_title">SUB 1</string>
@@ -3233,10 +3233,10 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="enable_app_permission_summary">23 applis surveillées</string>
   <string name="enable_app_permission_title">Le gestionnaire de permissions est actif</string>
   <string name="enable_firewall">Filtrer les appels indésirables</string>
-  <string name="examination_score_100">Analyse non requise, tout à l\'air dans l\'ordre !</string>
+  <string name="examination_score_100">Analyse non requise, tout est en ordre !</string>
   <string name="examination_score_60_0">Vous devriez optimiser votre téléphone</string>
-  <string name="examination_score_80_100">Certains éléments peuvent êtres optimisés</string>
-  <string name="examination_score_80_60">Certains éléments peuvent êtres optimisés</string>
+  <string name="examination_score_80_100">Certains éléments peuvent être optimisés</string>
+  <string name="examination_score_80_60">Certains éléments peuvent être optimisés</string>
   <string name="examination_score_has_virus">Applications suspectes détectées…</string>
   <string name="finish_checking_memory">Finalisation de la vérification de l\'état de la mémoire…</string>
   <string name="finish_checking_protection">Finalisation de la vérification de la protection en temps réel…</string>
@@ -3328,7 +3328,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="menu_item_about_content">Version : %s</string>
   <string name="menu_item_about_title">À propos</string>
   <string name="mms_log_tab_title">Journal des messages</string>
-  <string name="need_check">Certains éléments peuvent êtres optimisés…</string>
+  <string name="need_check">Certains éléments peuvent être optimisés…</string>
   <string name="network_assistant">Moniteur données</string>
   <string name="new_bw_list_button">Ajouter un contact</string>
   <string name="number_add_hint">Saisir un numéro</string>
@@ -3538,10 +3538,10 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="process_manage_title">%1$d processus en cours, %2$s peuvent être libérés</string>
   <string name="process_manager_actionbar_title">Usage de la mémoire</string>
   <string name="protection_adb">Débogage USB</string>
-  <string name="protection_category_dangerous_title">Risques : %d</string>
+  <string name="protection_category_dangerous_title">Potentiellement dangereux : %d</string>
   <string name="protection_category_recommend_title">Optimisations recommandées : %d</string>
   <!-- protection_category_security_title à revoir/remplacer -->
-  <string name="protection_category_security_title">Nettoyage (%d)</string>
+  <string name="protection_category_security_title">Sûr : %d</string>
   <string name="protection_perm">Paramètres permissions</string>
   <string name="protection_sms">Filtre SMS</string>
   <string name="quick_clean">Nettoyer</string>
