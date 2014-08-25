@@ -20,6 +20,20 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+  <string-array name="tts_rate_entries">
+      <item>Très lente</item>
+      <item>Lente</item>
+      <item>Normale</item>
+      <item>Rapide</item>
+      <item>Très rapide</item>
+  </string-array>
+  <string-array name="tts_rate_values">
+      <item>60</item>
+      <item>80</item>
+      <item>100</item>
+      <item>150</item>
+      <item>200</item>
+  </string-array>
     <string-array name="timezone_filters">
         <item>Amérique</item>
         <item>Europe</item>

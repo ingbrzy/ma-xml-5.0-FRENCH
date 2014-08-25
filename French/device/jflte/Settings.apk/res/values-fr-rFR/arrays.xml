@@ -107,13 +107,6 @@
         <item>Grand</item>
         <item>Immense</item>
     </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Très lente</item>
-        <item>Lente</item>
-        <item>Standard</item>
-        <item>Rapide</item>
-        <item>Très rapide</item>
-    </string-array>
     <string-array name="tts_pitch_entries">
         <item>Très faible</item>
         <item>Basse</item>
