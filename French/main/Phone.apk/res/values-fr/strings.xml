@@ -247,7 +247,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="puk_length_indicate">(8 chiffres)</string>
   <string name="reminder">Rappel</string>
   <string name="reset">Réinitialiser</string>
-  <string name="reset_alert">Êtes-vous sûr de vouloir supprimer la quantité de données utilisées?</string>
+  <string name="reset_alert">Êtes-vous sûr de vouloir supprimer la quantité de données utilisées ?</string>
   <string name="reset_data_usage">Réinitialiser la quantité des données</string>
   <string name="retries_left">%d essais restants</string>
   <string name="select_all">Tout sélectionner</string>

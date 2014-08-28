@@ -102,7 +102,7 @@
   <string name="cannot_remove_creator">Impossible de supprimer le propriétaire</string>
   <string name="cannot_send_message">"Impossible d'envoyer le message"</string>
   <string name="cannot_send_message_reason">Votre message n\'a pas de destinataire valide</string>
-  <string name="cant_delete_cloud_album">Impossible de supprimer : %s est un album système ou est partagée par d\'autres personnes.</string>
+  <string name="cant_delete_cloud_album">Impossible de supprimer %s, ce dernier est un album système ou est partagé par d\'autres personnes.</string>
   <string name="cleaning_cache">Nettoyage du cache…</string>
   <string name="clear_thumbnail_cache">Effacer le cache des miniatures</string>
   <string name="clear_thumbnail_cache_confirm">Les miniatures vont être supprimées. L\'application va scanner tous les médias et recréer des miniatures au fur et à mesure.</string>

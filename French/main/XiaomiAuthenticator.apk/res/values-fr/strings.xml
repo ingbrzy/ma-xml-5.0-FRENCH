@@ -46,7 +46,7 @@
   <string name="cancel">Annuler</string>
   <string name="context_menu_remove_account">Supprimer le compte</string>
   <string name="remove_account_dialog_button_remove">Supprimer</string>
-  <string name="remove_account_dialog_title">Supprimer le compte %1$s?</string>
+  <string name="remove_account_dialog_title">Supprimer le compte %1$s ?</string>
   <string name="remove_account_dialog_message">"La suppression de ce compte entraînera l'&lt;b>annulation de votre capacité&lt;/b> à générer des codes. Toutefois, cela n'entraînera &lt;b>pas&lt;/b> la désactivation de l'authentification en deux étapes. Il est possible que vous ne puissiez pas vous connecter à votre compte. &lt;p> Avant de supprimer ce compteﾠ: &lt;ul> &lt;li>Désactivez l'authentification en deux étapes.&lt;/li> &lt;li>Ou assurez-vous de disposer d'une autre solution pour générer des codes.&lt;/li> &lt;/ul>"</string>
   <string name="remove_Xiaomi_account_dialog_message">"La suppression de ce compte entraînera l'&lt;b>annulation de votre capacité&lt;/b> à générer des codes. Toutefois, cela n'entraînera &lt;b>pas&lt;/b> la désactivation de la validation en deux étapes. Il est possible que vous ne puissiez pas vous connecter à votre compte. &lt;p> Avant de supprimer ce compte : &lt;ul> &lt;li>Désactivez la validation en deux étapes.&lt;/li> &lt;li>Ou assurez-vous de disposer d'une autre solution pour générer des codes.&lt;/li> &lt;/ul>"</string>
   <string name="rename">Renommer</string>

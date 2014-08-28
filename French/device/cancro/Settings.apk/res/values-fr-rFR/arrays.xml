@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="overlay_display_devices_entries">
-    <item>Aucun</item>
-    <item>720 x 480 mdpi</item>
-    <item>1 280 x 720 tvdpi</item>
-    <item>1 920 x 1 080 xhdpi</item>
-    <item>1 280 x 720 tvdpi et 1 920 x 1 080 xhdpi</item>
-  </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Aucun</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (sécurisé)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (sécurisé)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (sécurisé)</item>
+        <item>1280x720 tvdpi et 1920x1080 xhdpi</item>
+    </string-array>
 </resources>

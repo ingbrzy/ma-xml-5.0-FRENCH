@@ -30,8 +30,8 @@
   <string name="permdesc_handoverStatus">Permet la réception d\'informations concernant l\'état du transfert via Bluetooth.</string>
   <string name="bluetooth_pan_GN_authorize_confirm_title">Accepter la requête d\'autorisation réseau groupe Ad-hoc</string>
   <string name="bluetooth_pan_NAP_authorize_confirm_title">Accepter la requête d\'autorisation points d\'accès réseau</string>
-  <string name="bluetooth_pan_GN_authorize_confirm">Souhaitez-vous accepter la requête d\'autorisation réseau groupe Ad-hoc provenant de %1$s?</string>
-  <string name="bluetooth_pan_NAP_authorize_confirm">Souhaitez-vous accepter la requête d\'autorisation points d\'accès réseau provenant de %1$s?</string>
+  <string name="bluetooth_pan_GN_authorize_confirm">Souhaitez-vous accepter la requête d\'autorisation réseau groupe Ad-hoc provenant de %1$s ?</string>
+  <string name="bluetooth_pan_NAP_authorize_confirm">Souhaitez-vous accepter la requête d\'autorisation points d\'accès réseau provenant de %1$s ?</string>
   <string name="bluetooth_pan_GN_connected_confirm_title">Déconnecter le réseau groupe Ad-hoc</string>
   <string name="bluetooth_pan_NAP_connected_confirm_title">Déconnecter les points d\'accès réseau</string>
   <string name="bluetooth_pan_GN_connected_confirm">Souhaitez-vous déconnecter le réseau groupe Ad-hoc de %1$s ?</string>
