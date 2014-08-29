@@ -248,6 +248,8 @@ Vous pouvez faire autre chose…"</string>
   <string name="user_agreement_p4">Règles de confidentialité</string>
   <string name="user_agreement_p5">"En vous inscrivant, vous acceptez les
 "</string>
+  <string name="user_agreement_p6">En activant la synchronisation, vous acceptez les </string>
+  <string name="user_agreement_p7">"Conditions d\'utilisation de Mi Cloud"</string>
   <string name="vcode">Code de vérification</string>
   <string name="vcode_prompt_long">Veuillez saisir le code de vérification généré par Xiaomi</string>
   <string name="vcode_notification_title">La vérification de votre compte est incomplète.</string>

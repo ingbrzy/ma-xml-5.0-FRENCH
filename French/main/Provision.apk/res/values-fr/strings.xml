@@ -53,4 +53,10 @@ Merci, l\'équipe MIUI."</string>
   <string name="sim_card_detection_info">Il est impossible de configurer un compte Mi sans carte SIM. Elle est nécessaire pour profiter des services tels que la synchronisation des comptes, la géolocalisation du téléphone, etc.</string>
   <string name="sim_card_detection_label">Détection de la carte SIM</string>
   <string name="sim_card_detection_status_absent">Carte SIM non détectée !</string>
+  <string name="privacy_policy">Politique de confidentialité</string>
+  <string name="terms_agree">Accepter</string>
+  <string name="terms_description">Pour utiliser MIUI vous devez accepter les conditions d\'utilisation et la politique de confidentialité de Xiaomi.</string>
+  <string name="terms_disagree">Annuler</string>
+  <string name="terms_label">Conditions générales</string>
+  <string name="terms_of_service">Conditions d\'utilisation</string>
 </resources>
