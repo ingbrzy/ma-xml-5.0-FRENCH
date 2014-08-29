@@ -66,7 +66,7 @@
   <string name="albums">Albums</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Avis d\'information</string>
-  <string name="alert_message_open_sync">Sync est requis, souhaitez-vous ouvrir Sync maintenant ?</string>
+  <string name="alert_message_open_sync">La synchronisation avec Mi Cloud n\'est pas active, l\'activer maintenant ?</string>
   <string name="already_apply_album">Ouvrir %1$s ?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Fond d\'écran Android</string>
@@ -308,11 +308,11 @@
   <string name="none_picture">Aucune photo trouvée dans la galerie</string>
   <string name="not_auto_create_recent_album">Ne pas créer automatiquement d\'album(s) récents</string>
   <string name="not_show_hidden_albums">Ne pas afficher les albums masqués</string>
-  <string name="open">Ouvrir Sync</string>
+   <string name="open">Activer</string>
   <string name="open_public_message">Générer une URL et l\'envoyer à des amis</string>
   <string name="open_public_title">Partager publiquement</string>
   <string name="open_single_image_failure">Impossible d\'ouvrir le fichier image !</string>
-  <string name="open_sync_title">Sync requis</string>
+  <string name="open_sync_title">Synchronisation inactive</string>
   <string name="operation_delete_confirm_message_folder">"Les dossiers et fichiers seront supprimés en même temps. "</string>
   <string name="operation_failed">L\'opération a échoué !</string>
   <string name="operation_in_process">Traitement en cours…</string>

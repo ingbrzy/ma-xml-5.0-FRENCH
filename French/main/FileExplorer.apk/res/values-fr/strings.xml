@@ -355,4 +355,10 @@ Superflu"</string>
   <string name="image_share">Partager</string>
   <string name="operate_confirm_in_3g">Utiliser la connexion de données mobile pour télécharger ce fichier volumineux ?</string>
   <string name="operation_save">Enregistrer</string>
+  <string name="google_play">Google Play</string>
+  <string name="ignore">Ignorer</string>
+  <string name="kuaipan_alert_message">Téléchargez l\'application KuaiPan via le Google Play, connectez-vous avec votre compte Mi</string>
+  <string name="kuaipan_alert_title">Avertissement</string>
+  <string name="kuaipan_app">KuaiPan</string>
+  <string name="kuaipan_can_not_find_play">Google Play non installé</string>
 </resources>
