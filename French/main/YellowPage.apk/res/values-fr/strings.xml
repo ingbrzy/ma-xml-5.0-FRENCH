@@ -137,9 +137,9 @@
   <string name="recharge_charge_range">Prix : %1$s-%2$s RMB</string>
   <string name="recharge_charge_value">Prix : %s RMB</string>
   <string name="recharge_pay">Recharger maintenant</string>
-  <string name="recharge_pay_hint">Support fourni par Xiaomi</string>
+  <string name="recharge_pay_hint">"Service fourni par Xiaomi, "</string>
   <string name="mishop_web_payment_title">Panier MiStore</string>
-  <string name="recharge_pay_hint_license">Notification de recharge</string>
+  <string name="recharge_pay_hint_license">conditions de vente</string>
   <string name="recharge_title">Recharger</string>
   <string name="recharge_payment_result_ok_title">%s RMB ajoutés.</string>
   <string name="recharge_payment_result_ok_summary">Confirmez que ce montant est exact.</string>

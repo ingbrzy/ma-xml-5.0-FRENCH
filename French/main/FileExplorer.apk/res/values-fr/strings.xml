@@ -141,7 +141,7 @@ Superflu"</string>
   <string name="file_info_canwrite">Accessible en écriture :</string>
   <string name="file_info_ishidden">Caché :</string>
   <string name="file_info_location">Chemin d\'accès :</string>
-  <string name="file_info_modified">Mis à jour :</string>
+  <string name="file_info_modified">Date de modification :</string>
   <string name="file_info_size">Taille :</string>
   <string name="file_loading">Chargement…</string>
   <string name="file_too_large">Le fichier est trop volumineux et ne peut être envoyé</string>
