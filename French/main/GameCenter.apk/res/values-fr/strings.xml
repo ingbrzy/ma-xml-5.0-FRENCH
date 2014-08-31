@@ -385,7 +385,7 @@
     <string name="pref_clear_image_cache">Vider le cache</string>
     <string name="pref_clear_image_cache_toast">Cache vidé</string>
     <string name="pref_clear_image_cache_dialog">Vider le cache ?</string>
-    <string name="pref_clear_search_history_summary">Efface tout les mots-clés recherchés</string>
+    <string name="pref_clear_search_history_summary">Efface tous les mots-clés recherchés</string>
     <string name="clear_search_history_success">Historique effacé</string>
     <string name="button_text_register">S\'enregistrer</string>
     <string name="button_text_login">Connexion</string>

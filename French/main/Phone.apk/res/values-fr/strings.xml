@@ -163,7 +163,7 @@ Note : Traductions pour plusieurs téléphones, ne pas supprimer de lignes
   <string name="ip_prefix_edit_default_sum">Saisissez un préfixe pour la numérotation IP</string>
   <string name="ip_prefix_setting">Préfixe IP</string>
   <string name="ip_prefix_setting_sum">Réglages préfixe IP</string>
-  <string name="labelCFC">Annuler tout les transferts</string>
+  <string name="labelCFC">Annuler tous les transferts</string>
   <string name="lable_data">DATA</string>
   <string name="lable_data_async">DATA-ASYNC</string>
   <string name="lable_data_sync">DATA-SYNC</string>
@@ -310,13 +310,13 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="unblock_pin2">Déverrouiller PIN2</string>
   <string name="verifyNewPin">Saisissez une nouvelle fois le nouveau code PIN de la carte SIM pour le confirmer</string>
   <string name="video_call">Appel vidéo</string>
-  <string name="video_call_all_numbers">Mode rejet des appels vidéo : tout les numéros</string>
+  <string name="video_call_all_numbers">Mode rejet des appels vidéo : tous les numéros</string>
   <string name="video_call_reject_list_sum">Gérer la liste de rejet des appels vidéo</string>
   <string name="video_call_reject_list_title">Liste de rejet des appels vidéo</string>
   <string name="video_call_reject_mode_title">Mode rejet auto. des appels vidéo</string>
   <string name="vm_save_number">Enregistrer le numéro de messagerie vocale</string>
   <string name="voice_call">Appel vocal</string>
-  <string name="voice_call_all_numbers">Mode rejet des appels vocaux : tout les numéros</string>
+  <string name="voice_call_all_numbers">Mode rejet des appels vocaux : tous les numéros</string>
   <string name="voice_call_reject_list_sum">Gérer la liste de rejet des appels vocaux</string>
   <string name="voice_call_reject_list_title">Liste de rejet des appels vocaux</string>
   <string name="voice_call_reject_mode_title">Mode rejet auto. des appels vocaux</string>

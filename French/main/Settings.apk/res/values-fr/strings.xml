@@ -1295,7 +1295,7 @@ Remarque : pour environnement Ubuntu 8.04"</string>
   <string name="msd_install_status_undo">Installer le pilote</string>
   <string name="msd_install_succeed">Pilote installé</string>
   <string name="msd_install_windows_xp_step_2_1">1.Si l\'Assistant d\'installation apparaît, veuillez suivre les étapes pour terminer l\'installation du pilote</string>
-  <string name="msg_wlan_signal_found">Point d\'accès Wi-Fi %s trouvé, souhaitez-vous utiliser ce réseau Wi-Fi? L\'utilisation de ce réseau interrompra le service de données temporairement.</string>
+  <string name="msg_wlan_signal_found">Point d\'accès Wi-Fi %s trouvé, souhaitez-vous utiliser ce réseau Wi-Fi ? L\'utilisation de ce réseau interrompra le service de données temporairement.</string>
   <string name="mtp_ptp_mode_summary">Fonction MTP ou PTP active</string>
   <string name="multi_sim_settings_summary">Mettre en place des paramètres multi-Sim pour voix, données et SMS</string>
   <string name="multi_sim_settings_title">Paramètres multi-SIM</string>
@@ -2628,8 +2628,8 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="bluetooth_ftp_profile_summary_connected">"Connecté au transfert des fichiers"</string>
   <string name="mtp_transfer_unmount_error_text">Impossible de démonter la carte SD durant un transfert de fichier</string>
   <string name="mtp_transfer_erase_error_text">"Impossible d'effacer la carte SD durant un transfert de fichier"</string>
-  <string name="launch_error">"Impossible d'exécuter l'application!"</string>
-  <string name="dlg_confirm_unmount_usb_title">Démonter stockage USB?</string>
+  <string name="launch_error">"Impossible d'exécuter l'application !"</string>
+  <string name="dlg_confirm_unmount_usb_title">Démonter stockage USB ?</string>
   <string name="dlg_confirm_unmount_usb_text">"Si vous démontez le stockage USB, certaines applications seront inutilisables jusqu'à ce que le stockage soit remonté."</string>
   <string name="dlg_error_unmount_usb_title"/>
   <string name="dlg_error_unmount_usb_text">Impossible de démonter le stockage USB. Veuillez réessayer ultérieurement.</string>
@@ -2926,7 +2926,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="audio_profile_error">Erreur</string>
   <string name="battery_percent">Pourcentage batterie</string>
   <string name="rcse_settings_title">Paramètres RCS-e</string>
-  <string name="dlg_mount_external_sd_title">Monter la carte SD?</string>
+  <string name="dlg_mount_external_sd_title">Monter la carte SD ?</string>
   <string name="dlg_mount_external_sd_summary">Si vous montez cette carte SD, certaines de vos applis ne fonctionneront plus.</string>
   <string name="tethered_ipv6_title">Paramètres hotspot &amp; tethering</string>
   <string name="tethered_ipv4v6">(IPv6 disponible)</string>
@@ -3062,7 +3062,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="sim_lock">Verrouillé</string>
   <string name="enable_wifi_tether">Activer le hotspot Wi-Fi</string>
   <string name="enable_gps">Activer le GPS</string>
-  <string name="enable_gps_confirm_message">"Une d'une connexion de données sans fil est requise pour acquérir des données d'assistance GPS (OPE, A-GPS) cela peut engendrer des frais supplémentaire. Êtes-vous sûr de vouloir activer le GPS?"</string>
+  <string name="enable_gps_confirm_message">"Une d'une connexion de données sans fil est requise pour acquérir des données d'assistance GPS (OPE, A-GPS) cela peut engendrer des frais supplémentaire. Êtes-vous sûr de vouloir activer le GPS ?"</string>
   <string name="wifi_connect_ap_summary">Spécifier le type de connexion réseau</string>
   <string name="wifi_connect_type_title">Type auto-connexion</string>
   <string name="select_ssid_type_title">Type de connexion réseau</string>
@@ -3908,7 +3908,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="notification_title_of_garbage_cleanup">Alarme corbeille</string>
   <string name="notification_summary_of_garbage_cleanup">La corbeille excède %s.</string>
   <string name="item_garbage_time_daily">Quotidiennement</string>
-  <string name="item_garbage_time_3d">Tout les 3 jours</string>
+  <string name="item_garbage_time_3d">Tous les 3 jours</string>
   <string name="item_garbage_time_7d">Une fois par semaine</string>
   <string name="item_garbage_time_never">Jamais</string>
   <string name="item_garbage_size_100m">100 Mo</string>
@@ -4272,7 +4272,7 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="large_file_sort_type_item_name">Nom</string>
   <string name="large_file_sort_type_item_size">Taille</string>
   <string name="ct_mobile_data_hints">Impossible d\'activer la connexion de données sur la carte SIM 2 lorsqu\'elle est activée sur la carte SIM 1</string>
-  
+
  <!-- à traduire ? certains téléphones = .."></strings> ?! :
   <string name="wifi_display_session_info">Session info</string>
   <string name="wifi_display_listen_mode">Enable listen mode</string>
