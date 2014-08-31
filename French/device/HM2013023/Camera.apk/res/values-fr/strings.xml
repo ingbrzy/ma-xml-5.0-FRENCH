@@ -342,7 +342,7 @@
   <string name="show_images_only">Images uniquement</string>
   <string name="show_on_map">Afficher sur la carte</string>
   <string name="show_videos_only">Vidéos uniquement</string>
-  <string name="simple_mode_button_text_audio_capture">Fermer la capture audio</string>
+  <string name="simple_mode_button_text_audio_capture">Quitter la capture audio</string>
   <string name="simple_mode_button_text_color_effect">Quitter le mode effets</string>
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
   <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>
