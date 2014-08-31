@@ -106,22 +106,20 @@
   <string name="free_high_speed_channel">Quota de l\'essai gratuit</string>
   <string name="download_list_open_xl_message">Ce service permet d\'accélérer la vitesse de vos téléchargement.</string>
   <string name="experience_xunlei_account_speed">Devenez membre Xunlei pour accélérer vos téléchargements</string>
-  
+  <string name="member_cost">Un an</string>
+  <string name="immediately_a_renewal">Renouveler immédiatement</string>
+  <string name="download_list_intoAuth">Authentification...</string>
+  <string name="get_account_dialog_msg">Chargement des informations...</string>
+  <string name="get_order_fail_msg">Échec de la commande, une erreur s\'est produite</string>
+  <string name="get_order_dialog_msg">Chargement de la commande...</string>
+  <string name="download_list_get_hightspeed_flow_pay_ok">Paiement effectué</string>
+  <string name="choose_open_time">Veuillez sélectionner la durée</string>
+
 <!-- à traduire Xunlei
     <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
     <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
     <string name="add_flow_success_msg">Get 300MB High Speed Flow Succeess</string>
-    <string name="download_list_get_hightspeed_flow_pay_ok">Payment complete.</string>
-    <string name="choose_open_time">Please select the opening time</string>
-    <string name="high_speed_channel">High speed channel data</string>
-    <string name="immediately_a_renewal">Immediately a renewal</string>
+    <string name="high_speed_channel">High speed channel</string>
     <string name="mi_money">Mi money</string>
-    <string name="member_cost">Account annual fee</string>
-    <string name="original_price">(Original_price</string>
-    <string name="mi_money_">mi_money)</string>
-    <string name="get_order_fail_msg">Get Order Fail</string>
-    <string name="get_order_dialog_msg">Getting Order Info</string>
-    <string name="get_account_dialog_msg">Getting Account Info</string>
-    <string name="download_list_intoAuth">Are entering miui authorization page</string>
   -->
 </resources>

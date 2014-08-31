@@ -293,7 +293,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="download_is_success">Téléchargement terminé</string>
   <string name="setting_network_alert">Alerte réseau</string>
   <string name="setting_network_alert_summery">Demander lors de la visualisation de vidéos</string>
-  
+  <string name="have_no_offlinemedia">Vide</string>
  <!-- à traduire éventuellement (non visibles...?) :
   <string name="ad_moredetail">more detail</string>
   <string name="prefix_countdown">advertisement left:</string>
@@ -349,7 +349,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="load_offline_file_fail">Local file no longer exists</string>
   <string name="load_failed_to_try">"Couldn't load file"</string>
   <string name="offline_media">Available offline</string>
-  <string name="have_no_offlinemedia">Empty</string>
+
   <string name="in_download_notification">%d videos downloaded</string>
   <string name="start_download">Downloading</string>
   <string name="pause_download">Download paused</string>

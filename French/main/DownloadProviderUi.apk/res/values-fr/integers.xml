@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="default_recommended_max_bytes_over_mobile">104857600</integer>
-</resources>

@@ -483,4 +483,5 @@
   <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
   <string name="ubi_focus_capture_fail">Erreur, veuillez réessayer</string>
   <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre) et éloignés"</string>  
+  <string name="pref_priority_storage_title">Sauvegarder sur la carte SD</string>
 </resources>

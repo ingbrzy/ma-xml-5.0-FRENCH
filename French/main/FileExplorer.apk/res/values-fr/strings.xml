@@ -217,7 +217,7 @@ Superflu"</string>
   <string name="operation_deleting_detail">Suppression de fichiers (%1$d/%2$d)</string>
   <string name="operation_download_link">Générer le lien de téléchargement</string>
   <string name="operation_favorite">Ajouter aux favoris</string>
-  <string name="operation_hide_sys">Masquer les fichiers cachés</string>
+  <string name="operation_hide_sys">Masquer les éléments cachés</string>
   <string name="operation_info">Détails</string>
   <string name="operation_move">Déplacer</string>
   <string name="operation_moving">Déplacement…</string>
@@ -232,7 +232,7 @@ Superflu"</string>
   <string name="operation_resume">Reprendre</string>
   <string name="operation_resume_all">Tout reprendre</string>
   <string name="operation_send">Envoyer</string>
-  <string name="operation_show_sys">Afficher les fichiers cachés</string>
+  <string name="operation_show_sys">Afficher les éléments cachés</string>
   <string name="operation_unfavorite">Supprimer des favoris</string>
   <string name="pan_settting">Paramètres KuaiPan</string>
   <string name="paused">En pause</string>

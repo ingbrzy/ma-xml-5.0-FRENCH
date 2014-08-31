@@ -166,7 +166,7 @@ La barre d\'outils est accessible via le menu déroulant de la barre de notifica
     <string name="toggle_shake">Vibration</string>
     <string name="toggle_ring">Sonnerie</string>
     <string name="toggle_gps">GPS</string>
-    <string name="toggle_data">Donneés</string>
+    <string name="toggle_data">Données</string>
     <string name="toggle_sleep">Veille</string>
     <string name="toggle_bright">Luminosité</string>
     <string name="toggle_flight">Mode avion</string>
