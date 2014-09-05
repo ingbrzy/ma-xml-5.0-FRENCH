@@ -2951,7 +2951,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="wifi_ap_client_unblock_title">Débloquer</string>
   <string name="wifi_ap_client_mac_label">Adresse MAC:</string>
   <string name="wifi_ap_client_ip_label">Adresse IP:</string>
-  <string name="usb_sharing_title">internet USB</string>
+  <string name="usb_sharing_title">Internet USB</string>
   <string name="usb_sharing_summary">Partage internet PC Windows via câble USB</string>
   <string name="usb_sharing_info_title">Passthrough internet</string>
   <string name="usb_sharing_info_step_1">"1. Ouvrez les connexions réseau sur votre PC Windows."</string>

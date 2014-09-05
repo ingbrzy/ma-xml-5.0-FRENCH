@@ -714,11 +714,11 @@ Ce service nécessite un abonnement au forfait modem applicable. Assurez-vous qu
 L\'utilisation du service requiert l\'acceptation des"<a href="http://www.uscellular.com/uscellular/common/common.jsp?path=/android/modem_feature.html"> Conditions applicables aux modems pour Smartphone.</a></string>
   <string name="wifi_during_usb_tethering">"Impossible d'activer le Wi-Fi lorsque le modem USB est activé"</string>
   <string name="wifi_ap_dialog_disclaimer_spi">"Lorsque le point d'accès sans fil ou le modem DUN est activé, l'utilisation des données sera facturée en fonction de votre forfait Point d'accès sans fil"</string>
-  <string name="wifi_watchdog_network_disabled_sec">internet non disponible</string>
+  <string name="wifi_watchdog_network_disabled_sec">Internet non disponible</string>
   <string name="wifi_watchdog_network_disabled_detailed_sec">Ouvrir paramètres Wi-Fi</string>
   <string name="wifi_watchdog_connectivity_check">Vérifier service internet</string>
   <string name="wifi_watchdog_connectivity_check_summary">"Vérifier la disponibilité du service internet Wi-Fi lorsque vous êtes connecté au point d'accès"</string>
-  <string name="wifi_watchdog_not_available_service">internet non disponible via le PA Wi-Fi sélectionné. Modifier réseau ?</string>
+  <string name="wifi_watchdog_not_available_service">Internet non disponible via le PA Wi-Fi sélectionné. Modifier réseau ?</string>
   <string name="wifi_watchdog_recheck">Revérifier</string>
   <string name="mobile_ap_disable">Mobile Hotspot désactivé. Wi-Fi activé</string>
   <string name="mobile_ap_not_disable">Wi-Fi non activé. Mobile Hotspot activé</string>

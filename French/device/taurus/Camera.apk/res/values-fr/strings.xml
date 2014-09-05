@@ -49,7 +49,7 @@
   <string name="contact_note">Note</string>
   <string name="contact_phone">Téléphone</string>
   <string name="contact_title">Titre</string>
-  <string name="contact_web">internet</string>
+  <string name="contact_web">Internet</string>
   <string name="copy_text">Copier le texte</string>
   <string name="copy_text_success">Texte copié avec succès</string>
   <string name="crop_saved">Image rognée enregistrée vers %s</string>

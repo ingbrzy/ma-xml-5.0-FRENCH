@@ -260,7 +260,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="simContacts_emptyLoading_ex">Lecture des contacts depuis %s…</string>
   <string name="sim_manage_call_via">Appeler via</string>
   <string name="sim_manage_indicator_3g">3G</string>
-  <string name="sim_manage_sipcall">internet</string>
+  <string name="sim_manage_sipcall">SIP</string>
   <string name="sim_manage_suggested">Suggéré</string>
   <string name="sim_permanently_locked">La saisie erronée du code PUK2 plus de 10 fois entrainera le verrouillage permanent de la carte SIM</string>
   <string name="sim_toolkit">Boîte à outils SIM</string>

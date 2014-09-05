@@ -405,10 +405,10 @@
         <item>MMS</item>
     </string-array>
     <string-array name="apn_ently_key_includeDUN">
-        <item>internet + MMS + DUN</item>
-        <item>internet + MMS</item>
-        <item>internet + DUN</item>
-        <item>internet</item>
+        <item>Internet + MMS + DUN</item>
+        <item>Internet + MMS</item>
+        <item>Internet + DUN</item>
+        <item>Internet</item>
         <item>MMS</item>
         <item>DUN</item>
     </string-array>
