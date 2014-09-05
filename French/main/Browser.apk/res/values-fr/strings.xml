@@ -751,7 +751,7 @@
   <string name="account_prifix">"Compte : "</string>
   <string name="miui_autologin_bar_error">Impossible de se connecter, veuillez réessayer.</string>
   <string name="pref_adblock_title">Bloqueur de publicités</string>
-  <string name="pref_enable_adblock_notification">Notification</string>
+  <string name="pref_enable_adblock_notification">Notification </string>
   <string name="pref_clear_adblock_statistics">Effacer les statistiques</string>
   <string name="pref_adblock_counts">Total : %d publicités bloquées</string>
   <string name="pref_clear_adblock_statistics_dlg">Réinitialiser le compteur ?</string>
@@ -761,4 +761,9 @@
   <string name="close_cloud_tab_tip">Fermer les onglets sur %s ?</string>
   <string name="bookmarks_history">Favoris/Historique</string>
   <string name="delete_homepage">Supprimer la page d\'accueil</string>
+<!-- à traduire -->
+  <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to verify its security. You can turn this feature off anytime in Settings."</string>
+  <string name="show_check_security_url_check_tip_dialog_title">URL security</string>
+  <string name="pref_check_security_url_summary">"Send websites' URLs to Xiaomi's servers for validation"</string>
+  <string name="pref_check_security_url_title">Check URL security</string>
 </resources>

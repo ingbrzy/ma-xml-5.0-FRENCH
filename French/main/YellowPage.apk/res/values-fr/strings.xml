@@ -367,5 +367,7 @@ Custom service will contact you in a moment"</string>
   <string name="account_verify_password">You are using directory service on the other phone, for privacy reason, your account password should be verified</string>
   <string name="account_updating_device">Loging directory, please wait…</string>
   <string name="account_updating_device_failed">Login directory failed, please try again</string>
+  <string name="express_preview_order">Preview</string>
+  <string name="express_send_notice">About prohibited items</string>
  -->
 </resources>

@@ -75,14 +75,14 @@
   <string name="exception_while_downloading">Erreur lors du téléchargement de la mise à jour</string>
   <string name="new_updates_found_notification_title">Mise à jour système disponible</string>
   <string name="network_error">Une erreur de connexion réseau s\'est produite, veuillez essayer de nouveau</string>
-  <string name="monthly_build">version mensuelle</string>
-  <string name="weekly_build">version hebdomadaire</string>
-  <string name="daily_build">version quotidienne</string>
-  <string name="experimental_build">version expérimentale</string>
-  <string name="internal_build">version interne</string>
-  <string name="top_secret_build">version top-secrète</string>
-  <string name="stable_build">version stable</string>
-  <string name="unstable_build">version stable</string>
+  <string name="monthly_build">mensuelle</string>
+  <string name="weekly_build">hebdomadaire</string>
+  <string name="daily_build">quotidienne</string>
+  <string name="experimental_build">expérimentale</string>
+  <string name="internal_build">interne</string>
+  <string name="top_secret_build">top-secrète</string>
+  <string name="stable_build">stable</string>
+  <string name="unstable_build">stable</string>
   <string name="about_device">À propos de l\'appareil</string>
 
 
@@ -91,15 +91,15 @@
   <string name="wifi_not_available_body">Il est recommandé d\'utiliser le Wi-Fi pour télécharger les mises à jour car la taille des fichiers peut être volumineuse. Vous n\'êtes pas connecté en Wi-Fi, êtes-vous sûr de vouloir continuer ?</string>
   <string name="paused_queued_for_network">En attente d\'une connexion réseau</string>
   <string name="paused_queued_for_wifi">En attente d\'une connexion Wi-Fi</string>
-  <string name="boot_recovery">Redémarrer dans le Recovery</string>
+  <string name="boot_recovery">Redémarrer en mode recovery</string>
   <string name="applying_rom_message">Installation de la mise à jour…</string>
   <string name="loading">Chargement…</string>
-  <string name="install_rom_from_sd">Sélectionner un pack d\'installation</string>
-  <string name="download_current_rom">Voir les mises à jours disponibles</string>
+  <string name="install_rom_from_sd">Sélectionner un fichier .zip</string>
+  <string name="download_current_rom">Télécharger la ROM complète</string>
   <string name="no_proper_updates">Aucune mise à jour trouvée</string>
   <string name="sign_in_info">"Le classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
-  <string name="sign_in_info_total_more">"Le classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
-  <string name="sign_in_info_rank_more">"Le classement de mise à jour est de %1$s/%2$s pour MIUI %3$s"</string>
+  <string name="sign_in_info_total_more">"%1$s+ utilisateurs ont déjà mis à jour vers MIUI %3$s"</string>
+  <string name="sign_in_info_rank_more">"%1$s+ utilisateurs ont déjà mis à jour vers MIUI %3$s"</string>
   <string name="sign_in_add_account">Veuillez vous connecter avec un compte Mi</string>
   <string name="sign_in_add_account_helper">Aucun compte Mi configuré, veuillez en ajouter un.</string>
   <string name="my_rank">Classement des mises à jour :</string>

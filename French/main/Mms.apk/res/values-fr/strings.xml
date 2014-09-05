@@ -260,7 +260,7 @@
   <string name="mx_current_status">Statut : En ligne</string>
   <string name="mx_dspt">Envoyer des messages via internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
   <string name="mx_enable">Activer la messagerie cloud</string>
-  <string name="mx_enable_popup_msg">La messagerie cloud vous permet d\'envoyer des messages via MIUI. L\'envoi d\'un SMS est nécessaire pour activer la fonction, il vous sera facturé le prix d\'un SMS international si vous ne vous trouvez pas en Chine. Voulez-vous l\'activer maintenant ?</string>
+  <string name="mx_enable_popup_msg">La messagerie cloud vous permet d\'envoyer gratuitement des messages entre utilisateurs de cette fonction.</string>
   <string name="mx_msg">Message Cloud</string>
   <string name="mx_offline">Hors-ligne</string>
   <string name="mx_online">En ligne</string>
@@ -508,7 +508,8 @@
   <string name="file_create_time">Date :</string>
   <string name="file_size">Taille :</string>
   <string name="file_title">Nom :</string>
-  
+  <string name="mx_on_sim_1">Messagerie cloud avec la SIM %s</string>
+  <string name="mx_on_sim_2">Messagerie cloud avec la SIM %</string>
  <!-- à traduire
   <string name="app_name">Device Management</string>
   <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service. Are you sure to cancel?</string>

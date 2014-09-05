@@ -20,6 +20,11 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- supprimé 4.9.2 -->
+  <string name="conversation_list_net_check">Erreur réseau, veuillez réessayer plus tard ou depuis un autre réseau</string>
+  <string name="net_check_title">Erreur réseau, veuillez vérifier vos paramètres réseau.</string>
+  <string name="ser_resp_err_map_connect_err">Erreur réseau, veuillez réessayer plus tard ou depuis un autre réseau</string>
+  <string name="ser_resp_err_map_pserr">Identifiant ou mot de passe incorrect</string>
 <!-- supprimé dans 4.4.16 -->
   <string name="account_delete_dlg_title">Supprimer le compte</string>
   <string name="account_delete_dlg_instructions_fmt">Le compte \"%s\" va être supprimé de votre messagerie.</string>
@@ -858,7 +863,6 @@
   <string name="widget_other_views">Autres</string>
   <string name="search_result">Résultats :</string>
   <string name="set_network">Définir le réseau</string>
-  <string name="net_check_title">Erreur réseau, veuillez vérifier vos paramètres réseau.</string>
   <string name="pull_to_refresh">Tirer pour actualiser</string>
   <string name="release_to_refresh">Relâcher pour actualiser</string>
   <string name="not_updated_yet">Pas encore mis à jour</string>
@@ -886,7 +890,7 @@
   <string name="outbox_alert_description_sent_failed">"Cause : la taille de la pièce jointe dépasse la limite autorisée"</string>
   <string name="blank_feedback_toast">Le rapport est vide, veuillez en écrire un !</string>
   <string name="ApplicationIconMore99">99+</string>
-  <string name="please_fill_in_your_mailbox_information">Veuillez remplir les informations liées à votre compte e-mail :</string>
+  <string name="please_fill_in_your_mailbox_information">Veuillez saisir vos identifiants (%s) :</string>
   <string name="actionbar_title_mail_aggregation">Regroupement de mail :</string>
   <string name="empty_email_tip">Vous pouvez envoyer un mail vide</string>
   <string name="empty_account_tip">Impossible de trouver de compte</string>
@@ -970,18 +974,16 @@ Taille du patch Delta : %2$s"</string>
   <string name="folder_trash_name_en2">Message supprimé</string>
   <string name="ser_resp_err_map_nouser">Utilisateur inconnu</string>
   <string name="ser_resp_err_map_or">Ou</string>
-  <string name="ser_resp_err_map_pserr">Identifiant ou mot de passe incorrect</string>
   <string name="ser_resp_err_map_serclosed">Service désactivé</string>
-  <string name="ser_resp_err_map_connect_err">Erreur réseau, veuillez réessayer plus tard ou depuis un autre réseau</string>
   <!-- à reformuler no_wifi_promot ? -->
   <string name="no_wifi_promot">Wi-Fi non utilisé actuellement, cela risque d\'engendrer du trafic de données mobiles</string>
-  <string name="conversation_list_net_check">Erreur réseau, veuillez réessayer plus tard ou depuis un autre réseau</string>
   <string name="mail_body_turncated">Cet email est trop lourd pour être chargé, seulement une partie sera affiché</string>
   <string name="ser_resp_err_map_ssl">"Erreur. Essayez l\'option 'SSL/TLS (accepter tous les certificats)' dans 'Type de sécurité'"</string>
   <string name="device_activity_btn_str">Retour pour activer</string>
   <string name="device_not_activiey_lint1">Gestionnaire de périphériques inactif</string>
-  
+
  <!-- à traduire :
+  <string name="tryrefreshing">Try to Refreshing…</string
   <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
   <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
   <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>

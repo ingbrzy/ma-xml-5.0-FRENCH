@@ -348,4 +348,6 @@ Veuillez patienter encore deux jours ouvrables.
 Service client : 400-100-5678"</string>
   <string name="giftcard_define_detail">Utilisez ces bons comme des Micredits standards. Vous pouvez en obtenir en participant à des événements Xiaomi ou via des promotions.</string>
   <string name="giftcard_title">Bons MiCredit</string>
- </resources>
+<!-- à traduire -->
+  <string name="illegal_intent">Illegal intent request</string>
+</resources>

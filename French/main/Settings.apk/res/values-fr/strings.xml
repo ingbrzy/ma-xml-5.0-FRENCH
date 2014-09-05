@@ -3233,7 +3233,7 @@ La configuration du téléphone peut générer une forte activité sur le résea
   <string name="enable_app_permission_summary">23 applis surveillées</string>
   <string name="enable_app_permission_title">Le gestionnaire de permissions est actif</string>
   <string name="enable_firewall">Filtrer les appels indésirables</string>
-  <string name="examination_score_100">Analyse non requise, tout est en ordre !</string>
+  <string name="examination_score_100">Optimisation non requise, tout à l\'air en ordre.</string>
   <string name="examination_score_60_0">Vous devriez optimiser votre téléphone</string>
   <string name="examination_score_80_100">Certains éléments peuvent être optimisés</string>
   <string name="examination_score_80_60">Certains éléments peuvent être optimisés</string>
@@ -4273,7 +4273,47 @@ Votre appareil est configuré pour basculer sur ce mode quand l\'heure planifié
   <string name="large_file_sort_type_item_size">Taille</string>
   <string name="ct_mobile_data_hints">Impossible d\'activer la connexion de données sur la carte SIM 2 lorsqu\'elle est activée sur la carte SIM 1</string>
 
- <!-- à traduire ? certains téléphones = .."></strings> ?! :
+  <string name="ime_privacy_policy">Input method privacy policy</string>
+  <string name="ime_privacy_policy_no_network">No network connection. You can view this policy at %s</string>
+  <string name="provision_inputmethod_policy_description">View the privacy policy associated with your current input method</string>
+
+ <!-- à traduire strings NOTE WCDMA, affichées ??
+     <string name="adupsfota_software_update_string_ext">Wireless update</string>
+     <string name="audio_profile_bes_loudness_summary">Volume booster for speaker</string>
+     <string name="audio_profile_bes_loudness_title">BesLoudness</string>
+     <string name="battery_level">%s%%</string>
+     <string name="card_emulation_settings_category_title">available security element</string>
+     <string name="card_emulation_settings_no_element_found">No available security element.</string>
+     <string name="card_emulation_settings_off_text">To see available security elements, turn Card emulation on.</string>
+     <string name="card_emulation_sim_not_supported_message">%1$s does not support NFC Card emulation function.</string>
+     <string name="card_emulation_switch_error_message">Failed to switch to %1$s.</string>
+     <string name="card_emulation_switch_error_title">Error</string>
+     <string name="card_emulation_turning_off_text">Turning Card emulation off...</string>
+     <string name="card_emulation_turning_on_text">Turning Card emulation on...</string>
+     <string name="clear_motion_summary">Video fluency enhancer</string>
+     <string name="clear_motion_title">ClearMotionTM</string>
+     <string name="cmcc_dm_settings_disable_summary">Disable auto boot</string>
+     <string name="cmcc_dm_settings_enable_summary">Enable auto boot</string>
+     <string name="cmcc_dm_settings_title">Device Management Permission</string>
+     <string name="double_click_tip">Double click here</string>
+     <string name="double_click_title">Double-click speed</string>
+     <string name="international_roaming_summary_title">Roaming settings</string>
+     <string name="mouse_primary_button_dialog_title">Switch primary button</string>
+     <string name="mouse_primary_button_title">Switch primary and secondary buttons</string>
+     <string name="msg_wlan_signal_found_manul">Found WLAN signal, would you like to use this WLAN network?</string>
+     <string name="music_plus_title">BesAudEnh</string>
+     <string name="nfc_card_emulation">Card emulation</string>
+     <string name="nfc_card_emulation_category_title">card emulation mode</string>
+     <string name="not_show_again">"Don't remind next time."</string>
+     <string name="oobe_default_sim_title">Set default SIM</string>
+     <string name="oobe_sim_info_title">Manage SIM</string>
+     <string name="sip_call_summary">Set your default SIP calls ringtone</string>
+     <string name="sip_call_title">SIP call ringtone</string>
+     <string name="wfd_change_resolution_menu_title">Change resolution</string>
+     <string name="wifi_hotspot_select_band_title">Select operational band</string>
+     <string name="wifi_hotspot_suspend_optimizations">WLAN hotspot optimization</string>
+     <string name="wifi_hotspot_suspend_optimizations_summary">Minimize battery usage when WLAN hotspot is on</string>
+ ? certains téléphones = .."></strings> ?! :
   <string name="wifi_display_session_info">Session info</string>
   <string name="wifi_display_listen_mode">Enable listen mode</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>

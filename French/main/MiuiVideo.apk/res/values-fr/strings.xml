@@ -208,8 +208,8 @@ la vidéo sur votre box ou TV"</string>
   <string name="other_setting">Autres</string>
   <string name="use_cellular_network">Utiliser le réseau cellulaire</string>
   <string name="use_cellular_network_summary">Autorise l\'utilisation des réseaux mobiles pour télécharger les vidéos</string>
-  <string name="auto_play">Lecture automatique</string>
-  <string name="auto_play_summary">Lire la vidéo pendant le chargement ou lorsque le téléchargement est terminé</string>
+  <string name="auto_play">Lecture en plein écran</string>
+  <string name="auto_play_summary">Après le chargement de la page, lire la vidéo en plein écran</string>
   <string name="continue_to_play_nextset">Lire l\'épisode suivant automatiquement</string>
   <string name="continue_to_play_nextset_summary">" "</string>
   <string name="search_result_recommend_hint">Aucun résultat</string>

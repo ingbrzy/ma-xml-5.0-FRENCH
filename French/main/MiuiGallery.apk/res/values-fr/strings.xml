@@ -14,6 +14,7 @@
   <string name="menu_item_sort_visit_asc">Par ordre ascendant de visualisation</string>
   <string name="menu_item_sort_visit_desc">Par ordre descendant de visualisation</string>
 <!-- -->
+  <string name="ubifocus_refocus_fail_tip">Données manquantes ou non valides, impossible de modifier le focus</string>
   <string name="confirm_delete_home_merge_item">Supprimer les %s photo(s) du téléphone et du cloud ?</string>
   <string name="deselect_all">Tout désélectionner</string>
   <string name="device_model">Modèle</string>

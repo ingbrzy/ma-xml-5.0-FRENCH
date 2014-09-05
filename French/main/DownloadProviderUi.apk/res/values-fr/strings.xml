@@ -121,5 +121,6 @@
     <string name="add_flow_success_msg">Get 300MB High Speed Flow Succeess</string>
     <string name="high_speed_channel">High speed channel</string>
     <string name="mi_money">Mi money</string>
+    <string name="display_expire_netiv1">Month Owner</string>
   -->
 </resources>

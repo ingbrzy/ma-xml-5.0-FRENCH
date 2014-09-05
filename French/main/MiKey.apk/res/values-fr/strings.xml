@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
     <string name="app_name">MiKey</string>
     <string name="short_click_1">1x</string>
@@ -15,7 +15,7 @@
     <string name="short_click_10">10x</string>
     <string name="long_click">Appui long</string>
     <string name="hint_long_press_del">Appui long pour effacer</string>
-    <string name="action_open_flashlight">Lampe-torche</string>
+    <string name="action_open_flashlight">Lampe torche</string>
     <string name="action_open_other_app">Ouvrir une application</string>
     <string name="action_open_camera">Appareil photo</string>
     <string name="action_open_camera2">Prendre une photo</string>
@@ -26,7 +26,7 @@
     <string name="action_capture_video">Enregistrement vidéo</string>
     <string name="action_lock_screen">Verrouiller l\'écran</string>
     <string name="action_open_sound_recorder">Enregistrement vocal</string>
-    <string name="action_open_or_close_motion">Rotation auto</string>
+    <string name="action_open_or_close_motion">Rotation automatique</string>
     <string name="action_open_wechat">Ouvrir WeChat</string>
     <string name="action_share_to_wechat">Partager sur WeChat</string>
     <string name="action_share_to_moment">Partager sur Moment</string>
@@ -38,22 +38,22 @@
     <string name="category_app">Applications</string>
     <string name="category_system_settings">Paramètres système</string>
     <string name="action_close">Fermer</string>
-    <string name="delete_confirm">Confirmer la suppression ?</string>
-    <string name="delete_gesture">Confirmer la suppression ?</string>
+    <string name="delete_confirm">Confirmer la suppression ?</string>
+    <string name="delete_gesture">Supprimer la configuration du bouton ?</string>
     <string name="recommend">Recommandé</string>
     <string name="add">Ajouter</string>
     <string name="running_notification">MiKey</string>
-    <string name="click_to_open">Appuyez pour ouvrir</string>
+    <string name="click_to_open">Appuyer pour ouvrir</string>
     <string name="call_to">Appeler</string>
     <string name="sms_to">Destinataire</string>
-    <string name="sms_template">Contenu du SMS</string>
+    <string name="sms_template">Modèle de SMS (facultatif)</string>
     <string name="confirm">Confirmer</string>
     <string name="cancel">Annuler</string>
     <string name="delete">Supprimer</string>
-    <string name="input_phone">Veuillez saisir le numéro</string>
+    <string name="input_phone">Destinataire (facultatif)</string>
     <string name="earphone">Écouteurs</string>
-    <string name="select_device">Dispositif non détecté</string>
-    <string name="times">clics</string>
+    <string name="select_device">MiKey non détectée</string>
+    <string name="times">fois</string>
     <string name="rank_prefix">"Classement : "</string>
     <string name="rank_suffix">" points"</string>
     <string name="no_usage">…</string>
@@ -82,9 +82,9 @@
     <string name="action_kuaidi">Kuaidi taxi</string>
     <string name="message_photo_end">Photo enregistrée</string>
     <string name="select_camera">Veuillez sélectionner la caméra</string>
-    <string name="front_camera">Capteur frontal</string>
-    <string name="back_camera">Capteur arrière</string>
-    <string name="write_pic_fail">Erreur, impossible d\'enregistrer la photo</string>
+    <string name="front_camera">Caméra frontale</string>
+    <string name="back_camera">Caméra arrière</string>
+    <string name="write_pic_fail">"Impossible d'enregistrer la photo"</string>
     <string name="task_title_prefix">%1$s) %2$s</string>
     <string name="action_zero_volume">Silencieux</string>
     <string name="settings">Paramètres</string>
@@ -95,17 +95,11 @@
     <string name="setting_keeplive_text">Exécuter en arrière-plan</string>
     <string name="setting_vibrate_text">Vibrer</string>
     <string name="setting_instant_photo_text">Auto Focus</string>
-    <string name="setting_instant_photo_desc">"Mise au point rapide avant de prendre une photo"</string>
-    <string name="setting_speed_desc">"Vitesse d\'appuie sur le bouton"</string>
+    <string name="setting_instant_photo_desc">"Mise au point automatique avant de prendre la photo"</string>
+    <string name="setting_speed_desc">"Vitesse d'appui sur le bouton"</string>
     <string name="setting_keeplive_desc">"Permettre à l\'application de s\'exécuter en arrière-plan.
 Peut augmenter la consommation de la batterie"</string>
-    <string name="setting_vibrate_desc">"En retour, le téléphone émettra une vibration"</string>
- <!-- setting_vibrate_desc à retraduire : 
-"The ability to feel the implementation of the functions are not repeated to give vibration feedback 
-The feedback function can not be delivered, such as "flash shot", "Mute" is through the vibration 
-Feedback implementation. 
-Users can use this switch to completely turn off the anti-vibration"
- -->
+    <string name="setting_vibrate_desc">Le téléphone émettra une vibration lors du clic</string>
     <string name="close_recorder">Stopper l\'enregistrement</string>
     <string name="file_delimiter">/</string>
     <string name="notification_control_play">Lire</string>
@@ -113,9 +107,9 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="notification_recorder_file_location">Chemin d\'accès :</string>
     <string name="notification_recorder_start">Démarrage de l\'enregistrement…</string>
     <string name="sdcard">Carte SD</string>
-    <string name="setting_silent_mode">Mode silencieux</string>
-    <string name="silent_mode_tip_main">Le bouton de basculement en mode silencieux est désactivé</string>
-    <string name="silent_mode_tip_sub">Veuillez l\'activer via les paramètres</string>
+    <string name="setting_silent_mode">Désactiver la MiKey</string>
+    <string name="silent_mode_tip_main">La MiKey est désactivée</string>
+    <string name="silent_mode_tip_sub">"Vous pouvez l'activer dans le menu paramètres"</string>
     <string name="action_qrcode">Scanner un code QR</string>
     <string name="flash_lable">Flash</string>
     <string name="picker_lable">Galerie</string>
@@ -124,7 +118,7 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="nickname">Surnom :</string>
     <string name="company">Entreprise :</string>
     <string name="title">Titre :</string>
-    <string name="phone">Tel. :</string>
+    <string name="phone">Tél. :</string>
     <string name="email">Email :</string>
     <string name="web">Web :</string>
     <string name="address">Adresse :</string>
@@ -138,22 +132,22 @@ Users can use this switch to completely turn off the anti-vibration"
     <string name="close_flash_error">Impossible de désactiver le flash</string>
     <string name="fail_generate_barcode">Erreur lors de la génération du code QR</string>
     <string name="copy_succeed">Copie effectuée</string>
-    <string name="place_barcode_into_rectangle">Placez le code QR ou code barre dans le viseur</string>
+    <string name="place_barcode_into_rectangle">"Placer le code QR/barre dans le viseur"</string>
     <string name="scan_result">Résultat de la recherche</string>
     <string name="recognize">Analyser</string>
     <string name="test_user_entry">Test</string>
     <string name="action_toolbox">Boite à outils</string>
     <string name="goto_update">Mettre à jour</string>
     <string name="update_message">Mettre à jour !</string>
-    <string name="toolbox_outer_desc">Appuyez sur + ou sur une étape existante</string>
+    <string name="toolbox_outer_desc">"Appuyer sur + ou sur une étape existante"</string>
     <string name="action_open_mi_route">Liste des appareils</string>
     <string name="setting_silent_mode_default">Mode écouteurs</string>
     <string name="setting_silent_mode_dust_cap">MiKey</string>
-    <string name="setting_silent_mode_desc">Retirez la Mikey après avoir sélectionné le mode écouteur, car sinon vous n\'aurez plus de son.</string>
+    <string name="setting_silent_mode_desc">Retirez la MiKey après avoir sélectionné le mode écouteur, car sinon vous n\'aurez plus de son.</string>
     <string name="showSlip">Afficher dans le menu déroulant</string>
     <string name="action_open_camera360_capture">Camera360 (effets)</string>
     <string name="action_open_camera360_edit">Camera360 (retouche d\'image)</string>
-    <string name="app_not_installed">Appli non installée</string>
+    <string name="app_not_installed">"Application non installée"</string>
     <string name="setting_buy">Acheter une MiKey</string>
     <string name="setting_toolbar">Barre d\'outils</string>
     <string name="setting_toolbar_desc">"Les fonctions de la barre d\'outils sont accessibles rapidement via le menu déroulant de la barre de notification.".</string>
@@ -174,26 +168,36 @@ La barre d\'outils est accessible via le menu déroulant de la barre de notifica
     <string name="toast_open">Ouvrir</string>
     <string name="toast_close">Fermer</string>
     <string name="chooser_dust_cap">MiKey</string>
-
-<!-- à traduire : !! -->
-  <string name="faq_comp_text">For MIUI and Xiaomi phones. The current version of MiKey is available at &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
-  <string name="faq_comp_title">Supported devices</string>
-  <string name="faq_focus_text">Flash extends the time of taking the picture, but the resulting picture is sharper. Although you can turn it off, the picture might be blurred.</string>
-  <string name="faq_focus_title">Slow taking pictures?</string>
-  <string name="faq_misreq_text">"If the control of music on the lock screen doesn't respond, quit app and remove it from memory. Reconnect your MiKey and try again."</string>
-  <string name="faq_misreq_title">Solving common problems</string>
-  <string name="faq_plug_text">This method of inserting MiKey will help avoid potential problems. Do not press the button while inserting MiKey.</string>
-  <string name="faq_plug_title">How to connect MiKey?</string>
-  <string name="faq_quni_text">Button will last over 30000 clicks.</string>
-  <string name="faq_quni_title">What is the lifespan?</string>
-  <string name="faq_slow_text">Set the frequency of clicks to "0"</string>
-  <string name="faq_slow_title">Slow reaction?</string>
-  <string name="faq_speed_text">Differences between the device causes a different reaction times. Set the time between clicks MiKey according to your needs.</string>
-  <string name="faq_speed_title">Unknown action?</string>
-  <string name="faq_stat_text">Ranking clears ar the start of each new day.</string>
-  <string name="faq_stat_title">I have "0" clicks in the morning?</string>
-  <string name="faq_voice_text">Please re-insert MiKey and try again.</string>
-  <string name="faq_voice_title">No sound during a call?</string>
-  <string name="faq_vsm_text">Make sure that you have disconnected your MiKey before removing the back cover!</string>
-  <string name="faq_vsm_title">Warning!</string>
+    <string name="faq_comp_text">"Pour les téléphones Xiaomi utilisant MIUI v5 et +"</string>
+    <string name="faq_comp_title">"Modèles de téléphone supportés ?"</string>
+    <string name="faq_focus_text">"L'auto focus augmente le temps pour prendre une photo, mais l'image qui en résulte est plus nette. Si vous le désactivez, l'image risque d'être floue"</string>
+    <string name="faq_focus_title">"Photos floues ? Lenteur ?"</string>
+    <string name="faq_misreq_text">"Si le contrôle de la musique sur l'écran de verrouillage ne fonctionne pas, quitter l'application et supprimer la de la mémoire. Rebrancher la MiKey puis réessayer"</string>
+    <string name="faq_misreq_title">"Résolution des problèmes courants ?"</string>
+    <string name="faq_plug_text">"Cette méthode d'insertion de la MiKey permettra d'éviter d'éventuels problèmes. Ne pas appuyer sur le bouton en insérant la MiKey"</string>
+    <string name="faq_plug_title">"Comment connecter la MiKey ?"</string>
+    <string name="faq_quni_text">"Le bouton supporte plus de 30000 clics"</string>
+    <string name="faq_quni_title">"Durée de vie de la MiKey ?"</string>
+    <string name="faq_slow_text">"Régler la vitesse d'appui sur le bouton à 0"</string>
+    <string name="faq_slow_title">"Action lente ?"</string>
+    <string name="faq_speed_text">"Le temps de réaction entre deux clics peut être différent en fonction du modèle de téléphone. Il faut adapter la vitesse dans le menu paramètres"</string>
+    <string name="faq_speed_title">"Action non reconnue ?"</string>
+    <string name="faq_stat_text">"Le compteur est remis à zéro chaque jour"</string>
+    <string name="faq_stat_title">"Comment remettre le compteur de clics à 0 ?"</string>
+    <string name="faq_voice_text">"Réinsérer la MiKey puis réessayer"</string>
+    <string name="faq_voice_title">"Aucun son pendant un appel ?"</string>
+    <string name="faq_vsm_text">"Assurez-vous d'avoir retiré la MiKey avant de retirer le capot arrière du téléphone !"</string>
+    <string name="faq_vsm_title">"Attention !"</string>
+    <string name="hint_mikey_sprite">"Un clic MiKey équivaut à appuyer sur l'écran 
+Par exemple : passer un appel, prendre des photos, lancer un jeu… 
+L'utilisation de l'assistant désactivera certaines fonctionnalités de l'application MiKey"</string>
+    <string name="enable_mikey_sprite">"Lancer l'assistant"</string>
+    <string name="disable_mikey_sprite">"Quitter l'assistant"</string>
+    <string name="dialog_title_disable_mikey_sprite">"Êtes-vous sur de vouloir quitter l'assistant ?"</string>
+    <string name="splash_mikey_sprite">"Placer le point à l\'endroit désiré"</string>
+    <string name="tab_mikey">MiKey</string>
+    <string name="tab_mikey_sprite">Assistant</string>
+    <string name="notify_content_sprite">Appuyer sur la croix pour quitter</string>
+    <string name="notify_ticker_sprite">Assistant MiKey</string>
+    <string name="notify_title_sprite">Assistant MiKey</string>
 </resources>

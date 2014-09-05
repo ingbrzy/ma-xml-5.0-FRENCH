@@ -1,12 +1,12 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="about_to_receive">Réception de fichier(s)</string>
-  <string name="about_to_send">Envoi de fichier(s)</string>
+  <string name="about_to_receive">Réception</string>
+  <string name="about_to_send">Envoyer un fichier</string>
   <string name="add_download_task_failed">Ajout du téléchargement échoué ! Veuillez réessayer</string>
   <string name="add_to_download">Ajouté à la file d\'attente de téléchargements</string>
- <!-- add_to_restore à revoir ?-->
+ <!-- à revoir add_to_restore ? -->
   <string name="add_to_restore">Ajouté à restaurer</string>
   <string name="all_history">Tout l\'historique</string>
   <string name="already_select_files">%1$d éléments sélectionnés</string>
@@ -31,9 +31,9 @@
   <string name="defalut_nameofnewfile">Nouveau dossier</string>
   <string name="delete">Supprimer</string>
   <string name="delete_history_message">Êtes-vous sûr de vouloir effacer tout l\'historique ?</string>
-  <string name="device_default_name">Téléphone Xiaomi</string>
+  <string name="device_default_name">Mi Phone</string>
   <string name="device_name">Nom de l\'appareil</string>
-  <string name="device_name_tip">Appuyez sur À propos du téléphone, puis éditez le nom de l\'appareil.</string>
+  <string name="device_name_tip">Appuyez sur À propos de l\'appareil, puis éditez le nom de l\'appareil.</string>
   <string name="doc">Fichiers</string>
   <string name="download">Télécharger</string>
   <string name="download_complete">%1$s | %2$s téléchargés depuis : %3$s</string>
@@ -69,7 +69,7 @@
   <string name="fill_upload_paused">Envoi suspendu</string>
   <string name="finish">Terminé</string>
   <string name="first_in_tip">Utilisation de Transfert pour la première fois</string>
-  <string name="from_kuaipan">De MiCloud</string>
+  <string name="from_kuaipan">De Mi Cloud</string>
   <string name="generate_share_link_failed">La génération du lien de partage a échouée !</string>
   <string name="generating_share_link">Création d\'un lien de partage…</string>
   <string name="get_share_failed">Le partage a échoué !</string>
@@ -87,7 +87,7 @@
   <string name="load_file_error">Impossible de charger le fichier !</string>
   <string name="loading_file">Chargement du fichier…</string>
   <string name="login_failed">Connexion au compte Mi échouée !</string>
-  <string name="mishare_app_name">MiShare</string>
+  <string name="mishare_app_name">Mi Share</string>
   <string name="network_not_connected">Connexion réseau indisponible ! Veuillez réessayer</string>
   <string name="no_content">Aucun contenu</string>
   <string name="no_selected">Aucun fichier sélectionné</string>
@@ -156,7 +156,7 @@ et peut recevoir des fichiers"</string>
   <string name="send_2d_code">Envoyer un code 2D</string>
   <string name="send_cancel_tip">Transfert inachevé. Êtes-vous sûr de vouloir arrêter le transfert et quitter ?</string>
   <string name="send_cancel_tip2">Annulation de l\'envoi. %1$d/%2$d fichier(s) envoyés</string>
-  <string name="send_file_to_friends_by_net">Partager des fichiers avec des amis utilisant MiShare</string>
+  <string name="send_file_to_friends_by_net">Partager des fichiers avec des amis utilisant Mi Share</string>
   <string name="send_files">Envoi de %1$d fichier(s)</string>
   <string name="send_finish">Fichier envoyé !</string>
   <string name="send_finish_tip">%1$d fichier(s) envoyé(s) à :</string>
@@ -168,33 +168,33 @@ et peut recevoir des fichiers"</string>
   <string name="send_to">Envoyer à :</string>
   <string name="send_uncompleted">Envoi inachevé</string>
   <string name="sent">Envoyer</string>
-  <string name="settings_auto_pair_sender_summary">Couplage audio automatique avec le receveur/envoyeur</string>
-  <string name="settings_auto_pair_sender_title">Couplage audio automatique</string>
+  <string name="settings_auto_pair_sender_summary">S\'associer automatiquement avec l\'autre appareil</string>
+  <string name="settings_auto_pair_sender_title">Association audio auto</string>
   <string name="settings_connect">Paramètres de connexion</string>
   <string name="settings_label">Paramètres de transfert</string>
   <string name="settings_photo">Avatar</string>
   <string name="settings_photo_camera">Prendre une nouvelle photo</string>
   <string name="settings_photo_pick">Sélectionner à partir de la Galerie</string>
   <string name="settings_photo_remove">Supprimer l\'avatar</string>
-  <string name="settings_receive_confirm_summary">Confirmer la requête de transfert de fichier(s)</string>
+  <string name="settings_receive_confirm_summary">Confirmer la requête de transfert</string>
   <string name="settings_receive_confirm_title">Recevoir une confirmation</string>
   <string name="share">Partager</string>
   <string name="share_history">Historique de partage</string>
   <string name="share_item_not_found">Le fichier partagé n\'a pas été trouvé</string>
-  <string name="share_message">%1$s partage(s) de fichiers</string>
+  <string name="share_message">Fichiers partagés : %1$s</string>
   <string name="share_msg_model">"J\'ai partagé un fichier avec vous :
 %1$s"</string>
-  <string name="share_text">MIUI V5 supporte le transfert de fichier sans utilisation du réseau mobile. Utilisateurs non MIUI V5, veuillez télécharger %1$s</string>
+  <string name="share_text">MIUI supporte le transfert de fichier sans utilisation du réseau mobile. Utilisateurs non MIUI, veuillez télécharger %1$s</string>
   <string name="shortmessage">Message court</string>
   <string name="start">Démarrer</string>
   <string name="summary_step_one">Envoyer des images, musiques, contacts et autres fichiers divers</string>
-  <string name="summary_step_two">Inviter des amis à installer MiShare</string>
+  <string name="summary_step_two">Inviter des amis à installer Mi Share</string>
   <string name="support_tip">Propulsé par AnyShare</string>
   <string name="title_createfolder">Nouveau dossier</string>
   <string name="title_selectfile_num">%s fichiers sélectionnés</string>
   <string name="title_step_one">1. Les fichiers peuvent être transférés sans utilisation du réseau mobile</string>
   <string name="title_step_three">3. Partager des fichiers avec des amis</string>
-  <string name="title_step_two">2. MiShare est un protocole de transfert universel</string>
+  <string name="title_step_two">2. Mi Share est un protocole de transfert universel</string>
   <string name="trans_complete">Transfert complété !</string>
   <string name="trans_failed">Échec du transfert !</string>
   <string name="trans_paused">Transfert en pause</string>

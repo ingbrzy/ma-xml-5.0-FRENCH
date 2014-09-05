@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="app_name">Xiaomi Authenticator</string>
+  <string name="app_name">Mi Authenticator</string>
   <string name="app_name_short">Authenticator</string>
   <string name="enter_key_title">Saisie manuelle du compte</string>
   <string name="enter_key_page_add_button">Ajouter</string>
@@ -46,7 +48,7 @@
   <string name="cancel">Annuler</string>
   <string name="context_menu_remove_account">Supprimer le compte</string>
   <string name="remove_account_dialog_button_remove">Supprimer</string>
-  <string name="remove_account_dialog_title">Supprimer le compte %1$s ?</string>
+  <string name="remove_account_dialog_title">Supprimer le compte %1$s ?</string>
   <string name="remove_account_dialog_message">"La suppression de ce compte entraînera l'&lt;b>annulation de votre capacité&lt;/b> à générer des codes. Toutefois, cela n'entraînera &lt;b>pas&lt;/b> la désactivation de l'authentification en deux étapes. Il est possible que vous ne puissiez pas vous connecter à votre compte. &lt;p> Avant de supprimer ce compteﾠ: &lt;ul> &lt;li>Désactivez l'authentification en deux étapes.&lt;/li> &lt;li>Ou assurez-vous de disposer d'une autre solution pour générer des codes.&lt;/li> &lt;/ul>"</string>
   <string name="remove_Xiaomi_account_dialog_message">"La suppression de ce compte entraînera l'&lt;b>annulation de votre capacité&lt;/b> à générer des codes. Toutefois, cela n'entraînera &lt;b>pas&lt;/b> la désactivation de la validation en deux étapes. Il est possible que vous ne puissiez pas vous connecter à votre compte. &lt;p> Avant de supprimer ce compte : &lt;ul> &lt;li>Désactivez la validation en deux étapes.&lt;/li> &lt;li>Ou assurez-vous de disposer d'une autre solution pour générer des codes.&lt;/li> &lt;/ul>"</string>
   <string name="rename">Renommer</string>
@@ -90,7 +92,7 @@
   <string name="lockpattern_pattern_confirmed_header">Votre nouveau schéma de déverrouillage</string>
   <string name="lockpattern_recording_inprogress">Ôtez le doigt lorsque vous avez terminé.</string>
   <string name="lockpattern_retry_text"><u>Réinitialiser le schéma de verrouillage</u></string>
-  <string name="forget_password"><u>Schéma oublié ?</u></string>
+  <string name="forget_password"><u>Schéma oublié ?</u></string>
   <string name="change_security_lock">Modifier le verrouillage de sécurité</string>
   <string name="lockpassword_confirm_your_pattern_header">Veuillez confirmez votre schéma</string>
   <string name="lockpassword_input_your_pattern_header">Veuillez dessiner votre schéma</string>
@@ -123,7 +125,7 @@
   <string name="password_forget">Mot de passe oublié ?</string>
   <string name="app_name_lockpattern">LockPattern</string>
   <string name="action_settings">Paramètres</string>
-  <string name="tip_lockpattern">Il est recommandé de protéger l\'accès à Authenticator, veuillez dessiner un schéma en reliant au points quatre points</string>
+  <string name="tip_lockpattern">Il est recommandé de protéger l\'accès à Authenticator, veuillez dessiner un schéma en reliant au moins quatre points</string>
   <string name="jump_createpattern_tip">Pour la sécurité de votre compte Mi, il est déconseillé de ne pas protéger l\'accès à Authenticator</string>
   <string name="jump_updatepattern_tip">Pour la sécurité de votre compte Mi, il est déconseillé de ne pas protéger l\'accès à Authenticator</string>
   <string name="jump_lockpattern_title">Avertissement</string>
@@ -132,14 +134,14 @@
   <string name="new_pattern_tip">Dessinez un nouveau schéma</string>
   <string name="title_createpattern">Définir un schéma de verrouillage</string>
   <string name="title_updatepattern">Modification du schéma</string>
-  <string name="title_forgetpattern">Schéma oubliéﾠ?</string>
-  <string name="resetbtn_patternforgotten">Restaurer</string>
+  <string name="title_forgetpattern">Schéma oublié ?</string>
+  <string name="resetbtn_patternforgotten">Réinitialiser</string>
   <string name="authenticator_page_reactivation">Réactiver</string>
   <string name="success_set_password">Schéma modifié avec succès</string>
   <string name="success_reset_password">Schéma réinitialisé avec succès</string>
   <string name="correct_enter_password"/>
   <string name="correct_enter_update_password"/>
-  <string name="title_patternforgotten">"Schéma oubliéﾠ?
+  <string name="title_patternforgotten">"Schéma oublié ?
 Vous pouvezﾠ:"</string>
   <string name="activation_page_info">"Connectez-vous sur account.xiaomi.com puis cliquez sur \"管理\" et \"重置\".
 
@@ -155,20 +157,20 @@ Pour le moment vous devez basculer le site en chinois pour avoir accès à ces o
   <string name="timesync_sync_now_progress_dialog_title">Information</string>
   <string name="timesync_sync_now_progress_dialog_details">Connexion au serveur en cours…</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Information</string>
-  <string name="timesync_sync_now_time_corrected_dialog_details">"L'horloge interne de Xiaomi Authenticator a été ajustée de manière à correspondre à l'heure fournie par les serveurs. 
+  <string name="timesync_sync_now_time_corrected_dialog_details">"L'horloge interne de Mi Authenticator a été ajustée de manière à correspondre à l'heure fournie par les serveurs. 
 
 Les paramètres de date et d'heure de cet appareil n'ont pas été modifiés."</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Information</string>
-  <string name="timesync_sync_now_time_already_correct_dialog_details">"L'horloge interne de Xiaomi Authenticator n'a pas été ajustée, car elle semble déjà être synchronisée avec les serveurs."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"L'horloge interne de Mi Authenticator n'a pas été ajustée, car elle semble déjà être synchronisée avec les serveurs."</string>
   <string name="timesync_sync_now_connectivity_error_dialog_title">Avertissement</string>
   <string name="timesync_sync_now_connectivity_error_dialog_details">Un problème est survenu lors de la communication avec les serveurs. Veuillez vérifier les paramètres réseau, puis réessayer.</string>
   <string name="success_copy_to_clipboard">Copié dans le presse-papier</string>
-  <string name="tip1_patternforgotten">Désinstallez l\'application Authenticator, réinstallez-la puis procédez à l\'activation.</string>
-  <string name="tip2_patternforgotten">Appuyer sur le bouton si-dessous pour réinitialiser votre mot de passe</string>
-  <string name="details_patternforgotten">"Réinitialisation du mot de passe :
-Connectez-vous sur https://account.xiaomi.com et sélectionnez l'option de récupération du mot de passe"</string>
+  <string name="tip1_patternforgotten">Désinstaller et réinstaller l\'application, puis procéder à l\'activation</string>
+  <string name="tip2_patternforgotten">Appuyer sur \"Réinitialiser\" (le mot de passe)</string>
+  <string name="details_patternforgotten">"Réinitialisation du mot de passe :
+Connectez-vous sur account.xiaomi.com et sélectionnez l'option de récupération du mot de passe"</string>
   <string name="continue_btn">Continuer</string>
   <string name="authenticator_invalid_tip">Veuillez relancer l\'application\page qui requiert le code de vérification et réessayer ou essayez générer un nouveau code de vérification</string>
-  <string name="authenticator_invalid_title">Compte : %1$s, code incorrect</string>
-  <string name="timesync_about_feature_screen_details">"Si vous appuyez sur \"Synchroniser\",  Authenticator tentera de synchroniser son horloge interne avec les serveurs. Les paramètres de date et d\'heure de l\'appareil ne seront pas modifiés. &lt;p&gt; Authenticator ne transmet pas de données personnelles ni d\'informations sur le compte lors de la synchronisation de son horloge interne avec les serveurs. &lt;p&gt; &lt;b&gt;Pourquoi est-ce utile ?&lt;/b&gt; &lt;p&gt; Authenticator génère des codes de validation en deux étapes en se basant sur 1) l\'heure actuelle et 2) un nombre secret connu de l\'application et du serveur. &lt;p&gt; Si l\'heure dans Authenticator et l\'heure sur le serveur ne sont pas identiques, il est possible que les codes générés par l\'application ne soient pas acceptés lorsque vous tentez de vous connecter. &lt;p&gt; Authenticator utilise par défaut la date et l\'heure de l\'appareil et, dans la plupart des cas, vous serez en mesure de générer des codes valides en vous assurant que l\'heure, la date et les paramètres de fuseau horaire de votre appareil sont correctement configurés. Toutefois, il peut être difficile de résoudre les éventuels problèmes de décalage, surtout si vous utilisez l\'heure ou le fuseau horaire fournis par le réseau."</string>
+  <string name="authenticator_invalid_title">Compte : %1$s, code incorrect</string>
+  <string name="timesync_about_feature_screen_details">"Si vous appuyez sur \"Synchroniser\", Authenticator tentera de synchroniser son horloge interne avec les serveurs. Les paramètres de date et d\'heure de l\'appareil ne seront pas modifiés. &lt;p&gt; Authenticator ne transmet pas de données personnelles ni d\'informations sur le compte lors de la synchronisation de son horloge interne avec les serveurs. &lt;p&gt; &lt;b&gt;Pourquoi est-ce utile?&lt;/b&gt; &lt;p&gt; Authenticator génère des codes de validation en deux étapes en se basant sur 1) l\'heure actuelle et 2) un nombre secret connu de l\'application et du serveur. &lt;p&gt; Si l\'heure dans Authenticator et l\'heure sur le serveur ne sont pas identiques, il est possible que les codes générés par l\'application ne soient pas acceptés lorsque vous tentez de vous connecter. &lt;p&gt; Authenticator utilise par défaut la date et l\'heure de l\'appareil et, dans la plupart des cas, vous serez en mesure de générer des codes valides en vous assurant que l\'heure, la date et les paramètres de fuseau horaire de votre appareil sont correctement configurés. Toutefois, il peut être difficile de résoudre les éventuels problèmes de décalage, surtout si vous utilisez l\'heure ou le fuseau horaire fournis par le réseau."</string>
   </resources>

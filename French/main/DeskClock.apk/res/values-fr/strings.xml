@@ -44,7 +44,7 @@
   <string name="analog_gadget">Horloge analogique</string>
   <string name="app_label">Horloge</string>
   <string name="auto_silence_never">Désactivé</string>
-  <string name="auto_silence_summary">Alarme en silence après %d minutes</string>
+  <string name="auto_silence_summary">Alarme en silence après %d min</string>
   <string name="auto_silence_title">Silence automatique</string>
   <string name="battery_charging_level">%d %%</string>
   <string name="cancel">Annuler</string>
