@@ -50,7 +50,7 @@
   <string name="contact_note">Note</string>
   <string name="contact_phone">Téléphone</string>
   <string name="contact_title">Titre</string>
-  <string name="contact_web">Internet</string>
+  <string name="contact_web">internet</string>
   <string name="copy_text">Copier le texte</string>
   <string name="copy_text_success">Texte copié avec succès</string>
   <string name="crop_saved">Image rognée enregistrée vers %s</string>
@@ -115,7 +115,7 @@
   <string name="find_mecard_qrcode">Trouver un code QR de carte de visite</string>
   <string name="find_other_qrcode">Trouver un code QR</string>
   <string name="find_qq_qrcode">Trouver un code QR QQ</string>
-  <string name="find_web_qrcode">Trouver un code QR de site Internet</string>
+  <string name="find_web_qrcode">Trouver un code QR de site internet</string>
   <string name="find_wechat_qrcode">Trouver un code QR WeChat</string>
   <string name="find_wifi_qrcode">Trouver un code QR Wi-Fi</string>
   <string name="flash">Flash</string>
@@ -409,7 +409,7 @@
   <string name="rotate_right">Faire pivoter à droite</string>
   <string name="save">Oui</string>
   <string name="scan_qrcode">Scanner le code QR</string>
-  <string name="secure_access_web_url">Accès Internet sécurisé</string>
+  <string name="secure_access_web_url">Accès internet sécurisé</string>
   <string name="see_app_details">Voir les détails de l\'app</string>
   <string name="see_qrcode_detals">Voir les détails du code QR</string>
   <string name="select_all">Tout sélectionner</string>

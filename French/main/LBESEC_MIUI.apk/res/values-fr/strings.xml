@@ -46,7 +46,7 @@
   <string name="Generic_Check">Vérifier</string>
   <string name="Generic_Clean">Nettoyer</string>
   <string name="Generic_Configuration">Paramètres</string>
-  <string name="Generic_Copyright">Support fourni par Xiaomi</string>
+  <string name="Generic_Copyright">Service fourni par Xiaomi</string>
   <string name="Generic_Disable">Désactiver</string>
   <string name="Generic_Enable">Activer</string>
   <string name="Generic_Good">Correct</string>
@@ -78,7 +78,7 @@
   <string name="HIPS_Action_Reject_Count">Refusé : %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Confidentialité</string>
   <string name="HIPS_Group_Expense">Sécurité</string>
-  <string name="HIPS_Group_Internet">Accès Internet</string>
+  <string name="HIPS_Group_internet">Accès internet</string>
   <string name="HIPS_Group_Location">Positionnement</string>
   <string name="HIPS_Group_PIM">Informations personnelles</string>
   <string name="HIPS_Group_PhoneID">Identification du téléphone</string>
@@ -118,8 +118,8 @@
   <string name="HIPS_Perm_Location_Source_GPS">Source : GPS</string>
   <string name="HIPS_Perm_Location_Source_Network">Source : Réseau</string>
   <string name="HIPS_Perm_MobileNetwork">Réseau mobile</string>
-  <string name="HIPS_Perm_MobileNetwork_Desc">Accéder à Internet via le réseau mobile</string>
-  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s applis peuvent accéder à Internet</string>
+  <string name="HIPS_Perm_MobileNetwork_Desc">Accéder à internet via le réseau mobile</string>
+  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s applis peuvent accéder à internet</string>
   <string name="HIPS_Perm_Network_Accept">Autoriser la connexion de %1$s</string>
   <string name="HIPS_Perm_Network_Connect">Se connecter à %1$s</string>
   <string name="HIPS_Perm_Network_Listen">Écouter sur le port %1$s</string>
@@ -159,8 +159,8 @@
   <string name="HIPS_Perm_SendSMS_Text">envoyer un SMS à %1$s</string>
   <string name="HIPS_Perm_SilenceRinger">Couper la sonnerie</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">Accéder à Internet via Wi-Fi</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s applis peuvent accéder à Internet</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">Accéder à internet via Wi-Fi</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s applis peuvent accéder à internet</string>
   <string name="HIPS_SecurityPrompt_Accept">Autorisé (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Autoriser</string>
   <string name="HIPS_SecurityPrompt_Caption">Avertissement de sécurité</string>

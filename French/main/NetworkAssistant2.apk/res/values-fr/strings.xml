@@ -204,7 +204,7 @@ connexion au réseau de données mobiles"</string>
     <string name="data_usage_limit_body">Appuyer pour activer les données mobiles.</string>
     <string name="data_usage_disabled_dialog">"Vous avez atteint votre limite d\'usage de données. 
 
-Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais supplémentaires."</string>
+Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais supplémentaires."</string>
 
     <string name="data_usage_disabled_dialog_enable">Activer les données</string>
     <string name="data_usage_mobile_limit_snoozed_title">Limite d\'usage de données dépassée</string>
@@ -234,7 +234,7 @@ Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
     <string name="mi_service_traffic_detail">Détails Framework</string>
     <string name="none_mi_service_app_detail">Vide</string>
     <string name="pref_traffic_saving_whitelist">Exceptions</string>
-    <string name="pref_traffic_saving_whitelist_hint">L\'utilisation des données de ces applis de sera pas restreint</string>
+    <string name="pref_traffic_saving_whitelist_hint">L\'utilisation des données de ces applis ne sera pas restreint</string>
     <string name="traffic_saving_history_total_money">Économisé</string>
     <string name="traffic_saving_history_total_money_unit">RMB</string>
     <string name="traffic_saving_history_total_month">"Économisé ce mois-ci : "</string>
@@ -247,7 +247,7 @@ Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
     <string name="traffic_saving_whitelist_btn_added">Ajouté à la liste</string>
     <string name="traffic_saving_whitelist_btn_remove">Supprimer</string>
     <string name="traffic_saving_whitelist_btn_removed">Supprimé de la liste</string>
-    <string name="traffic_saving_whitelist_count">L\'utilisation des données de %s applis de sera pas restreint</string>
+    <string name="traffic_saving_whitelist_count">L\'utilisation des données de %s applis ne sera pas restreint</string>
     <string name="traffic_saving_whitelist_no_app">Aucune application</string>
     <string name="checkout_traffic_saving_history">Historique</string>
     <string name="traffic_saving_msg_not_started">Inactif</string>

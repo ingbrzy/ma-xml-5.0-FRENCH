@@ -53,7 +53,7 @@
         <item>"delete other applications' data"</item>
         <item>confirm a full backup or restore operation</item>
         <item>Allows to invoke default container service to copy content. Not for use by normal applications.</item>
-        <item>full Internet access</item>
+        <item>full internet access</item>
         <item>"delete other applications' caches"</item>
         <item>delete applications</item>
         <item>power phone on or off</item>
@@ -142,7 +142,7 @@
         <item>read subscribed feeds</item>
         <item>write subscribed feeds</item>
         <item>display system-level alerts</item>
-        <item>make/receive Internet calls</item>
+        <item>make/receive internet calls</item>
         <item>use the authentication credentials of an account</item>
         <item>control vibrator</item>
         <item>prevent phone from sleeping</item>
@@ -301,7 +301,7 @@
         <item>Allows an application to get details about the currently synced feeds.</item>
         <item>Allows an application to modify your currently synced feeds. This could allow a malicious application to change your synced feeds.</item>
         <item>Allows an application to show system alert windows. Malicious applications can take over the entire screen.</item>
-        <item>Allows an application to use the SIP service to make/receive Internet calls.</item>
+        <item>Allows an application to use the SIP service to make/receive internet calls.</item>
         <item>Allows an application to request authentication tokens.</item>
         <item>Allows the application to control the vibrator.</item>
         <item>Allows an application to prevent the phone from going to sleep.</item>

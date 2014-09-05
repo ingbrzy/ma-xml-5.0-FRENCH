@@ -470,7 +470,7 @@
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Pas de contacts en double</string>
   <string name="label_notes">Notes</string>
-  <string name="label_sip_address">Appel Internet</string>
+  <string name="label_sip_address">Appel SIP</string>
   <string name="launcherDialer">Téléphone</string>
   <string name="listCustomView">Contacts en affichage personnalisé</string>
   <string name="listFoundAllContactsZero">Aucun contact</string>
@@ -772,7 +772,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="recentCalls_removeFromRecentList">Supprimer du journal d\'appels</string>
   <string name="recentCalls_shareVoicemail">Partager le message vocal</string>
   <string name="recentCalls_trashVoicemail">Supprimer le message vocal</string>
-  <string name="recent_contacts_label">Récent</string>
+  <string name="recent_contacts_label">Récents</string>
   <string name="recent_number">Récent</string>
   <string name="recent_updates">Mises à jour récentes</string>
   <string name="redirect_calls_to_vm_confirm_message">Assurez-vous que votre opérateur supporte cette option. Sinon, vous pourriez ne plus être en mesure de recevoir des appels de ce contact.</string>

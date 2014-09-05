@@ -776,11 +776,11 @@
   <string name="policy_dont_allow_html">ne pas autoriser les e-mails au format HTML</string>
   <string name="policy_dont_allow_browser">ne pas autoriser les navigateurs</string>
   <string name="policy_dont_allow_consumer_email">ne pas autoriser e-mails consommateur</string>
-  <string name="policy_dont_allow_internet_sharing">ne pas autoriser partage connex. Internet</string>
+  <string name="policy_dont_allow_internet_sharing">ne pas autoriser partage connex. internet</string>
   <string name="policy_require_smime">exiger des messages au format SMIME</string>
   <string name="policy_bluetooth_restricted">limiter l\'utilisation du Bluetooth</string>
   <string name="policy_app_blacklist">interdire les applications spécifiées</string>
-  <string name="policy_app_whitelist">N\'autoriser que applications spécifiées</string>
+  <string name="policy_app_whitelist">n\'autoriser que les applications spécifiées</string>
   <string name="policy_text_truncation">autoriser e-mails texte selon leur taille</string>
   <string name="policy_html_truncation">autoriser e-mails HTML selon taille</string>
   <string name="policy_require_sd_encryption">Exiger le chiffrement de la carte SD</string>
@@ -881,7 +881,7 @@
   <string name="forward">Transférer</string>
   <string name="conversation_item_mark_read">Lu</string>
   <string name="conversation_item_mark_unread">Non lu</string>
-  <string name="default_signature">Envoyé de mon Xiaomi</string>
+  <string name="default_signature">Envoyé de mon Mi</string>
   <string name="account_name_toast">Ce nom est déjà utilisé, veuillez le renommer</string>
   <string name="outbox_alert_button_confirm">Éditer</string>
   <string name="contact_select">Choisir un contact</string>
@@ -909,7 +909,7 @@
   <string name="time_error">Problème de temps</string>
   <string name="wait_for_sync_body_txt_array_1">Une demande du serveur Exchange s\'affichera dans</string>
   <string name="wait_for_sync_body_txt_array_2">1 à 30</string>
-  <string name="wait_for_sync_body_txt_array_3">secondes. Veuillez confirmer les paramètres de sécurité et d\'activation.Prenez garde aux</string>
+  <string name="wait_for_sync_body_txt_array_3">secondes. Veuillez confirmer les paramètres de sécurité et d\'activation. Prenez garde aux</string>
   <string name="wait_for_sync_body_txt_array_4">alertes système</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Veuillez faire glisser la barre de notification vers le bas et toucher pour finir les paramètres de sécurité.</string>

@@ -367,7 +367,7 @@
   <string name="find_mecard_qrcode">Trouver un code QR de carte de visite</string>
   <string name="find_wechat_qrcode">Trouver un code QR WeChat</string>
   <string name="find_market_qrcode">Trouver un code QR du market</string>
-  <string name="find_web_qrcode">Trouver un code QR de site Internet</string>
+  <string name="find_web_qrcode">Trouver un code QR de site internet</string>
   <string name="find_other_qrcode">Trouver un code QR</string>
   <string name="find_qq_qrcode">Trouver un code QR QQ</string>
   <string name="find_wifi_qrcode">Trouver un code QR Wi-Fi</string>
@@ -379,7 +379,7 @@
   <string name="wechat_details">"Weixin : "</string>
   <string name="qr_code_details">"Détails code QR : "</string>
   <string name="import_contact">Importer un contact</string>
-  <string name="secure_access_web_url">Accès Internet sécurisé</string>
+  <string name="secure_access_web_url">Accès internet sécurisé</string>
   <string name="download_by_browser">Télécharger via le navigateur</string>
   <string name="launch_market">Lancer le PlayStore</string>
   <string name="launch_wechat">Lancer WeChat</string>
@@ -393,7 +393,7 @@
   <string name="contact_title">Titre</string>
   <string name="contact_phone">Téléphone</string>
   <string name="contact_email">Mail</string>
-  <string name="contact_web">Internet</string>
+  <string name="contact_web">internet</string>
   <string name="contact_address">Adresse</string>
   <string name="contact_birthday">Anniversaire</string>
   <string name="contact_note">Note</string>

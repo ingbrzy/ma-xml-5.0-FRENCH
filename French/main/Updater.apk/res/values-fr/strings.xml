@@ -30,7 +30,7 @@
   <string name="mione_update_success_title">Mise à jour terminée</string>
   <string name="mione_update_fail_title">La mise à jour a échouée</string>
   <string name="mione_update_fail_description">Veuillez relancer la mise à jour</string>
-  <string name="apply_unable_to_reboot_toast">Impossible de redémarrer en mode Recovery</string>
+  <string name="apply_unable_to_reboot_toast">Impossible de redémarrer en mode recovery</string>
   <string name="checking_for_updates">Vérification des mises à jour…</string>
   <string name="downloading_description">Téléchargement…</string>
   <string name="sdcard_is_not_present_dialog_body">Carte SD illisible ou non insérée</string>
@@ -50,9 +50,9 @@
   <string name="verify_and_apply_dialog_message">Vérification de la signature MD5 de la mise à jour…</string>
   <string name="apply_existing_update_md5error_title">La signature MD5 ne correspond pas</string>
   <string name="file_not_found_error_message">La mise à jour est introuvable.</string>
-  <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le Recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
+  <string name="apply_upload_info_message_manually">Après un arrêt, vous pouvez entrer manuellement dans le recovery pour appliquer %s dans la carte SD. Si vous voulez faire une sauvegarde, vous pouvez l\'exécuter puis revenir à la mise à jour du système.</string>
   <string name="apply_upload_info_message">Appuyez sur \"Confirmer\" pour redémarrer automatiquement le téléphone et appliquer la mise à jour.</string>
-  <string name="apply_buddy_update_info_message">Appuyez sur \"Confirmer\" pour commencer le processus de mise à jour</string>
+  <string name="apply_buddy_update_info_message">Appuyez sur \"Confirmer\" pour lancer le processus de mise à jour</string>
   <string name="system_backup_button_text">Effectuer une sauvegarde du système avant la mise à jour</string>
   <string name="system_backup_cancel_text">Mettre à jour</string>
   <string name="system_backup_ok_text">Sauvegarder</string>
@@ -159,7 +159,7 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="my_expect_update">Les attentes que j\'ai choisies</string>
   <string name="get_update_error">Impossible d\'obtenir des informations sur la mise à jour</string>
   <string name="active_xiaomi_account_title">Activer le compte Mi</string>
-  <string name="active_xiaomi_account_msg">Pour activer votre compte, rendez-vous sur : https://account.xiaomi.com/pass/serviceLogin.</string>
+  <string name="active_xiaomi_account_msg">Pour activer votre compte, rendez-vous sur : https://account.xiaomi.com/pass/serviceLogin</string>
   <string name="active_xiaomi_account">Actif</string>
   <string name="update_comment_title">Vos commentaires</string>
   <string name="update_comment_hint"/>

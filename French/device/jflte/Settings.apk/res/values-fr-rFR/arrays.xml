@@ -126,7 +126,7 @@
         <item>Déconnecté</item>
         <item>Échec</item>
         <item>Bloqué</item>
-        <item>Vérification de la qualité de votre connexion Internet…</item>
+        <item>Vérification de la qualité de votre connexion internet…</item>
         <item>Connecté</item>
         <item>CW Disconnected</item>
         <item>CW Registering</item>
@@ -152,7 +152,7 @@
         <item>Déconnecté</item>
         <item>Échec</item>
         <item>Bloqué</item>
-        <item>Vérification de la qualité de votre connexion Internet…</item>
+        <item>Vérification de la qualité de votre connexion internet…</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>Ouvert</item>
@@ -467,7 +467,7 @@
         <item>Appels</item>
         <item>SMS</item>
         <item>MMS</item>
-        <item>Internet</item>
+        <item>internet</item>
         <item>Domicile</item>
         <item>Bureau</item>
         <item>Cœur</item>

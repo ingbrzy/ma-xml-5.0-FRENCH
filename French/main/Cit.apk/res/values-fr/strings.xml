@@ -34,7 +34,7 @@
   <string name="cit_button_light_off">Stopper l\'éclairage du bouton</string>
   <string name="cit_button_light_on">Démarrer l\'éclairage du bouton</string>
   <string name="cit_calibration_fail">Calibrage échoué</string>
-  <string name="cit_calibration_pass">Étalonnage passé</string>
+  <string name="cit_calibration_pass">Calibrage réussi</string>
   <string name="cit_camera_sdcard_error">La carte SD est pleine. Impossible d\'enregistrer les images</string>
   <string name="cit_charger_plugin_check_summary">Vérifier l\'état actuel du chargeur</string>
   <string name="cit_charger_plugin_check_title">Tester la connexion du chargeur</string>

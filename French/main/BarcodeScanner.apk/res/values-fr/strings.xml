@@ -43,7 +43,7 @@
     <string name="qq_details">Détails QQ :</string>
     <string name="qr_code_details">"Détails code QR : "</string>
     <string name="scan_qrcode">Scanner le code QR</string>
-    <string name="secure_access_web_url">Accès Internet sécurisé</string>
+    <string name="secure_access_web_url">Accès internet sécurisé</string>
     <string name="see_app_details">Voir les détails de l\'app</string>
     <string name="success_message_import_from_account">Importé avec succès</string>
     <string name="visit_cloud_album">Visiter l\'album cloud</string>

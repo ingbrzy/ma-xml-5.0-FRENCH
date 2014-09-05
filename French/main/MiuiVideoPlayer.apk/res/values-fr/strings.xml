@@ -51,7 +51,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="video_info_audio_bitrate_label">Débit audio :</string>
   <string name="video_info_audio_coding_label">Format de codage audio :</string>
   <string name="video_info_audio_null">Aucun</string>
-  <string name="video_info_frame_rate_label">Images par secondes :</string>
+  <string name="video_info_frame_rate_label">Images par seconde :</string>
   <string name="video_info_length_label">Durée :</string>
   <string name="video_info_resolution_label">Résolution vidéo :</string>
   <string name="video_info_video_coding_label">Format de codage vidéo :</string>

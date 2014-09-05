@@ -212,7 +212,7 @@ Vous risquez cependant de recevoir de nombreuses données Push lors de la réact
   <string name="settings_label">Paramètres</string>
   <string name="settings_label_launcher">Paramètres</string>
   <string name="settings_shortcut">Raccourci vers les paramètres</string>
-  <string name="airplane_mode">Mode Avion</string>
+  <string name="airplane_mode">Mode avion</string>
   <string name="radio_controls_title">Plus…</string>
   <string name="wireless_networks_settings_title">Sans fil et réseaux</string>
   <string name="radio_controls_summary">Configurer le Wi-Fi, le mode Bluetooth, le mode Avion, les réseaux mobiles et le VPN</string>
@@ -391,13 +391,13 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="bluetooth_profile_headset">Paramètres audio du téléphone</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
   <string name="bluetooth_profile_hid">"Périphérique d'entrée"</string>
-  <string name="bluetooth_profile_pan">Accès Internet</string>
-  <string name="bluetooth_profile_pan_nap">Partage de connexion Internet</string>
+  <string name="bluetooth_profile_pan">Accès internet</string>
+  <string name="bluetooth_profile_pan_nap">Partage de connexion internet</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s sera déconnecté de l\'audio du support.</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s sera déconnecté de l\'audio en mains libres.</string>
   <string name="bluetooth_disconnect_hid_profile">"%1$s sera déconnecté du périphérique d'entrée."</string>
-  <string name="bluetooth_disconnect_pan_user_profile">"L'accès à Internet via %1$s va être interrompu."</string>
-  <string name="bluetooth_disconnect_pan_nap_profile">%1$s sera déconnecté et ne partagera plus la connexion Internet du téléphone.</string>
+  <string name="bluetooth_disconnect_pan_user_profile">"L'accès à internet via %1$s va être interrompu."</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">%1$s sera déconnecté et ne partagera plus la connexion internet du téléphone.</string>
   <string name="bluetooth_device_advanced_title">Appareil Bluetooth associé</string>
   <string name="bluetooth_device_advanced_online_mode_title">Se connecter</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Connecter à un appareil Bluetooth</string>
@@ -409,13 +409,13 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
   <string name="bluetooth_opp_profile_summary_connected">Connexion au serveur de transfert de fichiers</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Connexion au serveur de transfert de fichiers non établie</string>
   <string name="bluetooth_hid_profile_summary_connected">"Connecté au périphérique d'entrée"</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès Internet"</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">Connexion Internet locale partagée</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès internet"</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">Connexion internet locale partagée</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utiliser pour les paramètres audio du média</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utiliser pour les paramètres audio du téléphone</string>
   <string name="bluetooth_opp_profile_summary_use_for">Utiliser pour le transfert de fichiers</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utiliser comme entrée</string>
-  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à Internet"</string>
+  <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
   <string name="bluetooth_dock_settings">"Paramètres de la station d'accueil"</string>
   <string name="bluetooth_dock_settings_title">"Utiliser station d'accueil pour l'audio"</string>
   <string name="bluetooth_dock_settings_headset">Comme téléphone à haut-parleur</string>
@@ -470,8 +470,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="wifi_notify_open_networks_summary">"Me notifier lorsqu'un réseau ouvert est disponible"</string>
   <string name="wifi_enable_watchdog_service">Eviter les connexions de qualité médiocre</string>
   <string name="wifi_poor_network_detection">Réseau optimal uniquement</string>
-  <string name="wifi_poor_network_detection_summary">"Éviter les réseaux Wi-Fi ayant un mauvais signal ou une mauvaise liaison Internet."</string>
-  <string name="wifi_enable_watchdog_service_summary">"Ne pas utiliser les réseaux Wi-Fi avec des connexions Internet de qualité médiocre"</string>
+  <string name="wifi_poor_network_detection_summary">"Éviter les réseaux Wi-Fi ayant un mauvais signal ou une mauvaise liaison internet."</string>
+  <string name="wifi_enable_watchdog_service_summary">"Ne pas utiliser les réseaux Wi-Fi avec des connexions internet de qualité médiocre"</string>
   <string name="wifi_setting_sleep_policy_title">Wi-Fi actif en veille</string>
   <string name="wifi_setting_sleep_policy_error">Un problème est survenu lors de la modification des paramètres.</string>
   <string name="wifi_att_auto_connect">Connexion auto</string>
@@ -544,7 +544,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="wifi_remembered">Enregistré.</string>
   <string name="wifi_disabled_generic">Désactivé</string>
   <string name="wifi_failed_to_obtain_IP">"Échec d'obtention d'adresse IP"</string>
-  <string name="wifi_disabled_network_failure">Mauvaise connexion Internet évitée</string>
+  <string name="wifi_disabled_network_failure">Mauvaise connexion internet évitée</string>
   <string name="wifi_disabled_help">"Réseau évité en raison d'une mauvaise connexion. Désactivez ce paramètre en sélectionnant Paramètres &gt; Écran Wi-Fi &gt; Eléments du menu Avancé"</string>
   <string name="wifi_disabled_password_failure">"Problème d'authentification."</string>
   <string name="wifi_not_in_range">Hors de portée</string>
@@ -651,16 +651,16 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="wifi_ap_instruction_activate">"1. Activez le Wi-Fi sur l\'appareil
 2. Recherchez %1$s dans la liste de réseaux Wi-Fi
 3. Connectez-vous à %1$s en saisissant %2$s comme mot de passe
-4. Utilisez Internet à l\'aide du point d\'accès mobile"</string>
-  <string name="wifi_ap_instruction">"Vous pouvez utiliser votre périphérique comme PA Internet (point d\'accès) à l\'aide du point d\'accès Wi-Fi portable. Cela permet aux autres périphériques (5 maximum) de se connecter via le réseau Wi-Fi. Les périphériques connectés auront accès à Internet via les réseaux mobiles.
+4. Utilisez internet à l\'aide du point d\'accès mobile"</string>
+  <string name="wifi_ap_instruction">"Vous pouvez utiliser votre périphérique comme PA internet (point d\'accès) à l\'aide du point d\'accès Wi-Fi portable. Cela permet aux autres périphériques (5 maximum) de se connecter via le réseau Wi-Fi. Les périphériques connectés auront accès à internet via les réseaux mobiles.
 
 Remarque : Les données mobiles sont activées et le périphérique consomme plus de batterie"</string>
-  <string name="wifi_ap_instruction_open_activate_color">"1. Activez Wi-Fi sur le périphérique&lt;br&gt;2. Recherchez &lt;font color=%1$s&gt;%2$s&lt;/font&gt; dans la liste des réseaux Wi-Fi&lt;br&gt;3. Connectez-vous à &lt;font color=%1$s&gt;%2$s&lt;/font&gt; &lt;br&gt;4. Utilisez Internet à l'aide du point d'accès Wi-Fi portable"</string>
-  <string name="wifi_ap_instruction_activate_color">"1. Activez Wi-Fi sur le périphérique&lt;br&gt;2. Recherchez &lt;font color=%1$s&gt;%2$s&lt;/font&gt; dans la liste des réseaux Wi-Fi&lt;br&gt;3. Connectez-vous à &lt;font color=%1$s&gt;%2$s&lt;/font&gt; en saisissant &lt;font color=%1$s&gt;%3$s&lt;/font&gt; comme mot de passe&lt;br&gt;4. Utilisez Internet à l'aide du point d'accès Wi-Fi portable"</string>
+  <string name="wifi_ap_instruction_open_activate_color">"1. Activez Wi-Fi sur le périphérique&lt;br&gt;2. Recherchez &lt;font color=%1$s&gt;%2$s&lt;/font&gt; dans la liste des réseaux Wi-Fi&lt;br&gt;3. Connectez-vous à &lt;font color=%1$s&gt;%2$s&lt;/font&gt; &lt;br&gt;4. Utilisez internet à l'aide du point d'accès Wi-Fi portable"</string>
+  <string name="wifi_ap_instruction_activate_color">"1. Activez Wi-Fi sur le périphérique&lt;br&gt;2. Recherchez &lt;font color=%1$s&gt;%2$s&lt;/font&gt; dans la liste des réseaux Wi-Fi&lt;br&gt;3. Connectez-vous à &lt;font color=%1$s&gt;%2$s&lt;/font&gt; en saisissant &lt;font color=%1$s&gt;%3$s&lt;/font&gt; comme mot de passe&lt;br&gt;4. Utilisez internet à l'aide du point d'accès Wi-Fi portable"</string>
   <string name="wifi_ap_instruction_tmo">"Transformez votre téléphone en point d\'accès mobile pour que vous puissiez partager votre connexion de données mobiles avec d\'autres appareils.
 Pour utiliser les fonctions de point d\'accès de vos téléphones, vous devez ajouter le service Smartphone Mobile HotSpot à votre forfait.
 Vous pouvez créer une liste des appareils autorisés et définir le mode de connexion pour les appareils autorisés."</string>
-  <string name="wifi_ap_instruction_changeable_maxclient">"Vous pouvez utiliser votre appareil comme PA Internet (point d'accès) à l'aide du point d'accès mobile. Cela permet à d'autres appareils (%1$s au maximum) de se connecter à celui-ci via Wi-Fi. Les appareils connectés auront accès à Internet via votre réseau de données"</string>
+  <string name="wifi_ap_instruction_changeable_maxclient">"Vous pouvez utiliser votre appareil comme PA internet (point d'accès) à l'aide du point d'accès mobile. Cela permet à d'autres appareils (%1$s au maximum) de se connecter à celui-ci via Wi-Fi. Les appareils connectés auront accès à internet via votre réseau de données"</string>
   <string name="wifi_ap_instruction_changeable_maxclient_note">Remarque : Cette action activera les données mobiles et entraînera une consommation supérieure de la batterie</string>
   <string name="wifi_ap_instruction_battery_warning">"Avec le point d'accès mobile, votre appareil consomme plus de batterie. Branchez-le à une prise pour étendre la durée d'utilisation de la batterie"</string>
   <string name="wifi_ap_instruction_changeable_maxclient_mid">"Vous pouvez créer une liste d'appareils autorisés et définir un mode de connexion pour les appareils autorisés"</string>
@@ -714,11 +714,11 @@ Ce service nécessite un abonnement au forfait modem applicable. Assurez-vous qu
 L\'utilisation du service requiert l\'acceptation des"<a href="http://www.uscellular.com/uscellular/common/common.jsp?path=/android/modem_feature.html"> Conditions applicables aux modems pour Smartphone.</a></string>
   <string name="wifi_during_usb_tethering">"Impossible d'activer le Wi-Fi lorsque le modem USB est activé"</string>
   <string name="wifi_ap_dialog_disclaimer_spi">"Lorsque le point d'accès sans fil ou le modem DUN est activé, l'utilisation des données sera facturée en fonction de votre forfait Point d'accès sans fil"</string>
-  <string name="wifi_watchdog_network_disabled_sec">Internet non disponible</string>
+  <string name="wifi_watchdog_network_disabled_sec">internet non disponible</string>
   <string name="wifi_watchdog_network_disabled_detailed_sec">Ouvrir paramètres Wi-Fi</string>
-  <string name="wifi_watchdog_connectivity_check">Vérifier service Internet</string>
-  <string name="wifi_watchdog_connectivity_check_summary">"Vérifier la disponibilité du service Internet Wi-Fi lorsque vous êtes connecté au point d'accès"</string>
-  <string name="wifi_watchdog_not_available_service">Internet non disponible via le PA Wi-Fi sélectionné. Modifier réseau ?</string>
+  <string name="wifi_watchdog_connectivity_check">Vérifier service internet</string>
+  <string name="wifi_watchdog_connectivity_check_summary">"Vérifier la disponibilité du service internet Wi-Fi lorsque vous êtes connecté au point d'accès"</string>
+  <string name="wifi_watchdog_not_available_service">internet non disponible via le PA Wi-Fi sélectionné. Modifier réseau ?</string>
   <string name="wifi_watchdog_recheck">Revérifier</string>
   <string name="mobile_ap_disable">Mobile Hotspot désactivé. Wi-Fi activé</string>
   <string name="mobile_ap_not_disable">Wi-Fi non activé. Mobile Hotspot activé</string>
@@ -854,7 +854,7 @@ Wi-Fi et le point d\'accès mobile ne peuvent fonctionner simultanément"</strin
   <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès Wi-Fi"</string>
   <string name="wifi_tether_configure_subtext">"Point d'accès Wi-Fi mobile %1$s %2$s"</string>
   <string name="it_policy_not_allow_wifi">"La politique de sécurité limite l'utilisation du Wi-Fi"</string>
-  <string name="it_policy_not_allow_wifiap">"La politique de sécurité limite l'utilisation du partage Internet"</string>
+  <string name="it_policy_not_allow_wifiap">"La politique de sécurité limite l'utilisation du partage internet"</string>
   <string name="wifi_open_security_warning">"L'architecture de sécurité ouverte n'est pas recommandée"</string>
   <string name="display_settings_title">Affichage</string>
   <string name="sound_settings">Son</string>
@@ -1139,10 +1139,10 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="usb_tethering_unavailable_subtext">USB non connecté</string>
   <string name="usb_tethering_errored_subtext">Erreur liée au partage de connexion via USB</string>
   <string name="bluetooth_tether_checkbox_text">Via Bluetooth</string>
-  <string name="bluetooth_tethering_available_subtext">Connexion Internet du téléphone partagée</string>
-  <string name="bluetooth_tethering_device_connected_subtext">Connexion Internet du téléphone partagée avec un appareil</string>
-  <string name="bluetooth_tethering_devices_connected_subtext">Connexion Internet du téléphone partagée avec %1$d appareils</string>
-  <string name="bluetooth_tethering_off_subtext">Connexion Internet du téléphone non partagée</string>
+  <string name="bluetooth_tethering_available_subtext">Connexion internet du téléphone partagée</string>
+  <string name="bluetooth_tethering_device_connected_subtext">Connexion internet du téléphone partagée avec un appareil</string>
+  <string name="bluetooth_tethering_devices_connected_subtext">Connexion internet du téléphone partagée avec %1$d appareils</string>
+  <string name="bluetooth_tethering_off_subtext">Connexion internet du téléphone non partagée</string>
   <string name="bluetooth_tethering_errored_subtext">"Pas de partage de connexion."</string>
   <string name="bluetooth_tethering_overflow_error">"Partage connexion impossible au-delà de %1$d appareils."</string>
   <string name="bluetooth_untether_blank">Le partage connexion avec %1$s va être annulé.</string>
@@ -1185,7 +1185,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="settings_license_activity_loading">Chargement…</string>
   <string name="settings_safetylegal_title">Informations de sécurité</string>
   <string name="settings_safetylegal_activity_title">Informations de sécurité</string>
-  <string name="settings_safetylegal_activity_unreachable">"Vous n'avez pas de connexion Internet. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet."</string>
+  <string name="settings_safetylegal_activity_unreachable">"Vous n'avez pas de connexion internet. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à internet."</string>
   <string name="settings_safetylegal_activity_loading">Chargement…</string>
   <string name="lockpassword_choose_your_password_header">Choisir votre mot de passe</string>
   <string name="lockpassword_choose_your_pattern_header">"Choisissez votre schéma"</string>
@@ -1745,7 +1745,7 @@ Appuyez sur "<b>Précédent</b> pour vous connecter à un autre réseau Wi-Fi.</
   <string name="background_data">Données en arrière-plan</string>
   <string name="background_data_summary">Synchronisation, envoi et réception de données à tout moment</string>
   <string name="background_data_dialog_title">Dés. données arr.-plan ?</string>
-  <string name="background_data_dialog_message">"La désactivation des données en arrière-plan économise la batterie et réduit l'utilisation des données. Certaines applications peuvent continuer d'utiliser la connexion Internet en arrière-plan."</string>
+  <string name="background_data_dialog_message">"La désactivation des données en arrière-plan économise la batterie et réduit l'utilisation des données. Certaines applications peuvent continuer d'utiliser la connexion internet en arrière-plan."</string>
   <string name="sync_automatically">Synchro auto des données des apps</string>
   <string name="sync_enabled">Synchronisation activée</string>
   <string name="sync_disabled">Synchronisation désactivée</string>
@@ -1894,7 +1894,7 @@ Pour sélectionner le type d\'informations à synchroniser au sein de chaque com
   <string name="data_usage_limit_editor_title">"Définir un quota d'utilisation des données"</string>
   <string name="data_usage_limit_dialog_title">"Limitation de la consommation de données mobiles"</string>
   <string name="data_usage_limit_dialog">"La connexion des données %1$s sera désactivée quand une limite définie sera atteinte. L'utilisation des données est mesurée par votre appareil mais votre opérateur peut établir un autre décompte de l'utilisation. Vous devez donc être prudent lorsque vous définissez une limite"</string>
-  <string name="data_usage_limit_dialog_mobile">"Votre connexion Internet mobile sera désactivée une fois le seuil défini atteint.
+  <string name="data_usage_limit_dialog_mobile">"Votre connexion internet mobile sera désactivée une fois le seuil défini atteint.
 
 La consommation des données étant mesurée par le téléphone, celle mesurée par votre opérateur peut différer. Nous vous recommandons donc de définir un seuil plus bas."</string>
   <string name="data_usage_restrict_background_title">"Limiter les données en arrière-plan ?"</string>
@@ -2249,7 +2249,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="power_saving_display">"Éco. d'énergie écran"</string>
   <string name="power_saving_display_summary">"Utiliser un niveau d'alimentation inférieur pour l'écran"</string>
   <string name="power_saving_background_colour">"Couleur d'arrière-plan"</string>
-  <string name="power_saving_background_colour_summary">"Atténuer la couleur d'arrière-plan pour économiser de l'énergie sur Internet"</string>
+  <string name="power_saving_background_colour_summary">"Atténuer la couleur d'arrière-plan pour économiser de l'énergie sur internet"</string>
   <string name="power_saving_background_colour_summary_without_browser">"Atténuer la couleur d'arrière-plan de la messagerie pour économiser de l'énergie"</string>
   <string name="power_saving_screen_timeout">"Mise en veille de l'écran"</string>
   <string name="power_saving_haptic">Désactiver le retour tactile</string>
@@ -2436,7 +2436,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="double_tap_title">Appuyer deux fois pour revenir en haut</string>
   <string name="pick_up_title">Alerte intelligente</string>
   <string name="turn_over_title">Retourner pour désactiver le son</string>
-  <string name="tilt_summary">"Effectuer un zoom avant ou arrière de l'écran dans Galerie ou Internet"</string>
+  <string name="tilt_summary">"Effectuer un zoom avant ou arrière de l'écran dans Galerie ou internet"</string>
   <string name="tilt_summary_without_browser">"Effectuer un zoom avant ou arrière de l'écran dans Galerie"</string>
   <string name="tilt_to_scroll_list_summary">Faire défiler la liste vers le haut/bas</string>
   <string name="pan_summary">Déplacer une icône vers une autre page</string>
@@ -2575,7 +2575,7 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="air_scroll_email_body_summary">Résumé corps du message</string>
   <string name="air_turn_setting_title">"Réglage de l'air à son tour"</string>
   <string name="air_turn_single_photo_view_title">Afficher une seule photo</string>
-  <string name="air_turn_internet_window_title">fenêtre Internet</string>
+  <string name="air_turn_internet_window_title">fenêtre internet</string>
   <string name="air_turn_now_playing_on_music_title">En ce moment sur Musique</string>
   <string name="air_turn_bgm_on_lock_screen_title">"BGM le verrouillage de l'écran"</string>
   <string name="air_turn_note_page_view_title">S Tenir affichage de la page</string>
@@ -3054,8 +3054,8 @@ La consommation des données étant mesurée par le téléphone, celle mesurée 
   <string name="manual_setup">Configuration manuelle</string>
   <string name="power_saving_off_message">"Pour activer le mode Économie d'énergie, activez au moins une fonction"</string>
   <string name="wifi_setup_screentitle">Se connecter au Wi-Fi</string>
-  <string name="wifi_setup_screentext1">"Vous aurez besoin d'une connexion Internet pour terminer la configuration de votre appareil mobile."</string>
-  <string name="wifi_setup_screentext1_scamera">"Vous aurez besoin d'une connexion Internet pour terminer la configuration de votre appareil photo."</string>
+  <string name="wifi_setup_screentext1">"Vous aurez besoin d'une connexion internet pour terminer la configuration de votre appareil mobile."</string>
+  <string name="wifi_setup_screentext1_scamera">"Vous aurez besoin d'une connexion internet pour terminer la configuration de votre appareil photo."</string>
   <string name="wifi_setup_screentext2">"Si vous n'arrivez pas à vous connecter immédiatement, vous pouvez souscrire un forfait sur l'écran précédent, ou quitter l'assistant de configuration."</string>
   <string name="exit_setup">Quitter</string>
   <string name="setup_wizard">Assistant de configuration</string>

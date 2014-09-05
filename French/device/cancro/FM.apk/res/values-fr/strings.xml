@@ -61,7 +61,7 @@
   <string name="toast_fm_recorder_internal_error">Erreur lors de l\'enregistrement radio !</string>
   <string name="toast_fm_recorder_storage_full">Espace de stockage plein, impossible d\'enregistrer !</string>
   <string name="toast_fm_error_startfailed">Enregistrement échoué, une autre application utilise peut-être la fonction d\'enregistrement. Veuillez vérifier et réessayer.</string>
-  <string name="toast_fm_recorder_access_error">Impossible d\'enregistrer en mode Invité</string>
+  <string name="toast_fm_recorder_access_error">Impossible d\'enregistrer en mode invité</string>
   <string name="msg_fm_starting">Démarrage…</string>
   <string name="toast_delete_station">%s MHz a été supprimée.</string>
   <string name="toast_fm_scaning">Balayage…</string>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkLocation</string>
+    <string name="app_label">Network Location</string>
+    <string name="location_warning_title">Location consent</string>
+    <string name="location_warning_title_first">Location consent</string>
+    <string name="location_warning_title_close">Location consent</string>
+    <string name="location_warning_message">"When the NLP (Network Location Provider) function is opened, you will allow Baidu NLP service to collect anonymous location data. Some data may be encrypted and stored on your device. Encryption and collection may occur even when no apps are running. You will be charged for data traffic. The data encrypted and collected will be used for getting the location information and improving the performance and accuracy. We promise the data collected will not be provided to others or be used for other purposes except to render services. The data to be collected includes the followings: 
+- ID, Signal Strength of WLAN AP to be surveyed from the periphery; 
+- ID, Signal Strength to be surveyed from the peripheral base station (for GSM); 
+- ID, Signal Strength to be surveyed from the peripheral base station (for CDMA); ."</string>
+    <string name="location_close_warning_message">Closed NetworkLocation service will cause any application can not location.</string>
+    <string name="location_first_warning_message">In order to bring you a better user experience, the system will open network location service.</string>
+    <string name="agree">Accepter</string>
+    <string name="disagree">Refuser</string>
+    <string name="close_agree">Oui</string>
+    <string name="close_disagree">Non</string>
+</resources>

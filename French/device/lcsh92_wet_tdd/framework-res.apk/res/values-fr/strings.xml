@@ -321,7 +321,7 @@
   <string name="permlab_changeConfiguration">modifiez vos paramètres UI</string>
   <string name="permdesc_changeConfiguration">Autorise l\'application à modifier la configuration actuelle, comme les paramètres de langue ou la taille de police générale</string>
   <string name="permlab_enableCarMode">activer le mode voiture</string>
-  <string name="permdesc_enableCarMode">Permet à l\'application d\'activer le mode Voiture.</string>
+  <string name="permdesc_enableCarMode">Permet à l\'application d\'activer le mode voiture.</string>
   <string name="permlab_killBackgroundProcesses">arrêter les processus en arrière-plan</string>
   <string name="permdesc_killBackgroundProcesses">Autorise l\'application à arrêter les processus en arrière-plan d\'autres applications même si la capacité de la mémoire est suffisante</string>
   <string name="permlab_forceStopPackages">arrêter les autres applications</string>
@@ -606,8 +606,8 @@
   <string name="permdesc_sdcardAccessAll">Permet à l\'application d\'accéder à la mémoire de stockage externe pour tous les utilisateurs.</string>
   <string name="permlab_cache_filesystem">accéder au système de fichiers en cache</string>
   <string name="permdesc_cache_filesystem">Autorise l\'application à accéder en lecture et en écriture au système de fichiers en cache</string>
-  <string name="permlab_use_sip">passer/recevoir des appels Internet</string>
-  <string name="permdesc_use_sip">Permet à l\'application d\'utiliser le service SIP pour émettre ou recevoir des appels Internet.</string>
+  <string name="permlab_use_sip">passer/recevoir des appels SIP</string>
+  <string name="permdesc_use_sip">Permet à l\'application d\'utiliser le service SIP pour émettre ou recevoir des appels SIP.</string>
   <string name="permlab_readNetworkUsageHistory">lire l\'historique de l\'utilisation du réseau</string>
   <string name="permdesc_readNetworkUsageHistory">Permet à l\'application de lire l\'historique d\'utilisation de réseaux et d\'applications spécifiques.</string>
   <string name="permlab_manageNetworkPolicy">gérer la politique du réseau</string>
@@ -825,7 +825,7 @@
   <string name="autofill_parish">Commune</string>
   <string name="autofill_area">Surface</string>
   <string name="autofill_emirate">Émirat</string>
-  <string name="permlab_readHistoryBookmarks">lire l\'historique et les favoris Internet</string>
+  <string name="permlab_readHistoryBookmarks">lire l\'historique et les favoris internet</string>
   <string name="permdesc_readHistoryBookmarks">Permet à l\'application d\'accéder à l\'historique de toutes les URL auxquelles le navigateur a accédé, ainsi qu\'à l\'ensemble des favoris du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d\'autres applications permettant de naviguer sur le Web.</string>
   <string name="permlab_writeHistoryBookmarks">modifier l\'historique et les favoris Web</string>
   <string name="permdesc_writeHistoryBookmarks">Permet à l\'application de modifier l\'historique du navigateur ou les favoris enregistrés sur votre téléphone. Cette autorisation peut lui permettre d\'effacer ou de modifier les données du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d\'autres applications permettant de naviguer sur le Web.</string>
@@ -834,7 +834,7 @@
   <string name="permlab_addVoicemail">ajouter une messagerie vocale</string>
   <string name="permdesc_addVoicemail">Permet à l\'application d\'ajouter des messages à votre messagerie vocale.</string>
   <string name="permlab_writeGeolocationPermissions">modifier les autorisations de géolocalisation du navigateur</string>
-  <string name="permdesc_writeGeolocationPermissions">Permet d\'autoriser une application à modifier les autorisations de géolocalisation Internet. Si vous activez cette option, les applications malveillantes auront la possibilité d\'envoyer des informations de localisation à n\'importe quel site Web</string>
+  <string name="permdesc_writeGeolocationPermissions">Permet d\'autoriser une application à modifier les autorisations de géolocalisation internet. Si vous activez cette option, les applications malveillantes auront la possibilité d\'envoyer des informations de localisation à n\'importe quel site Web</string>
   <string name="permlab_packageVerificationAgent">vérifier les ensembles</string>
   <string name="permdesc_packageVerificationAgent">Permet à l\'application de vérifier qu\'un package peut être installé.</string>
   <string name="permlab_bindPackageVerifier">associer au vérificateur d\'ensembles</string>
@@ -962,7 +962,7 @@
   <string name="wifi_available_sign_in">Connexion au réseau Wi-Fi</string>
   <string name="network_available_sign_in">Se connecter au réseau</string>
   <string name="wifi_watchdog_network_disabled">Impossible de se connecter au réseau Wi-Fi</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" dispose d'une mauvaise connexion Internet."</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" dispose d'une mauvaise connexion internet."</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_turnon_message">L\'activation du Wi-Fi Direct va désactiver le Wi-Fi et le point d\'accès mobile</string>
   <string name="wifi_p2p_failed_message">Impossible d\'activer le Wi-Fi Direct.</string>
@@ -1095,8 +1095,8 @@
   <string name="no_file_chosen">Aucun fichier sélectionné</string>
   <string name="reset">Réinitialiser</string>
   <string name="submit">Envoyer</string>
-  <string name="car_mode_disable_notification_title">Mode Voiture activé</string>
-  <string name="car_mode_disable_notification_message">Désactiver le mode Voiture</string>
+  <string name="car_mode_disable_notification_title">Mode voiture activé</string>
+  <string name="car_mode_disable_notification_message">Désactiver le mode voiture</string>
   <string name="tethered_notification_title">Partage de connexion ou accès sans fil activé</string>
   <string name="tethered_notification_message">Appuyez pour configurer</string>
   <string name="back_button_label">Retour</string>
@@ -1301,7 +1301,7 @@
   <string name="gemini_3g_disable_warning_case5">The phone will have some data traffic if open data connection. Specific fees charged by the operator. Recognizing the need to open it?</string>
   <string name="data_service_content">"Your phone's data connection is turned off, in order to get a better experience, we suggested you to open data connection.
 
-Since open data connection, you can use phone cards for Internet access, please confirm whether you want to open?
+Since open data connection, you can use phone cards for internet access, please confirm whether you want to open?
 
 "</string>
   <string name="storage_ic_usb1">External IC-USB storage1</string>

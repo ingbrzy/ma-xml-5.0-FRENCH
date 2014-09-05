@@ -5,7 +5,7 @@
 <!-- supprimé 4.7.11 -->
   <string name="status_bar_toggle_power_low">Économie d\'énergie</string>
 <!-- -->
-  <string name="accessibility_airplane_mode">Mode Avion</string>
+  <string name="accessibility_airplane_mode">Mode avion</string>
   <string name="accessibility_back">Retour</string>
   <string name="accessibility_battery_level">Batterie à %d pour cent</string>
   <string name="accessibility_bluetooth_connected">Bluetooth connecté</string>
@@ -97,7 +97,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="dlg_confirm_kill_storage_users_title">Activer la mémoire de stockage USB</string>
   <string name="dlg_error_title">Mode USB échoué</string>
   <string name="dlg_ok">OK</string>
-  <string name="drive_mode_tip">Mode Voiture activé - Gardez un œil sur la route</string>
+  <string name="drive_mode_tip">Mode voiture activé - Gardez un œil sur la route</string>
   <string name="ext_media_badremoval_notification_message">Démontez la carte SD avant de la retirer pour éviter toute perte de données.</string>
   <string name="ext_media_badremoval_notification_title">La carte SD a été retirée de façon inattendue</string>
   <string name="ext_media_checking_notification_message">Vérification des erreurs.</string>
@@ -228,13 +228,13 @@ d MMMM yyyy"</string>
   <string name="status_bar_recent_remove_item_title">Supprimer de la liste</string>
   <string name="status_bar_recording_back">Appuyer pour retourner au dictaphone</string>
   <string name="status_bar_recording_pause">Enregistrement mis en pause.</string>
-  <string name="status_bar_settings_airplane">Mode Avion</string>
+  <string name="status_bar_settings_airplane">Mode avion</string>
   <string name="status_bar_settings_auto_brightness_label">Auto</string>
   <string name="status_bar_settings_auto_rotation">Rotation automatique de l\'écran</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_notifications">Notifications</string>
   <string name="status_bar_settings_settings_button">Paramètres</string>
-  <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion Internet</string>
+  <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion internet</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Connecté au Wi-Fi</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_style_settings">Paramètres de la barre d\'état</string>
@@ -244,8 +244,8 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_brightness">Luminosité</string>
   <string name="status_bar_toggle_data">Données</string>
   <string name="status_bar_toggle_divider">Plus</string>
-  <string name="status_bar_toggle_drive_mode">Mode Voiture</string>
-  <string name="status_bar_toggle_flight_mode">Mode Avion</string>
+  <string name="status_bar_toggle_drive_mode">Mode voiture</string>
+  <string name="status_bar_toggle_flight_mode">Mode avion</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Verrouiller</string>
   <string name="status_bar_toggle_mute">Silencieux</string>

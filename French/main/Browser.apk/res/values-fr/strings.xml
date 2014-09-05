@@ -90,7 +90,7 @@
   <string name="import_bookmarks_wizard_next">Suivant</string>
   <string name="import_bookmarks_wizard_previous">Précédent</string>
   <string name="instant_search_label">Google avec Recherche instantanée (Google Labs)</string>
-  <string name="loadSuspended">"Impossible de charger cette page dans le navigateur, car il n'y a pas de connexion Internet."</string>
+  <string name="loadSuspended">"Impossible de charger cette page dans le navigateur, car il n'y a pas de connexion internet."</string>
   <string name="loadSuspendedTitle">Aucune connexion</string>
   <string name="loading_rest_candidates">Chargement des candidats de repos…</string>
   <string name="loading_video">Chargement de la vidéo…</string>
