@@ -36,8 +36,7 @@
   <string name="dlg_retore_ok">Restaurer</string>
   <string name="fw_blocked">Statistiques de blocage</string>
   <string name="fw_blocked_count">"Bloqués : "</string>
-  <string name="fw_blocked_count_call">%d appel(s)</string>
-  <string name="fw_blocked_count_sms">" et %d SMS"</string>
+  <string name="fw_blocked_join">" et "</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">"%d personnes l\'ont marqué comme "</string>
   <string name="marked_by_user">"Vous l\'avez marqué comme "</string>
@@ -265,9 +264,32 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="report_only">Veuillez sélectionner au moins un message</string>
   <string name="report_sms">Message de signalement</string>
   <string name="report_success">Signalement envoyé</string>
-  
+  <string name="button_to_setting">Paramètres</string>
   <!-- armani ? -->
   <string name="sim_not_ready">Carte SIM non prête</string>
   <string name="st_title_back_sound_unsetting">Aucun</string>
   <string name="st_title_not_sim">Vide</string>
+ <!-- à traduire -->
+  <string name="info_antispam_current_mode">Currently using %s</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Delete the Blocklist profile you're currently using and switch to Blocklist's default profile? You can't reverse this action!"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Delete the Blocklist profile you're currently using and switch to Blocklist's default profile? You can't reverse this action!"</string>
+  <string name="STRANGER_BLOCK">Stranger blocklist</string>
+  <string name="dlg_antispam_mode_delete_message">"You can't recover custom rules for blocklist after they've been deleted."</string>
+  <string name="dlg_antispam_mode_delete_title">Delete custom rules</string>
+ <string name="dlg_message_not_open_stranger_identify">You need to enable Identify unknown numbers in Phone &gt; Settings, before you can tag a number.</string>
+  <string name="dlg_title_not_open_stranger_identify">Enable Identify unknown numbers</string>
+  <string name="mark_agent">Sales agent</string>
+  <string name="mark_agent_block">Marked as agent</string>
+  <string name="mark_express">Courier</string>
+  <string name="mark_express_block">Marked as courier</string>
+  <string name="mark_fraud">Fraud</string>
+  <string name="mark_fraud_block">Marked as fraud</string>
+  <string name="mark_meal">Food delivery</string>
+  <string name="mark_meal_block">Marked as food delivery</string>
+  <string name="mark_number_info">"
+Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
+  <string name="mark_sell">Telemarketer</string>
+  <string name="mark_sell_block">Marked as telemarketer</string>
+  <string name="read_all_sms">Read all</string>
+  <string name="st_title_markednumber_group">Marked number blocklist</string>
 </resources>

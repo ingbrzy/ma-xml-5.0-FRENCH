@@ -11,4 +11,12 @@
         <item quantity="other">%d applis contiennent des adwares</item>
         <item quantity="one">1 appli contient un adware</item>
     </plurals>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d appels</item>
+        <item quantity="one">1 appel</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d SMS</item>
+        <item quantity="one">1 SMS</item>
+    </plurals>
 </resources>
