@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="toast_delete_station">%s MHz a été supprimée.</string>
   <string name="app_name">Radio</string>
   <string name="menu_record_start">Commencer l\'enregistrement</string>
   <string name="toast_fm_scaning">Balayage…</string>

@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="pref_long_press_shutter_button_focus_title">Appui long sur déclencheur pour focus</string>
   <string name="Import">Importer</string>
   <string name="access_sd_fail">Impossible d\'accéder à la mémoire de stockage USB.</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Basculer entre la l\'appareil photo et la vidéo (actuellement sur %s)</string>

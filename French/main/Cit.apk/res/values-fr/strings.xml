@@ -296,5 +296,7 @@ Hold the phone as if you are making a call, Speak to main microphone, you should
   <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
   <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
   <string name="cit_tool_modem_cta_test">>Open / Close Protocol Conformance Test</string>
+  <string name="cit_external_sd_check_title">SD card status</string>
+  <string name="cit_tool_modem_evdo_revb">Open/Close EVDO Rev.B</string>
  -->
 </resources>

@@ -78,7 +78,7 @@
   <string name="HIPS_Action_Reject_Count">Refusé : %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Confidentialité</string>
   <string name="HIPS_Group_Expense">Sécurité</string>
-  <string name="HIPS_Group_internet">Accès internet</string>
+  <string name="HIPS_Group_Internet">Accès internet</string>
   <string name="HIPS_Group_Location">Positionnement</string>
   <string name="HIPS_Group_PIM">Informations personnelles</string>
   <string name="HIPS_Group_PhoneID">Identification du téléphone</string>
