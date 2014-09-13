@@ -51,7 +51,6 @@
   <string name="context_menu_item_delete">Supprimer</string>
   <string name="context_menu_item_favorite">Ajouter aux présélections</string>
   <string name="context_menu_item_unfavorite">Supprimer des présélections</string>
-  <string name="toast_channel_searched">%1$d stations ont été scannées.</string>
   <string name="label_recording">Enregistrement : %s</string>
   <string name="toast_added_to_presets">Ajouté aux présélections</string>
   <string name="toast_added_to_list">Ajouté à la liste de stations</string>
@@ -64,4 +63,5 @@
   <string name="toast_fm_error_startfailed">Enregistrement échoué, une autre application utilise peut-être la fonction d\'enregistrement. Veuillez vérifier et réessayer.</string>
   <string name="toast_fm_recorder_access_error">Impossible d\'enregistrer en mode invité</string>
   <string name="msg_fm_starting">Démarrage…</string>
+  <string name="toast_fm_stoping">Arrêt de la radio…</string>
 </resources>

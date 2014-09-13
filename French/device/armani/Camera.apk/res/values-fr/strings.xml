@@ -188,7 +188,7 @@
   <string name="pref_camera_autoexposure_entry_frameaverage">Trame moyenne</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesure de spot</string>
   <string name="pref_camera_autoexposure_title">Mode d\'exposition automatique</string>
-  <string name="pref_camera_coloreffect_entry_aqua"/>
+  <string name="pref_camera_coloreffect_entry_aqua">Eau</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_vivid">Vif</string>
   <string name="pref_camera_coloreffect_entry_yesteryear">Rétro</string>
@@ -203,11 +203,11 @@
   <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
   <string name="pref_camera_coloreffect_entry_planet">Petit monde</string>
   <string name="pref_camera_coloreffect_entry_mirror">Miroir</string>
-  <string name="pref_camera_coloreffect_entry_gaussianblur">Flou</string>
-  <string name="pref_camera_coloreffect_entry_negative"/>
+  <string name="pref_camera_coloreffect_entry_gaussianblur">Flou gaussien</string>
+  <string name="pref_camera_coloreffect_entry_negative">Négatif</string>
   <string name="pref_camera_coloreffect_entry_none">Aucun</string>
-  <string name="pref_camera_coloreffect_entry_posterize"/>
-  <string name="pref_camera_coloreffect_entry_sepia"/>
+  <string name="pref_camera_coloreffect_entry_posterize">Postériser</string>
+  <string name="pref_camera_coloreffect_entry_sepia">Sépia</string>
   <string name="pref_camera_coloreffect_title">Effets</string>
   <string name="pref_camera_contrast_title">Contraste</string>
   <string name="pref_camera_current_k_value">Valeur actuelle</string>
