@@ -6,9 +6,9 @@
   <string name="music_filter_helper">Afin de cacher les fichiers non liés à la musique, un filtre a été appliqué pour ignorer les fichiers de moins de 800 Ko. Pour régler ce seuil allez dans Paramètres &gt; filtrer les fichiers</string>
  <!-- removed 4.4.23 mi2 -->
   <string name="load_album_failed">Le chargement de la liste d\'albums a échoué, veuillez réessayer</string>
-  <string name="load_album_in_process">Chargement de la liste d\'albums</string>
+  <string name="load_album_in_process">Chargement de la liste d\'albums…</string>
   <string name="load_artist_failed">Le chargement de la liste d\'artistes a échoué, veuillez réessayer</string>
-  <string name="load_artist_in_process">Chargement de la liste d\'artistes</string>
+  <string name="load_artist_in_process">Chargement de la liste d\'artistes…</string>
   <string name="load_album_artist_failed">Le chargement de la liste d\'albums et d\'artistes a échoué. Veuillez réessayer.</string>
   <string name="load_album_artist_in_process">Chargement de la liste d\'albums et d\'artistes…</string>
   <string name="synchronize_guide_toast">Pour activer la synchronisation, aller à Paramètres &gt; Sync playlists</string>
@@ -55,11 +55,11 @@
   <string name="click_to_shuffle">Lecture aléatoire</string>
   <string name="complete">Terminé</string>
   <string name="confirm">Confirmer</string>
-  <string name="correct_id3_by_internet">Autocorriger l\'ID3 avec Internet</string>
+  <string name="correct_id3_by_internet">Autocorriger l\'ID3 avec internet</string>
   <string name="correct_id3_failed">Correction des données ID3 échouée !</string>
   <string name="correct_id3_in_processing">Correction des données ID3 de la chanson</string>
   <string name="correct_id3_not_support">La correction des données ID3 n\'est pas prise en charge par ce type de fichier</string>
-  <string name="correct_id3_open_other_connect">Veuillez activer une connexion Internet dans les Paramètres pour lancer la correction de l\'ID3</string>
+  <string name="correct_id3_open_other_connect">Veuillez activer une connexion internet dans les Paramètres pour lancer la correction de l\'ID3</string>
   <string name="correct_id3_settings">Correction des métadonnées ID3</string>
   <string name="correct_id3_start">Commencer la correction de l\'ID3</string>
   <string name="correct_id3_success">ID3 corrigés avec succès !</string>
@@ -155,11 +155,11 @@
   <string name="listen_to_music_online_settings">Écouter de la musique en ligne</string>
   <string name="listen_to_online_summary">Autoriser l\'utilisation du réseau mobile pour écouter de la musique en ligne.</string>
   <string name="load_audio_failed">Le chargement de la liste d\'albums a échoué, veuillez réessayer</string>
-  <string name="load_audio_in_process">Chargement de la liste audio</string>
+  <string name="load_audio_in_process">Chargement de la liste audio…</string>
   <string name="load_bill_failed">Impossible de charger la liste Billboard, veuillez réessayer</string>
-  <string name="load_bill_in_process">Chargement de la liste Billboard</string>
+  <string name="load_bill_in_process">Chargement de la liste Billboard…</string>
   <string name="load_channel_failed">Impossible de charger la liste de chaines, veuillez réessayer</string>
-  <string name="load_channel_in_process">Chargement de la liste de chaines</string>
+  <string name="load_channel_in_process">Chargement de la liste de chaines…</string>
   <string name="loading">Chargement…</string>
   <string name="lrc_progress_modify">Ajuster la vitesse de défilement des paroles</string>
   <string name="lrc_progress_modify_helper">Ajuster la vitesse de défilement des paroles en les faisant glisser vers le haut ou vers le bas</string>
@@ -170,7 +170,7 @@
   <string name="lyric_display_settings">Afficher les paroles</string>
   <string name="lyric_display_summary">Afficher les paroles dans l\'interface du lecteur.</string>
   <string name="lyric_download">Télécharger les paroles</string>
-  <string name="lyric_open_other_connect">Télécharger les paroles à l\'aide de la connexion Internet mobile</string>
+  <string name="lyric_open_other_connect">Télécharger les paroles à l\'aide de la connexion internet mobile</string>
   <string name="lyric_picker_not_found">Le gestionnaire de fichier est introuvable sur le périphérique</string>
   <string name="mediaplaybacklabel">Musique</string>
   <string name="mi_effect">MiEffets</string>
@@ -222,7 +222,7 @@
   <string name="project_device_mobile">Appareil mobile</string>
   <string name="queue">Playlist actuelle</string>
   <string name="quit_player">Quitter</string>
-  <string name="quit_warining">La lecture s\'arrêtera dans %d minute(s)</string>
+  <string name="quit_warining">La lecture s\'arrêtera dans %d min</string>
   <string name="recentlyadded_title">Derniers ajouts</string>
   <string name="recentlyplayed_title">Lu récemment</string>
   <string name="recommend">Recommandé</string>
@@ -331,7 +331,7 @@
   <string name="enabled">Activer</string>
   <string name="expired">Expiré</string>
   <string name="higher_quality_music">Musique de haute qualité</string>
-  <string name="higher_quality_music_summary">Écoutez et téléchargez la musique de haute qualité</string>
+  <string name="higher_quality_music_summary">Écouter et télécharger la musique de haute qualité</string>
   <string name="menu_higher_quality_music">Musique haute qualité (accès mensuel)</string>
   <string name="music_quality">Qualité musique</string>
   <string name="valid_period">"Valable à partir du : "</string>

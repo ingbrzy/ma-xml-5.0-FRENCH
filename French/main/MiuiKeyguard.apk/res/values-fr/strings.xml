@@ -73,7 +73,7 @@
   <string name="lockscreen_glogin_invalid_input">Nom d\'utilisateur ou mot de passe incorrect.</string>
   <string name="find_device_turn_off_flight_mode_instructions">Votre appareil a été verrouillé, veuillez désactiver le mode Avion</string>
   <string name="find_device_check_sim">Vérification de la carte SIM…</string>
-  <string name="find_device_turn_off_flight_mode">Désactiver le Mode Avion</string>
+  <string name="find_device_turn_off_flight_mode">Désactiver le Mode avion</string>
   <string name="phone_locked_string">Appareil verrouillé</string>
   <string name="phone_locked_timeout_seconds_string">Veuillez réessayer dans %s secondes</string>
   <string name="phone_locked_timeout_minutes_string">Veuillez réessayer dans %s minutes</string>

@@ -21,7 +21,7 @@
   <string name="confirm_change_mode_title">Changer de mode</string>
   <string name="confirm_change_to_expert_mode_message">Passer en mode professionnel ?</string>
   <string name="confirm_change_to_simple_mode_message">Basculer vers le mode simple ?</string>
-  <string name="confirm_location_message">Cet appareil permet d\'enregistrer vos informations de localisation, souhaitez-vous activer les services de localisation ?</string>
+  <string name="confirm_location_message">Souhaitez-vous enregistrer les coordonnées de prise de vue des photos ?</string>
   <string name="confirm_restore_message">Les réglages de la caméra seront restaurés aux valeurs par défaut.</string>
   <string name="confirm_restore_title">Restaurer les paramètres par défaut</string>
   <string name="crop_saved">Image rognée enregistrée vers %s</string>
@@ -125,7 +125,7 @@
   <string name="pref_camera_coloreffect_entry_none">Aucun</string>
   <string name="pref_camera_coloreffect_entry_posterize">Postérisation</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sépia</string>
-  <string name="pref_camera_coloreffect_title">Effet de couleur</string>
+  <string name="pref_camera_coloreffect_title">Effets</string>
   <string name="pref_camera_contrast_title">Contraste</string>
   <string name="pref_camera_current_k_value">Valeur actuelle</string>
   <string name="pref_camera_default_suffix">" (par défaut)"</string>
@@ -159,7 +159,7 @@
   <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
-  <string name="pref_camera_iso_title">Sélectionner ISO</string>
+  <string name="pref_camera_iso_title">Sensibilité ISO</string>
   <string name="pref_camera_jpegquality_entry_normal">Standard</string>
   <string name="pref_camera_jpegquality_title">Qualité de l\'image</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Focus</string>
@@ -167,7 +167,7 @@
   <string name="pref_camera_long_pressing_burst_shooting_title">Action du déclencheur</string>
   <string name="pref_camera_movie_solid_entry_off">Désactivé</string>
   <string name="pref_camera_movie_solid_entry_on">Activé</string>
-  <string name="pref_camera_movie_solid_title">Film solide</string>
+  <string name="pref_camera_movie_solid_title">Stabilisation de l\'image</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
@@ -189,7 +189,7 @@
   <string name="pref_camera_picturesize_professional_entry_4208x2368">10M (4208x2368)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x3120">13M (4208x3120)</string>
   <string name="pref_camera_picturesize_title">Taille d\'image</string>
-  <string name="pref_camera_picturesize_title_simple_mode">Repère de la caméra</string>
+  <string name="pref_camera_picturesize_title_simple_mode">Format d\'image</string>
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
   <string name="pref_camera_recordlocation_entry_on">Activé</string>
   <string name="pref_camera_recordlocation_title">Enregistrer la position</string>
@@ -224,7 +224,7 @@
   <string name="pref_camera_skinToneEnhancement_title">Amélioration de la teinte de peau</string>
   <string name="pref_camera_sound_entry_off">Désactivé</string>
   <string name="pref_camera_sound_entry_on">Activé</string>
-  <string name="pref_camera_sound_title">Son de l\'appareil photo</string>
+  <string name="pref_camera_sound_title">Son de déclenchement</string>
   <string name="pref_camera_sound_title_entry_off">Désactivé</string>
   <string name="pref_camera_sound_title_entry_on">Activé</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
@@ -239,7 +239,7 @@
   <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
   <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Fonctions des touches de volume</string>
-  <string name="pref_camera_whitebalance_entry_auto">Automatique</string>
+  <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Nuageux</string>
   <string name="pref_camera_whitebalance_entry_daylight">Lumière du jour</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
@@ -309,8 +309,8 @@
   <string name="show_images_only">Images uniquement</string>
   <string name="show_on_map">Afficher sur la carte</string>
   <string name="show_videos_only">Vidéos uniquement</string>
-  <string name="simple_mode_button_text_audio_capture">Fermer la capture audio</string>
-  <string name="simple_mode_button_text_color_effect">Fermer les filtres</string>
+  <string name="simple_mode_button_text_audio_capture">Quitter la capture audio</string>
+  <string name="simple_mode_button_text_color_effect">Quitter le mode effets</string>
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
   <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>
   <string name="simple_mode_button_text_panorama">Quitter le mode panorama</string>

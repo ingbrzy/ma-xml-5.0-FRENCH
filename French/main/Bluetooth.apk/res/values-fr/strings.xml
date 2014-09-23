@@ -23,7 +23,7 @@
   <string name="ErrorTooManyRequests">Trop de requêtes sont en cours de traitement. Veuillez réessayer ultérieurement.</string>
   <string name="ack_record">Enregistrement accusé de réception</string>
   <string name="airplane_error_msg">Bluetooth ne peut être utilisé en mode Avion.</string>
-  <string name="airplane_error_title">Mode Avion</string>
+  <string name="airplane_error_title">Mode avion</string>
   <string name="app_name">Partage Bluetooth</string>
   <string name="app_name_bpp">Bluetooth BPP</string>
   <string name="auth_notif_message">Saisir la clé de session de %1$s</string>

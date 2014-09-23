@@ -43,11 +43,11 @@
     <string name="policy_dont_allow_html">ne pas autoriser les e-mails au format HTML</string>
     <string name="policy_dont_allow_browser">ne pas autoriser les navigateurs</string>
     <string name="policy_dont_allow_consumer_email">ne pas autoriser e-mails consommateur</string>
-    <string name="policy_dont_allow_internet_sharing">ne pas autoriser partage connex. Internet</string>
+    <string name="policy_dont_allow_internet_sharing">ne pas autoriser partage connex. internet</string>
     <string name="policy_require_smime">exiger des messages au format SMIME</string>
     <string name="policy_bluetooth_restricted">limiter l\'utilisation du Bluetooth</string>
     <string name="policy_app_blacklist">interdire les applications spécifiées</string>
-    <string name="policy_app_whitelist">N\'autoriser que applications spécifiées</string>
+    <string name="policy_app_whitelist">n\'autoriser que les applications spécifiées</string>
     <string name="policy_text_truncation">autoriser e-mails texte selon leur taille</string>
     <string name="policy_html_truncation">autoriser e-mails HTML selon taille</string>
     <string name="policy_require_sd_encryption">Exiger le chiffrement de la carte SD</string>

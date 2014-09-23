@@ -55,8 +55,8 @@
     <string name="aqi_quality_index_break">Yikes!</string>
    -->
     <string name="aqi_quality_index_unhealthy">malsain</string>
-    <string name="button_allow">Autoriser</string>
-    <string name="button_not_allow">Refuser</string>
+    <string name="button_allow">OK</string>
+    <string name="button_not_allow">Annuler</string>
     <string name="cancel">Annuler</string>
     <string name="enable_notification">Notifications météo défavorable</string>
     <string name="enable_notification_city">%s notifications météo affichées, des notifications seront affichées lors conditions météo défavorables (pluie, neige ou fortes variations de températures).</string>

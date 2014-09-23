@@ -123,7 +123,7 @@ Superflu"</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Dossier vide</string>
   <string name="dlg_error_unmount_text">Impossible de démonter le stockage USB. Veuillez réessayer plus tard</string>
-  <string name="download_current_progress">%1$d/100</string>
+  <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Échec du téléchargement !</string>
   <string name="download_link_completed">%1$s a été partagé par l\'intermédiaire de KuaiPan. Appuyez sur le lien ci-dessous pour plus de détails :</string>
   <string name="downloading">Téléchargement…</string>
@@ -141,14 +141,14 @@ Superflu"</string>
   <string name="file_info_canwrite">Accessible en écriture :</string>
   <string name="file_info_ishidden">Caché :</string>
   <string name="file_info_location">Chemin d\'accès :</string>
-  <string name="file_info_modified">Mis à jour :</string>
+  <string name="file_info_modified">Date de modification :</string>
   <string name="file_info_size">Taille :</string>
   <string name="file_loading">Chargement…</string>
   <string name="file_too_large">Le fichier est trop volumineux et ne peut être envoyé</string>
   <string name="finished">Terminé</string>
   <string name="folder_exist">Le fichier existe déjà</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Appuyez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
-  <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres, des lettres de l\'alphabet. Les majuscules et les minuscules sont différenciées.</string>
+  <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres et des lettres. Sensible à la casse.</string>
   <string name="ftp_anonymous_login">FTP anonyme</string>
   <string name="ftp_invalid_username_or_password">Erreur d\'authentification</string>
   <string name="ftp_open_port_error">Impossible d\'ouvrir le port FTP sélectionné, vérifiez votre connexion réseau et réessayez.</string>
@@ -217,7 +217,7 @@ Superflu"</string>
   <string name="operation_deleting_detail">Suppression de fichiers (%1$d/%2$d)</string>
   <string name="operation_download_link">Générer le lien de téléchargement</string>
   <string name="operation_favorite">Ajouter aux favoris</string>
-  <string name="operation_hide_sys">Masquer les fichiers cachés</string>
+  <string name="operation_hide_sys">Masquer les éléments cachés</string>
   <string name="operation_info">Détails</string>
   <string name="operation_move">Déplacer</string>
   <string name="operation_moving">Déplacement…</string>
@@ -231,8 +231,8 @@ Superflu"</string>
   <string name="operation_rename_message">Saisir un nouveau nom</string>
   <string name="operation_resume">Reprendre</string>
   <string name="operation_resume_all">Tout reprendre</string>
-  <string name="operation_send">Envoyer</string>
-  <string name="operation_show_sys">Afficher les fichiers cachés</string>
+  <string name="operation_send">Partager</string>
+  <string name="operation_show_sys">Afficher les éléments cachés</string>
   <string name="operation_unfavorite">Supprimer des favoris</string>
   <string name="pan_settting">Paramètres KuaiPan</string>
   <string name="paused">En pause</string>
@@ -348,4 +348,17 @@ Superflu"</string>
   <string name="never_notify_network_connect">Ne pas redemander</string>
   <string name="connect_network_setting_des">Rappeler lors de l\'accès réseau</string>
   <string name="folder_name_illegal">Nom de dossier incorrect</string>
+  <string name="copy_file_to_kuaipan">Copier vers Kuaipan</string>
+  <string name="downloading_in_3g">Téléchargement via la connexion mobile…</string>
+  <string name="file_already_downlaoded">Fichier enregistré vers \"%1$s\"</string>
+  <string name="image_download">Télécharger</string>
+  <string name="image_share">Partager</string>
+  <string name="operate_confirm_in_3g">Utiliser la connexion de données mobile pour télécharger ce fichier volumineux ?</string>
+  <string name="operation_save">Enregistrer</string>
+  <string name="google_play">Google Play</string>
+  <string name="ignore">Ignorer</string>
+  <string name="kuaipan_alert_message">Téléchargez l\'application KuaiPan via le Google Play, connectez-vous avec votre compte Mi</string>
+  <string name="kuaipan_alert_title">Avertissement</string>
+  <string name="kuaipan_app">KuaiPan</string>
+  <string name="kuaipan_can_not_find_play">Google Play non installé</string>
 </resources>

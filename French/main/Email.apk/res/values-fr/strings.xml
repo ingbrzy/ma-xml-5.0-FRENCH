@@ -20,6 +20,11 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- supprimé 4.9.2 -->
+  <string name="conversation_list_net_check">Erreur réseau, veuillez réessayer plus tard ou depuis un autre réseau</string>
+  <string name="net_check_title">Erreur réseau, veuillez vérifier vos paramètres réseau.</string>
+  <string name="ser_resp_err_map_connect_err">Erreur réseau, veuillez réessayer plus tard ou depuis un autre réseau</string>
+  <string name="ser_resp_err_map_pserr">Identifiant ou mot de passe incorrect</string>
 <!-- supprimé dans 4.4.16 -->
   <string name="account_delete_dlg_title">Supprimer le compte</string>
   <string name="account_delete_dlg_instructions_fmt">Le compte \"%s\" va être supprimé de votre messagerie.</string>
@@ -75,7 +80,7 @@
   <string name="cleared_trusted_senders_message">Les images intégrées ne seront pas affichées automatiquement.</string>
   <string name="close_action">Fermer</string>
   <string name="compose_action">Composer</string>
-  <string name="compose_send">Envoi…</string>
+  <string name="compose_send">Envoi</string>
   <string name="compose_sent">Envoyé avec succès !</string>
   <string name="compose_title">Nouveau message</string>
   <string name="debug_enable_exchange_file_logging_label">Activer la journalisation des échanges avec la carte SD ?</string>
@@ -201,7 +206,7 @@
   <string name="toast_account_not_found">Le compte est introuvable. Il a peut-être été supprimé.</string>
   <string name="toast_mailbox_not_found">Le dossier est introuvable. Il a peut-être été supprimé.</string>
   <string name="trusted_senders_cleared">Option "Afficher les images" désactivée.</string>
-  <string name="unread_action">Marquer non lu</string>
+  <string name="unread_action">Marquer comme non lu</string>
   <string name="waitinf_for_sync_message_1">En cours de synchronisation…</string>
   <string name="waitinf_for_sync_message_2">Vos e-mails vont bientôt s\'afficher.</string>
   <string name="widget_loading">Chargement…</string>
@@ -420,7 +425,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Supprimer les autorisations liées aux images ?</string>
   <string name="clear_display_images_whitelist_title">Supprimer les autorisations liées aux images</string>
   <string name="collapse_recipient_details">Réduire les coordonnées du destinataire</string>
-  <string name="compose">Rédiger</string>
+  <string name="compose">Nouveau message</string>
   <string name="confirm_discard_text">Supprimer ce message ?</string>
   <string name="confirm_response">Envoi de la réponse en cours…</string>
   <string name="confirm_send_message">Envoyer ce message ?</string>
@@ -550,19 +555,19 @@
   <string name="mailbox_settings_sync_enabled_label">Synchroniser ce dossier</string>
   <string name="mailbox_settings_sync_enabled_summary">Tous les messages sont téléchargés lorsque vous vous connectez</string>
   <string name="manual_sync">Synchroniser</string>
-  <string name="mark_important">Marquer comme important</string>
-  <string name="mark_not_important">Marquer comme non important</string>
+  <string name="mark_important">Marquer important</string>
+  <string name="mark_not_important">Marquer non important</string>
   <string name="mark_not_spam">Non-spam</string>
-  <string name="mark_read">Marquer comme lu</string>
-  <string name="mark_unread">Marquer comme non lu</string>
+  <string name="mark_read">Marquer lu</string>
+  <string name="mark_unread">Marquer non lu</string>
   <string name="me_object_pronun">moi</string>
   <string name="me_subject_pronun">moi</string>
   <string name="megabytes">%s Mo</string>
   <string name="menu_change_folders">Modifier les dossiers</string>
-  <string name="menu_compose">Nouveau message</string>
+  <string name="menu_compose">Écrire</string>
   <string name="menu_folder_options">Paramètres du dossier</string>
   <string name="menu_manage_folders">Paramètres des dossiers</string>
-  <string name="menu_move_to">Déplacer vers</string>
+  <string name="menu_move_to">Déplacer</string>
   <string name="menu_move_to_inbox">Placer dans boîte de réception</string>
   <string name="menu_photo_save_all">Tout enreg.</string>
   <string name="menu_photo_share">Partager</string>
@@ -771,11 +776,11 @@
   <string name="policy_dont_allow_html">ne pas autoriser les e-mails au format HTML</string>
   <string name="policy_dont_allow_browser">ne pas autoriser les navigateurs</string>
   <string name="policy_dont_allow_consumer_email">ne pas autoriser e-mails consommateur</string>
-  <string name="policy_dont_allow_internet_sharing">ne pas autoriser partage connex. Internet</string>
+  <string name="policy_dont_allow_internet_sharing">ne pas autoriser partage connex. internet</string>
   <string name="policy_require_smime">exiger des messages au format SMIME</string>
   <string name="policy_bluetooth_restricted">limiter l\'utilisation du Bluetooth</string>
   <string name="policy_app_blacklist">interdire les applications spécifiées</string>
-  <string name="policy_app_whitelist">N\'autoriser que applications spécifiées</string>
+  <string name="policy_app_whitelist">n\'autoriser que les applications spécifiées</string>
   <string name="policy_text_truncation">autoriser e-mails texte selon leur taille</string>
   <string name="policy_html_truncation">autoriser e-mails HTML selon taille</string>
   <string name="policy_require_sd_encryption">Exiger le chiffrement de la carte SD</string>
@@ -805,7 +810,7 @@
   <string name="menu_att_mgr_order_sender">Trier par expéditeur</string>
   <string name="menu_att_mgr_order_rev_date">Trier par date</string>
   <string name="menu_att_mgr_order_size">Trier par taille</string>
-  <string name="colon">" :"</string>
+  <string name="colon">" : "</string>
   <string name="more_atts_total">%1$d pièces jointes</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Nom</string>
@@ -858,7 +863,6 @@
   <string name="widget_other_views">Autres</string>
   <string name="search_result">Résultats :</string>
   <string name="set_network">Définir le réseau</string>
-  <string name="net_check_title">Erreur réseau, veuillez vérifier vos paramètres réseau.</string>
   <string name="pull_to_refresh">Tirer pour actualiser</string>
   <string name="release_to_refresh">Relâcher pour actualiser</string>
   <string name="not_updated_yet">Pas encore mis à jour</string>
@@ -872,12 +876,12 @@
   <string name="default_">PAR DÉFAUT</string>
   <string name="name_or_number_is_error">Nom d\'utilisateur ou mot de passe incorrect</string>
   <string name="feedback_body">Veuillez saisir votre rapport</string>
-  <string name="hint_quick_reply_all">Répondre à tous</string>
+  <string name="hint_quick_reply_all">Composez un message</string>
   <string name="always_bcc_myself">Toujours recevoir une copie</string>
   <string name="forward">Transférer</string>
   <string name="conversation_item_mark_read">Lu</string>
   <string name="conversation_item_mark_unread">Non lu</string>
-  <string name="default_signature">Envoyé de mon Xiaomi</string>
+  <string name="default_signature">Envoyé de mon Mi</string>
   <string name="account_name_toast">Ce nom est déjà utilisé, veuillez le renommer</string>
   <string name="outbox_alert_button_confirm">Éditer</string>
   <string name="contact_select">Choisir un contact</string>
@@ -886,7 +890,7 @@
   <string name="outbox_alert_description_sent_failed">"Cause : la taille de la pièce jointe dépasse la limite autorisée"</string>
   <string name="blank_feedback_toast">Le rapport est vide, veuillez en écrire un !</string>
   <string name="ApplicationIconMore99">99+</string>
-  <string name="please_fill_in_your_mailbox_information">Veuillez remplir les informations liées à votre compte e-mail :</string>
+  <string name="please_fill_in_your_mailbox_information">Veuillez saisir vos identifiants (%s) :</string>
   <string name="actionbar_title_mail_aggregation">Regroupement de mail :</string>
   <string name="empty_email_tip">Vous pouvez envoyer un mail vide</string>
   <string name="empty_account_tip">Impossible de trouver de compte</string>
@@ -905,7 +909,7 @@
   <string name="time_error">Problème de temps</string>
   <string name="wait_for_sync_body_txt_array_1">Une demande du serveur Exchange s\'affichera dans</string>
   <string name="wait_for_sync_body_txt_array_2">1 à 30</string>
-  <string name="wait_for_sync_body_txt_array_3">secondes. Veuillez confirmer les paramètres de sécurité et d\'activation.Prenez garde aux</string>
+  <string name="wait_for_sync_body_txt_array_3">secondes. Veuillez confirmer les paramètres de sécurité et d\'activation. Prenez garde aux</string>
   <string name="wait_for_sync_body_txt_array_4">alertes système</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Veuillez faire glisser la barre de notification vers le bas et toucher pour finir les paramètres de sécurité.</string>
@@ -951,7 +955,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="dialog_insufficient_space_on_internal">Le téléchargement a échoué. L\'espace disponible sur la mémoire interne est insuffisant.</string>
   <string name="dialog_insufficient_space_on_external">Le téléchargement a échoué. L\'espace disponible sur la carte SD est insuffisant.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Espace de stockage insuffisant pour %s.</string>
-  <string name="dialog_auto_download_failed">Le téléchargement automatique a échoué, veuillez essayez manuellement.</string>
+  <string name="dialog_auto_download_failed">Le téléchargement automatique a échoué, veuillez essayer manuellement.</string>
   <string name="att_download_failed_title">Avertissement</string>
   <string name="att_download_failed_content">Le téléchargement de la pièce jointe a échoué</string>
   <string name="outbox_alert_button_resend">Renvoyer</string>
@@ -960,13 +964,32 @@ Taille du patch Delta : %2$s"</string>
   <string name="account_setup_incoming_mail_adress_label">Adresse email</string>
   <string name="account_setup_incoming_mail_domain_label">Domaine</string>
   <string name="account_setup_incoming_mail_domain_hint">Ne peut être vide</string>
+  <string name="folder_drafts_name_en0">Brouillons</string>
+  <string name="folder_drafts_name_en1">Brouillon</string>
+  <string name="folder_sent_name_en0">Envoyé</string>
+  <string name="folder_sent_name_en1">Messages envoyés</string>
+  <string name="folder_sent_name_en2">Message envoyé</string>
+  <string name="folder_trash_name_en0">Corbeille</string>
+  <string name="folder_trash_name_en1">Messages supprimés</string>
+  <string name="folder_trash_name_en2">Message supprimé</string>
+  <string name="ser_resp_err_map_nouser">Utilisateur inconnu</string>
+  <string name="ser_resp_err_map_or">Ou</string>
+  <string name="ser_resp_err_map_serclosed">Service désactivé</string>
+  <!-- à reformuler no_wifi_promot ? -->
+  <string name="no_wifi_promot">Wi-Fi non utilisé actuellement, cela risque d\'engendrer du trafic de données mobiles</string>
+  <string name="mail_body_turncated">Cet email est trop lourd pour être chargé, seulement une partie sera affiché</string>
+  <string name="ser_resp_err_map_ssl">"Erreur. Essayez l\'option 'SSL/TLS (accepter tous les certificats)' dans 'Type de sécurité'"</string>
+  <string name="device_activity_btn_str">Retour pour activer</string>
+  <string name="device_not_activiey_lint1">Gestionnaire de périphériques inactif</string>
+
  <!-- à traduire :
-    <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
-    <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
-    <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
-  <string name="device_activity_btn_str">Return To Activate</string>
-  <string name="device_not_activiey_lint1">Device Manager is not activated</string>
+  <string name="tryrefreshing">Try to Refreshing…</string
+  <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
+  <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
+  <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
   <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
+  <string name="ser_resp_err_map_certificate_validator_err">"Failed to validate server certificate
+\u0009 (Check whether the setting is 'Auto sync time')"</string>
  -->
 </resources>

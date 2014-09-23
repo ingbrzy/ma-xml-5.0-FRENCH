@@ -22,8 +22,8 @@
     <string name="button_cancel">Annuler</string>
     <string name="confirm_radio_title">SIM désactivée</string>
     <string name="confirm_radio_msg">"%1$s est désactivée. Voulez-vous l'activer ?"</string>
-    <string name="confirm_radio_msg_single">Mode Avion activé, voulez-vous le désactiver ?</string>
-    <string name="confirm_radio_flight_mode_on_sim_on_msg">Mode Avion est activé. Voulez-vous le désactiver ?</string>
+    <string name="confirm_radio_msg_single">Mode avion activé, voulez-vous le désactiver ?</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">Mode avion est activé. Voulez-vous le désactiver ?</string>
     <string name="confirm_pin_title">SIM verrouillée</string>
     <string name="confirm_pin_msg">La SIM sélectionnée est maintenant verrouillée. Merci de la déverrouiller.</string>
     <string name="confrim_simmelock_title">SIM ME verrouillée</string>

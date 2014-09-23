@@ -1,0 +1,44 @@
+{
+    cities: [
+        {
+            name: "Paris",
+            pid: "202010100"
+        },
+        {
+            name: "Lyon",
+            pid: "202160100"
+        },
+        {
+            name: "Toulouse",
+            pid: "202340100"
+        },
+        {
+            name: "Lille",
+            pid: "202170100"
+        }
+        {
+            name: "Montreal",
+            pid: "404240100"
+        },
+        {
+            name: "Zurich",
+            pid: "210118100"
+        },
+        {
+            name: "Basse Terre",
+            pid: "428020100"
+        },
+        {
+            name: "Beijing",
+            pid: "101010100"
+        },
+        {
+            name: "Moscow",
+            pid: "208010100"
+        },
+        {
+            name: "Rio de Janeiro",
+            pid: "502138100"
+        }
+    ]
+}

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="toast_delete_station">%s MHz a été supprimée.</string>
   <string name="app_name">Radio</string>
   <string name="menu_record_start">Commencer l\'enregistrement</string>
+  <string name="toast_fm_scaning">Balayage…</string>
   <string name="menu_record_stop">Arrêter l\'enregistrement</string>
   <string name="menu_sleep">Mise en veille de l\'écran</string>
   <string name="menu_sleep_cancel">Annuler la veille</string>
@@ -50,7 +52,6 @@
   <string name="context_menu_item_delete">Supprimer</string>
   <string name="context_menu_item_favorite">Ajouter aux présélections</string>
   <string name="context_menu_item_unfavorite">Supprimer des présélections</string>
-  <string name="toast_channel_searched">%1$d stations ont été scannées.</string>
   <string name="label_recording">Enregistrement : %s</string>
   <string name="toast_added_to_presets">Ajouté aux présélections</string>
   <string name="toast_added_to_list">Ajouté à la liste de stations</string>
@@ -61,6 +62,7 @@
   <string name="toast_fm_recorder_internal_error">Erreur lors de l\'enregistrement radio !</string>
   <string name="toast_fm_recorder_storage_full">Espace de stockage plein, impossible d\'enregistrer !</string>
   <string name="toast_fm_error_startfailed">Enregistrement échoué, une autre application utilise peut-être la fonction d\'enregistrement. Veuillez vérifier et réessayer.</string>
-  <string name="toast_fm_recorder_access_error">Impossible d\'enregistrer en mode Invité</string>
+  <string name="toast_fm_recorder_access_error">Impossible d\'enregistrer en mode invité</string>
   <string name="msg_fm_starting">Démarrage…</string>
+  <string name="toast_fm_stoping">Arrêt de la radio…</string>
 </resources>

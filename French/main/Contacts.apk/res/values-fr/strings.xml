@@ -7,7 +7,7 @@
 * you may not use this file except in compliance with the License.
 * You may obtain a copy of the License at
 *
-*      http://www.apache.org/licenses/LICENSE-2.0
+*   http://www.apache.org/licenses/LICENSE-2.0
 *
 * Unless required by applicable law or agreed to in writing, software
 * distributed under the License is distributed on an "AS IS" BASIS,
@@ -134,7 +134,7 @@
   <string name="callrecordview_menu_show_all">Afficher tous les appels</string>
   <string name="callrecordview_menu_show_called">Afficher les appels sortants</string>
   <string name="callrecordview_menu_show_missed">Afficher les appels manqués</string>
-  <string name="callrecordview_menu_show_new">Nouveaux contacts</string>
+  <string name="callrecordview_menu_show_new">Afficher les nouveaux contacts</string>
   <string name="callrecordview_menu_show_sim">%s appels</string>
   <string name="callrecordview_menu_show_stranger">Afficher les appels inconnus</string>
   <string name="callrecordview_menu_show_title">Filtre du journal d\'appels</string>
@@ -470,7 +470,7 @@
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Pas de contacts en double</string>
   <string name="label_notes">Notes</string>
-  <string name="label_sip_address">Appel Internet</string>
+  <string name="label_sip_address">Appel SIP</string>
   <string name="launcherDialer">Téléphone</string>
   <string name="listCustomView">Contacts en affichage personnalisé</string>
   <string name="listFoundAllContactsZero">Aucun contact</string>
@@ -772,7 +772,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="recentCalls_removeFromRecentList">Supprimer du journal d\'appels</string>
   <string name="recentCalls_shareVoicemail">Partager le message vocal</string>
   <string name="recentCalls_trashVoicemail">Supprimer le message vocal</string>
-  <string name="recent_contacts_label">Récent</string>
+  <string name="recent_contacts_label">Récents</string>
   <string name="recent_number">Récent</string>
   <string name="recent_updates">Mises à jour récentes</string>
   <string name="redirect_calls_to_vm_confirm_message">Assurez-vous que votre opérateur supporte cette option. Sinon, vous pourriez ne plus être en mesure de recevoir des appels de ce contact.</string>
@@ -933,8 +933,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="sim_card_no_free_space_title">Carte SIM saturée</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Tout désélectionner</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Tout sélectionner</string>
-  <string name="sim_contact_existing">Le contact SIM est déjà existant.</string>
-  <string name="sim_contact_number_missing">Numéro de contact SIM manquant.</string>
+  <string name="sim_contact_existing">Le contact SIM est déjà existant</string>
+  <string name="sim_contact_number_missing">Numéro de contact SIM manquant</string>
   <string name="sim_contact_search_error">Une erreur s\'est produite lors de la recherche de contacts sur la carte SIM</string>
   <string name="sim_contacts">Contacts de la carte SIM</string>
   <string name="sim_error_anr_full">Espace de stockage (SIM) pour numéros plein !</string>
@@ -1122,7 +1122,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="group_name">Mes groupes</string>
   <string name="resource_import_failed">Échec de l\'importation</string>
   <string name="resource_ringtone_playing_error">erreur de lecture</string>
-  <string name="resource_download_trial">Essai gratuit</string>
+  <string name="resource_download_trial">Essayer</string>
   <string name="resource_apply_trial">"Essayer "</string>
   <string name="resource_on_trial">Essai de \"%1$s\" en cours</string>
   <string name="resource_trial_time">(%1$d minutes)</string>
@@ -1145,12 +1145,40 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="cta_notice_checkbox">Ne pas redemander</string>
   <string name="cta_notice_ok">Accepter</string>
   <string name="cta_notice_settings">Rappeler lors de l\'accès réseau</string>
-  <string name="yellowpage_navigation_network_location_enabled">Le service de localisation est actif, vous pouvez le désactiver via les paramètres</string>
+  <string name="yellowpage_navigation_network_location_enabled">Service de localisation activé</string>
   <string name="yellowpage_navigation_more_items">Plus</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Téléchargement…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Échec, veuillez vérifier vos paramètres réseau.</string>
-  <!-- à traduire
-  <string name="yellowpage_navigation_search_result_average_price">Average %d RMB</string>
-  -->
+  <string name="yellowpage_navigation_search_result_average_price">%d RMB en moyenne</string>
+  <string name="AirPlane_mode_on">"Impossible d'enregistrer les contacts lorsque le mode avion est actif.</string>
+  <string name="AirPlane_mode_on_edit">"Impossible d'éditer un contact lorsque le mode avion est activé."</string>
+  <string name="FDNEnabled">"Impossible d'enregistrer contact si FDN activé."</string>
+  <string name="account_msim">Carte SIM %s</string>
+  <string name="cannot_insert_null_number">"Impossible d'enregistrer les contacts dont le numéro est vide."</string>
+  <string name="email_invalid">Impossible de sauvegarder un email invalide</string>
+  <string name="email_2g_invalid">"Impossible de sauvegarder l'email sur la carte SIM 2G; veuillez sélectionner la carte SIM 3G pour sauvegarder."</string>
+  <string name="email_too_long">"Email trop long"</string> 
+  <string name="error_save_usim_contact_email_lost">"Échec d'enregistrement de l'adresse email car stockage USIM pour email plein."</string>
+  <string name="export_to_sim1">Exporter vers la SIM 1</string>
+  <string name="fix_number_too_long">"Numéro trop long"</string>
+  <string name="generic_failure">Erreur inconnue</string>
+  <string name="has_double_phone_number">Impossible de sauvegarder deux fois le même numéro, veuillez vérifier.</string>
+  <string name="import_from_sim1">Importer depuis la SIM 1</string>
+  <string name="inner_version_info">Version :</string>
+  <string name="msg_loading_sim_contacts_toast">"Chargement des contacts SIM en arrière-plan..."</string>
+  <string name="name_too_long">Nom trop long</string>
+  <string name="number_too_long">Numéro trop long</string>
+  <string name="phone_book_busy">"Le répertoire téléphonique est occupé pour l'instant, veuillez essayer plus tard."</string>
+  <string name="sim_invalid">"Impossible d'enregistrer contact, carte SIM non valide."</string>
+  <string name="sim_invalid_fix_number">"Impossible d'enregistrer, numéro non valide."</string>
+  <string name="sim_invalid_number">"Impossible d'enregistrer, numéro non valide."</string>
+  <string name="storage_full">Espace de stockage plein</string>
+  <string name="vcard_import_failed_v2">Impossible d\'importer</string>
+  <string name="expand_collapse_name_fields_description">Développer ou réduire les champs de nom</string>
+  <string name="activity_not_found_uri">Aucun programme approprié trouvé</string>
+<!-- à traduire -->
+  <string name="no_connection_dialog_title">Bluetooth connection failed</string>
+  <string name="cmcc_version_dialog_title">Display Version</string>
+  <string name="cta_version_dialog_title">External Version</string>
 </resources>

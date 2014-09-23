@@ -100,7 +100,7 @@
   <string name="cloud_no_backup">Aucune sauvegarde dans le cloud</string>
   <string name="cloud_restore_guide">Appuyez sur Démarrer la restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
   <string name="cloud_restore_title">Restaurer des données sauvegardées</string>
-  <string name="cloud_restore_window_title">Restoration des données</string>
+  <string name="cloud_restore_window_title">Restauration des données</string>
   <string name="cloud_search">Recherche dans le Cloud…</string>
   <string name="compute_backup_info">Récupération des informations de sauvegarde…</string>
   <string name="compute_delete_contact_info">Recherche des contacts…</string>
@@ -138,7 +138,7 @@
 
 3.\u0009Entrez dans les paramètres MiTalk et choisissez \"Sauvegardez les contacts sur le compte Mi\""</string>
   <string name="import_from_xiaomi_account_hint2">Remarque : Passez à l\'étape suivante si la sauvegarde existe déjà</string>
-  <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder les contacts sur d\'autres appareils, sauf sur le Mi-One</string>
+  <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder les contacts sur d\'autres appareils.</string>
   <string name="just_support_op_with_wifi_connected">Uniquement supporté via une connexion Wi-Fi</string>
   <string name="local_app_name">Sauvegarde</string>
   <string name="local_backup_window_title">Données de sauvegarde locale</string>

@@ -53,9 +53,9 @@
   <string name="custom_adjust_sender_hint">Numéro de l\'opérateur utilisé pour recevoir les détails de la requête de l\'utilisateur</string>
   <string name="custom_adjust_title">Ajuster les paramètres personnalisés</string>
   <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
-  <string name="daily_limit_dialog_disconnect_hint">Déconnecter Internet lorsque le trafic dépasse la limite définie</string>
+  <string name="daily_limit_dialog_disconnect_hint">Déconnecter internet lorsque le trafic dépasse la limite définie</string>
   <string name="daily_limit_dialog_hint">Limite journalière de trafic (vide ou 0 signifie aucune limite)</string>
-  <string name="daily_limit_result">Être informé et déconnecter Internet lorsque le trafic journalier dépasse %d Mo</string>
+  <string name="daily_limit_result">Être informé et déconnecter internet lorsque le trafic journalier dépasse %d Mo</string>
   <string name="daily_limit_result_no_disconnect">Être informé lorsque le trafic journalier dépasse %d Mo</string>
   <string name="daily_limit_result_no_limit">Être informé lorsque la limite journalière de trafic est dépassée</string>
   <string name="detail_app_button">Infos de l\'app</string>
@@ -109,7 +109,7 @@
   <string name="pref_connect_settings_enable_backgroung">Services en arrière-plan</string>
   <string name="pref_connect_settings_enable_backgroung_hint">Permettre la connexion automatique au réseau lorsque l\'application s\'exécute en arrière-plan</string>
   <string name="pref_connect_settings_exceed_limit">Désactiver les données</string>
-  <string name="pref_connect_settings_exceed_limit_hint">Être informé et déconnecter Internet lorsque le trafic mensuel est dépassé</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Être informé et déconnecter internet lorsque le trafic mensuel est dépassé</string>
   <string name="pref_connect_settings_notify_in_statusbar">Afficher dans la barre d\'état</string>
   <string name="pref_connect_settings_title">Paramètres du moniteur réseau</string>
   <string name="pref_network_speed_internal_title">Vitesse de transfert</string>

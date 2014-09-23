@@ -18,7 +18,7 @@
     <string name="traffic_saving_msg_today">Économisé aujourd\'hui :</string>
     <string name="traffic_saving_msg_month">Économisé ce mois :</string>
     <string name="traffic_saving_history_title">Historique</string>
-    <string name="traffic_saving_history_total_traffic">Données économisées</string>
+    <string name="traffic_saving_history_total_traffic">Données</string>
     <string name="pref_traffic_saving_title">Paramètres d\'économie des données</string>
     <string name="pref_traffic_saving_switch">Compresser les données</string>
     <string name="pref_traffic_saving_switch_hint">Permet d\'économiser des données grâce à la compression</string>
@@ -199,29 +199,28 @@ connexion au réseau de données mobiles"</string>
     <string name="adjust_traffic_data">Définir l\'usage de données</string>
     <string name="per_month_pkg_traffic_settings">Définir la limite d\'usage des données</string>
     <string name="data_usage_warning_title">Alerte d\'usage des données</string>
-    <string name="data_usage_warning_body">Appuyer pour afficher les détails d\'usage des données</string>
-    <string name="data_usage_mobile_limit_title">Les données mobiles ont été désactivées</string>
-    <string name="data_usage_limit_body">Appuyer pour activer les données mobiles</string>
+    <string name="data_usage_warning_body">Appuyer pour afficher les détails d\'usage des données.</string>
+    <string name="data_usage_mobile_limit_title">Données mobiles désactivées</string>
+    <string name="data_usage_limit_body">Appuyer pour activer les données mobiles.</string>
     <string name="data_usage_disabled_dialog">"Vous avez atteint votre limite d\'usage de données. 
 
-Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais supplémentaires."</string>
+Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais supplémentaires."</string>
 
     <string name="data_usage_disabled_dialog_enable">Activer les données</string>
     <string name="data_usage_mobile_limit_snoozed_title">Limite d\'usage de données dépassée</string>
     <string name="data_usage_limit_snoozed_body">Vous avez dépassé votre limite d\'usage de données</string>
     <string name="data_usage_restricted_title">Données en arrière-plan désactivées</string>
     <string name="data_usage_restricted_body">Appuyer pour activer les données en arrière plan</string>
- <!-- à traduire 
-    <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
- -->
-    <string name="data_usage_leisure_warning_body">Appuyer pour afficher les détails d\'usage des données</string>
+    <string name="data_usage_leisure_warning_title">Limite d\'usage de données</string>
+    <string name="data_usage_leisure_warning_body">Appuyer pour afficher les détails d\'usage des données.</string>
     <string name="data_usage_correction_timeout_title">Temps d\'attente de synchronisation dépassé</string>
-    <string name="data_usage_correction_timeout_body">Appuyer pour mettre à jour manuellement</string>
+    <string name="data_usage_correction_timeout_body">Appuyer pour mettre à jour manuellement.</string>
+<!-- à revoir ? data_usage_no_total_package_title nouvelle string : Data usage limit -->
     <string name="data_usage_no_total_package_title">Moniteur de données</string>
-    <string name="data_usage_no_total_package_body">Définir une limite d\'usage des données ?</string>
-    <string name="data_usage_no_total_package_body_dual">Voulez-vous définir une limite pour %s ?</string>
+    <string name="data_usage_no_total_package_body">Appuyer pour définir une limite d\'usage des données.</string>
+    <string name="data_usage_no_total_package_body_dual">Appuyer pour définir une limite pour %s.</string>
     <string name="network_assistant_upgraded_title">Mise à jour terminée</string>
-    <string name="network_assistant_upgraded_body">Appuyer pour limiter l\'usage des données</string>
+    <string name="network_assistant_upgraded_body">Appuyer pour afficher les détails</string>
     <string name="lock_screen_traffic_warn_title">Alerte d\'usage des données</string>
     <string name="notification_title">%1$s-%2$s : %3$s utilisés</string>
     <string name="notification_content_title">%1$s utilisés en veille</string>
@@ -235,33 +234,59 @@ Au delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
     <string name="mi_service_traffic_detail">Détails Framework</string>
     <string name="none_mi_service_app_detail">Vide</string>
     <string name="pref_traffic_saving_whitelist">Exceptions</string>
-    <string name="pref_traffic_saving_whitelist_hint">L\'utilisation des données de ces applis de sera pas restreint</string>
+    <string name="pref_traffic_saving_whitelist_hint">L\'utilisation des données de ces applis ne sera pas restreint</string>
     <string name="traffic_saving_history_total_money">Économisé</string>
     <string name="traffic_saving_history_total_money_unit">RMB</string>
     <string name="traffic_saving_history_total_month">"Économisé ce mois-ci : "</string>
     <string name="traffic_saving_history_total_month_default">"Moyenne économies mensuelles : "</string>
-    <string name="traffic_saving_history_total_month_value">"Listen to &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; songs / Chat for &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hours / Read &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
-    <string name="traffic_saving_history_total_month_value_default">"Listen to &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; songs / Chat for &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hours / Read &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
+    <string name="traffic_saving_history_total_month_value">"Écoute de &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; chansons / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; heures de chat / Lecture de &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
+    <string name="traffic_saving_history_total_month_value_default">"Écoute de &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; chansons / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt;h de chat / Lecture de &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
     <string name="traffic_saving_history_total_rate">Taux</string>
     <string name="traffic_saving_whitelist_btn_add">Ajouter</string>
     <string name="traffic_saving_whitelist_btn_add_app">Ajouter</string>
     <string name="traffic_saving_whitelist_btn_added">Ajouté à la liste</string>
     <string name="traffic_saving_whitelist_btn_remove">Supprimer</string>
     <string name="traffic_saving_whitelist_btn_removed">Supprimé de la liste</string>
-    <string name="traffic_saving_whitelist_count">L\'utilisation des données de %s applis de sera pas restreint</string>
+    <string name="traffic_saving_whitelist_count">L\'utilisation des données de %s applis ne sera pas restreint</string>
     <string name="traffic_saving_whitelist_no_app">Aucune application</string>
-
+    <string name="checkout_traffic_saving_history">Historique</string>
+    <string name="traffic_saving_msg_not_started">Inactif</string>
+    <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
+    <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
+    <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of a select group of apps' data usage"</string>
+    <string name="pref_whitelist_setting">Exceptions</string>
+    <string name="add_to_whitelist_button">Gérer les exceptions</string>
+    <string name="add_white_list">Ajouter</string>
 
   <!-- à revoir , creux d'usage ? -->
     <string name="free_time_traffic_settings">Paramètres du creux d\'usage des données</string>
     <string name="free_traffic_settings">Paramètres du creux d\'usage des données</string>
     <string name="free_time_traffic">Limite du creux d\'usage des données</string>
- <!-- 
-    <string name="free_time_traffic_title">Enter off-peak data limit</string>
-    <string name="free_time_traffic_hint">Enter off-peak data limit</string>
- --> 
 
- <!-- à traduire utilisé seulement si téléphone en chinois ?
+ <!-- à traduire? utilisé seulement si téléphone en chinois ? -->
+    <string name="alter_dialog_message">Connecting to data services when roaming internationally can result in steep charges from your carrier. Allow apps on exceptions list to connect to data services when roaming internationally?</string>
+    <string name="datausage_purchase_none_history">Empty</string>
+    <string name="datausage_purchase_order_failure">Purchase failed</string>
+    <string name="datausage_purchase_order_failure_cause">Your purchase failed because…</string>
+    <string name="datausage_purchase_order_history">History</string>
+    <string name="datausage_purchase_time_in">" on "</string>
+    <string name="dialog_app_roaming_message">"When you're roaming internationally, only apps you've added to the exceptions list can use data services. %1$s hasn't been added to the exceptions list. View exceptions list now?"</string>
+    <string name="dialog_app_roaming_title">"International roaming isn't enabled for %1$s"</string>
+    <string name="dialog_roaming_message">Apps on exceptions list will be able to connect to data services when roaming internationally. Add this app to exceptions list?</string>
+    <string name="dialog_roaming_title">International roaming</string>
+    <string name="firewall_rule_group_title_roaming">International roaming</string>
+    <string name="international_roaming_setting">International roaming</string>
+    <string name="international_roaming_whitelist_count">%d apps can connect to data services when roaming internationally</string>
+    <string name="pref_allow_connect_network_summary">Connect to data services when roaming internationally</string>
+    <string name="pref_allow_connect_network_title">International data roaming</string>
+    <string name="pref_allow_connect_network_whitelist_summary">Allow apps on exceptions list to connect to data services when roaming internationally</string>
+    <string name="pref_allow_connect_network_whitelist_title">Allow exceptions</string>
+    <string name="roaming_not_start_body">Apps on exceptions list will be able to connect to data services when roaming internationally.</string>
+    <string name="roaming_not_start_title">International roaming</string>
+    <string name="roaming_start_body">Allow apps on exceptions list to connect to data services when roaming internationally.</string>
+    <string name="roaming_start_title">International roaming</string>
+      <string name="free_time_traffic_title">Enter off-peak data limit</string>
+      <string name="free_time_traffic_hint">Enter off-peak data limit</string>
       <string name="traffic_config_alert_title">%s difference</string>
       <string name="traffic_config_alert_body">"Your carrier's data usage accounting shows you have %s remaining.
 Do you want to update your local data usage limit?"</string>
@@ -274,7 +299,7 @@ Your carrier's data usage accounting shows you have %1$s of off-peak usage remai
       <string name="datausage_purchase_title_pkglist">Buy data</string>
       <string name="datausage_purchase_title_confirm">Purchase details</string>
       <string name="datausage_purchase_title_order">Buy data</string>
-      <string name="datausage_purchase_banner_title">"You're %s over your limit"</string>
+      <string name="datausage_purchase_banner_title">%s top-up offer (exclusive)</string>
       <string name="datausage_purchase_view_detail">View details</string>
       <string name="datausage_purchase_buy">Buy</string>
       <string name="datausage_purchase_pay_confirm">Pay</string>
@@ -288,11 +313,10 @@ Your carrier's data usage accounting shows you have %1$s of off-peak usage remai
       <string name="datausage_purchase_ordering">Purchasing…</string>
       <string name="datausage_purchase_result_ok">"You purchased %s
 See the message sent by your service provider for more info."</string>
-      <string name="datausage_purchase_result_failed">"Can't complete purchase"</string>
+      <string name="datausage_purchase_result_failed">"Couldn't buy data. Check with your carrier for more info about the issue. "</string>
       <string name="datausage_purchase_backto_ns">Back</string>
       <string name="datausage_purchase_goto_monthsetting">Readjust data limit</string>
       <string name="datausage_purchase_pkglist_nodata">"There's a conflict with your existing data plan and your current order. Contact your service provider for more information."</string>
       <string name="datausage_purchase_pkglist_networkerror">"Can't connect to the network. Check your data connection and try again."</string>
       <string name="datausage_purchase_pkglist_servererror">Server error</string>
--->
 </resources>

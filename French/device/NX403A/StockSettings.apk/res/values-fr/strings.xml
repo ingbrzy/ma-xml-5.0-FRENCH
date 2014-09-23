@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paramètres avancés</string>
+    <string name="miui_auto_network">PreferredNetwork Auto Mode</string>
+    <string name="motion_dial_title">Motion dial</string>
+    <string name="motion_dial_summary">auto dial when move cellphone near to ear</string>
+    <string name="motion_answer_title">Motion Answer</string>
+    <string name="motion_answer_summary">Auto answer when cellphone near to ear</string>
+    <string name="motion_turnover_title">Turn Over Slient</string>
+    <string name="motion_turnover_summary">"silent when turn over "</string>
+    <string name="screen_capture_title">Capture d\'écran</string>
+    <string name="screen_capture_summary">three fingers push froward</string>
+</resources>

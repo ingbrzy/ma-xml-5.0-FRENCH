@@ -65,6 +65,7 @@
   <string name="menu_play">Lire</string>
   <string name="menu_record_list">Liste des enregistrements</string>
   <string name="menu_record_start">Commencer l\'enregistrement</string>
+  <string name="toast_fm_scaning">Balayage…</string>
   <string name="menu_record_stop">Arrêter l\'enregistrement</string>
   <string name="menu_rename_list">Renommer la liste</string>
   <string name="menu_reorder_list">Réorganiser la liste</string>
@@ -141,7 +142,7 @@
   <string name="toast_fm_recorder_storage_full">Espace de stockage plein, impossible d\'enregistrer !</string>
   <string name="toast_fm_seeking">"Recherche d'une station, veuillez patienter…"</string>
   <string name="toast_fm_starting">Démarrage de la radio, veuillez patienter…</string>
-  <string name="toast_fm_stoping">Arrêt de la radio, veuillez patienter…</string>
+  <string name="toast_fm_stoping">Arrêt de la radio…</string>
   <string name="toast_removed_from_presets">Retiré des présélections</string>
   <string name="toast_save_station">%sMHz a été sauvegardé</string>
   <string name="toast_sleep_mode">Arrêter la radio dans %s</string>
@@ -152,7 +153,7 @@
   <string name="turn_on_fm">Allumer la radio</string>
   <string name="turn_on_speaker_phone">Activer le haut parleur</string>
   <string name="view_stations_list">Afficher la liste des stations</string>
-  <string name="toast_fm_recorder_access_error">"Impossible d'enregistrer en mode Invité"</string>
+  <string name="toast_fm_recorder_access_error">"Impossible d'enregistrer en mode invité"</string>
   <string name="msg_fm_starting">Démarrage…</string>
   
   

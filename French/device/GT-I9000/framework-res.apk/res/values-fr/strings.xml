@@ -315,7 +315,7 @@
     <string name="global_action_toggle_silent_mode">Mode silencieux</string>
     <string name="global_action_silent_mode_on_status">Le son est désactivé.</string>
     <string name="global_action_silent_mode_off_status">Le son est activé.</string>
-    <string name="global_actions_toggle_airplane_mode">Mode Avion</string>
+    <string name="global_actions_toggle_airplane_mode">Mode avion</string>
     <string name="global_actions_airplane_mode_on_status">Le mode Avion est activé.</string>
     <string name="global_actions_airplane_mode_off_status">Le mode Avion est désactivé.</string>
     <string name="safeMode">Mode sécurisé</string>
@@ -603,7 +603,7 @@
     <string name="permlab_accessNetworkState">afficher les connexions réseau</string>
     <string name="permdesc_accessNetworkState">"Permet à l'application d'accéder à des informations sur les connexions réseau, comme les réseaux existants et connectés."</string>
     <string name="permlab_createNetworkSockets">accès complet au réseau</string>
-    <string name="permdesc_createNetworkSockets">"Permet à l'application de créer des sockets réseau et d'utiliser des protocoles réseau personnalisés. Le navigateur et d'autres applications permettent d'envoyer des données sur Internet. Cette autorisation n'est donc pas nécessaire pour envoyer des données sur Internet."</string>
+    <string name="permdesc_createNetworkSockets">"Permet à l'application de créer des sockets réseau et d'utiliser des protocoles réseau personnalisés. Le navigateur et d'autres applications permettent d'envoyer des données sur internet. Cette autorisation n'est donc pas nécessaire pour envoyer des données sur internet."</string>
     <string name="permlab_writeApnSettings">changer/intercepter les paramètres et le trafic du réseau</string>
     <string name="permdesc_writeApnSettings">"Permet à l'application de modifier les paramètres réseau, ainsi que d'intercepter et de surveiller tout le trafic réseau ayant pour but de modifier le proxy et le port d'un APN, par exemple. Des applications malveillantes peuvent exploiter cette fonctionnalité pour surveiller, rediriger ou modifier les paquets réseau à votre insu."</string>
     <string name="permlab_changeNetworkState">modification de la connectivité du réseau</string>
@@ -652,8 +652,8 @@
     <string name="permdesc_mediaStorageWrite">"Permet à l'application de modifier le contenu de la mémoire de stockage multimédia interne."</string>
     <string name="permlab_cache_filesystem">accéder au système de fichiers en cache</string>
     <string name="permdesc_cache_filesystem">"Permet à l'application d'obtenir des droits en lecture/écriture concernant le système de fichiers du cache."</string>
-    <string name="permlab_use_sip">effectuer/recevoir des appels Internet</string>
-    <string name="permdesc_use_sip">"Permet à l'application d'utiliser le service SIP pour émettre ou recevoir des appels Internet."</string>
+    <string name="permlab_use_sip">effectuer/recevoir des appels SIP</string>
+    <string name="permdesc_use_sip">"Permet à l'application d'utiliser le service SIP pour émettre ou recevoir des appels SIP."</string>
     <string name="permlab_readNetworkUsageHistory">"lire l'historique d'utilisation du réseau"</string>
     <string name="permdesc_readNetworkUsageHistory">"Permet à l'application de lire l'historique d'utilisation de réseaux et d'applications spécifiques."</string>
     <string name="permlab_manageNetworkPolicy">gérer les règles du réseau</string>
@@ -1007,7 +1007,7 @@ Voulez-vous la fermer ?"</string>
     <string name="ringtone_unknown">Sonnerie inconnue</string>
     <string name="wifi_available_sign_in">Connectez-vous au réseau Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled">Impossible de se connecter au Wi-Fi.</string>
-    <string name="wifi_watchdog_network_disabled_detailed">" dispose d'une mauvaise connexion Internet."</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" dispose d'une mauvaise connexion internet."</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">"Lancer le Wi-Fi Direct. Cela désactive le fonctionnement du Wi-Fi client ou via un point d'accès."</string>
     <string name="wifi_p2p_failed_message">"Impossible d'activer le Wi-Fi Direct."</string>
@@ -1131,8 +1131,8 @@ pour le compte \"%s\""</string>
     <string name="no_file_chosen">Aucun fichier sélectionné</string>
     <string name="reset">Réinitialiser</string>
     <string name="submit">Envoyer</string>
-    <string name="car_mode_disable_notification_title">Mode Voiture activé</string>
-    <string name="car_mode_disable_notification_message">Appuyez ici pour quitter le mode Voiture.</string>
+    <string name="car_mode_disable_notification_title">Mode voiture activé</string>
+    <string name="car_mode_disable_notification_message">Appuyez ici pour quitter le mode voiture.</string>
     <string name="tethered_notification_title">"Partage de connexion ou point d'accès sans fil activé"</string>
     <string name="tethered_notification_message">Appuyez pour configurer.</string>
     <string name="back_button_label">Retour</string>

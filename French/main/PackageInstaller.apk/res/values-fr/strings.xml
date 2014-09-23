@@ -20,6 +20,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+  <string name="virus_scan_caller_unknown">Inconnu</string>
   <string name="Parse_error_dlg_text">Un problème est survenu lors de l\'analyse du paquet.</string>
   <string name="Parse_error_dlg_title">Erreur d\'analyse</string>
   <string name="allow_source_dlg_text">"Une demande d\'installation d\'autres applications a été initiée à partir de l\'application %1$s.

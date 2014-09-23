@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="pref_long_press_shutter_button_focus_title">Appui long sur déclencheur pour focus</string>
   <string name="Import">Importer</string>
   <string name="access_sd_fail">Impossible d\'accéder à la mémoire de stockage USB.</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Basculer entre la l\'appareil photo et la vidéo (actuellement sur %s)</string>
@@ -36,7 +37,7 @@
   <string name="confirm_change_mode_title">Changer de mode</string>
   <string name="confirm_change_to_expert_mode_message">Passer en mode professionnel ?</string>
   <string name="confirm_change_to_simple_mode_message">Basculer vers le mode simple ?</string>
-  <string name="confirm_location_message">Cet appareil permet d\'enregistrer vos informations de localisation, souhaitez-vous activer les services de localisation ?</string>
+  <string name="confirm_location_message">Souhaitez-vous enregistrer les coordonnées de prise de vue des photos ?</string>
   <string name="confirm_restore_message">Les réglages de la caméra seront restaurés aux valeurs par défaut.</string>
   <string name="confirm_restore_title">Restaurer les paramètres par défaut</string>
   <string name="connect_wifi">Se connecter à ce réseau Wi-Fi</string>
@@ -115,7 +116,7 @@
   <string name="find_mecard_qrcode">Trouver un code QR de carte de visite</string>
   <string name="find_other_qrcode">Trouver un code QR</string>
   <string name="find_qq_qrcode">Trouver un code QR QQ</string>
-  <string name="find_web_qrcode">Trouver un code QR de site Internet</string>
+  <string name="find_web_qrcode">Trouver un code QR de site internet</string>
   <string name="find_wechat_qrcode">Trouver un code QR WeChat</string>
   <string name="find_wifi_qrcode">Trouver un code QR Wi-Fi</string>
   <string name="flash">Flash</string>
@@ -153,7 +154,7 @@
   <string name="measure_whitebalance_text">Veuillez mettre un papier blanc ou une carte grise devant la caméra, puis pressez le bouton</string>
   <string name="mimetype">Type MIME</string>
   <string name="model">Modèle</string>
-  <string name="no_save">"Ne pas sauvegarder"</string>
+  <string name="no_save">Non, merci</string>
   <string name="no_storage">Veuillez insérer une carte SD avant d\'utiliser l\'appareil photo.</string>
   <string name="no_thumbnail">Aucune vignette</string>
   <string name="not_enough_space">Mémoire insuffisante</string>
@@ -188,14 +189,14 @@
   <string name="pref_camera_autoexposure_entry_frameaverage">Trame moyenne</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesure de spot</string>
   <string name="pref_camera_autoexposure_title">Mode d\'exposition automatique</string>
-  <string name="pref_camera_coloreffect_entry_aqua"/>
+  <string name="pref_camera_coloreffect_entry_aqua">Eau</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_vivid">Vif</string>
   <string name="pref_camera_coloreffect_entry_yesteryear">Rétro</string>
   <string name="pref_camera_coloreffect_entry_brannan">Aube</string>
   <string name="pref_camera_coloreffect_entry_sketch">Croquis</string>
   <string name="pref_camera_coloreffect_entry_seventy">1970s</string>
-  <string name="pref_camera_coloreffect_entry_fisheye">Fish Eye</string>
+  <string name="pref_camera_coloreffect_entry_fisheye">Fisheye</string>
   <string name="pref_camera_coloreffect_entry_jstyle">Japonais</string>
   <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaïque</string>
@@ -203,12 +204,12 @@
   <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
   <string name="pref_camera_coloreffect_entry_planet">Petit monde</string>
   <string name="pref_camera_coloreffect_entry_mirror">Miroir</string>
-  <string name="pref_camera_coloreffect_entry_gaussianblur">Flou</string>
-  <string name="pref_camera_coloreffect_entry_negative"/>
+  <string name="pref_camera_coloreffect_entry_gaussianblur">Flou gaussien</string>
+  <string name="pref_camera_coloreffect_entry_negative">Négatif</string>
   <string name="pref_camera_coloreffect_entry_none">Aucun</string>
-  <string name="pref_camera_coloreffect_entry_posterize"/>
-  <string name="pref_camera_coloreffect_entry_sepia"/>
-  <string name="pref_camera_coloreffect_title">Effet de couleur</string>
+  <string name="pref_camera_coloreffect_entry_posterize">Postériser</string>
+  <string name="pref_camera_coloreffect_entry_sepia">Sépia</string>
+  <string name="pref_camera_coloreffect_title">Effets</string>
   <string name="pref_camera_contrast_title">Contraste</string>
   <string name="pref_camera_current_k_value">Valeur actuelle</string>
   <string name="pref_camera_default_suffix">" (par défaut)"</string>
@@ -247,7 +248,7 @@
   <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
-  <string name="pref_camera_iso_title">Sélectionner ISO</string>
+  <string name="pref_camera_iso_title">Sensibilité ISO</string>
   <string name="pref_camera_jpegquality_entry_high">Haute</string>
   <string name="pref_camera_jpegquality_entry_low">Basse</string>
   <string name="pref_camera_jpegquality_entry_normal">Standard</string>
@@ -255,7 +256,7 @@
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Focus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Prise en rafale</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Action du déclencheur</string>
-  <string name="pref_camera_movie_solid_title">Film solide</string>
+  <string name="pref_camera_movie_solid_title">Stabilisation de l\'image</string>
   <string name="pref_camera_multilevel_entry_high">Plus que normal</string>
   <string name="pref_camera_multilevel_entry_higher">Élevé</string>
   <string name="pref_camera_multilevel_entry_highest">Le plus élevé</string>
@@ -274,7 +275,7 @@
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Plein écran 16:9</string>
   <string name="pref_camera_picturesize_title">Taille d\'image</string>
-  <string name="pref_camera_picturesize_title_simple_mode">Repère de la caméra</string>
+  <string name="pref_camera_picturesize_title_simple_mode">Format d\'image</string>
   <string name="pref_camera_raw_data_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
   <string name="pref_camera_recordlocation_entry_on">Activé</string>
@@ -283,7 +284,7 @@
   <string name="pref_camera_redeyereduction_entry_disable">Désactiver</string>
   <string name="pref_camera_redeyereduction_entry_enable">Activer</string>
   <string name="pref_camera_redeyereduction_title">Réduction des yeux rouges</string>
-  <string name="pref_camera_referenceline_title">Ligne de référence</string>
+  <string name="pref_camera_referenceline_title">Lignes de référence</string>
   <string name="pref_camera_saturation_title">Saturation</string>
   <string name="pref_camera_scenedetect_title">Détection de scène automatique</string>
   <string name="pref_camera_scenemode_entry_auto">Automatique</string>
@@ -311,7 +312,7 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Désactiver</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activer</string>
   <string name="pref_camera_skinToneEnhancement_title">Amélioration de la teinte de peau</string>
-  <string name="pref_camera_sound_title">Son de l\'appareil photo</string>
+  <string name="pref_camera_sound_title">Son de déclenchement</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>
   <string name="pref_camera_touchafaec_title">Mise au point tactile</string>
@@ -325,10 +326,8 @@
   <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Fonctions des touches de volume</string>
-  <string name="pref_camera_watermark_entry_off">Désactivé</string>
-  <string name="pref_camera_watermark_entry_on">Activé</string>
   <string name="pref_camera_watermark_title">Horodatage en filigrane</string>
-  <string name="pref_camera_whitebalance_entry_auto">Automatique</string>
+  <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Nuageux</string>
   <string name="pref_camera_whitebalance_entry_daylight">Lumière du jour</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
@@ -347,13 +346,13 @@
   <string name="pref_grp_picture_settings">Paramètres d\'image</string>
   <string name="pref_grp_restore_settings">Restaurer les paramètres</string>
   <string name="pref_manual_exposure_title">Exposition manuelle</string>
-  <string name="pref_scan_qrcode_title">Scanner code QR</string>
+  <string name="pref_scan_qrcode_title">Détecter les codes QR</string>
   <string name="pref_setting_title">Paramètres</string>
   <string name="pref_settings_mode">Mode caméra</string>
   <string name="pref_video_captrue_ability_title">Capacité de capture</string>
   <string name="pref_video_focusmode_entry_auto">Toucher</string>
-  <string name="pref_video_focusmode_entry_continuous">CAF</string>
-  <string name="pref_video_focusmode_title">Mode focus</string>
+  <string name="pref_video_focusmode_entry_continuous">AutoFocus continu</string>
+  <string name="pref_video_focusmode_title">Mode de focus</string>
   <string name="pref_video_quality_entry_1080p">Full HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_720p">HD</string>
@@ -392,9 +391,9 @@
   <string name="review_cancel">ANNULER</string>
   <string name="rotate_left">Faire pivoter à gauche</string>
   <string name="rotate_right">Faire pivoter à droite</string>
-  <string name="save">Sauvegarder</string>
+  <string name="save">Oui</string>
   <string name="scan_qrcode">Scanner le code QR</string>
-  <string name="secure_access_web_url">Accès Internet sécurisé</string>
+  <string name="secure_access_web_url">Accès internet sécurisé</string>
   <string name="see_app_details">Voir les détails de l\'app</string>
   <string name="see_qrcode_detals">Voir les détails du code QR</string>
   <string name="select_all">Tout sélectionner</string>
@@ -412,9 +411,9 @@
   <string name="show_images_only">Images uniquement</string>
   <string name="show_on_map">Afficher sur la carte</string>
   <string name="show_videos_only">Vidéos uniquement</string>
-  <string name="simple_mode_button_text_audio_capture">Fermer la capture audio</string>
-  <string name="simple_mode_button_text_color_effect">Fermer les filtres</string>
-  <string name="simple_mode_button_text_face_beauty">Fermer ajust. facial</string>
+  <string name="simple_mode_button_text_audio_capture">Quitter la capture audio</string>
+  <string name="simple_mode_button_text_color_effect">Quitter le mode effets</string>
+  <string name="simple_mode_button_text_face_beauty">Quitter le mode ajust. facial</string>
   <string name="simple_mode_button_text_hand_night">Quitter le mode nuit</string>
   <string name="simple_mode_button_text_hdr">Quitter le mode HDR</string>
   <string name="simple_mode_button_text_panorama">Quitter le mode panorama</string>
@@ -473,7 +472,7 @@
   <string name="pref_camera_ubi_focus_title">ReFocus</string>
   <string name="simple_mode_button_text_ubi_focus">Quitter le mode ReFocus</string>
   <string name="ubi_focus_exit_button_text">Quitter le mode ReFocus</string>
-  <string name="pref_camera_auto_chroma_flash_title">Flash Chroma Auto</string>
+  <string name="pref_camera_auto_chroma_flash_title">ChromaFlash</string>
   <string name="pref_touch_down_capture_title">Glisser bas pour capturer</string>
   <string name="cannot_move_warning_message">Capture de la photo, ne bougez pas l\'appareil</string>
   <string name="object_track_enable_toast">"Faites glisser votre doigt sur l'écran de prévisualisation pour activer le suivi de l'objet."</string>
@@ -484,5 +483,6 @@
   <string name="simple_mode_button_text_countdown">Quitter le compte à rebours</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Les photos et vidéos ne peuvent pas être affichées quand l\'écran est verrouillé.</string>
   <string name="ubi_focus_capture_fail">Erreur, veuillez réessayer</string>
-  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre de l'objectif) et éloignés"</string>  
+  <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre) et éloignés"</string>  
+  <string name="pref_priority_storage_title">Sauvegarder sur la carte SD</string>
 </resources>

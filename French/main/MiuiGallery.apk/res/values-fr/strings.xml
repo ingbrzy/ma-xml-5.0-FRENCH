@@ -14,6 +14,7 @@
   <string name="menu_item_sort_visit_asc">Par ordre ascendant de visualisation</string>
   <string name="menu_item_sort_visit_desc">Par ordre descendant de visualisation</string>
 <!-- -->
+  <string name="ubifocus_refocus_fail_tip">Données manquantes ou non valides, impossible de modifier le focus</string>
   <string name="confirm_delete_home_merge_item">Supprimer les %s photo(s) du téléphone et du cloud ?</string>
   <string name="deselect_all">Tout désélectionner</string>
   <string name="device_model">Modèle</string>
@@ -66,7 +67,7 @@
   <string name="albums">Albums</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Avis d\'information</string>
-  <string name="alert_message_open_sync">Sync est requis, souhaitez-vous ouvrir Sync maintenant ?</string>
+  <string name="alert_message_open_sync">La synchronisation avec Mi Cloud n\'est pas active, l\'activer maintenant ?</string>
   <string name="already_apply_album">Ouvrir %1$s ?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Fond d\'écran Android</string>
@@ -102,7 +103,7 @@
   <string name="cannot_remove_creator">Impossible de supprimer le propriétaire</string>
   <string name="cannot_send_message">"Impossible d'envoyer le message"</string>
   <string name="cannot_send_message_reason">Votre message n\'a pas de destinataire valide</string>
-  <string name="cant_delete_cloud_album">Impossible de supprimer : %s est un album système ou est partagée par d\'autres personnes.</string>
+  <string name="cant_delete_cloud_album">Impossible de supprimer %s, ce dernier est un album système ou est partagé par d\'autres personnes.</string>
   <string name="cleaning_cache">Nettoyage du cache…</string>
   <string name="clear_thumbnail_cache">Effacer le cache des miniatures</string>
   <string name="clear_thumbnail_cache_confirm">Les miniatures vont être supprimées. L\'application va scanner tous les médias et recréer des miniatures au fur et à mesure.</string>
@@ -208,7 +209,7 @@
   <string name="fail_to_sync_album">Impossible de synchroniser l\'album au serveur. Veuillez vérifier votre connexion réseau !</string>
   <string name="file_size">Taille</string>
   <string name="filllight">Éclairage d\'appoint</string>
-  <string name="fisheye">Objectif fisheye</string>
+  <string name="fisheye">Fisheye</string>
   <string name="flash">Flash</string>
   <string name="flash_off">Flash désactivé</string>
   <string name="flash_on">Flash déclenché</string>
@@ -221,7 +222,7 @@
   <string name="frame_movie">Film</string>
   <string name="frame_semicircle">Demi-cercle</string>
   <string name="frame_white">Blanc</string>
-  <string name="gallery_cloud_provider_name">Galerie MiCloud</string>
+  <string name="gallery_cloud_provider_name">Galerie</string>
   <string name="gallery_setting">Paramètres de la Galerie</string>
   <string name="get_album_info_in_process">"Demande d'informations de l'album partagé, veuillez patienter…"</string>
   <string name="global_setting">Paramètres</string>
@@ -246,7 +247,7 @@
   <string name="import_fail">Échec de l\'importation.</string>
   <string name="initial_cloud_button_text">Commencer à utiliser MiCloud</string>
   <string name="initial_cloud_text">À tout moment et n\'importe où, organisez et visualisez vos photos</string>
-  <string name="initializing_cloud">Initialisation de l\'Album Cloud…</string>
+  <string name="initializing_cloud">Initialisation…</string>
   <string name="input_cloudfolder_name">Nom du dossier MiCloud</string>
   <string name="internal_camera_folder_display_name">Photos de la caméra</string>
   <string name="internal_miui_capture_screen_folder_display_name">Captures d\'écran internes</string>
@@ -306,13 +307,13 @@
   <string name="no_such_item">"Impossible de trouver l'élément."</string>
   <string name="no_thumbnail">Aucune vignette</string>
   <string name="none_picture">Aucune photo trouvée dans la galerie</string>
-  <string name="not_auto_create_recent_album">Ne pas créer automatiquement d\'album(s) récents</string>
+  <string name="not_auto_create_recent_album">Ne pas créer automatiquement d\'albums récents</string>
   <string name="not_show_hidden_albums">Ne pas afficher les albums masqués</string>
-  <string name="open">Ouvrir Sync</string>
+   <string name="open">Activer</string>
   <string name="open_public_message">Générer une URL et l\'envoyer à des amis</string>
   <string name="open_public_title">Partager publiquement</string>
   <string name="open_single_image_failure">Impossible d\'ouvrir le fichier image !</string>
-  <string name="open_sync_title">Sync requis</string>
+  <string name="open_sync_title">Synchronisation inactive</string>
   <string name="operation_delete_confirm_message_folder">"Les dossiers et fichiers seront supprimés en même temps. "</string>
   <string name="operation_failed">L\'opération a échoué !</string>
   <string name="operation_in_process">Traitement en cours…</string>
@@ -385,7 +386,7 @@
   <string name="select_too_much_to_send_tips">Les images sélectionnées sont trop grosses pour être envoyées. La limite est de %d.</string>
   <string name="select_video">Sélectionner une vidéo</string>
   <string name="send">Partager</string>
-  <string name="send_multiple_files_hint_format">Partager plusieurs fichiers (%s)</string>
+  <string name="send_multiple_files_hint_format">Partager (%s)</string>
   <string name="send_public_url">Partager l\'URL de l\'album</string>
   <string name="sepia">Sépia</string>
   <string name="set_hidden_album">Masquer</string>
@@ -393,8 +394,8 @@
   <string name="set_label_all_albums">Tous les albums</string>
   <string name="set_label_local_albums">Albums en local</string>
   <string name="set_label_mtp_devices">Appareils MTP</string>
-  <string name="set_lock_and_wallpaper">Application du fond d\'écran…</string>
-  <string name="set_lock_or_wallpaper">Application du fond d\'écran…</string>
+  <string name="set_lock_and_wallpaper">Définir comme fond d\'écran</string>
+  <string name="set_lock_or_wallpaper">Définir comme fond d\'écran</string>
   <string name="set_lockscreen">Application du fond d\'écran…</string>
   <string name="set_recent_album">Définir en tant qu\'album récent</string>
   <string name="set_screensaver_path_message">Cet album s\'affichera 5 secondes après que l\'écran s\'éteigne.</string>
@@ -545,14 +546,12 @@
   <string name="crop_recognize_text">Détecter</string>
   <string name="crop_save_text_setas">Appliquer</string>
   <string name="recognizing_image">Analyse de l\'image…</string>
- <!-- à traduire
-  <string name="long_press_to_refocus">Keep pressing to refocus</string>
-  <string name="item_not_sync_for_refocus_data">Cette image n\'a pas été synchronisée avec le cloud, its refocus data can not be downloaded</string>
-  <string name="download_refocus_data">Download refocusing data</string>
-  <string name="refocus_data_downloading">Downloading refocusing data…</string>
-  <string name="ubifocus_guide_text">>Touch &amp; hold to refocus</string>
-  <string name="ubifocus_refocus_data_missing">Cannot refocus due to some missing data</string>
-  <string name="ubifocus_refocus_map_error">Cannot refocus due to some wrong data</string>
-  <string name="ubifocus_refocus_download_tip">Please download refocus data before refocusing</string>
-  -->
+  <string name="long_press_to_refocus">Appuyer pour modifier le focus</string>
+  <string name="item_not_sync_for_refocus_data">Cette image n\'a pas été synchronisée avec le cloud, les données de focus ne peuvent pas être téléchargées</string>
+  <string name="download_refocus_data">Télécharger les données de focus</string>
+  <string name="refocus_data_downloading">Téléchargement des données de focus…</string>
+  <string name="ubifocus_guide_text">Appuyer pour modifier le focus</string>
+  <string name="ubifocus_refocus_data_missing">Données manquantes, impossible de modifier le focus</string>
+  <string name="ubifocus_refocus_map_error">Données non valides, impossible de modifier le focus</string>
+  <string name="ubifocus_refocus_download_tip">Veuillez télécharger les données de focus afin de pouvoir le modifier.</string>
 </resources>

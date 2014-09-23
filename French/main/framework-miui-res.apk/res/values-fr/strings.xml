@@ -37,7 +37,7 @@
   <string name="find_device_check_sim">Vérification de la carte SIM…</string>
   <string name="find_device_sim_change_instructions">Votre appareil a été verrouillé. Veuillez insérer la carte SIM ou saisir votre mot de passe Xiaomi</string>
   <string name="find_device_sim_change_instructions_no_network">Votre appareil a été verrouillé, veuillez insérer la carte SIM d\'origine</string>
-  <string name="find_device_turn_off_flight_mode">Désactiver le Mode Avion</string>
+  <string name="find_device_turn_off_flight_mode">Désactiver le Mode avion</string>
   <string name="find_device_turn_off_flight_mode_instructions">Votre appareil a été verrouillé, veuillez désactiver le mode Avion</string>
   <string name="firewall_setting">Pare-feu appels et SMS</string>
   <string name="first_back_long_press_message">"Souhaitez-vous activer la fonction d'appui-long sur la touche retour pour tuer le processus en cours et ses services de base ? Activer via Paramètres &gt; Système &gt; Touches"</string>
@@ -106,6 +106,7 @@ Réessayer dans %d secondes."</string>
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Contrat d\'utilisation de MiCredit</string>
+  <string name="miui_micloud_license_title">Contrat d\'utilisation de MiCloud</string>
   <string name="miui_privacy_policy_title">Politique de confidentialité</string>
   <string name="miui_unlockscreen_password_wrong">Mot de passe incorrect ! Veuillez réessayer</string>
   <string name="miui_user_agreement_title">Contrat d\'utilisation</string>
@@ -133,7 +134,7 @@ Réessayer dans %d secondes."</string>
   <string name="perm_payment_dspt">Permettre à l\'application de payer avec le service de paiement de Xiaomi</string>
   <string name="perm_payment_lab">MiPay</string>
   <string name="perm_send_push_dspt">Autoriser les messages push de Xiaomi</string>
-  <string name="perm_send_push_lab">Envoyer un message push</string>
+  <string name="perm_send_push_lab">Réception de messages push</string>
   <string name="perm_tigger_toggle_dspt">Permettre aux applications d\'utiliser les boutons du widget de la barre d\'état</string>
   <string name="perm_tigger_toggle_lab">Utiliser les boutons du widget de la barre d\'état</string>
   <string name="perm_use_find_device">Localiser l\'appareil</string>
@@ -150,7 +151,7 @@ Réessayer dans %d secondes."</string>
   <string name="reboot_progress">Redémarrage…</string>
   <string name="return_to_me_message">Veuillez le remettre au propriétaire.</string>
   <string name="reverse_all">Effacer tout</string>
-  <string name="safetylegal_activity_unreachable">Votre téléphone n\'est pas connecté à un service de données. Pour afficher ces informations maintenant, allez à %s de n\'importe quel ordinateur connecté à Internet.</string>
+  <string name="safetylegal_activity_unreachable">Votre téléphone n\'est pas connecté à un service de données. Pour afficher ces informations maintenant, allez à %s de n\'importe quel ordinateur connecté à internet.</string>
   <string name="screen_button_notification_text">"Appuyez sur les touches Accueil + Marche/Arrêt pour activer"</string>
   <string name="screen_button_notification_title">Les boutons de l\'écran sont désactivés</string>
   <string name="screen_on_proximity_sensor_hint">"Astuce : Appuyez longuement sur le bouton Marche/Arrêt pour quitter le mode \"mauvaise utilisation\". Voir Paramètres &gt; Affichage pour désactiver"</string>
@@ -236,7 +237,9 @@ Réessayer dans %d secondes."</string>
  <!-- 2 strings suivantes à reformuler ? -->
   <string name="sync_data_recover_warning_desc">Les données de %s vont être restaurées depuis le cloud, il ne sera pas possible de revenir en arrière !</string>
   <string name="sync_data_merge_warning_desc">Les données locales de %s vont être fusionnées avec celles du cloud, il ne sera pas possible de revenir en arrière !</string>
-
+  <string name="softap_notifif_summary">%d connecté</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" activé</string>
+ 
   <string name="autumn_begins">Début de l\'Automne</string>
   <string name="autumn_equinox">Équinoxe d\'Automne</string>
   <string name="clear_and_bright">Clair et lumineux</string>

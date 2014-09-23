@@ -109,7 +109,7 @@
   <string name="retry_in_1min">Une minute</string>
   <string name="retry_in_2min">Deux minutes</string>
   <string name="retry_in_5min">Cinq minutes</string>
-  <string name="retry_no_data">Aucune connexion Internet</string>
+  <string name="retry_no_data">Aucune connexion internet</string>
   <string name="summary_menu_show_finished">Afficher les transferts terminés</string>
   <string name="summary_menu_show_pending">Afficher les transferts en attente</string>
   <string name="summary_subtitle_counts_format">%1$d photos et %2$d vidéos</string>

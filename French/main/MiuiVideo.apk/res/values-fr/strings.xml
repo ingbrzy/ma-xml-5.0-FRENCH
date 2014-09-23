@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
+<!-- rm ?.?.? -->
+  <string name="setting_use_network">Autoriser l\'utilisation du réseau</string>
+  <string name="setting_use_network_summery">Autorise l\'usage de données sur les réseaux mobiles</string>
 <!-- rm 4.6.29-->
   <string name="variety">Variétés</string>
   <string name="all">Tous</string>
@@ -57,7 +60,7 @@ la vidéo sur votre box ou TV"</string>
   <string name="video_info_audio_bitrate_label">Débit audio :</string>
   <string name="video_info_audio_coding_label">Format de codage audio :</string>
   <string name="video_info_audio_null">Aucun</string>
-  <string name="video_info_frame_rate_label">Images par secondes :</string>
+  <string name="video_info_frame_rate_label">Images par seconde :</string>
   <string name="video_info_length_label">Durée :</string>
   <string name="video_info_resolution_label">Résolution vidéo :</string>
   <string name="video_info_video_coding_label">Format de codage vidéo :</string>
@@ -87,15 +90,15 @@ la vidéo sur votre box ou TV"</string>
   <string name="declaration">Conditions d\'utilisation</string>
   <string name="have_no_cameravideo">Aucune vidéo</string>
   <string name="no_video">Aucune vidéo</string>
-  <string name="video">Vidéo</string>
+  <string name="video">" "</string>
   <string name="myfavorite_onlylocal">Favoris</string>
-  <string name="favorite">Favoris</string>
+  <string name="favorite">" "</string>
   <string name="count_myfavorite">" favori(s)"</string>
   <string name="no_myfavorite_advice">" "</string>
   <string name="no_myfavorite">Aucun favori</string>
   <string name="no_favorite">Aucun favori</string>
-  <string name="count_ge">"%d élément(s) "</string>
-  <string name="gong_count_xiang">"%d vidéo(s) "</string>
+  <string name="count_ge">"Éléments : %d "</string>
+  <string name="gong_count_xiang">"Éléments : %d "</string>
   <string name="search">Recherche</string>
   <string name="video_library">Vidéo</string>
   <string name="director_colon">"Réalisateur : "</string>
@@ -205,8 +208,8 @@ la vidéo sur votre box ou TV"</string>
   <string name="other_setting">Autres</string>
   <string name="use_cellular_network">Utiliser le réseau cellulaire</string>
   <string name="use_cellular_network_summary">Autorise l\'utilisation des réseaux mobiles pour télécharger les vidéos</string>
-  <string name="auto_play">Lecture automatique</string>
-  <string name="auto_play_summary">Lire la vidéo pendant le chargement ou lorsque le téléchargement est terminé</string>
+  <string name="auto_play">Lecture en plein écran</string>
+  <string name="auto_play_summary">Après le chargement de la page, lire la vidéo en plein écran</string>
   <string name="continue_to_play_nextset">Lire l\'épisode suivant automatiquement</string>
   <string name="continue_to_play_nextset_summary">" "</string>
   <string name="search_result_recommend_hint">Aucun résultat</string>
@@ -258,15 +261,13 @@ la vidéo sur votre box ou TV"</string>
   <string name="network_setting">Réseau</string>
   <string name="media_source_unavailable">Source indisponible</string>
   <string name="sure">Accepter</string>
-  <string name="ok_no_more">OK et ne pas redemander</string>
+  <string name="ok_no_more">Ne pas redemander</string>
   <string name="loading_text"><CDATA>Chargement... </CDATA></string>
   <string name="declaration_content">"Acceptez-vous les conditions d\'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs de contenu vidéo ?"</string>
   <string name="declaration_content_short">"Acceptez-vous les conditions d\'utilisation stipulées par Sohu vidéo, iQiyi, et les autres fournisseurs ?"</string>
   <string name="home_net_title">Avertissement</string>
   <string name="home_net_content">Cette application va utiliser votre connexion au réseau mobile de données, continuer ?</string>
   <string name="backkey_remark">*Note : appuyez sur Retour pour quitter</string>
-  <string name="setting_use_network">Autoriser l\'utilisation du réseau</string>
-  <string name="setting_use_network_summery">Autorise l\'usage de données sur les réseaux mobiles</string>
   <string name="show_hidemedia">Afficher les fichiers masqués</string>
   <string name="notshow_hidemedia">Ne pas afficher les fichiers masqués</string>
   <string name="addon_category">Addons</string>
@@ -280,14 +281,22 @@ la vidéo sur votre box ou TV"</string>
   <string name="filter">Filtre</string>
   <string name="btnplayerforecast">Prévisions</string>
   <string name="btnplayerselect">Choisir une chaine</string>
+  <string name="suffix_countdown">secondes</string>
+  <string name="no_hot_special">Aucun addon</string>
  <!-- à vérifier -->
   <string name="mydlna">Ressources DLNA</string>
   <string name="dlna_name">Appareil partagé</string>
   <string name="dlna_list_name">Appareil DLNA</string>
   <!-- -->
-  
+  <string name="receive_ad_notify">Notifications de contenus</string>
+  <string name="receive_ad_notify_summary">Recevoir des notifications à propos de nouveaux contenus</string>
+  <string name="download_is_success">Téléchargement terminé</string>
+  <string name="setting_network_alert">Alerte réseau</string>
+  <string name="setting_network_alert_summery">Demander lors de la visualisation de vidéos</string>
+  <string name="have_no_offlinemedia">Vide</string>
  <!-- à traduire éventuellement (non visibles...?) :
-  <string name="no_hot_special">Empty</string>
+  <string name="ad_moredetail">more detail</string>
+  <string name="prefix_countdown">advertisement left:</string>
   <string name="add_more_addons">Add more</string>
   <string name="pick_addon_to_delete">Select items to delete</string>
   <string name="start_addon">Activate addon</string>
@@ -336,13 +345,11 @@ la vidéo sur votre box ou TV"</string>
   <string name="pick_hide_to_show">Choose items</string>
   <string name="hided_cannot_favorite">"Can't star hidden items"</string>
   <string name="favorited_cannot_hide">"Can't hide starred items"</string>
-  <string name="receive_ad_notify">Content notifications</string>
-  <string name="receive_ad_notify_summary">Receive notifications about new and updated online content</string>
   <string name="load_file_fail">Local file has been deleted</string>
   <string name="load_offline_file_fail">Local file no longer exists</string>
   <string name="load_failed_to_try">"Couldn't load file"</string>
   <string name="offline_media">Available offline</string>
-  <string name="have_no_offlinemedia">Empty</string>
+
   <string name="in_download_notification">%d videos downloaded</string>
   <string name="start_download">Downloading</string>
   <string name="pause_download">Download paused</string>

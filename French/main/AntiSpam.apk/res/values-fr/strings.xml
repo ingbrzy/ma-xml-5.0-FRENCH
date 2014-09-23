@@ -36,8 +36,7 @@
   <string name="dlg_retore_ok">Restaurer</string>
   <string name="fw_blocked">Statistiques de blocage</string>
   <string name="fw_blocked_count">"Bloqués : "</string>
-  <string name="fw_blocked_count_call">%d appel(s)</string>
-  <string name="fw_blocked_count_sms">" et %d SMS"</string>
+  <string name="fw_blocked_join">" et "</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">"%d personnes l\'ont marqué comme "</string>
   <string name="marked_by_user">"Vous l\'avez marqué comme "</string>
@@ -238,10 +237,8 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="AD_SCANNING">Analyse en cours…</string>
   <string name="AD_BLOCK_ALL">Tout bloquer</string>
   <string name="AD_SCAN_BUTTON">Analyser</string>
-  <string name="AD_NOT_BLOCK">Non bloqué</string>
+  <string name="AD_NOT_BLOCK">Autorisé</string>
   <string name="AD_BLOCKED">Bloqué</string>
-  <string name="AD_COUNT">%d adwares</string>
-  <string name="AD_TITLE_COUNT">%d applications contiennent des adwares</string>
   <string name="AD_TITLE_NON_COUNT">Aucun adware détecté</string>
   <string name="AD_BLOCK">Bloquer les adwares</string>
   <string name="AD_ALLOW">Autoriser les adwares</string>
@@ -262,14 +259,37 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="ad_block_hint">Bloqués : %d</string>
   <string name="ad_single_block_hint">Bloqué</string>
   <string name="ad_permission_hint">L\'utilisation d\'un bloqueur de publicités peut impacter les performances de l\'application ou l\'empêcher de fonctionner correctement"</string>
-  <string name="report">Rapport</string>
-  <string name="report_error">Merci, le rapport sera uploadé automatiquement lorsque vous serez connecté à un réseau Wi-Fi</string>
+  <string name="report">Signaler</string>
+  <string name="report_error">Merci, le signalement sera envoyé automatiquement lorsque vous serez connecté à un réseau Wi-Fi</string>
   <string name="report_only">Veuillez sélectionner au moins un message</string>
-  <string name="report_sms">Message</string>
-  <string name="report_success">Rapport envoyé</string>
-  
+  <string name="report_sms">Message de signalement</string>
+  <string name="report_success">Signalement envoyé</string>
+  <string name="button_to_setting">Paramètres</string>
   <!-- armani ? -->
   <string name="sim_not_ready">Carte SIM non prête</string>
   <string name="st_title_back_sound_unsetting">Aucun</string>
   <string name="st_title_not_sim">Vide</string>
+ <!-- à traduire -->
+  <string name="info_antispam_current_mode">Currently using %s</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Delete the Blocklist profile you're currently using and switch to Blocklist's default profile? You can't reverse this action!"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Delete the Blocklist profile you're currently using and switch to Blocklist's default profile? You can't reverse this action!"</string>
+  <string name="STRANGER_BLOCK">Stranger blocklist</string>
+  <string name="dlg_antispam_mode_delete_message">"You can't recover custom rules for blocklist after they've been deleted."</string>
+  <string name="dlg_antispam_mode_delete_title">Delete custom rules</string>
+ <string name="dlg_message_not_open_stranger_identify">You need to enable Identify unknown numbers in Phone &gt; Settings, before you can tag a number.</string>
+  <string name="dlg_title_not_open_stranger_identify">Enable Identify unknown numbers</string>
+  <string name="mark_agent">Sales agent</string>
+  <string name="mark_agent_block">Marked as agent</string>
+  <string name="mark_express">Courier</string>
+  <string name="mark_express_block">Marked as courier</string>
+  <string name="mark_fraud">Fraud</string>
+  <string name="mark_fraud_block">Marked as fraud</string>
+  <string name="mark_meal">Food delivery</string>
+  <string name="mark_meal_block">Marked as food delivery</string>
+  <string name="mark_number_info">"
+Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
+  <string name="mark_sell">Telemarketer</string>
+  <string name="mark_sell_block">Marked as telemarketer</string>
+  <string name="read_all_sms">Read all</string>
+  <string name="st_title_markednumber_group">Marked number blocklist</string>
 </resources>

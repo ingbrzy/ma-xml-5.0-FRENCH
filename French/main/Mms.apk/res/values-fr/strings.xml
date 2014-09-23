@@ -167,7 +167,7 @@
   <string name="edit">Modifier</string>
   <string name="edit_nickname_for_nocontact">Aucun destinataire trouvé. Vous devez avoir au moins un destinataire pour éditer son nom.</string>
   <string name="edit_nickname_for_nocontact_by_robot">Vous devez avoir au moins un destinataire pour éditer des noms.</string>
-  <string name="edit_phrase">Modifier la phrase</string>
+  <string name="edit_phrase">Modifier les phrases</string>
   <string name="edit_slide_activity">Modifier la diapositive</string>
   <string name="edit_slideshow_activity">Modifier le diaporama</string>
   <string name="enable_password_protect">Schéma de verrouillage requis</string>
@@ -192,8 +192,8 @@
   <string name="forward_prefix">"TR : "</string>
   <string name="found_old_messages">Transférer les messages de %1$s vers %2$s ?</string>
   <string name="found_old_messages_title">Transférer les messages depuis vos autres cartes SIM ?</string>
-  <string name="found_wild_messages">Récupérer les messages depuis vos autres cartes SIM ?</string>
-  <string name="found_wild_messages_title">Récupérer les messages</string>
+  <string name="found_wild_messages">Des messages reçus sur les numéros suivants ont été stockés sur votre MiCloud : %s. Souhaitez-vous les restaurer ?</string>
+  <string name="found_wild_messages_title">Récupération de messages</string>
   <string name="from_label">"De : "</string>
   <string name="group_message">Message groupé</string>
   <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
@@ -260,7 +260,7 @@
   <string name="mx_current_status">Statut : En ligne</string>
   <string name="mx_dspt">Envoyer des messages via internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
   <string name="mx_enable">Activer la messagerie cloud</string>
-  <string name="mx_enable_popup_msg">La messagerie cloud vous permet d\'envoyer des messages via MIUI. L\'envoi d\'un SMS est nécessaire pour activer la fonction, il vous sera facturé le prix d\'un SMS international si vous ne vous trouvez pas en Chine. Voulez-vous l\'activer maintenant ?</string>
+  <string name="mx_enable_popup_msg">La messagerie cloud vous permet d\'envoyer gratuitement des messages entre utilisateurs de cette fonction.</string>
   <string name="mx_msg">Message Cloud</string>
   <string name="mx_offline">Hors-ligne</string>
   <string name="mx_online">En ligne</string>
@@ -493,7 +493,7 @@
   <string name="confirm_send_mms">L\'un des destinataires contient une adresse e-mail. Ce message sera envoyé en tant que MMS.</string>
   <string name="quick_reply">Répondre</string>
   <string name="sp_category_title_prefix">%s</string>
-  <string name="sp_category_all">Tout les messages de services</string>
+  <string name="sp_category_all">Tous les messages de services</string>
   <string name="sp_category_bank">Messages de services bancaires</string>
   <string name="alert_dlg_cancel_button">Annuler</string>
   <string name="alert_dlg_ok_button">OK</string>
@@ -508,7 +508,8 @@
   <string name="file_create_time">Date :</string>
   <string name="file_size">Taille :</string>
   <string name="file_title">Nom :</string>
-  
+  <string name="mx_on_sim_1">Messagerie cloud avec la SIM %s</string>
+  <string name="mx_on_sim_2">Messagerie cloud avec la SIM %</string>
  <!-- à traduire
   <string name="app_name">Device Management</string>
   <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service. Are you sure to cancel?</string>

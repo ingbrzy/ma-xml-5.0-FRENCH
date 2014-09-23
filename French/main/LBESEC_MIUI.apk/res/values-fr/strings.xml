@@ -24,13 +24,13 @@
   <string name="Dashboard_Perm_AutoStart">Démarrage</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Activer ou désactiver le démarrage automatique des applications</string>
   <string name="Dashboard_Perm_HIPS">Gérer les permissions des applications</string>
-  <string name="Dashboard_Perm_HIPS_Desc">Surveillance de %1$d application(s)</string>
-  <string name="Dashboard_Perm_HIPS_Desc2">Surveillance de %1$d application(s)</string>
+  <string name="Dashboard_Perm_HIPS_Desc">Applications surveillées : %1$d</string>
+  <string name="Dashboard_Perm_HIPS_Desc2">Applications surveillées : %1$d</string>
   <string name="Dashboard_Perm_HIPS_Disabled">La surveillance des permissions est désactivée</string>
   <string name="Dashboard_Perm_HIPS_Risky">Permissions risquées (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Safe">Permissions normales (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Switch">Moniteur de permission</string>
-  <string name="Dashboard_Perm_Header">Surveillance de %1$d application(s)</string>
+  <string name="Dashboard_Perm_Header">Applications surveillées : %1$d</string>
   <string name="Dashboard_Perm_Header_Disabled">Le moniteur de permission est désactivé</string>
   <string name="Dashboard_Perm_SU">Gérer les permissions ROOT</string>
   <string name="Dashboard_Perm_SU_Desc">Surveillance de %1$d application(s) pour les permissions ROOT</string>
@@ -46,7 +46,7 @@
   <string name="Generic_Check">Vérifier</string>
   <string name="Generic_Clean">Nettoyer</string>
   <string name="Generic_Configuration">Paramètres</string>
-  <string name="Generic_Copyright">Support fourni par Xiaomi</string>
+  <string name="Generic_Copyright">Service fourni par Xiaomi</string>
   <string name="Generic_Disable">Désactiver</string>
   <string name="Generic_Enable">Activer</string>
   <string name="Generic_Good">Correct</string>
@@ -78,7 +78,7 @@
   <string name="HIPS_Action_Reject_Count">Refusé : %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Confidentialité</string>
   <string name="HIPS_Group_Expense">Sécurité</string>
-  <string name="HIPS_Group_Internet">Accès Internet</string>
+  <string name="HIPS_Group_Internet">Accès internet</string>
   <string name="HIPS_Group_Location">Positionnement</string>
   <string name="HIPS_Group_PIM">Informations personnelles</string>
   <string name="HIPS_Group_PhoneID">Identification du téléphone</string>
@@ -118,8 +118,8 @@
   <string name="HIPS_Perm_Location_Source_GPS">Source : GPS</string>
   <string name="HIPS_Perm_Location_Source_Network">Source : Réseau</string>
   <string name="HIPS_Perm_MobileNetwork">Réseau mobile</string>
-  <string name="HIPS_Perm_MobileNetwork_Desc">Accéder à Internet via le réseau mobile</string>
-  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s applis peuvent accéder à Internet</string>
+  <string name="HIPS_Perm_MobileNetwork_Desc">Accéder à internet via le réseau mobile</string>
+  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s applis peuvent accéder à internet</string>
   <string name="HIPS_Perm_Network_Accept">Autoriser la connexion de %1$s</string>
   <string name="HIPS_Perm_Network_Connect">Se connecter à %1$s</string>
   <string name="HIPS_Perm_Network_Listen">Écouter sur le port %1$s</string>
@@ -159,8 +159,8 @@
   <string name="HIPS_Perm_SendSMS_Text">envoyer un SMS à %1$s</string>
   <string name="HIPS_Perm_SilenceRinger">Couper la sonnerie</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">Accéder à Internet via Wi-Fi</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s applis peuvent accéder à Internet</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">Accéder à internet via Wi-Fi</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s applis peuvent accéder à internet</string>
   <string name="HIPS_SecurityPrompt_Accept">Autorisé (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Autoriser</string>
   <string name="HIPS_SecurityPrompt_Caption">Avertissement de sécurité</string>
@@ -236,8 +236,8 @@
   <string name="HIPS_Perm_Notification">Afficher des notifications</string>
   <string name="HIPS_Perm_Notification_Desc">Afficher des notifications dans la barre de\'état</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s applis peuvent afficher des notifications</string>
-  <string name="HIPS_Perm_Calendar">Accéder au calendrier</string>
-  <string name="HIPS_Perm_Calendar_Desc">Accès aux données du calendrier</string>
+  <string name="HIPS_Perm_Calendar">Calendrier</string>
+  <string name="HIPS_Perm_Calendar_Desc">Accéder aux données du calendrier</string>
   <string name="HIPS_Perm_Calendar_Hint">%1$s applis peuvent accéder au calendrier</string>
   <string name="HIPS_Perm_SystemAlert">Afficher des pop-up</string>
   <string name="HIPS_Perm_SystemAlert_Desc">Afficher une fenêtre flottante</string>

@@ -5,7 +5,7 @@
 <!-- supprimé 4.7.11 -->
   <string name="status_bar_toggle_power_low">Économie d\'énergie</string>
 <!-- -->
-  <string name="accessibility_airplane_mode">Mode Avion</string>
+  <string name="accessibility_airplane_mode">Mode avion</string>
   <string name="accessibility_back">Retour</string>
   <string name="accessibility_battery_level">Batterie à %d pour cent</string>
   <string name="accessibility_bluetooth_connected">Bluetooth connecté</string>
@@ -59,9 +59,9 @@
   <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
   <string name="always_use_device">Utiliser par défaut pour ce périphérique USB</string>
   <string name="app_label">IU système</string>
-  <string name="battery_low_percent_format">%d%% restants.</string>
+  <string name="battery_low_percent_format">%d%% restants</string>
   <string name="battery_low_subtitle">Le niveau de la batterie est faible.</string>
-  <string name="battery_low_title">Brancher le chargeur</string>
+  <string name="battery_low_title">Veuillez connecter le chargeur</string>
   <string name="battery_low_why">Utilisation batterie</string>
   <string name="bluetooth_tethered">Connexion Bluetooth partagée</string>
   <string name="call_status_dialing">Numérotation</string>
@@ -97,7 +97,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="dlg_confirm_kill_storage_users_title">Activer la mémoire de stockage USB</string>
   <string name="dlg_error_title">Mode USB échoué</string>
   <string name="dlg_ok">OK</string>
-  <string name="drive_mode_tip">Mode Voiture activé - Gardez un œil sur la route</string>
+  <string name="drive_mode_tip">Mode voiture activé - Gardez un œil sur la route</string>
   <string name="ext_media_badremoval_notification_message">Démontez la carte SD avant de la retirer pour éviter toute perte de données.</string>
   <string name="ext_media_badremoval_notification_title">La carte SD a été retirée de façon inattendue</string>
   <string name="ext_media_checking_notification_message">Vérification des erreurs.</string>
@@ -172,7 +172,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="oldman_incall_text">en appel</string>
   <string name="recent_apps_key">Touche des applications récentes</string>
   <string name="recent_apps_key_show">Afficher la touche</string>
-  <string name="return_to_incall_screen">Appuyez pour revenir à l\'appel</string>
+  <string name="return_to_incall_screen">Appuyer pour revenir à l\'appel</string>
   <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
   <string name="screen_button_disabled_message">Les touches du bas de l\'écran sont désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
   <string name="screen_button_enabled_message">Les touches du bas de l\'écran sont activées</string>
@@ -184,7 +184,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="screen_key_recent_apps">Touche Applications récentes</string>
   <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillée en mode paysage</string>
   <string name="screenshot_failed_text">Impossible enregistrer capture d\'écran. Périphérique de stockage peut-être en cours d\'utilisation.</string>
-  <string name="screenshot_saved_text">Appuyez pour l\'afficher</string>
+  <string name="screenshot_saved_text">Appuyer pour l\'afficher</string>
   <string name="screenshot_saved_title">Capture d\'écran réussie</string>
   <string name="screenshot_saving_text">Enregistrement de la capture d\'écran en cours…</string>
   <string name="screenshot_saving_ticker">Enregistrement de la capture d\'écran…</string>
@@ -226,15 +226,15 @@ d MMMM yyyy"</string>
   <string name="status_bar_recent_inspect_item_title">Informations sur l\'application</string>
   <string name="status_bar_recent_memory_info">%1$so / %2$so</string>
   <string name="status_bar_recent_remove_item_title">Supprimer de la liste</string>
-  <string name="status_bar_recording_back">Appuyez pour retourner au dictaphone</string>
+  <string name="status_bar_recording_back">Appuyer pour retourner au dictaphone</string>
   <string name="status_bar_recording_pause">Enregistrement mis en pause.</string>
-  <string name="status_bar_settings_airplane">Mode Avion</string>
+  <string name="status_bar_settings_airplane">Mode avion</string>
   <string name="status_bar_settings_auto_brightness_label">Auto</string>
   <string name="status_bar_settings_auto_rotation">Rotation automatique de l\'écran</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_notifications">Notifications</string>
   <string name="status_bar_settings_settings_button">Paramètres</string>
-  <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion Internet</string>
+  <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion internet</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Connecté au Wi-Fi</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_style_settings">Paramètres de la barre d\'état</string>
@@ -244,8 +244,8 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_brightness">Luminosité</string>
   <string name="status_bar_toggle_data">Données</string>
   <string name="status_bar_toggle_divider">Plus</string>
-  <string name="status_bar_toggle_drive_mode">Mode Voiture</string>
-  <string name="status_bar_toggle_flight_mode">Mode Avion</string>
+  <string name="status_bar_toggle_drive_mode">Mode voiture</string>
+  <string name="status_bar_toggle_flight_mode">Mode avion</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Verrouiller</string>
   <string name="status_bar_toggle_mute">Silencieux</string>
@@ -291,7 +291,7 @@ d MMMM yyyy"</string>
   <string name="usb_mode_mount_storage_title">Ouvrir le périphérique de stockage USB ?</string>
   <string name="usb_mode_notification">Périphérique de stockage USB</string>
   <string name="usb_mtp_text">Fichiers</string>
-  <string name="usb_notification">Périphérique USB connecté</string>
+  <string name="usb_notification">USB connecté</string>
   <string name="usb_notification_mtp_info">Accéder aux fichiers stockés sur cet appareil.</string>
   <string name="usb_notification_mtp_problem">Aide &gt;</string>
   <string name="usb_notification_mtp_ticker_text">Périphérique USB connecté (mode fichiers)</string>

@@ -90,6 +90,7 @@
 
 ** Autres **
 
+* A0001: OnePlusOne kk 4.4
 * amoi77_cu_jb2: AMOI N821 jb-4.2
 * C8690: Newman N2 jb-4.1
 * FIND5: Oppo Find 5 jb-4.1

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
 <resources>
@@ -72,6 +72,7 @@
   <string name="send_int_sms_for_sync_notice">Un SMS va être envoyé à votre appareil au tarif de votre opérateur. Êtes-vous sûr de vouloir continuer ?</string>
   <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
  <!-- -->
+  <string name="activate">Activer</string>
   <string name="access_denied">Impossible d\'accéder à votre application mail</string>
   <string name="access_token_expired_warning">Votre compte Weibo a expiré, veuillez le réassocier</string>
   <string name="access_token_invalid_warning">Compte Weibo est non valide.</string>
@@ -95,7 +96,7 @@
   <string name="add_weibo_account">Associer un compte</string>
   <string name="alert_title_remove_account">Supprimer les données synchronisée ?</string>
   <string name="alert_notif_title_dspt">Vos données seront perdues si vous égarez votre téléphone</string>
-  <string name="app_name">MiCloud Framework</string>
+  <string name="app_name">Xiaomi Service Framework</string>
   <string name="bad_authentication">Identifiant ou mot de passe incorrect</string>
   <string name="bind_sina_weibo">Autoriser Sina Weibo</string>
   <string name="bind_weibo_description">Trouver les contacts téléphoniques, amis et d\'autres informations directement à partir de votre compte.</string>
@@ -106,9 +107,9 @@
   <string name="checking_input">Vérification de la saisie…</string>
   <string name="cloud_messaging">Messagerie MiCloud</string>
   <string name="cmcc_data_sync_notice">Synchronisez vos messages, contacts et autres données entre différents appareils.</string>
-  <string name="cmcc_micloud_dspt">Les services MiCloud incluent la synchronisation mobile, la localisation de l’appareil et d\'autres services. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
+  <string name="cmcc_micloud_dspt">Le service MiCloud inclut la synchronisation des données de l’appareil, sa localisation et d\'autres services. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
   <string name="completed">Terminé</string>
-  <string name="confirm">Confirmer</string>
+  <string name="confirm">OK</string>
   <string name="data_keep_in_phone">Conserver les données sur l\'appareil</string>
   <string name="data_sync_notice">Utilisez votre compte Mi pour synchroniser vos messages, vos contacts et autres données.</string>
   <string name="data_wipe_from_phone">Supprimer de mon appareil</string>
@@ -177,7 +178,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="micloud_click_email">\n\nPour activer votre compte, /n suivez le lien dans le mail d\'activation.</string>
   <string name="micloud_click_email_to_valid">\n\nPour activer votre compte, suivez le /n lien d\'activation envoyé sur votre boîte mail.</string>
   <string name="micloud_delete_account">Supprimer le compte</string>
-  <string name="micloud_dspt">Les services de synchronisation incluent la messagerie MiCloud, la synchronisation mobile, la localisation de l\'appareil et d\'autres fonctionnalités. Vous pouvez aussi gérer vos données en ligne à tout moment !</string>
+  <string name="micloud_dspt">"Ce service inclut la messagerie MiCloud, la synchronisation des données de l’appareil, sa localisation et d'autres fonctionnalités. Vous pouvez aussi gérer vos données en ligne à tout moment !"</string>
   <string name="micloud_email">Adresse mail</string>
   <string name="micloud_error_email">Adresse mail non valide</string>
   <string name="micloud_error_empty_captcha_code">Saisissez le code captcha</string>
@@ -248,6 +249,8 @@ Vous pouvez faire autre chose…"</string>
   <string name="user_agreement_p4">Règles de confidentialité</string>
   <string name="user_agreement_p5">"En vous inscrivant, vous acceptez les
 "</string>
+  <string name="user_agreement_p6">En activant la synchronisation, vous acceptez les </string>
+  <string name="user_agreement_p7">"Conditions d\'utilisation de Mi Cloud"</string>
   <string name="vcode">Code de vérification</string>
   <string name="vcode_prompt_long">Veuillez saisir le code de vérification généré par Xiaomi</string>
   <string name="vcode_notification_title">La vérification de votre compte est incomplète.</string>
@@ -308,12 +311,12 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="activate_popup_title_failed_query_info">Échec de l\'activation</string>
   <string name="activate_popup_title_failed_send_sms">Échec de l\'activation</string>
   <string name="sim_unactivated_title">Votre carte SIM n\'est pas activée</string>
-  <string name="activate_popup_title_new_sim_card">Activation de la nouvelle carte SIM</string>
+  <string name="activate_popup_title_new_sim_card">Réactivation de %s</string>
   <string name="activate_feature_mx">messagerie MIUI Cloud</string>
   <string name="activate_feature_mms_sync">synchronisation des SMS</string>
   <string name="activate_feature_call_log_sync">synchronisation du journal d\'appels</string>
   <string name="activate_feature_find_device">géolocalisation de votre appareil</string>
-  <string name="activate_popup_title_manual">Activation de la carte SIM</string>
+  <string name="activate_popup_title_manual">Activation de %s</string>
   <string name="activate_status_desc_registering_sim_account">Enregistrement de la carte SIM sur le serveur</string>
   <string name="activate_status_desc_registering_sim_account_server_error">Une erreur serveur s\'est produite lors de l\'enregistrement de votre carte SIM</string>
   <string name="activate_status_desc_checking_xiaomi_account">Vérification du compte Mi sur le serveur</string>
@@ -324,7 +327,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="activate_status_desc_wait_for_sms_fail">"Erreur, SMS d'activation non reçu"</string>
   <string name="activate_status_desc_wait_for_sms">En attente de réception du SMS d\'activation</string>
   <string name="activate_status_desc_wait_for_sms_success">SMS d\'activation reçu</string>
-  <string name="activate_popup_title_register_account">Enregistrement compte Mi</string>
+  <string name="activate_popup_title_register_account">Créer un compte Mi</string>
   <string name="activate_popup_desc_register_account">Un SMS va être envoyé afin d\'activer votre compte Mi</string>
   <string name="activate_popup_desc_register_account_intl">Un SMS international va être envoyé afin d\'activer votre compte Mi</string>
   <string name="activate_popup_desc_register_account_downlink">Veuillez saisir votre numéro de téléphone afin de valider l\'enregistrement de votre compte Mi</string>
@@ -360,4 +363,31 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="bank_cards">Cartes bancaires</string>
   <string name="error_login">Impossible de ce connecter</string>
   <string name="relogin_notice">Veuillez vous reconnecter</string>
+  <string name="barcode_add_account_prompt">Pour ajouter un compte, veuillez rescanner le code QR après vous être connecté.</string>
+  
+<!-- à traduire -->
+<string name="cloud_message_notice">"Cloud Messaging lets you send text messages to other MIUI users without incurring SMS charges.
+
+You can turn this feature on and off anytime in settings."</string>
+  <string name="all_cloud_service_dspt">"Choose which of the Mi Cloud services below you would like to use.
+You can turn them on and off anytime in Settings."</string>
+<string name="find_device_dspt_in_all_setting_1">"Locate, lock, or reset your device from any browser at "</string>
+  <string name="find_device_dspt_in_all_setting_2">i.mi.com</string>
+  <string name="find_device_dspt_in_all_setting_3"/>
+  <string name="mx_dspt_in_all_setting">Send SMS messages to other MIUI users for free</string>
+  <string name="sms_prompt_set_all">these services</string>
+  <string name="sms_prompt_set_single">this service</string>
+  <string name="sync_dspt_in_all_setting">Sync your photos, text messages, notes, and more across your Mi devices</string>
+  <string name="cloud_messaging_dspt">Enable Cloud Messaging</string>
+  <string name="error_ssl_hand_shake">"Couldn't connect to server. Check your system's date and time settings."</string>
+  <string name="find_device_additional_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this service.</string>
+  <string name="find_device_notice_1">"If you lose your device, you can go to "</string>
+  <string name="find_device_notice_2">i.mi.com</string>
+  <string name="find_device_notice_3">" to find, lock, or reset it.
+
+You can turn this service on and off anytime in Settings."</string>
+  <string name="sms_prompt_cloud_messaging">Cloud Messaging</string>
+  <string name="sms_prompt_cloud_service">MiCloud Service</string>
+  <string name="sms_prompt_find_device">Find Device</string>
+  <string name="sms_prompt_sync">sync</string>
 </resources>
