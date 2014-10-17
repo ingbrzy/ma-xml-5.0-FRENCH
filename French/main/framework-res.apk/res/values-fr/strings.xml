@@ -21,6 +21,7 @@ framework 4.1, 4.2 et 4.4 + quelques strings constructeurs, utilisé uniquement 
 
  -->
 <resources>
+    <string name="transient_navigation_confirmation_long">Glissez à partir du bord de l\'écran pour afficher la barre d\'état</string>
     <string name="cancel">Annuler</string>
     <string name="copy">Copier</string>
     <string name="copyUrl">Copier l\'URL</string>

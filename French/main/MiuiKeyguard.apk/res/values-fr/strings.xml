@@ -90,4 +90,7 @@ Réessayer dans %d secondes."</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
   <string name="lockscreen_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie.</string>
    <string name="starting_camera_string">Initialisation de la caméra</string>
+   <string name="bluetooth_unlock_rssi_far_debug_msg">Périphérique bluetooth trop éloigné pour déverrouiller.</string>
+   <string name="empty_password_error_msg">Erreur, veuillez saisir un mot de passe</string>
+   <string name="miui_keyguard_ble_unlock_succeed_msg">Déverrouillé via bluetooth</string>
 </resources>

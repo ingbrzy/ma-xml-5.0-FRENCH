@@ -761,9 +761,8 @@
   <string name="close_cloud_tab_tip">Fermer les onglets sur %s ?</string>
   <string name="bookmarks_history">Favoris/Historique</string>
   <string name="delete_homepage">Supprimer la page d\'accueil</string>
-<!-- à traduire -->
-  <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to verify its security. You can turn this feature off anytime in Settings."</string>
-  <string name="show_check_security_url_check_tip_dialog_title">URL security</string>
-  <string name="pref_check_security_url_summary">"Send websites' URLs to Xiaomi's servers for validation"</string>
-  <string name="pref_check_security_url_title">Check URL security</string>
+  <string name="pref_check_security_url_summary">"Envoi l\'adresse des sites web vers les serveurs de Xiaomi afin vérifier sa sécurité"</string>
+  <string name="pref_check_security_url_title">Vérifier les liens</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Information</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"L'adresse de ce site sera envoyée vers les serveurs de Xiaomi afin vérifier sa sécurité. Vous pouvez désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
 </resources>

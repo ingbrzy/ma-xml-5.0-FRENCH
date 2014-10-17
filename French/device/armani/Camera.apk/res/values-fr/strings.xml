@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+  <string name="pref_burst_shoot_title">Mode rafale</string>
+  <string name="burst_shoot_exit_button_text">Quiiter le mode rafale</string>
   <string name="pref_long_press_shutter_button_focus_title">Appui long sur déclencheur pour focus</string>
   <string name="Import">Importer</string>
   <string name="access_sd_fail">Impossible d\'accéder à la mémoire de stockage USB.</string>
@@ -181,7 +184,7 @@
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
-  <string name="pref_camera_antibanding_title">Filtre à bande passante</string>
+  <string name="pref_camera_antibanding_title">Filtre de bande passante</string>
   <string name="pref_camera_audio_capture_title">Capture audio</string>
   <string name="pref_camera_auto_focus_title_entry_off">Désactivé</string>
   <string name="pref_camera_auto_focus_title_entry_on">Activé</string>

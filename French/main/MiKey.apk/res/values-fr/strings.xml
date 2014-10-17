@@ -2,6 +2,45 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+    <string name="search_cancel_text">Annuler</string>
+    <string name="search_go_text">Texte</string>
+    <string name="search_select_title">Rechercher texte</string>
+    <string name="action_key_back">Retour</string>
+    <string name="action_key_back_long">Retour (Appui long)</string>
+    <string name="action_key_call">Appeler</string>
+    <string name="action_key_direction">Direction</string>
+    <string name="action_key_end_call">Fin d\'appel</string>
+    <string name="action_key_enter">Entrée</string>
+    <string name="action_key_home">Accueil</string>
+    <string name="action_key_home_long">Accueil (Appui long)</string>
+    <string name="action_key_menu">Menu</string>
+    <string name="action_key_menu_long">Menu (Appui long)</string>
+    <string name="action_key_play_next">Suivant</string>
+    <string name="action_key_play_pause">Pause/Lecture</string>
+    <string name="action_key_play_prev">Précédent</string>
+    <string name="action_key_power">Power</string>
+    <string name="action_key_power_long">Power (Appui long)</string>
+    <string name="action_search">Recherche</string>
+    <string name="category_0">App</string>
+    <string name="category_1">Paramètres système</string>
+    <string name="category_2">Touches</string>
+    <string name="super_difficult_click">"Résistance : "</string>
+    <string name="key_direction_down">Bas</string>
+    <string name="key_direction_left">Gauche</string>
+    <string name="key_direction_right">Droite</string>
+    <string name="key_direction_up">Haut</string>
+    <string name="click_count_union">" fois"</string>
+    <string name="click_type_0">Zéro</string>
+    <string name="click_type_1">Une</string>
+    <string name="click_type_10">Dix</string>
+    <string name="click_type_2">Deux</string>
+    <string name="click_type_3">Trois</string>
+    <string name="click_type_4">Quatre</string>
+    <string name="click_type_5">Cinq</string>
+    <string name="click_type_6">Six</string>
+    <string name="click_type_7">Sept</string>
+    <string name="click_type_8">Huit</string>
+    <string name="click_type_9">Neuf</string>
     <string name="app_name">MiKey</string>
     <string name="short_click_1">1x</string>
     <string name="short_click_2">2x</string>
@@ -55,7 +94,7 @@
     <string name="select_device">Sélectionner un périphérique</string>
     <string name="times">clics</string>
     <string name="rank_prefix">"Classement : "</string>
-    <string name="rank_suffix">" points"</string>
+    <string name="rank_suffix"><sup><small>e</small></sup></string>
     <string name="no_usage">…</string>
     <string name="device_not_recognized">Erreur de reconnaissance, veuillez ré-insérer la MiKey</string>
     <string name="clean_memory">Nettoyage de la mémoire effectué</string>

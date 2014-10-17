@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="app_name">Mi Authenticator</string>
   <string name="app_name_short">Authenticator</string>
   <string name="enter_key_title">Saisie manuelle du compte</string>
@@ -69,7 +70,7 @@
   <string name="howitworks_page_verify_device_details">"Vous pouvez également choisir de se rappeler de l\'appareil et Xiaomi ne vous redemandera pas de code."</string>
   <string name="button_exit_howitworks_flow">Quitter</string>
   <string name="welcome_page_title">Protection par vérification en 2 étapes</string>
-  <string name="welcome_page_details">"— Protège votre compte Mi contre les accès non autorisées
+  <string name="welcome_page_details">"— Protège votre compte Mi contre les accès non autorisés
 — En cas de perte ou vol de votre appareil, vos identifiants Mi sont sécurisés"</string>
   <string name="welcome_page_alert" />
   <string name="acknowledge_btn">Continuer</string>

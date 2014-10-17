@@ -52,7 +52,7 @@
 <string name="pref_camera_iso_title">ISO</string>
 <string name="pref_camera_iso_entry_auto">Automatique</string>
 <string name="pref_camera_iso_entry_isodeblur">ISO Auto(HJR)</string>
-<string name="pref_camera_antibanding_title">Filtre à bande passante</string>
+<string name="pref_camera_antibanding_title">Filtre de bande passante</string>
 <string name="pref_camera_antibanding_entry_0">Off</string>
 <string name="pref_camera_antibanding_entry_1">50 Hz</string>
 <string name="pref_camera_antibanding_entry_2">60 Hz</string>
